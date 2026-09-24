@@ -1,0 +1,9 @@
+[project]
+name = "ilias-latina"
+version = "0.1.0"
+description = "Texts and tools for writing a commentary on the Latin text of the Ilias Latina"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+]
