@@ -1,8 +1,10 @@
 # Scripts
 
-Scripts that build the Latin text, the Portuguese translation and the
-parallel text.  All outputs go into `tmp/` (ignored by git), except
-`make text`, which writes the published text `../texts/ilias.txt`.
+Scripts that build the Latin text, organize the public-domain editions
+for reference, and build the Portuguese translation and the parallel
+text.  All outputs go into `tmp/` (ignored by git), except `make text`,
+which writes the published text `../texts/ilias.txt`, and `make
+vollmer`, which writes `../texts/6-vollmer/` once.
 
 ## Requirements
 
@@ -18,6 +20,7 @@ Run the commands in this directory.  `make` with no target shows the help.
 make                # show help
 make all            # download the Latin text and number the verses
 make text           # add the book headings (../texts/ilias.txt)
+make vollmer        # extract Vollmer's edition once (../texts/6-vollmer/)
 ```
 
 To process the Portuguese edition, put the PDF anywhere (for example in
@@ -37,6 +40,7 @@ make parts PDF="tmp/book.pdf"   # split the whole book into sections
 | `download` | `ilias.html` — the page from The Latin Library | — |
 | `all` | `ilias.txt` — Latin text, `N TEXT` per verse | `extract.py` |
 | `text` | `../texts/ilias.txt` — the same with `## N` book headings | `books.py` |
+| `vollmer` | `../texts/6-vollmer/*.md` — Vollmer's edition by page (downloads the scan to `tmp/`) | `vollmer.py` |
 | `pt` | `ilias_pt.txt` — Portuguese translation, `LABEL TEXT` per verse | `extract_pt.py` |
 | | `ilias_la_pt.txt` — Latin and Portuguese interleaved | `parallel.py` |
 | `parts` | `parts/NN_name.txt` — the book split at its section headings | `split_pt.py` |
@@ -47,6 +51,7 @@ file for details.
 ```sh
 uv run python extract.py tmp/ilias.html tmp/ilias.txt
 uv run python books.py tmp/ilias.txt ../texts/ilias.txt
+uv run python vollmer.py tmp/6-p1poetaelatinimi02baeh.pdf tmp/ilias.txt ../texts/6-vollmer
 uv run python extract_pt.py [-v] BOOK.pdf tmp/ilias_pt.txt
 uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 uv run python split_pt.py BOOK.pdf tmp/parts
@@ -85,6 +90,32 @@ edit the first verses of the books in `STARTS` in `books.py` and run
 
 A book is defined only by its first verse and runs up to the verse before
 the next book, so verse 791 (`<>`) falls in book 14.
+
+## Vollmer's edition
+
+`vollmer.py` reads the text layer of the Internet Archive scan (the OCR)
+with the position of every word (`pdftotext -bbox-layout`).
+
+- On a text page the OCR gives the verses and the notes the same size,
+  so they are told apart by their content: a verse row matches a verse
+  of The Latin Library (`tmp/ilias.txt`), a note row does not and has
+  sigla, numbers or brackets.  The notes begin where the fewest rows are
+  out of place; among equal places, at the widest gap (the rule).
+- Words left of the verses are the margin (*Iliad* lines), words at the
+  right edge the printed verse number.  The notes are split into
+  testimonia and apparatus at the widest gap, and the apparatus into
+  items at the verse numbers of the page.
+- Each verse is numbered by matching it with the nearest similar verse
+  of The Latin Library, so that the OCR of the printed numbers is not
+  needed.  Rows that match poorly are reported on stderr.
+- The index of names is read column by column; an entry begins at the
+  left edge and continues in indented rows.
+- The few cases the rules get wrong are fixed by hand in the script
+  (`NOTES_START`, `VERSE_FIXES`).
+- The script is run only once.  The output is then corrected by hand
+  against the page images and committed, so `make vollmer` does nothing
+  when `../texts/6-vollmer/ilias.md` exists; running `vollmer.py`
+  directly overwrites the corrections.
 
 ## How the PDF is read
 

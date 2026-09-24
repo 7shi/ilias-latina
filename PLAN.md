@@ -48,8 +48,9 @@ data and checked by hand against the page images on archive.org.
    verses in the same way.  Extract the text of the poem with its verse
    numbers from each edition (Lemaire [2], Baehrens [3], Plessis [4],
    Vollmer [6]) and align it with The Latin Library text, noting
-   omitted, added and transposed verses (e.g. Vollmer prints 790 after
-   794) and differences in the book divisions.  All other tables are
+   omitted, added and transposed verses (e.g. Vollmer prints 597 after
+   601, as Scaffai does, and 790 after 794) and differences in the book
+   divisions.  All other tables are
    keyed to The Latin Library numbering through this concordance.
 2. From Vollmer [6]: extract the Iliad line numbers from the margin and
    build a table *Latin verse → Iliad lines*.  This also gives the list of
@@ -61,13 +62,49 @@ data and checked by hand against the page images on archive.org.
    sources are in the public domain, so processed texts derived from them
    can be published.
 
+### Handling of the sources
+
+- Organized for reference: Lemaire [2], Baehrens [3], Plessis [4] and
+  Vollmer [6].  The pages on the *Ilias Latina* are first turned into
+  structured text from the OCR (see [Order of work](#order-of-work) and
+  [Editing the processed texts](#editing-the-processed-texts)).  The
+  PDFs of [3], [4] and [6] also have a text layer that can be searched
+  page by page; [2] has none.
+- OCR text only: Spondanus [1] (text without notes, cited only as
+  evidence of the attribution) and Butler [5] (a few pages on the poem).
+- [3] and [6] contain several volumes or fascicles, so the pages of the
+  *Ilias Latina* are located first.
+- Pages are cited as printed in the book, not by the page number of the
+  PDF.
+
+### Editing the processed texts
+
+- A script in `src/` extracts each source from its OCR only once (e.g.
+  `make vollmer` for `texts/6-vollmer/`).  The OCR is left as it is, so
+  the first version is uncorrected.
+- From then on the files are corrected by hand, directly in place, and
+  the corrections are committed.  Corrections are not kept in the
+  scripts, and `make` does not rebuild a file that exists: running the
+  script again would overwrite the corrections.
+- A passage is corrected when it is used, or when an error is noticed,
+  by reading the page image: at 150 dpi, or rendered again at 300–600
+  dpi where small type (sigla, superscripts, punctuation) is unclear.
+  Quotations, verse numbers, *Iliad* line numbers and sigla are always
+  checked before they are used.
+- Conventions for the corrected text: the sigla as printed, with Greek
+  letters for the editions and the archetype (Ω, α β δ φ λ) and
+  superscript numerals for the hands of a manuscript (G¹, W²); `|` for
+  the separator between readings; abbreviation marks of a manuscript
+  kept where printed (e.g. *Aptũ*).
+
 ## Layout
 
 `src/` holds only the scripts.  The work is done in separate directories:
 
 - `texts/` — processed texts from the public-domain sources, one
-  subdirectory per book of the Internet Archive list (e.g.
-  `texts/6-vollmer/`), with the tables described above.  The Latin
+  subdirectory per book of the Internet Archive list, named by its
+  number and the editor (e.g. `texts/6-vollmer/`), with the tables
+  described above.  The Latin
   Library text is published here as `texts/ilias.txt`: one continuous
   file with a heading for each book, so that the divisions can still be
   adjusted.
@@ -92,18 +129,29 @@ divisions and is used only as an aid for checking the content.
 1. Mark the 24 books in The Latin Library text with headings, using the
    divisions in `texts/README.md` (based on the Portuguese translation
    and checked against the Latin).  Done: `texts/ilias.txt`.
-2. Build the verse concordance (step 1 above) and compare the book
-   divisions of the other editions; adjust the first verses in
-   `src/books.py` and rebuild `texts/ilias.txt` if needed.
-3. Build the Vollmer table (step 2 above) for book 1 and check it.
+2. Organize the sources for reference, one at a time: Vollmer [6],
+   Baehrens [3], Plessis [4], Lemaire [2].  The pages on the *Ilias
+   Latina* are turned into structured text in `texts/` (e.g.
+   `texts/6-vollmer/`), arranged by printed page and keyed to the
+   verse numbers of The Latin Library: the text, the *Iliad* line
+   numbers in the margin, the apparatus and notes split by verse, the
+   preface, and the indexes.  The OCR text is the basis and is corrected
+   by hand afterwards (see
+   [Editing the processed texts](#editing-the-processed-texts)).
+   Done for Vollmer: `texts/6-vollmer/`.
+3. Collate the sources (steps 1–4 of
+   [Preparing the sources](#preparing-the-sources)): the verse
+   concordance, the book divisions of the editions (adjusting
+   `src/books.py` if needed) and the tables keyed to The Latin Library
+   numbering.
 4. Write the notes for book 1 as a pilot and settle the format of the
    notes.
-5. Build the remaining tables and proceed book by book.
+5. Proceed book by book.
 
 ## Open questions
 
-- The names of the other directories in [Layout](#layout)
-  (`commentary/`, the subdirectories of `texts/`).
+- The name of the commentary directory in [Layout](#layout)
+  (`commentary/`).
 - The output format of the commentary (one Markdown file per book, or
   data files plus a generator).
 - The language of the notes.

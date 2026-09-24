@@ -1,4 +1,6 @@
 URL = https://www.thelatinlibrary.com/ilias.html
+ARCHIVE = https://archive.org/download
+VOLLMER = p1poetaelatinimi02baeh
 PDF =
 CHECK_PDF = @test -n "$(PDF)" || { echo 'usage: make $@ PDF="path/to/book.pdf"'; exit 1; }
 
@@ -13,6 +15,8 @@ all: tmp/ilias.txt ## Download the Latin text and extract numbered verses
 
 text: ../texts/ilias.txt ## Add the book headings to the Latin text (texts/ilias.txt)
 
+vollmer: ../texts/6-vollmer/ilias.md ## Extract Vollmer's edition once (texts/6-vollmer)
+
 download: tmp/ilias.html ## Download the Latin text from The Latin Library
 
 tmp/ilias.html:
@@ -26,6 +30,16 @@ tmp/ilias.txt: tmp/ilias.html extract.py
 	mkdir -p ../texts
 	uv run python books.py $< $@
 
+tmp/6-$(VOLLMER).pdf:
+	mkdir -p tmp
+	curl -fsSL -o $@ $(ARCHIVE)/$(VOLLMER)/$(VOLLMER).pdf
+
+# Generated once and then corrected by hand, so it is never rebuilt
+# automatically (order-only prerequisites).
+../texts/6-vollmer/ilias.md: | tmp/6-$(VOLLMER).pdf tmp/ilias.txt
+	mkdir -p ../texts/6-vollmer
+	uv run python vollmer.py tmp/6-$(VOLLMER).pdf tmp/ilias.txt ../texts/6-vollmer
+
 pt: tmp/ilias.txt extract_pt.py parallel.py ## Extract numbered translation and parallel text (PDF=...)
 	$(CHECK_PDF)
 	uv run python extract_pt.py "$(PDF)" tmp/ilias_pt.txt
@@ -35,4 +49,4 @@ parts: split_pt.py ## Split the PDF text into sections in tmp/parts (PDF=...)
 	$(CHECK_PDF)
 	uv run python split_pt.py "$(PDF)" tmp/parts
 
-.PHONY: help all text download pt parts
+.PHONY: help all text vollmer download pt parts

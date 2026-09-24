@@ -85,6 +85,7 @@ translation, differs in three places:
   601.  In the manuscript order it interrupts the simile of the fighting
   boars (595–600); after 601 it completes the sentence *Tales Priamides
   ardorque Aiacis in armis …* that applies the simile to Hector and Ajax.
+  Vollmer also prints the verse after 601 [6].
 
 Whether the other editions number the verses and divide the books in the
 same way has not been checked yet.
@@ -153,6 +154,8 @@ This repository provides helper tools for preparing the commentary:
 - Number the verses of the Latin text of The Latin Library.
 - Add the headings of the 24 books to it and write
   [texts/ilias.txt](texts/ilias.txt).
+- Organize the public-domain editions for reference by page and verse
+  (so far Vollmer [6]: [texts/6-vollmer/](texts/6-vollmer/README.md)).
 - Optionally, align the Portuguese translation with it verse by verse
   into a parallel text, as an aid for checking the content.
 
