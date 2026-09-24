@@ -8,7 +8,7 @@ Numbers in brackets refer to the Internet Archive list there.
 ## Base text
 
 - The Latin text of The Latin Library, numbered 1–1070, with headings
-  for the 24 books (`texts/iliad.txt`).
+  for the 24 books (`texts/ilias.txt`).
 - Its editorial signs are kept and explained in the notes where they
   occur: `<que>`, `<et>` (words supplied by the editor, 517, 582, 685),
   `<>` (missing verse, 791) and the asterisks at 7, 890, 1008 and 1037.
@@ -68,7 +68,7 @@ data and checked by hand against the page images on archive.org.
 - `texts/` — processed texts from the public-domain sources, one
   subdirectory per book of the Internet Archive list (e.g.
   `texts/6-vollmer/`), with the tables described above.  The Latin
-  Library text is published here as `texts/iliad.txt`: one continuous
+  Library text is published here as `texts/ilias.txt`: one continuous
   file with a heading for each book, so that the divisions can still be
   adjusted.
 - `commentary/` — the commentary itself, arranged by book.
@@ -91,10 +91,10 @@ divisions and is used only as an aid for checking the content.
 
 1. Mark the 24 books in The Latin Library text with headings, using the
    divisions in `texts/README.md` (based on the Portuguese translation
-   and checked against the Latin).  Done: `texts/iliad.txt`.
+   and checked against the Latin).  Done: `texts/ilias.txt`.
 2. Build the verse concordance (step 1 above) and compare the book
    divisions of the other editions; adjust the first verses in
-   `src/books.py` and rebuild `texts/iliad.txt` if needed.
+   `src/books.py` and rebuild `texts/ilias.txt` if needed.
 3. Build the Vollmer table (step 2 above) for book 1 and check it.
 4. Write the notes for book 1 as a pilot and settle the format of the
    notes.

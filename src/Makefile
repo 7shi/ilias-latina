@@ -11,7 +11,7 @@ help: ## Show this help
 
 all: tmp/ilias.txt ## Download the Latin text and extract numbered verses
 
-text: ../texts/iliad.txt ## Add the book headings to the Latin text (texts/iliad.txt)
+text: ../texts/ilias.txt ## Add the book headings to the Latin text (texts/ilias.txt)
 
 download: tmp/ilias.html ## Download the Latin text from The Latin Library
 
@@ -22,7 +22,7 @@ tmp/ilias.html:
 tmp/ilias.txt: tmp/ilias.html extract.py
 	uv run python extract.py $< $@
 
-../texts/iliad.txt: tmp/ilias.txt books.py
+../texts/ilias.txt: tmp/ilias.txt books.py
 	mkdir -p ../texts
 	uv run python books.py $< $@
 

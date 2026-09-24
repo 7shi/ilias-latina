@@ -139,7 +139,7 @@ Perkins (2006), Falcone & Schubert (2022) and Green (2025).
 
 ## Text
 
-[texts/iliad.txt](texts/iliad.txt) is the Latin text of The Latin Library
+[texts/ilias.txt](texts/ilias.txt) is the Latin text of The Latin Library
 with a Markdown heading for each of the 24 books (`## 1` to `## 24`) at
 the divisions under [Structure](#structure).  The verses keep their
 numbers (`N TEXT`) and the editorial signs of the page (`<que>`, `<>`,
@@ -152,7 +152,7 @@ This repository provides helper tools for preparing the commentary:
 
 - Number the verses of the Latin text of The Latin Library.
 - Add the headings of the 24 books to it and write
-  [texts/iliad.txt](texts/iliad.txt).
+  [texts/ilias.txt](texts/ilias.txt).
 - Optionally, align the Portuguese translation with it verse by verse
   into a parallel text, as an aid for checking the content.
 
@@ -166,7 +166,7 @@ See [src/README.md](src/README.md) for requirements and usage.
   Wikipedia (retrieved 2026-09-25).  Source of the summary above.
 - [*Ilias Latina*](https://www.thelatinlibrary.com/ilias.html), The Latin
   Library.  The Latin text used by the tools and published as
-  [texts/iliad.txt](texts/iliad.txt).  The site
+  [texts/ilias.txt](texts/ilias.txt).  The site
   [states](https://www.thelatinlibrary.com/about.html) that it has taken
   every reasonable precaution to ensure its texts are in the public
   domain.
