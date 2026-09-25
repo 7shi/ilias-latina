@@ -1,12 +1,12 @@
 # What the older editors thought of the *Ilias Latina*
 
-English translation of [summary.md](summary.md).
+English translation of [overview.md](overview.md).
 
 This essay is drawn from the prefaces, prooemia, testimonia, excursus
 and indexes of the four editions organized in this directory.  The
 editors' words have been kept wherever possible, but brought into
 continuous prose; what is quoted word for word is set in quotation
-marks (translated here; the Latin is in [summary.md](summary.md)).
+marks (translated here; the Latin is in [overview.md](overview.md)).
 Page references are to the editions and are linked to the passages
 themselves.  Verse numbers are those of The Latin Library
 ([ilias.txt](ilias.txt)); Wernsdorf's, where they differ, are added in

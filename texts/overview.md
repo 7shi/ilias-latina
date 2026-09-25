@@ -3,7 +3,7 @@
 Haec commentatio ex praefationibus, prooemiis, testimoniis, excursibus
 indicibusque quattuor editionum, quae in hoc indice digestae sunt,
 conflata est et eodem ordine procedit quo
-[summary-en.md](summary-en.md).  Editorum verba, ubi fieri potuit,
+[overview-en.md](overview-en.md).  Editorum verba, ubi fieri potuit,
 retinuimus, sed in orationem continuam redegimus; quae ad verbum
 afferuntur, signis « » inclusa sunt et scripturam editorum servant.
 Paginae ad editiones referuntur et cum locis ipsis coniunctae sunt.
