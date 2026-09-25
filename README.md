@@ -103,8 +103,8 @@ omits verse 69 and counts a lacuna as 80, Plessis keeps the same
 numbers and prints the verses he rejects, such as 69, below the text,
 and Wernsdorf counts 1075 verses, with seven that The Latin Library
 does not have.
-The editions have not yet been compared as a whole, in their numbering
-or in their book divisions.
+The verses and the book divisions of the four editions are compared in
+[texts/concordance.md](texts/concordance.md).
 
 The proportions are very uneven: books 1–5 take 537 verses, just over
 half, while book 13 has seven verses and book 17 three [5].
@@ -176,6 +176,8 @@ This repository provides helper tools for preparing the commentary:
   Baehrens [3]: [texts/3-baehrens/](texts/3-baehrens/README.md);
   Plessis [4]: [texts/4-plessis/](texts/4-plessis/README.md);
   Vollmer [6]: [texts/6-vollmer/](texts/6-vollmer/README.md)).
+- Key the verses of these editions to The Latin Library in a
+  concordance ([texts/concordance.md](texts/concordance.md)).
 - Optionally, align the Portuguese translation with it verse by verse
   into a parallel text, as an aid for checking the content.
 

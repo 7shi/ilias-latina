@@ -1248,21 +1248,23 @@ PDF page 39.
 | 572 | 572 | Attollensque manus ^precor, o pater optime' dixit, |  |  |
 | 573 | 573 | 'Ut meus hic, pro quo tua numina natus adoro, |  |  |
 | 574 | 574 | Uirtutes patrias primis imitetur ab annis'. |  |  |
-| 575 | 575 | Haec ait et portis acies petit acer apertis; | 575 | YII |
+| 575 | 575 | Haec ait et portis acies petit acer apertis; | 575 | VII |
 | 576 | 576 | Una deinde Paris. postquam in certamina uentum est, |  |  |
 
 ### Apparatus
 
 - **556** temptanti temptabat MN
 - **560** piipugit 0 {alt. u m L ex corr. purus B ita ut r et s ex corr. sint): pepulit Schraderus {ex repulit uulgato) \ certamine num rectum ?
-- **563** inuisaque E m. 2 I lincunt L: iungunt E linqunt 'E m. 2 cum ceteris (mutant "B^Wpost 563 lihrum VII incipiunt 0 {etiam L: cf. ad u. 537; oin. M), per errorem cum in archetypo numerus post 574 collocandus hic collocatus sit
+- **563** inuisaque E m. 2 | lincunt L: iungunt E linqunt E m. 2 cum ceteris (mutant B)
+- **post 563** librum VII incipiunt 0 (etiam L: cf. ad u. 537; om. M), per errorem cum in archetypo numerus post 574 collocandus hic collocatus sit
 - **564** coniux codd. praeter E
 - **566** Asti^nacta (o supra ras. m. 2) E Astianacta ita ut tertia a ex corr. sit L | tenens MN (L ita iit ns ex corr. sit) \ heros] hector EMN
 - **567** cara {uel pura.) scripsi: parua 0 (praua F) e u. 565
 - **569** cristamq; comantem FV comantes m. 1 ex -tas corr. E
 - **570** Atque et 'E et L m. 1
 - **572** pater in ras. m. 1 add. E 0 pater supra lin. m. 1 L, m. rec. N precor o precor F rector precor V precor iupiter B
-- **573** Ut ms LV Unicus B j| Lib. VII om. 0: cf. ad 563
+- **573** Ut m̄s LV Unicus B
+- **Lib. VII** om. 0: cf. ad 563
 - **575** bellum E
 - **576** in 0: ad uulgo
 

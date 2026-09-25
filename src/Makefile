@@ -26,6 +26,8 @@ plessis: ../texts/4-plessis/ilias.md ## Extract Plessis's edition once (texts/4-
 
 lemaire: ../texts/2-lemaire/ilias.md ## Extract Lemaire's edition once (texts/2-lemaire)
 
+concordance: ../texts/concordance.md ## Build the verse concordance once (texts/concordance.md)
+
 download: tmp/ilias.html ## Download the Latin text from The Latin Library
 
 tmp/ilias.html:
@@ -74,6 +76,11 @@ tmp/2-$(LEMAIRE)_hocr.html:
 	mkdir -p ../texts/2-lemaire
 	uv run python lemaire.py tmp/2-$(LEMAIRE)_hocr.html tmp/ilias.txt ../texts/2-lemaire
 
+# Built from the texts above, then corrected by hand like them.
+../texts/concordance.md: | ../texts/6-vollmer/ilias.md ../texts/3-baehrens/ilias.md ../texts/4-plessis/ilias.md ../texts/2-lemaire/ilias.md
+	mkdir -p tmp
+	uv run python concordance.py ../texts $@ tmp/concordance_check.txt
+
 pt: tmp/ilias.txt extract_pt.py parallel.py ## Extract numbered translation and parallel text (PDF=...)
 	$(CHECK_PDF)
 	uv run python extract_pt.py "$(PDF)" tmp/ilias_pt.txt
@@ -83,4 +90,4 @@ parts: split_pt.py ## Split the PDF text into sections in tmp/parts (PDF=...)
 	$(CHECK_PDF)
 	uv run python split_pt.py "$(PDF)" tmp/parts
 
-.PHONY: help all text vollmer baehrens plessis lemaire download pt parts
+.PHONY: help all text vollmer baehrens plessis lemaire concordance download pt parts

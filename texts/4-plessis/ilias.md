@@ -2808,9 +2808,10 @@ ejecit Mueller.
 
 ### Codices
 
-- **941** gressumj cur§um A gressusque laborque moratur MN ipse] ille F V Y.
-- **942** Alterus L Alterius K corr. m~2 MY || poteranij spectant A I Post v. 943 XXII E L XXI F XVIII Y.
-- **948** extremo I supremo ceteri. || 946 tenebat A [| totum v. omisit N,add. marg. m. rec.
+- **941** gressum] cursum A | gressusque laborque moratur M N | ipse] ille F V Y.
+- **942** Alterus L Alterius E corr. m 2 M Y || poterant] spectant A I | Post v. 943 XXII E L XXI F XVIII V.
+- **945** extremo I supremo ceteri.
+- **946** tenebat A | totum v. omisit N, add. marg. m. rec.
 - **948** Decurrens S.
 - **949** Iam G tum EMGA tunc L cum ceteri (dum Helmest.) credit in armis LAMX (in hoc cre = dii). || 9b'0 abest ab I. || 9;J1 hastis] armis AS. || 95'3 omis. E add. in -2 marg. hostem ualidum omnes. \\ 9S4 Alternusque A Alleriusque S || ferox mutat omnes Baehrensiani.
 

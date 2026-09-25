@@ -1749,12 +1749,12 @@ PDF page 200.
 | 831 | 77 793 | mentitos vultus simulati pandit Achillis |  |
 | 832 |  | denudatque virum: quem bello maximus Hector |  |
 | 833 |  | pugnantem falsis postquam deprendit in armis, |  |
-| 834 | 8-20 | irruit et iuvenem nudato pectore ferro |  |
-| 835 | F 125 | traicit et victor Vulcania detrahit arma. | 835 |
+| 834 | 820 | irruit et iuvenem nudato pectore ferro |  |
+| 835 | Ρ 125 | traicit et victor Vulcania detrahit arma. | 835 |
 | 836 | 132 | vindicat extincti corpus Telamonius Aiax |  |
 | 837 |  | oppositoque tegit clipeo. Priameia pubes |  |
 | 838 |  | laetitia exultat^ Danai sua fanera maerent. |  |
-| 839 | 2 2 | interea iuvenis tristi cum pube suorum |  |
+| 839 | Σ 2 | interea iuvenis tristi cum pube suorum |  |
 | 840 |  | Nestorides in castra ferunt miserabile corpus. | 3« |
 | 841 | 22 | tmicf ut Pelidis aures diverberat horror; |  |
 | 842 |  | pallait infelix iuvenis, calor ossa reliquit. |  |

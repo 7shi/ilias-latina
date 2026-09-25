@@ -6,7 +6,8 @@ text.  All outputs go into `tmp/` (ignored by git), except `make text`,
 which writes the published text `../texts/ilias.txt`, and `make
 vollmer`, `make baehrens`, `make plessis` and `make lemaire`, which
 write `../texts/6-vollmer/`, `../texts/3-baehrens/`, `../texts/4-plessis/`
-and `../texts/2-lemaire/` once.
+and `../texts/2-lemaire/` once, and `make concordance`, which writes
+`../texts/concordance.md` once.
 
 ## Usage
 
@@ -20,6 +21,7 @@ make vollmer        # extract Vollmer's edition once (../texts/6-vollmer/)
 make baehrens       # extract Baehrens's edition once (../texts/3-baehrens/)
 make plessis        # extract Plessis's edition once (../texts/4-plessis/)
 make lemaire        # extract Lemaire's edition once (../texts/2-lemaire/)
+make concordance    # build the verse concordance once (../texts/concordance.md)
 ```
 
 To process the Portuguese edition, put the PDF anywhere (for example in
@@ -43,6 +45,7 @@ make parts PDF="tmp/book.pdf"   # split the whole book into sections
 | `baehrens` | `../texts/3-baehrens/*.md` — Baehrens's edition by page (downloads the scan to `tmp/`) | `baehrens.py` |
 | `plessis` | `../texts/4-plessis/*.md` — Plessis's edition by page (downloads the scan to `tmp/`) | `plessis.py` |
 | `lemaire` | `../texts/2-lemaire/*.md` — Lemaire's edition by page (downloads the OCR of the scan to `tmp/`) | `lemaire.py` |
+| `concordance` | `../texts/concordance.md` — the verses of the four editions keyed to The Latin Library; `concordance_check.txt` — the rows to check | `concordance.py` |
 | `pt` | `ilias_pt.txt` — Portuguese translation, `LABEL TEXT` per verse | `extract_pt.py` |
 | | `ilias_la_pt.txt` — Latin and Portuguese interleaved | `parallel.py` |
 | `parts` | `parts/NN_name.txt` — the book split at its section headings | `split_pt.py` |
@@ -57,6 +60,7 @@ uv run python vollmer.py tmp/6-p1poetaelatinimi02baeh.pdf tmp/ilias.txt ../texts
 uv run python baehrens.py tmp/3-poetaelatinimino34baeh.pdf tmp/ilias.txt ../texts/3-baehrens
 uv run python plessis.py tmp/4-italiciiliaslati00plesuoft.pdf tmp/ilias.txt ../texts/4-plessis
 uv run python lemaire.py tmp/2-poetaelatinimin00unkngoog_hocr.html tmp/ilias.txt ../texts/2-lemaire
+uv run python concordance.py ../texts ../texts/concordance.md tmp/concordance_check.txt
 uv run python extract_pt.py [-v] BOOK.pdf tmp/ilias_pt.txt
 uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 uv run python split_pt.py BOOK.pdf tmp/parts
@@ -216,6 +220,28 @@ lines and blocks.  It imports `Numberer` and the text helpers from
   quotations to the prose around them.
 - As with Vollmer, `make lemaire` does nothing when
   `../texts/2-lemaire/ilias.md` exists.
+
+## Concordance
+
+`concordance.py` reads `../texts/ilias.txt` and the verse tables of the
+four editions (`../texts/*/ilias.md`), not the scans, so the corrections
+made there are carried over.
+
+- Each row of an edition goes to the verse of The Latin Library in its
+  Verse column.  A row "—" (a verse that The Latin Library does not
+  have) goes after the verse of the row before it; rows of different
+  editions after the same verse share a line if their texts are alike.
+- The verses in the order of The Latin Library are the longest
+  increasing series of an edition's verse numbers; the others are noted
+  as printed after the verse before them.  Verses printed below the
+  text, and the second part of a verse split in two, are not.
+- A verse that Plessis does not number is "N bis" after the verse it
+  follows; his own "863 bis" (verse 874) is kept.
+- Each row's text is compared with the verse of The Latin Library
+  (ignoring case, punctuation, u/v and i/j), and the rows below 0.75 are
+  written to `tmp/concordance_check.txt`, least alike first.
+- As with the editions, `make concordance` does nothing when
+  `../texts/concordance.md` exists.
 
 ## How the PDF is read
 

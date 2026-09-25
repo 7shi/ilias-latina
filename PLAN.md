@@ -59,7 +59,8 @@ data and checked by hand against the page images on archive.org.
    (Lemaire) counts 1075 verses, adding six (among them 827 bis) and one
    in place of 957, joining 84–85 in one verse, and putting 597 before
    595, 874 after 863 and 936 before 935.  All other tables are keyed
-   to The Latin Library numbering through this concordance.
+   to The Latin Library numbering through this concordance.  Done:
+   `texts/concordance.md`, with the book divisions of the editions.
 2. From Vollmer [6]: extract the Iliad line numbers from the margin and
    build a table *Latin verse → Iliad lines*.  This also gives the list of
    passages with no Homeric counterpart.
