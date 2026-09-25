@@ -80,10 +80,12 @@ translation, differs in three places:
   cedit Pelopeia uirtus*; it is absent from most manuscripts and stands
   in the text of Munich lat. 5594 and of the edition Vollmer calls X,
   and in the margin of others [6].  Baehrens prints it in square
-  brackets [3], Plessis below the text [4].
+  brackets [3], Plessis below the text [4], and Wernsdorf in the text
+  as his 794 [2].
 - Book 16 has a verse 827a that The Latin Library lacks.  Plessis prints
   it in square brackets as 827 bis (*Obicit et saxum magno cum robore
-  missum*) [4].
+  missum*) [4]; Wernsdorf has it in the text as his 831 (*Objicit et
+  saxum multo cum pondere missum*) [2].
 - Verse 597 (*alterni librant gladios et uulnera miscent*) is moved after
   601.  In the manuscript order it interrupts the simile of the fighting
   boars (595–600); after 601 it completes the sentence *Tales Priamides
@@ -203,7 +205,10 @@ poppler-utils.  See [src/README.md](src/README.md) for usage.
 
 ### Internet Archive
 
-Public-domain books on archive.org.
+Public-domain books on archive.org, in order of publication.  The
+editions [2], [3], [4] and [6] are the sources of the commentary: they
+are organized for reference in [texts/](texts/README.md) and used
+throughout.  [1] and [5] are cited only for the background above.
 
 1. Jean de Sponde (Spondanus) (ed.), [*Homeri quae extant omnia*](https://archive.org/details/homeriquextant00home).
    Basel: Henricpetri, 1606.  Homer with Latin translation and

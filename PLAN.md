@@ -50,14 +50,16 @@ data and checked by hand against the page images on archive.org.
    and align it with The Latin Library text, noting omitted, added and
    transposed verses and differences in the book divisions.  Known so
    far: Vollmer prints 597 after 601, as Scaffai does, and 790 after
-   794; Baehrens omits 69, counts a lacuna as 80 (so his 69–79 are
-   70–80 here), and exchanges 107 and 109 and 873 and 874; Plessis keeps
-   the numbers, prints the verses he rejects below the text, puts 108
-   after 110 and 874 before 873, and adds 245 bis, 827 bis and a lacuna
-   869 bis; Wernsdorf (Lemaire) counts 1075 verses, adding six (among
-   them 827 bis) and one in place of 957, joining 84–85 in one verse,
-   and putting 597 before 595 and 936 before 935.  All other tables
-   are keyed to The Latin Library numbering through this concordance.
+   794, prints 874 twice (in brackets after 863 and in its place),
+   splits 860 around a lacuna and does not have 791; Baehrens omits 69,
+   counts a lacuna as 80 (so his 69–79 are 70–80 here), and exchanges
+   107 and 109 and 873 and 874; Plessis keeps the numbers, prints the
+   verses he rejects below the text, puts 108 after 110 and 874 before
+   873, and adds 245 bis, 827 bis and a lacuna 869 bis; Wernsdorf
+   (Lemaire) counts 1075 verses, adding six (among them 827 bis) and one
+   in place of 957, joining 84–85 in one verse, and putting 597 before
+   595, 874 after 863 and 936 before 935.  All other tables are keyed
+   to The Latin Library numbering through this concordance.
 2. From Vollmer [6]: extract the Iliad line numbers from the margin and
    build a table *Latin verse → Iliad lines*.  This also gives the list of
    passages with no Homeric counterpart.
