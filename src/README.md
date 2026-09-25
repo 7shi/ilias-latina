@@ -8,12 +8,6 @@ vollmer`, `make baehrens`, `make plessis` and `make lemaire`, which
 write `../texts/6-vollmer/`, `../texts/3-baehrens/`, `../texts/4-plessis/`
 and `../texts/2-lemaire/` once.
 
-## Requirements
-
-- [uv](https://docs.astral.sh/uv/) (Python 3.13+, installs `beautifulsoup4`)
-- `make`, `curl`
-- `pdftotext` from poppler-utils (only for the PDF targets)
-
 ## Usage
 
 Run the commands in this directory.  `make` with no target shows the help.

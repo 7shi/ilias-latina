@@ -179,7 +179,8 @@ This repository provides helper tools for preparing the commentary:
 
 Both texts are listed under [References](#references).
 
-See [src/README.md](src/README.md) for requirements and usage.
+The tools require [uv](https://docs.astral.sh/uv/), `make`, `curl` and
+poppler-utils.  See [src/README.md](src/README.md) for usage.
 
 ## References
 
