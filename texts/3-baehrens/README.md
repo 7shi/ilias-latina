@@ -75,7 +75,7 @@ below it.
   at 6 and 11 (p. 8), 88 and 90 (p. 11), 98, 103 and 107 (p. 12), 560
   and 563 (p. 35), and 616, 620 and 626 (p. 38).
 - "ς" marks readings of later manuscripts (preface, p. 7); the OCR reads
-  it in various ways, e.g. "<?", "<S", "?".
+  it in various ways, e.g. `<?`, `<S`, `?`.
 
 ## Accuracy
 

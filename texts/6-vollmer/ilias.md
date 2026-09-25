@@ -35,7 +35,7 @@ PDF page 159.
 - **2** qu(a)e Hugo Trimbergensis et B^ M*^SX, quis PTTS qui ilacp
 - **3** animas B^E^G-L" 3I^p, animos (-is L^) Sl
 - **6** Confiebat Schrader et Higt, Conficiebat Sl
-- **7** Pertulerant (Prot- PW) ex quo Sl, Pertulerunt ex quo Ermenricus, Ex quo pertulerant B ?, Ex quo contulerant /. ; versus incipiebat ab V littera, emendatio incerta: Versarant DJring, Volverunt Havet, Vt primum tulerant Baehrens I discordia pectora (Ermenricusj Sl, discordi pectore E D N- V<:orr. cc ^ d | turbas Havet, turmas (Ermenricus), pugnas (-am N, -is F V, -ng W*) Sl
+- **7** Pertulerant (Prot- PW) ex quo Sl, Pertulerunt ex quo Ermenricus, Ex quo pertulerant B ?, Ex quo contulerant /. ; versus incipiebat ab V littera, emendatio incerta: Versarant DJring, Volverunt Havet, Vt primum tulerant Baehrens I discordia pectora (Ermenricusj Sl, discordi pectore E D N² Vcorr. αβδ | turbas Havet, turmas (Ermenricus), pugnas (-am N, -is F V, -ng W*) Sl
 - **11** Infestus {%o- Xcod^sis) BrantSiua, Infestam Sl \ pestem i. amorem Chryseidos (v. V. 26) I praecordia (cf v. 25) Sl, praetoria male Schrader
 - **13** timpora uitta (uicta D M) BCDFGMN, tempore uit a)e (uittg V) PWE^L^V
 
@@ -482,7 +482,7 @@ PDF page 170.
 
 - **(cont.)** 285 Deipliobus (om. que) C^, Deiphe- vel Deifebusque (que om. W^CBFMNV) P..
 - **237** Archil- Ji | que prius habent EMNL^, om. cett. | creti CLVE-F-, nati et. s. s. creti M\ creati DF^ et E^ ut vid., nati PWBX 23» Pandajus £1, Pindarus K
-- **240** Amphiusque <^et Baehretisy Bondam, Amphin (Anph- P) et P TH, Amphion DN, Amphionque (An- CFL) BCEFLMV\ adrastus PWEV, ad clerastus B, adrastusque (-uque F) CDFLMN \ et asius (ans- CF, aus- DNV)P., ausiusque M \ Pylaeus cp, ephialtes (fialtes DN et L^ ut vid.) Sl
+- **240** Amphiusque \<et Baehrens> Bondam, Amphin (Anph- P) et P TH, Amphion DN, Amphionque (An- CFL) BCEFLMV\ adrastus PWEV, ad clerastus B, adrastusque (-uque F) CDFLMN \ et asius (ans- CF, aus- DNV)P., ausiusque M \ Pylaeus cp, ephialtes (fialtes DN et L^ ut vid.) Sl
 - **241** Ibat et PWBCL, Ibaut et DE, Ibant MNV, Ibat F Nastesque Bondam, nactesque E^, nactisque L, natusque (-uq; B^) B M, natiasque CFV, naucius N, matiusque PWE^
 - **242** que prius oni. B^N \ Hodiusque Bondam, rih^odius (que EL^) Sl
 - **243** Euphimusque fere Sl \ clarusque Sl, claraque CF I Pyraechmes Bondam, piragmes (-gnes D 31) Sl
@@ -1077,7 +1077,7 @@ PDF page 184.
 | 514 | — | ille ruens ictu media inter lora rotasque |  |
 | 515 | — | voluitur et vitam calido cum sanguine fundit. | 515 |
 | 516 | — | ingemit Aeneas curruque animosus ab alto |  |
-| 517 | £542 | desilit et valido Crethona<^que)> comminus ictu |  |
+| 517 | £542 | desilit et valido Crethona\<que> comminus ictu |  |
 | 518 |  | Orsilochumque ferit, quorum post funera victor |  |
 | 519 | 577 | Paphlagonum ductor Menelai concidit armis, |  |
 | 520 | 580 | Antilochique Mydon; post hos lovis inclita proles | 520 |
@@ -1374,7 +1374,7 @@ PDF page 191.
 | 663 | 227 | hortatur socios murisque inclusus Atrides |  |
 | 664 |  | languentes animos iuvenum in certamina firmat. |  |
 | 665 | 254 | princeps Tydides ardentibus emicat armis | ess |
-| 666 |  | per medios<(que)> hostes immani turbine fertur. |  |
+| 666 |  | per medios\<que> hostes immani turbine fertur. |  |
 | 667 |  | hic illi occurrit fatis Agelaus iniquis, |  |
 | 668 |  | telum immane manu quatiens, quem maximus heros |  |
 | 669 |  | occupat et duro medium transverberat ense. |  |
@@ -1410,7 +1410,7 @@ PDF page 192.
 | 682 | 509 | at Phryges obsidunt iuclusos aggere Graios |  |
 | 683 | 561 | excubituque premunt muros flammisque coronant. |  |
 | 684 |  | cetera per campos sternunt sua corpora pubes |  |
-| 685 |  | indulgentque mero curas<(que)> animosque resolvunt. | 686 |
+| 685 |  | indulgentque mero curas\<que> animosque resolvunt. | 686 |
 | 686 | I 2 | attoniti Danaum proceres discrimine tanto |  |
 | 687 |  | nec dapibus relevant animos nec corpora curant, |  |
 | 688 | 9-1 | sed miseri sua fata gemunt. mox f hoste repulso |  |
@@ -1964,7 +1964,7 @@ PDF page 205.
 - **(cont.)** »0S agit (ait 31) 9., adit E- (JE^ periit)
 - **905** Sanguinis Sl, ■Sanguis C | sitiens Sl, sedens jB, cedens C [ Sbi Sl, sed P W
 - **906** Confagit iJ, Eff- E
-- **907** fluminis ii, num- PWc<^6(p
+- **907** fluminis Ω, num- PW αβδφ
 - **908** Instat S., Adstatque L \ bellatur (-or L) ELMN a§dcp, pugnatur P WCFG V/.
 - **909** Ira (Era L, Terra P TT') dabat Sl, Tradebat V\ uires Sl, cunctis E^ | stringuntur PW^E^LV, ting(u)untur CFG3INW'-E^ cc§d(pX; cf. Verg. Aen. S, 62
 - **910** Corpora St, sanguine E^^CV, pectora E^ \ fluctus (-os I) Sl, campos MN 911. »12 om. E^ 9H At P,, Et C^L

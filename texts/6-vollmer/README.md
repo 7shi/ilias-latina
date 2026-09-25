@@ -53,4 +53,7 @@ quoted from these files must be checked against the page image first.
 
 Errors found in this way are corrected directly in these files.
 Superscript numerals mark the hands of a manuscript (G¹ = first hand
-of G).
+of G).  Vollmer's angle brackets for words supplied by the editor are
+written `\<que>`, as `|` in the tables is written `\|`, so that they
+are not taken for markup (a bare `<que>` would be dropped as an HTML
+tag).
