@@ -17,6 +17,13 @@ reference in its own directory:
 [concordance.md](concordance.md) keys the verses of the four editions to
 the numbering of The Latin Library (see [Concordance](#concordance)).
 
+[summary.md](summary.md) draws the prefaces, introductions, testimonia,
+excursus and indexes of the four editions together into one essay in
+Latin, keeping the editors' words where possible and linking each point
+to the page; it is translated into English
+([summary-en.md](summary-en.md)) and Japanese
+([summary-ja.md](summary-ja.md)).
+
 ## Translations
 
 In the edition directories, the files other than `ilias.md` (the text
