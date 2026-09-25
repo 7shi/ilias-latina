@@ -44,8 +44,9 @@ sections below it.
   869 bis, a lacuna printed as a row of dots after "\<Sol." (p. 69).
 - **Text**: as printed; a long verse whose end is printed on a row of
   its own is joined into one row.
-- **Printed**: the verse number in the right margin as read by the OCR
-  (e.g. "2Z|0" for 240).
+- **Printed**: the verse number in the right margin (printed every five
+  verses); OCR misreadings (such as "2Z|0" for 240) have been corrected
+  against the page images.
 - **Below the text**: on some pages the verses that Plessis leaves out
   of the text are printed after the rule below it, in smaller type
   with their numbers, followed by a remark in italics (e.g. "spurium
@@ -58,8 +59,9 @@ sections below it.
   a remark without verses on p. 9 (the order of 107–110), p. 15 and
   p. 18 (the lacuna filled by 245 bis).
 - **Codices**: the readings of the manuscripts, split into items at the
-  verse numbers after a double bar (‖) or after the end of an item
-  (the OCR often drops the bar or reads it as "II", "j|" and the like).
+  verse numbers after a double bar (‖) or after the end of an item.
+  Dropped bars and OCR misreadings (such as "II", "j|") have been
+  corrected against the page images.
   "(cont.)" is text before the first item of the page, usually an item
   continued from the previous page; the first page of a book begins
   with "Codices —", the book division in the manuscripts ("Lib. XV
@@ -74,8 +76,8 @@ sections below it.
 ## Sigla
 
 - The manuscripts are those of the list on p. 2 (see above); they are
-  printed in bold, written here as plain capitals.  The OCR often
-  misreads them (see [Accuracy](#accuracy)).
+  printed in bold, written here as plain capitals.  OCR misreadings
+  have been corrected against the page images.
 - Hands are written as printed: "m 1" (the first hand), "m 2" (a
   corrector), "man. rec." (a later hand), after the siglum, e.g.
   "regis E m 2 T." at 11 (p. 4) and "tempore uite E L m 1" at 13.
@@ -97,13 +99,11 @@ sections below it.
 
 ## Accuracy
 
-The text is the OCR of the scan, corrected only where it has been
-checked against the page images: elsewhere expect misread letters,
-sigla (e.g. "IV" or "X" for N, "IVI" for M), numbers, Greek and marks.
-The bold sigla and the double bars of the readings are placed by the
-OCR a little below their row, and some may still be out of place.  The
-index is read column by column, and some entries may be joined or split
-where the columns are uneven.  Anything quoted from these files must
-be checked against the page image first.
+All files in this directory ([preface.md](preface.md),
+[introduction.md](introduction.md), [ilias.md](ilias.md), and
+[index.md](index.md)) have been proofread and corrected against the page
+images of the scan.
 
-Errors found in this way are corrected directly in these files.
+Misread letters, sigla (such as "IV" or "X" for N, "IVI" for M), numbers,
+Greek quotations, double bars (‖), and index entries have been verified
+and corrected against the page images.

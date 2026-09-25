@@ -65,9 +65,9 @@ page.
   and his 21 begins at 906 (p. 594) and his 18 at 841 (p. 586), both
   checked against the page images.
 
-The numerals of Baehrens and Wernsdorf are read by the OCR (e.g. "XY"
-for XV), except those checked above; the places where the books begin
-are those of the verses that carry them.
+The numerals of Baehrens and Wernsdorf have been checked and corrected
+against the page images; the places where the books begin are those of
+the verses that carry them.
 
 ### Verses
 

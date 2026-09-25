@@ -13,91 +13,82 @@ EXCURSUS I
 
 AD EPITOM. ILIAD. HOM. v. 690 seq.
 
-• • • mox hoste repuUo
+... mox hoste repulso
 
-Legatoft mittunt , dextramqne hortantnr Achillis ,
+Legatos mittunt, dextramque hortantur Achillis,
 
-Ut ferat aaxilium miaeris.
+Ut ferat auxilium miseris.
 
-Magitas his in verbis, quae omnibus in libris integra , nec ▼ariata, leguntur, difficultates reperit consultissimus Bondamius, Yar. Lect. p. i65, neque lectorum alium quempiam fore arbitror, qui non in iis vel insignem errorem librarii, vel magnam ipsius auctoris oscitantiam siispicetur. Nempe verba mox hoste repulso cum caetera narratione non cohasrent. Danai enim , qui ante dicebantur a Trojanis fiigati in castra, aggere inchisi, et excubiis pressi, quique attoniti tanto discrimine^ nec dapibus relevare animos , nec corpora curare, nec quidquam aliud, quam miseri sua fata gemere audebant, unde isti tam subito tantos animos sumunt, ut mox hostem repellere audeant? Quibus autem contigit hostem repellere, qui fit, ut isti, quasi adhuc in summo discrimine versantes, necesse habeant, dextram et auxiUum Achillis implorare per legatos, seque ipsos adhuc miseros adpeUent. Aliud omnino auctor hac parte versus dixerit necesse est, si quidem ipsum putamus non incon» grua et pugnantia dixisse, et Bondamius V. C. bene subductis rationibus, et coUata Homeri narratione, temporis aliquam notationem ibi latere conjicit. Nempe nocte interveniente Hector impediebatur, quominus Grsecos fugien* tes ulterius persequeretur. Hoc clare prodit Homerus, Iliad. VIU , 4^7- Hector interim Achivos vallo inckisos obsidione cingit, ignes per totam noctem incendi , et excubias
+Magnas his in verbis, quae omnibus in libris integra, nec variata, leguntur, difficultates reperit consultissimus Bondamius, Var. Lect. p. 165, neque lectorum alium quempiam fore arbitror, qui non in iis vel insignem errorem librarii, vel magnam ipsius auctoris oscitantiam suspicetur. Nempe verba mox hoste repulso cum caetera narratione non cohaerent. Danai enim, qui ante dicebantur a Trojanis fugati in castra, aggere inclusi, et excubiis pressi, quique attoniti tanto discrimine, nec dapibus relevare animos, nec corpora curare, nec quidquam aliud, quam miseri sua fata gemere audebant, unde isti tam subito tantos animos sumunt, ut mox hostem repellere audeant? Quibus autem contigit hostem repellere, qui fit, ut isti, quasi adhuc in summo discrimine versantes, necesse habeant, dextram et auxilium Achillis implorare per legatos, seque ipsos adhuc miseros adpellent. Aliud omnino auctor hac parte versus dixerit necesse est, si quidem ipsum putamus non incongrua et pugnantia dixisse, et Bondamius V. C. bene subductis rationibus, et collata Homeri narratione, temporis aliquam notationem ibi latere conjicit. Nempe nocte interveniente Hector impediebatur, quominus Graecos fugientes ulterius persequeretur. Hoc clare prodit Homerus, Iliad. VIII, 487. Hector interim Achivos vallo inclusos obsidione cingit, ignes per totam noctem incendi, et excubias
 
 ## p. 612
 
 PDF page 622.
 
-diligentissime agi jubet, ob caussam, quam ipse Trojanis aperit , Iliad. VIII , 5 1 o :
+diligentissime agi jubet, ob caussam, quam ipse Trojanis aperit, Iliad. VIII, 510:
 
-Miiir«»c MA ^ik vuxTA xa^xo(&o«ivTtc Axaiioi
+Μήπως καὶ διὰ νύκτα καρηκομόωντες Ἀχαιοὶ
+Φεύγειν ὁρμήσωνται ἐπ᾽ εὐρέα νῶτα θαλάσσης.
 
-4»tuYi(v opffcvaMVTAi iie* cdfta vmta OaXflbonc*
-
-Sic in angustias redacti et rerum suarum trepidi Graecoruni duces eadem nocte de salute sua consultant , et tandem suadente Nestore legationem ad Achillem decernunt, Ho.m. IL X, i65. Legati ad tentorium Achillispervenientes mandata sua exponunt, etuttandem exorarise patiatur multisverbis hortantur, vers. 226 seqq. Hic renitens et inexorabilis perstat, legatosque tandem cogit re infecta discedere, retento tamen Phoenice, quocum minatur postridie se navibus reversurum in Graeciam, y. 61 3. Redeunt igitur legati, et relato AchilUs responso suadet Diomedes, ut omisso eo ipsi sibi consulant, interim cubitum eant, et cibo somnoque refecti, simul atque dies illuxerit, cum copiis suis ad nayes adsint, v. 703. Haec igitur omnia una nocte acta esse ex Homeri narratione apparet. Propterea Bondamius pro hoste repulso legi jubet mox nocte repvlsi^ ut sensus sit> Gfbbcos, qui ab Hectore repidsiy et ad castra sua fugati erant, nocte illa, qua a Trojanis obsidebantur , legatos misisse ad Achillem. Correctionem hanc, in se probabilem, ultro re* cepissem in textum, nisi crederem locum eum multo fecilius et leviore cum mutatione persanari posse. Etenim mentionem noctis hic minime necessariam arbitror, ut propterea hoste in nocte mutandum sit^ siquidem auctor ipse post narrationem suam temporis descriptionem satis definitam adjecit versu 698. Si mentio fieri noctis debebat hoc loco, sane non erat tam breviter, et velut in transitii et uno verbo tangenda, ut quidem scriptor e sententia cl. Bondamii fecit. Sed quominus noctem hic nominatam putem , fere persuadet mihi praemissa vocula mox, quae per se tempusconsequiitum indicat, et, si /icm:^;^ adjiciatur, significare videtur, quse ante facta ab auctore narrantur, non priore parte noctis , sed interdiu accidisse, quod contra esse ex Homeri narratione , et per se Ijquet. Itaque leviore cor^
+Sic in angustias redacti et rerum suarum trepidi Graecorum duces eadem nocte de salute sua consultant, et tandem suadente Nestore legationem ad Achillem decernunt, Hom. Il. IX, 165. Legati ad tentorium Achillis pervenientes mandata sua exponunt, et ut tandem exorari se patiatur multis verbis hortantur, vers. 226 seqq. Hic renitens et inexorabilis perstat, legatosque tandem cogit re infecta discedere, retento tamen Phoenice, quocum minatur postridie se navibus reversurum in Graeciam, v. 613. Redeunt igitur legati, et relato Achillis responso suadet Diomedes, ut omisso eo ipsi sibi consulant, interim cubitum eant, et cibo somnoque refecti, simul atque dies illuxerit, cum copiis suis ad naves adsint, v. 703. Haec igitur omnia una nocte acta esse ex Homeri narratione apparet. Propterea Bondamius pro hoste repulso legi jubet mox nocte repulsi, ut sensus sit, Graecos, qui ab Hectore repulsi, et ad castra sua fugati erant, nocte illa, qua a Trojanis obsidebantur, legatos misisse ad Achillem. Correctionem hanc, in se probabilem, ultro recepissem in textum, nisi crederem locum eum multo facilius et leviore cum mutatione persanari posse. Etenim mentionem noctis hic minime necessariam arbitror, ut propterea hoste in nocte mutandum sit, siquidem auctor ipse post narrationem suam temporis descriptionem satis definitam adjecit versu 698. Si mentio fieri noctis debebat hoc loco, sane non erat tam breviter, et velut in transitu et uno verbo tangenda, ut quidem scriptor e sententia cl. Bondamii fecit. Sed quominus noctem hic nominatam putem, fere persuadet mihi praemissa vocula mox, quae per se tempus consequutum indicat, et, si nocte adjiciatur, significare videtur, quae ante facta ab auctore narrantur, non priore parte noctis, sed interdiu accidisse, quod contra esse ex Homeri narratione, et per se liquet. Itaque leviore cor-
 
 ## p. 613
 
 PDF page 623.
 
-rectione opus esse censeo , ut scribamus : moa: hoste r^ulsi legatos mittunt; utibrtasse respexerit auctor versum i3 libri II jEneid.
+rectione opus esse censeo, ut scribamus: mox hoste repulsi legatos mittunt; ut fortasse respexerit auctor versum 13 libri II Aeneid.
 
-fracti bello , fatisque repulsi
-
+fracti bello, fatisque repulsi
 Ductores Danaum.
 
-Nempe Graeci ii , qui ita repulsi ab hoste , et intra vaUum suum coacti, sua feta gemebant, mox timore suo atque cura permoyentur, ut legatos ad Achillem , auxilii petendi caussa mittant. Sub nocte haec omnia facta esse j mox auctor versu 698 distincte et diserte indicat. Subiit praeterea cogitatio , fortasse sana esse verba hoste repulso , et auctorem , qui non ubique vestigia Homeri, sed subinde et aliorum sequitur, fortasse ad aUanl hostilem inyasionem , ea nocte factam , et ab alio scriptore memoratam , respexisse , atque , ut brevius eloquar , quod sentio , sub hoste repulso ipsum Achillem indicari, quem mox reconciliandum sibi et acl auxilia secum jungendainvitandum duxerunt Gicaeci. Nimirum Dictys Gretensis memorat, Achillem aliquando, quum injurias suas ulcisci cuperet , Gracorum castra , clam quidem , ut ille ait , sed utreliquarerum series indicat , noctu invadere tentasse. Nam narrationem eam ita instituit, ut ante eam quidem conflictum Grsecorum cum Trojanis improsperum , eorumque ad naves regressionem memoret , post eam autem Dolonis a Trojanis ad explorandas res Graecorum missi , et ab Ulysse intercepti, fatum ponat^adeoque totam rem, licet non ex sententia Homeri, tamen eadem, qua Homerus^ connexione narret. Nunc integra Dictyos Cretensis verba adponam ex lib. I, cap. 87 : « Jamque Graeci regressi ad naves arma deponere, ac singuli per loca solita corpus cibo curare occoeperant , quum AchiUes ultum ire cupiens injurias, ignaros consilii sui nostros, et ob id otiose agentes, dam invadere tentat. At ubi Ulysses a custodibus , qui eruptionem ejus praesenserant , rem comperit, propere duces drcumcursans magna voce monet, atque hortatur, uti armis adreptis tuerentur sese : dein consiUum inceptumque AchUlis singulis aperit : quo cognito , clamor ingens oritur
+Nempe Graeci ii, qui ita repulsi ab hoste, et intra vallum suum coacti, sua fata gemebant, mox timore suo atque cura permoventur, ut legatos ad Achillem, auxilii petendi caussa mittant. Sub nocte haec omnia facta esse, mox auctor versu 698 distincte et diserte indicat. Subiit praeterea cogitatio, fortasse sana esse verba hoste repulso, et auctorem, qui non ubique vestigia Homeri, sed subinde et aliorum sequitur, fortasse ad aliam hostilem invasionem, ea nocte factam, et ab alio scriptore memoratam, respexisse, atque, ut brevius eloquar, quod sentio, sub hoste repulso ipsum Achillem indicari, quem mox reconciliandum sibi et ad auxilia secum jungenda invitandum duxerunt Graeci. Nimirum Dictys Cretensis memorat, Achillem aliquando, quum injurias suas ulcisci cuperet, Graecorum castra, clam quidem, ut ille ait, sed ut reliqua rerum series indicat, noctu invadere tentasse. Nam narrationem eam ita instituit, ut ante eam quidem conflictum Graecorum cum Trojanis improsperum, eorumque ad naves regressionem memoret, post eam autem Dolonis a Trojanis ad explorandas res Graecorum missi, et ab Ulysse intercepti, fatum ponat, adeoque totam rem, licet non ex sententia Homeri, tamen eadem, qua Homerus, connexione narret. Nunc integra Dictyos Cretensis verba adponam ex lib. II, cap. 37: «Jamque Graeci regressi ad naves arma deponere, ac singuli per loca solita corpus cibo curare occoeperant, quum Achilles ultum ire cupiens injurias, ignaros consilii sui nostros, et ob id otiose agentes, clam invadere tentat. At ubi Ulysses a custodibus, qui eruptionem ejus praesenserant, rem comperit, propere duces circumcursans magna voce monet, atque hortatur, uti armis adreptis tuerentur sese: dein consilium inceptumque Achillis singulis aperit: quo cognito, clamor ingens oritur
 
 ## p. 614
 
 PDF page 624.
 
-festinaiitibiifl. ad anria cunctis ac seorsum sibi singulis consulentibus. Ita Achilles praeverso de se nuntio, ubi omnes in armis sunt, neque conata procedere queunt, intentato negotio ad tentoria regreditur ». Hunc ex Dictye Cret. locum quasi de superfluo addidi , si forte vulgata lectio Homeristse nostri per eam rationem fulciri et declarari posset. Neque tamen conjecturam , quam ex eo loco duoo , talem esse pertendo, utpropterealectionem, quam ante eraendatam dedi, deserendam putem.
+festinantibus ad arma cunctis ac seorsum sibi singulis consulentibus. Ita Achilles praeverso de se nuntio, ubi omnes in armis sunt, neque conata procedere queunt, intentato negotio ad tentoria regreditur». Hunc ex Dictye Cret. locum quasi de superfluo addidi, si forte vulgata lectio Homeristae nostri per eam rationem fulciri et declarari posset. Neque tamen conjecturam, quam ex eo loco duco, talem esse pertendo, ut propterea lectionem, quam ante emendatam dedi, deserendam putem.
 
 EXCURSUS II
 
 AD EPIT. ILIAD. HOMERI, vs. 867-870.
 
-Hlio IgDipotens miuidi cttiaverat axem ,
+Illic Ignipotens mundi caelaverat axem,
+Sideraque et [liquidas redimitas undique Nymphas.
+Fecerat et mira liquidas Nereidas arte,
+Oceanum,] terras, et euntem Nerea circum.
 
-Sideraque et [liqiiidas redimitas ondiqae Nymphaa.
+DESCRIPTIONEM Achillei clypei, quam his versibus incipit latinae Iliados auctor, praeclare monet consultiss. Bondamius, Var. Lect. II, 4, p. 145, expressam ex iis esse, quae de Solis regia dixit Ovidius, initio libri II Metam. Neque hunc modo locum, sed et alios Ovidii, quibus clypei Achillis mentio fit, ut Metam. XIII, 110 et 191 seqq. animo auctoris nostri obversatos esse credo. Quae observatio non parum juvabit nos, ad quatuor versus propositos accuratius examinandos, quos Barthius, Advers. LIX, 15, p. 2808 extr. valde mendosos, in iisque ταυτόλογα omnia et fatua agnoscit, atque hinc vel medios duos Sideraque..... et Fecerat, vel saltem alterum demere vult, et sic legere:
 
-Fecerat et mira liqoida» Nereidas arte»
-
-Oceannm J terras, et eantem Nerea circam.
-
-DsscEiPTiONBM Achiliei dypei , quam his Tersibus indpir latinse Hiadis auctor, praecLure monet consultiss. Bondamius , Var . Lect. II , 4 9 P* i i^y expressam ex iis esse , quae de Solis regia dixitOvidius, initio libri II Metam. Neque hunc modo locum, sed et alios Ovidii, quibus clypei Achillis mentio fit, ut Metam. XIII, iio et 191 seqq. animo auctoris nostri obversatos esse credo. Quae obserratio non parum juvabit nos , ad quatuor rersus propositos acccuatius examinandos, quos Barthius, Advers. LIX, i5, p. 2808 extr. valde mendosos, in iisque raM-nkoya. omnia et* fiitua agnoscit, atque hinc vel medios duos Sideraque et Fecc' rat^yA saltem akerumdemere vult, et sic legere:
-
-Sideraque et raiia liquidas Nereidas artc.
+Sideraque et mira liquidas Nereidas arte.
 
 ## p. 615
 
 PDF page 625.
 
-£t sane aequo Jove hic judicat Barthius. Nam primo, aher versus Sideraque et liquidas redimUas undique Njrmphas, quam ineptus et fatuus est! Et quamyis cl. Anton. deRoojr Spicil. Crit. p. 99 , succurrere emendatione, et fymphis redi^ mitas scribere velit , insulsa tamen et hsec phrasis et nulli lacile poet» probata est. In tertio versu Fecerat et mira /1quidas Nereidas arte, et Nereides superflue advocantur , Nymphis jam ante nominatis, et ill» repetito vocabulo A* quidcB appellantur ut Nymphse , quod pauperis ingenii giossatorem &cile prodit. Deinde idem yersus Fecerat et, etc. in Msptis codd. Guelf. i et 2 , quorum mihi non levis est auctoritas, infra post vers. 879 repedtur, ubi sane multo aptiore loco positus adparet, et Nereides post alios Deos marinos nominantur. Contra ille eo loco abest in cod. Hehnst. et in editionibus Torini et Spondani. Unde fecile coUigimus , versum eum, si modo ipse genuinus est, in optimis antiquissimis codicibus scriptum esse post 879, ubi locus ei convenientissimus est, accessisse vero ineptumscholasticum, qui eum ad descriptionem mundi , quae versibus 867 et sequentibus continetur, ornandam atque iUustrandam temere retraheret. Quo loco deinceps a plerisque descriptoribus , qui neque inteUigebant suspectos versus, neque quidquam temere mutare aut omittere audebant, reUctus est, ita tamen ut aUi , qui eum suo loco post v. 879 positum in aUis codidbus reperiebant, ibidem denuo repeterent, in quibus est Guelf. I et 2. Quod iUe eodem loco legitur, quo versus plane fatuus et misere compositus, nempe868, antecedit, hoc manifestum interpolationis indicium est. Denique et hoc considerandum est, auctorem in principio descriptionis clypei AchUlei potiores mundi, in eo figurati, partes veUe nominare, caelum, terras, mare : progredi deinde ad ea, quae singuUs universi partibus insunt, ad sidera caeU, ad maris Deos, ad terrae urbes et habitatores. Quod eum videmus plane ad exemplar Ovidii fecisse, qui in descriptione regiae Solis, Metam. II, 5 seqq. aequore, terra et caelo nominatis, post eodem ordine eorumdem Deos et incolas sigiUatim recenset. Noster caelum nominat versu 867 , terras
+Et sane aequo Jove hic judicat Barthius. Nam primo, alter versus Sideraque et liquidas redimitas undique Nymphas, quam ineptus et fatuus est! Et quamvis cl. Anton. de Rooy, Spicil. Crit. p. 99, succurrere emendatione, et Nymphis redimitas scribere velit, insulsa tamen et haec phrasis et nulli facile poetae probata est. In tertio versu Fecerat et mira liquidas Nereidas arte, et Nereides superflue advocantur, Nymphis jam ante nominatis, et illae repetito vocabulo liquidas appellantur ut Nymphae, quod pauperis ingenii glossatorem facile prodit. Deinde idem versus Fecerat et, etc. in Msptis codd. Guelf. 1 et 2, quorum mihi non levis est auctoritas, infra post vers. 879 repetitur, ubi sane multo aptiore loco positus adparet, et Nereides post alios Deos marinos nominantur. Contra ille eo loco abest in cod. Helmst. et in editionibus Torini et Spondani. Unde facile colligimus, versum eum, si modo ipse genuinus est, in optimis antiquissimis codicibus scriptum esse post 879, ubi locus ei convenientissimus est, accessisse vero ineptum scholasticum, qui eum ad descriptionem mundi, quae versibus 867 et sequentibus continetur, ornandam atque illustrandam temere retraheret. Quo loco deinceps a plerisque descriptoribus, qui neque intelligebant suspectos versus, neque quidquam temere mutare aut omittere audebant, relictus est, ita tamen ut alii, qui eum suo loco post v. 879 positum in aliis codicibus reperiebant, ibidem denuo repeterent, in quibus est Guelf. 1 et 2. Quod ille eodem loco legitur, quo versus plane fatuus et misere compositus, nempe 868, antecedit, hoc manifestum interpolationis indicium est. Denique et hoc considerandum est, auctorem in principio descriptionis clypei Achillei potiores mundi, in eo figurati, partes velle nominare, caelum, terras, mare: progredi deinde ad ea, quae singulis universi partibus insunt, ad sidera caeli, ad maris Deos, ad terrae urbes et habitatores. Quod eum videmus plane ad exemplar Ovidii fecisse, qui in descriptione regiae Solis, Metam. II, 5 seqq. aequore, terra et caelo nominatis, post eodem ordine eorumdem Deos et incolas sigillatim recenset. Noster caelum nominat versu 867, terras
 
 ## p. 616
 
 PDF page 626.
 
-et maria v. 870. His igitur quum numina UDdarum et maris Nymphae et Nereides interponuntur, et quidem ante Oceanum et Nerea, qui Nympharum patres et praesides feruo* tur, hoc contra ordinem et alieno loco fieri abunde patet. Si Noster Nymphas et Nereides nominare voluit, certe eo loco debuit, quo Deos maris referebat, quomodo et quibusdam in codicibus fieri monuimus. In iis vero a yersu 877 redeunt Nereus et Oceanus cum Nymphis, et reliquum igitur est^ ut duo versus iUos, quibus Nymph» et Nereides adducnntur, supervacuos agnoscamus, et tamquam spurios ejiciamus , atque sic scribamus :
+et maria v. 870. His igitur quum numina undarum et maris Nymphae et Nereides interponuntur, et quidem ante Oceanum et Nerea, qui Nympharum patres et praesides feruntur, hoc contra ordinem et alieno loco fieri abunde patet. Si Noster Nymphas et Nereides nominare voluit, certe eo loco debuit, quo Deos maris referebat, quomodo et quibusdam in codicibus fieri monuimus. In iis vero a versu 877 redeunt Nereus et Oceanus cum Nymphis, et reliquum igitur est, ut duo versus illos, quibus Nymphae et Nereides adducuntur, supervacuos agnoscamus, et tamquam spurios ejiciamus, atque sic scribamus:
 
-lUic Ignipotens mundi caQlaTerat axe« ,
+Illic Ignipotens mundi caelaverat axem,
+Sideraque et terras, et euntem Nerea circum.
 
-Sideraqae et terras, et enutem Nerea circum.
+Haec verba, quae post ejecta spuria reliqui, genuina auctoris esse, facile persuadeat Ovidii versus Metam. XIII, 291, de ipso Achillis clypeo agens, quem ille pro more suo procul dubio ante oculos habuit:
 
-Haec vcrba, quae post ejecta spuria reliqui , genuina auctoris esse, faciie persuadeat Ovidii versus Metam. XIII, 291,^0 ipso Achillis piypeo agens , quem ille pro more suo procul dubio ante oculos habuit :
+neque enim clypei caelamina norit,
+Oceanum et terras, cumque alto sidera caelo.
 
-neque enim clypei calamina norit ,
+Et idem, Metam. II, 5, de valvis regiae Solis:
 
-Oceanum et terras , cumque alto sidera celo.
+... Mulciber illic
+Aequora caelarat medias cingentia terras,
+Terrarumque orbem, caelumque quod imminet illi.
 
-Et idem, Metam. 11. 5, de vaivis regiae Solis :
-
-... * .Mulciber illic
-
-iEquora cslarat medias cingentia terras ,
-
-Terrarumque orbem , caeiumque quod imminet illi.
-
-Caeterum , he spuriis istis ejectis , numerum et ordinem versuum , qui in vulgatis et edids scriptoris nostri exemplaribus est, nimium turbemus, suffecit mihi in ipso contextu describendo verba ea , qu» deleta velim , uncinis inclusa a reliquis versibus separare , eoque seriem versuum genuinam et veram lectionem indicare.
+Caeterum, ne spuriis istis ejectis, numerum et ordinem versuum, qui in vulgatis et editis scriptoris nostri exemplaribus est, nimium turbemus, suffecit mihi in ipso contextu describendo verba ea, quae deleta velim, uncinis inclusa a reliquis versibus separare, eoque seriem versuum genuinam et veram lectionem indicare.
 
 ## p. 617
 
@@ -108,44 +99,36 @@ EXCURSUS III
 AD EPIT. ILIAD. HOM. vs. 894-896.
 
 Hic intermedius stabat Mars aureus armis,
+Diva potens Atropos circa, reliquaeque sedebant
+Sanguineis maestae Clotho Lachesisque capillis.
 
-Diva potens Atropos circa , reliqasque sedebant
+Parum ingeniosa nec satis apta videtur imago vel caelatura, quae hic additur, Martis in medio stantis, et Parcarum circa Martem sedentium; neque facile perspicitur, quae ratio illius huc relatae sit. Agnosco quidem imitationem Virgilii, cujus partem clypei Aeneae, Aen. VIII, 700 seq. hic exprimere voluit scriptor:
 
-Sanguineis moest» Glotho Lachesisque capillis.
+saevit medio in certamine Mavors
+Caelatus ferro, tristesque ex aethere Dirae;
+Et scissa gaudens vadit Discordia palla,
+Quam cum sanguineo sequitur Bellona flagello.
 
-Pabuh ingeniosa nec satis apta Tidetur imago vel caelatura , quas hic additur , Martis in medio stantis , et Parcarum circa Martem sedentium; neque facile perspicitur , quse ratio illius huc relatae sit. Agnosco quidem imitationem Virgilii, cujus partem clypei JEne^j iEn.VIII, 700 seq. hic exprimere voluit scriptor :
+Sed Virgilius ante de praelio Actiaco loquitur, ubi congruum erat, Martem cum Discordia et Diris medio in certamine adparentes sistere. Neque aliter Homerus, quem ipse Virgilius respexit, qui Iliad. XVIII, 535, Discordiam, Tumultum et Fatum versari inter homines dicit, ubi obsidionem urbis et praelium cum hoste subito invadente commissum narravit:
 
-saeyit medio in certamine Ma^ors
+Ἐν δ᾽ Ἔρις, ἐν δὲ Κυδοιμὸς ὁμίλεον, ἐν δ᾽ ὀλοὴ Κήρ.
 
-Caelatufi ferro , tristesque ex ssthere Diro ;
-
-Et scissa gaudens yadit Discordia palla ,
-
-Quam cum sanguineo sequitur BeUona flagelio.
-
-Sed Virgilius ante de praelio Actiaco loquitur, ubi congruum erat, Martem cum Discordia et Diris medio in certamine adparentes sistere. INeque aliter Homerus, quem ipse Virgilius respexit, qui lUad. XVIII, 535 , Discordiam, Tumultum et Fatum versari inter homines dicit, ubi obsidionem urbis et praelium cum hoste subito invadente commissura narravit:
-
-Ev ^* &pic , iv ^t Ku^oii^oc dffctXtov, h ^' iX\<yit Knp.
-
-Cui similia habet Hesiodus in Scut. Herc. v. i54 seqq. Noster Mavortem intermedium et Parcas circum sedehtes inducit , postquam agricolarum , messorum , vinitorum , pastorum operas narraverat, in quibus Marti cum comitibus vix locus est. Sed tamen auctor, ne eum plane indefensiun ,
+Cui similia habet Hesiodus in Scut. Herc. v. 154 seqq. Noster Mavortem intermedium et Parcas circum sedentes inducit, postquam agricolarum, messorum, vinitorum, pastorum operas narraverat, in quibus Marti cum comitibus vix locus est. Sed tamen auctor, ne eum plane indefensum,
 
 ## p. 618
 
 PDF page 628.
 
-aut minus excusatum relinquamus, aliam rationem , quani Homerus etMaro^in fingenda hac imagine sequutus, et consulto Martem cum Parcis , non , ut isti , cum Discordia , Fato, Diris conjunxisse videtur. Haec numina bellorum in primis comites praesidesque sunt, et ab Homero Virgilioque nominantur, quoniam ii solam bellorum calamitatem yolunt describere. Kiqp ab Homero toties usurpatum ; ubi de prsliis loquitur, primario fatum hominum in bello peremptorum denotat; et Virgilius, ubi tristes ex cethere Diras loco adducto vocat , judice ill. Heynio ad Virgil. 1. c. K%a\< Hesiodi eo nomine reddidit. Parcae, quas Homerista noster hic adducere voluit, mortem naturalem hominum et quaelibet fata habere in potestate dicuntur. Has ille adjungit Marti, ut gerainum mortis genus , quo perire homines soleant , alterum illud violentum et praematurum in bello, alterum naturale, quod suo cuique iato evenit, significet[: quomodo eonjunxit Ovidius, Trist. lib. I, 2, 53 :
+aut minus excusatum relinquamus, aliam rationem, quam Homerus et Maro, in fingenda hac imagine sequutus, et consulto Martem cum Parcis, non, ut isti, cum Discordia, Fato, Diris conjunxisse videtur. Haec numina bellorum in primis comites praesidesque sunt, et ab Homero Virgilioque nominantur, quoniam ii solam bellorum calamitatem volunt describere. Κὴρ ab Homero toties usurpatum; ubi de praeliis loquitur, primario fatum hominum in bello peremptorum denotat; et Virgilius, ubi tristes ex aethere Diras loco adducto vocat, judice ill. Heynio ad Virgil. l. c. Κῆρας Hesiodi eo nomine reddidit. Parcae, quas Homerista noster hic adducere voluit, mortem naturalem hominum et quaelibet fata habere in potestate dicuntur. Has ille adjungit Marti, ut geminum mortis genus, quo perire homines soleant, alterum illud violentum et praematurum in bello, alterum naturale, quod suo cuique fato evenit, significet: quomodo conjunxit Ovidius, Trist. lib. I, 2, 53:
 
-Est aliquid, fatove $uo feirove cadentem
+Est aliquid, fatove suo ferrove cadentem
+In solida moriens ponere corpus humo.
 
-In solida moriens ponere corpus hamo.
+Non igitur Diras et Discordiam et Fatum comites addere Marti voluit, quod singularia belli pericula et fata describere nolebat, sed finem adumbrare, quem vita quaeque hominum et genus universum haberet. Postquam igitur varia vitae degendae genera, ut civium in urbibus viventium, virorum et mulierum, v. 882 seqq. rura colentium, messorum, vinitorum, pastorum v. 890 seqq. enumeravit, subjicit denique Martem inter eos medium cum Parcis stare, hoc est, his omnibus tandem mortem vel bello, vel fato alio oppetendam imminere; videturque adeo ante oculos habuisse versus Virgilii, quibus vitae humanae fata complectitur, Georg. lib. III, 66:
 
-Non igitur Diras et Discordiam et Fatum comites addere Marti voluit, quod singularia belli pericula et iata describere nolebat, sed finem adumbrare, quem vita quaeque hominum et genus universuni haberet. Postquam igitur varia vitae degendae genera , ut civium in urbibus viventium , virorum et mnlierum, v. 882 seqq. rura col^ntium, messorum , vinitorum , pastorum v. 890 seqq. enumeravit , subjicit denique Martem inter eos medium cum Parcis stare, hoc est, his omnibus tandem mortem vel bello, vel fato alio oppetendam imminere; videturque adeo ante oculos habuisse versus Virgilii, quibus vitae humana; fata complectitur, Georg. lib. 111,66:
-
-Optima qusque dies miseiis mortalibus sevi
-
-Prima fugit : subeunt morbi , tristisque senectus ,
-
-Et labor, et durce rapit inclementia mortis.
+Optima quaeque dies miseris mortalibus aevi
+Prima fugit: subeunt morbi, tristisque senectus,
+Et labor, et durae rapit inclementia mortis.
 
 ## p. 619
 
@@ -153,30 +136,25 @@ PDF page 629.
 
 EXCURSUS IV
 
-AD EPIT. ILIAD- HOM. vs. 919-921.
+AD EPIT. ILIAD. HOM. vs. 919-921.
 
-qoi protinus nndiqne totis
+qui protinus undique totis
+Impediatur aquis; sed vasto gurgite praeceps
+Volvitur, atque virum torrentibus impedit undis.
 
-Impediatur aqnif ; sed yasto gnrgite pnsceps
+VERBA haec, quae e vulgatis editionibus reposuimus, qui protinus undique totis Impediatur aquis, male adfecta esse videntur, maleque cohaerere cum vicinis: sed vasto gurgite praeceps volvitur, etc. Nam relativum qui protinus per consequentiam orationis ad Xanthum fluvium, qui coactus est consurgere et protinus consurgit, respicit, sed Impediatur, quod sequitur, non aliter, quam de Achille, qui aquis impediendus est, potest intelligi; rursus autem verba insequentia sed praeceps volvitur de Xantho agunt. Igitur verbum Impediatur, quod orationem distrahit, mutandum videtur, praesertim quum versu sequente mox recurrat impedit. Et vitium in eo jam sensisse scriptor codicis Helmst. videtur, qui verbum istud in Expediatur mutavit, et scripsit Expediatur aquis et vasto, etc. Nam hoc intelligi de fluvio potest, ut notet explicet aquas suas. Sed quoniam non verba conjunctivi modi sequuntur, qualia copula et post expediatur poscebat, sed volvitur et impedit, hinc adparet, illud Expediatur correctionem esse a descriptore tentatam minime sufficientem, et illius verbi loco aliud quid requiri, quod sensum et orationis nexum plene restituat. Ne multa, sic omnino scribendum arbitror:
 
-Volvitnr, atque yiram torrentibus impedit uudifi.
-
-YsHBA hfl9C) quae e vulgatis editionibus reposuimus, qui protinus undiquetotislmpediaturaquis, male adfecta esse videntur, maleque cohaerere cum vicinis: sed ^vasto gurgite prasceps yolvitur y etc. Nam relativum qui protinus fer consequentiam orationis ad Xanthum fluvium, qui coactus est consurgere et protinus consurgit, respicit, sed Impediatur, quod sequitur, non aliter^ quam de Achille , qui aquis impediendus est , potest inteliigi ] rursus autem verba insequentia sedpneaps volt^iturde Xantho agunt. Igitur.verbum Impediatur, qaod orationem distrahit, mutandum videtur, praesertim quum verSu sequente mox recurrat impedit. Et vitiimi in eo jam sensisse scriptor codicis Helmstad. videtur, qui verbum istud in Expediatur mutavit, et scripsit £a:/;ediatur aquis et vasto, etc. Nam hoc intelligi de fluvio potest, ut notet explicet aquas suas. Sed quoniam non verba conjunctivi modi sequpntur , qualia copula et post expediatur poscebat, sed volvitur et impedity hinc adparet, illud Expediatur oorrectionem esse a descriptore tentatam mininie sufficientem, et illius verbi loco aliud quid requiri, quod sensum et orationis nexum plene restituat. Ne niulta , sic omnino scribendum arbitror :
-
-qui (Xantlius) prottnus uudique totis
-
-Impetuosus aquis, et vasto gurgite pneceps
-
-Volvitury atquc virum torrentibus inipedit uudis.
+qui (Xanthus) protinus undique totis
+Impetuosus aquis, et vasto gurgite praeceps
+Volvitur, atque virum torrentibus impedit undis.
 
 ## p. 620
 
 PDF page 630.
 
-Vocabulum impetuosus non indignum aetate scriptoris nostri est, ety si meliorum usu scriptorum destituitur, hujus certe nostri auctori|ate stare potest. Gommode autem et significanter impetus tribuitur fluvio tumenti , ut in hoc ()vidii Met. III, 79:
+Vocabulum impetuosus non indignum aetate scriptoris nostri est, et, si meliorum usu scriptorum destituitur, hujus certe nostri auctoritate stare potest. Commode autem et significanter impetus tribuitur fluvio tumenti, ut in hoc Ovidii Met. III, 79:
 
-Impete nunc Tasto , ceu concittt« imbribus amnis
+Impete nunc vasto, ceu concitus imbribus amnis
+Fertur.
 
-Fertnr.
-
-Et libro XI, 53o : f^astius insurgens decimas ruit impetus undce. Si vocem impetuosus tamquam rejiculam et minus probatam spernis, pone ejus loco imperiosus, quemadmodum Horatius imperiosum cequor dixit Carm. I, i^? 8* Istud tamen ipse prsefero.
+Et libro XI, 530: Vastius insurgens decimae ruit impetus undae. Si vocem impetuosus tamquam rejiculam et minus probatam spernis, pone ejus loco imperiosus, quemadmodum Horatius imperiosum aequor dixit Carm. I, 14, 8. Istud tamen ipse praefero.

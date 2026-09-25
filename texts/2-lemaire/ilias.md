@@ -9,15 +9,15 @@ OCR; see [README.md](README.md).
 
 PDF page 525.
 
-Title: XIV. / INCERTI AUCTORIS / (VULOO PINDARI THEBANI) / EPITOME ILIADOS HOMERI.
+Title: XIV. / INCERTI AUCTORIS / (VULGO PINDARI THEBANI) / EPITOME ILIADOS HOMERI.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 1 | 1 | Iram pande tnihi Pelidae, Diva, superbi, |  |
+| 1 | 1 | Iram pande mihi Pelidae, Diva, superbi, |  |
 | 2 | 2 | Tristia quae miseris injecit funera Graiis , |  |
 | 3 | 3 | Atque animas fortes heroum tradidit Orco, |  |
 | 4 | 4 | Latrantumque dedit rostris volucrumque trahendos |  |
-| 5 | 5 | lUorum exsangues inhumatis ossibus artus. |  |
+| 5 | 5 | Illorum exsangues inhumatis ossibus artus. | 5 |
 | 6 | 6 | Confiebat enim summi sententia regis, |  |
 
 ### Notes
@@ -33,24 +33,24 @@ PDF page 526.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 7 | 7 | £x quo contulerant discordi pectore pugnas |  |
+| 7 | 7 | Ex quo contulerant discordi pectore pugnas |  |
 | 8 | 8 | Sceptriger Atrides, et bello clarus Achilles. |  |
 | 9 | 9 | Quis Deus hos ira tristi contendere jussit? |  |
-| 10 | 10 | Latpnae et magni proles Jovis. Ille Pelasgum |  |
+| 10 | 10 | Latonae et magni proles Jovis. Ille Pelasgum | 10 |
 | 11 | 11 | Infestus regi pestem in praecordia misit, |  |
 | 12 | 12 | Implicuitque gravi Danaorum corpora morbo. |  |
 | 13 | 13 | Nam quondam Chryses solenni tempora vitta |  |
-| 14 | 14 | Implicitus, raptae (levit solatia natae, |  |
-| 15 | 15 | Invisosque dies invisaque tempora noctis | fS |
+| 14 | 14 | Implicitus, raptae flevit solatia natae, |  |
+| 15 | 15 | Invisosque dies invisaque tempora noctis | 15 |
 | 16 | 16 | Egit, et assiduis implevit questibus auras. |  |
 
 ### Notes
 
-- **(cont.)** rii aliis in locis verba confieri et eonficere ssBpe commutaraDt. Verbum confiebat id gracum Homeri At^c ^' irtXtuTo PouXn optime eiprimit, et similiter eo Terbo utitar Virg. iEneid. IV, ii6: « nunc qna ratione , quod instat , Confieri poaait , paucis , adverte , docebo ». Qno et Lucretius, III , 41 3 : « Id quoque enim sine pernicie confiet eorum » ; idem , IV, 293, « quoniam res confit utroque -.
+- **(cont.)** rii aliis in locis verba confieri et eonficere ssBpe commutaraDt. Verbum confiebat id gracum Homeri Διὸς δ᾽ ἐτελείετο βουλή optime eiprimit, et similiter eo Terbo utitar Virg. iEneid. IV, ii6: « nunc qna ratione , quod instat , Confieri poaait , paucis , adverte , docebo ». Qno et Lucretius, III , 41 3 : « Id quoque enim sine pernicie confiet eorum » ; idem , IV, 293, « quoniam res confit utroque -.
 - **7** Cod. Guelf. I legit Pertulerant ex quo discordia pectora pugnas ; Gnelf. a Ex quo pertulerant. Sed aine dubio rectiua est , quod caeterae habent Ex quo contulerant pu' gnas. Sic Virg. JEn. X, i46: «lUi inter sese duri certamina belli Contulerant i*.
-- **9** Guelf. I et a legunt Quis Deus kos ira tristi, qnod merito prs^ero ccterorum lecUoni /ato tristi, Nam si fatum hic nominare auetor vo- Init, npn qu«rere debuit quis Deus. Supra enim jam sententiam Jovis dixit, qu» ipsum fatum est. Atque illud verba Homeri poscunt Ipi^t .HuvJDXi piaxtffOau
+- **9** Guelf. I et a legunt Quis Deus kos ira tristi, qnod merito prs^ero ccterorum lecUoni /ato tristi, Nam si fatum hic nominare auetor vo- Init, npn qu«rere debuit quis Deus. Supra enim jam sententiam Jovis dixit, qu» ipsum fatum est. Atque illud verba Homeri poscunt ἔριδι ξυνέηκε μάχεσθαι.
 - **10** lUe Pelasgum prvferunt G. i et a y iste Pelasgum Lipsiensis antiqua et BasiLTorini.
-- **11** Infestam regi G. i. Infestam regis Annab. Tor. et caet. sed legendum omnino est , quod Dussenins 1. c. p. 4 bene yidit , Infestus regi pestem in prtecordia misit. Hoc «oiiB volunt verba Homeri , ys. 9, i jit^ paotXiii xoXu6tU 9 et ipse anctor infra ,T. 55, confirmat: «Hsec ait : Infesti placemus numina Phosbi *. Juvat etiam Guelf. i , qui dativnm regi ponit. — Pestem in pnecordia misit : nempe iram , quse ipsis esset pestifera. Sic apud Ovid. Metam. VIII, 791, Ceres de fame Ertsichloni immissa : « ea ae in praecordia condat Sacrilegi scelerata jube ».
+- **11** Infestam regi G. i. Infestam regis Annab. Tor. et caet. sed legendum omnino est , quod Dussenins 1. c. p. 4 bene yidit , Infestus regi pestem in prtecordia misit. Hoc «oiiB volunt verba Homeri , ys. 9, ὃ γὰρ βασιλῆϊ χολωθείς, et ipse anctor infra ,T. 55, confirmat: «Hsec ait : Infesti placemus numina Phosbi *. Juvat etiam Guelf. i , qui dativnm regi ponit. — Pestem in pnecordia misit : nempe iram , quse ipsis esset pestifera. Sic apud Ovid. Metam. VIII, 791, Ceres de fame Ertsichloni immissa : « ea ae in praecordia condat Sacrilegi scelerata jube ».
 - **12** Impiicuit morho. Sane ineleganter dictum , et magis offeodit quod fere statim vs. 14 lecurrit implicitus^ £d.
 - **13** Solenni tempora vitta Impiiei' ttts. Vittam nominat insigne sacerdotii capiti innexum , quo solenmter utendum erat in sacrificiis et roinisteriis Apoilinis, sicut Cereris sacerdos apnd Ovid. MetV, iio, dicitur « aibenti velatns tempora vttta *». Hinc apparet roendosum esse quod G. i scribit, solenni tempore.
 - **15** Invisosque dies invisaque. G.s habet Infestosque dies, perperam. Dies nocteM|tte conqaestum esse
@@ -61,25 +61,25 @@ PDF page 527.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 17 | 17 | Postquam nuUa dies animum moerore levabat, |  |
-| 18 | 18 | NuUaque lenibant patrios solatia fletus, |  |
+| 17 | 17 | Postquam nulla dies animum moerore levabat, |  |
+| 18 | 18 | Nullaque lenibant patrios solatia fletus, |  |
 | 19 | 19 | Castra petit Danaum, genibusque adfusus Atridae, |  |
-| 20 | 20 | Per Superos regnique decus miserabilis orat^ | >o |
+| 20 | 20 | Per Superos regnique decus miserabilis orat, | 20 |
 | 21 | 21 | Ut sibi caussa suse reddatur nata salutis: |  |
 | 22 | 22 | Dona simul profert : vincuntur fletibus ejus |  |
 | 23 | 23 | Myrmidones , reddique patri Chryseida censent. |  |
 | 24 | 24 | Sed negat Atrides, Chrysenque excedere castris |  |
-| 25 | 25 | Despecta pietate jubet : ferus ossibus imis | as |
+| 25 | 25 | Despecta pietate jubet : ferus ossibus imis | 25 |
 | 26 | 26 | Haeret amor, spernitque preces damnosa libido. |  |
 | 27 | 27 | Contemptus repetit Phoebeia templa sacerdos,- |  |
-| 28 | 28 | Squalidaque infestis moerens secat unguibus ora^ |  |
+| 28 | 28 | Squalidaque infestis moerens secat unguibus ora, |  |
 
 ### Notes
 
 - **(cont.)** Chrysen hoc loco sigpiificat auctor, Yirgilium fprtasse imitatus, qni de Orpheo, Georg. IV, y. 464 : • Ip>e cava soUds «grum testudiue amorem , Te dulcit conjux, te solo in litore secum, Te yeniente die, te decedente canebat ». Homems tempus et perpetuitatem luctus non attigit, contra Chrysen in litore solum obambulantem facit ; quod Virgilius expressit in Orpheo, Noster omisit. invisam mosrentibtts /»eem yel viuim dicere solent poeta et inprimisVirgUius, ut .£n.IVy 63 1» XU, 177.
 - **17** Postquam nuUa tUes. Sequentes hos quinque versus Barthius, Advers. LVIII , 14 , memorabili iugenio et judicio scriptos esse adfirmat, eommque sua?itatem admiratur. — Levavit habent Yulgat» , sed levahat G. i et a , quod prsfero propter sequens lenibant. In priore cod. recentior manus margtni adposnit JL replevit, quod ineptum est.
 - **19** Genibus profiisus Atridis G. i.
-- **?** si. Vt sibi caussa sute, Apud Ovid. Met. VI, 499, Pandion de filia sna : • Per Superos oro £t mihi sollicitsB lenimen dulce senectsB Quamprimum (omnis erit nobis mora longa) remittas.
+- **21** Vt sibi caussa sute, Apud Ovid. Met. VI, 499, Pandion de filia sna : • Per Superos oro £t mihi sollicitsB lenimen dulce senectsB Quamprimum (omnis erit nobis mora longa) remittas.
 - **23** dfyrmidones. Barthius 1. cit. non satis circumspecte ab hoc auctore ait Myrmidones pro omnibus GrsBcis dici, quamquam Maro Danaos, Argivos , Pelasgos pro iisd^m habet ; hoc vero , quia novum , non posse pbcere; prsterea Myrmidonum aliam rationem esse , qui nomine preferant originem gentis prorsus peculiarem , quam ad reliquas extendere, prsDferat speciem historisB ignari.
 - **26** Hofret amor, spemitque : sicG. I et a. Sprevitque Ann. Htesit amor sprevitque L. Tor. Cl. P. Bondamio videtur hoc expressum ex Ovidio , Heroid. IV, 70 : « Acer in extremis ossibus hsBsit amor • , qui et Metam. III , 395, « Sed tamen hoBret amor ». — Dicunnosa Ubido est ab Horatio , Epist. II, I, 107.
 - **27** Contempto repetit G. a.
@@ -91,14 +91,14 @@ PDF page 528.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 29 | 29 | Dilaceratque coinas^ annosaque pectora plangit. |  |
-| 30 | 30 | Mox ubi depositi gemitus, lacrymaeque quierunt, | 3* |
+| 29 | 29 | Dilaceratque coinas, annosaque pectora plangit. |  |
+| 30 | 30 | Mox ubi depositi gemitus, lacrymaeque quierunt, | 30 |
 | 31 | 31 | Fatidici sacras compellat vocibus aras : |  |
-| 32 | 32 | tf Quid coluisse mihi tua numiua, Delphice , prodest , |  |
+| 32 | 32 | « Quid coluisse mihi tua numina, Delphice , prodest , |  |
 | 33 | 33 | Aut castam vitam multos duxisse per annos? |  |
 | 34 | 34 | Quidve juvat sacros posuisse altaribus ignes, |  |
-| 35 | 35 | Si tuus externo jam spernor ab hoste sacerdos? | ^i |
-| 36 | 36 | En haec desertae redduatur dona senectae. |  |
+| 35 | 35 | Si tuus externo jam spernor ab hoste sacerdos? | 35 |
+| 36 | 36 | En haec desertae redduntur dona senectae. |  |
 
 ### Notes
 
@@ -116,12 +116,12 @@ PDF page 529.
 | 37 | 37 | Si gratus tibi sum, sim te sub judice tutus, |  |
 | 38 | 38 | Aut si quam ut luerem sub acerbo crimine poenam |  |
 | 39 | 39 | Inscius admisi, cur o tua dextera cessat? |  |
-| 40 | 40 | Posce sacros arcus ; in me tua dirige tela : | 4n |
+| 40 | 40 | Posce sacros arcus ; in me tua dirige tela : | 40 |
 | 41 | 41 | Auctor mortis eris certe Deus : ecce merentem |  |
-| 42 | 42 | Fige patrem : qur nata luit peccata parentis, |  |
+| 42 | 42 | Fige patrem : cur nata luit peccata parentis, |  |
 | 43 | 43 | Atque hostis duri patitur miseranda cubile?» |  |
-| 44 | 44 | Dixerat. lUe sui vatis prece motus, acerbis |  |
-| 45 | 45 | Luctibus infestat Danaos , pestemque per omnes |  |
+| 44 | 44 | Dixerat. Ille sui vatis prece motus, acerbis |  |
+| 45 | 45 | Luctibus infestat Danaos , pestemque per omnes | 45 |
 
 ### Notes
 
@@ -143,12 +143,12 @@ PDF page 530.
 | 47 | 47 | Vixque rogis superest tellus, vix ignibus arbor: |  |
 | 48 | 48 | Deerat ager tumulis : jam noctis sidera nonae |  |
 | 49 | 49 | Transierant, decimusque dies patefecerat orbem; |  |
-| 50 | 50 | Tunc Danaum proceres in coetum clarus Achilles |  |
+| 50 | 50 | Tunc Danaum proceres in coetum clarus Achilles | 50 |
 | 51 | 51 | Convocat, et caussas hortatur pestis iniquae |  |
 | 52 | 52 | Edere Thestoridem. Tunc Calchas numina Divum |  |
-| 53 | 53 | Consulit^et caussas pariter finemque malorum |  |
+| 53 | 53 | Consulit,et caussas pariter finemque malorum |  |
 | 54 | 54 | Invenit, effarique verens , ope tutus Achillis |  |
-| 55 | 55 | Haec ait : « Infesti placetnus numina Phoebi , |  |
+| 55 | 55 | Haec ait : « Infesti placetnus numina Phoebi , | 55 |
 | 56 | 56 | Reddamusque pio castam Chryseida patri, |  |
 | 57 | 57 | Si volumus Danai portus intrare salutis ». |  |
 | 58 | 58 | Dixerat, exarsit subito violentia regis. |  |
@@ -161,7 +161,7 @@ PDF page 530.
 - **51** Caussas liortatur, 6. i scribit casus hortatur, sed in margine legitiir causas.
 - **52** Thestoriden G. i*. Tum Caichas G. 3. Thestoridam , tunc Caichas A. Testoridem T.
 - **54** tnvenit farique *verens G. i. Effari *verens A.
-- **?** 6y. Portus intrare saltttis. Ad hcc verba Barthius : De saeculi est inquinatione quadam , quod portum salutis intrare pro pestilentia liberari dixit , quo loco sane aliter scripsisset majorum g^ntium aliqnis vates. « Ego vero, an apte satis eam
+- **57** Portus intrare saltttis. Ad hcc verba Barthius : De saeculi est inquinatione quadam , quod portum salutis intrare pro pestilentia liberari dixit , quo loco sane aliter scripsisset majorum g^ntium aliqnis vates. « Ego vero, an apte satis eam
 
 ## p. 521
 
@@ -170,7 +170,7 @@ PDF page 531.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 59 | 59 | Thestoridem dictis primum compellat amaris, |  |
-| 60 | 60 | Mendacemque vocat, magnumque incusat Achillem, | €• |
+| 60 | 60 | Mendacemque vocat, magnumque incusat Achillem, | 60 |
 | 61 | 61 | Inque vicem ducis invicti convicia sufFert. |  |
 | 62 | 62 | Confremuere omnes : tandem clamore represso |  |
 | 63 | 63 | Cogitur invitos aeger dimittere amores, |  |
@@ -198,18 +198,18 @@ PDF page 532.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 69 | 69 | £t prope consumptae vires redduntur Achivis. |  |
-| 70 | 70 | Non tamen Atridae Chryseidis excidit ardor : |  |
+| 69 | 69 | Et prope consumptae vires redduntur Achivis. |  |
+| 70 | 70 | Non tamen Atridae Chryseidis excidit ardor : | 70 |
 | 71 | 71 | Moeret , et amissos deceptus luget amores. |  |
 | 72 | 72 | Mox rapta magnum Briseide privat Achillem , |  |
 | 73 | 73 | Solaturque suos alienis ignibus ignes. |  |
-| 74 | 74 | At ferus ^cides nudato protinus ense |  |
-| 75 | 75 | Tendit in Atriden , cui ^ ni sibi reddat honestae |  |
+| 74 | 74 | At ferus Aeacides nudato protinus ense |  |
+| 75 | 75 | Tendit in Atriden , cui , ni sibi reddat honestae | 75 |
 | 76 | 76 | Munera militiae , letum crudele minatur. |  |
 | 77 | 77 | Nec minus ille parat contra defendere sese, |  |
 | 78 | 78 | Et nisi casta manu Pallas tenuisset Achillem, |  |
 | 79 | 79 | Turpem caecus amor famam liquisset in aevum |  |
-| 80 | 80 | Gentibus Argolicis : contentus voce minisque , |  |
+| 80 | 80 | Gentibus Argolicis : contentus voce minisque , | 80 |
 
 ### Notes
 
@@ -228,16 +228,16 @@ PDF page 533.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 81 | 81 | Invocat aequorese Peiides numina raatris , |  |
+| 81 | 81 | Invocat aequorese Pelides numina matris , |  |
 | 82 | 82 | Ne se plus contra Atridem patiatur inultum. |  |
 | 83 | 83 | At Thetis, audita nati prece, deserit undas, |  |
 | 84 | 84 | Castraque Myrmidonum praetervolat, inde per auras |  |
-| 86 | 85 | Emicat aethereas, et in aurea sidera fertur; | 8S |
+| 86 | 85 | Emicat aethereas, et in aurea sidera fertur; | 85 |
 | 87 | 86 | Tunc genibus regis sparsis affusa capillis: |  |
 | 88 | 87 | c( Pro nato veni genitrix en ad tua supplex |  |
 | 89 | 88 | Numina , suiome parens : ulciscere meque meumque |  |
 | 90 | 89 | Corpus ab Atride : quod si permittitur illi , |  |
-| 91 | 90 | Ut flammas impune mei violarit Achillis, |  |
+| 91 | 90 | Ut flammas impune mei violarit Achillis, | 90 |
 | 92 | 91 | Turpiter occiderit superata libidine virtus». |  |
 | 93 | 92 | Jupiter huic contra : « Tristes depone querelas , |  |
 
@@ -259,19 +259,19 @@ PDF page 534.
 |---|---|---|---|
 | 94 | 93 | Magni Diva maris , mecum labor iste manebit : |  |
 | 95 | 94 | Tu solare tui moerehtia pectora nati». |  |
-| 96 | 95 | Dixit ; at illa leves caeli delapsa per auras |  |
+| 96 | 95 | Dixit ; at illa leves caeli delapsa per auras | 95 |
 | 97 | 96 | Litus adit patrium gratasque sororibus undas. |  |
 | 98 | 97 | Ofiensa est Juno, aTantumque, ait, optime conjux, |  |
 | 99 | 98 | Doride nata valet, tantum debetur Achilli, |  |
 | 100 | 99 | Ut mihi, quse conjux dicor tua , quaeque sororis |  |
-| 101 | 100 | Dulce fero nomen, dilectos fundere Achivos, | \<• |
-| 102 | 101 | £t Troum renovare velis in praelia vires? |  |
+| 101 | 100 | Dulce fero nomen, dilectos fundere Achivos, | 100 |
+| 102 | 101 | Et Troum renovare velis in praelia vires? |  |
 
 ### Notes
 
 - **(cont.)** debitam filio sno honorem in mellas mntati redderent.
 - **92 (LL 93)** Jupifer huic dixit legunt edd. L. T. et Sp. hinc dixit cod. A. sed G. s , et Basil. in marg. Jupiter huic contra, quod elegantius et poetis valde nsitatum est. Dussenius, p. 1 4 » his locis probat : Ovid. Met. V, 3o, «nienihil contra, sedethunc, etc. >* Phaedr. I , fab. 1,6:« laniger contra timens , Qui , quseso , possim facere , quod quereris , lupe ? >
-- **93 (LL 94)** Mecum labor ipse manebit, G. a laboriUe : h. e. hanc rem diligenter assidueque cnrabo. Homer. -v. 5a3: ifMi ^i xt TocSra pLeX-nfftTOt , ^f pa Tt- X^9ao. — Expressit Noster Virgilii iEneid. IV, ii5: «Mecum erit iste labor » ; et vidietur simul respexisse verba Jovis ad Venerem apud Virg. ^n. I , a56 : « Parce metu, Cytherea : manent immota tuorum Fata tibi • ; aut quod iEolus ad Junonem , iSn. 1 , 76 , « tuus , o regina , quid optes, Explorare labor, mihi jussa capessere fas est >. Gontrarium Terbis Nostri est illud Virgilii , iEn. II , 595 : « quonam nostrt tibi cura recessit ».
+- **93 (LL 94)** Mecum labor ipse manebit, G. a laboriUe : h. e. hanc rem diligenter assidueque cnrabo. Homer. v. 523 : ἐμοὶ δέ κε ταῦτα μελήσεται, ὄφρα τελέσσω. ifMi ^i xt TocSra pLeX-nfftTOt , ^f pa Tt- X^9ao. — Expressit Noster Virgilii iEneid. IV, ii5: «Mecum erit iste labor » ; et vidietur simul respexisse verba Jovis ad Venerem apud Virg. ^n. I , a56 : « Parce metu, Cytherea : manent immota tuorum Fata tibi • ; aut quod iEolus ad Junonem , iSn. 1 , 76 , « tuus , o regina , quid optes, Explorare labor, mihi jussa capessere fas est >. Gontrarium Terbis Nostri est illud Virgilii , iEn. II , 595 : « quonam nostrt tibi cura recessit ».
 - **95 (LL 96)** Quod Torini et Spondani editio habet , et itta levis cofli, Dnsse» nius, p. i5, corrigendum censuit iila leves per aura^. Verum hoc ipsum prsBferunt Teteres libri. Dixerat, illa leves G. a ; Dixit, at iUa leves . . . dilapsa A. et L.
 - **97 (LL 98)** Tantumque, ait, sane prseferunt editi ; sed G. 9 Tantumne, quod haud ineptum.
 - **98 (LL 99)** Dorida nata habet Basil. sed hunc errorem operarum esse, jam obserTavit de Roojr 1. c. p. 96 , qoi Doride nata corrigit , idemque clare legitur in G. i. Nata valet Doride tantumque debetur vitiose exhibent A. et L. Propertius ab Ant. de Rooy citatur, lib. 1 , 18 , a5 : « At vos «quore» formosa Doride nate» Candida felici solvite vela choro ». Doride natse sunt Oceanitides, at vocantur Virgilio , Georg. IV, 34i- Sic autem, inquit Barthius in Adv. p. 2753, inepte vocat per convicium Juno Thetidem , immemor, se quoque Oceani filiam esse , ex quo liiade , lib. XXm , scripsit Homems : OxtavovTt fttttv Y^vigiv jcat (i3)Ttpa Tiiftov.
@@ -286,17 +286,17 @@ PDF page 535.
 | 103 | 102 | Haec ita dona refers nobis? sic diligor a te? » |  |
 | 104 | 103 | Talibus incusat dictis irata Tonantem , |  |
 | 105 | 104 | Inque vicem summi patitur convicia regis. |  |
-| 106 | 105 | Tandem interposito lis Ignipotente resedit, |  |
+| 106 | 105 | Tandem interposito lis Ignipotente resedit, | 105 |
 | 107 | 106 | Conciliumque simul genitor dimittir ab aula. |  |
 | 108 | 107 | Interea sol immenso decedit Olympo, |  |
 | 109 | 108 | Et dapibus largis curant sua corpora Divi , |  |
 | 110 | 109 | Inde petunt thalamos jucundaque dona quietis. |  |
-| 111 | 110 | II. Nox erat et toto fulgebant sidera caelo, |  |
+| 111 | 110 | II. Nox erat et toto fulgebant sidera caelo, | 110 |
 | 112 | 111 | Humanumque genus requies Divumque tenebat; |  |
 
 ### Notes
 
-- **?** lod. Htee ita dona rtfers nobis ? sic diUgor. Dnssenias mavult Hteceine dona refers nobisP id est, talia dona. Hoc sane clarias et elegan* tiaa ; Tulgata lectio paallo darior. Ego tamen crediderim propins accedi ad scriptaram valgata , si legamus Htec eu dona refers nobis ? Gaeterum forma hujus dicti plane expressa est ad orationem Yeneris ad Joyem apud Vrrg. JSn. I , aSB : «Hic pietatis honos? sic nos in tceptra reponis ? »
+- **104 (LL 105)** Htee ita dona rtfers nobis ? sic diUgor. Dnssenias mavult Hteceine dona refers nobisP id est, talia dona. Hoc sane clarias et elegan* tiaa ; Tulgata lectio paallo darior. Ego tamen crediderim propins accedi ad scriptaram valgata , si legamus Htec eu dona refers nobis ? Gaeterum forma hujus dicti plane expressa est ad orationem Yeneris ad Joyem apud Vrrg. JSn. I , aSB : «Hic pietatis honos? sic nos in tceptra reponis ? »
 - **103 (LL 104)** TaUbus incusat: e Yirgilio,
 - **105 (LL 106)** Interposito lis omnipotente legitur in omnibus manu exaratis et excosis libris , et Barthius , Adv. LVIII , i^y VidiikOl^l omnipotentem xar* i\oj^H pulchre Jovem designare. Sed Dussenius 1. c. p. i6 , pulchre animadyertit ignipotente legendam esse , et Vulcanum inteUigi. Hic enim intervenit Jovi et Junoni rixanti, et hortatu multisque pocur lis invitans parentes placavit ^ ad hilaritatemque convertit. Sic Hom. Iliad. I, 571 : Totoiv ^* HfatOTO^ xXuTOTtxvD( "{px* ^lfoptuciv* Vulcanus autem a nostro auctore aliisqne poetts vocatur Ignipoiens, Infra, vs. 867 : « Illic Ignipotens mundi csDlaverat axem » ; et Virgil. Mn. VIII, 414» * Haud secus Ignipotens, nec tempore segnior illo » : addendum illud JEn. X, a43 : « clypeam cape quem dedit ipse Invictum Ignipotens, etc. » Ed.
 - **106 (LL 107)** Dimittit ab aula, Pro hoc ab aula perperam Olimpi legit 6. i. Vox ea eiTore iibrarii in hunc versum e sequente migravit.
@@ -311,20 +311,20 @@ PDF page 536.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 113 | 112 | Tunc pater omnipotens Somnum vocat,atque ita fisitur : |  |
-| 114 | 113 | aVade, age, per tenues auras, lenissime Divum , |  |
+| 113 | 112 | Tunc pater omnipotens Somnum vocat,atque ita fatur : |  |
+| 114 | 113 | « Vade, age, per tenues auras, lenissime Divum , |  |
 | 115 | 114 | Argolicique ducis celeri pete castra volatu, |  |
-| 116 | 115 | Dumque tuo premitur sopitus pondere dulci, | ns |
+| 116 | 115 | Dumque tuo premitur sopitus pondere dulci, | 115 |
 | 117 | 116 | Haec illi mandata refer : quum crastina primum |  |
 | 118 | 117 | Extulerit Titana dies, noctemque fugarit, |  |
-| 119 | 118 | Cogat in arma viros ^ incautumque occupet hostem ». |  |
+| 119 | 118 | Cogat in arma viros , incautumque occupet hostem ». |  |
 | 120 | 119 | Nec mora, Somnus abit, levibusque per aera pennis |  |
-| 121 | 120 | Devolat in thalamos Agamemnonis : ille sopore | x**» |
+| 121 | 120 | Devolat in thalamos Agamemnonis : ille sopore | 120 |
 | 122 | 121 | Corpus inundatum leni prostratus habebat. |  |
 | 123 | 122 | Ad quem sic loquitur curarum operumque levator: |  |
 | 124 | 123 | «RexDanaum, Atrida, vigila, et mandata Tonantis, |  |
-| 125 | 124 | Quae tibi missa simul delapsus ab sethere porto , |  |
-| 126 | 125 | Accipe : quum primum Titan emerserit undis, | laS |
+| 125 | 124 | Quae tibi missa simul delapsus ab aethere porto , |  |
+| 126 | 125 | Accipe : quum primum Titan emerserit undis, | 125 |
 | 127 | 126 | Fortibus arma jube socios aptare lacertis, |  |
 
 ### Notes
@@ -349,19 +349,19 @@ PDF page 537.
 | 128 | 127 | Et petere Iliacos instructo milite campos ». |  |
 | 129 | 128 | Dixity et has repetit, per quas modo venerat, auras. |  |
 | 130 | 129 | Interea lucem terris dedit ignea lampas ; |  |
-| 131 | 130 | Convocat attonitus jussis Pelopeius heros | uo |
-| 132 | 131 | In coetum proceres^ remque omnibus ordine pandit |  |
+| 131 | 130 | Convocat attonitus jussis Pelopeius heros | 130 |
+| 132 | 131 | In coetum proceres, remque omnibus ordine pandit |  |
 | 133 | 132 | Cuncti promittunt socias in praelia vires , |  |
 | 134 | 133 | Hortanturque ducem : quorum rex fortia dictis |  |
-| 135 | 134 | Pectora coUaudat , grates agit omnibus sequas. |  |
-| 136 | 135 | Hic tum Thersites, quo non deformior alter | 35 |
+| 135 | 134 | Pectora collaudat , grates agit omnibus sequas. |  |
+| 136 | 135 | Hic tum Thersites, quo non deformior alter | 135 |
 | 137 | 136 | Venerat ad Trojam , linguaque protervior alter, |  |
 | 138 | 137 | Bella gerenda negat, patriasque hortatur ad oras |  |
-| 139 | 138 | Yertere iter : quem consiliis illustris Ulysses |  |
-| 140 | 139 | Correptum dictis sceptro percussit ebumo. |  |
-| 141 | 140 | Tunc vero ardescit conceptis litibus ira; |  |
+| 139 | 138 | Vertere iter : quem consiliis illustris Ulysses |  |
+| 140 | 139 | Correptum dictis sceptro percussit eburno. |  |
+| 141 | 140 | Tunc vero ardescit conceptis litibus ira; | 140 |
 | 142 | 141 | Vix telis caruere manus, ad sidera clamor |  |
-| 143 | 142 | ToIIitur, et cunctos pugnandi corripit ardor. |  |
+| 143 | 142 | Tollitur, et cunctos pugnandi corripit ardor. |  |
 | 144 | 143 | Tandem solertis prudentia Nestoris aevo |  |
 
 ### Notes
@@ -374,10 +374,10 @@ PDF page 537.
 - **135 (LL 136)** Hinc tum A. quo nec defor» mior G. I.
 - **136 (LL 137)** yenerat. Hic versut deest in Annabergeosi.
 - **137 (LL 138)** Patrias kortattir vulgatOB: patriasque G. 3. Dussenius, pag. iS, mavnlt ad arces legere , et proTocat ad Ters. 66 , ubi tamen scriptos meliores habere oras notaTimus.
-- **138 (LL 139)** Consiliis ittustris Ufysses. Laudat hoc Barthius 1. c. p. 3754 « et pnlchre non unnm Homeri epitheton exprimere ait , quale est iroXu- (AIJT15 et 7roXup,7ixavoc, ^05.
+- **138 (LL 139)** Consiliis ittustris Ufysses. Laudat hoc Barthius 1. c. p. 3754 « et pnlchre non unnm Homeri epitheton exprimere ait , quale est πολύμητις et πολυμήχανος, δῖος.
 - **140 (LL 141)** Tum vero G. i. — Ardescit ira; sequitur Virgilium, Mn. IX, 66 : « Ignescunt ir« , duris dolor ossibus hseret».
-- **145 (LL 146)** Pugnandi corripit ardor, G. 3 suscipit ardor; unde forte efficias suscitat , quo utitnr Virg. JEn. V, 454 : «cAcrior ad pugnam redit, ac vim suscitat ira ».
-- **?** 143. Tandem solertis. G. i solerti. — Prudentia Nestoris €evo , i. e. Nestor sevo et experientia prndens. Per abstracta s«pe solet Noster heroas
+- **142 (LL 143)** Pugnandi corripit ardor, G. 3 suscipit ardor; unde forte efficias suscitat , quo utitnr Virg. JEn. V, 454 : «cAcrior ad pugnam redit, ac vim suscitat ira ».
+- **143 (LL 144)** Tandem solertis. G. i solerti. — Prudentia Nestoris €evo , i. e. Nestor sevo et experientia prndens. Per abstracta s«pe solet Noster heroas
 
 ## p. 528
 
@@ -385,13 +385,13 @@ PDF page 538.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 145 | 144 | Conipressam miti sedavit pectore turbam , |  |
-| 146 | 145 | Admonuitque^duces dictis, responsa recordans |  |
+| 145 | 144 | Compressam miti sedavit pectore turbam , |  |
+| 146 | 145 | Admonuitque,duces dictis, responsa recordans | 145 |
 | 147 | 146 | Temporis illius, quo visus in Aulide serpens |  |
 | 148 | 147 | Consumpsit volucrum bis quatuor arbore fetus, |  |
 | 149 | 148 | Atque ipsam invalido pugnantem pectore contra |  |
 | 150 | 149 | Addidit extremo natorum funere matrem. |  |
-| 151 | 150 | Infit deinde senex : « Maneo, remaneteque, Achivi, | iso |
+| 151 | 150 | Infit deinde senex : « Maneo, remaneteque, Achivi, | 150 |
 | 152 | 151 | In decimo labor est, quem Calchas dixerat, anno, |  |
 | 153 | 152 | Quo caderet Danaum victricibus Ilion armis». |  |
 
@@ -413,17 +413,17 @@ PDF page 539.
 |---|---|---|---|
 | 154 | 153 | Adsensere omnes, laudatur Nestoris aetas: |  |
 | 155 | 154 | €k)nciliuinque simul dimittitur; arma parari |  |
-| 156 | 155 | Dux jubet, atque animos aptari et pectora pugnae. | iss |
+| 156 | 155 | Dux jubet, atque animos aptari et pectora pugnae. | 155 |
 | 157 | 156 | Postera lux tacitas ut primum depulit umbras , |  |
-| 158 | 157 | £t nitidum Titan radiis caput extulit undis, |  |
+| 158 | 157 | Et nitidum Titan radiis caput extulit undis, |  |
 | 159 | 158 | Protinus armari socios jubet acer Atrides, |  |
-| 160 | 159 | £t petere Iliacos instructo railite campos. |  |
-| 161 | 160 | yosmihinunc,Musae,quidenim nonordine nostis?i6o |  |
+| 160 | 159 | Et petere Iliacos instructo milite campos. |  |
+| 161 | 160 | Vos mihi nunc, Musae, quid enim non ordine nostis? | 160 |
 | 162 | 161 | Nomina clara ducum clarosque referte parentes, |  |
-| 163 | 162 | £t dulces patrias : nam sunt haec munera vestra. |  |
+| 163 | 162 | Et dulces patrias : nam sunt haec munera vestra. |  |
 | 164 | 163 | Dicamus, quot quisque rates ad Pergama duxit, |  |
-| 165 | 164 | £t cceptum peragamus opus, sitque auctor Apollo, |  |
-| 166 | 165 | Adspiretque libens operi per singula nostro. | i65 |
+| 165 | 164 | Et cceptum peragamus opus, sitque auctor Apollo, |  |
+| 166 | 165 | Adspiretque libens operi per singula nostro. | 165 |
 | 167 | 166 | Peneleus princeps, et bello Leitus acer. |  |
 
 ### Notes
@@ -446,26 +446,26 @@ PDF page 540.
 |---|---|---|---|
 | 168 | 167 | Arcesilaus atrox, Prothoenorque, Cloniusque |  |
 | 169 | 168 | Boeotas decies quinas duxere carinas, |  |
-| 170 | 169 | £t tumidos valido pulsarunt remige fluctus. |  |
-| 171 | 170 | Inde Mycenaels Agamemnon finibus ortus, |  |
+| 170 | 169 | Et tumidos valido pulsarunt remige fluctus. |  |
+| 171 | 170 | Inde Mycenaels Agamemnon finibus ortus, | 170 |
 | 172 | 171 | Quem sibi delegit bellatrix Graecia regem, |  |
 | 173 | 172 | Centum egit plenas armato milite puppes : |  |
 | 174 | 173 | Et bis tricenis Menelai navibus ardor |  |
 | 175 | 174 | Insequitur, totidemque ferox Agapenoris ira. |  |
-| 176 | 175 | Quos juxta fidus solerti pectore Nestor, | .7S |
+| 176 | 175 | Quos juxta fidus solerti pectore Nestor, | 175 |
 | 177 | 176 | Consilioque potens, gemina cum prole suorum |  |
 | 178 | 177 | It ter tricenis munitus in arma carinis. |  |
 | 179 | 178 | At Schedius virtute potens et Epistrophus ingens |  |
 | 180 | 179 | Gloria Myrmidonum, saevi duo robora belli, |  |
-| 181 | 180 | Longa quater denis pulsarunt aequora proris. | iSo |
-| 182 | 181 | At bis vicenas Polypcetes atque Leonteus |  |
+| 181 | 180 | Longa quater denis pulsarunt aequora proris. | 180 |
+| 182 | 181 | At bis vicenas Polypoetes atque Leonteus |  |
 
 ### Notes
 
 - **167 (LL 168)** Areesilaus atrox, etc. Sic icrtbenda nomioa secandiun Homernin , atque e vestigiis corrapts codicam scriptura. Vulgata habent ArcesUims airox , Clonius dux, atque Protenor, Guelf. i : Arckesilaus atrox, ProtenorqueGonius atque; etin margine Protenor Colono usque. G. 2 : Protenorque Didonius atque,
 - **168 (LL 169)** Boetes deoies babent libri , sed ex Homero, Iliad. II , 5 10, legendum Baeotas yel Bceocum. Pro Tulgato quinas duxere G. i et a egere habent.
 - **170 (LL 171)** Finibus ortus.G. 9 , A. et L. mcenibus,
-- **?** 173 ^£r bis ter denis A. et L. — Menelai ardor, id est , «rdens Menelaus.
+- **173 (LL 174)** ^£r bis ter denis A. et L. — Menelai ardor, id est , «rdens Menelaus.
 - **176 (LL 177)** Gemina eum prole suorum. Quod Nestorem cum duobus filiis advenisse 8cribit,id non ex Homero habet , sed forte a Dictye Cret. qui iib. I, cap. i3 : « Nestor cum Antilocho et Thrasymede , quos ex Anaxibia susceperat, supervenit».
 - **177 (LL 178)** It cum ter denis munitus ▼£• tiose legit Ann. Bas. et Sp. Est ter trh cenis G. i. It ter tricenis G. s, quod rectum est : nam Homerus , Iliad. II, 609, nonaginta naves ei tribuit.
 - **178 (LL 179)** Ascadius virtute vulgat» e^id. habent. Ascedius... Epistropus G. i et A. Ascanius G. a , et Episgrojus ingens L. Hcc omnia vitiosa. Legendum ex Homero,II, $17, At Schedius virtute potens etEpistrophus.
@@ -481,7 +481,7 @@ PDF page 541.
 | 183 | 182 | Instruxere rates omatas milite forti. |  |
 | 184 | 183 | Euryalus, Sthenelusque ferox, et fortis in armis |  |
 | 185 | 184 | Tydides, valido pulsarunt remige pontum, |  |
-| 186 | 185 | Bisque quadragenas onerarunt milite puppes: | i85 |
+| 186 | 185 | Bisque quadragenas onerarunt milite puppes: | 185 |
 | 187 | 186 | Ascalaphusque potens, et lalmenus acer, uterque |  |
 | 188 | 187 | Ter denas valido complerunt milite naves. |  |
 | 189 | 188 | At bis vicenas equitum fortissimus Ajax |  |
@@ -492,12 +492,12 @@ PDF page 541.
 
 - **(cont.)** legendam esse patet ex Homeri liiad. II y 740 et 74$. Idque jam monstniYit Bondamius , Specim. Animadv. cap. i3, p- 7?, et Adr. van Dorp, Obseryat. c. 14 1 p- 133.
 - **189 (LL 190)** Omauu milUe eat io yulgatis. Armatas , ornatas, oneracoj una exhibet G. a.
-- **?** i83. Eurxpylus velEunpelus, Euripolus, Sthenelusque constanter legnnt scripti et impressi quos vidi. Menehisque duees G. 1. Stenedusque A. Vix tamen dubium est, quod el. Bondamius , Specim. Animadv. p. 73, et Var. Lect. p. i46 » probayix , pro Eurjrpxtus ponendum esse EuTjralus^ quem ipsum Homerus, lUad. II, 565, cam Sthenelo et Diomede conjungit. Et Dares Phryg. cap. 14: « Diomedes , Euryalus , Stheiielus ex Argis • , navibus lxxx. Eurypylnm contra , quem Homerus, V. 736 , in ducibus Grsecorum cum quadraginta navibus nuroerat, sed poetaster noster non nominasse videtur, Bondamius v. 189 addnctum pntat , quod ipsi ad eum versnm notabimus.
-- **?** i84. Remige fluctus G. s.
-- **?** i85. Hi quadragenas A. et L. sed Homerusoctoginta naves iis tributt; ande bis necesse est.
-- **?** 186. Et Jabnenus : sic rescripsimus ex Homero, Iliad. II, Sii^ qui hunc Ascalapho apponit. A. et Tulgata habent et Teiamus. G. 1 potens Tolmenus.
-- **?** 187. Compierunt remige naves G. s.
-- **?** i%%,Bis Dicenas fortes fordssimus G. 1 ; sane perperam.
+- **183 (LL 184)** Eurxpylus velEunpelus, Euripolus, Sthenelusque constanter legnnt scripti et impressi quos vidi. Menehisque duees G. 1. Stenedusque A. Vix tamen dubium est, quod el. Bondamius , Specim. Animadv. p. 73, et Var. Lect. p. i46 » probayix , pro Eurjrpxtus ponendum esse EuTjralus^ quem ipsum Homerus, lUad. II, 565, cam Sthenelo et Diomede conjungit. Et Dares Phryg. cap. 14: « Diomedes , Euryalus , Stheiielus ex Argis • , navibus lxxx. Eurypylnm contra , quem Homerus, V. 736 , in ducibus Grsecorum cum quadraginta navibus nuroerat, sed poetaster noster non nominasse videtur, Bondamius v. 189 addnctum pntat , quod ipsi ad eum versnm notabimus.
+- **184 (LL 185)** Remige fluctus G. s.
+- **185 (LL 186)** Hi quadragenas A. et L. sed Homerusoctoginta naves iis tributt; ande bis necesse est.
+- **186 (LL 187)** Et Jabnenus : sic rescripsimus ex Homero, Iliad. II, Sii^ qui hunc Ascalapho apponit. A. et Tulgata habent et Teiamus. G. 1 potens Tolmenus.
+- **187 (LL 188)** Compierunt remige naves G. s.
+- **188 (LL 189)** Bis Dicenas fortes fordssimus G. 1 ; sane perperam.
 - **189 (LL 190)** Totidemque Abantore natus habent edd. L. et Tor. Sed Abantoris filium nullum in catalogo Homeri invenio. CI. Bondamius, Var. lect. p. 146 , Eurypylum , quem ab Homero infer duces nominatum apnd Nostrum non invenit, hoc versu indicatum putat , ideoque sic scri* ptum esse conjicit : « Instruxit pnppes , totidemque Evaeraone natus *». Nam Eurypylus ab Homero v. 736 vocatur Euai|ji.ovo^ deyXa^^ 6tb^, et dicitur eumdem navium 40 numerum duxisse. Eviemonis et Opis filius vocatur etiam Hygino, fab. 94* Neque vero alium in toto catalogo reperio, qui aptius potuerit hoc loco raemorari : et ad ejus no* minissimilitudem quodammodoaccedit scriptura codicis Guelf. 9 , qui toddemque inthenore , entkenore, anthenore conjanctim exhibet : et cod. A. babet ex tenore,
 - **190 (LL 191)** Graium ductor prsecipuum bello , supremum fortitudine explicat Barthius , Advers. p. 1754. Sed
 
@@ -510,8 +510,8 @@ PDF page 542.
 | 192 | 191 | Cum quinquaginta materna per aequora vectus. |  |
 | 193 | 192 | Thessalici juvenes Phidippus et Antiphus ibant, |  |
 | 194 | 193 | Altaque ter denis sulcarunt aequora proris: |  |
-| 195 | 194 | £t tribus adsumptis ratibus secat aequora Nireus, |  |
-| 196 | 195 | Tlepolemusque novem Rhodius, quos viribus acer | «95 |
+| 195 | 194 | Et tribus adsumptis ratibus secat aequora Nireus, |  |
+| 196 | 195 | Tlepolemusque novem Rhodius, quos viribus acer | 195 |
 | 197 | 196 | Eumelus sequitur, minus una nave profectus. |  |
 
 ### Notes
@@ -532,8 +532,8 @@ PDF page 543.
 | 198 | 197 | [Quam duxit Telamone satus Salaminius Ajax.] |  |
 | 199 | 198 | At Prothous Magnes , Tenthredone natus , et una |  |
 | 200 | 199 | Eubceae magnis Elephenor finibus ortus, |  |
-| 201 | 200 | Dulichiusque Meges, auimisque in^ignis et armis | mo |
-| 202 | 201 | ^tola de gente Thoas Andraemone natus, |  |
+| 201 | 200 | Dulichiusque Meges, auimisque insignis et armis | 200 |
+| 202 | 201 | Aetola de gente Thoas Andraemone natus, |  |
 | 203 | 202 | Hi quadragenas omnes duxere carinas : |  |
 | 204 | 203 | Et bis sex Ithaci naves solertia duxit, |  |
 
@@ -552,17 +552,17 @@ PDF page 544.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 205 | 204 | Quam sequitur totidem ratibus Telamonius Ajax , |  |
-| 206 | 205 | Egregia virtute poLens : simul ordine Guneus | ao5 |
+| 206 | 205 | Egregia virtute poLens : simul ordine Guneus | 205 |
 | 207 | 206 | Ire bis undenis tentabat in arma carinis. |  |
 | 208 | 207 | Idomeneus et Meriones, Cretaeus uterque |  |
 | 209 | 208 | Bis quadragenis muniti navibus ibant; |  |
-| 210 | 209 | £t totidem puppes clara de gente Menestheus |  |
-| 211 | 210 | Duxit Athenaeus, quot viribus ambit Achilles: |  |
+| 210 | 209 | Et totidem puppes clara de gente Menestheus |  |
+| 211 | 210 | Duxit Athenaeus, quot viribus ambit Achilles: | 210 |
 | 212 | 211 | Amphimachusque ferox etThalpius, Elide nati, |  |
 | 213 | 212 | Et clari virtute Polyxenus atque Diores, |  |
-| 214 | 213 | Hi bis vicenas oncrarunt milite naves : |  |
+| 214 | 213 | Hi bis vicenas onerarunt milite naves : |  |
 | 215 | 214 | Protesilaus agit totidem, fortisque Podarces |  |
-| 216 | 215 | [Instructas puppes, quas duxit Oileus Ajax]. | aiS |
+| 216 | 215 | [Instructas puppes, quas duxit Oileus Ajax]. | 215 |
 
 ### Notes
 
@@ -585,17 +585,17 @@ PDF page 545.
 | 218 | 217 | Quem sequitur juxta Podalirius atque Machaon, |  |
 | 219 | 218 | Altaque ter denis sulcarunt aequora proris. |  |
 | 220 | 219 | His ducibus Graiae Trojana ad litora puppes |  |
-| 221 | 220 | Bis septem venere minus^ quam mille ducentae. | *ao |
+| 221 | 220 | Bis septem venere minus, quam mille ducentae. | 220 |
 | 222 | 221 | Jamque citae adpulerant classes, camposquetenebant, |  |
 | 223 | 222 | Tunc pater ad Priamum misit Saturnius Irim, |  |
 | 224 | 223 | Quae doceat, fortes venisse ad bella Pelasgos. |  |
 | 225 | 224 | Nec mora, continuo jussu capit arma parentis |  |
-| 226 | 225 | Priamides Hector, totamque in praelia pubem | >i5 |
+| 226 | 225 | Priamides Hector, totamque in praelia pubem | 225 |
 | 227 | 226 | Festinare jubet, portisque agit agmen apertis. |  |
 | 228 | 227 | Cui fulgens auro cassis juvenile tegebat |  |
 | 229 | 228 | Omni parte caput, munibat pectora thorax, |  |
 | 230 | 229 | Et laevam clypeus, dextram decoraverat hasta, |  |
-| 231 | 230 | Ornabatque latus mucro, simui alta nitentes | as» |
+| 231 | 230 | Ornabatque latus mucro, simui alta nitentes | 230 |
 
 ### Notes
 
@@ -618,12 +618,12 @@ PDF page 546.
 | 233 | 232 | Hunc sequitur forma melior, non fortis in armis, |  |
 | 234 | 233 | Belli caussa Paris, patriaa funesta ruina, |  |
 | 235 | 234 | Deiphobusque , Helenusque simul, fortisque Polites, |  |
-| 236 | 235 | Et sacer ^neas, Veneris certissima proles, | a3S |
+| 236 | 235 | Et sacer Aeneas, Veneris certissima proles, | 235 |
 | 237 | 236 | Archilochusque, Acamasque ferox, Antenore nati: |  |
-| 238 | 237 | Nec non et proles generosa I^ycaonis ibat |  |
+| 238 | 237 | Nec non et proles generosa Lycaonis ibat |  |
 | 239 | 238 | Pandarus , et magn» virtutis Glaucus in armis , |  |
 | 240 | 239 | Amphionque, Adrastus, et Asius, atque Pylaeus. |  |
-| 241 | 240 | Ibat et Amphimachus, Nastesque, insignis uterque, | m* |
+| 241 | 240 | Ibat et Amphimachus, Nastesque, insignis uterque, | 240 |
 | 242 | 241 | Magnanimique duces Hodius et Epistrophus ingens, |  |
 | 243 | 242 | Euphemusque ferox, clarusque aetate Pyraechmes, |  |
 
@@ -636,7 +636,7 @@ PDF page 546.
 - **238 (LL 239)** Glaueus in armis. Hunc Homerus , II extr. cum Sarpedone Lycinrum duce conjungit, de quo Noster, infra v. a48.
 - **239 (LL 240)** Ampkiusque Adrastus scribo ex Hom. II , 83o ; et Asius, ib. 838 : idque agnoscere videtur antiqua Lips. cum A. Adrastus Kasius atque •cribens : reliquse editiones habent Adrastus et Austius atque Phialtes : quem Phiaitet» , quia neque Homeri catalogus, neque Dictys Gretenj. n, 35, habet, ejus loco Pjrlenan huc retuli ; quem Homerus cnm Hippothoo ex Larissa conjungit , 11 , 84 a t nec alio loco ab Nostro addn* ctum vidL Bondamius hunc et sequentes versus in Specim. Animady. p. 77, se emendasse ait , Yar. Lect. p. i5o , quem tamen librum consalere non potui.
 - **240 (LL 241)** Amphimachus Nastesque de Garia, conjunguntnr ah Homero , II, 870. Editi legnnt Amphimttchus Mariusque. A. Maciusque.
-- **?** ^a^i. Hodius et Epistrophus filii Minoi Halizonum regis : sic Dictys, II, 35, et Homerus eosdem conjun^ git V. 856 : editi habent Rhodius et Epistropkus,
+- **241 (LL 242)** Hodius et Epistrophus filii Minoi Halizonum regis : sic Dictys, II, 35, et Homerus eosdem conjun^ git V. 856 : editi habent Rhodius et Epistropkus,
 - **242 (LL 243)** Hunc et sequentes versus emendavit Bondamius 1. c. p. iSi, quem in plurimis sequor. Euphemus Giconum dux , et fyreechmes Paeonum, memorantur ab Homero» v. 846 et 848 : et ad Enphemi nomen adludit scriptura vetustse Lips. Emphimusque ferox , qnum reliquas corruptius legant Euphoriusqiie. A. Eriphimutque.
 
 ## p. 537
@@ -647,7 +647,7 @@ PDF page 547.
 |---|---|---|---|
 | 244 | 243 | Cum quibus etMesthlesatque Antiphus, et bonusarmis |  |
 | 245 | 244 | Hippdthus atque Acamas venere, et Pirous una, |  |
-| 246 | 245 | Alcinoque sati, Chromiusque ac Ennomus, ambo | ms |
+| 246 | 245 | Alcinoque sati, Chromiusque ac Ennomus, ambo | 245 |
 | 247 | 246 | Florentes aetate viri , quos Phorcis et ingens |  |
 | 248 | 247 | Ascanius sequitur, simul et Jovis inciyta proles |  |
 | 249 | 248 | Sarpedon, claraque satus tellure Coroebus. |  |
@@ -656,7 +656,7 @@ PDF page 547.
 ### Notes
 
 - **243 (LL 244)** Et MesAles atque j4ntiphus , MaBonii. Hom. v. 864* Excusi habent Cum quihis Enesteus at Amphms ; sed scriptus O. a Enesteus atque An" Uphus. A. et L. Cum quibui Monostes ac Amphius.
-- **?** a44' Bippothus, Aliter fannc versiim legit cl. Bondamius : Pirous at' que Acamas *venere, fyUeus et una. Scd Hippothoum, quem Homeins inter prscipaos et proxime ante Acamanta nominat, non otHsisse Noster, neque alio , qnam hoc loco posuisse videtnr, et confirmat scriptora codicis Guelf. i : Ippodomus atque Athamas una cum /ortibas ar^ mis : excnsi vero habent Ipothus at^ qne Othamas, Qnoniam Hippothous netrnm recusabat , suspicor anctorem contraxisse in Hippothus. Reliqao versu excusi habent venere Pigeritts una, ex quo fingere malui Pirous, quam Pjr/anis , quia Piron yel Piroum Hbmerus cum Acamante conjungit v. 844 1 ^^ fylfcus jam supra locnminvenit.
+- **244 (LL 245)** Bippothus, Aliter fannc versiim legit cl. Bondamius : Pirous at' que Acamas *venere, fyUeus et una. Scd Hippothoum, quem Homeins inter prscipaos et proxime ante Acamanta nominat, non otHsisse Noster, neque alio , qnam hoc loco posuisse videtnr, et confirmat scriptora codicis Guelf. i : Ippodomus atque Athamas una cum /ortibas ar^ mis : excnsi vero habent Ipothus at^ qne Othamas, Qnoniam Hippothous netrnm recusabat , suspicor anctorem contraxisse in Hippothus. Reliqao versu excusi habent venere Pigeritts una, ex quo fingere malui Pirous, quam Pjr/anis , quia Piron yel Piroum Hbmerus cum Acamante conjungit v. 844 1 ^^ fylfcus jam supra locnminvenit.
 - **245 (LL 246)** Alcinoque sati, Vnlgati habent Ixioneque sati; hi quinam sunt Bondamius ignorare se fatetur. Et certe mendosa hnc scriptura est, quam vulgati prseferunt , neque tamen dubium est, patris nomen Chromii et Ennomi y qui post nomiiiantur, in ea latere. Et ipse vir doctissimus ex Ausonii Epitaphiis her. epigr. 13, adlegat, ubi Ennomi et Chromii pater Alcinus vocatur. Itaque scribo Alcinoque sati. Non multum sane abit hoc a vitiosa lectione, propius etiam abest ab alia codicis G. 9 : Axinonoque sati. Apud Homerum non exstat pater, qui Chro" min et Ennomum Mysis prafuisse dicit V. 858. Sed Noster plura ex aliis haurire solet.
 - **246 (LL 247)** Quos Phorcys. Ita scripsi auctore Homero, qui v. 863 Phorcyn et Ascanium Phrygum duces conjungit. Impressi iibri mendose legnnt quosfortis, Ascanius hic discer^ nendus a filio .^ness , qui tum puer admodum erat.
 - **247 (LL 248)** Jo¥is incfyta proles. Ovidius , Met. IX, 339.
@@ -669,21 +669,21 @@ PDF page 548.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 251 | 250 | Vicissetque doios Danauin , nisi fata vetassent. | aSo |
-| 252 | 251 | IIL Jamque duae stabant acies fulgentibus armisy |  |
+| 251 | 250 | Vicissetque doios Danauin , nisi fata vetassent. | 250 |
+| 252 | 251 | III. Jamque duae stabant acies fulgentibus armisy |  |
 | 253 | 252 | Quum Paris, exitium Trojae funestaque flamma, |  |
 | 254 | 253 | t Armatum adverso Menelaum ex agmine vidit, |  |
 | 255 | 254 | Seque velut viso perterritus angue recepit |  |
-| 256 | 255 | Ad socios amens : quem postquam turpiter Hector | ass |
+| 256 | 255 | Ad socios amens : quem postquam turpiter Hector | 255 |
 | 257 | 256 | Confusum terrore videt, «Proh! dedeciis, inquit, |  |
-| 258 | 257 | ^ternum patriae, generisque infamia nostri, |  |
+| 258 | 257 | Aeternum patriae, generisque infamia nostri, |  |
 | 259 | 258 | Terga refers? atnon dubitabas hospitis olim |  |
 | 260 | 259 | Expugnare toros, cujus nunc defugis arma, |  |
 
 ### Notes
 
-- **?** %Bo. Antiqua editiones legebant Ficissentfue dolo Danaum, qu» legen« Barthiufl putavit Danaum casu quarto dici pro exercitu Danaorum. Sed Bondamius , Var. Lect. p. i53 , ▼idit legendnm esse dolos Danaum, idque nunc confirmatum reperio «cripto Guelf. a , qui habet : ricis' seique dolos Danatim , ni fata fids» sent : et TetustcLips. schede dolus Danaum.
-- **?** s5a. Editiones legnnt Troja et June^sta ruina, quod quia supra^ ▼. i33 , jam adfuit, jptmXv^funesta" quejlamma , qu» est lectio cod. G. a. Barthius ad hnnc locum ohser- ▼at , Advers. LIX, cap. i, optimorum scriptoram morem esBe^ fu« nestaram cladium auctores ciados ipsas nominare. Juvenalis de Domitiano : « si peste et clade snh illa SsBvitiam damnare, et honestum afferre iiceret Consilium*. Auctor deciamationis in Catilinam : « vigent enim in illa clade res diversissiroae pariter, continentia et lihido».Lampridius in Elagal>aio : « miram fortasse cuipiam videatur, quod hnc clades , quam retnli , loco principis fuerit >. Seneca de Medea:« Aholere ferro pessimam propera luem ». Claudianus de Rufino , lih. I : « qno tanta lues erap«rit ortn ». BaaTH.— £t ideo pneserlimyKamma servandum est, quod aptius conveniat cum fahula de Hecuha Paridis genetrice, tsedam te |>eperisse somnianf e , qia Troas Asiaque omnis incendio vistarentur. Ed.
+- **250 (LL 251)** Antiqua editiones legebant Ficissentfue dolo Danaum, qu» legen« Barthiufl putavit Danaum casu quarto dici pro exercitu Danaorum. Sed Bondamius , Var. Lect. p. i53 , ▼idit legendnm esse dolos Danaum, idque nunc confirmatum reperio «cripto Guelf. a , qui habet : ricis' seique dolos Danatim , ni fata fids» sent : et TetustcLips. schede dolus Danaum.
+- **252 (LL 253)** Editiones legnnt Troja et June^sta ruina, quod quia supra^ ▼. i33 , jam adfuit, praetuli funestaque flamma , qu» est lectio cod. G. a. Barthius ad hnnc locum ohser- ▼at , Advers. LIX, cap. i, optimorum scriptoram morem esBe^ fu« nestaram cladium auctores ciados ipsas nominare. Juvenalis de Domitiano : « si peste et clade snh illa SsBvitiam damnare, et honestum afferre iiceret Consilium*. Auctor deciamationis in Catilinam : « vigent enim in illa clade res diversissiroae pariter, continentia et lihido».Lampridius in Elagal>aio : « miram fortasse cuipiam videatur, quod hnc clades , quam retnli , loco principis fuerit >. Seneca de Medea:« Aholere ferro pessimam propera luem ». Claudianus de Rufino , lih. I : « qno tanta lues erap«rit ortn ». BaaTH.— £t ideo pneserlimyKamma servandum est, quod aptius conveniat cum fahula de Hecuha Paridis genetrice, tsedam te |>eperisse somnianf e , qia Troas Asiaque omnis incendio vistarentur. Ed.
 - **253 (LL 254)** Ex agmine eemit G. a.
 - **254 (LL 255)** Seque i>ehit viso perterritu angue.G. % habet Sicque velut. Coiaparationem ah Homero factan, III, 33 seq. quam hic brevissirae exprimit Noster, Virgilius, ^n. K, 378 seq. de Androgeo nsurpavii: « Obstupuit , retroque pedem cum voce repressit. Improvisum aspris veluti qui sentihus anguem Pressit humi uitens, trepidusque repente refugit B. Brevius Naso, Fast. II, 34i> «Attouitusque metu rediit:ceii ssepe viator Turhatum viso rettulit angue pedem ». Juvenalts^ I» 4^' « Palleat, ut nudis pressit qui calcihus anguem ».
 - **256 (LL 257)** Perfusum terrore videt, o dedecus G. a.
@@ -696,17 +696,17 @@ PDF page 549.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 261 | 260 | Vimque times : ubi nunc vires, ubi cognita nobis | >«• |
+| 261 | 260 | Vimque times : ubi nunc vires, ubi cognita nobis | 260 |
 | 262 | 261 | Ludorum quondam vario certamine vis est? |  |
 | 263 | 262 | Hic animos ostende tuos, nil adjuvat arnia |  |
 | 264 | 263 | Nobilitas formae, duro Mars miiite gaudet. |  |
 | 265 | 264 | Dum jaceas in amore tuo, nos beila geremus |  |
-| 266 | 265 | Scilicet, et nostrum fundemus in hoste cniorem. | »6s |
+| 266 | 265 | Scilicet, et nostrum fundemus in hoste cniorem. | 265 |
 | 267 | 266 | iEquius adversis tecum concurrat in armis |  |
 | 268 | 267 | Impiger Atrides : spectet Danaumque Phrygumque |  |
 | 269 | 268 | Depositis telis populus, vos foedere juncto |  |
 | 270 | 269 | Adversas conferle manus, decernite ferro |  |
-| — | 270 | Vestrum nunc Helenam sumat quis rectius ipsam ». | »7« |
+| — | 270 | Vestrum nunc Helenam sumat quis rectius ipsam ». | 270 |
 | 271 | 271 | Dixit, quae contra paucis Priameias heros, |  |
 | 272 | 272 | «Quid nimis indignis, inquit, me vocibus urges, |  |
 
@@ -714,11 +714,11 @@ PDF page 549.
 
 - **(cont.)** pugnan dicuiitiir , qui iDTiti et repugnantes vincuntur precibus; quoiDodo nsurpayit Suetonius , Ccps. i, Tibcr. ai. Apud Ovid. Her. XVII, 3 y Helena ad Paridem : « Ausus es, hospitii temeratis y adTena,sacrisy Legitimam nuptae soUicitare fidem». Propert. III , i3, 9 : « H»c etiam clauAas expiignant arma pudicas». — Rutiliusy Itio. I, SSp: « Anrea legitimas expugnant munera t«da8 y Virgineosqne sinus aureus imber emit. Ed. — De usu Terbi expugnare plura notaYit Barthius ad Stat. Theb. IV, 187.
 - **269 (LL 270)** Hic animos ostende, Virgil. JEaJVI^ 161 : « Nunc animis opus, £nea,nunc pectore firmo ». — G. 1 legit nil adjupat armis.
-- **?** 963. Duro Mars milite gaudet. Helena ad Paridem I. c. ▼. 953: « Apta magis Veneri , quam sint tua corpora Marti «.
-- **?** 964. Dumjaeeas in amore, h. e. fractus lihidine langueas et otierisy impar mliitisB. Tale est in Virg. Gatal. V, I : « Jacere roe , quod alta non possim, puta«y Ut ante, T«ctari freta, Nec ferre durum frigus, aut sestum pati , Neqne arma Tictoris .sequi».
-- **?** 965. Et nostrum fundemus , sic Guelf. 9 , quod pnetuli lectioni yuU gatse ut nostrum/iindamus, — Jn hoste opponitur antecedenti in amore tuo. CBeterum his Tersibus respexisse auctor videtur Virgilium,£n. XI , 371 , ubi Drances ad Tumum : « Scilicet , ut Turno contingat regia conjux, Nos, anima viles, inhumata infletaque turba, Sternamur campis». Et auctor orationis Achillis in Parthenone , quam snpra dedimus » T. 57 : «Scilicet, ut conjux Tiduo reddatur Atridi, Procnmbat Tilif Teucrorum Tictima Acbilles ».
-- **?** 966. Hic incipit MS Helmstad.
-- **?** 968. Popuius, pro exercitn, ul obserravit Barthius, AdT. LIX, i, Similiter infra v. 980 et 34a.
+- **263 (LL 264)** Duro Mars milite gaudet. Helena ad Paridem I. c. ▼. 953: « Apta magis Veneri , quam sint tua corpora Marti «.
+- **264 (LL 265)** Dumjaeeas in amore, h. e. fractus lihidine langueas et otierisy impar mliitisB. Tale est in Virg. Gatal. V, I : « Jacere roe , quod alta non possim, puta«y Ut ante, T«ctari freta, Nec ferre durum frigus, aut sestum pati , Neqne arma Tictoris .sequi».
+- **265 (LL 266)** Et nostrum fundemus , sic Guelf. 9 , quod pnetuli lectioni yuU gatse ut nostrum/iindamus, — Jn hoste opponitur antecedenti in amore tuo. CBeterum his Tersibus respexisse auctor videtur Virgilium,£n. XI , 371 , ubi Drances ad Tumum : « Scilicet , ut Turno contingat regia conjux, Nos, anima viles, inhumata infletaque turba, Sternamur campis». Et auctor orationis Achillis in Parthenone , quam snpra dedimus » T. 57 : «Scilicet, ut conjux Tiduo reddatur Atridi, Procnmbat Tilif Teucrorum Tictima Acbilles ».
+- **266 (LL 267)** Hic incipit MS Helmstad.
+- **268 (LL 269)** Popuius, pro exercitn, ul obserravit Barthius, AdT. LIX, i, Similiter infra v. 980 et 34a.
 - **269 (LL 270)** Confertemanus. Virg. JEji, X , 876; XI, 983.
 - **270 (LL —)** Festrwn nunc. Hic Tersus deest in G. 9.
 - **271** Quce eontra. Lipt. quem eon* tra, sicot et A,
@@ -731,20 +731,20 @@ PDF page 550.
 |---|---|---|---|
 | 273 | 273 | O patriae, germane, decus? natn nec mihi conjux |  |
 | 274 | 274 | Pronaque luxuria est potior virtutis Iionore, |  |
-| 275 | 275 | Nec vires dextramque viri tentare recuso, | .75 |
+| 275 | 275 | Nec vires dextramque viri tentare recuso, | 275 |
 | 276 | 276 | Dummodo victorem conjux cum pace sequatur ». |  |
 | 277 | 277 | Dicta refert Hector:placuit sententia Graiis. |  |
 | 278 | 278 | Protinus accitur Priamus, sacrisque peractis |  |
 | 279 | 279 | Foedera junguntur : post haec discedit uterque |  |
-| 280 | 280 | Depositis telis populus, campusque patescit. | aSo |
+| 280 | 280 | Depositis telis populus, campusque patescit. | 280 |
 | 281 | 281 | Interea toto procedit ab agmine Troum |  |
 | 282 | 282 | Pulcher Alexander, clypeoque insignis et hasta, |  |
 | 283 | 283 | Quem contra paribus fulgens Menelaus in armis |  |
 | 284 | 284 | Constitit, et, «Tecum mihi sunt certamina, dixit, |  |
-| 285 | 285 | Nec longum nostra iaetabere conjuge, quae te | aSS |
+| 285 | 285 | Nec longum nostra iaetabere conjuge, quae te | 285 |
 | 286 | 286 | Mox rapuit regem , tantummodo Jupiter adsit ». |  |
 | 287 | 287 | Dixit, et adversum se concitat acer in hostem. |  |
-| 288 | 288 | lUe virum forti venientem reppulit ictu , |  |
+| 288 | 288 | Ille virum forti venientem reppulit ictu , |  |
 
 ### Notes
 
@@ -764,20 +764,20 @@ PDF page 551.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 289 | 289 | Seque gradu celeri recipit, longeque frementem |  |
-| 290 | 290 | Hastam deinde jacit, quam devitavit Atrides, | »90 |
+| 290 | 290 | Hastam deinde jacit, quam devitavit Atrides, | 290 |
 | 291 | 291 | Inque vicemi misso fixisset pectora telo |  |
 | 292 | 292 | Praedonis Phrygii, nisi vastum ferrea corpus |  |
 | 293 | 293 | Texisset lorica viri septemplice tergo. |  |
 | 294 | 294 | Insequitur juxta clamor, tuni adversus uterque |  |
-| 295 | 295 | Ck>nstitit, et galea gaieam terit, et pede plantam | »95 |
+| 295 | 295 | Constitit, et galea galeam terit, et pede plantam | 295 |
 
 ### Notes
 
 - **(cont.)** Elad te rapuit regem non capio. In Homero anctore est, Tictorem omnia habitoram. Legam qum me Mox rapiet regem , quae ultro me rapiet in complexus snos, ut tu eam rapuisti. Tamen Terins est, aliud quid latere , nec Homero stricte adheret semper hic scriptor, nec in eo qaidqaam tale ; sed Jofem ipsnm pugnam seu duellam iniens adloquitur Menelaus. Bau». Advers. LIX, I. Et ego acumen , quod his verbis inesse debet , non intelligo : nec Barthii conjectura satis placet. Fortasse melius , qua me 'Mox capiet regem.
 - **289** Frementem hastam , qua emissa sonam dat, aera diverberans. Virgilius ttndentem dicere so- Nescio tamen an hic potius tremen' tem legendnm sit , quod idem usurpavit, Mn. XII, 94.
-- **?** S90. Quamquam devitat A, L. Secundum Homerum , II. III , 36o , Paris Atrid^e hastam , non Atrides Paridis , declinavit. Et plura hujus pngna diverse narrat Noster.
+- **290** Quamquam devitat A, L. Secundum Homerum , II. III , 36o , Paris Atrid^e hastam , non Atrides Paridis , declinavit. Et plura hujus pngna diverse narrat Noster.
 - **291** Fixisset corporaferro G. a.
-- **?** 29». Pradonis Pkfygii. Frequens praedonis convicium in adulteros et raptores puellarum, sigillatim in Paridem , propter raptum Heleiia , ut apud Stat. Achill. 1 , 4^, et in .£neam, propter Laviniam, apud Virg. iEneid. VII , 36a : - Perfidus alta petens , abducta virgine , prodo»;et Mn, XI, 484, ubi«Phrygias prodo » audit. Pluto ob raptnm Proserpina sic dicitur apud Ovid. Mel.V,52i;Fast.IV, 591. Fro/errea corpus H. et G. s leguntyifrrea pectus,
+- **292** Pradonis Pkfygii. Frequens praedonis convicium in adulteros et raptores puellarum, sigillatim in Paridem , propter raptum Heleiia , ut apud Stat. Achill. 1 , 4^, et in .£neam, propter Laviniam, apud Virg. iEneid. VII , 36a : - Perfidus alta petens , abducta virgine , prodo»;et Mn, XI, 484, ubi«Phrygias prodo » audit. Pluto ob raptnm Proserpina sic dicitur apud Ovid. Mel.V,52i;Fast.IV, 591. Fro/errea corpus H. et G. s leguntyifrrea pectus,
 - **293** Septemplice tergo, qu» septem coriis iuducta et munita erat. Alias septemplices clypei heroibns tribui solent. Virg. JEn. XII , 91$ ; Ovid. Met. XIII , 2 et 347.
 - **294** Dunw adversus G. 9. Anton. de RoojTf Spicileg. crit. pag. 97, pro adversus forte substitui posse arrectus existimat, e Virg. .£n.V , 436: « Constitit in digitos exteroplo arrectus uterque ». Sed ipse nihil matandum soadet. £t sane arrectus castu pugnantihus convenit , ut apud Maronem; non ferro invadentibus , ut hic.Sic apud Statium, Theb. 1 , 4i> ' « tum vero erectua uterque Exsertare humeros,nadamque lacessere pugnam ».
 - **295** Constitit, et galea galeam ferit. CI. Bondamius I. c. pag. i53 putat auctoris hcc scribentis animo obversata esse hac Ovidiana , Met. IX , 43 : " eratque Cum pede pes jnnctus : totoque ego pectore pronus, Et digitos digltis, et frontem ironte premebam ». Et sane hic , ut in aliis locis , apparet captat;« ab auctore occasio imitandi Oyidii, quum ipsa Homeri narratio talia non suggesserit.
@@ -788,25 +788,25 @@ PDF page 552.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 296 | 296 | Conjung^, stridet mucro niucrone corusco, |  |
+| 296 | 296 | Conjungit, stridet mucro mucrone corusco, |  |
 | 297 | 297 | Corpus collectum tegitur fulgentibus armis. |  |
 | 298 | 298 | !Non aliter fortes nitida pro conjuge tauri |  |
 | 299 | 299 | Bella gerunt, vastisque replent mugitibus auras. |  |
-| 300 | 300 | Jamque diu rigido captabant corpora ferro ; |  |
+| 300 | 300 | Jamque diu rigido captabant corpora ferro ; | 300 |
 | 301 | 301 | Tunc memor Atrides raptae sibi conjugis instat, |  |
 | 302 | 302 | Dardaniumque premit juvenem mox ense rigenti , |  |
 | 303 | 303 | Cedentemque retro dum desuper adpetit hostem , |  |
 | 304 | 304 | Splendidus extremas galeae percussus ad oras |  |
-| 305 | 305 | Dissiluit mucro : gemuerunt agmina Graium. | 3«5 |
+| 305 | 305 | Dissiluit mucro : gemuerunt agmina Graium. | 305 |
 | 306 | 306 | Tunc vero ardescit, quamvis manus ense careret, |  |
-| 307 | 307 | £t juvenem arrepta prostemit casside victor, |  |
+| 307 | 307 | Et juvenem arrepta prosternit casside victor, |  |
 
 ### Notes
 
 - **296** Helmsterus transponitferba mucro stridet mucrone. Guelf. 3 aliter : Constringit , stridetque mucro muerone corusco.
 - **297** Corpus coilectum , t. e. intra clypeum reductum et clausum. Virg. JEu. XII , 491 : •« Substitit JEaea» , et se coUegit in arma »; et X , 4i3 » •« sequein sua coUigit arma >. Pro ugitur Helmst. petitur /ulgentihus , perperam. — Conf. Cuperus » Obsery. Ub. I , cap. 11 , p. 90. Ed.
 - **298** NoH aliterfortes. H»c comparatio plane ab Ovidio petita , qui Met. IX , 46 » post verba superius adiegata , pergit : « Non aUter fortes vidi concurrere tauros , Qunm pretium pugnsB , toto nitidissima saitu Expetitur conjux >.
-- **?** §00. M^e diu rigido : sic edd. veram Jamque «Uu A. quod pr«tuii. — Captubant pertora , i. e. locum opportunum vulnerandi corporis. — Sic apud Virgilium , ^n. XII, 910 : « telum ^neas fatale coruscat , Sortitus fortunam ocuUs». Ed. — Corpo» ra telo iegunt vulgat», ted/erro aptius putavi, quod H. et G. 1 habent.
+- **300** M^e diu rigido : sic edd. veram Jamque «Uu A. quod pr«tuii. — Captubant pertora , i. e. locum opportunum vulnerandi corporis. — Sic apud Virgilium , ^n. XII, 910 : « telum ^neas fatale coruscat , Sortitus fortunam ocuUs». Ed. — Corpo» ra telo iegunt vulgat», ted/erro aptius putavi, quod H. et G. 1 habent.
 - **304** Percussit ad oras dat A. cum edd. vett. sed cl. Dorpius , Obserr. p. ii6,e iectione Mspti cod. bibiiotheca Lugdun. Bitav. corrigit per^ eussus ad oras Dissilnit, quomodo etiam G. a iegit. Caternm ad oras Barthius, LVIII, 14, frustra ad naevos scriptoris nostri retuiit , quia percussit legebat.
 - **305** Desiluii muero iegit A. cunt vuIgMtis , sed vitiosum hoc esse jam Barthins , p. 3770, animadvertit, eC dissiluit legendum censuernnt Dorpius 1. c. et Dusseuius in Prodr. p. II. Idem praefert cod. G. a, et ipse Noster infra integro versu 968 repetit , habetque ex imitatione Virgilu, qui eumdem casum Turni roemorans , iEn. XII , 741 : • Mor* taiis niucro, glacies seu futilis , icta Dissiluit • ; et Ovid. Metam.V, 171 seq. « Non circumspectis exnctQm viribus ensem Fregit, et extrema percuasae parte coinmne Lamlna dissiluit ; dominique in guttnre fixa esta.
 - **306** Ense carebat habent edd. careret H. quod prsefereudum puto.
@@ -820,13 +820,13 @@ PDF page 553.
 |---|---|---|---|
 | 308 | 308 | Ad socios traheretque , nisi caligine csca |  |
 | 309 | 309 | Texisset Cytherea virum , subjectaque mento |  |
-| 310 | 310 | Fortia rupisset iaxatis vincula nodis, | 3i« |
+| 310 | 310 | Fortia rupisset iaxatis vincula nodis, | 310 |
 | 311 | 311 | Ultimus ilie dies Paridi foret : abstrahit auro |  |
 | 312 | 312 | Fuigentem galeam secum Mehelaus, et ardens |  |
 | 313 | 313 | In medios mittit proceres, rursumque recurrit, |  |
-| 314 | 314 | £t magnam validis contorsit viribus hastam |  |
-| 315 | 315 | In ciadem Phrygii; sua quem Yenus eripit hosti, | 3i5 |
-| 316 | 316 | £t secum in thaiamos defert testudine cultos : |  |
+| 314 | 314 | Et magnam validis contorsit viribus hastam |  |
+| 315 | 315 | In ciadem Phrygii; sua quem Yenus eripit hosti, | 315 |
+| 316 | 316 | Et secum in thalamos defert testudine cultos : |  |
 
 ### Notes
 
@@ -845,17 +845,17 @@ PDF page 554.
 | 317 | 317 | Ipsa dehinc Helenam muris arcessit ab aitis, |  |
 | 318 | 318 | Dardanioque suos Paridi deducit amores. |  |
 | 319 | 319 | Quam taii postquam conspexit voce loquuta est |  |
-| 320 | 320 | ttVenisti, mea flamma, Paris superatus ab armis |  |
+| 320 | 320 | ttVenisti, mea flamma, Paris superatus ab armis | 320 |
 | 321 | 321 | Conjugis antiqui : vidi, puduilque videre, |  |
 | 322 | 322 | Arreptum quum te tralieret violientus Atrides, |  |
-| 323 | 323 | liiacoque tuos foedaret pulvere crines : |  |
+| 323 | 323 | Iliacoque tuos foedaret pulvere crines : |  |
 | 324 | 324 | Nostraque ( me miseram ! ) timui ne Doricus ensis |  |
-| 325 | 325 | Oscula discuteret : totus mihi mente relicta | 3>5 |
+| 325 | 325 | Oscula discuteret : totus mihi mente relicta | 325 |
 | 326 | 326 | Fugerat ore coior, sanguisque reliquerat artus. |  |
 | 327 | 327 | Quis te cum saevo contendere jussit Atrida? |  |
 | 328 | 328 | An nondum vaga fama tuas pervenit ad aures |  |
 | 329 | 329 | De virtute viri? moneo, ne rursus iniquae |  |
-| 330 | 330 | liiius tua fata veiis committere dextrae ». |  |
+| 330 | 330 | Illius tua fata velis committere dextrae ». | 330 |
 | 331 | 331 | Dixerat, et iargis perfudit fietibus ora. |  |
 | 332 | 332 | Tristis Aiexander, «Non me superavit Atrides, |  |
 
@@ -865,7 +865,7 @@ PDF page 554.
 - **321** Fidi puduitque videre. Et hoc hemistichium Bondamins, p. t54» monet esse Ovidii , Met. XIII , »3 , ttbi Ulysses ad Ajacem : « Vidi, paduitque videre , Quam tu terga dares •. £t hunc librum , quo contentio Ulyssis et Ajacis de armis AchiiUs, et prscipuss res belloTrojano gestSB, summatim exponuntur, inprimis respexisse auctorem 110strum in scribenda Epitome, plurimasque inde sententias mutuatum esse , &cile videbit , qui diligentius ista excutiet et comparabit.
 - **323** Pulvere crines,\iTf^, ^neid. Xn, 99; Ovid.Metam.VIII, $«9.
 - **325** Discuteret, uti « consilia hostium discutere» Frontin. IV, 7, 3i ; et « discutere dolos > Sil. ItaL VII, i53, e coirectione Drakenbor* chii, dixit. — Mente reSctoB maTult Anton. de Roojr 1. c pag. 97, quia relinqui mente dicimur, nt linqui suu-' mo, deseri viribus , defid attnis, et similia.
-- **?** 394* Fugerat ore cohr, £t hoc hemistichiumOvidii , Her. XI, 27. Ore caior iegit G. a , et Oyid. Her» XIV, 37 : » Sanguis abit , mentem« que calor corpusque relinquit ».
+- **326** Fugerat ore cohr, £t hoc hemistichiumOvidii , Her. XI, 27. Ore caior iegit G. a , et Oyid. Her» XIV, 37 : » Sanguis abit , mentem« que calor corpusque relinquit ».
 - **328** j^n nondum G, 3. j4n non va» ga fama L. — Pervenit ad aures. Sic Ovidius, Met. V, ^SS : «Fama noTl footis nustras pervenit ad anret » ; et Virg. JExk. II, 81, «Fando aliquid, si forte tuas pervenit ad aures». £d.
 - **331** Dixit, titm iargis G. 3 et A.^
 - **332** Tristis Mexander L. et T.
@@ -897,7 +897,7 @@ PDF page 555.
 - **337** Incubuit G. a. A. et L. quod praetuli vulgato Incumbit, Pro Cygneidos H. vitiose ponit Etneidos, Gygneis autem Helena nuncupatur, quod filia Joyis in cygnum conversi credehatur : illud nomen nescio, an alius poeta usurpaverit, quamquam « cygneo edita Tyndaris ovo • dioitur a Virg. Eleg. ad Messal. 17, et ipsa Helena apud Ovid. Her. XVU, 55: « Dat mihi Leda Jovem, cygno decepta, parentem ».
 - **338** Fhunmas Trojaque suasque. Acnte de Paride , cujus amor in Helenam ejutium Troje futnrus erat. Videtur et hoc dictum eo loco epistohe Paridis apud Ovidium niti, Heroid. XVI, 45 seq. quo Paris somnium matris susb, qns ante diem partus yisa erat facem ardentem parere, de ardore animi sui TrojsB exitioso interpretatur : > Arsnram Paridis vates canit lUon igni ; Pectoris, ut nunc est, fax fuit iila mei ».
 - **339** In agmine Troum. Helmst. a^ agnune.
-- **?** 341« Prater, Agamemnon. — y4' cuens in pnelia dextras H. legit, sed ah alia manu appositum est in belia catervas.
+- **341** Prater, Agamemnon. — y4' cuens in pnelia dextras H. legit, sed ah alia manu appositum est in belia catervas.
 - **342** Populos Phrygas scriptus A. et impressi hahent; et Barthius , Adv. pag. 1770 , hoc eleganter dici adfirmat , sed exercitum vel militem solum intelligi : iu quo ille admodum falsns est ; nam sine dnhio vitiosa hsc iectio est, legendumque auctoritate codicis H. et G. a puisos Phrjrgas.
 - **343** Servariquejubet : sic H. G. a et A. servareque jufiet L. reliquss edd. hahent Et servare jubet, quod minus commodum est.
 - **344** Certamen haberent. Phrasis
@@ -913,12 +913,12 @@ PDF page 556.
 | 347 | 347 | Te, Menelae, petens, laterique volatile telum |  |
 | 348 | 348 | Incidit, et tunicam ferro squamisque rigeotem |  |
 | 349 | 349 | Dissecat : excedit bello gemebundus Atrides, |  |
-| 350 | 350 | Castraque tuta petit; quem doctus ab arte paterna | 3So |
+| 350 | 350 | Castraque tuta petit; quem doctus ab arte paterna | 350 |
 | 351 | 351 | Paeoniis curat juvenis Podalirius herbis, |  |
-| 352 | 352 | Atque iterum in cs&des horrendaque praelia niittit. |  |
+| 352 | 352 | Atque iterum in caedes horrendaque praelia niittit. |  |
 | 353 | 353 | Armavit fortes Agamemnonis ira Pelasgos, |  |
 | 354 | 354 | Et dolor in pugnam cunctos comnuinis agebat. |  |
-| 355 | 355 | Bellum ingens oritur, multumque Utrimque cmoris | iss |
+| 355 | 355 | Bellum ingens oritur, multumque Utrimque cmoris | 355 |
 | 356 | 356 | Funditur, et totis stemuntur corpora campis, |  |
 | 357 | 357 | Inque vicem Troumque cadunt Danaumque catervae : |  |
 | 358 | 358 | Nec requies datur ulla viris, sonat undique Mavors, , |  |
@@ -943,12 +943,12 @@ PDF page 557.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 359 | 359 | Telorumque volat cunctis de partibus imber. |  |
-| 360 | 360 | Occidit Antilochi rigido demissus ad umbras | 36i» |
+| 360 | 360 | Occidit Antilochi rigido demissus ad umbras | 360 |
 | 361 | 361 | Ense Thalysiades, optataque lumina Hnquit. |  |
 | 362 | 362 | Inde manu forti Graiorum terga prementem |  |
 | 363 | 363 | Occupat Anthemione satum Telamonius Ajax , |  |
-| 364 | 364 | £t praedurato transfigit pectora telo. |  |
-| 365 | 365 | Purpuream vomit ille animam cum sanguine mixtam, | 355 |
+| 364 | 364 | Et praedurato transfigit pectora telo. |  |
+| 365 | 365 | Purpuream vomit ille animam cum sanguine mixtam, | 365 |
 | 366 | 366 | Ora rigat moriens : tunc maximus Antiphus hastam |  |
 | 367 | 367 | Viribus adversum, conatus corpore toto, |  |
 | 368 | 368 | Torquet in Ajacem, telumque erravit ab hoste, |  |
@@ -971,8 +971,8 @@ PDF page 558.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 369 | 369 | Inque liostem cecidit; nam flxit in inguine I^uron. |  |
-| 370 | 370 | Concidit infelix prostratus vulnere forti, | » |
+| 369 | 369 | Inque liostem cecidit; nam flxit in inguine Leucon. |  |
+| 370 | 370 | Concidit infelix prostratus vulnere forti, | 370 |
 | 371 | 371 | Et carpit virides moribundus dentibus berbas. |  |
 | 372 | 372 | linpiger Atrides casu commotus amici |  |
 | 373 | 373 | Democoonta petit , teloque adversa trabali |  |
@@ -982,7 +982,7 @@ PDF page 558.
 - **369** Inque hostem eecidie, snpple a/ium , uempe Lencon , quem mox nominat. Editio Tprini hic legit inque hostem cadit, ictus in inguine Leucon , et scriptus A. cum ed. Lips. Inque hostem cecidit, ictus in inguine Leucon. Barthiut 1. c. Tidet deesse Tocem in Tersu , nec tamen habet , quomodo restituat , destitutus aubudio alterius codicit. Tandem explet : Inque hostem c€idit, adverso ic' tus in inguine Leucon, Dorpius Tero, ObserT. p. 117, ez margine codicis MSLugd. Bat.emendat cesidtt, namr que ictus in inguine, Tel etiam pro namque substituit tunc ex alio cod. P. Burmanni. Idem sentit Dussenius L c. p. a3. Mihi (^time succurrere Tidetur cod. G. a , qni exhibet ce^ cidit, transfixit in imagine Leuchon. Unde emendo : Inque hostem cecidit; nam Jixit in inguine Leucon. Possit quidem et transjixus in inguine legi, sed aliud partidpium mox sequitnr prostratus vulnere forti , atque casus quartus Leucon, quem omnes libri serTant, TcrbumySxiV Tel transjixit |}oscit. Nam de quo hic sermo est, apud Homerum IV, 491, Leucos dicitur, non Leucon.
 - **370** Pro Concidit Helmst. Decidit infelix.
 - **371** Et carpit 'virides moribundus. Hic insolitam phrasim reperio de c«sis et moribundis in terram procidentibus. Homerica fonnula est cJ^a^tXiiv c&^oc (Tid. II. II, 4i8; XI, 748),quam Latini poetff , TetercA qnidem , ita imitantur, ut dicant mordere et mandere humum , Tel pe^ terCf adpettre ore , morsu, terram. Virg. JEn. XI, 4 t8 : « Procubuit rnoriens et humum semel ore niomordit » ; et ibid. vs. 669 : « cruentam Mandil humum , moriensque «10 se in Tulnere versat •. Sil. Ital. IX , 383 : « VoWitur iile ruens , aique arva hostilia morsu Adpetit ». Sed , qni pro mordere vel mandere hummn eo sensu dixerit carpere dentihus herbas, quod de pecudura paslu a poc^ tis adhibetnr, adhuc quidem neminem inveni. Similem tamen Tersnm Diomedes Grammat. lib. I , p. 336, e Cn. Matii XX Iliados adfert : « lile hietans herbam moribundo tenuit ore ».
-- **?** 37» , 373. Impiger Atrides. In ea lectione, quamTis omnibus in libris recepta , aut error librariorum, aut ipsius auctoris napopa(i,a est.Qui hic casu amici , nempe Leuci , commotus dicitur, apud Homernm non Atrides , sed UJysses est. Ifai Leucus dicitur oJ^aoto^ ia6Xbc irarpoc, U. IV, 491 , alque Ulysses ob hunc interfectum Talde iratus , in acsem processisse, et Democoonta, sibi ob- Tinm , percussisse. Hinc cl. Bonda* mius 1. c. p. i55 recte censet, hoc alioTe simili modo versum legendum esse : Uinc Laertiades casu commotas amici Democoonta peut. Vnlgati habent Demophoonta, quod notius inter heroas nomen est : sed vero propius Demononta G. a. — Tehque trabaii, i. e. hasta magna. Virg.iEn.XJI, 394.
+- **372–373** Impiger Atrides. In ea lectione, quamTis omnibus in libris recepta , aut error librariorum, aut ipsius auctoris παρόραμα est.Qui hic casu amici , nempe Leuci , commotus dicitur, apud Homernm non Atrides , sed UJysses est. Ifai Leucus dicitur Ὀδυσσῆος ἐσθλὸς ἑταῖρος, Il. IV, 491 , alque Ulysses ob hunc interfectum Talde iratus , in acsem processisse, et Democoonta, sibi ob- Tinm , percussisse. Hinc cl. Bonda* mius 1. c. p. i55 recte censet, hoc alioTe simili modo versum legendum esse : Uinc Laertiades casu commotas amici Democoonta peut. Vnlgati habent Demophoonta, quod notius inter heroas nomen est : sed vero propius Demononta G. a. — Tehque trabaii, i. e. hasta magna. Virg.iEn.XJI, 394.
 
 ## p. 549
 
@@ -996,7 +996,7 @@ PDF page 559.
 | 377 | 377 | Jamque A.marynciden saxi dejecerat ictu |  |
 | 378 | 378 | Impiger Imbrasides, dederatque silentibus umbris; |  |
 | 379 | 379 | Dum cupidus praedae juvenem spoliare parabat, |  |
-| 380 | 380 | Desuper hasta venit dextra vibrata Thoantis, | 38« |
+| 380 | 380 | Desuper hasta venit dextra vibrata Thoantis, | 380 |
 | 381 | 381 | Perque viri scapulas annosaque pectora transit. |  |
 
 ### Notes
@@ -1016,14 +1016,14 @@ PDF page 560.
 | 382 | 382 | In vultus ruit ille suos, calidumque cruorem |  |
 | 383 | 383 | Ore vomit, stratusque supersua palpitat arma. |  |
 | 384 | 384 | Sanguine Dardanii manabant undique campi , |  |
-| 385 | 385 | Manabant amnes passim , puguabat ubique | 3t5 |
+| 385 | 385 | Manabant amnes passim , puguabat ubique | 385 |
 | 386 | 386 | Immixtis ardens amborum exercitus armis , |  |
 | 387 | 387 | Et modoTrojanis virtus, modo crescit Achivis , |  |
 | 388 | 388 | Lsetaque per varios petitur victoria casus. |  |
-| 389 | 389 | Y. Sed postquam Danaum longe cedentia vidit |  |
-| 390 | 390 | Agmina Tydides, tumidumque increscere Martem, | ^ |
+| 389 | 389 | V. Sed postquam Danaum longe cedentia vidit |  |
+| 390 | 390 | Agmina Tydides, tumidumque increscere Martem, | 390 |
 | 391 | 391 | In medias acies, qua plurimus imminet hostis, |  |
-| 392 | 392 | Irruit, et versas prostemit caede phalanges, |  |
+| 392 | 392 | Irruit, et versas prosternit caede phalanges, |  |
 | 393 | 393 | Huc illuc ensemque ferox hastamque coruscat. |  |
 | 394 | 394 | Bellica Pallas adest, flagrantiaque ignibus arma |  |
 | 395 | 395 | Adjuvat, atque animos juveni viresque ministrat | 395 |
@@ -1040,7 +1040,7 @@ PDF page 560.
 - **392** Adversas prostemit habent edd. Substitui et versas, qued et aptius est, et in cod. Lngd. Bat. legitur, testante Dorpio.
 - **393** Huc iliuc voiat ense ferox Torinus et Spond. dederunt. Hue iilue ensemque ferox H. et G. a ; enseque ferox kastaque A. et L. ha^ stamque retorsit G. a perperam.
 - **394** Bellica Palias adest. Haec sumpta ex Ovidio, Met. V, 47: «Bellica Pallas adest, et protegit «gide fratrem , Datque animos». — Flagrantia ignibus arma dat Diomedi ex Homero , V, 4 » ^\<>i Palladem dicit ignem assidnum in ejus galea et clypeo radiare fecisse : Aaxi ci sx xopuOo; Tt xat Miti^Q^ dxspiaTov irOp. £t inf. V. 467, Noster de Diomede : Jlagrantibus irruit armis.
-- **?** Z^^&.Sava leana. ComparatitHiem leonis in greges irrueutis sspias usurpat Virgilius , ut .£u. IX , 33^ seq. et X , 7a3 seqq. Homerus qui^ dem Diomedis impetum fluvio tor-
+- **396** Sava leana. ComparatitHiem leonis in greges irrueutis sspias usurpat Virgilius , ut .£u. IX , 33^ seq. et X , 7a3 seqq. Homerus qui^ dem Diomedis impetum fluvio tor-
 
 ## p. 551
 
@@ -1051,12 +1051,12 @@ PDF page 561.
 | 397 | 397 | Quam stimulat jejuna fames, ruit agmina contra, |  |
 | 398 | 398 | Et prostrata necat vesano corpora dente; |  |
 | 399 | 399 | Sic ruit in medios hostes Calydonius heros, |  |
-| 400 | 400 | Virginis armigerse monitis et numine tutus. |  |
+| 400 | 400 | Virginis armigerse monitis et numine tutus. | 400 |
 | 401 | 401 | Conversi dant terga Phryges ; fugientibus iile |  |
 | 402 | 402 | Instat, et exstructos morientum calcat acervos. |  |
 | 403 | 403 | Dumque furit stemitque viros, videt ecce Daretis |  |
 | 404 | 404 | Adverso stantes furibundus in agmine natos, |  |
-| 405 | 405 | Phegeum Idaeumque simul, quem cuspide praeceps | 4»» |
+| 405 | 405 | Phegeum Idaeumque simul, quem cuspide praeceps | 405 |
 | 406 | 406 | Occupat ille gravi, sed vulnera depulit umbo, |  |
 | 407 | 407 | Vibratumque solo ferrum stetit : haud mora , totis |  |
 | 408 | 408 | Ingentem torquet Tydides viribus hastam, |  |
@@ -1081,17 +1081,17 @@ PDF page 562.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 410 | 410 | Eininet, et prodit scapulis pars altera fossis. | 4to |
+| 410 | 410 | Eininet, et prodit scapulis pars altera fossis. | 410 |
 | 411 | 411 | Hunc ubi fundentem calidum de pectore flumen, |  |
 | 412 | 412 | Versantemque oculos, animamque per ora vomentem |  |
 | 413 | 413 | Conspexit frater, stricto celer advolat ense , |  |
 | 414 | 414 | Germanique cupit fatorum exsistere vindex. |  |
-| 415 | 415 | Sed neque vim saevi , nec fortia sustinet arma | 4>s |
+| 415 | 415 | Sed neque vim saevi , nec fortia sustinet arma | 415 |
 | 416 | 416 | Tydidae , contraque tamen defendere tentat. |  |
-| 417 | 417 | Ut volucris , derepta $ui quum corpora nati |  |
+| 417 | 417 | Ut volucris , derepta sui quum corpora nati |  |
 | 418 | 418 | Accipitrem laniare videt, nec tendere contra, |  |
 | 419 | 419 | Auxilium nec ferre suo valet anxia nato, |  |
-| 420 | 420 | Quodque potest , levibus plangit sua pectora pennis ; | 4» |
+| 420 | 420 | Quodque potest , levibus plangit sua pectora pennis ; | 420 |
 | 421 | 421 | Sic hostem Idaeus germani caede superbum |  |
 | 422 | 422 | Spectat atrox, miseroque nequit succurrere fratri. |  |
 
@@ -1100,7 +1100,7 @@ PDF page 562.
 - **410** E/ninet, etprodJe, etc. Sic Ovid. Metam. IX, 127: •\< terga .sagitta Trajicit : exstabat ferrum de pectore aduncum » ; et lib. V, 1 38 : « Torquet iii bunc hastam , media qus nare recepta Cervice exacta est , in partesque eminet ambas -. Hoc sensu emissum telnm qnod per alterum latus exit, dicitur a Gratio iu Halieut v. 6a. — Vid. hujus op.
 - **411** Calidum de pectore flutnen . Virg. JExi. IX, 414 : «Volvitur iUe, voraens calidum de pectore flumen » ; et lib. XI , 668 : « Sanguinis ilie vomens rivos cadlt •.
 - **413** Stricto eeler advolai. Helnist. celer extracto advolai.
-- **?** 4i4> Otpif exsistere vindex. H«c phrnsis Barthio barbarismum subolere videtur, Advers. LVIII, 14 , et LIX, I, p. 1770 : et eodero modo verbo subsistere usos esse medii 86 vi scriptores , quodam loco AJboini presbyteri probat Et sane languidum versum efficit ea dictio , qua prisci aevi poetse in universum abstinuisse videntur. Nec tamen propterea ad barbarismos referre velim , et fortan exsistere h. 1. positum est pro e:!(stare, eminere, conapicuum esse. De verbo subsistere ccrtius est , id ad scholasticorum barbaram latinitatem pertinere. — Sed exsistere pro /ieri vel esse videtur ab inferioris setatit scriptoribos introducturo. Nam sic Julius Exsuperantiiis : «Facile enim poterant exsistere proditores ; quia egestas haud facile habetur sine damno ». Et Lactantius Plac. in Argnm. Metam. Ovid. lib.VI, fab. 3 : « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent». Ed.
+- **414** Otpif exsistere vindex. H«c phrnsis Barthio barbarismum subolere videtur, Advers. LVIII, 14 , et LIX, I, p. 1770 : et eodero modo verbo subsistere usos esse medii 86 vi scriptores , quodam loco AJboini presbyteri probat Et sane languidum versum efficit ea dictio , qua prisci aevi poetse in universum abstinuisse videntur. Nec tamen propterea ad barbarismos referre velim , et fortan exsistere h. 1. positum est pro e:!(stare, eminere, conapicuum esse. De verbo subsistere ccrtius est , id ad scholasticorum barbaram latinitatem pertinere. — Sed exsistere pro /ieri vel esse videtur ab inferioris setatit scriptoribos introducturo. Nam sic Julius Exsuperantiiis : «Facile enim poterant exsistere proditores ; quia egestas haud facile habetur sine damno ». Et Lactantius Plac. in Argnm. Metam. Ovid. lib.VI, fab. 3 : « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent». Ed.
 - **415** Neque vim /ortis nee /ortia A. necfortis sustinet G. a.
 - **416** Quem tum contra defendere: sic videtur legere G. a.
 - **417** Decepta sui H. et A. sic et G. a , et simul defecta. Bartbius , p. 3770, corrigit discerpta, adsentiente Dussenio , p. ao. Ego malui duce Helrost. derepta, nempe de nido matris.
@@ -1115,24 +1115,24 @@ PDF page 563.
 |---|---|---|---|
 | 423 | 423 | Et nisi cessisset, dextra cecidisset eadem. |  |
 | 424 | 424 | Nec minus in Teucros armis furit acer Atrides , |  |
-| 425 | 425 | Insequiturque acies, et ferro vulnera miscet. | a*s |
+| 425 | 425 | Insequiturque acies, et ferro vulnera miscet. | 425 |
 | 426 | 426 | Obvius huic JTatis occurrit ductus iniquis |  |
 | 427 | 427 | Infelix Hodius, quem vasto cuspidis ictu |  |
 | 428 | 428 | Sternit, et ingenti scapulas transverberat hasta. |  |
 | 429 | 429 | Hinc petit Idomeneus adversa parte ruentem |  |
-| 430 | 430 | Maeoniden Phaestum, cujus postfunera Atrides | 43« |
+| 430 | 430 | Maeoniden Phaestum, cujus postfunera Atrides | 430 |
 | 431 | 431 | Et Strophio genitum Stygias demittit ad umbras. |  |
 | 432 | 432 | Meriones Phereclum vibrata percutit hasta, |  |
 | 433 | 433 | Pedaeumque Meges , vastisque horrendus in armis |  |
 
 ### Notes
 
-- **?** 4s4' ^^^ minus inUntus armis L. perperam : m Troicos armis A.
+- **424** ^^^ minus inUntus armis L. perperam : m Troicos armis A.
 - **425** Funera miscet H.
 - **426** Fads ductus occurrit iniquis A. et T.
 - **427** Infelix Bhodius Talgo. Rodius G. a et A. sed Hodisu legendani ex Homero, Il.V, 89.
 - **428** Diyerberat kasta G. a.
-- **?** 4^9. Hincpetit Idomeum de adversa parte ruentem Merione satum : sic A. et Tulgatje. Idomeneum habet H. et G.% de omittit. CorruptiMimam scriptnram sic corrigere tentavit Bondamios , p. i58 : Hine petit Idomeneus de ad^ersa pcate ruentem Meione natum. Felicius Dorpius, p. 1 19 : Hincpetit Idomeneus adversa parte ruentem Mofoniden Phtestum. £t hoc plenias exprimit versnm HomeriyV, 43: I^opievtuc ^^otpa l^alaTCv Jvi^paTo M^ovoc ulov. Et MiBoniden latere mihi in scriptura Helmst. et G. videtur,qui Melidione et Meridione exhibent.
+- **429** Hincpetit Idomeum de adversa parte ruentem Merione satum : sic A. et Tulgatje. Idomeneum habet H. et G.% de omittit. CorruptiMimam scriptnram sic corrigere tentavit Bondamios , p. i58 : Hine petit Idomeneus de ad^ersa pcate ruentem Meione natum. Felicius Dorpius, p. 1 19 : Hincpetit Idomeneus adversa parte ruentem Mofoniden Phtestum. £t hoc plenias exprimit versnm HomeriyV, 43: Ἰδομενεὺς δ᾽ ἄρα Φαῖστον ἐνήρατο Μῄονος υἱόν. Et MiBoniden latere mihi in scriptura Helmst. et G. videtur,qui Melidione et Meridione exhibent.
 - **430** Cujus post funera lostus: sic vulgatfe : sed c1. Dorpius , p. lao , emendavit cujus postfunera Atrides. £t sequentes tres versus corruptissimos me proflteor ex ejusdem emendatioue formatos posuisse , quamvis a Tulgata scriptura haud parum abeuntes , quia viclebam , collatis Homeri versibus, Iliad. V, 49-71, eos vix aliter constitui posse, partim etiam confirmari raeornm codicum lectioue.
 - **431** J?/ Strophio genitum. VulgatSB edd. Jstropio. — Demisit ad undas H. unde scribere volui dtmittit. — Similiter supra , y. 36o , demissus ad umbras. £d.
 - **432** Meriones Phereclum.yeterea editiones habebant vitiosissime Merionis puerum , et A. Megeonis pue» rum : quam lectionem sequutus Barthius , Advers. LVIII , i\ , pro idiotismo aactoris venditavit, quod puerum pro servo dixerit. — Fibrata. Repetitione confirmatur lectio versus 407. £u.
@@ -1145,17 +1145,17 @@ PDF page 564.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 434 | 434 | Eurypyius gladio venieutem Hypsenora fundit, |  |
-| 435 | 435 | Et pariter juvenem vita spoliavit et arnris. |  |
+| 435 | 435 | Et pariter juvenem vita spoliavit et arnris. | 435 |
 | 436 | 436 | Parte alia volitat sinuoso Pandarus arcu, |  |
 | 437 | 437 | Tydidemque oculis immensa per agmina quaerit : |  |
 | 438 | 438 | Quem postquam vidit sternentem corpora Troum , |  |
 | 439 | 439 | Horrida direxit contento spicula cornu , |  |
-| 440 | 440 | Et summas humeri distrinxit acumine partes. | 44» |
+| 440 | 440 | Et summas humeri distrinxit acumine partes. | 440 |
 | 441 | 441 | Tunc vero ardescit juvenis Calydonius ira, |  |
 | 442 | 442 | In medias acies animosi more leonis |  |
 | 443 | 443 | Fertur, et Astynoum magnumque Hypenora fundit, |  |
 | 444 | 444 | Cominus hunc gladio, jaculo ferit eminus illum. |  |
-| 445 | 445 | Inde premit Polyidon Abantaque cuspide forti , | 44^ |
+| 445 | 445 | Inde premit Polyidon Abantaque cuspide forti , | 445 |
 | 446 | 446 | Et notum bello Xanthum , vastumque Thoonem. |  |
 | 447 | 447 | Post hos infestus Chromiumque et Echemona telo |  |
 | 448 | 448 | Proturbat celeri, pariterque ad Tartara mittit. |  |
@@ -1181,19 +1181,19 @@ PDF page 565.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 449 | 449 | Tu quoque Tydidae prostratus, Pandare, dextra |  |
-| 450 | 450 | Occidis infelix, accepto vulnere" tristi, | 45« |
-| 451 | 451 | Dextera qua naris fronti conjungitur inue , |  |
+| 450 | 450 | Occidis infelix, accepto vulnere" tristi, | 450 |
+| 451 | 451 | Dextera qua naris fronti conjungitur imae , |  |
 | 452 | 452 | Dissipat et cerebrum galeae cum parte revulsum , |  |
 | 453 | 453 | Ossaque confossi spargit Tydideus ensis. |  |
-| 454 | 454 | Jamque manum ^neas simul et Calydonius heros |  |
-| 455 | 455 | Contulerant jaclis inter se cominus hastis , | 4" |
+| 454 | 454 | Jamque manum Aeneas simul et Calydonius heros |  |
+| 455 | 455 | Contulerant jactis inter se cominus hastis , | 455 |
 | 456 | 456 | Undique rimabant inimico pectora ferro, |  |
-| 457 | 457 | £t modo cedebant retro, modo deinde coibant. |  |
+| 457 | 457 | Et modo cedebant retro, modo deinde coibant. |  |
 
 ### Notes
 
 - **(cont.)** Nottri , infra occnrrentibus , monendam erit. — Ad Taruura dueit A.
-- **?** 449« Prostratus Pindare; ut supra , hic Pandare G. s.
+- **449** Prostratus Pindare; ut supra , hic Pandare G. s.
 - **451** Qua naris fronU eonjungitur imte, Mutuatum hoc esse 'videtur ab Ovidio , Met. XII, 3i5 : • inter dno lumina ferrum , Qua naris fronti committitor, accipit, im« ».
 - **453** Ossaque confossa sp€trgit legunt edd. cum A. et Barthius, Ady. p. 3770 extr. hoc eruditionifl CMe notat quod auctor in eonfossa flyllabAm longam fecerit ante literas sp; sed coif/oMi potiut ieg. esse viderunt Dorpius et Dussenius II. cc. idemque exstare in cod. MS Burmanni testantor, cni ego adjungere codicera Helmst. possum. Aliter ta« men G. i : Ossaque cum galea spar» git Thitjrdmus vel Thitieus ensis,
 - **454** Jtunque manum Mneas simul et Ca{jrdonius, Sic scripsi, ductn codicis Helmst. et G. ». Nam Torini ed. cum cod. A. scabrum yersum exhibet : Jamque manus Mneas et CatjrdonUis keros, Lips. etiam yitiose Jamque Mneas simul manus et Cafy^ donius heros.
@@ -1207,24 +1207,24 @@ PDF page 566.
 |---|---|---|---|
 | 458 | 458 | Postquani utrique diu steterant, nec vulnera magnus |  |
 | 459 | 459 | Qua daret infesto Tydides ense Videbat, |  |
-| 460 | 460 | Saxuin ingens, medio quod forte jacebat in agro, | 4«» |
+| 460 | 460 | Saxuin ingens, medio quod forte jacebat in agro, | 460 |
 | 461 | 461 | Bisseni quod vix juvenes tellure levarent, |  |
 | 462 | 462 | Sustulit, et magno conamine misit in hostem. |  |
 | 463 | 463 | Ille ruit prostratus humi cum fortibus armis, |  |
 | 464 | 464 | Quem Yenus aethereas genitrix delapsa per auras |  |
-| 465 | 465 | Accipit, et nigra corpus caligine condit | 4b& |
+| 465 | 465 | Accipit, et nigra corpus caligine condit | 465 |
 | 466 | 466 | Non tulit OEnidesanimo, nebulasque per ipsas |  |
 | 467 | 467 | Fertur, etin Venerem flagrantibus irruit armis, |  |
 | 468 | 468 | Et neque, quem demens ferro petat, inspicit ante, |  |
 | 469 | 469 | Caelestemque manum mortali vulnerat hasta. |  |
-| 470 | 470 | Icta petit caelum terris Cytherea relictis, | 4?« |
+| 470 | 470 | Icta petit caelum terris Cytherea relictis, | 470 |
 | 471 | 471 | Atque ibi sidereae queritur sua vulnera malri. |  |
 
 ### Notes
 
 - **458** Postquam uterque diu steterat G. a et L.
 - **459** Qua dedertu infesto A.
-- **?** 46 c . Tellure levabant exhibeat editiones vulg. Sed levarent legendaiu esse quum constructia grammatica poscit , tum auctoritas codicis Burmanni firmat , quam Dorpius jure adlegat. Meorum codd. Helmst. hahet teflure moverent ; G. a movebant, C»terum et hanc p-naiv fere totam aptavit sibi Noster e Virgiiio, ^n. XII, 896 seqq. « Nec plura effatus , saxum circumspicit ingens,Saxum antiquum , iiigens , carapo quod forte jacebat : Vix illud lecti bis sex cervice subirent ». Homerus multo modestius de magnitudine saxi , quod Diomedes jaciebat , V, 3o3 , saxum fuisse, quod yiiu duo hodierai aevi nou ferrent. , 463* Prostratus humi H. reliqui humo,
+- **461** Tellure levabant exhibeat editiones vulg. Sed levarent legendaiu esse quum constructia grammatica poscit , tum auctoritas codicis Burmanni firmat , quam Dorpius jure adlegat. Meorum codd. Helmst. hahet teflure moverent ; G. a movebant, C»terum et hanc p-naiv fere totam aptavit sibi Noster e Virgiiio, ^n. XII, 896 seqq. « Nec plura effatus , saxum circumspicit ingens,Saxum antiquum , iiigens , carapo quod forte jacebat : Vix illud lecti bis sex cervice subirent ». Homerus multo modestius de magnitudine saxi , quod Diomedes jaciebat , V, 3o3 , saxum fuisse, quod yiiu duo hodierai aevi nou ferrent. , 463* Prostratus humi H. reliqui humo,
 - **464** DUapsa L. et A.
 - **465** (AiUgine texit H. condit et texit G. a.
 - **466** Non tuiit Eonides L. Enoides A. Ut elegantiflsimos versns sequcntes laudandos censet Barthius, Adv. p. 3770 extr.
@@ -1239,29 +1239,29 @@ PDF page 567.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 472 | 472 | Dardanium ^nean servat Trojanus Apollo , |  |
+| 472 | 472 | Dardanium Aenean servat Trojanus Apollo , |  |
 | 473 | 473 | Accenditque aniinos, iterumque ad bella reducit. |  |
 | 474 | 474 | Undique consurgunt acies, et pulvere caelum |  |
-| 475 | 475 | Conditur, horrendisque sonat clamoribus aether. | 47 i |
+| 475 | 475 | Conditur, horrendisque sonat clamoribus aether. | 475 |
 | 476 | 476 | Hic aUus rapido dejectus in aequora curru |  |
 | 477 | 477 | Proteritur, pedibusque simul calcatur equorum; |  |
 | 478 | 478 | Atque alius volucri trajectus corpora telo, |  |
 | 479 | 479 | Quadrupedis tergo pronus ruit : illius ense |  |
-| 480 | 480 | Dejectum longe caput a cervice cucurrit; |  |
+| 480 | 480 | Dejectum longe caput a cervice cucurrit; | 480 |
 | 481 | 481 | Hic jacet exanimis fuso super arma cerebro. |  |
 | 482 | 482 | Sanguine manal humus, campi sudore madescunt, |  |
 | 483 | 483 | Emicat interea Veneris pulcherrima proles, |  |
 | 484 | 484 | Densaque Graiorum premit agmina, nudaque late |  |
-| 485 | 485 | Tei^a metit gladio, funestaque praelia miscet. | 485 |
+| 485 | 485 | Terga metit gladio, funestaque praelia miscet. | 485 |
 
 ### Notes
 
 - **(cont.)** tre Marte cumiin et eqnos petiUse, ipiibus perveheretur in caelam , ibi vero questam esse apud roatrem Dionen , Iliad. V, $70 : b^* h youvtttft ivtirrc At«vD( ^* A^po^^n) Mdrpbc i^QC' Ssepins confimdi a librariis matrit et Mards nomina , exeniplo est Virg. JEoi. IX , 584 » ^hi vnlgares edd. Martis litco exhibent, sed Macrob.V, 18» nuurislegu, qaono> mine equidem matrem Palicorum Thaham , quas ibi colebatur , puto intelligi. Induxit fortasse librarios , quod apnd alios poetas Martis qui* dem a Venere appellati , non item Diones matiis, mentio fieret, ut apud Ovid. Rem. Am. 5 : « Non ego Tydides, a quo tua saucia mater In liquidum rediit slhera Martis equis ».
 - **473** Reducit restitui e cod. Helmst. quum vulgati habent rtduxit.
-- **?** 4^5. HorrentUunque scnat G. %.
+- **475** HorrentUunque scnat G. %.
 - **476** Hinc altus G. a.
 - **477** ihnteritur est in cditis : praetuli Proteritur, quo\<l U. e( G. 3 habent. Similiter Virgilii i£n. XII , 3219 : « Semineces voivit multos , aut agmiuA curru Proterit ».
-- **?** 4yg'Qu€ulrupe€lis urgo. Si equitantem intelligit auctor ob vulnus equo delabentem , scripsit oontra senftum Homeri , et contra morero scriptorum beIliTrojani,qui equites iu bello ignorant, et heroes de curribus pugnantes produnt. Talis error etiam infra occurrit versu 496 , ubi Aga» roemnon sublimis equo volat agmina circum. Potest quidem pro equitatione adduci locus Homeri, II. X , 5i3 ; sed quia iinrcu; cirtSifioaTO di* cit , videntur equi currn juncti comroode posse intelligi. Werusdorf. in Addendis.
+- **478** Qu€ulrupe€lis urgo. Si equitantem intelligit auctor ob vulnus equo delabentem , scripsit oontra senftum Homeri , et contra morero scriptorum beIliTrojani,qui equites iu bello ignorant, et heroes de curribus pugnantes produnt. Talis error etiam infra occurrit versu 496 , ubi Aga» roemnon sublimis equo volat agmina circum. Potest quidem pro equitatione adduci locus Homeri, II. X , 5i3 ; sed quia ἵππων ἐπεβήσατο di* cit , videntur equi currn juncti comroode posse intelligi. Werusdorf. in Addendis.
 - **481** Hic jticet exsanguis G. a. Similiter Virg: JE.n. IX , ^53 : « Collapsos artus alque amia cruenta cerebro Sternit humi moriens •.
 - **485** Terga metit gladio, Dusseuius ia Prodr. p. 27 prefert pettt giiuUo. Et sane hoc aptius videtur, siquidem Noster et inf. v. 5^4 scri-
 
@@ -1280,7 +1280,7 @@ PDF page 568.
 | 492 | 492 | Invadit Danaos et territat ense cruento. |  |
 | 493 | 493 | Deficiunt Graiorum acies, Phryges acrius instant, |  |
 | 494 | 494 | A.dtoUuntque animos : geminat victoria vires. |  |
-| 495 | 495 | Ut vidit socios infesto cedere Marti | *9^ |
+| 495 | 495 | Ut vidit socios infesto cedere Marti | 495 |
 
 ### Notes
 
@@ -1289,7 +1289,7 @@ PDF page 568.
 - **488** Pecudes quum cemit edd. Tulg. pecudes dum wdit H. quum vidit G. 3 , et hoc mihi optimum visnm est. Omnino tersa et tvtppfic h«c descriptio est lupi in greges irruentis , maxime propter extrema verba. Mallem tamen leonem pro lupo posuisset. Hujus enim non tam intrepida et custodnm secura vis est, qualis boc loco describitur, quam leonis, et scite insidiosum magis,quam fortem, lupum describit Virgil. i£n. XI , 8io seqq. Placuit sibi aliquantum auctor hac comparatione , judice Barthio , pag. 9771, ut paullo post similem repe> teret Ieom's. In quo perperam fecisse ille,nimisque Inxuriatus videri potest , nisi hoc ex ipsius Homeri imitatbne fecit , qui dnobns locis parum disjunctis Diomedem ciim leone pecudes irruente comparat, Uiad. V, i35 et 161. Yirgilio ista. comparatio , ut Homero ipsi , frequens est. Vid. ^n. IX , 889 »et\q. et X, 713 seq. Conf. Tigris a|Mid Ovid. Metam. V, 164 seq.
 - **490** Premit esuries correxit manns antiqua in exeroplari bibliorhecs Lips. Sed esuriens omnes ]ibri habent, et melins sensui cohcret. — CsBterum his similia loquitur Val. Flaccus, VI , 6i5 : « nec e»de moratur in una Turbidus , inque om* nes pariter furit ». £0.
 - **492** Ense cruento H. G. 1 et A. quod malui , qaam vulgatum ense corusco.
-- **?** 494« Adtolhtntque animos e Virgilioy iit prsecedens Deficiunt, est, i£n. Xn , 9 y 4* — Geminat waoria vires, gr&vfter dictum , quod repetit versu 768.
+- **494** Adtolhtntque animos e Virgilioy iit prsecedens Deficiunt, est, i£n. Xn , 9 y 4* — Geminat waoria vires, gr&vfter dictum , quod repetit versu 768.
 - **495** Vt indit socios. Hic abest a codice Guelferbytauo secundo.
 
 ## p. 559
@@ -1302,17 +1302,17 @@ PDF page 569.
 | 497 | 497 | Hortaturque duces , animosque in praelia iBrmat. |  |
 | 498 | 498 | Mox ipse in medios audax se proripit hostes , |  |
 | 499 | 499 | Oppositasque acies stricto diverberat ense. |  |
-| 500 | 500 | Ut Libycus quum forte leo procul agmina vidit | w |
+| 500 | 500 | Ut Libycus quum forte leo procul agmina vidit | 500 |
 | 501 | 501 | Lseta boum passim virides errare per berbas, |  |
 | 502 | 502 | Adtollit cervice jubas, sitiensque cruoris |  |
 | 503 | 503 | In mediam erecto contendit pectore turbam : |  |
 | 504 | 504 | Sic ferus Atrides adversos fertur in hostes, |  |
-| 505 | 505 | Infestasque Phrygum proturbat cuspide turmas. | &«5 |
-| 506 | 506 | Yirtus clara ducis vires accendit Achivum, |  |
+| 505 | 505 | Infestasque Phrygum proturbat cuspide turmas. | 505 |
+| 506 | 506 | Virtus clara ducis vires accendit Achivum, |  |
 | 507 | 507 | Et spes exacuit languentia militis arma. |  |
 | 508 | 508 | Funduntur Teucri , Danai laetantur ovantes. |  |
-| 509 | 509 | Tandem hic ^neam immisso contendere curru |  |
-| 510 | 510 | Conspicit Atrides, strictoque occurrere ferro | si.. |
+| 509 | 509 | Tandem hic ,neam immisso contendere curru |  |
+| 510 | 510 | Conspicit Atrides, strictoque occurrere ferro | 510 |
 | 511 | 511 | Apparat , et jaculum , quantum furor ipse movebat , |  |
 | 512 | 512 | Viribus intorquet, quod depulit error ab illo |  |
 | 513 | 513 | Pectus in aurigse, stomachoque infigitur alto. |  |
@@ -1325,7 +1325,7 @@ PDF page 569.
 - **509** Hic tandetnJEneam misso eontendere legit G. a : sed merito retinui vulgatam lect. immisso, quam etiam scnrat scriptus A , sed tendere ponit pro contendere, Virg. ^iieid. XI , 889 : « immissis pars cseca et concita freuis Arietat in portas •. Ovid. Met. 1, a8o : « Fluminibus vestris totas iromittite habenas ».
 - **510** Stricto Goncurrere ferro Hine parat G. a. Occurrere ferro Tenuit et jaculum A.
 - **511** Quantum furor, Malim hic legere quantas furor ipse movebat, scil. vires. Sic Virgii. iEn. V, 454 : « vim suscitat ira , Tum pudor iucendit vires et conscia Turtus ». — £t Gratitts in Halieut. 56 : « et viribus addidit iram*. Vid. hujns operis tnovebat G. a legit manebat.
-- **?** 5 n . Depulit error, Ov id . Meta m . XII, 83 : t( quaraquam certa nuUus fuit error in hasta >.
+- **512** Depulit error, Ov id . Meta m . XII, 83 : t( quaraquam certa nuUus fuit error in hasta >.
 - **513** Stomachoque infigitur, Virgil, i£u. IX, 698 : « volat Itala cornus Aera per tenerum , stomachoque infixa sub altum Pectus abit •.
 
 ## p. 560
@@ -1334,18 +1334,18 @@ PDF page 570.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 514 | 514 | lUe ruens ictu medla inter lora rotasque |  |
-| 515 | 515 | Yolvitur, et vitam calido cum sanguine fundit. | 5iS |
-| 516 | 516 | Ingemit .£neas, curruque animosus ab alto |  |
+| 514 | 514 | Ille ruens ictu medla inter lora rotasque |  |
+| 515 | 515 | Yolvitur, et vitam calido cum sanguine fundit. | 515 |
+| 516 | 516 | Ingemit Aeneas, curruque animosus ab alto |  |
 | 517 | 517 | Desilit, et valido Crethonem cominus ictu |  |
 | 518 | 518 | Orsilochumque ferit : quorum post fiinera victus |  |
 | 519 | 519 | Paphlagonum ductor Menelai concidit armis, |  |
-| 520 | 520 | Antilochique Mydon : post hos Jovis inclyta proles |  |
+| 520 | 520 | Antilochique Mydon : post hos Jovis inclyta proles | 520 |
 | 521 | 521 | Sarpedon sequitur, funestaque praelia miscet. |  |
 | 522 | 522 | Quem contra infehx non aequis dimicat arrais |  |
 | 523 | 523 | Tlepolemus, magno satus Hercule; sed neque vires |  |
 | 524 | 524 | Hunc servare patris, nec tot potuere labores, |  |
-| 525 | 525 | Quin caderet, tenuemque daret de corpore vitam. |  |
+| 525 | 525 | Quin caderet, tenuemque daret de corpore vitam. | 525 |
 | 526 | 526 | Saucius egreditur medio certamine belli |  |
 
 ### Notes
@@ -1368,19 +1368,18 @@ PDF page 571.
 | 527 | 527 | Sarpedon, fraudisque subit cotnmentor Ulysses, |  |
 | 528 | 528 | 'Et septem juvenum pulcherrima corpora fundit. |  |
 | 529 | 529 | Hinc pugnat patriae culmen, Mavortius Hector, |  |
-| 530 | 530 | lUinc Tydides : stemuntur utrimque virorum | Slo |
+| 530 | 530 | lUinc Tydides : stemuntur utrimque virorum | 530 |
 | 531 | 531 | Corpora per campos, et sanguine prata rigantur. |  |
 | 532 | 532 | Pugnat bellipotens casta cum Pallade Mavors , |  |
 | 533 | 533 | Ingentemque movet clypeum, quem sancta virago |  |
-| 534 | 534 | ^gide et extrema percussum cuspide caedit, |  |
+| 534 | 534 | Aegide et extrema percussum cuspide caedit, |  |
 
 ### Notes
 
 - **(cont.)** nnes nascentem arcessere yitas. » Et iEn. IVy 7o5 : « omnis et una Dilapstts calor, atque in ventos Tita recessit ».
 - **527** Fnutdis commentor Uljrsses dicitnry yeluti hoc ejns fuerit artlficium, inquit Barthius, Adv. LIX, 1S9 quale ab Homero aliisque Veteribus ei perpetuo tribnitur. Virgil. JEjk, Ily 164 : « scelernmque iuTentor Uiysses > : idemque repetit Noster iofra , ▼. 579. Similiter Ovidius ck eo, Met. XIII, 3i : • quid sanguine cretus Sisypbio , furtisque et fraude simiilimus illi » 9 cujus et eommenta mox notat ts. 38. Hinc etiam, notante Dussenio ad Nostri yersum 65, Uiysses in ara DosiadsB secunda fup appellatur, ut pluribus ostendit Salmasins in notis , p. i56.
 - **528** Et septem juvenum, Lyciorum , quos enumerat Horoerus , IL V, 677, Coeranum , Alastora , Ghromium , Alcandrum , Halium , Noeraona , Prytanim.
-- **529** Guelf. a aliter Terba ordinat : Hinc patrio! culmen pugnat, Dussenius mavult eolumen legere , p. 39; quod saue maxime aptum Hectori , atque alteri elogio , quod ei supra tribuebat Noster, t. 486, spes una Phrygum, convenientissimum est. Similiter Seiieca in Troad. vs. 1 a6 , de Hectore : « Colnnien patrise , mora fatoruin , Tu prspsi-
-- **?** III. dium Phrygibus fessis,Tu murus eras ». — «Graium murus Achiiles», OTid.Met.Xm, a8i. Lncan.VI, 90I, de ScssTa : « stat non fragilis pro Caesare murus , Pompeiumque tenet ». C«terum quod addit Seneca 1. c. « Tecum cecidit , summusque dies Hectoris idem patrisBque fuit » , imitatus Tidetur Noster, infra ts. 106 1. Vide notata a nobis ad Pentadii tumulum Hect. buj. op. t. II , p. 339. £d. — Verum tamen nolim ▼ocabulum in ipso oontextu routare , quum culmen adeo non discon- Teniat Hectori , ut saltem summam ejus dignitatem indicet. Ita plane Cornel. SeTerus Ciceronem vocat « Egregium semper patria caput » , supra pag. aii hujus tomi.
+- **529** Guelf. a aliter Terba ordinat : Hinc patrio! culmen pugnat, Dussenius mavult eolumen legere , p. 39; quod saue maxime aptum Hectori , atque alteri elogio , quod ei supra tribuebat Noster, t. 486, spes una Phrygum, convenientissimum est. Similiter Seiieca in Troad. vs. 1 a6 , de Hectore : « Colnnien patrise , mora fatoruin , Tu prspsi dium Phrygibus fessis,Tu murus eras ». — «Graium murus Achiiles», OTid.Met.Xm, a8i. Lncan.VI, 90I, de ScssTa : « stat non fragilis pro Caesare murus , Pompeiumque tenet ». C«terum quod addit Seneca 1. c. « Tecum cecidit , summusque dies Hectoris idem patrisBque fuit » , imitatus Tidetur Noster, infra ts. 106 1. Vide notata a nobis ad Pentadii tumulum Hect. buj. op. t. II , p. 339. £d. — Verum tamen nolim ▼ocabulum in ipso oontextu routare , quum culmen adeo non discon- Teniat Hectori , ut saltem summam ejus dignitatem indicet. Ita plane Cornel. SeTerus Ciceronem vocat « Egregium semper patria caput » , supra pag. aii hujus tomi.
 - **530** Iliic Tkitides G. a.
 - **533** Cfypeo qu&n sacra virago legit G. s. yirago frequens et fere proprium de Pallade. Flava wrago Nasoni dicitur Met. VI , i3o, «sancta Tirago » , judice Barthio 1. c. p. 9806, castam simul innuit et Martiam seu Iiellicosam.
 - **534** Fgity et extrema hic quidem omnes libri legunt. Dussenius tanieu p. ag legendum putat Fregit, de clypeo, qui praecessit, intelligens, idque coufirmari Ovidii loco , quem Noster imitatus sit , Met. V, 173 : «Non circumspectis exactum Tiribus ensem Fregit ». Sed mihi
@@ -1391,12 +1390,12 @@ PDF page 572.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 535 | 535 | Attonitumque simul c^lum petere ipsa coegit. |  |
+| 535 | 535 | Attonitumque simul caelum petere ipsa coegit. | 535 |
 | 536 | 536 | Hic ille aethereo queritur sua vulnera regi |  |
 | 537 | 537 | Saucius , et magni genitoris jurgia suffert. |  |
-| 538 | 538 | Yl. Interea magnis Acamantem viribus Ajax |  |
+| 538 | 538 | VI. Interea magnis Acamantem viribus Ajax |  |
 | 539 | 539 | Interimit, vastumque capit Menelaus Adrastum, |  |
-| 540 | 540 | £t rapit ad classes manibus post terga revinetis, | Sio |
+| 540 | 540 | Et rapit ad classes manibus post terga revinctis, | 540 |
 | 541 | 541 | Ut vivo ducat laetos ex hoste triumphos. |  |
 | 542 | 542 | Incumbunt Danai, cedit Trojana juventus, |  |
 
@@ -1418,18 +1417,18 @@ PDF page 573.
 |---|---|---|---|
 | 543 | 543 | Tergaque nuda tegit : seusit Mavortius Hector |  |
 | 544 | 544 | Pro Danais pugnare Deos, validasque suorum |  |
-| 545 | 545 | Virginis armigerae subduci numine vires. | bis |
+| 545 | 545 | Virginis armigerae subduci numine vires. | 545 |
 | 546 | 546 | Continuoque petit muros , Hecubamque vocari |  |
 | 547 | 547 | Imperat , et Divae placari numina suadet. |  |
 | 548 | 548 | Protinus armatas innuptse Palladis arces |  |
 | 549 | 549 | Iliades subeunt, festisque altaria sertis |  |
-| 550 | 550 | Exornant, caeduotque sacras de more bidentes. | s^o |
+| 550 | 550 | Exornant, caeduotque sacras de more bidentes. | 550 |
 | 551 | 551 | Duroque preces Hecube supplex ad templa Minervae |  |
 | 552 | 552 | Pro charis genitrix natis et conjuge fundit, |  |
 | 553 | 553 | Interea Glaucus stricto contendere ferro |  |
 | 554 | 554 | Cum Diomede parat, nomenque genusque roganti, |  |
-| 555 | 555 | Quis sit, et unde ferat, magnis cum viribus hastam | ssb |
-| 556 | 556 | Mittere tentabat ; tentanti iiEtolius heros^ |  |
+| 555 | 555 | Quis sit, et unde ferat, magnis cum viribus hastam | 555 |
+| 556 | 556 | Mittere tentabat ; tentanti Aetolius heros, |  |
 | 557 | 557 | cc Quo ruis! exclamat; quae te, scelerate, furentem |  |
 | 558 | 558 | Mens agit imparibus mecum concurrere telis? |  |
 | 559 | 559 | Hospitis arma vides, Veneris qui vulnere dextram |  |
@@ -1439,7 +1438,7 @@ PDF page 573.
 - **543** Tergaqtte nuda Ugit, clypeis pato , ne impane caeclautur. Virg. i£n. XI , 63o : « Bis rejecti armis respectant terga tegentes • .
 - **546** HecubamquevocareG. a.
 - **548** jdnnatas nescio aii satis con« veniens vocabulum sit, nec tamen aliud e scriptura librorum peten* dum. — Innupt\<e Minerva: Virgil. iEn. n, 3i.
-- **?** 549« jiltaria sertis. Placandis scilicet numinibus , inquit Barthius 1. c. Veteres nou tantum victimas adhibebant , sed etiam coronas , aris cingendis, addo etiam delubris. Virg. iEn. II , »49 • « Nos delubra DecMn . . . festa velamus fronde per urbem »; et IV, aoa : • variis £Iorentia limina sertis > ; idem , Gcorg. IV, 276 , « Saepe Deum nexis omatqc torquibus ar» ».
+- **549** jiltaria sertis. Placandis scilicet numinibus , inquit Barthius 1. c. Veteres nou tantum victimas adhibebant , sed etiam coronas , aris cingendis, addo etiam delubris. Virg. iEn. II , »49 • « Nos delubra DecMn . . . festa velamus fronde per urbem »; et IV, aoa : • variis £Iorentia limina sertis > ; idem , Gcorg. IV, 276 , « Saepe Deum nexis omatqc torquibus ar» ».
 - **550** Ex more bidentes vulgats ; de more H. idque rectius , et est Virgilii, iEneid. IV, Sj ; V, 96. — Sacras ad templa bidentes G. a : quod sine dubio per errorem e versu sequeate huc migravit.
 - **553** Decern ereferro G . a .
 - **555** Et undeferat, scilicet arma : sic dedi ex H. et G. a. Vulgats Qitis sit et undeforet,
@@ -1452,13 +1451,13 @@ PDF page 574.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 560 | 560 | Perculit, et summo repulit certamine Martem. | S€o |
+| 560 | 560 | Perculit, et summo repulit certamine Martem. | 560 |
 | 561 | 561 | Pone truces animos, infestaque tela coerce». |  |
 | 562 | 562 | Post hsec inter se posito certamine pugnae |  |
 | 563 | 563 | Commutant clypeos, inimicaque praelia linquunt. |  |
-| 564 | 564 | Colloquium petit interea iidissima (X>njux. |  |
+| 564 | 564 | Colloquium petit interea fidissima conjux. |  |
 | 565 | 565 | Hectoris Andromache, parvumque ad pectora natum | 565 |
-| 566 | 566 | Astyanacta tem^t, cujus dum maumus heros |  |
+| 566 | 566 | Astyanacta tenet, cujus dum maximus heros |  |
 | 567 | 567 | Oscula parva petit, subito perterritus infans • |  |
 | 568 | 568 | Convertit timidos materna ad pectora vultus, |  |
 | 569 | 569 | Terribilemque fugit galeam , cristamque micantem. |  |
@@ -1483,18 +1482,18 @@ PDF page 575.
 |---|---|---|---|
 | 573 | 573 | Ut meus hic, pro quo tua numina, natus, adoro, |  |
 | 574 | 574 | Virtutes patrias primis imitetur ab annis». |  |
-| 575 | 575 | YII. Haec ait, et portis acies petit acer apertis : | h^ |
+| 575 | 575 | VII. Haec ait, et portis acies petit acer apertis : | 575 |
 | 576 | 576 | Una deinde Paris: postquam ad certamina ventum est, |  |
 | 577 | 577 | Protinus in medium procedit maximus Hector, |  |
 | 578 | 578 | Graiorumque duces invictis provocat armis. |  |
 | 579 | 579 | Nec mora, continuo fraudis commentor Ulysses, |  |
-| 580 | 580 | £t ferus Idomeneus, et notus gente paterna | S8o |
+| 580 | 580 | Et ferus Idomeneus, et notus gente paterna | 580 |
 | 581 | 581 | Meriones, Graiumque simul dux acer Atrides, |  |
 | 582 | 582 | Ajacesque duo clari , speciosus in armis |  |
-| 583 | 583 | Eurypylus, magnoque Thoas Andra^mone natus, |  |
+| 583 | 583 | Eurypylus, magnoque Thoas Andraemone natus, |  |
 | 584 | 584 | Quique manum Veneris violavit vulnere tristi, |  |
 | 585 | 585 | Procedunt : aberat nam Troum terror Achilles, | 585 |
-| 586 | 586 | £t dulci cithara dirum lenibat amorera. |  |
+| 586 | 586 | Et dulci cithara dirum lenibat amorem. |  |
 
 ### Notes
 
@@ -1515,11 +1514,11 @@ PDF page 576.
 | — | 587 | [Sortes miserunt , quis eonim in bella valeret] |  |
 | 587 | 588 | Ergo ubi dejectis auratam regis Atridae |  |
 | 588 | 589 | Sortibus in galeam , magnus processerat Ajax , |  |
-| — | 590 | Concurrunt armis Ajax crudelis et Hector. | - |
+| — | 590 | Concurrunt armis Ajax crudelis et Hector. | 590 |
 | 589 | 591 | Principio jactis committunt praelia telis, |  |
 | 590 | 592 | Mox rigidos stringunt enses , et fortibus armis |  |
 | 591 | 593 | Decernunt, partesque oculis rimantur apertas; |  |
-| 592 | 594 | £t modo terga petunt, duros modo fortibus ictus |  |
+| 592 | 594 | Et modo terga petunt, duros modo fortibus ictus |  |
 | 593 | 595 | Depellunt clypeis : ingens ad sidera clamor | 595 |
 | 594 | 596 | Tollitur, et vastis impletur vocibus aether. |  |
 | 597 | 597 | [Alterni vibrant gladios, et vulnera miscent] |  |
@@ -1562,24 +1561,24 @@ PDF page 578.
 |---|---|---|---|
 | 601 | 603 | [Talis Priamides, simul Ajax fortis in armis] |  |
 | 602 | 604 | Tandem animis armisque furens Telamonius Ajax |  |
-| 603 | 605 | Insignem bello petit Hectora, quaque patebat | 6oS |
+| 603 | 605 | Insignem bello petit Hectora, quaque patebat | 605 |
 | 604 | 606 | Nuda viri cervix , fulgentem dirigit ensem. |  |
-| 605 | 607 | llle ictum celeri praevidit callidus astu , |  |
+| 605 | 607 | Ille ictum celeri praevidit callidus astu , |  |
 | 606 | 608 | Tergaque submisit, ferrumque umbone recepit , |  |
 | 607 | 609 | Sed levis extremas clypei perlabitur oras |  |
-| 608 | 610 | Ensis, et exiguo cervicem vulnere libat. |  |
+| 608 | 610 | Ensis, et exiguo cervicem vulnere libat. | 610 |
 | 609 | 611 | Acrius adversum rursus consurgit in hostem |  |
 | 610 | 612 | Priamides, nec jam ferro Telamone creatum, |  |
 | 611 | 613 | Sed magno saxi jactu petit : at ferus Ajax |  |
 | 612 | 614 | Ingentem clypeo septemplice depulit ictum , |  |
-| 613 | 615 | Et juvenem saxo percussum sternit codem. | 6iS |
+| 613 | 615 | Et juvenem saxo percussum sternit codem. | 615 |
 | 614 | 616 | Quem levat exceptum Graiis inimicus Apollo, |  |
-| 615 | 617 | Integratque animum : jam rursu6 ad arma coibant, |  |
+| 615 | 617 | Integratque animum : jam rursus ad arma coibant, |  |
 
 ### Notes
 
 - **603 (LL 601)** Talis Priamides, Et hic ver- 8US expungendus est, a ludimagistro adpositus , qui putabat praecedens siniiie hanc applicationem poscere. Sed compiiratio v. 5^8 instituta ita formata est, ut ad antecedentia se referat, nullamque poscat apodosin. Indictuni spurii yersns etiam manca et abrupta ejus sententia est , et quod diversus vitioque macuiatus exhibetur xn codice ' Helmst.7Vi/rV Priamides/ortisque jHa^ cides armis. £t possis quidem hic subjungere , qui supra abundabat , versum $97 ; sed tamen ambo sine detrimento orationis abesse possunt.
-- **?** 6o4' jinimis telisque H. animis telofue G. 3.
+- **604 (LL 602)** jinimis telisque H. animis telofue G. 3.
 - **605 (LL 603)** Quaque petiti H. male.
 - **608 (LL 606)** Hic scripturam codicis H. sequi maiui , quam editionum et A. qus submittit, et umbone repeUit. Fosl hnnc versnm in G. a intruditur alius absurdus : Cedebat juveni paullum Maportius heros^ qui sane nil aliud , quam absonam interpretationem verborum precedentium tergaque submisit pre se fert.
 - **609 (LL 607)** Perlabitur oras scribit H. quod rectius esse puto, qnam quod editi habent, dilabitur.
@@ -1596,17 +1595,17 @@ PDF page 579.
 |---|---|---|---|
 | 616 | 618 | Stringebantque iteruni gladios , quum fessus in undas |  |
 | 617 | 619 | Coeperat igniferos Titan immergere currus , |  |
-| 618 | 620 | Noxque subire polum : juxta mittuntur, utrosque | 6ao |
+| 618 | 620 | Noxque subire polum : juxta mittuntur, utrosque | 620 |
 | 619 | 621 | Qui dirimaut a caede viros, nec segnius illi |  |
 | 620 | 622 | Deponunt animos : tum bello maximus Hector : |  |
 | 621 | 623 | «Quae te terra virum, qui te genuere parentes? |  |
 | 622 | 624 | Viribus es proles generosa atque inclyta?» dixit. |  |
-| 623 | 625 | ContrahaBC dicta referre paratTelamoniusAjax: | \<>>& |
+| 623 | 625 | ContrahaBC dicta referre paratTelamoniusAjax: | 625 |
 | 624 | 626 | «Hesiona de matre vides Telamone creatum, |  |
 | 625 | 627 | Nobilis illa domus fama, et generosa propago». |  |
 | 626 | 628 | Hector ut Hesjpnae nomen casusque recordat, |  |
 | 627 | 629 | ff Absistamus, ait, sanguis communis utrique»; |  |
-| 628 | 630 | Ajacemque prior aurato munerat ense, | 6io |
+| 628 | 630 | Ajacemque prior aurato munerat ense, | 630 |
 | 629 | 631 | Inque vicem , quo se bellator cinxerat Ajax , |  |
 | 630 | 632 | Accipit insignem vario caelamine balteum. |  |
 
@@ -1616,7 +1615,7 @@ PDF page 579.
 - **618 (LL 616)** 7/1 undis G. a.
 - **622 (LL 620)** Tum btllo G. a. Tunc A. et T.
 - **623 (LL 621)** Quce te terra viris A. mendose. Virg. ^n. I, 606 : « qui tanti talem genuere parentes ».
-- **?** S^S, Contra hofc dicta : sic H. Mox sic contra referte G. ^, At co«tra referre parat A. et edd.
+- **625 (LL 623)** Contra hofc dicta : sic H. Mox sic contra referte G. ^, At co«tra referre parat A. et edd.
 - **627 (LL 625)** Nobiiis heec domus et fcuna G.a.
 - **628 (LL 626)** Torini et Spond. edd. legebaut Hector et Hesionce . . . recordans. Dussenius, pag. 34 1 suadet legere Hector at Hesiome, Sed MS Helnist. Hector ut Esionue nomen casusque recordat, Sic et Guelf. i , qui iu hoc v.pergit, cum A. et Lips. ant. Hector ut Esione . . . reeordans, Homm. auctoritate malo ut et recordat aniplecti. Ulud enim orationis seriem bene fulcit , et recordat dignum est hoc poetastro, quem autiquatas verborum formas subinde usurpare , ex pluribus exeraptis novimus. — Videantur quie supra adnotata sunt ad versum 4^^ > ct ad Nemesiani fragraent. de Aucupio. Ed. — Cseterum Hesione , cujiis hic mentio , Laomedontis Trojse regis fih*a fuit , quam Hercules ceto expositam liberavit ; postea Troja capta Telamoni,qui priraus mumm conscende^ rat, uxorem dedit. Ovid. Metam> XI, ai6 sqq.
 - **629 (LL 627)** Sanguis communis utrique G. I et a. VulgatSB addunt est,
@@ -1635,13 +1634,13 @@ PDF page 580.
 | 634 | 636 | Atque avidi placido tradunt sua corpora somno. |  |
 | 635 | 637 | Postera quum primum stellas Aurora fugarat , |  |
 | 636 | 638 | In coetum venere Phryges, tum maximus Hector |  |
-| 637 | 639 | Cum sociis, raemorans hesternae funera cxdis , |  |
-| 638 | 640 | Suadet ut invictis Helene reddatur Achivis, | 64» |
+| 637 | 639 | Cum sociis, raemorans hesternae funera caedis , |  |
+| 638 | 640 | Suadet ut invictis Helene reddatur Achivis, | 640 |
 | 639 | 641 | Praedaque, quae duros Menelai mulceat ignes; |  |
 | 640 | 642 | Idque placet cunctis ; tum saevo missus Atridae |  |
 | 641 | 643 | Pertulit Idaeus Troum mandata, neque ille |  |
 | 642 | 644 | Aut animum praedae, aut dictis accommodat aures, |  |
-| 643 | 645 | Ultro etiam castris Idaeum excedere jussit. | 64& |
+| 643 | 645 | Ultro etiam castris Idaeum excedere jussit. | 645 |
 | 644 | 646 | Paruit hic monitis, iterumque ad castra reversus |  |
 
 ### Notes
@@ -1650,9 +1649,9 @@ PDF page 580.
 - **636 (LL 634)** Atque avidi restitui e G. i , 3 , A. et L. quum Tor. ed. haberet at^ide.
 - **637 (LL 635)** Postera quum primiun. Bondamiua aeque putat Ovidium boc versu ah auctore expressum, Met. XV, 665 : «Postera sidereos Aurora fugaverat igues*; et Met. IV, 81: • Postera nocturnos Aurora removerat ignes ». — Et ix)teiat advocari Virgilii locus , ^neid. III, Sai : «( Jaraque rubescehat stellis Aurora fugatis». Ed. — Ego vero Virgilii potius locum bic usurpatum video ^n. V, 4^ : «Postera quum primo stellas Oriente fugarat Qara dies, socios in coctum litore ab ouni Advocat ^Eneas «. Lips. antiqua dciWifugaret, minus rcctc.
 - **638 (LL 636)** Tttm maximus G. i tt •> : reliqui tunc.
-- **?** 689. Funera ecedis habent tres mei scripti , quibus alludit A. et L. tenensfitnera necis. Hoc igitur sommo jure revocavi , quum Tulgata lectio funera noetis per se inepta et aliena sit. Etenim nocte prseterita nulla funera facta erant.
+- **639 (LL 637)** Funera ecedis habent tres mei scripti , quibus alludit A. et L. tenensfitnera necis. Hoc igitur sommo jure revocavi , quum Tulgata lectio funera noetis per se inepta et aliena sit. Etenim nocte prseterita nulla funera facta erant.
 - **641 (LL 639)** Volnerai ignes H. moverat G. I : neutra lectio vulgatx pnestat.
-- **?** 64a\< Edd. hic falso exhibent cum sievo: necessarium est tum, quod G. I et 2 , et antiqua Lips. tenent.
+- **642 (LL 640)** Edd. hic falso exhibent cum sievo: necessarium est tum, quod G. I et 2 , et antiqua Lips. tenent.
 - **644 (LL 642)** Admodura corruptus hic versus in ed. Tor. et Spond. exstat : neque iUe Aut animum precibas , nec dictis porrigit euires. Csteri variaut. Antiqua Lips. Aut animum prece, aut dictis porrigit aures. Helmst. scriptus iprcedas aut dictis commodat aures. Guelf. i : preedas 'vel dictis commodat aurem. G. a : prcedce vcl dictis accommodat. A. prcedtr aut dictis porrigit. E singulis colligi potuit vera leciio , quam dedi.
 - **645 (LL 643)** Vttro dc castris G. a.
 
@@ -1665,7 +1664,7 @@ PDF page 581.
 | 645 | 647 | Trojae, contemptum duro se reddit ab hoste. |  |
 | 646 | 648 | Interea Danai conflisi caede suorum |  |
 | 647 | 649 | Ingentes struxere pyras, colleetaque passim |  |
-| 648 | 650 | Fortia tradiderunt sociorum corpora flammis. | 65o |
+| 648 | 650 | Fortia tradiderunt sociorum corpora flammis. | 650 |
 | 649 | 651 | Tjjm renovant fossas, et vallum robore cingunt. |  |
 | 650 | 652 | VIII. Ut nitidum Titan radiis patefecerat orbem , |  |
 | 651 | 653 | Convocat in coetum Superos Jovis, et mouet onmes, |  |
@@ -1694,24 +1693,24 @@ PDF page 582.
 | 655 | 657 | Inde acies videt Iliacas, dextraqiie potenti |  |
 | 656 | 658 | Sustinet auratas aequato pondere lances, |  |
 | 657 | 659 | Fataque dura Phryguin , casusque expendit Achivum , |  |
-| 658 | 660 | £t Graium clades gravibus praeponderat armis. | 66« |
+| 658 | 660 | Et Graium clades gravibus praeponderat armis. | 660 |
 | 659 | 661 | Interea Danaos ingenti conciius ira |  |
 | 660 | 662 | Prlamides agit, et totis gravis imminet armis, |  |
 | 661 | 663 | Unum quippe decus Phrygiae : turbantur Achivi, |  |
 | 662 | 664 | Doricaque ingenti complentur castra tumultu. |  |
-| 663 | 665 | Hortatur socios muris inciusus Atrides, | 66s |
+| 663 | 665 | Hortatur socios muris inciusus Atrides, | 665 |
 | 664 | 666 | Languentesque animos juvenum in certamina firmat. |  |
 | 665 | 667 | Princeps Tydides ardentibus emicat armis, |  |
 | 666 | 668 | Per mediosquc hostes immani turbine fertur. |  |
 | 667 | 669 | Hic illi occurrit fatis Agelaus iniquis |  |
-| 668 | 670 | Telum immane manu quatiens, quem maximus heros^?* |  |
+| 668 | 670 | Telum immane manu quatiens, quem maximus heros, | 670 |
 | 669 | 671 | Occupat , et duro medium transverberat ense. |  |
 | 670 | 672 | Hinc Phrygas Ajacis vastis protectus in armis |  |
 
 ### Notes
 
 - **(cont.)** simul legendum vldetur super,qnem' admoduni hoc supra, ts. 65, cum simul permutatum est. £d.
-- **?** 65^. Intle indens aciein lUacain H. Tum indet acies liiaeas G. 3.
+- **657 (LL 655)** Intle indens aciein lUacain H. Tum indet acies liiaeas G. 3.
 - **659 (LL 657)** Faiaque dira H.
 - **661 (LL 659)** CondiCtts ira G. 2 mendose.
 - **662 (LL 660)** Totis supereminet armis edd« legunt, inepte: rectius totis gravis imminet H. G. i : et totis itkminet G.a.
@@ -1735,25 +1734,25 @@ PDF page 583.
 | 675 | 677 | Occupat, excussoque incautum proterit arcu. |  |
 | 676 | 678 | Ast illum fidi rapiunt de caede sodales, |  |
 | 677 | 679 | Prostratumque levant: ruit undique turbidus Heclor, |  |
-| 678 | 680 | Adversasque acies infesta cuspide terret. | mo |
+| 678 | 680 | Adversasque acies infesta cuspide terret. | 680 |
 | 679 | 681 | Sed rursus Danai turbati caede suorum |  |
-| 680 | 682 | G>ncurrunt , iterumque leves in castra catervaB |  |
+| 680 | 682 | Concurrunt , iterumque leves in castra catervae |  |
 | 681 | 683 | Confugiunt , portasque objecto robore firmant. |  |
 | 682 | 684 | At Phryges obsidunt inclusos aggere Graios, |  |
-| 683 | 685 | Excubiisque premunt muros, flammisque coronant. (^si^ |  |
+| 683 | 685 | Excubiisque premunt muros, flammisque coronant.  | 685 |
 | 684 | 686 | Caetera per campos sternit sua corpora pubes, |  |
 | 685 | 687 | Indulgentque mero, curas animosque resolvunt. |  |
 
 ### Notes
 
-- **?** 674« Pro Corisiona , qnodTalgaUe faabent, Gorgythiona legendam ex Hom. Iliad. VIII , 3oi , monnitcl. Bondamius 1. c. et prope accedont G, I et a , Coriphiona legentea. Crc donaque satum H. et Carphiona • . . fttdit A.
+- **674 (LL 672)** Pro Corisiona , qnodTalgaUe faabent, Gorgythiona legendam ex Hom. Iliad. VIII , 3oi , monnitcl. Bondamius 1. c. et prope accedont G, I et a , Coriphiona legentea. Crc donaque satum H. et Carphiona • . . fttdit A.
 - **675 (LL 673)** Mox aiias aaes petit, Dussenias , p. 36, hic -volebat refingere Mox aiios ardens petit. Cl. de Roqjr, Spic. crit. p. 98, mavult Mox alios aciepetit, quodeqaidemprstalerim, si acie aliquem petere, de sagittis, qae hoc loco intelligeudae, dici crederem. Tolerabilem potius lectionem valgatam puto.
 - **676 (LL 674)** Qum, scil.Teucrum. Ed.
 - **677 (LL 675)** Excussumque extemo proterit G. I : extemph proterit arcu G. a : sed lectio vulgata prnvalet , et ex^ cusso areu sigaificatur, arcum maaibas Teucri excussum esse ictu lapidis ab Uectore conjecti.
 - **678 (LL 676)** Rapiunt a carde H. Phrasin iOam habet Ovidius, Her.YI, i35: « Prodidit lUa patrem : rapui de c«de Thoanta ».
 - **680 (LL 678)** Invisa cuspide H. inversa G. I et 3. Infesta melius yulg.
 - **682 (LL 680)** Convertunt, iterumque G. i et 1 ; ad castra G. 3.
-- **?** f>83. Ohjecto rohore, pessulo roboreo objecto. Totus versus infra recurrit vs. 935. Conferatar etiam versus 761.
+- **683 (LL 681)** Ohjecto rohore, pessulo roboreo objecto. Totus versus infra recurrit vs. 935. Conferatar etiam versus 761.
 - **684 (LL 682)** At Pkrxges obsident L. /«clusos occidunt aggere H.
 - **685 (LL 683)** Excubituque premunt muros Jlammisque coronant H. et G. i. Ex his coronant recepi in textum , pro coruscan^t, quod in vulgatis est. Nam Virgilius , iEn. IX , 160 : « Interea vigilum excubiis obsidere portas Cura datur Messapo, et mcenia cingere flammis » , nempe vigiliarum ; et ibid. 38o : • omnemqne aditum castode coronant ».
 - **687 (LL 685)** Curas animosque. Videtar legendum CBsecuris animosqne, vel curas animisque resolvunt.
@@ -1766,10 +1765,10 @@ PDF page 584.
 |---|---|---|---|
 | 686 | 688 | IX. Atfoniti Danaum proceres discrimine tanto |  |
 | 687 | 689 | Nec dapibus relevant animos, nec corpora curant, |  |
-| 688 | 690 | Sed miseri sua fata gemunt : mox hoste repulso | 69« |
+| 688 | 690 | Sed miseri sua fata gemunt : mox hoste repulso | 690 |
 | 689 | 691 | Legatos mittunt, dextramque hortantur Achillis, |  |
 | 690 | 692 | Ut ferat auxilium miseris. Thetideius heros |  |
-| 691 | 693 | Nec Danaum capit aure preces^ nec munera regis |  |
+| 691 | 693 | Nec Danaum capit aure preces, nec munera regis |  |
 | 692 | 694 | Ulla referre cupit : neque enim illum rcdditus ignis |  |
 | 693 | 695 | Aut infacta suo Briseis corpore movit. | 695 |
 | 694 | 696 | Irrita lcgati referunt responsa Pelasgis : |  |
@@ -1779,7 +1778,7 @@ PDF page 584.
 ### Notes
 
 - **690 (LL 688)** Mox hoste repuiso. Sic scripti iropressique legunt, sed corrigendum videtur mox hoste repulsi. Vid. Kxcursus prinaus ad calcem kujas carmiDis.
-- **?** dgi .Dextramque hortanturJchiUis, Dextram hoc loco /idem designare observat Barthius, p. 2807, qui prseterea muitis locis Veterura adductis prohat, dextram invicem datam esse in amicitis signum, faToris et clementisB ; item pnebitione dextrse promissiones mutuas factas , pacem com])ositam et foedera icta. Qu4e omnia , satis nota , hic repetere longum est. Unum et alterum aflero. Valer. Flacc. IJ » 689, de Cyzico : «\< Ut videt , ipse ultro primus procurrit ad undas, Miratnrque viros, dextraque amplexus et hierens Inripit». Idem libro III, i4 » «manibusque datis junxere nepotes » , h. e. perpetuum fcedus in omnem |>osteritatem fecerunt (sed ibi Gronovius vult penates). Prosperlibro delngrat. «\< An dextram, pacis palniam , dare te pudet hosti > . Hoc nostri Homciis^xloco per dextram, ut mea quidem fert opinio, non modu fides ct amicitia Achillis , sed et fortitudo et vis bellica notatur.
+- **691 (LL 689)** Dextramque hortanturJchiUis, Dextram hoc loco /idem designare observat Barthius, p. 2807, qui prseterea muitis locis Veterura adductis prohat, dextram invicem datam esse in amicitis signum, faToris et clementisB ; item pnebitione dextrse promissiones mutuas factas , pacem com])ositam et foedera icta. Qu4e omnia , satis nota , hic repetere longum est. Unum et alterum aflero. Valer. Flacc. IJ » 689, de Cyzico : «\< Ut videt , ipse ultro primus procurrit ad undas, Miratnrque viros, dextraque amplexus et hierens Inripit». Idem libro III, i4 » «manibusque datis junxere nepotes » , h. e. perpetuum fcedus in omnem |>osteritatem fecerunt (sed ibi Gronovius vult penates). Prosperlibro delngrat. «\< An dextram, pacis palniam , dare te pudet hosti > . Hoc nostri Homciis^xloco per dextram, ut mea quidem fert opinio, non modu fides ct amicitia Achillis , sed et fortitudo et vis bellica notatur.
 - **692 (LL 690)** Auxilium Danais G. 3 : haud dubie ex glossa. Theteius heros ed. Tor. alii adhuc corruptins. Theti^ deius , nempe Thetidis filius , legendum ewe vidit Dnssenios, pag. 36 , idque aliis locis Nostri recte ponitur, at vs. 897, 943 et 962. Et hiic loco G. I Thitideiut.
 - **694 (LL 692)** Uila ferus cepit H. ffee enim illum redditus e G. 3 reddidi , quum vulgata: habeant non iUum reddiau.
 - **695 (LL 693)** Briseis de corpore movit L.
@@ -1793,12 +1792,12 @@ PDF page 585.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 697 | 699 | Restabatque super tacitae pars tertia noctis; |  |
-| 698 | 700 | Quum Danaum jussu castris ^tolius heros | 70« |
+| 698 | 700 | Quum Danaum jussu castris Aetolius heros | 700 |
 | 699 | 701 | Egreditur, sociumque sibi delegit Ulyssem, |  |
 | 700 | 702 | Qui secum tacito sublustri noctis in umbra |  |
 | 701 | 703 | Scrutetur studio, quae sit fiducia Troum, |  |
 | 702 | 704 | Quidve agitent, quantasve parent in praelia vires. |  |
-| 703 | 705 | Dumque iter horrendum loca per secreta vagantes | 70S |
+| 703 | 705 | Dumque iter horrendum loca per secreta vagantes | 705 |
 | 704 | 706 | Carpebant, venit ecce Dolon, quem Troica pubes |  |
 | 705 | 707 | Miserat, ut Danaum solerti pectore vires |  |
 | 706 | 708 | Perspicerel, sensusque ducum plebisque referret. |  |
@@ -1821,17 +1820,17 @@ PDF page 586.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 708 | 710 | Abdiderunt occultantcs sua corpora furtim |  |
+| 708 | 710 | Abdiderunt occultantcs sua corpora furtim | 710 |
 | 709 | 711 | Post densos frutices, durn spe percussus inani |  |
-| 710 | 712 | Tros Eumedides cursu pra^cederet illos, |  |
+| 710 | 712 | Tros Eumedides cursu praecederet illos, |  |
 | 711 | 713 | Ne facile, oppressus, gressum in sua castra referret |  |
 | 712 | 714 | Post ubi transierat fidens animoque mauuque, |  |
-| 713 | 715 | Prosiluere viri, juveuemque evadere cursu | 7'5 |
+| 713 | 715 | Prosiluere viri, juveuemque evadere cursu | 715 |
 | 714 | 716 | Conantem capiunt, ferroque manuque minantur |  |
-| 715 | 717 | lUe timore pavens, ccYitam concedite, dixit, |  |
+| 715 | 717 | Ille timore pavens, ccYitam concedite, dixit, |  |
 | 716 | 718 | Hoc unum satis est : quod si perstatis in ira, |  |
 | 717 | 719 | Quanta ex morte mea capietis praemia laudis? |  |
-| 718 | 720 | At si, cur veniam tacitis, exquiritis, umbris, | 7>o |
+| 718 | 720 | At si, cur veniam tacitis, exquiritis, umbris, | 720 |
 | 719 | 721 | Maxima Troja mihi currum promisit Achillis, |  |
 | 720 | 722 | Si vestras cepisset opes : haec dona sequutus |  |
 | 721 | 723 | In dubios casus, coram quos cernitis ipsi, |  |
@@ -1841,7 +1840,7 @@ PDF page 586.
 - **710 (LL 708)** Abdiderant vulgatse, sed jihdiderunt iegendum est.
 - **711 (LL 709)** Post densos frutices scripsi Becundum HelroBt. et G. a ; In den* sos excuti habent ; Per densos G. i : dum spe, qnod G. i et H. habent, rectius putayi, quam yulgatum ut spe. Porro spe perculsus G. i legit, spe/rustratus H. ufrumque alienum puto. Aptissimum est , quod in vuigatifi et in G. a exstat, spepereussus inani. Pariter Cicero , Tusc. V, 11: u quodcumque nostr^ animos probabilitate percussit, id dicimus». — Sed mihi vix aliquem spe pereuti dici posse videtur. Ed.
 - **712 (LL 710)** Vulgat» legunt Trojanus ju^ venis cursu\ sed omnes scripti mei Troius Eumedides , quod Dolonem Eumedis filium significat, ct ex Hom.ll. X, 3i4,et eVirg.iEn.XII, 346 , sumptum est. Unde quidem Eumedides scribendum est , et quia Troius Eamedides adversatur metro , hinc corrigeudum iu cudici^us est TYos Eumedides , qnod posui. Tro^ janus juvenis e glotsa est.
-- **?** 7i4\< Videns animo, Virgilianum JEn. II, 61.
+- **714 (LL 712)** Videns animo, Virgilianum JEn. II, 61.
 - **718 (LL 716)** Perstads in ira. Ovidiufl» Pont. 1 , 4 , 44 : * Perstiterit Ittsi si gravis ira Dei ».
 - **719 (LL 717)** Munera iaudis G. a.
 - **720 (LL 718)** Aut si H. G. a , et L.
@@ -1855,24 +1854,23 @@ PDF page 587.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 722 | 724 | Infelix cecidi : nunc vos per numina Divum, |  |
-| 723 | 725 | Per mare, per Ditis fluctus obtestor opaci, | 7^5 |
+| 723 | 725 | Per mare, per Ditis fluctus obtestor opaci, | 725 |
 | 724 | 726 | Ne rapere hanc animam crudeli caede velitis. |  |
 | 725 | 727 | Haec pro concessa referetis dona salute, |  |
 | 726 | 728 | G)nsilium Priami regis, remque ordine gentis |  |
 | 727 | 729 | Expediam Phrygiae ». Postquam quid Troja pararet |  |
-| 728 | 730 | G)gnovere viri, fauces mucrone reclusas | 73« |
+| 728 | 730 | G)gnovere viri, fauces mucrone reclusas | 730 |
 | 729 | 731 | Detrudunt juvenis. Post haec tentoria Rhesi |  |
-| 730 | 732 | Intrai^t , atque ipsum somno vinoque sepultum |  |
+| 730 | 732 | Intravit , atque ipsum somno vinoque sepultum |  |
 
 ### Notes
 
-- **?** 7^5. Per Ditit fliictus ^ per Styga , vel per flumiDa infera , ut jurat , apud Oyidium, Met.1, 187, Jupiter. • Lacus Ditis opacos » dicitVirg. Cul. 371. Obtestandi hsec formula est, qualis jurandi apud Ovid. Trist. II, 53 : « Per mare , per terras, per tertia numina juro ».
+- **725 (LL 723)** Per Ditit fliictus ^ per Styga , vel per flumiDa infera , ut jurat , apud Oyidium, Met.1, 187, Jupiter. • Lacus Ditis opacos » dicitVirg. Cul. 371. Obtestandi hsec formula est, qualis jurandi apud Ovid. Trist. II, 53 : « Per mare , per terras, per tertia numina juro ».
 - **726 (LL 724)** Ne rapere hanc, Oyidius «eripere animam » , Met. VI , 54o.
 - **727 (LL 725)** Dona sa/uce, Post hunc versiim in G. 1 hic intruditur ineptissime : Et lassata mpis nondum satiata remisit: qui fortasse post versum 718 poni, atque eum declarare debuit; sed, ut suspicor, ab inepto scholastico ex hoc Juvenalis VI, lag , formatus est : « Et lassata viris necdnm 8.itiata recessit ».
 - **732 (LL 730)** Concilium Priami plerique legunt; ConsiUum Lipsiensis, quod pneferendum videtur. Friami pan^ dam, H.
-- **?** 729* Quid Troja pararet. Barthius Adv.LVIII,i4,p.a75a,putatTrojam pro Trojanis proceribus non sati» puichre dictam esse. Atqui verba h»c suut ab Ovidio mutuata , Met. XIII , a44 f ubi Ulysses camdem rem enarrat : « Ausum eadeni , quse nos, Phrygia de gente Dolona Interimo ; non ante tamen , quam cuncta coegi Prodere , et edidici ,
-- **?** IIl, quid perfida Troja pararet. Omnia cognoram »,
-- **?** 730. Fauees mucrone recbuo, Sic Basil. Torini, sed A. et L. mucrone rejulso pro revulso. Dubitat Ant. de Roojr^ 1. c. p. 98 , utrum to reclitso retineat, an vero mutet in recJusas , quod utriusque phraseos exempla proferri possunt. £go vero reclusas ponere non dubitem, aut potius revulsas e corrupto rejulso, quoniam reclusas Guelf. 1 diserte praefert, et sententia auctoris postulare videtur. Nam existifflo phrasin fauces mncrone rechisas vel revulsas Detrudunt significare caput Dolonis , rescissis faucibus,dejectum corpore es8e,quo modo eum obtruncatnm esse memorat Homerus, Illad. X, 455 seq. — Slcjtiffulos aperire dixit Juvenalis, Sat. IV. Et Horat. Epod. XVII , 71 : «Modo ense pectus Norico recludere ». Ed. — Itaque retineri po- \e&\.veThvimdetrudunt, i.e. dejiciunt, pro quo, alias minus obvio,cl. de Rooy detruncant, et Dusseniufi, p. 87, pertrudunt reponere volunt.
+- **729 (LL 727)** Quid Troja pararet. Barthius Adv.LVIII,i4,p.a75a,putatTrojam pro Trojanis proceribus non sati» puichre dictam esse. Atqui verba h»c suut ab Ovidio mutuata , Met. XIII , a44 f ubi Ulysses camdem rem enarrat : « Ausum eadeni , quse nos, Phrygia de gente Dolona Interimo ; non ante tamen , quam cuncta coegi Prodere , et edidici , quid perfida Troja pararet. Omnia cognoram »,
+- **730 (LL 728)** Fauees mucrone recbuo, Sic Basil. Torini, sed A. et L. mucrone rejulso pro revulso. Dubitat Ant. de Roojr^ 1. c. p. 98 , utrum to reclitso retineat, an vero mutet in recJusas , quod utriusque phraseos exempla proferri possunt. £go vero reclusas ponere non dubitem, aut potius revulsas e corrupto rejulso, quoniam reclusas Guelf. 1 diserte praefert, et sententia auctoris postulare videtur. Nam existifflo phrasin fauces mncrone rechisas vel revulsas Detrudunt significare caput Dolonis , rescissis faucibus,dejectum corpore es8e,quo modo eum obtruncatnm esse memorat Homerus, Illad. X, 455 seq. — Slcjtiffulos aperire dixit Juvenalis, Sat. IV. Et Horat. Epod. XVII , 71 : «Modo ense pectus Norico recludere ». Ed. — Itaque retineri po- \e&\.veThvimdetrudunt, i.e. dejiciunt, pro quo, alias minus obvio,cl. de Rooy detruncant, et Dusseniufi, p. 87, pertrudunt reponere volunt.
 - **732 (LL 730)** Pro Detrudunt^ quod in A . L. et T. est , Helmst. Recludunt, Unde forte legeudum er^t /at4ces mucrone retruso (abdito, cou^iio) Reeludunt — Et verbum Detmdunt repetitum videtur e Virg. -\<En. IX, 496 : « tuo-
 
 ## p. 578
@@ -1882,8 +1880,8 @@ PDF page 588.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 731 | 733 | Obtruncant, spoliantque viros, fusosque per herbam |  |
-| 732 | 734 | £xaniinant socios : tam tristi caede peracta |  |
-| 733 | 735 | Praeda humeros onerant, multo candore nitentes | 7^^ |
+| 732 | 734 | Exaniinant socios : tam tristi caede peracta |  |
+| 733 | 735 | Praeda humeros onerant, multo candore nitentes | 735 |
 | — | 736 | [Rhesi ventigenas secum adduxere jugales] |  |
 | 734 | 737 | Thracis equos rapiunt, quos nec prsecederet Eurus, |  |
 | 735 | 738 | Nec posset volucri cursu superare sagitta. |  |
@@ -1897,7 +1895,7 @@ PDF page 588.
 - **734 (LL 732)** Exanimant, pro c«dant ferro et interficiont , activa forraa , rarius poto apod meliores scriptores ioveniri. — Tunc tristi volgat» : ego maloi tum, qood est in G. 3.
 - **735 (LL 733)** Candore nitentes, Similiter Virg. JEn. XII, 84 : «Qoi candore nives anteirent , corsibos aoras ».
 - **736 (LL —)** Rhesiventigenas. Hic versus manifeste insititius y qoia et seriem verborom et constroctionem torbat, et superfloa dicit. In sola edit. Tor. et Spond. legitur; in scriptis meis omnibos, qoiu et in antiqoa ed. Lips. omissos est : nec in codice Lcid. exstare testator ci. Dorpios
-- **?** 787. Thraces equos babent vulgatse. Thracis voloit Valkenarius iu Diatr. in Eurip. perd. dram. reliq. p. 701 ycitante Dorpio l. c. qui ipse tamen Thracas equos mavult , ex boc Ovidii Met. IX, 194 : « Quid? quum Tbracas equos bumano .«auguine piugoes, Plenaque corporibus laceris prsBsepia vidi ». Dussenius, p. 37, dubius est, Thracis an Thracas emendari debeat. Ego Thracis praetuli , quia sic scriptum in codiceG.i sane optimo video. Alias formam illam Thraces in aliornm poetarom codicibos sspios occorrere, testis est Heinsios ad loc. cit. Ovidii. Statios, iTieb. VI, 486: « sed Tbraces eqoi ot videre jacentem Hippodamom; redit illa fames ». — Quos nec prcecedere ventus tenet ed. Tor. et Sp. Dorpins cque ac Dussenius corrigunt quos nec preecederet Eurus , quia poetSB solejit cursum velocem cum Euro inprimis comparare. Vid.Virg. iEn.VIII , aa3,et Horat. Carm. II, if>, 24 ; et docti viri apud Virg. I, 3 17, pro Hebro ponere Eurum rolunt. Hoc loco ne conjectura quidem opus rst , quum omnes scripti mei, et cum bis vetus ed. Lips. nec pracederet Eunts teneant , idemque in codice Leid. esse Dorpius testetur.
+- **737 (LL 734)** Thraces equos babent vulgatse. Thracis voloit Valkenarius iu Diatr. in Eurip. perd. dram. reliq. p. 701 ycitante Dorpio l. c. qui ipse tamen Thracas equos mavult , ex boc Ovidii Met. IX, 194 : « Quid? quum Tbracas equos bumano .«auguine piugoes, Plenaque corporibus laceris prsBsepia vidi ». Dussenius, p. 37, dubius est, Thracis an Thracas emendari debeat. Ego Thracis praetuli , quia sic scriptum in codiceG.i sane optimo video. Alias formam illam Thraces in aliornm poetarom codicibos sspios occorrere, testis est Heinsios ad loc. cit. Ovidii. Statios, iTieb. VI, 486: « sed Tbraces eqoi ot videre jacentem Hippodamom; redit illa fames ». — Quos nec prcecedere ventus tenet ed. Tor. et Sp. Dorpins cque ac Dussenius corrigunt quos nec preecederet Eurus , quia poetSB solejit cursum velocem cum Euro inprimis comparare. Vid.Virg. iEn.VIII , aa3,et Horat. Carm. II, if>, 24 ; et docti viri apud Virg. I, 3 17, pro Hebro ponere Eurum rolunt. Hoc loco ne conjectura quidem opus rst , quum omnes scripti mei, et cum bis vetus ed. Lips. nec pracederet Eunts teneant , idemque in codice Leid. esse Dorpius testetur.
 - **738 (LL 735)** Non posset 'volucris G. 3. Si> militerVirgilius, iEn.V, a^a: «illa Noto citius volucrique sagitta Ad terram fugit «.
 - **739 (LL 736)** Tuin quidam Argolicas G. a.
 - **740 (LL 737)** Nestoris accipit \<rtas, hoc est , Nestor senex primos eos sentit advenire , et Isetus accipit , qood ex Homero , X , 53a , intelligi potest. Alio loco , v. 1 3 1 , utitur Noster abstracto prudentia Nestoris, ubi de consilio dando sermo est ; bic vocabulo cetas Nestoris , senectutem tantnm respiciens , quia senes inprimis juvenum virlutes et bene
@@ -1912,15 +1910,15 @@ PDF page 589.
 | 739 | 742 | Facta duci referunt; laudat Pelopeius heros, |  |
 | 740 | 743 | Fessaque jucundae tradunt sua membra quieti. |  |
 | 741 | 744 | XI. Lux exorta viros in pristina bella remisit, |  |
-| 742 | 745 | Instaurantque animos recreato milite pugnae | 74^ |
+| 742 | 745 | Instaurantque animos recreato milite pugnae | 745 |
 | 743 | 746 | Dardanidum Danaumque duces : volat undique nubes |  |
 | 744 | 747 | Telorum , et ferro ferrum sonat : undique mixtis |  |
 | 745 | 748 | Inter se strident mucronibus, instat utriroque |  |
 | 746 | 749 | Densa acies, mixtusque fluit cum sanguine sudor. |  |
-| 747 | 750 | Tandem ferventi Danaum rex concitus ira | 7^« |
+| 747 | 750 | Tandem ferventi Danaum rex concitus ira | 750 |
 | 748 | 751 | Antiphonem iagenti prostratum vulnere fundit, |  |
 | 749 | 752 | Pisandrumque simul , fratremque ad bella ruentem |  |
-| 750 | 753 | Hippolochum , post hos gladk> petit Iphidamanta : |  |
+| 750 | 753 | Hippolochum , post hos gladio petit Iphidamanta : |  |
 | 751 | 754 | Hinc frater regis dextram ferit , ille dolore |  |
 
 ### Notes
@@ -1941,17 +1939,17 @@ PDF page 590.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 752 | 755 | Acrior acoepto fugientem Antenore natum |  |
+| 752 | 755 | Acrior acoepto fugientem Antenore natum | 755 |
 | 753 | 756 | Persequitur, traxitque ferox cum vulnere pccnas. |  |
 | 754 | 757 | Hector tunc pugnae subit acri concitus ira |  |
 | 755 | 758 | Priamides, mox perculsos agit undique Graios, |  |
 | 756 | 759 | Nec Paris hostiles cessat prosternere turmas, |  |
-| 757 | 760 | Eurypylique femur contento vulnerat arcu. |  |
+| 757 | 760 | Eurypylique femur contento vulnerat arcu. | 760 |
 | 758 | 761 | XII. Incumbunt Troes, fugiunt in castra Pelasgi |  |
 | 759 | 762 | Yiribus exhaustis, et vastis undique firmant |  |
 | 760 | 763 | Obicibus muros ; tum saxo Martius Hector |  |
 | 761 | 764 | Perfringit portas, ferrataque robora laxat. |  |
-| 762 | 765 | Irrumpunt aditus Phryges, atque in limine primo |  |
+| 762 | 765 | Irrumpunt aditus Phryges, atque in limine primo | 765 |
 
 ### Notes
 
@@ -1975,15 +1973,15 @@ PDF page 591.
 |---|---|---|---|
 | 763 | 766 | Restantes sternunt Graios, valloque catervas |  |
 | 764 | 767 | Deturbant, alii scalas in moenia ponunt, |  |
-| 765 | 768 | £t jaciunt ignes : prsebet victoria vires. |  |
+| 765 | 768 | Et jaciunt ignes : prsebet victoria vires. |  |
 | 766 | 769 | De muris pugnant Danai, turresque per altas |  |
-| 767 | 770 | Saxa volant; subeunt acta testudine Troes, | 77» |
+| 767 | 770 | Saxa volant; subeunt acta testudine Troes, | 770 |
 | 768 | 771 | Ascenduntque aditus , et totis viribus instant. |  |
 | 769 | 772 | Turbati fugiunt linquentes castra Pelasgi, |  |
-| 770 | 773 | £t scandunt puppes; urget Trojana juventus , |  |
+| 770 | 773 | Et scandunt puppes; urget Trojana juventus , |  |
 | 771 | 774 | Telaque crebra jacit: resonat clamoribus aether. |  |
-| 772 | 775 | XIII. Neptunus vires Danais animumque ministrat : |  |
-| 773 | 776 | Pugna ingens oritur; furit istinc hostis et illinc, n^ |  |
+| 772 | 775 | XIII. Neptunus vires Danais animumque ministrat : | 775 |
+| 773 | 776 | Pugna ingens oritur; furit istinc hostis et illinc, |  |
 | 774 | 777 | Idoraenei dextra cadit Asius; Hector atrocem |  |
 
 ### Notes
@@ -2007,12 +2005,12 @@ PDF page 592.
 |---|---|---|---|
 | 775 | 778 | Amphimachum obtrmrcat; nec non occumbit in armis |  |
 | 776 | 779 | Anchisae gener Alcathous, quem fnderat ense |  |
-| 777 | 780 | Magnanimus dactor Cretum; tunc fervidas hasta | ?\<« |
+| 777 | 780 | Magnanimus dactor Cretum; tunc fervidas hasta | 780 |
 | 778 | 781 | Deiphobus ferit Ascalaphum , mergitque sub umbras. |  |
 | 779 | 782 | XIV. Hector ubique ferox violento pectore saevit, |  |
 | 780 | 783 | Quem saxo ingenti percussum maximus Ajax |  |
 | 781 | 784 | Depulit, et toto prostratum corpore fudit. |  |
-| 782 | 785 | Concurrit Trojana manus , juvenemque vomentem | 7^5 |
+| 782 | 785 | Concurrit Trojana manus , juvenemque vomentem | 785 |
 | 783 | 786 | Sanguineos flactus Xanthi lavere fluento. |  |
 | 784 | 787 | Inde iterum ad pugnam redeunt, fit maxima caedes |  |
 | 785 | 788 | Amborum , et manat teUus infecta cruore. |  |
@@ -2037,14 +2035,14 @@ PDF page 593.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 787 | 790 | Archelochumque Antenoriden Teiamonius Ajax, | 79« |
+| 787 | 790 | Archelochumque Antenoriden Teiamonius Ajax, | 790 |
 | 788 | 791 | Bceotumque Acamas Promachum, quem sternit atrocem |  |
 | 789 | 792 | Penelei dextra , inde cadit Priameia pubes. |  |
-| 790 | 793 | XY. Acrins insurgunt Troes ad Achaica bella, |  |
+| 790 | 793 | XV. Acrins insurgunt Troes ad Achaica bella, |  |
 | 791 | 794 | Instaurantque manus ; cedit Pelopeia virtus |  |
-| 792 | 795 | Pulsa metu, vallumque et muros aggere septos | 79S |
+| 792 | 795 | Pulsa metu, vallumque et muros aggere septos | 795 |
 | 793 | 796 | Transiliunt; alii fossas volvuntur in ipsas. |  |
-| 794 | 797 | Advolat interea Danaum metus, impiger Heotor : |  |
+| 794 | 797 | Advolat interea Danaum metus, impiger Hector : |  |
 | 795 | 798 | Confugiunt iterum ad classes Agamemnonis alae, |  |
 | 796 | 799 | Atque inde adversis propellunt viribus hosiem. |  |
 
@@ -2065,22 +2063,22 @@ PDF page 594.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 797 | 800 | Fit pugna ante rates : SJBvit Mavortius Hector, | \<\< |
-| 798 | 801 | £t poscit flaminas, totamque incendere classem |  |
+| 797 | 800 | Fit pugna ante rates : SJBvit Mavortius Hector, | 800 |
+| 798 | 801 | Et poscit flammas, totamque incendere classem |  |
 | 799 | 802 | Adparat : huic validis obsistit viribus Ajax |  |
 | 800 | 803 | Stans prima in puppi , clypeoque incendia sseva |  |
 | 801 | 804 | Sustinet, et solus defendit mille carinas. |  |
-| 802 | 805 | Hinc jaciunt Danai robustae cuspidis hastas, | s\< |
+| 802 | 805 | Hinc jaciunt Danai robustae cuspidis hastas, | 805 |
 | 803 | 806 | Illinc ardentes taedas Phryges undique jactant, |  |
 | 804 | 807 | Per vastos sudor pugnantum defluit artus. |  |
 | 805 | 808 | XVI. Non valet ulterius cladem spectare suorum |  |
 | 806 | 809 | Patroclus, subitoque armis munitus Achillis |  |
-| 807 | 810 | Advolat, et falsa conterret imagine Troas. | t. |
+| 807 | 810 | Advolat, et falsa conterret imagine Troas. | 810 |
 | 808 | 811 | Qui modo turbabant Danaos, animoque fremebant, |  |
 | 809 | 812 | Nunc trepidi fugiunt : fugientibus imminet ille, |  |
 | 810 | 813 | Perturbatque ferox aciem , vastumque per agmen |  |
 | 811 | 814 | Fertur, et ingenti Sarpedona vulnere fundit; |  |
-| 812 | 815 | £t nunc hos cursu y nunc illos praeterit ardens, | si |
+| 812 | 815 | Et nunc hos cursu y nunc illos praeterit ardens, | 815 |
 
 ### Notes
 
@@ -2090,7 +2088,7 @@ PDF page 594.
 - **809 (LL 806)** Armis protectusG. %.
 - **810 (LL 807)** Advoiat vulgatse cum G. 1. Provolat H. utnimque profert G. a : et falsa conterret H. et G. i , pro vulgato convertit. Una terrentur et conterret G. a.
 - **812 (LL 809)** Trepidi et timidi G. a. Fu' gientihus eminet L
-- **?** 8 $3. Perturheu velox acies hic legunt Yulgat«D. Cel. Bondam. p. 161, antefert Proturlyat, id est, procul turbat et dejicit acies sive bostes a navibus. Mihi tamen boc loco stare posse videtur Perturbat, quod etiam scripti firroant. PerturhtUque ferox aciem H. G. a et A. quc vera est lectio et constrnctioni apta, e qua vuigata corrupta est. In G. i bic tres versus desunt.
+- **813 (LL 810)** Perturheu velox acies hic legunt Yulgat«D. Cel. Bondam. p. 161, antefert Proturlyat, id est, procul turbat et dejicit acies sive bostes a navibus. Mihi tamen boc loco stare posse videtur Perturbat, quod etiam scripti firroant. PerturhtUque ferox aciem H. G. a et A. quc vera est lectio et constrnctioni apta, e qua vuigata corrupta est. In G. i bic tres versus desunt.
 - **814 (LL 811)** Pergit et ingenti, H.
 - **815 (LL 812)** VuJgatsB sic : Et nunc kos gladio , nunc illos proterit arcu. Ubi verbi Prouri$ plaae insolens usus esse videtur de occisis per sagtttas , traductusque buc e versu 677, ubi tamen proterit referendum est ad saxum,quod jaciebat Hector. Melipr igitur boo loco scriptio est codicis H. et G. a : « Et nunc bos cursu , nunc illos prsterit ardens*^ Quo veiYu respexisse Maronem videtnr £n.IV, x57 : « jamque bos cursu, jam praDterit illos ».
 
@@ -2104,17 +2102,17 @@ PDF page 595.
 | 814 | 817 | Quem postquam socias miscentem csede catervas, |  |
 | 815 | 818 | Turbantemque acies conspexit fervidus Hector, |  |
 | 816 | 819 | Tollit atrox animos, vastisque immanis in armis |  |
-| 817 | 820 | Occurrit coutra, magnoque hunc increpat ore : | *>\<> |
+| 817 | 820 | Occurrit contra, magnoque hunc increpat ore : | 820 |
 | 818 | 821 | «Huc, age, nunc converte gradum, fortissime Achilies, |  |
 | 819 | 822 | Jam nosces, ultrix quid Troica dextera possit, |  |
 | 820 | 823 | Et quantum bello valeat fbrtissimus Hector. |  |
 | 821 | 824 | Nam licet ipse suis Mavors te protegat armis, |  |
-| 822 | 825 | Invito tamen haec perimet te dextera Marte ». |  |
-| 823 | 826 | Ule silet , spernitque minas animosaque dicta , |  |
+| 822 | 825 | Invito tamen haec perimet te dextera Marte ». | 825 |
+| 823 | 826 | Ille silet , spernitque minas animosaque dicta , |  |
 | 824 | 827 | Ut , quem mentitur, verus credatur Achilles. |  |
 | 825 | 828 | Tunc prior intorquet coliectis viribus hastam |  |
 | 826 | 829 | Dardanides, quam prolapsam celeri excipit ictu |  |
-| 827 | 830 | Patroclus, redditque vices et mutua dona. |  |
+| 827 | 830 | Patroclus, redditque vices et mutua dona. | 830 |
 
 ### Notes
 
@@ -2122,15 +2120,15 @@ PDF page 595.
 - **818 (LL 815)** Conspexitfervidui dedi ex H. Vulgat» respexit,
 - **819 (LL 816)** Fastisque horrendus H. iminanis vel animosus G. a , qui et hunc versnm cum sequente transpomt.
 - **820 (LL 817)** Vas^que hunc increpat habet H. sed retinui magnoque, quod in A. et vnlgatis est, quia superiore versu jam adfuit vastis.
-- **831 (LL —)** Huc age huc G. i : converte graeium H. et G. i : ulii gradus,
-- **?** 821. Quid Troiea dextera G. i et L. cui accedit H. qui Troa dextera, Hlud itaque praetuli vulgato Trojee dextera.
-- **?** 8a3. Bt quantum bello valeat H. in billo ifaleat G. i. Hoc malui , quam quod io exciisiB est, quantum in bellopossit.
-- **?** 814* ^f^ i'cct ipse. Pulcherrimos hos versus pnedicat Barthius, Adv. LIX , i5, p. 1808. At vero eos auctor non suo, sed Ovidii ingenio debet, quem psene ad verbum exscripait, Metam. VIII, 894 : « Ipsa suis licet hnnc Latonia protegat armis, Hunc tamen invita perimet mea dextra Diana >.
-- **?** 8a5. Inyito perimet tamen hsec mutato verborum ordine G. i.
-- **?** 837. 27/ qtd mentitur A. et L.
-- **?** 818. TuncpriusG. i.
-- **832 (LL 828)** Dafdanides dedi e G. i et -^. Priamides habet A. cum excusis.
-- **?** 83o. Et mutua dona. Ad hac verba Barthius, Advers. LVIII, 14, p. a^Sa , notat idiotismum auctoris esse» quod ictum vocet donum, At yero sic Virgilius etiam ioquutus est , ^n. X, V. 881 : « Desine, jam venio moriturus , et hec tibi porto Dona prius». — Sic CatuUus in epigr. ad Calvum : « Ac te his soppliciia remunerabor >; et Val. Flaccus, V, 55o : « Qui geroitus, irasque pares, et mutua Graiis dona femnt ». Jam hoc monuit Jo. Schraderus , Observ. I , cap. 3 , pag. 34.
+- **821 (LL 818)** Huc age huc G. i : converte graeium H. et G. i : ulii gradus,
+- **822 (LL 819)** Quid Troiea dextera G. i et L. cui accedit H. qui Troa dextera, Hlud itaque praetuli vulgato Trojee dextera.
+- **823 (LL 820)** Bt quantum bello valeat H. in billo ifaleat G. i. Hoc malui , quam quod io exciisiB est, quantum in bellopossit.
+- **824 (LL 821)** ^f^ i'cct ipse. Pulcherrimos hos versus pnedicat Barthius, Adv. LIX , i5, p. 1808. At vero eos auctor non suo, sed Ovidii ingenio debet, quem psene ad verbum exscripait, Metam. VIII, 894 : « Ipsa suis licet hnnc Latonia protegat armis, Hunc tamen invita perimet mea dextra Diana >.
+- **825 (LL 822)** Inyito perimet tamen hsec mutato verborum ordine G. i.
+- **827 (LL 824)** 27/ qtd mentitur A. et L.
+- **828 (LL 825)** TuncpriusG. i.
+- **829 (LL 826)** Dafdanides dedi e G. i et -^. Priamides habet A. cum excusis.
+- **830 (LL 827)** Et mutua dona. Ad hac verba Barthius, Advers. LVIII, 14, p. a^Sa , notat idiotismum auctoris esse» quod ictum vocet donum, At yero sic Virgilius etiam ioquutus est , ^n. X, V. 881 : « Desine, jam venio moriturus , et hec tibi porto Dona prius». — Sic CatuUus in epigr. ad Calvum : « Ac te his soppliciia remunerabor >; et Val. Flaccus, V, 55o : « Qui geroitus, irasque pares, et mutua Graiis dona femnt ». Jam hoc monuit Jo. Schraderus , Observ. I , cap. 3 , pag. 34.
 
 ## p. 586
 
@@ -2142,17 +2140,17 @@ PDF page 596.
 | 828 | 832 | Quod clypeo excussum viridi tellure resediL |  |
 | 829 | 833 | Tunc rigidos stringunt enses, et cominus arma |  |
 | 830 | 834 | Inter se miscent, donec Trojanus Apollo |  |
-| 831 | 835 | Mentitos vultus simulati pandit Acbillts, | t3& |
+| 831 | 835 | Mentitos vultus simulati pandit Acbillts, | 835 |
 | 832 | 836 | Denudafque rirum : quem bello maximus Hector |  |
 | 833 | 837 | Pugnantem falsis postquam deprendit in armis, |  |
 | 834 | 838 | Irruit, et juvenem , nudato pectore , ferro |  |
-| 835 | 839 | Trajicit, et victo Yulcania detrahit arma. |  |
-| 836 | 840 | XYII . Yendicat exstincti corpus Telamonius Ajax, | »*\<> |
+| 835 | 839 | Trajicit, et victo Vulcania detrahit arma. |  |
+| 836 | 840 | XVII. Vindicat exstincti corpus Telamonius Ajax, | 840 |
 | 837 | 841 | Oppositoque tegit clypeo. Priameia pubes |  |
 | 838 | 842 | Laetitia exsultat; Danai sua funera moerent. |  |
 | 839 | 843 | Interea juvenis tristi cum pube suonim |  |
 | 840 | 844 | Nestorides in castra refert miserabile corpus. |  |
-| 841 | 845 | XVIIL Tunc ut Pelidae rumor deverberataures, | ««s |
+| 841 | 845 | XVIII. Tunc ut Pelidae rumor deverberataures, | 845 |
 
 ### Notes
 
@@ -2161,7 +2159,7 @@ PDF page 596.
 - **833 (LL 829)** Cominus armis Inter se pugnant H. annis G. i .
 - **835 (LL 831)** Simulantis pantlit A. et L.
 - **838 (LL 834)** Nud(Uo pectore, Barthius , Adv. p. 3808 , legendum putat pectora. Sed pectore probum esae arbitror, et nudato pectore esae liblativos absolutos. Nempe juvenem ferro frajiciti postquam ejus pectos nudatum erat ab Apolline, ut dixit versu 83f). Etenim Homerus narrat, arroa Patroclo detracta ab ApoUine : Uomerista , eom deserensy detracta dicit ab Uectore.
-- **?** 83^. Trajicit, etvietor edd. et wcto G. I. Transfigit, victor U. detulit urmaG.t, sed soperscriptttm detrahiL
+- **839 (LL 835)** Trajicit, etvietor edd. et wcto G. I. Transfigit, victor U. detulit urmaG.t, sed soperscriptttm detrahiL
 - **840 (LL 836)** Vendicai. exstinctnm L. et in eo hic versus subjicitur : Ingenus lacrymas gemitttsque in carporefudit»
 - **842 (LL 838)** Danai sua/unera H. et G. s, Editi babent Danai dumfunera.
 - **844 (LL 840)** Testorides legunt omnes volgati. Sed viri eruditi dudum conjecerunt Nestorides, id est , Antilocbus, idque Dorpins 1. c. pag. isg confirmari ait cod.yossiaBO : idem de tribus Msptis , quibus ntor, adfirmare possUm. — In castra gent perperam legi vid^or in editis. G. ly ut et Leidenais, habeDt in castra refert* Helmst. iii castra trahit, CsBterum et hic diverse ab Homero narrat auctor, Nam secundum eum Menelaus et Meriones corpns Patrocli retulerunt in caatra , Anti* lochus tantum nuntinm de morte ejus pertulit ad Achillem.
@@ -2175,9 +2173,9 @@ PDF page 597.
 |---|---|---|---|
 | 842 | 846 | Palluit infelix juvenis, caior ossa reliquit; |  |
 | 843 | 847 | Membra siimil lacrymans materno tersit amictu |  |
-| 844 | 848 | Deflens iEacides tristi de caede sodatis, |  |
+| 844 | 848 | Deflens Aeacides tristi de caede sodatis, |  |
 | 845 | 849 | Unguibns ora seeat, comptos in pulvere crines |  |
-| 846 | 850 | Deformat, scindit filrmas de pectore vestes, |  |
+| 846 | 850 | Deformat, scindit filrmas de pectore vestes, | 850 |
 
 ### Notes
 
@@ -2193,11 +2191,11 @@ PDF page 598.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 847 | 851 | £t super exstincti prostratus meinbra sodalis, |  |
+| 847 | 851 | Et super exstincti prostratus membra sodalis, |  |
 | 848 | 852 | Crudeles fundit questus, atque oscula figit. |  |
 | 849 | 853 | Mox ubi depulsi gemitus, lacrymaeque quierunt, |  |
 | — | 854 | [Tristis ait, jam jamque meo cruciabere ferro] |  |
-| 850 | 855 | «Non impune mei laetabere caede sodalis, | tss |
+| 850 | 855 | «Non impune mei laetabere caede sodalis, | 855 |
 | 851 | 856 | Hector , ait, magnasque meo, violente, dolori |  |
 | 852 | 857 | Persolves poenas, atque istis victor in armis, |  |
 | 853 | 858 | In quibus exsultas, fuso moriere cruore ». |  |
@@ -2218,17 +2216,17 @@ PDF page 599.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 855 | 860 | Fortiaque arma Thetin supplex rogat : illa relictis | ««o |
+| 855 | 860 | Fortiaque arma Thetin supplex rogat : illa relictis | 860 |
 | 856 | 861 | Fluctibus, auxiiiuin Vulcani protinus orat, |  |
-| 857 | 862 | Excitat ^tnaeos caiidis fornacibus ignes |  |
-| 858 | 863 | Mulcil>er, et validis fulvum domat ignibus anrum. |  |
+| 857 | 862 | Excitat Aetnaeos calidis fornacibus ignes |  |
+| 858 | 863 | Mulciber, et validis fulvum domat ignibus aurum. |  |
 | 859 | 864 | Mox effecta refert divinis artibus arma, |  |
 | 860 | 865 | Et donat Thetidi : quae postquam magnus Achilles | 865 |
 | 861 | 866 | Induit, in clypeum vultus convertit atroces. |  |
 | 862 | 867 | Iliic Ignipotens mundi caeiaverat axem, |  |
 | 863 | 868 | Sideraque, et [liquidas redimitas undique Nymphas. |  |
 | 874 | 869 | Fecerat et mira liquidas Nereidas arte, |  |
-| 864 | 870 | Oceanum ] terras , et euntem Nerea circum , | 87 |
+| 864 | 870 | Oceanum ] terras , et euntem Nerea circum , | 870 |
 
 ### Notes
 
@@ -2247,16 +2245,16 @@ PDF page 600.
 |---|---|---|---|
 | 865 | 871 | Annorumque vices, dimensaque tempora noclis, |  |
 | 866 | 872 | Quattuor et mundi partes, quanturo Arctos ab Austro, |  |
-| 867 | 873 | £t quantum Occasus roseo distaret ab Ortu: |  |
+| 867 | 873 | Et quantum Occasus roseo distaret ab Ortu: |  |
 | 868 | 874 | Lucifer unde suis, unde Hesperus, unus uterque, |  |
-| 869 | 875 | Exoreretur equis ; quantus Sol orbe mearet , | 87S |
+| 869 | 875 | Exoreretur equis ; quantus Sol orbe mearet , | 875 |
 
 ### Notes
 
 - **(cont.)** forte substitui ductum vel fusum, Oyid. Met. I , la : « Et circumfuiso pendehat in aere tellos «>. — Videtur tubinde cingere usurpari a poetit pro circuindncere ^ circum adponere Tiei adjunger«. Sic Silias, VIII , 617 : « Non totidem !!▼« viro8 , ted lectos cingere ferrum » ; quamquam ibi legere malunt ^ignere ferrum, vcl stringere. Sed plane ut Notter t^ cingere uaorpavitse videtnrMela, lib. III, cap. i : ■ Rettat ille circuitut , quem , ut initio diximut, cingtt Ooeanns», id ett , circumducit. Sed hic etiara Barthiut eroendare vult gignitJVid. adnot. nostra ad Avieni Detrript. Orbit, V. 78, qu» tomo tequenti interetur. Ed.
 - **871 (LL 865)** Annortimque vices tcriptimut cnm vulgatit {j4stronmqueQ. i), ct dimensaque cum G. i et a. Vulgat» diversaque. G. a utramqae lectionem exhibet.
 - **875 (LL 869)** Arcton abjiustro habent editi : correxi Arctos.
-- **?** 874. Unde suis et Hesperus G. a. — Unus et aleer A. et L. sed rectum est, quod caeteri habent unus uterque. Nam poete I.nciferum et Hesperum nominibut qnidem distingunnt, ted unam ttellam agnotount. — Vid.que ad Eleg. in obit. Msec. in Excurtu dixiniut, vt. iig-iSa, huj. op. t. II , p. a3a et tqq. En. — Clare hoc indicat Seneca in Hippol. 760 : «Qualis ett primat refercnt tenebras Nuntius nocttt , modo lotnt undis Hesperut , pultis iterum tenebris Lucifer idem ». Quod eum» dem esse 6igni(icant,propterea eum desultorio vel mutato eqno uti dicunt, quando alius procedit. Diserte Stalius , Theb. VI , 3^7 : «Roscida jam novics cselo dimiserat aatra Lucifer, et totidem LunsB pnevenerat ignes Mutato noctumns equo; nec conscia fallit Sidera , et altemo deprenditnr unns in oita ». Qu\<Hiiam igitur mutatis eqoia discernuntur Luoifer et Hespems , hinc Nostsr utrumque sius equis exonri dicit , quamvis alii , et in his Lips. et G. 1 aqms scribant , idque pneferre velit cl. Anton. de Rooy, p. 99. Castemm observavi in Lucilii iEtna legi versus , ad quos adJadere hic Noster videatur. Nara iUe v. 168 : • Uinc furtim Borea atque Noto, nnnc unus uterque»; et v. 189 , «Lucifer nnde micet , quave Hesperus , unde Bootes ». Alium simiiem Luciiii ad versum sequentem adducimus. Facile possis inde argumentum ducere iecti ab auctore nostro Lucilii.
+- **874 (LL 868)** Unde suis et Hesperus G. a. — Unus et aleer A. et L. sed rectum est, quod caeteri habent unus uterque. Nam poete I.nciferum et Hesperum nominibut qnidem distingunnt, ted unam ttellam agnotount. — Vid.que ad Eleg. in obit. Msec. in Excurtu dixiniut, vt. iig-iSa, huj. op. t. II , p. a3a et tqq. En. — Clare hoc indicat Seneca in Hippol. 760 : «Qualis ett primat refercnt tenebras Nuntius nocttt , modo lotnt undis Hesperut , pultis iterum tenebris Lucifer idem ». Quod eum» dem esse 6igni(icant,propterea eum desultorio vel mutato eqno uti dicunt, quando alius procedit. Diserte Stalius , Theb. VI , 3^7 : «Roscida jam novics cselo dimiserat aatra Lucifer, et totidem LunsB pnevenerat ignes Mutato noctumns equo; nec conscia fallit Sidera , et altemo deprenditnr unns in oita ». Qu\<Hiiam igitur mutatis eqoia discernuntur Luoifer et Hespems , hinc Nostsr utrumque sius equis exonri dicit , quamvis alii , et in his Lips. et G. 1 aqms scribant , idque pneferre velit cl. Anton. de Rooy, p. 99. Castemm observavi in Lucilii iEtna legi versus , ad quos adJadere hic Noster videatur. Nara iUe v. 168 : • Uinc furtim Borea atque Noto, nnnc unus uterque»; et v. 189 , «Lucifer nnde micet , quave Hesperus , unde Bootes ». Alium simiiem Luciiii ad versum sequentem adducimus. Facile possis inde argumentum ducere iecti ab auctore nostro Lucilii.
 - **875 (LL 869)** Exoriatur equis habent editi , sed judice Dorpio , p. 1^9, pnsstat legere Exoreretur, quod ille in cod. Leid. exstare dicit , et ego in Helrost. et G. I invenio ; proxiroa etiam verba distaret, mearet, lustraret poscunt. Porro et quantus in orbe mearet legunt H. et G. i ; et quantum in orhe A. et L. nec tamen quo referendum sit quantus, potest perspici , quum de pr«redente Hespero intelligi neqiieat , et seqmitar
 
 ## p. 591
@@ -2269,7 +2267,7 @@ PDF page 601.
 | 871 | 877 | Addideratque freto sua numina, Nerea magnum, |  |
 | 872 | 878 | Oceanumque senem , nec eumdem Protea semper, |  |
 | 873 | 879 | Tritonesque feros, et amantem Dorida fluctus. |  |
-| 875 | 880 | Terra gerit sihras, horrendaque monstra ferarum, | $fio |
+| 875 | 880 | Terra gerit sihras, horrendaque monstra ferarum, | 880 |
 | 876 | 881 | Fluniinaque et montes, cumque aitis oppida muris, |  |
 | 877 | 882 | In quibus exercent leges animosaque jura |  |
 | 878 | 883 | Certantes populi : sedet illic sequus utrique |  |
@@ -2292,23 +2290,23 @@ PDF page 602.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 879 | 884 | Judex, et litem discernit fromte severa. |  |
-| 880 | 885 | Parte alia castae resonant Psaana puellae ^ | MS |
+| 880 | 885 | Parte alia castae resonant Paeana puellae , | 885 |
 | 881 | 886 | Dantque choros molles: haec dextra tympana pulsat, |  |
 | 882 | 887 | Illa lyrae graciles extenso pollice chordas |  |
 | 883 | 888 | Percurrit , septemque modos modulatur avenis. |  |
 | 884 | 889 | Carmina componunt mundi resonantia motum : |  |
-| 885 | 890 | Rura colunt alii, sulcant gravia arva juvenci, | ^ |
+| 885 | 890 | Rura colunt alii, sulcant gravia arva juvenci, | 890 |
 | 886 | 891 | Maturasque metit robustus messor aristas, |  |
 | 887 | 892 | Et gaudet pressis immundus vinitor uvis. |  |
 | 888 | 893 | Tondent prata greges , pendent in rupe capellae. |  |
-| 889 | 894 | Hic intermedius stabat Mars aureus armis^ |  |
+| 889 | 894 | Hic intermedius stabat Mars aureus armis, |  |
 | 890 | 895 | Diva potens Atropos circa, reliquaeque sedebant | 895 |
 | 891 | 896 | Sanguineis moestae Clotho Lachesisque capiUis. |  |
 
 ### Notes
 
 - **884 (LL 879)** Et lites H. et G. I. Fro/ronte serena , qaod in omnibas meis est , cl. Dorpius, p. 139, mavult severa, quod in cod. Leidensi legitur, et de judicibus usitatissimam est.
-- **?** 885 Resouant castte G. i et 3.
+- **885 (LL 880)** Resouant castte G. i et 3.
 - **886 (LL 881)** Et tympana dextera pulsat, G. I : et dextra ^mpana G. 1 : sed prsferenda lectio vulgata heee dextra, propter sequentia.
 - **887 (LL 882)** Extento poUice G. i.
 - **888 (LL 883)** Septemque modis exhibent edd. sed modos tres mei Mspti, quod jam sine codicibus -vidit Bar* thius, p. 3809, et in cod. I^eidensi etiam se invenisse scribit Burmannus , Anthol. Lat. 1. 1, p. 5i.
@@ -2329,12 +2327,12 @@ PDF page 603.
 | 892 | 897 | XIX et XX. Talibus ornatus donis Thetideius heros |  |
 | 893 | 898 | In medias acies iminani turbine fertur. |  |
 | 894 | 899 | Cui vires praebet casta cum Pallade Juno, |  |
-| 895 | 900 | Dantque animos juveni : videt hunc Cytbereiusherosgoo |  |
+| 895 | 900 | Dantque animos juveni : videt hunc Cytbereiusherosgoo | 900 |
 | 896 | 901 | Occurritque viro, sed non cum viribus aequis, |  |
-| 897 | 902 | ^acids nec compar erat; tamen ira coegit |  |
+| 897 | 902 | Aeacidae nec compar erat; tamen ira coegit |  |
 | 898 | 903 | Conferre invictis juvenem cum viribus arma. |  |
 | 899 | 904 | Quem nisi servasset magnarum rector aquarum, |  |
-| 900 | 905 | Ut profugus Latiis Trojam repararet in arvis, | 90S |
+| 900 | 905 | Ut profugus Latiis Trojam repararet in arvis, | 905 |
 
 ### Notes
 
@@ -2355,9 +2353,9 @@ PDF page 604.
 |---|---|---|---|
 | 901 | 906 | Augustumque genus cseli submitteret astris , ' |  |
 | 902 | 907 | Non clarae gentis nobis mansisset origo. |  |
-| 903 | 908 | Inde agit ^acides infesta cuspide Teucros, |  |
+| 903 | 908 | Inde agit Aeacides infesta cuspide Teucros, |  |
 | 904 | 909 | Ingentemque manum prosternit caede virorum, |  |
-| 905 | 910 | Sanguinis Hectorei sitiens : at Dardana pubes | oi* |
+| 905 | 910 | Sanguinis Hectorei sitiens : at Dardana pubes | 910 |
 | 906 | 911 | XXI. Confugit ad Xanthi rapidos perterrita fluctus , |  |
 | 907 | 912 | Auxiliumque petit divini fluminis : ille |  |
 | 908 | 913 | Instat, et in mediis pugnatur gurgitis undis; |  |
@@ -2377,22 +2375,22 @@ PDF page 605.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 910 | 915 | Sparsaque per totos volvuntur corpora fiuctus. | 9>5 |
+| 910 | 915 | Sparsaque per totos volvuntur corpora fiuctus. | 915 |
 | 911 | 916 | At Venus et Phrygiae gentis tutator Apollo |  |
 | 912 | 917 | Cogunt in Danaos Xanthi consurgere fluctus , |  |
 | 913 | 918 | Ut fera terribili miscentem praelia dextra |  |
-| 914 | 919 | Obruat ^acidem, qui protinus undique totis |  |
-| 915 | 920 | Impediatur aquis : sed vasto gurgite praaceps | »io |
+| 914 | 919 | Obruat ,acidem, qui protinus undique totis |  |
+| 915 | 920 | Impediatur aquis : sed vasto gurgite praaceps | 920 |
 | 916 | 921 | Yolvitur, atque virum torrentibus impedit undis, |  |
 | 917 | 922 | Praetardatque gradus : ille omni corpore saevas |  |
 | 918 | 923 | Contra pugnat aquas , adversaque flumina rumpit , |  |
-| 919 | 924 | £t modo disjectos humeris, modo pectore vasto |  |
-| 920 | 925 | Propellit fluctus, quem longe provida Juno | 9^5 |
+| 919 | 924 | Et modo disjectos humeris, modo pectore vasto |  |
+| 920 | 925 | Propellit fluctus, quem longe provida Juno | 925 |
 | 921 | 926 | Adseruit, rapidae ne cederet ictibus undae: |  |
-| 922 | 927 | Sanctaque pugnarunt*inter se numina Divum. |  |
+| 922 | 927 | Sanctaque pugnarunt inter se numina Divum. |  |
 | 923 | 928 | Rursus agit Phrygias ingenti caede catervas |  |
-| 924 | 929 | Horridus ^cides, bellique ardore resumpto |  |
-| 925 | 930 | Funereas acies borrendaque praelia miscet. | 93« |
+| 924 | 929 | Horridus Aeacides, bellique ardore resumpto |  |
+| 925 | 930 | Funereas acies borrendaque praelia miscet. | 930 |
 | 926 | 931 | Non illum vis ulla tenet , non saeva fatigant |  |
 
 ### Notes
@@ -2416,22 +2414,22 @@ PDF page 606.
 | 927 | 932 | Pectora pugnando; vires successus adauget. |  |
 | 928 | 933 | Perculsi dubitant trepida. formidine Troes, |  |
 | 929 | 934 | Atque intra muros exhausta paene salute |  |
-| 930 | 935 | Confugiunt, portasque objecto robore firmant. | 93^ |
+| 930 | 935 | Confugiunt, portasque objecto robore firmant. | 935 |
 | 931 | 936 | XXII. Unus, tota salus in quo Trojana manebat, |  |
 | 932 | 937 | Hector adest, quem non durae timor undique mortis», |  |
 | 933 | 938 | Nec patriae tenuere preces, c[uin obvius iret, |  |
 | 934 | 939 | Et contra magnum contendere vellet Achillem. |  |
-| 936 | 940 | [Ante oculos subito visa est Tritonia Pallas] | 94« |
+| 936 | 940 | [Ante oculos subito visa est Tritonia Pallas] | 940 |
 | 935 | 941 | Quem procul ut vidit tectum caelestibus armis, |  |
 | 937 | 942 | Pertimuit, clausisque fugit sua moenia circum |  |
 
 ### Notes
 
 - **939 (LL 934)** Beilando vires succensus ad^ attget scribit G. 3 , sed meltus vulgati. Vires successus adauget idem est, ac quod supra 494 et 768 dinxlgeminat victoria vires.
-- **?** 933. Pereussi quidem exprimunt omnes lihri mei prseter edd. Tor. et Sp. at pereuhi tamen aptius hnic loco existimavi.
-- **?** 934* Scripsi intra muros cum G. i ' et 3 : reliqni tenent inter muros. — Exkausta pane saiute , h. e. quum p«ne periissent , et spes fere omnis salutis evanuisset. Virgilio dicitur tf absumpta salus » , £n. 1 , 555.
-- **?** 935. Vid, vers. 683. Ed.
-- **?** 937. Quem non duri timor undique Martis : sic editi cum G. i . Quem nec duri G. 3. Dussenius , pag. 40 , mavult duri faror undique Martis, quia siroiliterNoster supra de Achillis virtute : « Non illum vis ulla tenet ». Contra cl. Dorpius, p. i3o , corrigendum ceuset durte mortis , quia sic in cod. Leid. scriptum , et Lucan. I » 4^9 * ait : « Felices errore suo , quos ille timorum Maximus hand urget leti metus».Ego vero idem in cod. Helmst. inveni , atqiie ea lectio quodammodo confirmatur Vii^^ano versu, ^neid. II, 369: «ubique pavor, et plurima morfis imago ».
+- **933 (LL 928)** Pereussi quidem exprimunt omnes lihri mei prseter edd. Tor. et Sp. at pereuhi tamen aptius hnic loco existimavi.
+- **934 (LL 929)** Scripsi intra muros cum G. i ' et 3 : reliqni tenent inter muros. — Exkausta pane saiute , h. e. quum p«ne periissent , et spes fere omnis salutis evanuisset. Virgilio dicitur tf absumpta salus » , £n. 1 , 555.
+- **935 (LL 930)** Vid, vers. 683. Ed.
+- **937 (LL 932)** Quem non duri timor undique Martis : sic editi cum G. i . Quem nec duri G. 3. Dussenius , pag. 40 , mavult duri faror undique Martis, quia siroiliterNoster supra de Achillis virtute : « Non illum vis ulla tenet ». Contra cl. Dorpius, p. i3o , corrigendum ceuset durte mortis , quia sic in cod. Leid. scriptum , et Lucan. I » 4^9 * ait : « Felices errore suo , quos ille timorum Maximus hand urget leti metus».Ego vero idem in cod. Helmst. inveni , atqiie ea lectio quodammodo confirmatur Vii^^ano versu, ^neid. II, 369: «ubique pavor, et plurima morfis imago ».
 - **940 (LL 936)** j4nte oculos subito, Barthlus, Advers. p. 3809 , hunc versnm insititium a mala manu pntat , atque hnc rednctum de sua sede v. ^Ss. Et verum esst , quod adfirmat ille, facile Homero inspecto intelltgitur, qui non aliam Palladis apparttionem tradit , quam quae ab auctore versu 9^3 relata est. Suspectum Tersum etiam hoc indicat, quod in tribus Msptis, quibus ntor, alio loco , nempe post sequentem versum ponitur.
 - **941 (LL 935)** Quem proeul ut vidit teetum^ legunt omnes scripti et editi. Cl. Ant. de Rooy, p. too, emendatnm vult Quam proeul ut vidit taetam, quia de Pallade, quse praecedente versu nominatur, intelligebat. Nunc quum versum eum spurium pronuntiamus , retinenda est vnlgau iectio» qu«B Acfaillem respicit. Hinc in c\<rlestibus armis intelligenda Achillis arma a Vulcano fabricata , quemadmodum Maro, JEn. XII , 167, de ^nea : « Sidereo flagrans clypeo et csBlestibus armis *. Et Hectorem
 
@@ -2442,8 +2440,8 @@ PDF page 607.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 938 | 943 | Infelix portis : sequitur Nereius heros. |  |
-| 939 | 944 | In somnis veluti , quum pectora terruifc ira , |  |
-| 940 | 945 | Hic cursu super insequitur, fugere ille videtur, | 94» |
+| 939 | 944 | In somnis veluti , quum pectora terruit ira , |  |
+| 940 | 945 | Hic cursu super insequitur, fugere ille videtur, | 945 |
 | 941 | 946 | Festinantque ambo; gressum labor ipse moratur. |  |
 | 942 | 947 | Alternis poterant insistere coepta periciis, |  |
 | 943 | 948 | Nec requies aderat, timor undique concitat iras. |  |
@@ -2465,27 +2463,27 @@ PDF page 608.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 944 | 949 | Spectant de muris miseri sua fata parentes , |  |
-| 945 | 950 | Pallentemque vident supremo tempore natum, | 95« |
+| 945 | 950 | Pallentemque vident supremo tempore natum, | 950 |
 | 946 | 951 | Quem jam summa dies extrema luce premebat. |  |
 | 947 | 952 | Hinc subito ante oculos similis Tritouia fratri |  |
 | 948 | 953 | Occurrens juvenem simulato decipit ore. |  |
 | 949 | 954 | 'Ham dum Deiphobi tutum se credidit armis, |  |
-| 950 | 955 | Transtulit ad Danaos iterum sua numina Pallas. |  |
-| 951 | 956 | Concurrunt jactis inter se cominus bastis |  |
+| 950 | 955 | Transtulit ad Danaos iterum sua numina Pallas. | 955 |
+| 951 | 956 | Concurrunt jactis inter se cominus hastis |  |
 | 952 | 957 | Invicti juvenes : hic vastis intonat armis; |  |
-| 953 | 958 | lUe hostem validum nequidquam umbone repellit, |  |
+| 953 | 958 | Ille hostem validum nequidquam umbone repellit, |  |
 | 954 | 959 | Altemisque ferox mutat congressibus ictus. |  |
-| 955 | 960 | S^dor agit rivos, ensem terit horridus ensis, |  |
+| 955 | 960 | Sudor agit rivos, ensem terit horridus ensis, | 960 |
 | 956 | 961 | Collatusque haeret pede pes, et dextera dextrae. |  |
 | — | 962 | Interea validam Thetideius extulit hastam , |  |
 
 ### Notes
 
 - **(cont.)** est : hic spe celer, illa timore. Qui tamen inAeqmtur , pemiis adjutus amoris Ocior est , reqtiiemqae uegat , tergoque fugacis Imminet ».
-- **?** qSi. Summa dies suprema hce: sic editi. Sed hoc xwrokiym^ et pa* rum eleganter dictum est, praBsertim voce suprema bia posita : scriptus A. tamen habet extrema luce, quod malo : aut, si yis, lege Quem fam summa iiesfatontm lege premebtu,
+- **951 (LL 946)** Summa dies suprema hce: sic editi. Sed hoc ταυτολόγως et pa* rum eleganter dictum est, praBsertim voce suprema bia posita : scriptus A. tamen habet extrema luce, quod malo : aut, si yis, lege Quem fam summa iiesfatontm lege premebtu,
 - **953 (LL 948)** Huie subito edd. Hmc suhito habent H. et G. i, quod aptius est, Ocuhs visa est Tritonia Pailas A. et Lips.
-- **?** 954» yom nunc edd. liam dum H. quod pnetuli ceteris. Jam tum G, i. Nam ttinc Lips.
-- **?** 966. Hastis et armis G. 1.
+- **954 (LL 949)** yom nunc edd. liam dum H. quod pnetuli ceteris. Jam tum G, i. Nam ttinc Lips.
+- **956 (LL 951)** Hastis et armis G. 1.
 - **957 (LL 952)** Intonat armis dictio Virgilia« na , JEn. XII , 700.
 - **958 (LL 953)** Nequidquam umhone repellit, ut Virg. iEneid. II , 545 : « rauoo quod protinus «re repulsum, Et summo clypei nequidquam umbone pependit ».
 - **959 (LL 954)** Hutat congressibus ictus , i.e. congredieos ictus. aliter atque aliter infert. Alterni congressua sunt, quos significat Naso, Metam. IX , 4> : « Digredimur paullum , rnrsumque ad bella coimas » . In margine codicis Helmst. hic versus adponitnr : «Indignatur eum sibi posse resistere Achilles ».
@@ -2501,13 +2499,13 @@ PDF page 609.
 |---|---|---|---|
 | 958 | 963 | Inque virum magnis emissam viribus egit; |  |
 | 959 | 964 | Quam praeterlapsam vitavit callidus Hector : |  |
-| 960 | 965 | Exclamant Danai. Contra Priameius heros | 96S |
-| 961 | 966 | Yibratum jaculum Yulcania torquet in arma , |  |
+| 960 | 965 | Exclamant Danai. Contra Priameius heros | 965 |
+| 961 | 966 | Vibratum jaculum Vulcania torquet in arma , |  |
 | 962 | 967 | Nec successus adest, nam duro inflectitur auro : |  |
 | 963 | 968 | Dissiluit mucro : gemuerunt agmina Troum. |  |
 | 964 | 969 | Concurrunt iterum collatis fortiter armis, |  |
 | 965 | 970 | Inque vicem duros evitant cominus enses. | 970 |
-| 966 | 971 | Nec sufferre valet ultra ^ sortemque supremam |  |
+| 966 | 971 | Nec sufferre valet ultra , sortemque supremam |  |
 
 ### Notes
 
@@ -2526,9 +2524,9 @@ PDF page 610.
 |---|---|---|---|
 | 967 | 972 | Horruit instantem defectis viribus Hector. |  |
 | 968 | 973 | Damque retro cedit, fraternaque rebus in arctis |  |
-| 969 | 974 | Respicit auxilia, et nuUam videt esse salutem, |  |
-| 970 | 975 | S^nsit adesse dolos : quid agat?qu» numina supplex |  |
-| 971 | 976 | Invocet? et toto languescunt corpore vires | 97« |
+| 969 | 974 | Respicit auxilia, et nullam videt esse salutem, |  |
+| 970 | 975 | Sensit adesse dolos : quid agat?qu» numina supplex | 975 |
+| 971 | 976 | Invocet? et toto languescunt corpore vires |  |
 | 972 | 977 | Auxiliumque negant; retinet vix dextera ferrum, |  |
 | 973 | 978 | Nox oculos inimica tegit, nec subvenit ullum |  |
 | 974 | 979 | Defesso auxilium : pugnat moriturus et altos |  |
@@ -2548,22 +2546,22 @@ PDF page 611.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 975 | 980 | Cordc^ premit gemitus : instat Nereius heros, | 9«» |
+| 975 | 980 | Corde premit gemitus : instat Nereius heros, | 980 |
 | 976 | 981 | Turbatumqueprocul premit undique; tunc jacit hastam, |  |
 | 977 | 982 | Et medias rigida transfixit cuspide fauces. |  |
 | 978 | 983 | Exsultant Danai, Troes sua funera deflent. |  |
 | 979 | 984 | Tum sic amissis infelix viribus Hector : |  |
-| 980 | 985 | a En concede meos miseris genitoribus artus , | 9»^ |
+| 980 | 985 | « En concede meos miseris genitoribus artus , | 985 |
 | 981 | 986 | Quos pater infelix multo mercabitur auro : |  |
 | 982 | 987 | Dona feres victor. Priami nunc filius orat, |  |
 | 983 | 988 | Te Priamus, dux ille ducum, quem Graecia solum |  |
 | 984 | 989 | Pertimuit : si nec precibus, nec munere victus, |  |
-| 985 | 990 | Nec lacrymis miseri, nec clara gente moveris, | w» |
+| 985 | 990 | Nec lacrymis miseri, nec clara gente moveris, | 990 |
 | 986 | 991 | Adflicti miserere patris : moveat tua Peleus |  |
 | 987 | 992 | Pectora pro Priamo , pro nostro corpore Pyrrhus ». |  |
 | 988 | 993 | Talia Priamides , contra quem durus Achilles : |  |
 | 989 | 994 | a Quid mea supplicibus tentas inflectere dictis |  |
-| 990 | 995 | PectoraPquem possem discerptum more ferarum, | 99^ |
+| 990 | 995 | PectoraPquem possem discerptum more ferarum, | 995 |
 
 ### Notes
 
@@ -2588,7 +2586,7 @@ PDF page 612.
 | 992 | 997 | Te vero tristesque ferae cunctaeque volucres |  |
 | 993 | 998 | Diripient , avidique canes tua viscera pascent. |  |
 | 994 | 999 | Haeo ex te capient Patrocli gaudia Manes, |  |
-| 995 | 1000 | Si capiunt umbrae». Dum talia magnus Achilles | i\< |
+| 995 | 1000 | Si capiunt umbrae». Dum talia magnus Achilles | 1000 |
 | 996 | 1001 | Ore truci jactat, vitam miserabilis Hector |  |
 | 997 | 1002 | Reddidit : hunc animo nondum satiatus Achilles |  |
 | 998 | 1003 | Deligat ad currum , pedibusque exsanguia membra |  |
@@ -2611,17 +2609,17 @@ PDF page 613.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 1000 | 1005 | Fert domini successus equos : tunc maximus heros | toos |
+| 1000 | 1005 | Fert domini successus equos : tunc maximus heros | 1005 |
 | 1001 | 1006 | Detulit ad Danaos foedatum pulvere corpus. |  |
 | 1002 | 1007 | Laetantur Danai; plangunt sua funera Troes, |  |
 | 1003 | 1008 | Et pariter captos deflent cum fiinere muros. |  |
 | 1004 | 1009 | XXIII. Interea victor defleti corpus amici |  |
-| 1005 | 1010 | Funerat ^cides, pompasque ad funera ducit. | loi» |
+| 1005 | 1010 | Funerat Aeacides, pompasque ad funera ducit. | 1010 |
 | 1006 | 1011 | Ter circa tumulum miseros rapit Hectoris artus, |  |
 | 1007 | 1012 | Et varios cineri ludorum indicit honores. |  |
 | 1008 | 1013 | Tydides circi cursu, pedibusque ferorum |  |
 | 1009 | 1014 | Merionem superat: luctando vincitur Ajax, |  |
-| 1010 | 1015 | Cujus decepit vires Laertius- astu : | >«>& |
+| 1010 | 1015 | Cujus decepit vires Laertius astu : | 1015 |
 
 ### Notes
 
@@ -2642,22 +2640,22 @@ PDF page 614.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 1011 | 1016 | Caestibus adversis cunctos superavit Epeus , |  |
-| 1012 | 1017 | £t disco fortis Polypcetes depulit omnes , |  |
+| 1012 | 1017 | Et disco fortis Polypoetes depulit omnes , |  |
 | 1013 | 1018 | Merionesque arcu : tandem certamine misso |  |
 | 1014 | 1019 | In sua castra redit turbis comitatus Achilles. |  |
-| 1015 | 1020 | XXIV. Flent miseri amissum PhrygesHectora,totaque moesto |  |
+| 1015 | 1020 | XXIV. Flent miseri amissum PhrygesHectora,totaque moesto | 1020 |
 | 1016 | 1021 | Troja sonat planctu; fundit miseranda querelas i«at |  |
 | 1017 | 1022 | Infelix Hecube, saevisque arat unguibus ora, |  |
 | 1018 | 1023 | Andromacheque suas scindit de pectore vestes, |  |
 | 1019 | 1024 | Heu! tanto spoliata viro:ruit omnis in uno |  |
-| 1020 | 1025 | Hectore caussa Phrygum ^ cecidit defessa senectus 102 | > |
+| 1020 | 1025 | Hectore caussa Phrygum, cecidit defessa senectus | 1025 |
 | 1021 | 1026 | Adflicti miseranda patris, quem nec sua conjux |  |
 | 1022 | 1027 | Turbaque natorum , nec magni gloria regni |  |
 
 ### Notes
 
 - **(cont.)** que ferocem Merionem superat •; quum Helmst. Tyddes tirsim,G. i M/rsim, et G. a ftrjum. GorruptaB hutc voci nomeu proprium non subest , nam sequitur Merionem, Agitur de certamine equorum , quo Diomedes vicit Merionem, qui hic absurde AiciXviT pedibus ferox , ye\ 'velox , ut in Lips. legitur. Ego sic statuo legendum : « Tydides circi cursu pedibusque ferorum Merionem superat ». — Grcum de hippodromis poni a poetis monet Schraderus, Eraend. cap. 8 , p. 160. Ed. — ferorum dixit pco equorum, exempIoVirgilii , iEn. II, 5i, V,8i8;ManiHi lib.V, 76 , ubi de ipso auriga circi : « Aut quum laxato fregeruut cardine claustra, Exagitare feros, pronumque anteire volantes >• : adde Petronii cap. 89 , iu TrojsB halosi , v. i n , et Ausonii, qui Diomedis feros , i. e. equos dicit Epist. a4» 17. Siq emendatum, quanivis e sola conjectura , versum in contexto posui , ut posset inteliigi.
-- **?** loifi. Superavit Epeus : sic emendanint Dorpius et Dussenius , et sic Homerus docet , Iliad. XXIII , 665. In vulgatis et scriptis est Epkesbus , Epkebus , Epkemus,
+- **1016 (LL 1011)** Superavit Epeus : sic emendanint Dorpius et Dussenius , et sic Homerus docet , Iliad. XXIII , 665. In vulgatis et scriptis est Epkesbus , Epkebus , Epkemus,
 - **1017 (LL 1012)** Fortis Poijrpoetes : sic scribendum ex Homero, Iliad. XXIII , 836. Editi habent Polibeetes, G. i et "L.forti Polibetes.
 - **1020 (LL 1015)** Troes Hectora pro Pkryges Helmstad.
 - **1021 (LL 1016)** Miseranda querelas Infelix, Geminare epitheta Noster solet, nbi aitcrum adverbialiter exponendum , velut hic miseranda, i. e. miserandum in modum ; idemque recurrit versu ioa6.
@@ -2673,17 +2671,17 @@ PDF page 615.
 |---|---|---|---|
 | 1023 | 1028 | Oblitum tenuit vitae, quin iret inermis, |  |
 | 1024 | 1029 | Et solum invicti castris se redderet hostis. |  |
-| 1025 | 1030 | Mirantur Danaum proceres, miratil^r et ipse | loso |
-| 1026 | 1031 | iEacides animum miseri senis : ille trementes |  |
+| 1025 | 1030 | Mirantur Danaum proceres, miratur et ipse | 1030 |
+| 1026 | 1031 | Aeacides animum miseri senis : ille trementes |  |
 | 1027 | 1032 | Adfusus genibus tendensad sidera palmas, |  |
 | 1028 | 1033 | Haec ait : «O Graiae gentis fortissime Achilles, |  |
 | 1029 | 1034 | O regnis inimice meis, te Dardana solum |  |
-| 1030 | 1035 | Yicta tremit pubes, te sensit nostra senectus | «o35 |
+| 1030 | 1035 | Victa tremit pubes, te sensit nostra senectus | 1035 |
 | 1031 | 1036 | Crudelem niinium : nunc sis mitissimus oro, |  |
 | 1032 | 1037 | Et patris adflicti genibus miserere precantis, |  |
 | 1033 | 1038 | Donaque, quae porto miseri pro corpore nati, |  |
 | 1034 | 1039 | Accipias : sin nec precibus, nec flecteris auro, |  |
-| 1035 | 1040 | In senis extremos tua dextera saeviat annos : | in4o |
+| 1035 | 1040 | In senis extremos tua dextera saeviat annos : | 1040 |
 | 1036 | 1041 | Saltem saeva pater comitabor funera nati. |  |
 | 1037 | 1042 | Non vitam mihi, nec magnos concedere honores. |  |
 
@@ -2692,8 +2690,8 @@ PDF page 615.
 - **(cont.)** et L. Malai defessa^ quod habent G. I et n cum H.
 - **1028 (LL 1023)** Pro quin iret Lips. quando irtt inermis. Eadem constrnctione supra USU8 est auctor versu gSS.
 - **1031 (LL 1026)** Ipse trementes G. 3.
-- **?** loSi. Adfusis genibus pro adfitsus est operarum vitium in edd. Vid. supra vs. 19 et 86. EffUsus habet Guelf. I.
-- **1033 (LL 1028)** Fortissime miles G. 9. Apud Homerum , Uiad. XXIV, 486 ^q, plane alia Priami oratio est , atque hoc apnd Homeriatam latinum , qui hoc loco y ut in aliis , ipse poetam agere volnit. At puto, iDferior est divino illo Homeri Mv^aeu irarp^c 9010.
+- **1032 (LL 1027)** Adfusis genibus pro adfitsus est operarum vitium in edd. Vid. supra vs. 19 et 86. EffUsus habet Guelf. I.
+- **1033 (LL 1028)** Fortissime miles G. 9. Apud Homerum , Uiad. XXIV, 486 ^q, plane alia Priami oratio est , atque hoc apnd Homeriatam latinum , qui hoc loco y ut in aliis , ipse poetam agere volnit. At puto, iDferior est divino illo Homeri Μνῆσαι πατρὸς σοῖο.
 - **1037 (LL 1032)** Etpatris a^eti genibus. Sic edd. cum G. 3. Adfusi genibusll, et A. Et patris adflictis rebus miserere precantisG. i. Hac lectio videtur e correctione smbentis efl8e,qui quum at^cti genibus insolitum crederet, cum frequenti formula ae^ctis rebus permutandum putabat : ham post adfUctis in codice lacuna vel vacuum spatium est. Dussenius , pag. 45, eodem offensus mavult adfusi genibus , quod est in H. vel Etpatris adflieti gemitus miserere. Ego nihil mutandum censeo, et cum fiarthio, comm. ad Statium , t. HI , p. 394, adfiicti genibus explico adpulsi tnis genibus, adfixi velut vi quadam. Sic apud Suetou. legitur, Jul. ao, « ad genua accidere •.
 - **1039 (LL 1034)** Sin nec precibns : sic fiarthius legendnm vidit 1. c. et in G. i correcturo exstat, t& n infra voculse si adnexo : nam csBteri omnes legunt si nec,
 - **1040 (LL 1035)** Extremis,,,annis G. i , a , A. et L. sed vulgata lectio mnlto melior.
@@ -2706,8 +2704,8 @@ PDF page 616.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 1038 | 1043 | Sed funus crudele peto : miserere parentis , |  |
-| 1039 | 1044 | £t pater es&e meo mitis de iunere disce. |  |
-| 1040 | 1045 | Hectoris interitu vicisti Dardana regna, | io4S |
+| 1039 | 1044 | Et pater esse meo mitis de funere disce. |  |
+| 1040 | 1045 | Hectoris interitu vicisti Dardana regna, | 1045 |
 | 1041 | 1046 | Yicisti Priamum : sortis reminiscere victor |  |
 | 1042 | 1047 | Humanae, variosque dticum tu respice casus». |  |
 | 1043 | 1048 | His tandem precibus grandaevum motus Achilles |  |
@@ -2716,7 +2714,7 @@ PDF page 616.
 
 - **(cont.)** ctius HeliDst. «Nec yitam mihi, nec magnos concedere honores, Sed funus crudele peto > ; quse sane et consentanea priori orationi Priami , et apta persona Achillis sunt. Guelf . I scribit Non vitam mihi , cstera sunt eadem. Nec mnltum abludit G. 3 : Non vitam mihi ntc magnos concedis honores, Finxisse hsc auctor Tidetur ex iis , ^uae occisi Pallantis pater dicit apnd Yirg. iEneid. XI y i8o : « Noh yit« gaudia qusero, Nec fas,*sed nato Manes perferre sub imos ».
 - **1043 (LL 1038)** Sedfimus cntdeie peto scrtpsi duce cod. H. Cmdeie mei G. z . Vulgatam lectionem posili ad yers. super. Hauc Barthius ad Stat. t. III, p. 394y ita emendare yolebat: Stet vulnus crudele meum , h. e. ne pergas me ulterius yulnerare , tantopere hactenus Issum. Sed lectione,quara e cod. H. dedimus, nihil conyenientius. Cui similis sententia Oyidii est, Met. IX , 179 : «diris cruciatibus a^gram Inyisamque animam , natamque laboribus aufer, Mors inihi munus erit ». Extremo yersu G. 3 yariantes lectiones parentis et precantis ponit , qnarum ahera fortaase sumpta ex Virg. JEn. X , 6g8.
-- **?** io44> ^^^ de/iinere disce legunt yulgatse edd. Toriiii tamen ed. in raargine notat tie corpore , quod habent G. I et 3 : sed de peetore H. In his fere diflGcilis electio. Barth. Ady. p. a8io inhseret yulgatsp defii' nere , et putat Priamum se ipsum appellare funus post interemptum filium , ut cadaver Virgilius in Ciri annm quarapiam. E^o prsfero de corpore, quod et melioribus oodicibus nititur, et stylo auctoris, qni corpus filium yocare solet. Confer. yers. 89 et 993.
+- **1044 (LL 1039)** ^^^ de/iinere disce legunt yulgatse edd. Toriiii tamen ed. in raargine notat tie corpore , quod habent G. I et 3 : sed de peetore H. In his fere diflGcilis electio. Barth. Ady. p. a8io inhseret yulgatsp defii' nere , et putat Priamum se ipsum appellare funus post interemptum filium , ut cadaver Virgilius in Ciri annm quarapiam. E^o prsfero de corpore, quod et melioribus oodicibus nititur, et stylo auctoris, qni corpus filium yocare solet. Confer. yers. 89 et 993.
 - **1046 (LL 1041)** Sortis reminiscere iHctor Sm» manee, Haud obscurum est , sententiam hanc adludere , ut alia multa auctoris nostri, ad yerba Oyidii, Trist. III, II , 67 : « Humanseqne memor sortis, qua toUil eosdera, Et premit, incertas ipse yerere vices». Eadem yerba ex Oyidio traaslata Ausonins in Periocba XXIV Uiados nsurpat : Jupiter Jhetidem. miuit adfiiium, eum mardads ejus^ modi, ut in defiinctum stevire desistai^ fatique hominum in exanimo hoste vereatur, ubi extrema yerba% qoae mendosa aut hiulca yidentnr, optime corrigi supplendo ex Ovidii verbis possunt , fauque hominum vices . . . 'vereatur. Enim vero talis - sententia, qnalem hic aoctor noster et Ausonius proferunt, nuUa apnd Homerum legitur, uti ad Ausonium dudum notamnt Mariangelus et Vinetus. Quae utrinsque conspiratio quum in disoessu ab Homero , tum in usurpanda sententia Oyidiana, utique memorabilis est , et fortasse unum tttriosqiie scripti anctorem esse suspicari sinit.
 - **1048 (LL 1043)** Libri omnes scripti et im-
 
@@ -2727,7 +2725,7 @@ PDF page 617.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 1044 | 1049 | Adlevat a terra , corpusque exsangue parenti |  |
-| 1045 | 1050 | Reddidit Hectoreuin : post haec sua dona reportat | ToSo |
+| 1045 | 1050 | Reddidit Hectoreuin : post haec sua dona reportat | 1050 |
 | 1046 | 1051 | In patriam Priamus , tristesque ex more suorum |  |
 | 1047 | 1052 | Comparat exsequias , supremaque funera ducit. |  |
 | 1048 | 1053 | Tunc pyra construitur, quo bis sex corpora Graium |  |
@@ -2746,17 +2744,17 @@ PDF page 618.
 
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
-| 1050 | 1055 | Et clypei, galeaBque.graves, Argivaque tela. | fo55 |
-| 1051 | 1056 | Haec $uper ingenti gemitu componitur Hector. |  |
+| 1050 | 1055 | Et clypei, galeaBque.graves, Argivaque tela. | 1055 |
+| 1051 | 1056 | Haec super ingenti gemitu componitur Hector. |  |
 | 1052 | 1057 | Stant circum Uiades matres, manibusque decoros |  |
 | 1053 | 1058 | Abrumpunt crines, laniataque pectora tundunt : |  |
 | 1054 | 1059 | Illo namque rogo natorum funera cernunt. |  |
-| 1055 | 1060 | ToUitur et juvenum magno cum murmure clamor | to6o |
+| 1055 | 1060 | ToUitur et juvenum magno cum murmure clamor | 1060 |
 | 1056 | 1061 | Flebilis , ardebat fiamma namque Ilion illa. |  |
 | 1057 | 1062 | Inter quos gemitus laniato corpore conjux |  |
 | 1058 | 1063 | Advolat Andromache , mediosque immittere in ignes |  |
 | 1059 | 1064 | Se cupit, Astyanacta tenens, quam jussa suorum |  |
-| 1060 | 1065 | Tristis turba rapit : contra tamen usque resistit, | *oas |
+| 1060 | 1065 | Tristis turba rapit : contra tamen usque resistit, | 1065 |
 | 1061 | 1066 | Donec collapsae ceciderunt robora flammae, |  |
 | 1062 | 1067 | Inque leves abiit tantus dux ille favillas. |  |
 | 1063 | 1068 | Sed jam siste gradum, (inemque impone iabori, |  |
@@ -2768,7 +2766,7 @@ PDF page 618.
 - **1056 (LL 1051)** Deponitur Hector H.
 - **1057 (LL 1052)** Stant ciraim Iliades, Eum morem Virgilius in funere Polydori et Pallantis, iEu. III, 65, et XI, 35, obserratum hoc versu indicat : Stant circnm iliades crinem de more soluUe. Igitnr abrumpere crines , qnod No\< ster usurpat, idem est ac Virgilii solvere erines. '
 - **1058 (LL 1053)** Pectora planguntH, et G. a; plaudunt G. i , tondunt A.
-- **?** loSp. Natomm vulnera G. a.
+- **1059 (LL 1054)** Natomm vulnera G. a.
 - **1061 (LL 1056)** Flamma namque Ilion iUa, Vid. vers. 338.
 - **1063 (LL 1058)** Provolat Andromache H. mediosque injiicere L.
 - **1064 (LL 1059)** Qaam visa suorum G. a et ed. Lipsiensis.
@@ -2802,7 +2800,7 @@ PDF page 620.
 | Verse | Wernsdorf | Text | Printed |
 |---|---|---|---|
 | 1069 | 1074 | Ipsa tuas depone lyras : ades, inclyta Pallas, |  |
-| 1070 | 1075 | Tuque fave, cursu vatis jam, Phoebe, peracto. |  |
+| 1070 | 1075 | Tuque fave, cursu vatis jam, Phoebe, peracto. | 1075 |
 
 ### Notes
 

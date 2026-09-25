@@ -12,11 +12,11 @@ GAPUT I
 
 QUO NOMINE NOSTER FUERIT
 
-IlapaTT 1 //'»/; duas, ex quibus, codicum lectione paululum immulata, Italicus nomen et verbum scripsit elucerent, alteram in carminis nostri initio (v. 1-8), alteram in fine (v. 1063-1070) Franciscus Buecheler princeps animadvertit. Aemilius Baehrens secutus est qui, cum anno 1881 carmen ederet, nomen Italici, veterum recentiorumque ausus deserere vestigia, libello inscribere non dubitavit.
+Παραστιχίδας duas, ex quibus, codicum lectione paululum immutata, Italicus nomen et verbum scripsit elucerent, alteram in carminis nostri initio (v. 1-8), alteram in fine (v. 1063-1070) Franciscus Buecheler princeps animadvertit. Aemilius Baehrens secutus est qui, cum anno 1881 carmen ederet, nomen Italici, veterum recentiorumque ausus deserere vestigia, libello inscribere non dubitavit.
 
-Quid sit de nomine, vir doctus optime judicavit; qua ratione -apar7>//;'os; ambae efficiantur, minus recte. Scilicet a me impetrare nullo pacto potui ut, Baehrensio duce, Ut primum v. 7 reciperem, verbaque Ex r/uo, quae, libris manu scriptis tradita, incipiente versu legimus, e textu eicerem ; nimis repugnat versus 6 Homericae Uiadis :
+Quid sit de nomine, vir doctus optime judicavit; qua ratione παραστιχίδες ambae efficiantur, minus recte. Scilicet a me impetrare nullo pacto potui ut, Baehrensio duce, Ut primum v. 7 reciperem, verbaque Ex quo, quae, libris manu scriptis tradita, incipiente versu legimus, e textu eicerem ; nimis repugnat versus 6 Homericae Iliadis :
 
-i\ oit 3r, toc TipwTa oiarr/^TrjV spiaxvTE.
+ἐξ οὗ δὴ τὰ πρῶτα διαστήτην ἐρίσαντε.
 
 At mihi laboranti et jam in incerto (perperam, ut mox videbis) habenti Italicumne illum, fortasse nil nisi nomen et umbram, sequi pergerem an aliam viam meditarer, succurrit acutissimum Haveti ingenium. Cum enim versum 7, ab Ermenrico in epistula ad Grimoldum quem ad modum
 
@@ -254,19 +254,22 @@ nicum mcntis suspicio obiciatur; sic autcm ille locutus est in Bruto, XVIII, 71 
 
 Hom., Odyss., I, 1 :
 
-Virum milii, Camona, insece versulum
+Virum mihi, Camena, insece versutum
 
-"Avopa [J.Ol IvVSTTS, M0U7a, TTOAUTpOTIOV. Hom., Odyss., VI, 142 :
+Ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον.
 
-Ulrum genua amplnelens virginem oraret
+Hom., Odyss., VI, 142 :
 
-"H youvuv Xtoo-otTo Xv.fjwv z-jdi-iov. xoupvjv. Hom., Odyss., XXII, 82 :
+Utrum genua amplectens virginem oraret
+
+Ἦ γούνων λίσσοιτο λαβὼν εὐῶπιδα κούρην.
+
+Hom., Odyss., XXII, 82 :
 
 At celer hasta perrumpit pectora ferro 2
 
-'lov aTTO-ooVeU f:aXXs gtt;0o; -xpa ;./.a£ov
-
-£v o= o\ r-.-j.-;'. r.r^z Ooov r :s'Xo;.
+Ἰὸν ἀποπροϊεὶς βάλλε στῆθος παρὰ μαζὸν
+ἐν δέ οἱ ἥπατι πῆξε θοὸν βέλος.
 
 Adice nunc Livium Saturnio usum esse, et quid ad hexametrum reddendum versus ille habeat incommodi reputa; adicelinguaelatinae asperitatem nondum emollitam fuisse; longum autem opus , novum, periculosum; atque, his omnibus perpensis, non tam in poetae infirmitatem quam in infantiam poeticae orationis, quae illi aetati propria erat, censebis culpam reiciendam esse.
 
@@ -302,9 +305,9 @@ Etiam apud Varronem, VII, 95 :
 
 Corpora Grajorum maerebat mandier igni.
 
-Quem versum Scaliger ad VII, 428 refert; mire, cum hoc loco de Priamo Trojanisque agatur. Satius cum I, 56 collatus est
+Quem versum Scaliger ad VII, 428 refert; mire, cum hoc loco de Priamo Trojanisque agatur. Satius cum I, 56 collatus est :
 
-Iv^osto yap Aavawv, oti fix OvvfcxovTx? oparo.
+Κήδετο γὰρ Δαναῶν, ὅτι ῥα θνήσκοντας ὁρᾶτο.
 
 Reperimus nunc apud Gellium, Noct. att., VII (VI), 6, 5, hunc Matii versum :
 
@@ -340,11 +343,13 @@ Jam, si liceat nobis aliquid de his omuihus concludere, Iliadem integram a Cn. M
 
 At nunc de Ninnio Crasso rem agamus, qui vidctur Furio Bihaculo aequalis fuisse Iliademque ex toto versihus hexametris fertur latine reddidisse. Tres modo exstant, duo tantum integri, unus mancus. Apud Nonium. s. v. fite : « Crassus, lib. XVI Uiados :
 
-socii nunc fitc viri. » cum Iliad. V, 529 : w 'fO.o-., avlpe? eore, Walther comparat. Apud Priscianum, X, p. 503 Htz : « Ninnius in Iliadis secundo :
+socii nunc fite viri. » cum Iliad. V, 529 : ὦ φίλοι, ἀνέρες ἔστε, Walther comparat. Apud Priscianum, X, p. 503 Htz : « Ninnius in Iliadis secundo :
 
-Fecundo penetral penilus thalamoque potitur. » Respicit satis ad Iliad., III, l\l\/ : ^ pa, xal r.pye Xe^oo-Se xtwv.
+Fecundo penetrat penitus thalamoque potitur. »
 
-IOuL, IX, p. 478 : « Ninnius Crassus in XXIV Iliadis :
+Respicit satis ad Iliad., III, 447 : ἦ ῥα, καὶ ἦρχε λέχοσδε κιών.
+
+Ibid., IX, p. 478 : « Ninnius Crassus in XXIV Iliadis :
 
 Nam non connivi oculos ego deinde sopore. »
 
@@ -354,9 +359,9 @@ PDF page 39.
 
 Cf. Iliad. XXIV, 639 :
 
-'AXVaisl GTEva^io xal xrfizx [/.upia raaffco.
+Ἀλλ' αἰεὶ στενάχω καὶ κήδεα μυρία πέσσω.
 
-Ouae fragmenta aliis quidem poctis, quoniam saepissime librarii nomina Naeuii, Nonii, Ninnii, Liuii, Laeuii alia pro aliis substituerunt, temere assignata Huschke, in comment. de Annio Cimbro p. 9, Ninnio Crasso jure vindicavit. Ne igitur errorem hic recipias H. Stephani qui versum Fecundo penetrat penitus potiturqae thalamo, in fragmentis poetarum veterum latinorum anno 1554 cditis, p. 224, Naevio adscripsit, nec Scaligeri commentum qui a Laevio Iliadem Cypriam vult scriptam esse l . Nec non deceptus est Heyne qui, in excursu primo ad secundum Aeneidis librum (p. 387 et 391, not. 2), Naevii Cypriam Iliadem fuisse contendit 2 . Eodem errore laborat Wernsdorf 3 .
+Quae fragmenta aliis quidem poctis, quoniam saepissime librarii nomina Naeuii, Nonii, Ninnii, Liuii, Laeuii alia pro aliis substituerunt, temere assignata Huschke, in comment. de Annio Cimbro p. 9, Ninnio Crasso jure vindicavit. Ne igitur errorem hic recipias H. Stephani qui versum Fecundo penetrat penitus potiturqae thalamo, in fragmentis poetarum veterum latinorum anno 1554 cditis, p. 224, Naevio adscripsit, nec Scaligeri commentum qui a Laevio Iliadem Cypriam vult scriptam esse l . Nec non deceptus est Heyne qui, in excursu primo ad secundum Aeneidis librum (p. 387 et 391, not. 2), Naevii Cypriam Iliadem fuisse contendit 2 . Eodem errore laborat Wernsdorf 3 .
 
 Quid vero de Ninnii Crassi interpretatione sentiendum sit, vix statuere possumus; materia deest. Attamen, prout e tam paucis reliquiis licet coicere, a Walthero, qui inde Ninnii versus ad verba Homerica accurate conformatos fuisse existimat, equidem multum dissentio; neque aliter judicabit qui haec frustula cum graecis versibus sedulo contulerit.
 
@@ -772,9 +777,8 @@ In Erfurtano autem nihil nisi incipit tiberho?neri\eg\tur; in Leidensi, incipit 
 
 Pentadium autem in illo Pindaro Wernsdorf primum deprohondi jussit; deinde postquam Avienum , non jam Pentadium elegit , alio modo rem explanare temptavit. Notus est Pandarus ille, unus ex Trojanis principibus, qui
 
-Auxaovo; ayXao; inoc
-
-IlavSacoi;, S xat to^ov 'Atco^XXwv auro; eowxev *.,
+Λυκάονος ἀγλαὸς υἱὸς
+Πάνδαρος, ᾧ καὶ τόξον Ἀπόλλων αὐτὸς ἔδωκεν 1,
 
 1. Iliad. II, 826.
 

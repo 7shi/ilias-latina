@@ -10,16 +10,16 @@ PDF page 159.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 1 |  | Iram pande mihi Pelidae, Diva, superbi, |  |
+| 1 | Α 1 ss. | Iram pande mihi Pelidae, Diva, superbi, |  |
 | 2 |  | Tristia quae miseris iniecit funera Grais |  |
 | 3 |  | Atque animas fortes heroum tradidit Orco |  |
 | 4 |  | Latrantumque dedit rostris volucrumque trahendos |  |
-| 5 |  | lllorum exsangues inhumatis ossibus artus. |  |
+| 5 |  | Illorum exsangues inhumatis ossibus artus. | 5 |
 | 6 |  | Confiebat enim summi sententia regis, |  |
-| 7 |  | f Protulerant ex quo discordia pectora turbas, |  |
-| 8 |  | Sceptriger Atrides et bello clarus Acbilles. |  |
-| 9 |  | quis deus hos ira tristi contendere iussit? |  |
-| 10 |  | Latonae et magni proles lovis. ille Pelasgum |  |
+| 7 |  | † Protulerant ex quo discordia pectora turbas, |  |
+| 8 |  | Sceptriger Atrides et bello clarus Achilles. |  |
+| 9 | 8 | quis deus hos ira tristi contendere iussit? |  |
+| 10 |  | Latonae et magni proles Iovis. ille Pelasgum | 10 |
 | 11 |  | infestus regi pestem in praecordia misit |  |
 | 12 |  | implicuitque gravi Danaorum corpora morbo. |  |
 | 13 |  | nam quondam Chryses, sollemni tempora vitta |  |
@@ -27,17 +27,17 @@ PDF page 159.
 
 ### Testimonia
 
-- **7** Ermenrieus epist. ad Grimaldum (a. 850 — 55) Mon. Germ. hist. Epist. V 545,24: E poetice corripitur apud Homerum in Iliade: Pertulerunt ei quo discordia pectora turmas
+- **7** Ermenricus epist. ad Grimaldum (a. 850—55) Mon. Germ. hist. Epist. V 545, 24: E poetice corripitur apud Homerum in Iliade: Pertulĕrunt ex quo discordia pectora turmas
 
 ### Apparatus
 
-- **TIT.** Bebii Italici poetae clarissimi epithome in quatuor viginti libros homeri iliados cod. Vind. lat. 3509 (saec. XF); Homeri liber vel Homerus Sl\ Pindaro vel Pindaro Thebano adscribunt s
-- **2** qu(a)e Hugo Trimbergensis et B^ M*^SX, quis PTTS qui ilacp
-- **3** animas B^E^G-L" 3I^p, animos (-is L^) Sl
-- **6** Confiebat Schrader et Higt, Conficiebat Sl
-- **7** Pertulerant (Prot- PW) ex quo Sl, Pertulerunt ex quo Ermenricus, Ex quo pertulerant B ?, Ex quo contulerant /. ; versus incipiebat ab V littera, emendatio incerta: Versarant DJring, Volverunt Havet, Vt primum tulerant Baehrens I discordia pectora (Ermenricusj Sl, discordi pectore E D N² Vcorr. αβδ | turbas Havet, turmas (Ermenricus), pugnas (-am N, -is F V, -ng W*) Sl
-- **11** Infestus {%o- Xcod^sis) BrantSiua, Infestam Sl \ pestem i. amorem Chryseidos (v. V. 26) I praecordia (cf v. 25) Sl, praetoria male Schrader
-- **13** timpora uitta (uicta D M) BCDFGMN, tempore uit a)e (uittg V) PWE^L^V
+- **TIT.** Bebii Italici poetae clarissimi epithome in quatuor viginti libros homeri iliados cod. Vind. lat. 3509 (saec. XV); Homeri liber vel Homerus Ω; Pindaro vel Pindaro Thebano adscribunt ς
+- **2** qu(a)e Hugo Trimbergensis et B²M²βδλ, quis PW¹, qui Ωαφ
+- **3** animas B²E²G²L²M²β, animos (-is L¹) Ω
+- **6** Confiebat Schrader et Higt, Conficiebat Ω
+- **7** Pertulerant (Prot- PW) ex quo Ω, Pertulerunt ex quo Ermenricus, Ex quo pertulerant Bς, Ex quo contulerant λ; versus incipiebat ab V littera, emendatio incerta: Versarant Döring, Volverunt Havet, Vt primum tulerant Baehrens | discordia pectora (Ermenricus) Ω, discordi pectore EDN² Vcorr. αβδ | turbas Havet, turmas (Ermenricus), pugnas (-am N, -is FV, -nę W²) Ω
+- **11** Infestus (χολωθείς) Brantsma, Infestam Ω | pestem i. amorem Chryseidos (v. v. 26) | praecordia (cf v. 25) Ω, praetoria male Schrader
+- **13** timpora uitta (uicta DM) BCDFGMN, tempore uit(a)e (uittę V) PW¹E¹L¹V
 
 ## p. 2
 
@@ -45,41 +45,44 @@ PDF page 160.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 15 | A | invisosque dies invisaque tempora noctis | 15 |
+| 15 | Α | invisosque dies invisaque tempora noctis | 15 |
 | 16 |  | egit et assiduis implevit questibus auras. |  |
 | 17 |  | postquam nulla dies animum maerore levabat |  |
 | 18 |  | nullaque lenibant patrios solacia fletus, |  |
-| 19 |  | castra petit Danaum genibusque alfusus Atridae |  |
-| 20 |  | per superos reguique decus miserabilis orat, | so |
+| 19 |  | castra petit Danaum genibusque affusus Atridae |  |
+| 20 |  | per superos regnique decus miserabilis orat, | 20 |
 | 21 |  | ut sibi causa suae reddatur nata salutis. |  |
 | 22 |  | dona simul praefert. vincuntur fletibus eius |  |
-| 23 | 22 | Myrmidones reddique patri Chrjseida censent. |  |
+| 23 | 22 | Myrmidones reddique patri Chryseida censent. |  |
 | 24 |  | sed negat Atrides Chrysenque excedere castris |  |
 | 25 |  | despecta pietate iubet; ferus ossibus imis | 25 |
 | 26 |  | haeret amor spernitque preces damnosa libido. |  |
-| 27 | S3 | contemptus repetit Phoebeia templa sacerdos |  |
+| 27 | 33 | contemptus repetit Phoebeia templa sacerdos |  |
 | 28 |  | squalidaque infestis maerens secat unguibus ora |  |
 | 29 |  | dilaceratque comas annosaque tempora plangit. |  |
-| 30 |  | mox ubi depositi gemitus lacrimaeque quierunt, | so |
+| 30 |  | mox ubi depositi gemitus lacrimaeque quierunt, | 30 |
 | 31 |  | Fatidici his sacras compellat vocibus aures: |  |
 | 32 | 37 | 'quid coluisse mihi tua, Delphice, numina prodest |  |
 | 33 | — | aut castam multos vitam duxisse per annos? |  |
 | 34 |  | quidve iuvat sacros posuisse altaribus ignes, |  |
 | 35 | — | si tuus externo iam spernor ab hoste sacerdos? | 35 |
 | 36 | — | en, haec desertae redduntur dona senectae? |  |
-| 37 | — | si gratus tibi sum, sim te sub vindice tutue. |  |
-| 38 | — | aut si qua, ut luerem sub acerbo crimine poenas^ |  |
+| 37 | — | si gratus tibi sum, sim te sub vindice tutus. |  |
+| 38 | — | aut si qua, ut luerem sub acerbo crimine poenas, |  |
 | 39 | — | inscius admisi, cur o tua dextera cessat? |  |
 
 ### Apparatus
 
-- **17** lenabat Sl, leuauit PWB
-- **22** praefert 5i, profert Ma^S 2» tempora Sl, pectora EM; at cf. S? 33 -/.ecpccli^v 81 Fatidici his Higt, Fatidicis (Va- E'G; -us N^) Sl, Patidici FTF* | com- ^eWat PWCEF, compellit BJD^GLMNV \ aures Sl, aras G, aras vel aures E 32 delphice numina a^d, numina delphice {vel delf-) Sl
-- **33** Aut Sl, Et E \ multos uitam BE, uitam multos PWCDFGLMNV
-- **35** Si Sl, Sic 31
-- **37** Si gr. t. e. Sl, Si (Sic N) t. s. gr. GN | sim Sl, sum N, si ilf | uindice WDEV, iudice PB^CFGL3IN
-- **38** Aut (Au B) Sl, At D \ qua ut PW^E'L'N\ quam ut B^CFVE^L\ quas ut DW^, quas {om. ut) M, quid ut GN^ \ p(o)enas P WDE^GM, p(o)enam BCFNV, poena ayi -as incertum L^
-- **39** admisi (amm- LV) WBCELNVP^G^ admissi P^FM, amisi DG^
+- **17** leuabat Ω, leuauit PWB
+- **22** praefert Ω, profert Mαβδ
+- **29** tempora Ω, pectora EM; at cf. Φ 33 κεφαλήν
+- **31** Fatidici his Higt, Fatidicis (Va- E¹G; -us N¹) Ω, Fatidici VW² | compellat PWCEF, compellit BD¹GLMNV | aures Ω, aras G, aras vel aures E
+- **32** delphice numina αβδ, numina delphice (vel delf-) Ω
+- **33** Aut Ω, Et E | multos uitam BE, uitam multos PWCDFGLMNV
+- **35** Si Ω, Sic M
+- **37** Si gr. t. s. Ω, Si (Sic N) t. s. gr. GN | sim Ω, sum N, si M | uindice WDEV, iudice PB¹CFGLMN
+- **38** Aut (Au B) Ω, At D | qua ut PW¹E¹L¹N¹, quam ut B¹CFVE²L², quas ut DW², quas (om. ut) M, quid ut GN² | p(o)enas PWDE¹GM, p(o)enam BCFNV, poena an -as incertum L¹
+- **39** admisi (amm- LV) WBCELNVP²G², admissi P¹FM, amisi DG¹
 
 ## p. 3
 
@@ -87,44 +90,48 @@ PDF page 161.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 40 | ^ | posco sacro3 arcus: in ine tua derige tela; |  |
+| 40 | Α | posco sacros arcus: in me tua derige tela; | 40 |
 | 41 | — | auctor mortis erit certe deus. ecce merentem |  |
-| 42 | — | fige patrem : cur nata luit peccata parentis |  |
+| 42 | — | fige patrem: cur nata luit peccata parentis |  |
 | 43 | — | atque hostis duri patitur miseranda cubile?' |  |
 | 44 | 43 | dixerat. ille sui motus prece vatis acerbis |  |
-| 45 | 4S | luctibus infestat Danaos pestemque per omnes |  |
+| 45 | 48 | luctibus infestat Danaos pestemque per omnes | 45 |
 | 46 |  | immittit populos: vulgus ruit undique Graium |  |
 | 47 |  | vixque rogis superest tellus, vix ignibus aer; |  |
 | 48 |  | deerat ager tumulis. iam noctis sidera nonae |  |
 | 49 |  | transierant decimusque dies patefecerat orbem, |  |
-| 50 | 54 | cum Danaum proceres in coetum clarus Acbilles |  |
+| 50 | 54 | cum Danaum proceres in coetum clarus Achilles | 50 |
 | 51 |  | convocat et causas hortatur pestis iniquae |  |
 | 52 | 69 | edere Thestoriden. tunc Calchas numina divum |  |
 | 53 |  | consulit et causam pariter finemque malorum |  |
 | 54 |  | invenit effarique verens ope tutus Achillis |  |
-| 55 |  | haec ait 'infesti placemus numina Phoebi |  |
+| 55 |  | haec ait 'infesti placemus numina Phoebi | 55 |
 | 56 |  | reddamusque pio castam Chryseida patri, |  |
 | 57 |  | si volumus, Danai, portus intrare salutis'. |  |
 | 58 | 101 | dixerat; exarsit subito violentia regis: |  |
 | 59 |  | Thestoriden dictis primum compellat amaris |  |
-| 60 |  | mendacemque vocat; tum magnum incusat Achillem |  |
+| 60 |  | mendacemque vocat; tum magnum incusat Achillem | 60 |
 | 61 |  | inque vicem ducis invicti convicia suffert. |  |
 | 62 |  | confremuere omnes: tandem clamore represso |  |
-| 63 |  | cogitur invitos aeger diraittere amores |  |
-| 64 |  | intactamque pio reddit Chryseida pab-i |  |
-| 65 | 430 | multaque dona super: quam cunctis notus Vlixes |  |
+| 63 |  | cogitur invitos aeger dimittere amores |  |
+| 64 |  | intactamque pio reddit Chryseida patri |  |
+| 65 | 430 | multaque dona super; quam cunctis notus Vlixes | 65 |
 | 66 |  | impositam puppi patrias devexit ad arces |  |
 
 ### Apparatus
 
-- **40** Posco Susan Foider, Poace Sl \ dirige Sl
-- **44** motu3 prece uatis B, uatis pr. motus ii, pr. uatis motus jN^
-- **47** aer Sl, arbor Schrader e.v Ov. met. 7,613 4S noctis s. nonae (none om. E^) ^, nonae s. noctis W
+- **40** Posco Susan Fowler, Posce Ω | dirige Ω
+- **44** motus prece uatis B, uatis pr. motus Ω, pr. uatis motus N
+- **47** aer Ω, arbor Schrader ex Ov. met. 7, 613
+- **48** noctis s. nonae (none om. E¹) Ω, nonae s. noctis W
 - **50** Cum CF, Tum PWDELNV, Dum M, Tunc BG
-- **52** Eclere Sl, Prodere P, Perdere corr. in Pandere TT^ | t(h)estoriden TT^^^G^.-em vel -e cett. \ tiinc 5i, tum FNY 63 causam CnEFLJIX, causas PWBGV\ malorum il, laborum L 59 om. P j Thestoriden W, -em vel -e cett. \ compellatiQ, -it L^VB- 60 tum Sl, tunc GL VE'
-- **63** inuitos Sl, inuisos a/Jd; intellege: quae regem non amcibat: amores ipsam Chryseida denotat
-- **64** reddit H, reddi D TT'^
-- **66** arces Sl, horas G
+- **52** Edere Ω, Prodere P, Perdere corr. in Pandere W | t(h)estoriden WEG, -em vel -ē cett. | tunc Ω, tum PNV
+- **53** causam CDEFLMN, causas PWBGV | malorum Ω, laborum L
+- **59** om. P | Thestoriden W, -em vel -ē cett. | compellat Ω, -it L¹VB²
+- **60** tum Ω, tunc GLVE²
+- **63** inuitos Ω, inuisos αβδ: intellege: quae regem non amabat; amores ipsam Chryseida denotat
+- **64** reddit Ω, reddi DW²
+- **66** arces Ω, horas G
 
 ## p. 4
 
@@ -132,20 +139,20 @@ PDF page 162.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 67 | A 478 | atque iterum ad Danaum classes sua vela retorsit. |  |
+| 67 | Α 478 | atque iterum ad Danaum classes sua vela retorsit. |  |
 | 68 | 457 | protinus infesti placantur numina Phoebi |  |
 | 69 |  | et prope consumptae vires redduntur Achivis. |  |
 | 70 | 318 | non tamen Atridae Chryseidos excidit ardor: | 70 |
 | 71 |  | maeret et amissos deceptus luget amores. |  |
 | 72 |  | mox rapta magnum Briseide privat Achillem |  |
 | 73 |  | solaturque suos alienis ignibus ignes. |  |
-| 74 | 190 | at feius Aeacides nudato protinus ense |  |
+| 74 | 190 | at ferus Aeacides nudato protinus ense |  |
 | 75 |  | tendit in Atriden et, ni sibi reddat honestae | 75 |
 | 76 |  | munera militiae, letum crudele minatur |  |
 | 77 |  | nec minus ille parat contra defendere se ense. |  |
 | 78 | 194 | quod nisi casta manu Pallas tenuisset Achillem, |  |
 | 79 |  | turpem caecus amor famam liquisset in aevum |  |
-| 80 |  | gentibus Argolicis. contenta voce minisque | so |
+| 80 |  | gentibus Argolicis. contenta voce minisque | 80 |
 | 81 | 351 | invocat aequoreae Pelides numina matris, |  |
 | 82 |  | ne se Plistheniden contra patiatur inultum. |  |
 | 83 | 357 | at Thetis audita nati prece deserit undas |  |
@@ -158,17 +165,18 @@ PDF page 162.
 ### Apparatus
 
 - **67** danaum classes CDEFGLMN, classes danaum PWBV
-- **69** versum edhihent P WBrux. 2718 Paris. 14 909 Mon. 5594 Vind., om. cett. et a§S
-- **70** atrid(a)e i2, -di W^CFGM \ c(h)nseidis (-des L') Sl
-- **71** M(a)eret Sl, Heret P | deceptus PWF^G, decom(pHus B^CDFLMN
-- **72** briseide (-da MN^) Sl, c(h)ri8eide PC^D^ 76 at(h)riden WE, -em vel -e cett.
-- **76** se ense PW BLV, sense G\ ense N\ sese CDEFM
-- **80** Gentibus WB EGMN, Mentibus PCD^FLV \ contenta L, contempta Q.
-- **82** Plistheniden Th. BergJc, plus thetis Si,
-- **83** At t(h)etis Sl, Et thetis E^, Thetis et P^ , nati prece Sl, prece nati PB
-- **84** s. Castraque mjrmidonum iuxta petit et monet armis Abstineat dextram ac (dextre E^) congressus (-ibus Th.Bergk) inde per auras PWE^, Castraque mirmidonum pr(a)eteruolat inde fpreceps uolat atque V) per auraa BCDFGLMNVE^
-- **87** sparsis a. capillis Sl, sparsos a. (vel e.) capillos (-is M^) E^L^M \ affusa Sl, effusa CD^ E^FM
-- **88** Pro Sl, K P \ ueni Sl, uenio B^L\ uenit M^
+- **69** versum exhibent PWBrux. 2718 Paris. 14909 Mon. 5594 Vind., om. cett. et αβδ
+- **70** atrid(a)e Ω, -di W¹CFGM | c(h)riseidis (-des L¹) Ω
+- **71** M(a)eret Ω, Heret P | deceptus PWE¹G, decom(p)tus B¹CDFLMN
+- **72** briseide (-da MN¹) Ω, c(h)riseide PC¹D¹
+- **75** at(h)riden WE, -em vel -ē cett.
+- **76** se ense PWBLV, sense G¹, ense N¹, sese CDEFM
+- **80** Gentibus WBEGMN, Mentibus PCD¹FLV | contenta L, contempta Ω
+- **82** Plistheniden Th. Bergk, plus thetis Ω
+- **83** At t(h)etis Ω, Et thetis E¹, Thetis et P¹ | nati prece Ω, prece nati PB
+- **84** s. Castraque myrmidonum iuxta petit et monet armis Abstineat dextram ac (dextre E¹) congressus (-ibus Th. Bergk) inde per auras PWE¹, Castraque mirmidonum pr(a)eteruolat inde (preceps uolat atque V) per auras BCDFGLMNVE²
+- **87** sparsis a. capillis Ω, sparsos a. (vel e.) capillos (-is M¹) E¹L¹M | affusa Ω, effusa CD¹E¹FM
+- **88** Pro Ω, A P | ueni Ω, uenio B¹L², uenit M²
 
 ## p. 5
 
@@ -176,17 +184,17 @@ PDF page 163.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 89 | ^i | nmnina, summe parens: ulciscere meque meumque |  |
-| 90 |  | pignus ab Atrida. quodsi permittitur illi, | so |
-| 91 |  | ut flammas inpune mei violarit AchiUis, |  |
-| 92 |  | turpiter occiderit superata libidine yirtus.' |  |
-| 93 | 517 | luppiter haec contra 'tristes depone querelas, |  |
+| 89 | Α | numina, summe parens: ulciscere meque meumque |  |
+| 90 |  | pignus ab Atrida. quodsi permittitur illi, | 90 |
+| 91 |  | ut flammas inpune mei violarit Achillis, |  |
+| 92 |  | turpiter occiderit superata libidine virtus.' |  |
+| 93 | 517 | Iuppiter haec contra 'tristes depone querelas, |  |
 | 94 |  | magni diva maris, mecum labor iste manebit. |  |
 | 95 | — | tu solare tui maerentia pectora nati'. | 95 |
 | 96 |  | dixit, at illa leves caeli delapsa per auras |  |
 | 97 | 532 | litus adit patrium gratasque sororibus undas. |  |
-| 98 | 539 | offensa est luno 'tantum'que ait, 'optime coniunx, |  |
-| 99 |  | Doride uata valet, tantum debetur Achilli, |  |
+| 98 | 539 | offensa est Iuno 'tantum'que ait, 'optime coniunx, |  |
+| 99 |  | Doride nata valet, tantum debetur Achilli, |  |
 | 100 |  | ut mihi, quae coniunx dicor tua quaeque sororis | 100 |
 | 101 |  | dulce fero nomen, dilectos fundere Achivos |  |
 | 102 |  | et Troum renovare velis in proelia vires? |  |
@@ -196,22 +204,24 @@ PDF page 163.
 | 106 | 571 | tandem interposito lis Ignipotente resedit |  |
 | 107 | — | conciliumque simul genitor dimittit Olympi | 107 |
 | 109 | 602 | et dapibus divi curant sua corpora largis. | 109 |
-| 108 | 605 | interea sol emenso decedit Olympo: | los |
+| 108 | 605 | interea sol emenso decedit Olympo: | 108 |
 | 110 |  | inde petunt thalamos iucundaque dona quietis. | 110 |
 
 ### Apparatus
 
-- **89** meque meTimque ii, om. P\ item meumque om. W^
-- **90** Pignu8 Higt, Corpus Sl
-- **91** uiolarit PWCI)FVE*L\ uiolaret BE^GL^MN
-- **92** Turpiter eqs. totum versum hic habent in ordine PWDN, omiserunt in ordine B^CE^F^G^L^MV, in margine post v. 91 suppleverunt E^B-F^L-, post 96 in conteoctu dat M; inter 91 et 95 scripserat (?* duos versus, tres substituif G* ; jP* in margine addidit: Tui-piter illius uirtus prostrata iacebit
-- **93** haec (PWCF, huic BDELMNV) contra Sl, huic dixit B V; cf. 271. 988
-- **96** leues Sl, leuis E^LN^^V; cf. Verg. Aen. 11, 595
-- **100** coni. dicor tua ^, decor t. c. E
-- **101** Dulce fero nomen Sl, N. d. fero B
-- **103** h(a;ec ita Sl, haecine Higt, haec tu Wernsdorf
-- **106** Ignipotente Higt, omnipotente H; cf. V. 862 107. 109. 108 sic versus transposui, 108. 107. 109 voluit ordinari Higt, 109. 108. 107 L. Miiller, 107. 109. 110.
-- **108** Havet 107 Conciliumque Sl, Cons- BCFLMNV \ olympi Sl, -po EL^ 109 dapibus diui (-um 31) curant sua corpora largis BCDEFGLMNV, dapibus largis c. b. c. diui PW
+- **89** meque meumque Ω, om. P¹, item meumque om. W¹
+- **90** Pignus Higt, Corpus Ω
+- **91** uiolarit PWCDFVE²L², uiolaret BE¹GL¹MN
+- **92** Turpiter eqs. totum versum hic habent in ordine PWDN, omiserunt in ordine B¹CE¹F¹G¹L¹MV, in margine post v. 91 suppleverunt E¹B²F²L², post 96 in contextu dat M; inter 91 et 95 scripserat G¹ duos versus, tres substituit G²; F² in margine addidit: Turpiter illius uirtus prostrata iacebit
+- **93** haec (PWCF, huic BDELMNV) contra Ω, huic dixit BV; cf. 271. 988
+- **96** leues Ω, leuis E¹LN¹V; cf. Verg. Aen. 11, 595
+- **100** coni. dicor tua Ω, decor t. c. E
+- **101** Dulce fero nomen Ω, N. d. fero B
+- **103** h(a)ec ita Ω, haecine Higt, haec tu Wernsdorf
+- **106** Ignipotente Higt, omnipotente Ω; cf. v. 862
+- **107. 109. 108** sic versus transposui, 108. 107. 109 voluit ordinari Higt, 109. 108. 107 L. Müller, 107. 109. 110. 108 Havet
+- **107** Conciliumque Ω, Cons- BCFLMNV | olympi Ω, -po EL¹
+- **109** dapibus diui (-um M) curant sua corpora largis BCDEFGLMNV, dapibus largis c. s. c. diui PW
 
 ## p. 6
 
@@ -219,10 +229,10 @@ PDF page 164.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 111 | B 1 | nox erat et toto fulgebaut sidera mundo |  |
+| 111 | Β 1 | nox erat et toto fulgebant sidera mundo |  |
 | 112 |  | humanumque genus requies divumque tenebat, |  |
-| 113 | 7 | cum pater omnipotens Somuum vocat atque ita fatur: |  |
-| 114 |  | Vade age per tenues auras, lenissime divum, |  |
+| 113 | 7 | cum pater omnipotens Somnum vocat atque ita fatur: |  |
+| 114 |  | 'vade age per tenues auras, lenissime divum, |  |
 | 115 |  | Argolicique ducis celeri pete castra volatu | 115 |
 | 116 |  | dumque tuo premitur sopitus pondere dulci, |  |
 | 117 |  | haec illi mandata refer: cum crastina primum |  |
@@ -232,31 +242,35 @@ PDF page 164.
 | 121 |  | devolat in thalamos Agamemnonis: ille sopore |  |
 | 122 |  | corpus inundatum leni prostratus habebat. |  |
 | 123 |  | ad quem sic loquitur curarum operumque levator: |  |
-| 124 |  | ^rex Danaum Atrida, vigila et mandata Tonantis, |  |
+| 124 |  | 'rex Danaum Atrida, vigila et mandata Tonantis, |  |
 | 125 |  | quae tibi iussa simul delatus ab aethere porto, | 125 |
 | 126 |  | accipe: cum primum Titan se emerserit undis, |  |
 | 127 |  | fortibus arma iube socios aptare lacertis |  |
 | 128 |  | et petere Iliacos instructo milite campos.' |  |
 | 129 | 35 | dixit et has repetit per quas modo venerat auras. |  |
-| 130 | 48 | interea lueem terris dedit ignea lampas. | iso |
+| 130 | 48 | interea lucem terris dedit ignea lampas. | 130 |
 | 131 |  | convocat attonitus iussis Pelopeius heros |  |
-| 132 | 65 | in coetum proceres remque omnibus ordine pandit. |  |
+| 132 | 55 | in coetum proceres remque omnibus ordine pandit. |  |
 | 133 |  | cuncti promittunt socias in proelia vires |  |
 
 ### Testimonia
 
-- **111** cf. Gesta Berengarii (PMA IV) 1,
-- **127** 
+- **111** cf. Gesta Berengarii (PMA IV) 1, 127
 - **128** cf. Gesta Ber. 3, 37
 
 ### Apparatus
 
-- **111** mundo CBFGMN^ mundo vel celo L, c(a)elo PWB EVN^ I cglo f. s. toto E
-- **112** requies (-em E) diuumque BODEFGLMNVP^ W^, diuum requiesque P* etut vid. TP | tenebat Si, -ant E> manebat M
-- **118** Cum B^ et Higt, Tum CDE'FG3INV,Tunc PWB^LE^ \ ommTpoiens(j)artim ompa) £1, omnipudens FL 114 lenissime (lin- C) PWBCFNL^, leuissime (-que leu- M) BEGL^MV llB Argolicique ii, -umque M 116 Dumque ^, Cumque CF
-- **124** atrida PWB^ NVE^L', -de CDE^FL^BIB^, -des G 126 iussa iJ (i. simul ac iussa sunt), missa l volgo \ delatus Sl, delapsus DM 126 se emerserit P PF Jf iV^^ emerserit BCDEFGLN^V; cf Manil. 5,198. Avien. periheg.
-- **126** \ undis Sl, undas E 180 lucem terris 52, terris lucem B
-- **131** iussis PWCDGL V, uisis EMN, iussit F., iussu B; cf Verg. Aen. 3, 172
+- **111** mundo CDFGMN¹, mundo vel celo L, c(a)elo PWBEVN² | cęlo f. s. toto E
+- **112** requies (-em E) diuumque BCDEFGLMNVP²W², diuum requiesque P¹ et ut vid. W¹ | tenebat Ω, -ant E, manebat M
+- **113** Cum B³ et Higt, Tum CDE¹FGMNV, Tunc PWB¹LE² | omnipotens (partim om͞ps) Ω, omnipudens FL
+- **114** lenissime (lin- C) PWBCFNL², leuissime (-que leu- M) DEGL¹MV
+- **115** Argolicique Ω, -umque M
+- **116** Dumque Ω, Cumque CF
+- **124** atrida PWB¹NVE²L², -de CDE¹FL¹MB², -des G
+- **125** iussa Ω (i. simul ac iussa sunt), missa λ volgo | delatus Ω, delapsus DM
+- **126** se emerserit PWMN², emerserit BCDEFGLN¹V; cf. Manil. 5, 198. Avien. periheg. 126 | undis Ω, undas E
+- **130** lucem terris Ω, terris lucem B
+- **131** iussis PWCDGLV, uisis EMN, iussit F, iussu B; cf. Verg. Aen. 3, 172
 
 ## p. 7
 
@@ -264,40 +278,44 @@ PDF page 165.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 134 | B | hortanturque ducem; quorum rex fortia dictis |  |
+| 134 | Β | hortanturque ducem; quorum rex fortia dictis |  |
 | 135 |  | pectora collaudat: grates agit omnibus aequas. | 135 |
-| 136 | 312 | hic tunc Thersites, quo non deformior alter |  |
+| 136 | 212 | hic tunc Thersites, quo non deformior alter |  |
 | 137 |  | venerat ad Troiam nec lingua protervior ulli, |  |
 | 138 |  | bella gerenda negat patrias hortatus ad oras |  |
-| 139 | 2A4 | vertere iter; quem consiliis inlustris Vlixes |  |
-| 140 | 265 | correptum dictis sceptro percussit eburno. | 1« |
+| 139 | 244 | vertere iter; quem consiliis inlustris Vlixes |  |
+| 140 | 265 | correptum dictis sceptro percussit eburno. | 140 |
 | 141 | — | tum vero ardescit conceptis litibus ira: |  |
-| 142 | — | vix telis caruere manus^ ad sidera clamor |  |
+| 142 | — | vix telis caruere manus, ad sidera clamor |  |
 | 143 | — | tollitur et cunctos pugnandi corripit ardor. |  |
 | 144 | 284 | tandem sollertis prudentia Nestoris aevo |  |
-| 145 |  | compressam miti sedavit pectore turbam | 1« |
+| 145 |  | compressam miti sedavit pectore turbam | 145 |
 | 146 |  | admonuitque duces dictis, responsa recordans |  |
 | 147 | 308 | temporis illius, quo visus in Aulide serpens |  |
 | 148 |  | consumpsit volucrum bis quattuor arbore fetus |  |
-| 149 |  | atque ipsam invalido pugnantem corpore eontra |  |
+| 149 |  | atque ipsam invalido pugnantem corpore contra |  |
 | 150 |  | addidit extremo natorum funere matrem. | 150 |
 | 151 |  | tunc 'sic deinde' senex 'moneo remoneboque, Achivi: |  |
-| 152 | 32* | in decimo labor est, Calchas quem dixerat, anno, |  |
+| 152 | 322 | in decimo labor est, Calchas quem dixerat, anno, |  |
 | 153 |  | quo caderet Danaum victricibus Ilion armis |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 | 154 | 335 | assensere omnes, laudatur Nestoris aetas |  |
 
 ### Apparatus
 
-- **134** ducem Sl: Agamemnona etiam incitant 185 collaudat (^-ans B W^L^) grates (gratesque E) agit (ait 31) Sl
-- **136** Hic Sl, Hinc g: an His.? | tunc PWCFGNV, tum BBELM \ non Sl, nec VE-
-- **137** versum om. B ; 137. 138 scripserat G^, sed erasit iterumque scripsit G- \ nec lingua proteruior ulli P, nec lingua (haec duo verba erasa in W^j pr. alter W^CDFL^M NVE\ linguaque (-ue G^W^) pr. alter E^G-L'W^, lingua nec pronior ullus cod. Virgil.
-- **138** patrias^Ji^ patriasque E M W^ \ hortatus Baehrens, hortatur H
-- **140** Correptum Sl, Correctum P, Corruptum G
-- **141** Tum H, Tunc E 31, Cum D | conceptis ,Ji, conseptis JE", consertis qp
-- **144** sollertis ii, -ti jB^ ilfG^-
-- **149** ipsam inualido N, ipsa (-a G-) inualido G, ipsam ualido cett. et a^d \ corpore Sl, pectore B'V 161 Tunc P., Tum EGMV \ deindeiJ, inde CFG^ V \ moneo Sl, moneo et N, moneor CFL^ ■ remoneboque (que om. W^DL'^) Sl, remonebor CF, reminiscor M
-- **152** om. M I c(h)alc(_h)as quem Sl, quem c(h)aic(h)as GNV post V. 153 nulla in cod. laciina: excidit ipsum Nestori^ consilium (B 331)
-- **154** Assensere Sl, Cons- E Poet. Lat. Minores IL, 3 ed. Tollmer, 2
+- **134** ducem Ω: Agamemnona etiam incitant
+- **135** collaudat (-ans BW²L²) grates (gratesque E) agit (ait M) Ω
+- **136** Hic Ω, Hinc ς: an His? | tunc PWCFGNV, tum BDELM | non Ω, nec VE²
+- **137** versum om. B; 137. 138 scripserat G¹, sed erasit iterumque scripsit G² | nec lingua proteruior ulli P, nec lingua (haec duo verba erasa in W¹) pr. alter W¹CDFL¹MNVE², linguaque (-ue G²W³) pr. alter E¹G²L²W³, lingua nec pronior ullus cod. Virgil.
+- **138** patrias Ω, patriasque EMW² | hortatus Baehrens, hortatur Ω
+- **140** Correptum Ω, Correctum P, Corruptum G
+- **141** Tum Ω, Tunc EM, Cum D | conceptis Ω, conseptis E, consertis φ
+- **144** sollertis Ω, -ti B¹MG²
+- **149** ipsam inualido N, ipsa (-ã G²) inualido G, ipsam ualido cett. et αβδ | corpore Ω, pectore B¹V
+- **151** Tunc Ω, Tum EGMV | deinde Ω, inde CFG¹V | moneo Ω, moneo et N, moneor CFL¹ | remoneboque (que om. W¹DL¹) Ω, remonebor CF, reminiscor M
+- **152** om. M | c(h)alc(h)as quem Ω, quem c(h)alc(h)as GNV
+- **153** post v. 153 nulla in cod. lacuna: excidit ipsum Nestoris consilium (B 331)
+- **154** Assensere Ω, Cons- E
 
 ## p. 8
 
@@ -305,23 +323,23 @@ PDF page 166.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 155 | B 442 | conciliumque simul dimittitur; arma parari | 155 |
-| 156 |  | dux iubet atque auimos aptare et corpora pugnae. |  |
+| 155 | Β 442 | conciliumque simul dimittitur; arma parari | 155 |
+| 156 |  | dux iubet atque animos aptare et corpora pugnae. |  |
 | 157 | — | postera lux tacitas ut primum depulit umbras |  |
 | 158 | — | et nitidum Titan radiis caput extulit undis, |  |
 | 159 |  | protinus armari socios iubet acer Atrides |  |
 | 160 |  | et petere Iliacos instructo milite campos. | 160 |
-| 161 | 4.84 | vos mihi nunc, Musae (quid enim non ordine nostis?), |  |
+| 161 | 484 | vos mihi nunc, Musae (quid enim non ordine nostis?), |  |
 | 162 |  | nomina clara ducum clarosque referte parentes |  |
 | 163 |  | et dulces patrias: nam sunt haec munera vestra. |  |
 | 164 |  | dicamus, quot quisque rates ad Pergama duxit, |  |
-| 165 | — | et coeptum peragamus opus, sitque auctor ApoUo | i65 |
+| 165 | — | et coeptum peragamus opus, sitque auctor Apollo | 165 |
 | 166 | — | aspiretque libens operi per singula nostro. |  |
-| 167 | 494 | Peneleus princeps et bello Leitus acer |  |
-| 168 |  | Arcesilaus atrox Prothoenorque Cloniusque |  |
+| 167 | 494 | Peneleus princeps et bello Leïtus acer |  |
+| 168 |  | Arcesilaus atrox Prothoënorque Cloniusque |  |
 | 169 |  | Boeoti decies quinas egere carinas |  |
 | 170 |  | et tumidos valido pulsarunt remige fluctus. | 170 |
-| 171 | 669 | inde Mjcenaeis Agamemnon moenibus ortus, |  |
+| 171 | 569 | inde Mycenaeis Agamemnon moenibus ortus, |  |
 | 172 |  | quem sibi bellatrix delegit Graecia regem, |  |
 | 173 |  | centum egit plenas armato milite puppes. |  |
 | 174 | 586 | et bis tricenis Menelai navibus ardor |  |
@@ -331,20 +349,20 @@ PDF page 166.
 
 ### Apparatus
 
-- **(cont.)** 135 Conciliumque WDEG, Cons- cett.
-- **156** aptare H, -ri G I corpora Higt, pectora 9.
-- **157** Postera 9., Postea P^N^ \ depulitii, dispulit Higt
-- **158** nitidum Sl, -dis LN^ et G^ utvid.
-- **160** instructo 9, constructo N, armato E ; cf. v. 128
-- **161** Vos il, Nunc £■
-- **163** muneraii, munia Z), nomina i'^
-- **164** quot (quod WM) 9,, quas L^ ; P^ n. l.
-- **167** P(o)eneleu8 (-laus E^j 9., Teleus D, Pene leo W^P-, Peleo P^ \ Leitus qp, I(a)ertiuB vel -cius Sl, lortius P
-- **168** Archesilaus (-los CF) vel -isilaus Sl \ protenorque (que om. JIN) vel prva)etenorque Sl, et proteuir E^ | cloniusque CDFG^ V, doniusque XS domusque PW' (W^ n. l.J, claniusque ^*, clonioque 5', didoniusque 31, cremusque N, clonius atque G^
-- **169** Boeoti van Kooten (Boeti L^), Boetes vel Bo^tes Sl; Boeotas Wernsdorf
-- **170** pulsarunt ii, sulcarunt E^ ; cf. V. 219
-- **172** bellatrix delegitPTF, del. bell. cett.
-- **177** suorum Sl, suorum est (cf. v. 178) E, suet M
+- **155** Conciliumque WDEG, Cons- cett.
+- **156** aptare Ω, -ri G | corpora Higt, pectora Ω
+- **157** Postera Ω, Postea P¹N¹ | depulit Ω, dispulit Higt
+- **158** nitidum Ω, -dis LN¹ et G¹ ut vid.
+- **160** instructo Ω, constructo N, armato E; cf. v. 128
+- **161** Vos Ω, Nunc E
+- **163** munera Ω, munia D, nomina E¹
+- **164** quot (quod WM) Ω, quas L¹; P¹ n. l.
+- **167** P(o)eneleus (-laus E¹) Ω, Teleus D, Pene leo W¹P², Peleo P¹ | Leitus φ, I(a)ertius vel -cius Ω, Iortius P
+- **168** Archesilaus (-los CF) vel -isilaus Ω | protenorque (que om. MN) vel pr(a)etenorque Ω, et proteuir E¹ | cloniusque CDFG¹V, doniusque L¹, domusque PW² (W¹ n. l.), claniusque E¹, clonioque B¹, didoniusque M, cremusque N, clonius atque G²
+- **169** Boeoti van Kooten (Boeti L²), Boetes vel Boętes Ω; Boeotas Wernsdorf
+- **170** pulsarunt Ω, sulcarunt E¹; cf. v. 219
+- **172** bellatrix delegit PW, del. bell. cett.
+- **177** suorum Ω, suorum est (cf. v. 178) E, suet M
 
 ## p. 9
 
@@ -352,31 +370,38 @@ PDF page 167.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 178 | B | it ter tricenis munitus in arma carinis, |  |
-| 179 | 617 | at Schedius virtute potens et Epistrophus ingens, |  |
-| 180 |  | gloria Myrmidonum, saevi duo robora belli, | iso |
+| 178 | Β | it ter tricenis munitus in arma carinis. |  |
+| 179 | 517 | at Schedius virtute potens et Epistrophus ingens, |  |
+| 180 |  | gloria Myrmidonum, saevi duo robora belli, | 180 |
 | 181 |  | longa quaterdenis pulsarunt aequora proris. |  |
 | 182 | 740 | et bis vicenas Polypoetes atque Leonteus |  |
 | 183 |  | instruxere rates oneratas milite forti. |  |
 | 184 | 564 | Euryalus Sthenelique decus et fortis in armis |  |
-| 185 | 567 | Tydides valido pulsarunt remige pontum: | i85 |
+| 185 | 567 | Tydides valido pulsarunt remige pontum: | 185 |
 | 186 |  | bis quadragenas onerarunt milite puppes. |  |
-| 187 | 512 | Ascalaphusque potens et lalmenus, acer uterque, |  |
+| 187 | 512 | Ascalaphusque potens et Ialmenus, acer uterque, |  |
 | 188 |  | ter denas valido complerunt remige naves. |  |
 | 189 | 527 | et bis vicenas Locrum fortissimus Aiax |  |
-| 190 | 736 | instmxit puppes totidemque Euhaemone natus. | iso |
+| 190 | 736 | instruxit puppes totidemque Euhaemone natus. | 190 |
 | 191 | 685 | quos iuxta Graium durus comitator Achilles |  |
 | 192 |  | cum quinquaginta materna per aequora vectus |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 
 ### Apparatus
 
-- **178** It ter i% Est ter (Ester C et L^ ut vid.) Sl, Est cum B, Ter cum E, It cum E-
-- **179** At Schedius cp, Ascedius PWB^ EGL^, Assedius CFL-, Archesius D, Archedius M, Ascredius N, Tascedius V \ epistropus (-phus E) Sl
-- **181** Longa quaterdenis a^Scp, Longaque ter (cum P) denis Sl, Grandia terdenis E
-- **182** polipoetes M, polibetes (-bitus N) fere Sl I leont(h)eus EL, leontheu P (W^ n. h), leontes vel -tas cett.
-- **188** (h)oneratas NVB\ omatas WB^CDE'FLM, armatas PE^; cf. v. 186. 214 184 Euryalus Bondam, Surripilue (-ulus 31, Tu- E\ Du- F) Sl, Eurypilus C, Euripilus (-ulus N) LN I Sthenelique C. SchenM, stenelusque istel- corr. in sten- JP^ PDLV, stelenusque WBCEFMN\ decus CDFL^M et W^ ut vid., decona V, decens L-W^, duces PB^NE^, simul E^ 186 Titides (Tith- P, Tyt- D) Sl hic et passim | pontum Sl, fluctus E, fructus 31, puppes (ex 186j L^ 186 Bis L^(f, His .V, Bisque EL^, Hi WBDFV, Hii PC3I \ (h)onerarunt Sl, ornarunt 31; cf, ad v. 183 187 lalmenus qp, iamenus L^, t(h)almenu8 WV, talineus P, thalamenus 'et postposuit D) DE^, thalams {om. et) L^, t(h)almeus CF, talamonius N^, talamus {om. et) 31, talamon B^ 18» locrum Sl, locorum F, lucrum M, teucrum I)
-- **190** om. V \ Eu(h)aemone Bortdam, euchenore Sl
-- **191** Quos Sl, Quas P \ graium Sl, grais 31 V, grauis et W^ \ durus Sl, murus L' ex Ov. met. 13,281 \ comitator P (et W^ ut vid.) Guelf. 76,3 Ej.tr. ^" et l, -tur cett. post 192 nulla in codd. laeuna; deest versus in quo legehatur Puppibus vel simile et verbum primarium
+- **178** It ter L², Est ter (Ester C et L¹ ut vid.) Ω, Est cum B, Ter cum E, It cum E²
+- **179** At Schedius φ, Ascedius PWB¹EGL¹, Assedius CFL², Archesius D, Archedius M, Ascredius N, Tascedius V | epistropus (-phus E) Ω
+- **181** Longa quaterdenis αβδφ, Longaque ter (cum P) denis Ω, Grandia terdenis E
+- **182** polipoętes M, polibetes (-bitus N) fere Ω | leont(h)eus EL, leontheu P (W¹ n. l.), leontes vel -tas cett.
+- **183** (h)oneratas NVB², ornatas WB¹CDE¹FLM, armatas PE²; cf. v. 186. 214
+- **184** Euryalus Bondam, Surripilus (-ulus M, Tu- E¹, Du- V) Ω, Eurypilus C, Euripilus (-ulus N) LN | Sthenelique C. Schenkl, stenelusque (stel- corr. in sten- P²) PDLV, stelenusque WBCEFMN | decus CDFL¹M et W¹ ut vid., decons V, decens L²W³, duces PB¹NE², simul E¹
+- **185** Titides (Tith- P, Tyt- D) Ω hic et passim | pontum Ω, fluctus E, fructus M, puppes (ex 186) L¹
+- **186** Bis L¹φ, His N, Bisque EL², Hi WBDFV, Hii PCM | (h)onerarunt Ω, ornarunt M; cf. ad v. 183
+- **187** Ialmenus φ, iamenus L², t(h)almenus WV, talineus P, thalamenus (et postposuit D) DE¹, thalam̃s (om. et) L¹, t(h)almeus CF, talamonius N¹, talamus (om. et) M, talamon B¹
+- **189** locrum Ω, locorum F, lucrum M, teucrum D
+- **190** om. V | Eu(h)aemone Bondam, euchenore Ω
+- **191** Quos Ω, Quas P | graium Ω, grais MV, grauis et W³ | durus Ω, murus L² ex Ov. met. 13, 281 | comitator P (et W¹ ut vid.) Guelf. 76, 3 Extr. 2° et λ, -tur cett.
+- **192** post 192 nulla in codd. lacuna; deest versus in quo legebatur Puppibus vel simile et verbum primarium
 
 ## p. 10
 
@@ -384,41 +409,43 @@ PDF page 168.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 193 | B 678 | Thessalici iuvenes Pliidippus et Antiphus ibant |  |
+| 193 | Β 678 | Thessalici iuvenes Phidippus et Antiphus ibant |  |
 | 194 |  | altaque ter denis pulsarunt aequora proris. |  |
-| 195 | ■i~\ | et tribus -[ assumptis ratibus secat aequora Nireus, | 195 |
+| 195 | 671 | et tribus † assumptis ratibus secat aequora Nireus, | 195 |
 | 196 | 653 | Tlepolomusque novem Rhodius, quos viribus acer |  |
 | 197 | 714 | Eumelus sequitur, minus una nave profectus |  |
 | 198 |  | quam duxit Telamone satus Salaminius Aiax. |  |
 | 199 | 756 | ast Prothous Magnes Tenthredone natus et una |  |
-| 200 | 540 | Euboeae a f magnis Elephenor finibus ortus | 200 |
+| 200 | 540 | Euboeae a † magnis Elephenor finibus ortus | 200 |
 | 201 | 627 | Dulichiusque Meges, animisque insignis et armis, |  |
-| 202 | 63S | Aetola de gente Thoas Andraemone natus, |  |
+| 202 | 638 | Aetola de gente Thoas Andraemone natus, |  |
 | 203 |  | hi quadragenas omnes duxere carinas. |  |
 | 204 | 631 | et bis sex Ithaci naves sollertia duxit; |  |
 | 205 | 557 | quem sequitur totidem ratibus Telamonius Aiax, | 205 |
-| 206 | 743 | egregia virtute potens; simul hoi-rida Guneus |  |
+| 206 | 748 | egregia virtute potens; simul horrida Guneus |  |
 | 207 |  | ire bis undenis temptabat in arma carinis. |  |
-| 208 |  | 645ldomeneus et Meriones, Cretaeus uterque, |  |
+| 208 | 645 | Idomeneus et Meriones, Cretaeus uterque, |  |
 | 209 |  | bis quadragenis muniti navibus ibant. |  |
 | 210 | 552 | et totidem puppes clara de gente Menestheus | 210 |
 | 211 |  | duxit Athenaeus, quot viribus ambit Achilles. |  |
 
 ### Apparatus
 
-- **193** Phidippus qp, pe(iip(p)us (pedibus N) fere Sl | antiphus JBD, -pus vel -bus cett., antimus E^, amphius 31
-- **195** assumptis Sl, ex Syme {Sviiri&sv) Wernsdorf \ Nireus Bondam, teucer (th- B, -ter P) ^
-- **196** Tlepolemusque a/Jd (cf v. 523), Striptolomusque (Ne- E^, Tri- MV) fere P.
-- **197** Eumelus i^qp, Eumeleus P', Eumeneleus (-lus CFV, Nu- E^) fere cett. \ minus una scil. undecim | profectus Bcp. prouectus Sl
-- **198** salamiuius PWB' VL^ et simimer L^3IN, t(h)elamonius (tal- D) CDE'F 19» At Prothous Bondam , Astropius PWD, Astropus cett., Ostrophus E^, Astraphus B^ \ Magnes Schrader, magno Sl, et magno ME^, a magno £"' | Teuthredone Bondam, tetere dene W, tetere dine P, th(a)etheredone vd simiUa monstra cett.
-- **200** Euboee a L^, Euboea ac Sl. Euboea et corr. in ac 31, Eubous ac V I magnis Sl (ex v. priore), longis Plessis; sanctis Volhner (IsQfjg B 535) \ Elephenor cp, helpenor (elp- N, helf- D) Si
-- **201** -que his om. P
-- **202** Ethola Sl, Et clara D
-- **204** Et 9., At 31 206 totidem ratibus Sl, r. t. E
-- **206** om.B^ \ (hlor(riida Sl, orda P^ W, ordine P^ | Guneus Bondam, pheneus P W, phineus (-eos 31, -meus N: fin- L) cett.
-- **208** Idomeneus (Idem- E) ii, Idoneus PW
-- **210** Menestheus Bondam, menetis PTfT', menetes EM, monetis (-es N'^?) BCFN, moenetes L, meneus D
-- **211** Duxit Sl, Auxit DE i quot Schrader, quos 51 | ambit Sl, addit Wernsdorf
+- **193** Phidippus φ, pedip(p)us (pedibus N) fere Ω | antiphus BD, -pus vel -bus cett., antimus E¹, amphius M
+- **195** assumptis Ω, ex Syme (Σύμηθεν) Wernsdorf | Nireus Bondam, teucer (th- D, -ter P) Ω
+- **196** Tlepolemusque αβδ (cf. v. 523), Striptolomusque (Ne- E¹, Tri- MV) fere Ω
+- **197** Eumelus L¹φ, Eumeleus P¹, Eumeneleus (-lus CFV, Nu- E¹) fere cett. | minus una scil. undecim | profectus Bφ, prouectus Ω
+- **198** salaminius PWB¹VL² et similiter L¹MN, t(h)elamonius (tal- D) CDE¹F
+- **199** At Prothous Bondam, Astropius PWD, Astropus cett., Ostrophus E¹, Astraphus B¹ | Magnes Schrader, magno Ω, et magno ME², a magno E¹ | Tenthredone Bondam, tetere dene W, tetere dine P, th(a)etheredone vel similia monstra cett.
+- **200** Euboee a L², Euboea ac Ω. Euboea et corr. in ac M, Eubous ac V | magnis Ω (ex v. priore), longis Plessis; sanctis Vollmer (ἱερῆς B 535) | Elephenor φ, helpenor (elp- N, helf- D) Ω
+- **201** -que bis om. P
+- **202** Ethola Ω, Et clara D
+- **204** Et Ω, At M
+- **205** totidem ratibus Ω, r. t. E
+- **206** om. B¹ | (h)or(r)ida Ω, orda P¹W, ordine P³ | Guneus Bondam, pheneus PW, phineus (-eos M, -meus N: fin- L) cett.
+- **208** Idomeneus (Idem- E) Ω, Idoneus PW
+- **210** Menestheus Bondam, menetis PWV, menetes EM, monetis (-es N¹?) BCFN, moenetes L, meneus D
+- **211** Duxit Ω, Auxit DE | quot Schrader, quos Ω | ambit Ω, addit Wernsdorf
 
 ## p. 11
 
@@ -426,15 +453,15 @@ PDF page 169.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 212 | B 620 | Amphimachiisque ferox et Thalpius, Elide nati, |  |
+| 212 | Β 620 | Amphimachusque ferox et Thalpius, Elide nati, |  |
 | 213 | 622 | et clara virtute Polyxenus atque Diores, |  |
 | 214 |  | hi bis vicenas onerarunt milite puppes. |  |
-| 215 | 698.704 | Protesilaus agit totidem fortisque Podarces | 215, |
+| 215 | 698. 704 | Protesilaus agit totidem fortisque Podarces | 215 |
 | 216 |  | instructas puppes, quot duxit Oileos Aiax. |  |
 | 217 | 718 | et septem Poeante satus tulit arma carinis. |  |
 | 218 | 732 | quem sequitur iuxta Podalirius atque Machaon, |  |
 | 219 |  | altaque ter denis sulcarunt aequora proris. |  |
-| 220 |  | his ducibas Graiae Troiana ad litora puppes | 220 |
+| 220 |  | his ducibus Graiae Troiana ad litora puppes | 220 |
 | 221 | — | bis septem venere minus quam mille ducentae. |  |
 | 222 | — | iamque citae appulerant classes camposque tenebant, |  |
 | 223 | 786 | cum pater ad Priamum mittit Saturnius Irin, |  |
@@ -445,18 +472,23 @@ PDF page 169.
 | 228 | — | cui fulgens auro cassis iuvenile tegebat |  |
 | 229 | — | omni parte caput, munibat pectora thorax |  |
 | 230 | — | et clipeus laevam, dextram decoraverat hasta | 230 |
-| 231 | — | omabatque latus mucro; simul alta nitentes |  |
+| 231 | — | ornabatque latus mucro; simul alta nitentes |  |
 | 232 | — | crura tegunt ocreae, quales decet Hectoris esse. |  |
 | 233 | — | hunc sequitur forma melior, tunc fortis in armis, |  |
 
 ### Apparatus
 
-- **(cont.)** 812 et Sl, om. CDE, atque i* | Thalpius Bondatn (TalphiuB qp), alpius M, alpinus FWCBEFL V, alipinus B^, alpinor N ai4 Hi(i) Sl, His P^ ut vid., Et M \ (h)onerarunt ii, ornarunt M; cf. ad V. 183 I pup(p)e8 Sl, naues BWL
-- **216** quot duxit MP^, quos (quas CN") duxit WBCBE^FLNV, duxit quos P^ OileoB Schrader, oileusii, oleusi^, oleiusiJ, oileius Ci^, olenius M
-- **217** peante i* ex Ov. met. 9, 233, ph(a)etonte (-ta B) Sl | tulit (dabit M) arma carinis Sl, dat in arma carinas E
-- **218** podalirius ELcp (ex Ovidio), polidarius (-ris F) Sl | machaon (-eon B) CBEL ex Vergilio Aen. 2,263, met(h)eon PTFJBFF, mecheon M, metonta N 21» sulcarunt Sl, pulsarunt B M
-- **222** cit(a)e (cito M, citi V) a. classes Sl, citam a. classem CEL: male versum eiecit L. MiiUer, male Baelirens funditus mutavit: auctor licentia poetica abutitur
-- **228** Cum il, Tum M V^ \ mittit B C BFLMNV, misiiPWE 225 capit i^, petit JE" 227 que Sl, om. BL^M 283 Hunc Sl, Tunc B \ tunc fortis in Sl, non f. in E^, quam f. in i*, nec f. in Baehrens, quam fortior Havet
+- **212** et Ω, om. CDE, atque L² | Thalpius Bondam (Talphius φ), alpius M, alpinus PWCDEFLV, alipinus B¹, alpinor N
+- **214** Hi(i) Ω, His P¹ ut vid., Et M | (h)onerarunt Ω, ornarunt M; cf. ad v. 183 | pup(p)es Ω, naues DE¹L
+- **216** quot duxit MP², quos (quas CN²) duxit WBCDE¹FLNV, duxit quos P¹ Oileos Schrader, oileus Ω, oleus L¹, oleius E, oileius CF, olenius M
+- **217** peante L² ex Ov. met. 9, 233, ph(a)etonte (-ta D) Ω | tulit (dabit M) arma carinis Ω, dat in arma carinas E
+- **218** podalirius ELφ (ex Ovidio), polidarius (-ris F) Ω | machaon (-eon D) CDEL ex Vergilio Aen. 2, 263, met(h)eon PWBFV, mecheon M, metonta N
+- **219** sulcarunt Ω, pulsarunt BM
+- **222** cit(a)e (cito M, citi V) a. classes Ω, citam a. classem CEL: male versum eiecit L. Müller, male Baehrens funditus mutavit: auctor licentia poetica abutitur
+- **223** Cum Ω, Tum MV¹ | mittit BCDFLMNV, misit PWE
+- **225** capit Ω, petit E
+- **227** que Ω, om. DL¹M
+- **233** Hunc Ω, Tunc D | tunc fortis in Ω, non f. in E², quam f. in L², nec f. in Baehrens, quam fortior Havet
 
 ## p. 12
 
@@ -464,31 +496,32 @@ PDF page 170.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 234 | B — | belli causa Paris, patriae funesta ruina, | [^^6S, |
-| 235 | — | DeiphobusqueHelenusquesimulfortisquePoli- | 235 |
+| 234 | Β — | belli causa Paris, patriae funesta ruina, |  |
+| 235 | — | Deiphobusque Helenusque simul fortisque Polites, | 235 |
 | 236 | 820 | et sacer Aeneas, Veneris certissima proles, |  |
-| 237 | 823 | Archelochusque Acamasque ferox Antenore | creti. |
+| 237 | 823 | Archelochusque Acamasque ferox Antenore creti. |  |
 | 238 | 827 | nec non et proles generosa Lycaonis ibat |  |
 | 239 | 876 | Pandarus et magnae Glaucus virtutis in armis; |  |
-| 240 | 830.837. 8i2 | A uip hiu s que et Adr as tu s et Asiu s atque P vlaeus. | uo |
+| 240 | 830. 837. 842 | Amphiusque et Adrastus et Asius atque Pylaeus. | 240 |
 | 241 | 870 | ibat et Amphimachus Nastesque, insignis uterque, |  |
-| 242 | 856 | magnanimique duces Odiusqueet Epistrophus | ingens |
-| 243 | 846.848 | Euphemusque ferox clarusque aetate Pyraechmes; |  |
-| 244 | 864 | cumquibus etMesthles atque Antiphus etbonus | armis |
-| 245 | 840.844 | Hippothous y atque Acamas j veuere Pirous | una, 245 |
-| 246 | 858 | Arsinooque sati Chromiusque atque Ennomus, | ambo |
+| 242 | 856 | magnanimique duces Odiusque et Epistrophus ingens |  |
+| 243 | 846. 848 | Euphemusque ferox clarusque aetate Pyraechmes; |  |
+| 244 | 864 | cum quibus et Mesthles atque Antiphus et bonus armis |  |
+| 245 | 840. 844 | Hippothous † atque Acamas † venere Pirous una, | 245 |
+| 246 | 858 | Arsinooque sati Chromiusque atque Ennomus, ambo |  |
 
 ### Apparatus
 
-- **(cont.)** 285 Deipliobus (om. que) C^, Deiphe- vel Deifebusque (que om. W^CBFMNV) P..
-- **237** Archil- Ji | que prius habent EMNL^, om. cett. | creti CLVE-F-, nati et. s. s. creti M\ creati DF^ et E^ ut vid., nati PWBX 23» Pandajus £1, Pindarus K
-- **240** Amphiusque \<et Baehrens> Bondam, Amphin (Anph- P) et P TH, Amphion DN, Amphionque (An- CFL) BCEFLMV\ adrastus PWEV, ad clerastus B, adrastusque (-uque F) CDFLMN \ et asius (ans- CF, aus- DNV)P., ausiusque M \ Pylaeus cp, ephialtes (fialtes DN et L^ ut vid.) Sl
-- **241** Ibat et PWBCL, Ibaut et DE, Ibant MNV, Ibat F Nastesque Bondam, nactesque E^, nactisque L, natusque (-uq; B^) B M, natiasque CFV, naucius N, matiusque PWE^
-- **242** que prius oni. B^N \ Hodiusque Bondam, rih^odius (que EL^) Sl
-- **243** Euphimusque fere Sl \ clarusque Sl, claraque CF I Pyraechmes Bondam, piragmes (-gnes D 31) Sl
-- **244** et Mesthles Bondam, et mnesteus (me- FL^, mene- N, ne- B^ M VL^) Sl, emnesteus P
-- **245** versus corruptissimus sic fere traditus erat in Sl: Ippodus atque athamas uenere pierius una (nec non et pigreus una interpolavit D, feroxque pierius uua Monac. 29038); nomina restituerunt Hippothous van Kooten, Pirous Wernsdorf ; totum sie emendavit L. Miiller: Hippothous venere Acamasque et Piroua una, minus bene Baehrens: Hippothousque Acamasque iuere et Pirous una
-- **246** Ai-sinooque Vollmer (ex Apollod. epit. 3,35 p. 199 Wagner), Axinonoque (Axio- CDF, Anxio- M, Anxino- N) Sl, Axui nonoque P, Hesione B ; Alcinooque van Kooten ex Auson. epitaph. 32 (239 p. 79 Peiper) | cromiusque N, c(h)roniusque PBCDEFL V, cromusque WM\ atque Ennomus Kooteni amicus, eumonius (-men- P) PW, et
+- **235** Deiphobus (om. que) C¹, Deiphe- vel Deifebusque (que om. W¹CDFMNV) Ω
+- **237** Archil- Ω | que prius habent EMNL², om. cett. | creti CLVE²F², nati et. s. s. creti M¹, creati DF¹ et E¹ ut vid., nati PWBN
+- **239** Pandarus Ω, Pindarus N
+- **240** Amphiusque \<et Baehrens> Bondam, Amphin (Anph- P) et PW¹, Amphion DN, Amphionque (An- CFL) BCEFLMV | adrastus PWEV, ad clerastus B, adrastusque (-uque F) CDFLMN | et asius (ans- CF, aus- DNV) Ω, ausiusque M | Pylaeus φ, ephialtes (fialtes DN et L¹ ut vid.) Ω
+- **241** Ibat et PWBCL, Ibant et DE, Ibant MNV, Ibat F Nastesque Bondam, nactesque E¹, nactisque L, natusque (-uq; B¹) BM, natiusque CFV, naucius N, matiusque PWE²
+- **242** que prius om. B¹N | Hodiusque Bondam, r(h)odius (que EL²) Ω
+- **243** Euphimusque fere Ω | clarusque Ω, claraque CF | Pyraechmes Bondam, piragmes (-gnes DM) Ω
+- **244** et Mesthles Bondam, et mnesteus (me- FL¹, mene- N, ne- B¹MVL²) Ω, emnesteus P
+- **245** versus corruptissimus sic fere traditus erat in Ω: Ippodus atque athamas uenere pierius una (nec non et pigreus una interpolavit D, feroxque pierius una Monac. 29038); nomina restituerunt Hippothous van Kooten, Pirous Wernsdorf; totum sic emendavit L. Müller: Hippothous venere Acamasque et Pirous una, minus bene Baehrens: Hippothousque Acamasque iuere et Pirous una
+- **246** Arsinooque Vollmer (ex Apollod. epit. 3, 35 p. 199 Wagner), Axinonoque (Axio- CDF, Anxio- M, Anxino- N) Ω, Axui nonoque P, Hesione B; Alcinooque van Kooten ex Auson. epitaph. 32 (239 p. 79 Peiper) | cromiusque N, c(h)roniusque PBCDEFLV, cromusque WM | atque Ennomus Kooteni amicus, eumonius (-men- P) PW, et
 
 ## p. 13
 
@@ -496,16 +529,16 @@ PDF page 171.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 247 | s 862 | florentes aetate viri, quos Phorcus et ingens |  |
-| 248 |  | Ascanius sequitur, sinnil et lovis inclita proles |  |
-| 249 |  | SToSarpedon claraque satus tellure Coroebus. |  |
-| 250 | — | liis se defendit ducibus Neptunia Troia, | 250 |
+| 247 | Β 862 | florentes aetate viri, quos Phorcus et ingens |  |
+| 248 |  | Ascanius sequitur, simul et Iovis inclita proles |  |
+| 249 | 876 | Sarpedon claraque satus tellure Coroebus. |  |
+| 250 | — | his se defendit ducibus Neptunia Troia, | 250 |
 | 251 | — | vicissetque dolos Danaum, ni fata fuissent. |  |
 | 252 |  | iamque duae stabant acies fulgentibus armis, |  |
-| 253 | r 16 | cum Paris, exitium Troiae funestaque flamma, |  |
+| 253 | Γ 16 | cum Paris, exitium Troiae funestaque flamma, |  |
 | 254 | 30 | armatum adverso Menelaum ex agmine cernit |  |
-| 255 | 33 | seque velut viso perterritus angue recepit | 235 |
-| 256 | 38 | ad socios amens: quem postquam turpiter Hector |  |
+| 255 | 33 | seque velut viso perterritus angue recepit | 255 |
+| 256 | 38 | ad socios amens; quem postquam turpiter Hector |  |
 | 257 |  | confusum terrore videt, 'o dedecus' inquit |  |
 | 258 |  | 'aeternum patriae generisque infamia nostri, |  |
 | 259 |  | terga refers? at non dubitabas hospitis olim |  |
@@ -523,20 +556,21 @@ PDF page 171.
 
 ### Apparatus
 
-- **(cont.)** eunomus CFL^NV, et eunonius D, et enouius 31, et eunonus B, et euomonus E^
-- **247** forcus (ph- E^ 31) Sl, fortis DE^V-
-- **248** Ascanius il, Ascalaphus M | simul et iouis (iocas D) H, iouisque simul V 24» claraque (que om. CF) P., Thracaque NodeU \ c(h)or(o)ebus Sl, Pylaemen Baehrens
-- **251** Yicissetque (que om. B^N^) 5i, -entque ELN-B^ \ ni Sl, nisi CL
-- **252** lamque ii, Namque N
-- **253** Cum EW-L-, Dum PdV?) BCD FL^MNV \ exitium Sl, excidium E^M
-- **254** cernit CDEFLMNV, uidit PWB^
-- **257** 0 Sl, proh J.
-- **259** at P., an PVcc
-- **262** uario (-ia B^) in certamine BDE, uaria in certamina Sl \ uirtus corf. Santen., uis est Sl
-- **263** armis (i. in pugna) Sl, armas L, arma }.
-- **265** Dum il, Cnm D
-- **267** aduersis Sl, -sus W^ L^ | concurrat Sl. -et B
-- **270** Aduersas Sl, -si F \ post v. 270 addiderunt Quis uestrum melius sit tanta couiuge dignus L^ in margine, uestram nunc elenam sumat quis rectius ipsam E^ l
+- **(cont.)** eunomus CFL¹NV, et eunonius D, et enouius M, et eunonus B, et euomonus E¹
+- **247** forcus (ph- E¹M) Ω, fortis DE²V²
+- **248** Ascanius Ω, Ascalaphus M | simul et iouis (iocas D) Ω, iouisque simul V
+- **249** claraque (que om. CF) Ω, Thracaque Nodell | c(h)or(o)ebus Ω, Pylaemen Baehrens
+- **251** Vicissetque (que om. B¹N¹) Ω, -entque ELN²B³ | ni Ω, nisi CL
+- **252** Iamque Ω, Namque N
+- **253** Cum EW²L², Dum P(W¹?)BCDFL¹MNV | exitium Ω, excidium E¹M
+- **254** cernit CDEFLMNV, uidit PWB¹
+- **257** o Ω, proh λ
+- **259** at Ω, an PVα
+- **262** uario (-ia B¹) in certamine BDE, uaria in certamina Ω | uirtus cod. Santen., uis est Ω
+- **263** armis (i. in pugna) Ω, armas L, arma λ
+- **265** Dum Ω, Cum D
+- **267** aduersis Ω, -sus W¹L¹ | concurrat Ω, -et B
+- **270** Aduersas Ω, -si F | post v. 270 addiderunt Quis uestrum melius sit tanta coniuge dignus L² in margine, uestram nunc elenam sumat quis rectius ipsam E²λ
 
 ## p. 14
 
@@ -544,29 +578,30 @@ PDF page 172.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 271 | r | dixit. quem contra paucis Priameius heros |  |
-| 272 | 59 | "^quid nimis indignis' inquit 'me vocibus urges, |  |
+| 271 | Γ | dixit. quem contra paucis Priameius heros |  |
+| 272 | 59 | 'quid nimis indignis' inquit 'me vocibus urges, |  |
 | 273 |  | o patriae, germane, decus? nam nec mihi coniunx |  |
 | 274 |  | pravaque luxuria est potior virtutis honore |  |
 | 275 |  | nec vires temptare viri dextramque recuso, | 275 |
 | 276 |  | dummodo victorem coniunx cum pace sequatur.' |  |
 | 277 | 76 | dicta refert Hector; placuit sententia Grais. |  |
 | 278 | 116 | protinus accitur Priamus sacrisque peractis |  |
-| 279 |  | foedera iunguntur; post liaec discedit uterque |  |
+| 279 |  | foedera iunguntur; post haec discedit uterque |  |
 | 280 |  | depositis populus telis campusque patescit. | 280 |
 | 281 | 328 | interea toto procedit ab agmine Troum |  |
 | 282 |  | pulcher Alexander, clipeoque insignis et hasta. |  |
 | 283 | 339 | quem contra paribus fulgens Menelaus in armis |  |
 | 284 | — | constitit et 'tecum mihi sint certamina' dixit |  |
-| 285 | — | 'nec longum nostra laetabere coniuge, quae te | 2&5 |
-| 286 | — | mox raptum regemet, tantummodo luppiter adsit.' |  |
+| 285 | — | 'nec longum nostra laetabere coniuge, quae te | 285 |
+| 286 | — | mox raptum regemet, tantummodo Iuppiter adsit.' |  |
 | 287 |  | dixit et adversum se concitat acer in hostem. |  |
 | 288 |  | ille virum forti venientem reppulit ictu |  |
-| 289 |  | seque gradu celeri recipit longeque frementera |  |
-| 290 | 346 | hastam deinde iacit; quam devitavit Atrides | sso |
+| 289 |  | seque gradu celeri recipit longeque frementem |  |
+| 290 | 346 | hastam deinde iacit; quam devitavit Atrides | 290 |
 | 291 |  | inque vicem misso fixisset corpora telo |  |
 | 292 |  | praedonis Phrygii, ni vastum ferrea pectus |  |
 | 293 |  | texisset lorica viri, septemplice tergo |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 
 ### Testimonia
 
@@ -574,17 +609,18 @@ PDF page 172.
 
 ### Apparatus
 
-- **271** quem Sl, que L^X
-- **274** Pravaque van Kooten, Paruaque ^, Pronaque i, Priuaque Wakler
-- **278** accitur ^i*;i, accitus Sl
-- **279** h(a)ec Sl, hoc CL-, hac S \ discedit PWB2IE^C^N^, descendit C^DE^FL(N^?) V, decedit Brantsma
-- **281** procedit B CDEFL V W^, praecedit P W^ MN
-- **284** sint P WB L » MN, sunt CDEFVL^
-- **286** raptum regemet Volbner, rapuit (rapit D^) regem et (et oyn. BCD Helmst. L^ | modo Sl, mihi L^
-- **288** forti uenientem Sl, uenientem forti EL; cf. 434. Verg. Aen. 12,510 al.
-- **289** que alterum om. FMN \ frementem Sl, trementem Wernsdorf
-- **291** telo Sl, feno B
-- **292** ni [jiisiP^C^DV) Sl, in F 1 uastum il, uasti E^ qui etiam post pectus scripsit achiui post 293 lacuna nulla in codd.; ex. gr. supplevi percusso tetigit validi quam lancea Atridae; nain tergo est scuti non loricae
+- **271** quem Ω, que L¹λ
+- **274** Pravaque van Kooten, Paruaque Ω, Pronaque λ, Priuaque Wakker
+- **278** accitur EL²λ, accitus Ω
+- **279** h(a)ec Ω, hoc CL², hac δ | discedit PWBME²C²N², descendit C¹DE¹FL(N¹?)V, decedit Brantsma
+- **281** procedit BCDEFLVW², praecedit PW¹MN
+- **284** sint PWBL¹MN, sunt CDEFVL²
+- **286** raptum regemet Vollmer, rapuit (rapit D¹) regem et (et om. BCD Helmst. L²) | modo Ω, mihi L¹
+- **288** forti uenientem Ω, uenientem forti EL; cf. 434. Verg. Aen. 12, 510 al.
+- **289** que alterum om. FMN | frementem Ω, trementem Wernsdorf
+- **291** telo Ω, ferro B
+- **292** ni (nisi P¹C¹DV) Ω, in F | uastum Ω, uasti E¹ qui etiam post pectus scripsit achiui
+- **293** post 293 lacuna nulla in codd.; ex. gr. supplevi percusso tetigit validi quam lancea Atridae; nam tergo est scuti non loricae
 
 ## p. 15
 
@@ -592,8 +628,8 @@ PDF page 173.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 294 | ■ — | insequitur iuxta clamor; tum adversus uterque |  |
-| 295 | — | constitit et galeam galea terit et pede plautam | 2i>5 |
+| 294 | Γ — | insequitur iuxta clamor; tum adversus uterque |  |
+| 295 | — | constitit et galeam galea terit et pede plantam | 295 |
 | 296 | — | coniungit, stridetque mucro mucrone corusco, |  |
 | 297 | — | corpus collectum tegitur fulgentibus armis. |  |
 | 298 | — | non aliter fortes nitida de coniuge tauri |  |
@@ -601,14 +637,14 @@ PDF page 173.
 | 300 | — | atque diu rigido rimabant corpora ferro, | 300 |
 | 301 | — | cum memor Atrides raptae sibi coniugis instat |  |
 | 302 | 361 | Dardaniumque premit iuvenem. mox ense rigente |  |
-| 303 |  | cedentem retro dum desuper appetit bostem, |  |
+| 303 |  | cedentem retro dum desuper appetit hostem, |  |
 | 304 |  | splendidus extremas galeae percussus ad oras |  |
-| 305 |  | dissiluit mucro: gemuerunt agmina Graium. | 305 |
+| 305 |  | dissiluit mucro; gemuerunt agmina Graium. | 305 |
 | 306 |  | tum vero ardescit, quamvis manus ense carebat, |  |
-| 307 | 369 | et iuvenem arrepta prostemit casside victor |  |
-| 308 |  | ad socios j traheretque nisi caligine caeca |  |
-| 309 |  | texisset Cytberea virum subiectaque mento |  |
-| 310 | 875 | fortia rupisset laxatis vincula nodis, | sio |
+| 307 | 369 | et iuvenem arrepta prosternit casside victor |  |
+| 308 |  | ad socios † traheretque nisi caligine caeca |  |
+| 309 |  | texisset Cytherea virum subiectaque mento |  |
+| 310 | 375 | fortia rupisset laxatis vincula nodis, | 310 |
 | 311 |  | ultimus ille dies Paridi foret. abstrahit auro |  |
 | 312 |  | fulgentem galeam secum Menelaus et ardens |  |
 | 313 | 377 | in medios mittit proceres rursumque recurrit |  |
@@ -617,21 +653,23 @@ PDF page 173.
 
 ### Apparatus
 
-- **(cont.)** 89* tum (cum uel tum P) aduersus Sl, tunc uersu8 VE'
-- **295** galeam galea terit WCFLV, galea galeam terit PBDE, galeam terit galea ilf iV
-- **296** stridetqueii, stridet Di^^i 29T tnale versum in susviciomm vocaverunt L. Muller et Baehrens: cf. Verg. Aen. 12,491 et 10,412; armis i. scuto
-- **298** de Sl, pro 31 N-
-- **299** auras Sl, auram E 800 Atque Sl, Utque van Hoeufft, lamque a§S \ rigidoii, -di PTF' | rimabant 31 X, captabant PWBCDEFL V; cf. v. 456
-- **301** Cum Si, Tum PE
+- **294** tum (cum uel tum P) aduersus Ω, tunc uersus VE²
+- **295** galeam galea terit WCFLV, galea galeam terit PBDE, galeam terit galea MN
+- **296** stridetque Ω, stridet DE¹L
+- **297** male versum in suspicionem vocaverunt L. Müller et Baehrens: cf. Verg. Aen. 12, 491 et 10, 412; armis i. scuto
+- **298** de Ω, pro MN²
+- **299** auras Ω, auram E
+- **300** Atque Ω, Utque van Hoeufft, Iamque αβδ | rigido Ω, -di PW¹ | rimabant MN, captabant PWBCDEFLV; cf. v. 456
+- **301** Cum Ω, Tum PE
 - **302** male post iuvenem non distinguebant editiones recentes
-- **303** Cedentem (sine que) Sl, que add. X
-- **304** percussus Sl, percussit CDFL V
-- **305** Dis(s)iluit (-iit E) Sl, Des- B ; cf Verg. Aen. 12, 741
-- **308** Ad socios tra(li)eretque nisi (nisi in E) Sl, Ad socios traheret quod nisi D, Ad socios traheret quem ni ucp, Ad sociosque nisi traeret B; Ad sociosque trahit quera ni (et ni Baehrens) van Kooten
-- **311** Paridi Sl, -dis V
-- **313** medios Sl, medio W^C^D
-- **314** contorsit 52, int- P
-- **315** frigii VB*E*L-, frigi§ Sl \ quem uenus eripit (arr- B V, abr- D) Sl, quem eripuit {cum, glossa i. uenus paridem) MN
+- **303** Cedentem (sine que) Ω, que add. λ
+- **304** percussus Ω, percussit CDFLV
+- **305** Dis(s)iluit (-iit E) Ω, Des- B; cf. Verg. Aen. 12, 741
+- **308** Ad socios tra(h)eretque nisi (nisi in E) Ω, Ad socios traheret quod nisi D, Ad socios traheret quem ni αφ, Ad sociosque nisi traeret B; Ad sociosque trahit quem ni (et ni Baehrens) van Kooten
+- **311** Paridi Ω, -dis V
+- **313** medios Ω, medio W¹C¹D
+- **314** contorsit Ω, int- P
+- **315** frigii VB²E²L², frigię Ω | quem uenus eripit (arr- BV, abr- D) Ω, quem eripuit (cum glossa i. uenus paridem) MN
 
 ## p. 16
 
@@ -639,7 +677,7 @@ PDF page 174.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 316 | r | et secum in thalamos defert testudine cultos. |  |
+| 316 | Γ | et secum in thalamos defert testudine cultos. |  |
 | 317 | 383 | ipsa dehinc Helenam muris accersit ab altis |  |
 | 318 |  | Dardanioque suos Paridi deducit amores. |  |
 | 319 |  | quem tali postquam conspexit voce locuta est |  |
@@ -647,30 +685,34 @@ PDF page 174.
 | 321 |  | coniugis antiqui? vidi puduitque videre, |  |
 | 322 |  | arreptum cum te traheret violentus Atrides |  |
 | 323 |  | Iliacoque tuos foedaret pulvere crines. |  |
-| 324 |  | nostraque (me miseramj timui ne Doricus ensis |  |
-| 325 |  | oscula discuteret; totus mihi mente f relicta | 325 |
+| 324 |  | nostraque (me miseram) timui ne Doricus ensis |  |
+| 325 |  | oscula discuteret; totus mihi mente † relicta | 325 |
 | 326 |  | fugerat ore color sanguisque reliquerat artus. |  |
-| 327 |  | quis te cuiu saevo contendere suasit Atrida? |  |
+| 327 |  | quis te cum saevo contendere suasit Atrida? |  |
 | 328 |  | an nondum vaga fama tuas pervenit ad aures |  |
 | 329 |  | de virtute viri? moneo, ne rursus inique |  |
 | 330 |  | illius tua fata velis committere dextrae.' | 330 |
 | 331 |  | dixit, tum largis perfudit fletibus ora. |  |
 | 332 | 438 | tristis Alexander 'non me superavit Atrides, |  |
-| 333 |  | 0 meus ardor' ait, *sed castae Pallados ira. |  |
+| 333 |  | o meus ardor' ait, 'sed castae Pallados ira. |  |
 | 334 |  | mox illum nostris succumbere turpiter armis |  |
 | 335 |  | aspicies aderitque meo Cytherea labori.' | 335 |
 
 ### Apparatus
 
-- **(cont.)** 816 Et^, At C, Ad F, Ac V \ cultos Guelf. 76,3 Extr. 2\ custos PW^CDI V, cuptos W^, comptos MNa§d, tutos E'^, ///tus L\ cinctos L^, tectos E^B^ (B'- n. l.),; cf. Ov. met. 2,737
-- **317** accersit P WVB-, arccersit (sic)E\ arcessit CDFLMXE^ 818 suos Sl, suo L 819 Quem (Que L) t. p. c. v. 1. e. Sl, Qnem postquam conspexit tali uoce 1. e. B 823 que om. B^F^-L^ \ tuos Sl, tue 7.^ I puluere .% crimine N^
-- **325** discuteret PWBL-, disiiceret £"1/^, discideret CZ) F F, diuideret MN \ totusii, toto EL I mihi li, oin. M^N \ relicta ^, relictea. floril. Philip})., relictae J.. deBooy, reuincta 5ae/?miS,- an rigenti.^
-- **326** color iQ, calor MNE^
-- **327** te PWB^C, tibi DFFLMNVB^ contendere suasit (s. c. E^) DLE"'B\ cont. iussit PWBK'FM NV; cf V. 547 \ atrida i^>, -de E'
-- **328** An PWB^E-, Aut CDFLMNV, Et E' \ uacra fama ii, fama uagas E' 829 inique EFLMN, iniqu§ PWBCD V
-- **331** perfudit PWB^E, perfundit CDFLB^, profundens MNV
-- **333** ardor i^, amor W' I cast(a)ePTr5i-, caut(a)e CDFL^MNVE^ causte £'' : palladis ii, commodis L^
-- **335** Aspicies ii, -res M, -re res iS'^ aderitque (que om. M) meo (mea £■, nostro BhP^, aderit modo F
+- **316** Et Ω, At C, Ad F, Ac V | cultos Guelf. 76, 3 Extr. 2°, custos PW¹CDFV, cũptos W², comptos MNαβδ, tutos E¹, ///tus L¹, cinctos L², tectos E²B³ (B¹ n. l.); cf. Ov. met. 2, 737
+- **317** accersit PWVB², arccersit (sic) E¹, arcessit CDFLMNE²
+- **318** suos Ω, suo L
+- **319** Quem (Que L) t. p. c. v. l. e. Ω, Quem postquam conspexit tali uoce l. e. B
+- **323** que om. B¹F¹L¹ | tuos Ω, tue L¹ | puluere Ω, crimine N¹
+- **325** discuteret PWBL², disiiceret EL¹, discideret CDFV, diuideret MN | totus Ω, toto EL | mihi Ω, om. M¹N | relicta Ω, relictęa floril. Philipp., relictae A. de Rooy, reuincta Baehrens; an rigenti?
+- **326** color Ω, calor MNE²
+- **327** te PWB¹C, tibi DEFLMNVB³ | contendere suasit (s. c. E¹) DLE²B³, cont. iussit PWB¹CFMNV; cf. v. 547 | atrida Ω, -de E¹
+- **328** An PWB¹E², Aut CDFLMNV, Et E¹ | uaga fama Ω, fama uagas E¹
+- **329** inique EFLMN, iniquę PWBCDV
+- **331** perfudit PWB¹E, perfundit CDFLB³, profundens MNV
+- **333** ardor Ω, amor W¹ | cast(a)e PWBL², caut(a)e CDFL¹MNVE², causte E¹ | palladis Ω, commodis L¹
+- **335** Aspicies Ω, -res M, -re res N¹ | aderitque (que om. M) meo (mea E, nostro B¹) Ω, aderit modo V
 
 ## p. 17
 
@@ -678,15 +720,15 @@ PDF page 175.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 336 | ^ 447 | post liaec amplexus per mutua corpora iunctis |  |
-| 337 |  | incubuit membris Cygueidos; illa soluto |  |
-| 338 | — | accepit flamiuas gremio Troiaeque suasque. |  |
-| 339 | 449 | interea toto Menelaus in agmiue Trouiu |  |
+| 336 | Γ 447 | post haec amplexus per mutua corpora iunctis |  |
+| 337 |  | incubuit membris Cygneidos; illa soluto |  |
+| 338 | — | accepit flammas gremio Troiaeque suasque. |  |
+| 339 | 449 | interea toto Menelaus in agmine Troum |  |
 | 340 |  | quaerit Alexandrum victorque huc fertur et illuc. | 340 |
-| 341 | 455 | q lem frater socias acuens in bella catervas |  |
-| 342 |  | adiuvat et forti jduIsos Phrygas increpat ore |  |
+| 341 | 455 | quem frater socias acuens in bella catervas |  |
+| 342 |  | adiuvat et forti pulsos Phrygas increpat ore |  |
 | 343 |  | servarique iubet leges Helenamque reposcit. |  |
-| 344 | j 1 | dumque inter sese proceres certamen haberent, |  |
+| 344 | Δ 1 | dumque inter sese proceres certamen haberent, |  |
 | 345 |  | concilium omnipotens habuit regnator Olympi | 345 |
 | 346 | 124 | foederaque intento turbavit Pandarus arcu, |  |
 | 347 |  | te, Menelae, petens; laterique volatile telum |  |
@@ -695,30 +737,32 @@ PDF page 175.
 | 350 |  | castraque tuta petit; quem doctus ab arte paterna | 350 |
 | 351 | 213 | Paeoniis curat iuvenis Podalirius herbis |  |
 | 352 | — | itque iterum in caedes horrendaque proelia victor. |  |
-| 353 | 823 | armavit fortes Agamemnonis ira Pelasgos |  |
+| 353 | 223 | armavit fortes Agamemnonis ira Pelasgos |  |
 | 354 |  | et dolor in pugnam cunctos communis agebat. |  |
-| 355 | 446 | bellum ingens oritur multuLaque utrimque cruoris | 355 |
+| 355 | 446 | bellum ingens oritur multumque utrimque cruoris | 355 |
 | 356 |  | funditur et totis sternuntur corpora campis; |  |
 
 ### Testimonia
 
-- **(cont.)** 8B5/6 = G^a Ber. 2, 180/1 (multum hinc illincque)
+- **355/6** = Gesta Ber. 2, 180/1 (multum hinc illincque)
 
 ### Apparatus
 
-- **(cont.)** 886 h(a)ec Sl, hoc B^F \ amplexus 5i, -xn B L W- E* Eelmstad. , iunctis vel uinctis (-tus C^) H, iuncti L-, iuncto E^ HeJmstad., iungens V 837 Incubuit ii, Incumbunt W^, Incumbit MN \ cigneidos E^, cineidos BMNV, cyneidos DW', cycnegos L^ ut vid., cyn W^, cynoidus P, cyneidus CF
-- **340** que Sl, om. L^
-- **341** Quem il, Cui L
-- **342** phryges vel friges, phriges Sl
+- **336** h(a)ec Ω, hoc B¹F | amplexus Ω, -xu BLW²E² Helmstad. iunctis vel uinctis (-tus C¹) Ω, iuncti L², iuncto E² Helmstad., iungens V
+- **337** Incubuit Ω, Incumbunt W¹, Incumbit MN | cigneidos E¹, cineidos BMNV, cyneidos DW², cycnegos L¹ ut vid., cyn W¹, cynoidus P, cyneidus CF
+- **340** que Ω, om. L¹
+- **341** Quem Ω, Cui L
+- **342** phryges vel friges, phriges Ω
 - **344** Dumque PWBEFV, Cumque CLMN
-- **345** Concilium E^^L TT'^, Cons- cett., Consiliumque MN
-- **346** pandaras Q.. pind- MN; cf. v. 239
-- **347** telum PWBLE^, ferrum CE^F MNV 849 Dissecat.Q, Discidit CF | gemebundus PWBC FLV, trem- EMN
-- **351** podalirius (-sius C) CEFL V, polydorius (-lid- P; PW^, polidarius BMNW-
-- **352** Itque V, Atque .Q I uictor P Tpi £"1^1 i r, uictrix Cir-, misit .E-F', uenit 31NB^, mittit illum B^
-- **353** fortes ii, fortesque MN
-- **354** cunctos H, -is F^
-- **355** oritur Sl, agitur W^ \ utrimque PWE^L^, utrumque E^L^, v.\x\xmqxie B C F M N V , hinc illincque Gesta Ber.
+- **345** Concilium E¹LW², Cons- cett., Consiliumque MN
+- **346** pandarus Ω, pind- MN; cf. v. 239
+- **347** telum PWBLE², ferrum CE¹FMNV
+- **349** Dissecat Ω, Discidit CF | gemebundus PWBCFLV, trem- EMN
+- **351** podalirius (-sius C) CEFLV, polydorius (-lid- P) PW¹, polidarius BMNW²
+- **352** Itque V, Atque Ω | uictor PW¹E¹F¹LV, uictrix CW², misit E²F², uenit MNB³, mittit illum B¹
+- **353** fortes Ω, fortesque MN
+- **354** cunctos Ω, -is F¹
+- **355** oritur Ω, agitur W¹ | utrimque PWE²L², utrumque E¹L¹, uirumque BCFMNV, hinc illincque Gesta Ber.
 
 ## p. 18
 
@@ -726,22 +770,22 @@ PDF page 176.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 357 | j 451 | inque vicem Troumque cadunt Danaumque catervae. |  |
+| 357 | Δ 451 | inque vicem Troumque cadunt Danaumque catervae. |  |
 | 358 |  | nec requies datur ulla viris; sonat undique Mavors |  |
 | 359 |  | telorumque volant cunctis e partibus imbres. |  |
-| 360 | 457 | occidit Antilochi rigido demersus in umbras | seo |
+| 360 | 457 | occidit Antilochi rigido demersus in umbras | 360 |
 | 361 |  | ense Thalysiades optataque lumina linquit. |  |
 | 362 | 473 | inde manu forti Graiorum terga prementem |  |
 | 363 |  | occupat Anthemione satum Telamonius Aiax |  |
 | 364 |  | et praedurato transfixit pectora telo: |  |
-| 365 | — | purpureo vomit ille animam cum sanguine mixtam^ | 365 |
+| 365 | — | purpureo vomit ille animam cum sanguine mixtam, | 365 |
 | 366 | 489 | ora rigat moriens. tum magnis Antiphus hastam |  |
 | 367 |  | viribus adversum conatus corpore toto |  |
-| 368 |  | torquet in Aeaciden: tehimque erravit ab hoste |  |
+| 368 |  | torquet in Aeaciden: telumque erravit ab hoste |  |
 | 369 |  | inque hostem cecidit, transfixit et inguine Leucon: |  |
 | 370 |  | concidit infelix prostratus vulnere forti | 370 |
 | 371 | — | et carpit virides moribundus dentibus herbas. |  |
-| 372 |  | f impiger f Atrides casu concussus amici |  |
+| 372 |  | † impiger † Atrides casu concussus amici |  |
 
 ### Testimonia
 
@@ -749,16 +793,22 @@ PDF page 176.
 
 ### Apparatus
 
-- **(cont.)** 857 troTimque c. danaumque iJ, danaumque c, troumque MN 858 mauors Sl, bellum E^ 859 cunctis e Sl, ex c. MN 860 liabent PWMN (E' et E^ in marg.), om. BCFLV | Antilochi Bondam, -chus £1 \ in P W3IN- (E^N^ n. l.), ad E^
-- **361** om. B^ \ Thalysiades Bondam, talesiades MN, t(h)alestiades (-is W^E^ PW^E\ t(h)ales ita des CFV, ///itades L' 862 forti Sl, graui B
+- **357** troumque c. danaumque Ω, danaumque c. troumque MN
+- **358** mauors Ω, bellum E²
+- **359** cunctis e Ω, ex c. MN
+- **360** habent PWMN (E¹ et E² in marg.), om. BCFLV | Antilochi Bondam, -chus Ω | in PWMN² (E¹N¹ n. l.), ad E²
+- **361** om. B¹ | Thalysiades Bondam, talesiades MN, t(h)alestiades (-is W²E²) PW¹E¹, t(h)ales ita des CFV, ///itades L¹
+- **362** forti Ω, graui B
 - **363** Anthemione Bondam, amphibione (-bone P) PWCFV, amphy//one L, amphione BEMN
-- **364** praedurato BGEFLVP^ perdurato W (P^ ut vid.), sua durato M, /durato N \ pectora 52, corpora MNB^ \ telo Sl, ferro B^ 865 Purpureo Vollmer, -eam .Ji | u. i. a. Sl, ille a. u. CF^ \ cf Verg. Aen. 9, 349
-- **366** tum Sl, tunc CFV\ magnis Sl, maximus E (E^ om. v. 367, suppl. E^j
-- **367** aduersum PWBL', -sam FL^MNVE^ -sa C \ conatus i2 (cf v. 462 et Ov. met. 8, 366), conixus Wernsdorf ex Aen. 9, 410
-- **368** eacidem B C FMNV, aiacem PWEL
-- **369** transfixit et PWCF^ (et N^ ut vid.), transfixit in MVB^F^N-, cadit ictus (cinctus E^) in E^L^, tunc ictus in B^E^, cadit ictusque L^ \ inguine Sl, -na P W^ 870 forti Sl, tristi MN
-- **371** Et carpit Sl, Carpit N, Carpebat M \ moribundus Sl, -dis Migt
-- **372** Inpiger atrides Sl, Hinc Laertiades optime Bondam, Impiger ast Ithacus Weytingh \ concussus P, com(m)otu6 WBCEFLMNV
+- **364** praedurato BCEFLVP², perdurato W (P¹ ut vid.), sua durato M, ;durato N | pectora Ω, corpora MNB¹ | telo Ω, ferro B¹
+- **365** Purpureo Vollmer, -eam Ω | u. i. a. Ω, ille a. u. CF¹ | cf Verg. Aen. 9, 349
+- **366** tum Ω, tunc CFV | magnis Ω, maximus E (E¹ om. v. 367, suppl. E³)
+- **367** aduersum PWBL², -sam FL¹MNVE³, -sa C | conatus Ω (cf. v. 462 et Ov. met. 8, 366), conixus Wernsdorf ex Aen. 9, 410
+- **368** eacidem BCFMNV, aiacem PWEL
+- **369** transfixit et PWCF¹ (et N¹ ut vid.), transfixit in MVB³F²N², cadit ictus (cinctus E¹) in E¹L¹, tunc ictus in B¹E³, cadit ictusque L² | inguine Ω, -na PW²
+- **370** forti Ω, tristi MN
+- **371** Et carpit Ω, Carpit N, Carpebat M | moribundus Ω, -dis Higt
+- **372** Inpiger atrides Ω, Hinc Laertiades optime Bondam, Impiger ast Ithacus Weytingh | concussus P, com(m)otus WBCEFLMNV
 
 ## p. 19
 
@@ -766,40 +816,46 @@ PDF page 177.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 373 | '499 | Deinocoonta petit teloque adversa trabali |  |
-| 374 |  | tempora transadigit vaginaque horridus enseni |  |
+| 373 | Δ 499 | Democoonta petit teloque adversa trabali |  |
+| 374 |  | tempora transadigit vaginaque horridus ensem |  |
 | 375 |  | eripit; ille suis moriens resupinus in armis | 375 |
 | 376 |  | concidit et terram moribundo vertice pulsat. |  |
-| 377 | 617 | iamque Amarynciden saxi deiecerat ictu |  |
+| 377 | 517 | iamque Amarynciden saxi deiecerat ictu |  |
 | 378 |  | impiger Imbrasides dederatque silentibus umbris: |  |
 | 379 |  | dumque avidus praedae iuvenem spoliare parabat, |  |
-| 380 | 527 | desuper basta venit dextra librata Thoantis | sso |
+| 380 | 527 | desuper hasta venit dextra librata Thoantis | 380 |
 | 381 |  | perque viri scapulas animosaque pectora transit. |  |
 | 382 |  | in vultus ruit ille suos calidumque cruorem |  |
 | 383 |  | ore vomit stratusque super sua palpitat arma. |  |
-| 384 |  | sanguine Dardanii manabant undique campi. |  |
-| 385 |  | manabant amnes passim; pugnatur ubique | 335 |
+| 384 |  | sanguine Dardanii manabant undique campi, |  |
+| 385 |  | manabant amnes passim; pugnatur ubique | 385 |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 | 386 |  | inmixtis ardens amborum exercitus armis |  |
 | 387 |  | et modo Troianis, modo virtus crescit Achivis |  |
 | 388 |  | laetaque per varios petitur victoria casus. |  |
-| 389 | E 1 | hic postquam Danaum longe cedentia vidit |  |
+| 389 | Ε 1 | hic postquam Danaum longe cedentia vidit |  |
 | 390 |  | agmina Tydides tumidumque increscere Martem, | 390 |
 | 391 |  | in medias acies, qua plurimus imminet hostis, |  |
 
 ### Apparatus
 
-- **(cont.)** S7S Democoonta Bondam, demof- vel demoph- iJ i teloque P.. telo tum V
-- **374** Timpora 9. \ transadigit L et jV iit vid.. transadiit P (W^?)B^C(E^?jF^Y, transegit MW^E-B^]S\ transfigit F- ; cf. v. 409 ] uaginaque Sl, -que et C^F, -na et V
-- **376** moribundo van der Dussen, -us Sl; cf. Ov. met. 5,Si
-- **377** lamque Amaiynciden Schrader, Inque mare (a)egeum BCEFL^ V, Inmanem egeum MKL-, Post h^a)ec egeum PW HeJmstad.
-- **378** Inpiger iJ. Piros Schrader | imbrasides L, umbrasides '-tides E\ -dides Ch PWCFEB^ fB' n. l), umbrasidem V, imbrisiles MX 37» pr(a)edae Sl, pugnae P
-- **380** t(h)oantis £1, ton- P^F^
-- **381** aniraosaque qp, annosaque (que oin. E) 9., pannosa M, per annosa N \ pectora C EFL V. tempora (timp- MN) PW B MN Helmstad.
-- **382** calidumque P.., -usque MN^
-- **388** Ore uomit (-uit V) Sl, Euomit ore L^ \ que Sl, om. P^ 384 manabant i2, madescunt 31 N 385 pugnatur CEFL^M NVB^, pugnabat PWB^L^ post &Sb lacunam significavi; nuUa in codd. 386 Inmixtis ardens (-ent V, -et -F^ amborum ii, Amborum i. ardens M, Inmixstis (-us N^) amb ardens N 387 modo uirtus PMN, uirtus modo WBCEFLV
-- **389** Hic Sl, Sic CL^NB^
-- **390** martem il, mortem E^
-- **391** plurimus fl, -ia i^, -um V
+- **373** Democoonta Bondam, demof- vel demoph- Ω | teloque Ω, telo tum V
+- **374** Timpora Ω | transadigit L et N¹ ut vid., transadiit P (W¹?) B¹C(E¹?)F¹V, transegit MW³E²B³N², transfigit F²; cf. v. 409 | uaginaque Ω, -que et C¹F, -na et V
+- **376** moribundo van der Dussen, -us Ω; cf. Ov. met. 5, 84
+- **377** Iamque Amarynciden Schrader, Inque mare (a)egeum BCEFL¹V, Inmanem egeum MNL², Post h(a)ec egeum PW Helmstad.
+- **378** Inpiger Ω, Piros Schrader | imbrasides L, umbrasides (-tides E¹, -dides C¹) PWCFEB² (B¹ n. l.), umbrasidem V, imbrisiles MN
+- **379** pr(a)edae Ω, pugnae P
+- **380** t(h)oantis Ω, ton- P¹F¹
+- **381** animosaque φ, annosaque (que om. E) Ω, pannosa M, per annosa N | pectora CEFLV, tempora (timp- MN) PWBMN Helmstad.
+- **382** calidumque Ω, -usque MN¹
+- **383** Ore uomit (-uit V) Ω, Euomit ore L¹ | que Ω, om. P¹
+- **384** manabant Ω, madescunt MN
+- **385** pugnatur CEFL¹MNVB³, pugnabat PWB¹L² post 385 lacunam significavi; nulla in codd.
+- **386** Inmixtis ardens (-ent V, -et F²) amborum Ω, Amborum i. ardens M, Inmixstis (-us N¹) amb. ardens N
+- **387** modo uirtus PMN, uirtus modo WBCEFLV
+- **389** Hic Ω, Sic CL¹NB³
+- **390** martem Ω, mortem E¹
+- **391** plurimus Ω, -is F¹, -um V
 
 ## p. 20
 
@@ -807,43 +863,43 @@ PDF page 178.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 392 | £ | inruit et versas prosternit caede phalangas: |  |
-| 393 |  | huc illuc ensemque ferox liastamque coruscat. |  |
+| 392 | Ε | inruit et versas prosternit caede phalangas: |  |
+| 393 |  | huc illuc ensemque ferox hastamque coruscat. |  |
 | 394 | 4 | bellica Pallas adest flagrantiaque ignibus arma |  |
-| 395 |  | adiuvat atque animos iuveni viresque ministrat. | S95 |
+| 395 |  | adiuvat atque animos iuveni viresque ministrat. | 395 |
 | 396 | 136 | ille — boum veluti viso grege saeva leaena, |  |
 | 397 |  | quam stimulat ieiuna fames, ruit agmina contra |  |
 | 398 |  | et prostrata necat vesano corpora dente: |  |
-| 399 |  | sic ruit in medios bostes Calydonius heros, |  |
-| 400 |  | virginis armigerae monitis et numine tutus. | 4oo |
-| 401 |  | conversi dant terga Phr^ges; fugientibus ille |  |
+| 399 |  | sic ruit in medios hostes Calydonius heros, |  |
+| 400 |  | virginis armigerae monitis et numine tutus. | 400 |
+| 401 |  | conversi dant terga Phryges; fugientibus ille |  |
 | 402 |  | instat et exstructos morientum calcat acervos. |  |
 | 403 |  | dumque ferit sternitque viros, videt ecce Daretis |  |
 | 404 |  | adverso stantes furibundus in agmine natos, |  |
-| 405 | 11 | Phegeaque Idaeumqae simul; quem cuspide Phe- | 405 |
-| 406 |  | occupat ante gravi, sed vulnera depulit umbo | [geus |
+| 405 | 11 | Phegeaque Idaeumque simul; quem cuspide Phegeus | 405 |
+| 406 |  | occupat ante gravi, sed vulnera depulit umbo |  |
 | 407 |  | vitatumque solo ferrum stetit: haud mora, totis |  |
 | 408 |  | ingentem torquet Tydides viribus hastam |  |
 | 409 |  | transadigitque viri pectus; pars cuspidis ante |  |
-| 410 | — | eminet et prodit scapulis pars altera fossis. | 4io |
+| 410 | — | eminet et prodit scapulis pars altera fossis. | 410 |
 | 411 |  | hunc ubi fundentem calidum de pectore flumen |  |
 | 412 |  | versantemque oculos animamque per ora vomentem |  |
 
 ### Apparatus
 
-- **(cont.)** 3»2 phalanges (fal- B) Sl
-- **393** Huc illuc (que adcl. P) ensemque ferox (h)astamque (que otn. E^) c(h)oniscat (cruentat vel choruscat P) Sl, Huc illuc (que add. ilf *) ferox tunc ense (ferox enseque N) cor(r)uscat et asta 31 N
-- **396** IUe boum Sl, Elleborum M
-- **400** numine Sl, tecmine F^
-- **402** extructos C V L^Helmstad., ex(s)tinctos PWBE, constructos L^, instructos FMN
-- **403** ferit cod. Utrecht., furit Sl | Daretis Bondam., danites PCE^FN\ danitis MVN-, cloantis W- (W^ erasa) B\ erasum L
-- **404** Aduerso Sl, -sos CF
-- **405** Phegeaque Higt, Phegeumque Helmstad., Pregeumque (-nu L^, que om. B^E^L) BE^LN^W^, Egeumque P (W^ erasa) 31 N^, Pregneumque (que om. CV) CFV | Phegeus Schrader, pregueus PW, pr(a)eceps BCEFLMNV Helmstad.
-- **406** ante i2, ense B^ \ graui PWE^-L^, grauis BCE^FL^MNV
-- **408** sic Sl (titides fere); Torquet (Int- 31^ titides ing. u. astam 31, Intorquet ing. uir. tit. astam N
-- **409** Transadigitque B^LN^, Transadiitque PWCEFVB^, Transegitque 31 N^; cf. v. 374
-- **410** Eminet B'E'3IN, Imm- vel Inminet PWCFLV Helmstad.
-- **411** calidum Sl, -do P | pectore Sl, corpore MN
+- **392** phalanges (fal- B) Ω
+- **393** Huc illuc (que add. P) ensemque ferox (h)astamque (que om. E¹) c(h)oruscat (cruentat vel choruscat P) Ω, Huc illuc (que add. M²) ferox tunc ense (ferox enseque N) cor(r)uscat et asta MN
+- **396** Ille boum Ω, Elleborum M
+- **400** numine Ω, tecmine F¹
+- **402** extructos CVL² Helmstad., ex(s)tinctos PWBE, constructos L¹, instructos FMN
+- **403** ferit cod. Utrecht., furit Ω | Daretis Bondam, danites PCE¹FN¹, danitis MVN², cloantis W² (W¹ erasa) B¹, erasum L
+- **404** Aduerso Ω, -sos CF
+- **405** Phegeaque Higt, Phegeumque Helmstad., Pregeumque (-nũ L¹, que om. B¹E¹L) BE¹LN¹W², Egeumque P (W¹ erasa) MN², Pregneumque (que om. CV) CFV | Phegeus Schrader, pregneus PW, pr(a)eceps BCEFLMNV Helmstad.
+- **406** ante Ω, ense B¹ | graui PWE²L², grauis BCE¹FL¹MNV
+- **408** sic Ω (titides fere); Torquet (Int- M²) titides ing. u. astam M, Intorquet ing. uir. tit. astam N
+- **409** Transadigitque B¹LN¹, Transadiitque PWCEFVB², Transegitque MN²; cf. v. 374
+- **410** Eminet B¹E¹MN, Imm- vel Inminet PWCFLV Helmstad.
+- **411** calidum Ω, -do P | pectore Ω, corpore MN
 
 ## p. 21
 
@@ -851,9 +907,9 @@ PDF page 179.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 413 | E 20 | conspexit frater, stricto celer advolat ense |  |
+| 413 | Ε 20 | conspexit frater, stricto celer advolat ense |  |
 | 414 |  | germanique cupit fatorum existere vindex. |  |
-| 415 |  | sed neque vim saevi nec fortia sustinet arma | 4i5 |
+| 415 |  | sed neque vim saevi nec fortia sustinet arma | 415 |
 | 416 |  | Tydidae contraque tamen defendere temptat. |  |
 | 417 | — | ut volucris, discerpta sui cum corpora nati |  |
 | 418 | — | accipitrem laniare videt nec tendere contra, |  |
@@ -861,33 +917,35 @@ PDF page 179.
 | 420 | — | quodque potest, levibus plaudit sua pectora pennis: | 420 |
 | 421 |  | sic hostem Idaeus germani caede superbum |  |
 | 422 |  | spectat atrox miseroque nequit succurrere fratri |  |
-| 423 |  | et, nisi cessisset, destra cecidisset eadem. |  |
-| 424 | 38 | nec minus in Teucros armis furit f alter Atrides |  |
+| 423 |  | et, nisi cessisset, dextra cecidisset eadem. |  |
+| 424 | 38 | nec minus in Teucros armis furit † alter Atrides |  |
 | 425 |  | insequiturque acies et ferro funera miscet. | 425 |
 | 426 |  | obvius huic fatis occurrit ductus iniquis |  |
 | 427 |  | infelix Odius, quem vastae cuspidis ictu |  |
 | 428 |  | sternit et ingenti scapulas transverberat hasta. |  |
 | 429 | 43 | hinc petit Idomeneus adversa parte ruentem |  |
 | 430 |  | Maeoniden Phaestum; cuius post funera laetus | 430 |
-| 431 | 40 | et Strophio genitum Stygias demittit ad umbras. |  |
+| 431 | 49 | et Strophio genitum Stygias demittit ad umbras. |  |
 | 432 | 59 | Meriones Phereclum librata percutit hasta, |  |
 | 433 | 69 | Pedaeumque Meges; tum vastis horridus armis |  |
 
 ### Apparatus
 
-- **(cont.)** 4U uindes Sl, uictor CF
-- **416** Tytid(a)e vel Tit- £1, -de E, -dis BL I que £1, om. F^L^
-- **417** uolucris PWB Helmstad. E^, uolucer CE^FLMNV | discerpta JS", decerpta PWMXE^L*, decepta BCFV Helmstad., degta i'
-- **419** neque Sl, nec X
-- **420** Quodque P^, Quamque CF \ plaudit fplangit E Hehnstad. B^ sua Sl, sua pulsat 31 X
-- **423** nisi PWL^INB^, ni B^CFV, ni corr. in nisi E'^
-- **424** alter Sl, ater E-, acer E^B^cc§S, haec vera ut videtuv coniectura
-- **425** que Sl, om. B^NV^ \ funera Sl, uulnera B^
-- **427** Hodius Bondam, r(h)odiu8 Sl
-- **428** ingenti Sl, -tes B 489 Hinc Sl, Hic W^B^^L^^V^ \ idomeneus F, -eu (-ou M) Sl, -eu ex B W'
-- **430** Maeoniden Phaestum Schrnder, Meridone vel -dione (Merione BMNL^) satum (-us MN-) Sl I post funera Sl, pro funere BCFV; cf. 518 \ l(ajetus Sl, Atrides Schrader
-- **431** Et Strophio Schrader. Et strepio PWB^C, Esiie^^io E'FLV, Estripio 31 N \ demittit FW\ dim- Sl
-- **432** Meriones P3P, -nis WBCEFLM^NV \ Phereclum Schrader, puerum Sl \ librata Sl, uibrata o:§3 \ percutit Sl. perculit Schrader 438 Pedaeumque Meges Schrader, tum
+- **414** uindex Ω, uictor CF
+- **416** Tytid(a)e vel Tit- Ω, -dē E, -dis BL | que Ω, om. F¹L¹
+- **417** uolucris PWB Helmstad. E³, uolucer CE¹FLMNV | discerpta E¹, decerpta PWMNE³L², decepta BCFV Helmstad., degta L¹
+- **419** neque Ω, nec λ
+- **420** Quodque Ω, Quamque CF | plaudit (plangit E Helmstad. B³) sua Ω, sua pulsat MN
+- **423** nisi PWLMNB³, ni B¹CFV, ni corr. in nisi E¹
+- **424** alter Ω, ater E², acer E³B³αβδ, haec vera ut videtur coniectura
+- **425** que Ω, om. B¹NV¹ | funera Ω, uulnera B¹
+- **427** Hodius Bondam, r(h)odius Ω
+- **428** ingenti Ω, -tes B
+- **429** Hinc Ω, Hic W¹B¹L¹V¹ | idomeneus F, -eũ (-oũ M) Ω, -eũ ex BW²
+- **430** Maeoniden Phaestum Schrader, Meridone vel -dione (Merione BMNL²) satum (-us MN²) Ω | post funera Ω, pro funere BCFV; cf. 518 | l(a)etus Ω, Atrides Schrader
+- **431** Et Strophio Schrader, Et strepio PWB¹C, Estrepio E¹FLV, Estripio MN | demittit FW², dim- Ω
+- **432** Meriones PM², -nis WBCEFLM¹NV | Phereclum Schrader, puerum Ω | librata Ω, uibrata αβδ | percutit Ω, perculit Schrader
+- **433** Pedaeumque Meges Schrader, tum
 
 ## p. 22
 
@@ -895,36 +953,38 @@ PDF page 180.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 434 |  | ETeEurypylus gladio venientem Hypsenora fundit |  |
+| 434 | Ε 76 | Eurypylus gladio venientem Hypsenora fundit |  |
 | 435 |  | et pariter vita iuvenem spoliavit et armis. | 435 |
 | 436 | 95 | parte alia volitat sinuoso Pandarus arcu |  |
 | 437 |  | Tydidenque oculis inmensa per agmina quaerit. |  |
-| 438 |  | quem postquam Troum stementem corpora vidit, |  |
+| 438 |  | quem postquam Troum sternentem corpora vidit, |  |
 | 439 |  | horrida contento derexit spicula cornu |  |
 | 440 |  | et summas umeri destringit acumine partes. | 440 |
 | 441 |  | tum vero ardescit iuvenis Calydonius ira |  |
 | 442 | 136 | in mediasque acies animosi more leonis |  |
-| 443 | 144 | fertur et Astynoum magnumque •![ Hyperona | fundit: |
-| 444 |  | comminus liunc gladio, iaculo ferit eminus illum. |  |
-| 445 | 148 | inde premit Polyidon Abantaque cuspide forti | 445 |
+| 443 | 144 | fertur et Astynoum magnumque † Hyperona fundit: |  |
+| 444 |  | comminus hunc gladio, iaculo ferit eminus illum. |  |
+| 445 | 148 | inde premit Polyïdon Abantaque cuspide forti | 445 |
 | 446 | 152 | et notum bello Xanthum vastumque Thoonem. |  |
-| 447 | 160 | post hos infestos Chromiumque et Echemmona | telo |
+| 447 | 160 | post hos infestos Chromiumque et Echemmona telo |  |
 | 448 |  | proturbat celeri pariterque ad Tartara mittit. |  |
 | 449 | 290 | tu quoque Tydidae prostratus, Pandare, dextra |  |
-| 450 |  | occidisj infeliXj accepto vulnere tristi, | 450 |
+| 450 |  | occidis, infelix, accepto vulnere tristi, | 450 |
 
 ### Apparatus
 
-- **(cont.)** uastis L. Muller: Phegeumque (Pregeumq; BCE^L^, Pregeiumq; F, Pergeumq; MN, Pregneum quoq; T') megestus (-eus L^, mestus V) uastisque (que om. E) iJ
-- **434** Euripilus (-phil- MN, -rupil- il CEFLMNVW^, Eripides (Eur- B) PW^B \ uenientem BLE^T(^a^S, uehementem PW^CE^FV, uetuentem MN; cf, v. 288 \ Hypsenora Bondam, (h)erpedona ii | fundit (-at W^) PWCFLV, fudit BEMN
-- **435** uita iuuenem PWELMN, iu. uita (-a V) BCFV
-- **436** uolitat Sl, -ant E\ -ans 31 N \ pandarus Sl, pind- EMN; cf. v. 239
-- **439** direxit (dil- 31) Sl
-- **440** distringit Sl. -xit B^MNW^, destrinxit E^ | acumine Sl, arundine B^
-- **442** que P WB3INL^, om. CEFL^ V
-- **443** Astynoum Bondam, astrondam (PW^) vel astronium fere Sl | que .2, quoque B^ \ Hypirona Bondam, hypenora (hype- P) Sl, erpenora V, alpenora MN \ in Hyp. tendit L. 3fuUer, ut Hyp. Tidit Wakker melius 44B PoWidon Bondam, polidona Sl ] Thoonem Bondam, t(h)oantem (-tum BCE^FV) Sl
-- **447** iufestos (-us N^) Sl; sprevi infesto; cf. v. 505 \ Chromiumqne Bondam, cronumque PW^L, croniumque BEVW-, comumque CF, cormumque N, cordiumque 31 | et Echemona Bondam, et stemona (stre- P, te- B) Sl 4iS Froturh&t E'L 31 N,FeTt-PWBC FVE^
-- **449** titidae (tyt- PL) Sl, -dis B \ pandare (pind- E^MN, pandere P^CFL VB-) dextra Sl, uulnere forti B'
+- **(cont.)** uastis L. Müller: Phegeumque (Pregeumq; BCE¹L¹, Pregeiumq; F, Pergeumq; MN, Pregneum quoq; V) megestus (-eus L², mestus V) uastisque (que om. E) Ω
+- **434** Euripilus (-phil- MN, -rupil- L) CEFLMNVW², Eripides (Eur- B) PW¹B | uenientem BLE³W²αβδ, uehementem PW¹CE¹FV, uetuentem MN; cf. v. 288 | Hypsenora Bondam, (h)erpedona Ω | fundit (-at W¹) PWCFLV, fudit BEMN
+- **435** uita iuuenem PWELMN, iu. uita (-ã V) BCFV
+- **436** uolitat Ω, -ant E¹, -ans MN | pandarus Ω, pind- EMN; cf. v. 239
+- **439** direxit (dil- M) Ω
+- **440** distringit Ω, -xit B¹MNW², destrinxit E¹ | acumine Ω, arundine B¹
+- **442** que PWBMNL², om. CEFL¹V
+- **443** Astynoum Bondam, astrondam (PW¹) vel astronium fere Ω | que Ω, quoque B³ | Hypirona Bondam, hypenora (hype- P) Ω, erpenora V, alpenora MN | in Hyp. tendit L. Müller, ut Hyp. vidit Wakker melius
+- **445** Polyidon Bondam, polidona Ω | Thoonem Bondam, t(h)oantem (-tum BCE¹FV) Ω
+- **447** infestos (-us N¹) Ω; sprevi infesto; cf. v. 505 | Chromiumque Bondam, cronumque PW¹L, croniumque BEVW², cornumque CF, cormumque N, cordiumque M | et Echemona Bondam, et stemona (stre- P, te- B) Ω
+- **448** Proturbat E¹LMN, Pert- PWBCFVE²
+- **449** titidae (tyt- PL) Ω, -dis B | pandare (pind- E¹MN, pandere P¹CFLVB²) dextra Ω, uulnere forti B¹
 
 ## p. 23
 
@@ -932,48 +992,45 @@ PDF page 181.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 451 | £ | dextera qua naris fronti coniungitur iniae; |  |
+| 451 | Ε | dextera qua naris fronti coniungitur imae; |  |
 | 452 |  | dissipat et cerebrum galeae cum parte revulsum |  |
 | 453 |  | ossaque confossa spargit Tydeius ensis. |  |
-| 454 | 2dT | iamque manum Aeneas simul et Calydonius heros |  |
+| 454 | 297 | iamque manum Aeneas simul et Calydonius heros |  |
 | 455 |  | contulerant: iactis inter se comminus hastis | 455 |
 | 456 | — | undique rimabant inimico corpora ferro |  |
 | 457 | — | et modo cedebant retro, modo deinde coibant. |  |
-| 458 | — | postquam utrique diu steterant nec vuhiera magnus |  |
-| 459 | — | qua daret infesto Tydides ense videbat^ |  |
-| 460 | 302 | saxum ingens, medio quod forte iacebat in agro, | ao |
+| 458 | — | postquam utrique diu steterant nec vulnera magnus |  |
+| 459 | — | qua daret infesto Tydides ense videbat, |  |
+| 460 | 302 | saxum ingens, medio quod forte iacebat in agro, | 460 |
 | 461 |  | bis seni quod vix iuvenes tellure moverent, |  |
 | 462 |  | sustulit et magno conamine misit in hostem. |  |
 | 463 |  | ille ruit prostratus humi cum fortibus armis; |  |
 | 464 | 312 | quem Venus aethereas genetrix delapsa per auras |  |
 | 465 |  | accipit et nigra corpus caligine condit. | 465 |
 | 466 |  | non tulit Oenides animis nebulasque per ipsas |  |
-| 467 | 330 | fertur et in Yenerem flagrantibus irruit armis |  |
-| 468 | — | et neque quem demens ferro petat inspicit |  |
+| 467 | 330 | fertur et in Venerem flagrantibus irruit armis |  |
+| 468 | — | et neque quem demens ferro petat inspicit . . . . . |  |
 | 469 | 336 | caelestemque manum mortali vulnerat hasta. |  |
 | 470 |  | icta petit caelum terris Cytherea relictis | 470 |
 
-### Testimonia
-
-- **(cont.)** 481 Dextera PWCEB^L^, Dextra FMNY, Dexter B\ Dexta L^ 4B2 Dissipat ^, Dissecat P
-- **453** que P,, om. M^N\ confossa Sl, -i B L- \ spargit i2, sparsit P | Tydeius Hehisius, titideus (-eius B^, -ius E^) fere Sl
-- **454** lamque Sl, Tumque 5, Tuncque F£'
-- **455** iactis Sl, iactisque van Kooten inutiliter, modo ante iactis distinguas cum oc§
-- **456** rimabant (que add. MN) Sl, rimantur C ; cf. v. 300 | corpora Sl. uiscera 31 N
-- **458** utrique PW^MNVB^ utrimque L, uterque B^CEFWeteterant i2, -at CEW-
-- **459** infesto 52, -sta B^MN
-- **460** quod ii, quajB^
-- **461** mouerent Pa§8, -bant WCEFL^MNV, leuarent BL^; cf. Verg. Aen. 12,899
-- **463** humi PWE^, humo BCFLMNVE^
-- **464** delapsa ii, dil- PBE^
-- **465** Accipit Si., Exc- ex v. 614 Higt; at cf. Thes. 1 311,44 \ nigra corpus Sl, c. n. P I condit PWV, texit BCEFL, tegit MN
-- **466** oenides §3cp, gnides L^, (a)eonides ii, eolides B^, titides N^ animis CEFL; cf. Verg. Aen. S,256, -mo PWMB^N-, -mos B^N^V
-- **468** Sed (Et BLN) neque Sl, Nec quoque V \ inepicit armis (aruis P TT^ F) PW^CFVB^, insp. ante E^LN, item sed ss. armis 3P, insp. hostem B^E^
-- **469** (h)asta Sl, ense E
-
 ### Apparatus
 
-- **(cont.)** Poef. Lat. JUnores II, 3. ed. Vollmer. 3
+- **451** Dextera PWCEB²L², Dextra FMNV, Dexter B¹, Dexta L¹
+- **452** Dissipat Ω, Dissecat P
+- **453** que Ω, om. M¹N | confossa Ω, -i BL² | spargit Ω, sparsit P | Tydeius Heinsius, titideus (-eius B¹, -ius E¹) fere Ω
+- **454** Iamque Ω, Tumque B, Tuncque VE³
+- **455** iactis Ω, iactisque van Kooten inutiliter, modo ante iactis distinguas cum αβ
+- **456** rimabant (que add. MN) Ω, rimantur C; cf. v. 300 | corpora Ω, uiscera MN
+- **458** utrique PW¹MNVB³, utrimque L, uterque B¹CEFW² steterant Ω, -at CEW²
+- **459** infesto Ω, -sta B¹MN
+- **460** quod Ω, qua B¹
+- **461** mouerent Pαβδ, -bant WCEFL¹MNV, leuarent BL²; cf. Verg. Aen. 12, 899
+- **463** humi PWE¹, humo BCFLMNVE³
+- **464** delapsa Ω, dil- PBE¹
+- **465** Accipit Ω, Exc- ex v. 614 Higt; at cf. Thes. I 311, 44 | nigra corpus Ω, c. n. P | condit PWV, texit BCEFL, tegit MN
+- **466** oenides βδφ, ęnides L², (a)eonides Ω, eolides B¹, titides N¹ animis CEFL; cf. Verg. Aen. 8, 256, -mo PWMB³N², -mos B¹N¹V
+- **468** Sed (Et BLN) neque Ω, Nec quoque V | inspicit armis (aruis PW¹V) PW¹CFVB³, insp. ante E¹LN, item sed ss. armis M¹, insp. hostem B¹E³
+- **469** (h)asta Ω, ense E
 
 ## p. 24
 
@@ -981,12 +1038,12 @@ PDF page 182.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 471 | E 370 | atque ibi sidereae queritur sua vulnera matri. |  |
+| 471 | Ε 370 | atque ibi sidereae queritur sua vulnera matri. |  |
 | 472 | 344 | Dardanium Aenean servat Troianus Apollo |  |
 | 473 | 513 | accenditque animos iterumque ad bella reducit. |  |
 | 474 | — | undique consurgunt acies et pulvere caelum |  |
 | 475 | — | conditur horrendisque sonat clamoribus aether. | 475 |
-| 476 | — | liic alius rapido deiectus in aequora curru |  |
+| 476 | — | hic alius rapido deiectus in aequora curru |  |
 | 477 | — | proteritur pedibusque simul calcatur equorum |  |
 | 478 | — | atque alius volucri traiectus tempora telo |  |
 | 479 | — | cornipedis tergo pronus ruit; illius ense |  |
@@ -997,7 +1054,7 @@ PDF page 182.
 | 484 |  | densaque Graiorum premit agmina nudaque late |  |
 | 485 |  | terga metit gladio funestaque proelia miscet. | 485 |
 | 486 | 494 | nec cessat spes una Phrygum fortissimus Hector |  |
-| 487 |  | steiTiere caede viros atque agmina vertere Graium. |  |
+| 487 |  | sternere caede viros atque agmina vertere Graium. |  |
 | 488 | — | ut lupus in campis pecudes cum vidit apertis |  |
 | 489 | — | (non actor gregis ipse, comes non horrida terret |  |
 | 490 | — | turba canum), fremit esuriens et neglegit omnes | 490 |
@@ -1005,25 +1062,27 @@ PDF page 182.
 
 ### Testimonia
 
-- **474** — 481 = Gesta Ber. 1,195 — 202 (476 in aequore cuisu)
-- **482** = Gesta Ber. 1, 204 s. 488—490 canum = Gesta Ber. 2,163—5
+- **474—481** = Gesta Ber. 1, 195—202 (476 in aequore cursu)
+- **482** = Gesta Ber. 1, 204 s.
+- **488—490** canum = Gesta Ber. 2, 163—5
 
 ### Apparatus
 
-- **471** sidereae q. s. v. matri van Dorp, sidereo q. s. u. marti Sl
-- **472** post Dardanium addunt que FL^ MNVB^, om. PWB^C EL-
-- **473** animos 9., -maa W^ \ ad bella (a. b. om. L'^) reducit Sl, ad praelia mittit F^
-- **474** et 9, ut F'^
-- **476** Hic PW^ B^LE^ Hinc CE^F2INVW-B^ \ (a)equora il, -re BL' Gesta Ber.
-- **477** Proteritur Sl, Cont- E^, Prostratus CF \ que ii, om. C^F^MN {in M et post simul)
-- **478** Atque Sl, ksi B^ \ uolucri Sl Gesta Ber., rapido 31 N | tempora Gesta Ber., corpora Sl, pectora B^L^
-- **479** Cornupedis Gesta Ber., Quadrupedis ii
-- **480** Deiectum Sl, Eei- P | cucurrit Sl, reuulsum B^ ex V. 452
-- **481** Hic P., Sic CFL"^ V \ fuso Sl, fixo CF
-- **484** Densaqueii^ Cunctaque F \ late Sl, telo MN-
-- **485** miscet ii, -ene {om. que) V
-- **487** atque Sl, simul F 48» Xon Sl, Nec E^ \ actor M-, auctor 9, ductor E \ versum sic solus dat B^: Non gregis auctor adest nec et orrida xnte | distinxi post ipse; solent post comes
-- **490** fremit JSigt, premit Sl \ esuriens Sl, exurgensPTF^
+- **471** sidereae q. s. v. matri van Dorp, sidereo q. s. u. marti Ω
+- **472** post Dardanium addunt que FL¹MNVB³, om. PWB¹CEL²
+- **473** animos Ω, -mas W¹ | ad bella (a. b. om. L¹) reducit Ω, ad praelia mittit F¹
+- **474** et Ω, ut F¹
+- **476** Hic PW¹B¹LE³, Hinc CE¹FMNVW²B³ | (a)equora Ω, -re BL² Gesta Ber.
+- **477** Proteritur Ω, Cont- E³, Prostratus CF | que Ω, om. C¹F¹MN (in M et post simul)
+- **478** Atque Ω, Ast B¹ | uolucri Ω Gesta Ber., rapido MN | tempora Gesta Ber., corpora Ω, pectora B¹L²
+- **479** Cornupedis Gesta Ber., Quadrupedis Ω
+- **480** Deiectum Ω, Rei- P | cucurrit Ω, reuulsum B¹ ex v. 452
+- **481** Hic Ω, Sic CFL¹V | fuso Ω, fixo CF
+- **484** Densaque Ω, Cunctaque F | late Ω, telo MN²
+- **485** miscet Ω, -ens (om. que) V
+- **487** atque Ω, simul F
+- **489** Non Ω, Nec E¹ | actor M², auctor Ω, ductor E | versum sic solus dat B¹: Non gregis auctor adest nec et orrida t̃nte | distinxi post ipse; solent post comes
+- **490** fremit Higt, premit Ω | esuriens Ω, exurgens PW¹
 
 ## p. 25
 
@@ -1031,41 +1090,44 @@ PDF page 183.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 492 | K | invadit Danaos et territat ense cruento. |  |
-| 493 | — | deficiunt Graiorum acies, Pliryges acrius instant |  |
-| 494 | — | attolluntque animos: geminat victoria vires. . |  |
+| 492 | Ε | invadit Danaos et territat ense cruento. |  |
+| 493 | — | deficiunt Graiorum acies, Phryges acrius instant |  |
+| 494 | — | attolluntque animos: geminat victoria vires. |  |
 | 495 |  | ut vidit socios infesto cedere marte | 495 |
-| 496 | 528 | rex Danaum^ sublimis equo volat agmina circum |  |
+| 496 | 528 | rex Danaum, sublimis equo volat agmina circum |  |
 | 497 |  | hortaturque duces animosque in proelia firmat. |  |
 | 498 |  | mox ipse in medios audax se proripit hostes |  |
 | 499 |  | oppositasque acies stricto diverberat ense. |  |
 | 500 | 161 | ut Libycus cum forte leo procul agmina vidit | 500 |
 | 501 |  | laeta boum passim virides errare per herbas, |  |
-| 502 |  | attoUit cervice iubas sitiensque cruoris |  |
+| 502 |  | attollit cervice iubas sitiensque cruoris |  |
 | 503 |  | in mediam erecto contendit pectore turbam: |  |
-| 504 | 53S | sic ferus Atrides adversos fertur in hostes |  |
-| 505 |  | infestaque Phrygum proturbat cuspide turmas, | 505 |
-| 506 |  | virtus clara ducis ^dres accendit Achivum |  |
+| 504 | 533 | sic ferus Atrides adversos fertur in hostes |  |
+| 505 |  | infestaque Phrygum proturbat cuspide turmas. | 505 |
+| 506 |  | virtus clara ducis vires accendit Achivum |  |
 | 507 |  | et spes exacuit languentia militis arma: |  |
 | 508 |  | funduntur Teucri, Danai laetantur ovantes. |  |
 | 509 |  | tandem hic Aenean immisso tendere curru |  |
-| 510 | 561 | conspicit Atrides: stricto concurrere ferro | .510 |
+| 510 | 561 | conspicit Atrides: stricto concurrere ferro | 510 |
 | 511 | — | comparat et iaculum, quantas furor ipse movebat, |  |
 | 512 | — | viribus intorquet, quod detulit error ab illo |  |
 
 ### Testimonia
 
-- **(cont.)** 500—508 fere = Gesta Ber. 1, 208—10 (500 cernit,
-- **502** Attollens)
+- **500—508** fere = Gesta Ber. 1, 208—10 (500 cernit, 502 Attollens)
 
 ### Apparatus
 
-- **(cont.)** 4»3 Deficiunt ^, Diffugiunt MN m quefl, om.B^E^M\ marte Sl, marti W^ u^d 4»7 que alterum dedit Sl, om. BMN 604 aduersos 52, au- W
-- **505** Infestasque i^-aque fJd) . . . turmas il, -amque . . . tuxmam MN \ proturbat EL 31 NB, pert- P WB CF V 608 l(a)etantur Sl, gratantur W'
-- **509** Tandem hic £1 (B aticeps), Et tandem hic PW^, Et tandem B^ \ aenean Bv', (a)enea WBCFLMN, eneam P, enea F. eneamque Ev^ \ inmisso BCE^ FLR, in ^= inde) misso MN, inmenso P, inmso W, dimisso V, admisso £"- | tendeie £1, contendere B C F \ curru £1, cursu F, cura L^, oin. N^
-- **510** stricto concurrere PW^BC FL\ strictoque occurrere EMNB VHehnstad. TF^X^
-- **511** Comparat PW^ELMNV, Apparat^ W^E^ Am^a.t Helmsta^., Et parat CF, abscissum in P, Se parat a§Scp \ quantas Hoeufft, quantum (-tus L^) £1, quautis Higt \ mouebat BCFN^B, monebat PWELM Helmstad.N^, sinebat V
-- **512** detulit Schrader ex Ov. met. 5,90; depulit 5i
+- **493** Deficiunt Ω, Diffugiunt MN
+- **494** que Ω, om. B¹E¹M | marte Ω, marti W²αβδ
+- **497** que alterum dedit Ω, om. BMN
+- **504** aduersos Ω, au- W
+- **505** Infestasque (-aque βδ) . . . turmas Ω, -amque . . . turmam MN | proturbat ELMNR, pert- PWBCFV
+- **508** l(a)etantur Ω, gratantur W²
+- **509** Tandem hic Ω (R anceps), Et tandem hic PW¹, Et tandem B¹ | aenean Rv², (a)eneā WBCFLMN, ęneam P, enea V, eneamque Ev¹ | inmisso BCE¹FLR, iñ (= inde) misso MN, inmenso P, inm̃so W, dimisso V, admisso E² | tendere Ω, contendere BCF | curru Ω, cursu F, cura L¹, om. N¹
+- **510** stricto concurrere PW¹BCFL¹, strictoque occurrere EMNRV Helmstad. W²L²
+- **511** Comparat PW¹ELMNV, Apparat BW²E³, Ampat Helmstad., Et parat CF, abscissum in R, Se parat αβδφ | quantas Hoeufft, quantum (-tus L²) Ω, quantis Higt | mouebat BCFN¹R, monebat PWELM Helmstad. N², sinebat V
+- **512** detulit Schrader ex Ov. met. 5, 90; depulit Ω
 
 ## p. 26
 
@@ -1073,30 +1135,42 @@ PDF page 184.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 513 | 0 119 | pectus in aurigae stomachoque infigitur alto: |  |
+| 513 | Θ 119 | pectus in aurigae stomachoque infigitur alto: |  |
 | 514 | — | ille ruens ictu media inter lora rotasque |  |
 | 515 | — | voluitur et vitam calido cum sanguine fundit. | 515 |
 | 516 | — | ingemit Aeneas curruque animosus ab alto |  |
-| 517 | £542 | desilit et valido Crethona\<que> comminus ictu |  |
+| 517 | Ε 542 | desilit et valido Crethona\<que> comminus ictu |  |
 | 518 |  | Orsilochumque ferit, quorum post funera victor |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 | 519 | 577 | Paphlagonum ductor Menelai concidit armis, |  |
-| 520 | 580 | Antilochique Mydon; post hos lovis inclita proles | 520 |
+| 520 | 580 | Antilochique Mydon; post hos Iovis inclita proles | 520 |
 | 521 |  | Sarpedon bellum funestaque proelia miscet. |  |
 | 522 |  | quem contra infelix non aequis dimicat armis |  |
-| 523 | 628 | Tlepolomus magno satus HerculCj sed neque vires |  |
+| 523 | 628 | Tlepolomus magno satus Hercule, sed neque vires |  |
 | 524 |  | hunc servare patris nec tot potuere labores, |  |
 | 525 |  | quin caderet tenuemque daret de corpore vitam. | 525 |
 | 526 | 663 | saucius egreditur medio certamine belli |  |
-| 527 | 669 | Sarpedon, fraudisque subit commentor Ylixes |  |
+| 527 | 669 | Sarpedon, fraudisque subit commentor Vlixes |  |
 | 528 | 677 | et septem iuvenum pulcherrima corpora fundit. |  |
-| 529 | 680 | hinc pugnat patriae eolumen Mavortius Hector, |  |
+| 529 | 680 | hinc pugnat patriae columen Mavortius Hector, |  |
 
 ### Apparatus
 
-- **(cont.)** BI8 alto (-ter V) Sl, alte van Kooten, at cf. Verg. Aen. 9, 699 614 ictu Sl, ictus PW^ BI6 fandit il, fudit E^MN 617 Crethonaque Higt, cret(li)eona (-tona B^E^)Sl 618 Orsilochumque Bondam, T(h)er8iloc(h)umque (Tors- B, Thessi- E^, -crumque JS) ii, Tersilicumq; P, Thersilchumq; E'- | post funera Sl, pro funere BGFV; cf. v. 430 | uictor Sl, uictus B^ \ post 618 contra codd. lacunam indicavi; Aeneas evitavit Menelaum et Antilochon (E 571ss.) 619 Falagonum E^, Paflagonem (-nu B, Plasfag- MN) Sl \ ductor menelai Sl, menelai ductorem P W 1 concidit BMNL^, condidit £1 620 Antilochique Mjdon Bonda?H, Antiloc(h)umque milon ii 621 Sarpedon bellum funestaq; pr(a)elia miscet PTrFi*, S. bellumq; et funera prelia miscet CF, S. in bella subit funestaq; plia (plia otn. E) miscet EL^R, S. in bella funesta prelia miscet 31 N, S. subiit funestaq. plia miscet B 622 ut supra Sl, Prelia quem contra non equis uirib. audet E
-- **523** Tlepolemus a§S, Striptolomus (Sti- B, -lem- E^LRW^ PWBE'LB, -lopus CF, Triptolomus (-emus T") MN V 624 Hunc Sl, Tunc P 626 certamine Sl, cont- P
-- **527** fraudisq; (q; om. 3P) subit Sl, fraudis subiit E
-- **528** pulcherrima Sl, fortissima PW \ fundit 5i (W^ erasa), fudit E M^ N^W*- 62» Hinc Sl, Sic B^ \ pugnat (-ant MN^) patri(a)e columen (culmen L, lumen B^) Sl, patrie pugnat lumen (s. s. culmen E^) E
+- **513** alto (-ter V) Ω, alte van Kooten, at cf. Verg. Aen. 9, 699
+- **514** ictu Ω, ictus PW¹
+- **515** fundit Ω, fudit E¹MN
+- **517** Crethonaque Higt, cret(h)eona (-tona B¹E¹) Ω
+- **518** Orsilochumque Bondam, T(h)ersiloc(h)umque (Tors- B, Thessi- E², -crumque R) Ω, Tersilicumq; P, Thersilchumq; E¹ | post funera Ω, pro funere BCFV; cf. v. 430 | uictor Ω, uictus B¹ | post 518 contra codd. lacunam indicavi; Aeneas evitavit Menelaum et Antilochon (E 571 ss.)
+- **519** Falagonum E³, Paflagonem (-nu B, Plasfag- MN) Ω | ductor menelai Ω, menelai ductorem PW | concidit BMNL², condidit Ω
+- **520** Antilochique Mydon Bondam, Antiloc(h)umque milon Ω
+- **521** Sarpedon bellum funestaq; pr(a)elia miscet PWVL², S. bellumq; et funera prelia miscet CF, S. in bella subit funestaq; p̃lia (p̃lia om. E) miscet EL¹R, S. in bella funesta prelia miscet MN, S. subiit funestaq. p̃lia miscet B
+- **522** ut supra Ω, Prelia quem contra non equis uirib. audet E
+- **523** Tlepolemus αβδ, Striptolomus (Sti- B, -lem- E¹LRW²) PWBE¹LR, -lopus CF, Triptolomus (-emus V) MNV
+- **524** Hunc Ω, Tunc P
+- **526** certamine Ω, cont- P
+- **527** fraudisq; (q; om. M¹) subit Ω, fraudis subiit E
+- **528** pulcherrima Ω, fortissima PW | fundit Ω (W¹ erasa), fudit EM¹N¹W²
+- **529** Hinc Ω, Sic B¹ | pugnat (-ant MN¹) patri(a)e columen (culmen L, lumen B¹) Ω, patrie pugnat lumen (s. s. culmen E³) E
 
 ## p. 27
 
@@ -1104,38 +1178,48 @@ PDF page 185.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 530 | E 793 | illinc Tydides: sternuntur utrimque virorum | 550 |
+| 530 | Ε 793 | illinc Tydides: sternuntur utrimque virorum | 530 |
 | 531 |  | corpora per campos et sanguine prata rigantur; |  |
-| 532 | 845 | pugnat bellipotens casta cum Pallade Mavors |  |
+| 532 | 846 | pugnat bellipotens casta cum Pallade Mavors |  |
 | 533 |  | ingentemque movet clipeum; quem sancta virago |  |
 | 534 |  | egit et extrema percussum cuspide caedit |  |
-| 535 | S67 | attonitumque simul caelum petere ipsa coegit; | 535 |
+| 535 | 867 | attonitumque simul caelum petere ipsa coegit; | 535 |
 | 536 |  | hic ille aethereo queritur sua vulnera regi |  |
-| 537 | 868 | saucius et magni genitoris iurgia suffert. |  |
-| 538 | z 8 | interea magnis Acamantem viribus Aiax |  |
+| 537 | 888 | saucius et magni genitoris iurgia suffert. |  |
+| 538 | Ζ 8 | interea magnis Acamantem viribus Aiax |  |
 | 539 | 37 | interimit, vastumque capit Menelaus Adrastum |  |
 | 540 | — | et rapit ad classes manibus post terga revinctis, | 540 |
-| 541 | — | ut vivo ducat laetos ex hoste triumpbos. |  |
-| 542 | 7s | incumbunt Danai, cedit Troiana iuventus |  |
+| 541 | — | ut vivo ducat laetos ex hoste triumphos. |  |
+| 542 | 73 | incumbunt Danai, cedit Troiana iuventus |  |
 | 543 |  | tergaque nuda tegit; sensit Mavortius Hector |  |
 | 544 |  | pro Danais pugnare deos validasque suorum |  |
 | 545 |  | virginis armigerae subduci numine vires, | 545 |
 | 546 |  | continuoque petit muros Hecabenque vocari |  |
 | 547 | 240 | imperat et divae placari numina suadet. |  |
-| 548 |  | protinus farmatas innuptae Pallados arces |  |
-| 549 | ■ | Hiades subeunt: festis altaria sertis |  |
-| 550 |  | exornant caeduntque sacras ex more bidentes. | seo |
+| 548 |  | protinus † armatas innuptae Pallados arces |  |
+| 549 |  | Iliades subeunt: festis altaria sertis |  |
+| 550 |  | exornant caeduntque sacras ex more bidentes. | 550 |
 
 ### Testimonia
 
-- **(cont.)** 640 manibus — revinctis = Gesta Ber. 3, 115
+- **540** manibus — revinctis = Gesta Ber. 3, 115
 
 ### Apparatus
 
-- **(cont.)** 580 lllinc ^, -ic L^E*, -uc F \ utrimque Sl, -umq; W^F^LW, -iq; B 632 casta cum 9,, cum casta PMN 683 sca il, sancta P, sacra E 634 Egit et 9, Fregit et c/Sd, Aegide et Wermdorf \ percussum H, -it CF, -us V \ c(a)edit Si, cedens C, cedis L^B
-- **536** c(a)elum petere (app- MN; petit L\ Sl, petere infema PW^ 636 Hic Sl, Hinc V, Sic B^B 63» adrastum Sl (om. N^), arastrum PB^N^, arastum F^, adxastrum CB^F^ 641 Vt uiuo ducatHigt, Vt uiuo (uicto W^) ducant WHelmstad. et Pommersfeld., Vt uiuo ' ducant E^, Vt ui deducat PIV^N, Vt ui deducant (did- B) LBVE^, Vt deinde (inde B) ducant B^M, Vt ducant auidi CF, Exinde ut ducat a§S \ l(a)etosi2, lectos B B42 c(a)edit Sl, cecidit P bu Pro Sl, Cum F^
-- **546** om. B
-- **548** armatas Sl, omatas L. Miiller, aerias Hosius 649 festis Si, festisq; MNW^ 66O5. ut supra PWBEMN Helmstad., Mon. 5594, Vind. C-L*, sed ex more soli PWL-, de moie Helmstad., ad templa -BC-^^M iV; v. 551 om. E\ add. in marg.; (h)ec(c)uba (het- W) hi omnes, -bg L': pro duohus versibus hunc unum Ex-
+- **530** Illinc Ω, -ic L¹E², -uc F | utrimque Ω, -umq; W¹F¹L¹V, -iq; B
+- **532** casta cum Ω, cum casta PMN
+- **533** scā Ω, sancta P, sacra E
+- **534** Egit et Ω, Fregit et αβδ, Aegide et Wernsdorf | percussum Ω, -it CF, -us V | c(a)edit Ω, cedens C, cedis L¹R
+- **535** c(a)elum petere (app- MN; petit L) Ω, petere inferna PW¹
+- **536** Hic Ω, Hinc V, Sic B¹R
+- **539** adrastum Ω (om. N¹), arastrum PB¹N², arastum F¹, adrastrum CB³F²
+- **541** Vt uiuo ducat Higt, Vt uiuo (uicto W²) ducant W² Helmstad. et Pommersfeld., Vt uiuo//ducant E¹, Vt ui deducat PW¹N, Vt ui deducant (did- R) LRVE³, Vt deinde (inde B) ducant B¹M, Vt ducant auidi CF, Exinde ut ducat αβδ | l(a)etos Ω, lectos R
+- **542** c(a)edit Ω, cecidit P
+- **544** Pro Ω, Cum F¹
+- **545** om. R
+- **548** armatas Ω, ornatas L. Müller, aerias Hosius
+- **549** festis Ω, festisq; MNW²
+- **550 s.** ut supra PWBEMN Helmstad., Mon. 5594, Vind. C²L², sed ex more soli PWL², de more Helmstad., ad templa BC²E¹MN; v. 551 om. E¹, add. in marg.; (h)ec(c)uba (het- W) hi omnes, -bę L²; pro duobus versibus hunc unum Ex-
 
 ## p. 28
 
@@ -1143,47 +1227,49 @@ PDF page 186.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 551 | z 286 | dumque preces Hecabe supplex ad templa Miuervae |  |
-| 552 |  | pro caris genetrix natis et coniuge fandit, |  |
+| 551 | Ζ 286 | dumque preces Hecabe supplex ad templa Minervae |  |
+| 552 |  | pro caris genetrix natis et coniuge fundit, |  |
 | 553 | 119 | interea Glaucus stricto decernere ferro |  |
 | 554 |  | cum Diomede parat nomenque genusque roganti |  |
 | 555 |  | qui sit et unde ferat, magnis cum viribus hastam | 555 |
 | 556 |  | mittere temptabat; temptanti Aetolius heros |  |
-| 557 |  | "^quo ruis?' exclamat 'quae te, scelerate. furentem |  |
+| 557 |  | 'quo ruis?' exclamat 'quae te, scelerate, furentem |  |
 | 558 |  | mens agit inparibus mecum concurrere telis? |  |
-| 559 |  | hospitis arma vides, Yeneris qui vulnere dextram |  |
+| 559 |  | hospitis arma vides, Veneris qui vulnere dextram |  |
 | 560 |  | perculit et summo pupugit certamine Martem. | 560 |
-| 561 |  | pone traces animos infestaque tela coerce'. |  |
+| 561 |  | pone truces animos infestaque tela coerce'. |  |
 | 562 |  | post haec inter se posito certamine pugnae |  |
 | 563 | 233 | commutant clipeos inimicaque proelia linquunt. |  |
-| 564 | 394 | coUoquium petit interea fidissima coniunx |  |
+| 564 | 394 | colloquium petit interea fidissima coniunx |  |
 | 565 |  | Hectoris Andromache parvumque a pectore natum | 565 |
 | 566 |  | Astyanacta tenet; cuius dum maximus heros |  |
-| 567 |  | oscula parva petit, subito perterritus iufans |  |
+| 567 |  | oscula parva petit, subito perterritus infans |  |
 | 568 |  | convertit timidos materna ad pectora vultus |  |
 | 569 | 469 | terribilemque fugit galeam cristamque comantem. |  |
 | 570 |  | utque caput iuvenis posito detexerat aere, | 570 |
-| 571 |  | protinus infantem geminis amplectitur uhiis |  |
+| 571 |  | protinus infantem geminis amplectitur ulnis |  |
 | 572 | 476 | attollensque manus 'precor, o pater optime' dixit, |  |
-| 573 |  | *ut meus hic, pro quo tua numina, natus, adoro, |  |
+| 573 |  | 'ut meus hic, pro quo tua numina, natus, adoro, |  |
 | 574 |  | virtutes patrias primis imitetur ab annis'. |  |
-| 575 | H 1 | haec ait et portis acies petit acer apertis; | 575 |
+| 575 | Η 1 | haec ait et portis acies petit acer apertis; | 575 |
 
 ### Apparatus
 
-- **(cont.)** omant ceduntque (cedesq; C^FV Pommersfeld) sacras ad templa mineru(a)e C^ FL^EV Pommersfeld. 652 genitrix Sl
-- **554** que prius om. L^3PN
-- **555** Qui Sl, Quis BGFL I ferat Sl, fuerat F, foret l
-- **556** temptabat temptanti Sl, temptanti temptabat 31 N
-- **562** h(a)ec Sl, hoc CF 663 linq(u)unt Sl, iungunt E'^, mutant B^
-- **565** a pectorePTP, ad pectora (tempora B^) cett.
-- **566** tenet Sl, tenens 31 N L^ B^ \ lieros .Ji^ hector E 31 BN-
-- **567** parua iJ, praua i^
-- **569** cristamque comantem PWCFVB^, -asq; comantes (-tas E^) B^EL 31 NE
-- **570** Ytque Sl, Atque BE^L^E \ (alere P,, are W^ ut vid., aiere P
-- **572** precor 0 pater yo p. om. L^N^, pater E^ in ras.) Sl, precor 0 precor CF, rector precor V, precor iupiter B^
-- **573** Vt meus Sl, Ynicus B
-- **575** tit supra P^ (et om. L^; acies Sl, bellum E), Hec ait. apertis acies petit acer et portis N
+- **(cont.)** ornant ceduntque (cedesq; C¹FV Pommersfeld.) sacras ad templa mineru(a)e C¹FL¹RV Pommersfeld.
+- **552** genitrix Ω
+- **554** que prius om. L¹M¹N
+- **555** Qui Ω, Quis BCFL | ferat Ω, fuerat F, foret λ
+- **556** temptabat temptanti Ω, temptanti temptabat MN
+- **562** h(a)ec Ω, hoc CF
+- **563** linq(u)unt Ω, iungunt E¹, mutant B¹
+- **565** a pectore PW¹, ad pectora (tempora B¹) cett.
+- **566** tenet Ω, tenens MNL²B³ | heros Ω, hector EMRN²
+- **567** parua Ω, praua F
+- **569** cristamque comantem PWCFVB³, -asq; comantes (-tas E¹) B¹ELMNR
+- **570** Vtque Ω, Atque BE¹L¹R | (a)ere Ω, are W¹ ut vid., aiere P
+- **572** precor o pater (o p. om. L¹N¹, pater E² in ras.) Ω, precor o precor CF, rector precor V, precor iupiter B¹
+- **573** Vt meus Ω, Vnicus B
+- **575** ut supra Ω (et om. L¹; acies Ω, bellum E), Hec ait. apertis acies petit acer et portis N
 
 ## p. 29
 
@@ -1191,20 +1277,20 @@ PDF page 187.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 576 | H | una deinde Paris. postqnam in certamina yentum | est. |
-| 577 |  | protinus in medium proeedit maximus Hector |  |
+| 576 | Η | una deinde Paris. postquam in certamina ventum est, |  |
+| 577 |  | protinus in medium procedit maximus Hector |  |
 | 578 | 55 | Graiorumque duces invictis provocat armis. |  |
-| 579 | 161 | nec mora: continuo fraudis commentor Ylixes |  |
-| 580 |  | et ferus Idomeneus et iunctus gente paterna | 58o |
+| 579 | 161 | nec mora: continuo fraudis commentor Vlixes |  |
+| 580 |  | et ferus Idomeneus et iunctus gente paterna | 580 |
 | 581 |  | Meriones Graiumque simul dux acer Atrides |  |
-| 582 |  | Aiacesque duo (ei} claris speciosus' in armis |  |
+| 582 |  | Aiacesque duo \<et> claris speciosus in armis |  |
 | 583 |  | Eurypylus magnoque Thoas Andraemone natus |  |
-| 584 |  | quique manum Yeneris violavit vulnere tristi |  |
-| 585 | 229 | procedunt; aberat nam Troum terror Achilles | 535 |
-| 586 | 1186 | et cithara dulci "fdivum lenibat amores. |  |
-| 587 | H 181 | ergo ubi deiectis auratam regis Atridae |  |
+| 584 |  | quique manum Veneris violavit vulnere tristi |  |
+| 585 | 229 | procedunt; aberat nam Troum terror Achilles | 585 |
+| 586 | Ι 186 | et cithara dulci † divum lenibat amores. |  |
+| 587 | Η 181 | ergo ubi deiectis auratam regis Atridae |  |
 | 588 |  | sortibus in galeam magnus processerat Aiax, |  |
-| 589 | 2« | principio iactis committunt proelia telis: |  |
+| 589 | 244 | principio iactis committunt proelia telis: |  |
 | 590 | — | mox rigidos stringunt enses et fortibus armis | 590 |
 | 591 | — | decernunt partesque oculis rimantur apertas |  |
 | 592 | — | et modo terga petunt, duros modo fortibus ictus |  |
@@ -1215,15 +1301,17 @@ PDF page 187.
 
 ### Apparatus
 
-- **576** Vna £1, Ynam FW \ in certamina Sl, in Com. M) -ine PWMN^ I procedit a, -ssit MN
-- **580** Et ^, Aut C, Ac corr. in At F*-, At V, lc B^ \ iuuctus Weytingh, notus i2 oS-2 duo et claria L. 3IiWer, duo (duos F) claris (q; add. L, duxis MX) S.
-- **583** thoas Sl, troas PWB 581 uulnere ii, uerbere CF
-- **586** diuum 1. amorea 9. ex Verg. georg. 4, 347, duros 1. amores a^d, durum 1. amorem van Kooten, damnum 1. amoris c^nieei
-- **587** deiectis (-us BEF^) Sl, delectis (-us C\ CL \ auratam (-um B) Sl, aeratam Weytingh
-- **588** Sortibus ii, Po- P, Fo- E^L^ processerat 9., pr(a)ec- BCFV post 588 in ordine habet B : Concurrunt aiax hectorque crudelis, plenius editio X: Concurrunt armis Ayax crudelis et Hector.
-- **589** iactis (sic L-a§6, iaculis EL\ iaculant PWj committunt (-unt P- in ras.) pr(a~)elia telis (missis E^ PWEL, iaculans committit pr. teHs CF MNV HeJmstad., iacula mittunt et pr. miscent B
-- **591** apertas Schrader, apertis Sl
-- **594** uastis -Q, uotis C F^ | aer PW, ',a)et.;h)er B C E F L M N T '
+- **576** Vna Ω, Vnam PW | in certamina Ω, in (om. M) -ine PWMN² | procedit Ω, -ssit MN
+- **580** Et Ω, Aut C, Ac corr. in At F¹, At V, Ic B¹ | iunctus Weytingh, notus Ω
+- **582** duo et claris L. Müller, duo (duos V) claris (q; add. L, duris MN) Ω
+- **583** thoas Ω, troas PWB
+- **584** uulnere Ω, uerbere CF
+- **586** diuum l. amores Ω ex Verg. georg. 4, 347, duros l. amores αβδ, durum l. amorem van Kooten, damnum l. amoris conieci
+- **587** deiectis (-us BEF¹) Ω, delectis (-us C) CL | auratam (-um B) Ω, aeratam Weytingh
+- **588** Sortibus Ω, Po- P, Fo- E¹L¹ | processerat Ω, pr(a)ec- BCFV | post 588 in ordine habet B: Concurrunt aiax hectorque crudelis, plenius editio λ: Concurrunt armis Ayax crudelis et Hector.
+- **589** iactis (sic L²αβδ, iaculis EL¹, iaculant PW) committunt (-unt P² in ras.) pr(a)elia telis (missis E) PWEL, iaculans committit pr. telis CFMNV Helmstad., iacula mittunt et pr. miscent B
+- **591** apertas Schrader, apertis Ω
+- **594** uastis Ω, uotis CF¹ | aer PW, (a)et(h)er BCEFLMNV
 
 ## p. 30
 
@@ -1233,34 +1321,36 @@ PDF page 188.
 |---|---|---|---|
 | 598 | — | fortia terga premunt spumantque per ora vicissim | 598 |
 | 599 | — | fumiferae nubes concretaque fulgura et ignes | 599 |
-| 600 | — | iactantur magnoque implentur murmure silvae: | eoo |
-| 601 | — | tales Priamides ardorque Aiacis in armis | eoi |
+| 600 | — | iactantur magnoque implentur murmure silvae: | 600 |
+| 601 | — | tales Priamides ardorque Aiacis in armis | 601 |
 | 597 | — | alterni librant gladios et vulnera miscent. | 597 |
 | 602 |  | tandem animis teloque furens Telamonius Aiax |  |
 | 603 |  | insignem bello petit Hectora, quaque patebat |  |
 | 604 |  | nuda viri cervix, fulgentem derigit ensem: |  |
-| 605 | jj 254 | ille ictum celeri praevidit callidus astu | 605 |
+| 605 | Η 254 | ille ictum celeri praevidit callidus astu | 605 |
 | 606 |  | tergaque summisit ferrumque umbone repellit. |  |
 | 607 |  | sed levis extremas clipei perlabitur oras |  |
 | 608 | 262 | ensis et exiguo cervicem vulnere libat. |  |
-| 609 |  | acrius impugnans rursus consurgit in liostem |  |
+| 609 |  | acrius impugnans rursus consurgit in hostem |  |
 | 610 |  | Priamides nec iam ferro Telamone creatum, | 610 |
 
 ### Apparatus
 
-- **(cont.)** 697 post 596 dant Sl, litteris appictis post v. 601 relegavit W*, post V. 694 exMbet Helmstadiensis
-- **598** premunt il, petunt MN 1 que om. MN^ 69» Fumifer(a)e (que add. PL^) Sl, -gere ML^, -feras E'^ \ fulgura (fulmina MN) et ignes PWE^ MN, fulguraque ignes BCFL, fulgora in ignis V, fulminis ignes E^
-- **600** magnoque implentur murmure PWLE^, magno implentur (-etur N^) sic (om. V^, tum MN) murmure BCFMNV, implentur magno quoque E^
-- **601** Tales Vollmer, Talis il \ ardorque aiacis in armis PW, similis (que addunt BENVL^M^) eacides armis BGEFLMNV, simul Aiax fortis in armie 3Ion. 5494 et ed. X, simul et Thelamonius aiax a^S
-- **597** Alterni (-que V) Sl, -nos BE^ \ librant Sl, uibrant C-F | uulnera Sl, praelia MN v. 694 — 601 audacissime adulteravit Helmstadiensis
-- **602** animis Sl, -mo MN^ \ teloque il, armisque E
-- **603** patebat ii, om. L^, patescit i*, petiuit B V
-- **604** derigit jB', dirigit (dil- L^, -mit P, -pit V) Sl, deprime B^ \ ensem (-en C) Sl, hastam L. Miiller 606 versum in ordine habent PW MN Eelmstad., in marg. addiderunt B^E^F^L^, om. B^CE^ F^L^V; loco versus genuini in contextu habet E^: Cedebat iuveni paulum mauortius {corr. ex mou-) heros eundemque inter v. 604 et 605 interposuit man. 2 in Helmstad. \ astu PMN Helmstad. B-E^L^, hastu W^, hasta W^, ictum F^
-- **606** summisit Sl, -ttit B V
-- **607** perlabitur Sl, prelabitur cx.§d vide an recte
-- **608** Ensis Sl, Cuspis L. Miiller
-- **609** Acrius Sl, Acrior MNL^ I inpugnans W^, in (ut ^^) pugnam Sl, aduersum E
-- **610** nec iam B V Helmstad. ccBi, iam nec Sl
+- **597** post 596 dant Ω, litteris appictis post v. 601 relegavit W², post v. 594 exhibet Helmstadiensis
+- **598** premunt Ω, petunt MN | que om. MN¹
+- **599** Fumifer(a)e (que add. PL¹) Ω, -gere ML², -feras E¹ | fulgura (fulmina MN) et ignes PWE¹MN, fulguraque ignes BCFL, fulgora in ignis V, fulminis ignes E³
+- **600** magnoque implentur murmure PWLE³, magno implentur (-etur N¹) sic (om. V¹, tum MN) murmure BCFMNV, implentur magno quoque E¹
+- **601** Tales Vollmer, Talis Ω | ardorque aiacis in armis PW, similis (que addunt BENVL²M²) eacides armis BCEFLMNV, simul Aiax fortis in armis Mon. 5494 et ed. λ, simul et Thelamonius aiax αβδ
+- **597** Alterni (-que V) Ω, -nos BE³ | librant Ω, uibrant CF | uulnera Ω, praelia MN | v. 594—601 audacissime adulteravit Helmstadiensis
+- **602** animis Ω, -mo MN² | teloque Ω, armisque E
+- **603** patebat Ω, om. L¹, patescit L², petiuit BV
+- **604** derigit B³, dirigit (dil- L¹, -mit P, -pit V) Ω, deprime B¹ | ensem (-en C) Ω, hastam L. Müller
+- **605** versum in ordine habent PWMN Helmstad., in marg. addiderunt B²E²F²L², om. B¹CE¹F¹L¹V; loco versus genuini in contextu habet E¹: Cedebat iuveni paulum mauortius (corr. ex mou-) heros eundemque inter v. 604 et 605 interposuit man. 2 in Helmstad. | astu PMN Helmstad. B²E²L², hastu W², hasta W¹, ictum F²
+- **606** summisit Ω, -ttit BV
+- **607** perlabitur Ω, prelabitur αβδ vide an recte
+- **608** Ensis Ω, Cuspis L. Müller
+- **609** Acrius Ω, Acrior MNL² | inpugnans W², in (ut B¹) pugnam Ω, aduersum E
+- **610** nec iam BV Helmstad. αβδ, iam nec Ω
 
 ## p. 31
 
@@ -1268,16 +1358,16 @@ PDF page 189.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 611 | H 264 | sed magno saxi iactu petit; at ferus Aiax |  |
+| 611 | Η 264 | sed magno saxi iactu petit; at ferus Aiax |  |
 | 612 |  | ingentem clipeo septemplice reppulit ictum |  |
 | 613 |  | et iuvenem saxo percussum sternit eodem. |  |
 | 614 | 272 | quem levat exceptum Grais inimicus Apollo |  |
-| 615 |  | integratque animum: iam rursus ad arma coibant. | 6i5 |
+| 615 |  | integratque animum; iam rursus ad arma coibant. | 615 |
 | 616 |  | stringebant iterum gladios, cum fessus in undas |  |
 | 617 | 282 | coeperat igniferos Titan immergere currus |  |
 | 618 | 274 | noxque subire polum: iuxta mittuntur, utrosque |  |
-| 619 |  | qui dirimant a caede viros; nec segTiius illi |  |
-| 620 | 287 | deponunt animos. tum bello maximus Hector | 520 |
+| 619 |  | qui dirimant a caede viros; nec segnius illi |  |
+| 620 | 287 | deponunt animos. tum bello maximus Hector | 620 |
 | 621 | — | 'quae te terra virum, qui te genuere parentes? |  |
 | 622 | — | viribus es proles generosa atque inclita' dixit. |  |
 | 623 | — | at contra se ferre parat Telamonius Aiax: |  |
@@ -1287,23 +1377,23 @@ PDF page 189.
 | 627 | — | 'absistamus' ait, 'sanguis communis utrique est' |  |
 | 628 | 303 | et prior Aeaciden aurato munerat ense |  |
 | 629 |  | inque vicem, quo se bellator cinxerat Aiax, |  |
-| 630 |  | accipit insignem vario caelamine balteum. | eso |
+| 630 |  | accipit insignem vario caelamine balteum. | 630 |
 
 ### Apparatus
 
-- **611** %it supra H; Sed magni easi (X, om. M) ictu (iactu M) petit hector (om. N, del. M-) at ferus aiax MN
-- **612** Ingentem cUpeo Sl, Ingentis clipei (-eo i*) L^ Helmstad.
-- **615** Integratque (que om. X*) PWBCFVL, Integrat atque E Hehnstad., Integrat et MN | ad (in E) arma Sl, ad ima PW^
-- **616** post Stringebant (Sl) addunt que Helmstad. et E^ et u§8 | undas St, undis PW
-- **617** currus 9., cursus CFL^V
-- **618** polum Sl, simul M^N^, polo M^ N^ \ iuxta H, cepit W^ \ utrosque (q; om. L^) £1, utrimque Weytingh
-- **620** tum (cum C) Si, tunc PW
-- **622** proles generosa atque (-osatque P^) Sl, gen. proles atq; MN 624. 623 ordinat et 625 omisit B
-- **623** At Sl, Et L I se (// W) ferre PW\ refer(r)e BCFLMNV, conferre£; cf. Verg. Aen. 5,372
-- **626** ut (at W^, hic F^) Sl, ut audiuit MN I recordans Sl, -at G^ (G^ n. l.) L Helmstad.
-- **627** Absistamu8 Sl, Ass- B^, Ads- L | ait Sl, ait pugna E \ est iw fine habent MNG^ (G^- n. l), om. P WB CE FL V
-- **628** Aeaciden C. Schenkl, aiacem (-en P W) Sl \ aurato Sl, deaurato V, falcato E, aurato vel deaurato E^ ; cf. v. 368
-- **630** Accipit Sl, Concipit G* (G^n. l.) \ uario Sl, miro E \ c(a)elamine (telamini W^) Sl, certamine P
+- **611** ut supra Ω; Sed magni sasi (N, om. M) ictu (iactu M) petit hector (om. N, del. M²) at ferus aiax MN
+- **612** Ingentem clipeo Ω, Ingentis clipei (-eo L²) L¹ Helmstad.
+- **615** Integratque (que om. L¹) PWBCFVL, Integrat atque E Helmstad., Integrat et MN | ad (in E) arma Ω, ad ima PW¹
+- **616** post Stringebant (Ω) addunt que Helmstad. et E³ et αβδ | undas Ω, undis PW
+- **617** currus Ω, cursus CFL¹V
+- **618** polum Ω, simul M¹N¹, polo M²N² | iuxta Ω, cepit W² | utrosque (q; om. L¹) Ω, utrimque Weytingh
+- **620** tum (cum C) Ω, tunc PW
+- **622** proles generosa atque (-osatque P¹) Ω, gen. proles atq; MN
+- **623** 624. 623 ordinat et 625 omisit B | At Ω, Et L | se (// W¹) ferre PW¹, refer(r)e BCFLMNV, conferre E; cf. Verg. Aen. 5, 372
+- **626** ut (at W², hic V¹) Ω, ut audiuit MN | recordans Ω, -at G² (G¹ n. l.) L Helmstad.
+- **627** Absistamus Ω, Ass- B¹, Ads- L | ait Ω, ait pugna E | est in fine habent MNG² (G¹ n. l.), om. PWBCEFLV
+- **628** Aeaciden C. Schenkl, aiacem (-en PW) Ω | aurato Ω, deaurato V, falcato E, aurato vel deaurato E³; cf. v. 368
+- **630** Accipit Ω, Concipit G² (G¹ n. l.) | uario Ω, miro E | c(a)elamine (telamini W¹) Ω, certamine P
 
 ## p. 32
 
@@ -1311,46 +1401,48 @@ PDF page 190.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 631 | H | post haec extemplo Troum Danaumque catervae |  |
+| 631 | Η | post haec extemplo Troum Danaumque catervae |  |
 | 632 |  | discedunt caelumque tegit nox atra tenebris. |  |
-| 633 | 320 | implentur dapibus largis Baccliique liquore |  |
+| 633 | 320 | implentur dapibus largis Bacchique liquore |  |
 | 634 | — | atque avidi placido tradunt sua corpora somno. |  |
-| 635 | — | postera cum primum stellas Aurora fugarat^ | 635 |
+| 635 | — | postera cum primum stellas Aurora fugarat, | 635 |
 | 636 | 345 | in coetum venere Phryges; tunc maximus Hector |  |
-| 637 |  | cum sociis memorans besternae funera caedis |  |
-| 638 |  | suadet ut invictis Helene reddatur Acbivis |  |
+| 637 |  | cum sociis memorans hesternae funera caedis |  |
+| 638 |  | suadet ut invictis Helene reddatur Achivis |  |
 | 639 |  | praedaque quae duros Menelai mulceat ignes |  |
 | 640 |  | idque placet cunctis. tum saevo missus Atridae | 640 |
 | 641 | 381 | pertulit Idaeus Troum mandata; neque ille |  |
 | 642 |  | aut animum praedae aut dictis accommodat aures, |  |
-| 643 | — | ultro etiam castrls Idaeum excedere iussit. |  |
+| 643 | — | ultro etiam castris Idaeum excedere iussit. |  |
 | 644 | 413 | paruit is monitis iterumque ad castra reversus |  |
 | 645 | — | Troiae contemptum duro se reddit ab hoste. | 645 |
 | 646 | 433 | interea Danai confusi caede suorum |  |
-| 647 |  | ingentes struxere pyras collectaqae passim |  |
+| 647 |  | ingentes struxere pyras collectaque passim |  |
 | 648 |  | fortia tradiderunt sociorum corpora flammis; |  |
 | 649 | 441 | tum renovant vires et vallum robore cingunt. |  |
 
 ### Testimonia
 
-- **635** = Gesta Ber. 3,90 (fugaret)
+- **635** = Gesta Ber. 3, 90 (fugaret)
 
 ### Apparatus
 
-- **(cont.)** 6S1 li(a)ec Sl, lioc CF, om. (?*, q; c B^ \ troum danaumque BCEFG"-L3INVW^, graium troumque P et W ut vid.
-- **634** sua corpora somno Sl, suo opa liibro B^
-- **635** Postera Sl, Postea B^M \ primum Sl, -mo L
-- **636** tunc PWCF, tum BEG^L31NV
-- **637** Cum Sl, Dum L \ (h)estern(a)e P., eternae MN
-- **638** Suadet Sl, -sit E^ \ ut P., om. M^N, ei, B^ \ helena Sl 63» qu(a)e Sl, om. G^L (G^n l.) \ mulceat Sl, mouerat G^(G'n.l.)
-- **640** tum Sl, tunc PW
-- **641** Pertulit (-cul- L) Sl, Protulit C
-- **642** aut dictis Sl, uel d. G- (G'^ n. l.) \ accom(m)odat (ac- in ras. E-)Sl, com(m)odat CG- (G^ n. l.)
-- **643** excedere Sl, cedere M^N, que ecced. M^
-- **644** is PWB, his CE FG^LMN, hiciS^I reuersusii; 'in alt. v. cod. regressus' in L ndnot. man. recens
-- **645** Troi(a)e Sl, (dativus), Troica MNE^
-- **646** confusi Sl, -sa E^L^; at cf. v. 679 et H 426 ; confusi est 'maesti'
-- **648** tradiderunt Higt, -rant Sl 64» Tum WBCF G^BV, Tunc Pi, V)xi.m E, l^t MN \ uires PWBCFG- V, fossas (-am L^ ut vid) ELMNB \ robore Sl, -ra EN'- \ cingunt Sl, firmant G- (G^ n. l.)
+- **631** h(a)ec Ω, hoc CF, om. G², q; c B¹ | troum danaumque BCEFG²LMNVW², graium troumque P et W¹ ut vid.
+- **634** sua corpora somno Ω, suo opa m̃bro B¹
+- **635** Postera Ω, Postea B¹M | primum Ω, -mo L
+- **636** tunc PWCF, tum BEG²LMNV
+- **637** Cum Ω, Dum L | (h)estern(a)e Ω, eternae MN
+- **638** Suadet Ω, -sit E³ | ut Ω, om. M¹N, et B¹ | helena Ω
+- **639** qu(a)e Ω, om. G²L (G¹ n. l.) | mulceat Ω, mouerat G² (G¹ n. l.)
+- **640** tum Ω, tunc PW
+- **641** Pertulit (-cul- L) Ω, Protulit C
+- **642** aut dictis Ω, uel d. G² (G¹ n. l.) | accom(m)odat (ac- in ras. E²) Ω, com(m)odat CG² (G¹ n. l.)
+- **643** excedere Ω, cedere M¹N, que ecced. M²
+- **644** is PWB, his CEFG²LMN, hic N | reuersus Ω; 'in alt. v. cod. regressus' in L adnot. man. recens
+- **645** Troi(a)e Ω (dativus), Troica MNE²
+- **646** confusi Ω, -sa E¹L¹; at cf. v. 679 et H 426; confusi est 'maesti'
+- **648** tradiderunt Higt, -rant Ω
+- **649** Tum WBCFG²RV, Tunc PL, Dum E, Et MN | uires PWBCFG²V, fossas (-am L¹ ut vid.) ELMNR | robore Ω, -ra EN¹ | cingunt Ω, firmant G² (G¹ n. l.)
 
 ## p. 33
 
@@ -1358,37 +1450,47 @@ PDF page 191.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 650 | 0 | ut nitidum Titan radiis patefecerat orbem, | eso |
-| 651 | 2 | convocat in coetum superos lovis et monet^ armis |  |
-| 652 |  | ne contra sua dicta velint conteudere divi. |  |
+| 650 | Θ | ut nitidum Titan radiis patefecerat orbem, | 650 |
+| 651 | 2 | convocat in coetum superos Iovis et monet, armis |  |
+| 652 |  | ne contra sua dicta velint contendere divi. |  |
 | 653 |  | ipse per aethereas caeli delabitur auras |  |
 | 654 |  | umbrosisque simul consedit montibus Idae: |  |
-| 655 | 52 | inde acies videt Iliacas dextraque potenti | ess |
+| 655 | 52 | inde acies videt Iliacas dextraque potenti | 655 |
 | 656 | 69 | sustinet auratas aequato pondere lances |  |
-| 657 |  | fataque dura Pbrygum casusque expendit Achivum |  |
+| 657 |  | fataque dura Phrygum casusque expendit Achivum |  |
 | 658 |  | et Graium clades gravibus praeponderat armis. |  |
 | 659 |  | interea Danaos ingenti concitus ira |  |
-| 660 | 216 | Priamides agit et totis gravis imminet armis, | eso |
+| 660 | 216 | Priamides agit et totis gravis imminet armis, | 660 |
 | 661 |  | unum quippe decus Phrygiae; turbantur Achivi |  |
 | 662 |  | Doricaque ingenti complentur castra tumultu. |  |
 | 663 | 227 | hortatur socios murisque inclusus Atrides |  |
 | 664 |  | languentes animos iuvenum in certamina firmat. |  |
-| 665 | 254 | princeps Tydides ardentibus emicat armis | ess |
+| 665 | 254 | princeps Tydides ardentibus emicat armis | 665 |
 | 666 |  | per medios\<que> hostes immani turbine fertur. |  |
 | 667 |  | hic illi occurrit fatis Agelaus iniquis, |  |
 | 668 |  | telum immane manu quatiens, quem maximus heros |  |
 | 669 |  | occupat et duro medium transverberat ense. |  |
-| 670 |  | hinc Phrygas Aiacis vastis protectus in armis | 67o |
+| 670 |  | hinc Phrygas Aiacis vastis protectus in armis | 670 |
 | 671 | 266 | Teucer agit spargitque leves in terga sagittas. |  |
 
 ### Apparatus
 
-- **660** Vt Sl, At M, Aut N, Et E^L, t B\ nitidum (-is N) titan radiis Sl, nitidmn (-is 31) radiis titan LM 651 iouis et Sl, iuppiter N- | armis (L^ erasa) Sl, omnes i*, orbem G' (G^ n.l.)
-- **662** Ne Sl, Nec B CL
-- **663** delabitur Sl, dil- PGFGE^ 654 id(a)e Sl, ille B^ 655 Inde iJ, Unde B^, nde B 656 (a)equato Sl, -to in B^
-- **668** armis (masc.) Sl, ulnis C.Schenkl 660 agit Sl, ait et g supra i B, adit C \ armis Sl i. copiis; cf. ex. gr. Ov. met. 7, S65 663 murisque B CFMN, muris PWEGLBV «64 Languentes BCFLMNBV, -esque PTTJS^G^ | iuvenum (-es C^) Sl, dura B \ certamina Sl, -ne B^M 665 titides (atrides BMN', N^n.l.) ardentibus emicat armis BCEFGLM NBV Helmstad., tytides fulgens ard. armis PW 666 mediosque E, medios (-as B^C^) Sl \ tnrbine Sl, pondere P(W^) cf. S93 667 Hic Sl, Tunc MN \ occurrit (fertur occ- F^) fatis Sl, fatis occurrit B | Agelaus Bondam, egeus (-ens B^C^) Sl
-- **669** ense (-en C^) Sl, asta £1
-- **670** Hinc PB CEGBVW^N^ Hic W'FMN\ Hin L I frigas E^, friges Sl | protectus Sl, contentus B
+- **650** Vt Ω, At M, Aut N, Et E¹L, t R | nitidum (-is N) titan radiis Ω, nitidum (-is M) radiis titan LM
+- **651** iouis et Ω, iuppiter N² | armis (L¹ erasa) Ω, omnes L², orbem G² (G¹ n. l.)
+- **652** Ne Ω, Nec BCL
+- **653** delabitur Ω, dil- PCFGE²
+- **654** id(a)e Ω, ille B¹
+- **655** Inde Ω, Unde B¹, nde R
+- **656** (a)equato Ω, -to in R¹
+- **658** armis (masc.) Ω, ulnis C. Schenkl
+- **660** agit Ω, ait et g supra i R, adit C | armis Ω i. copiis; cf. ex. gr. Ov. met. 7, 865
+- **663** murisque BCFMN, muris PWEGLRV
+- **664** Languentes BCFLMNRV, -esque PWEG | iuvenum (-es C¹) Ω, dura R | certamina Ω, -ne B¹M
+- **665** titides (atrides BMN², N¹ n. l.) ardentibus emicat armis BCEFGLMNRV Helmstad., tytides fulgens ard. armis PW
+- **666** mediosque E, medios (-as B¹C¹) Ω | turbine Ω, pondere P(W¹) cf. 893
+- **667** Hic Ω, Tunc MN | occurrit (fertur occ- F¹) fatis Ω, fatis occurrit R | Agelaus Bondam, egeus (-ens B¹C¹) Ω
+- **669** ense (-en C¹) Ω, asta B¹
+- **670** Hinc PBCEGRVW²N², Hic W¹FMN¹, Hin L | frigas E³, friges Ω | protectus Ω, contentus B
 - **671** agit
 
 ## p. 34
@@ -1397,42 +1499,43 @@ PDF page 192.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 672 | & 302 | Gorgythiona ferum letali vulnere fundit, |  |
+| 672 | Θ 302 | Gorgythiona ferum letali vulnere fundit, |  |
 | 673 | 312 | mox alias acies petit aurigamque superbi |  |
 | 674 |  | Hectoris obtruncat. quem saxo Troius heros |  |
 | 675 | 327 | occupat excussoque incautum proterit arcu: | 675 |
 | 676 | 332 | ast illum fidi rapiunt de caede sodales |  |
-| 677 | 387 | prostratumque levant. ruit undique turbidus Hector |  |
+| 677 | 337 | prostratumque levant. ruit undique turbidus Hector |  |
 | 678 |  | adversasque acies infesta cuspide terret. |  |
 | 679 | 342 | se rursus Danai turbati caede suorum |  |
-| 680 |  | conveitunt, iterumque leves in castra catervae | eso |
+| 680 |  | convertunt, iterumque leves in castra catervae | 680 |
 | 681 | — | confugiunt portasque obiecto robore firmant. |  |
-| 682 | 509 | at Phryges obsidunt iuclusos aggere Graios |  |
+| 682 | 509 | at Phryges obsidunt inclusos aggere Graios |  |
 | 683 | 561 | excubituque premunt muros flammisque coronant. |  |
 | 684 |  | cetera per campos sternunt sua corpora pubes |  |
-| 685 |  | indulgentque mero curas\<que> animosque resolvunt. | 686 |
-| 686 | I 2 | attoniti Danaum proceres discrimine tanto |  |
+| 685 |  | indulgentque mero curas\<que> animosque resolvunt. | 685 |
+| 686 | Ι 2 | attoniti Danaum proceres discrimine tanto |  |
 | 687 |  | nec dapibus relevant animos nec corpora curant, |  |
-| 688 | 9-1 | sed miseri sua fata gemunt. mox f hoste repulso |  |
-| 689 | 5 74 | legatos mittunt dextramque hortantur AchilKs, |  |
-| 690 |  | ut ferat auxilium miseris, Thetideius heros | 69o |
+| 688 | 94 | sed miseri sua fata gemunt. mox † hoste repulso |  |
+| 689 | 174 | legatos mittunt dextramque hortantur Achillis, |  |
+| 690 |  | ut ferat auxilium miseris. Thetideius heros | 690 |
 
 ### Apparatus
 
-- **(cont.)** spargitque (que oni. E^, sparsit sine q; L) leues il, agitque leues torquetque CF
-- **672** Gorgythiona Bondam, Corit(h)iona fere Sl, Cretheona JB' j ferum ^, ferumq; MN \ uulnere fundit (fudit MiV") Sl, f. n. B^
-- **674** troiuB ii, troicus E^M^ \ heros Sl, hector B 676 excussoque (-usq; P) PWLMNB Helmstad., -umque (q; om F) BCEFGV I mc2Mt\im PWMN Helmstad., in quantum i2, extento CFGVB^E^ ex toto E^L(B'?) \ proterit ii, -git PF^\ arcuii, argum PW^E^, ictu a§d
-- **676** Asi Sl, Atque MN
-- **678** Aduersasque (q; om. B) Sl, -saque L^ aut L^ \ infesta W^X, inuersa iJJ, inuiso {-sa, E^) E, universa B^ \ Aduersaque a. inuersas Baehrens
-- **679** om. B \^q PV et W^ ut vid., Sed vel Set CEFGLMNBHehnstad. W\ Sic L. MuUer
-- **680** cateru(a)e Sl, suorum B ex v. 679 | que PWB, om. cett. (et post obiecto (?*)
-- **682** At (t B) Sl, Et P
-- **683** Excubituque (-oq; F^L) Sl, Excubiisque E^a^d | premunt muros Sl, m. pr. MN
-- **684** sternimt Sl, -it B^G
-- **685** curasque Higt, curas Sl, curamque B^, curis Wernsdorf
-- **686** danaum (-ai F^) proceres Sl, proc. dan. B
-- **688** mox hoste repulso P(W^erasa) GMNB, tamen h. r. E, atq. oste repulsos B, sic hoste repulso V, hosteque (-iq. W') repulso CFLW^; conieci mox Nestore pulsi
-- **690** tetideius ^drp, tetidius E'^, thitideius G, titideus Helmstad.,
+- **(cont.)** spargitque (que om. E¹, sparsit sine q; L) leues Ω, agitque leues torquetque CF
+- **672** Gorgythiona Bondam, Corit(h)iona fere Ω, Cretheona E³ | ferum Ω, ferumq; MN | uulnere fundit (fudit MN) Ω, f. u. B¹
+- **674** troius Ω, troicus E³M² | heros Ω, hector B
+- **675** excussoque (-usq; P) PWLMNR Helmstad., -umque (q; om. F) BCEFGV | incautum PWMN Helmstad., in quantum R, extento CFGVB²E³, ex toto E¹L (B¹?) | proterit Ω, -git PF¹ | arcu Ω, argum PW¹E², ictu αβδ
+- **676** Ast Ω, Atque MN
+- **678** Aduersasque (q; om. R) Ω, -saque L¹ aut L² | infesta W²λ, inuersa Ω, inuiso (-sa E³) E, universa B¹ | Aduersaque a. inuersas Baehrens
+- **679** om. B | Se PV et W¹ ut vid., Sed vel Set CEFGLMNR Helmstad. W², Sic L. Müller
+- **680** cateru(a)e Ω, suorum R ex v. 679 | que PWB, om. cett. (et post obiecto G²)
+- **682** At (t R) Ω, Et P
+- **683** Excubituque (-oq; F¹L) Ω, Excubiisque E³αβδ | premunt muros Ω, m. pr. MN
+- **684** sternunt Ω, -it B¹G
+- **685** curasque Higt, curas Ω, curamque B¹, curis Wernsdorf
+- **686** danaum (-ai F¹) proceres Ω, proc. dan. B
+- **688** mox hoste repulso P (W¹ erasa) GMNR, tamen h. r. E, atq. oste repulsos B, sic hoste repulso V, hosteque (-iq. W²) repulso CFLW²; conieci mox Nestore pulsi
+- **690** tetideius βδφ, tetidius E¹, thitideius G, titideus Helmstad.,
 
 ## p. 35
 
@@ -1440,36 +1543,41 @@ PDF page 193.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 691 | j 307 | nec Danaum capit aure preces nec iiiimera regis |  |
-| 692 |  | uUa referre cupit; non illum redditus ignis |  |
+| 691 | Ι 307 | nec Danaum capit aure preces nec munera regis |  |
+| 692 |  | ulla referre cupit; non illum redditus ignis |  |
 | 693 |  | aut intacta suo Briseis corpore movit: |  |
-| 694 | 657 | irrita legati referant responsa Pelasgis |  |
-| 695 | 712 | et dapibus curant animos lenique sopore. | 595 |
+| 694 | 657 | irrita legati referunt responsa Pelasgis |  |
+| 695 | 712 | et dapibus curant animos lenique sopore. | 695 |
 | 696 |  | alterius tenebrae tarde labentibus astris |  |
-| 697 | K 253 | restabatque super tacitae pars tertia noctis, |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
+| 697 | Κ 253 | restabatque super tacitae pars tertia noctis, |  |
 | 698 |  | cum Danaum iussu castris Aetolius heros |  |
-| 699 |  | egreditur sociumqae sibi delegit Vlixem, |  |
+| 699 |  | egreditur sociumque sibi delegit Vlixem, |  |
 | 700 |  | qui secum tacitae sublustri noctis in umbra | 700 |
 | 701 |  | scrutetur studio, quae sit fiducia Troum |  |
 | 702 |  | quidve agitent quantasve parent in proelia vires. |  |
 | 703 |  | dumque iter horrendum loca pernoctata paventes |  |
-| 704 | 3u | carpebant, venit ecce Dolon, quem Troia pubes |  |
-| 705 |  | miseratj ut Danaum soUerti pectore vires | 705 |
+| 704 | 314 | carpebant, venit ecce Dolon, quem Troia pubes |  |
+| 705 |  | miserat, ut Danaum sollerti pectore vires | 705 |
 | 706 |  | perspiceret sensusque ducum plebisque referret. |  |
 | 707 | 340 | quem procul ut vidit socius Diomedis Vlixes, |  |
 
 ### Apparatus
 
-- **(cont.)** at thetius (-cius B^E'^ PWB^E^L', at thetideius B, at t(h)etideuB FL^ VC^B^ at tideus C\ at thetides MN, at Thessalus L. Muller; cf.. 892 6»2 referre cupit (capit B^C^) Sl, fere (ferre L) cepit LR, fere accepit E^, ferus cepit Helmstad. \ non Sl, nec enim G 6»3 corpore 52, in c. 31 N 6»4 pelasgis il, -gi-B'
-- **696** Alterius FWBHelmstad.E^ Vlt- CE^FGLMXV, Iterius E tenebrae Sl, noctis E^ \ tarde GMN Helmstad., tardis PWBCEF LBV \ labentibus Sl, fulg- B^ post 6»6 unum versum excidisse opinor (Transierant . . .)
-- **697** Restabatque Sl, -antque MN- V
-- **698** Cum (umi?i Sl, Tnm. L^ | ins3u BCEFGL3INBV, iussis PWHelmstad. \ et(h)olius Sl, euth- PW\ et eth- V, oethelius B^
-- **699** Egreditur (-egi- L) Sl, Aggr- E | sociumque Sl, -usque B^
-- **700** sublustriii (cf. Verg. Aen. 9,373), -is B, -sti{a)e E^L
-- **702** parent Sl, habeant E
-- **703** Dumque Sl, Cumque EL | (h)orrendum i2, -umque V \ pemoctata ii?, pemotata PTT'C£'*2^ MNB^, per noctuma B^ Helmstad., per secreta G, per nota V, per non nota Baehrens; cf. Ov. met. 14, 122 701 ecce dolon ised dolon in ras. G^) GLB, ecce delon BCEF 3INV Helmstad., eumenides PW ex710 \ troia Sl, troianaiS'
-- **705** oin.E^ sollerti Sl, -ter L
-- **706** Perspiceret CEFGLBV, Prosp- MNB\ Asp- PWB"^ I plebisque P., plerisque LR
+- **(cont.)** at thetius (-cius B¹E³) PWB¹E³L², at thetideius R, at t(h)etideus FL¹VC²B³, at tideus C¹, at thetides MN, at Thessalus L. Müller; cf. 892
+- **692** referre cupit (capit B¹C¹) Ω, fere (ferre L) cepit LR, fere accepit E¹, ferus cepit Helmstad. | non Ω, nec enim G
+- **693** corpore Ω, in c. MN
+- **694** pelasgis Ω, -gi B¹
+- **696** Alterius PWB Helmstad. E³, Vlt- CE¹FGLMNV, Iterius R | tenebrae Ω, noctis E³ | tarde GMN Helmstad., tardis PWBCEFLRV | labentibus Ω, fulg- B¹ | post 696 unum versum excidisse opinor (Transierant . . .)
+- **697** Restabatque Ω, -antque MN²V
+- **698** Cum (um R) Ω, Tum L¹ | iussu BCEFGLMNRV, iussis PW Helmstad. | et(h)olius Ω, euth- PW¹, et eth- V, oethelius B¹
+- **699** Egreditur (-egi- L) Ω, Aggr- E | sociumque Ω, -usque B¹
+- **700** sublustri Ω (cf. Verg. Aen. 9, 373), -is B, -str(a)e E¹L
+- **702** parent Ω, habeant E
+- **703** Dumque Ω, Cumque EL | (h)orrendum Ω, -umque V | pernoctata LR, pernotata PWCE¹FMNB³, per nocturna B¹ Helmstad., per secreta G, per nota V, per non nota Baehrens; cf. Ov. met. 14, 122
+- **704** ecce dolon (sed dolon in ras. G²) GLR, ecce delon BCEFMNV Helmstad., eumenides PW ex 710 | troia Ω, troiana N
+- **705** om. E¹ | sollerti Ω, -ter L
+- **706** Perspiceret CEFGLRV, Prosp- MNB³, Asp- PWB¹ | plebisque Ω, plerisque LR
 
 ## p. 36
 
@@ -1477,10 +1585,10 @@ PDF page 194.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 708 | A | abdiderant occultantes sua corpora furtim |  |
+| 708 | Κ | abdiderant occultantes sua corpora furtim |  |
 | 709 |  | post densos frutices, dum spe percussus inani |  |
 | 710 |  | Tros Eumediades cursu praecederet illos, | 710 |
-| 711 | . | ne facile oppressusgressum in sua castra referret. |  |
+| 711 |  | ne facile oppressus gressum in sua castra referret. |  |
 | 712 | 350 | post ubi transierat fidens animoque manuque, |  |
 | 713 |  | prosiluere viri iuvenemque evadere cursu |  |
 | 714 |  | conantem capiunt ferroque manuque minantur. |  |
@@ -1492,7 +1600,7 @@ PDF page 194.
 | 720 |  | si vestras cepisset opes. haec dona secutus | 720 |
 | 721 |  | in dubios casus, coram quod cernitis ipsi, |  |
 | 722 |  | infelix cecidi. nunc vos per numina divum, |  |
-| 723 |  | per mare, per Ditis fluctus obtestor opaci^ |  |
+| 723 |  | per mare, per Ditis fluctus obtestor opaci, |  |
 | 724 |  | ne rapere hanc animam crudeli caede velitis. |  |
 | 725 |  | haec pro concessa referetis dona salute: | 725 |
 | 726 |  | consilium Priami regis remque ordine gentis |  |
@@ -1501,20 +1609,21 @@ PDF page 194.
 
 ### Apparatus
 
-- **708** Abdiderant (se add. BE^) Sl, --nmt Heinsius 70» Postii, Per G,In X \ percussusiJ, perculsus E^G, confixus B^
-- **710** Tros Eumedides (-iades L. Mueller) Schrader, Troius eumenides Sl, Troianus iuuenis E, Eumenides troiulus (prior u erasa) V \ illos Sl, conieci ipsos
-- **711** oppressus Sl, -um MN \ gressum in lin om. ELR, ad MN) sua castra J2, gressus in castra CF
-- **712** fidens BCEFGMNVHelmstad. W^, fixus P fTF» ut vid.), fidis R, fidi L; cf. Verg. Aen. 2, 61
-- **714** capiunt Sl, rapiunt E, rapiunt (uel c ss) P
-- **715** timore Sl, om. B
-- **716** quod bI Sl, quod sic E\ sed si E^, n sic L^, sic L^ \ ixa Sl, iram MNB^
-- **718** om. CF^ \ At B, Aut Sl \ si cur Sl, sicut LHelmstad.' I promisit (perm- P^) Sl, -ttit G V
-- **721** quod PWLN^B, quos CEFGMVB^N^, cum B^
-- **722** nunc uos (nos B) Sl, non UO8 CF^
-- **724** Ne Sl, Non C
-- **725** om. B
-- **726** priami regis remque PWCFGV, priami uobis (uob. pr. B) remque BM NB, priami remque omnem bxE, unbis priami totam remque L, priami pandam remque Helmslad.^
-- **728** recluso Sl, -sae G, reuulso §8
+- **708** Abdiderant (se add. BE³) Ω, -runt Heinsius
+- **709** Post Ω, Per G, In λ | percussus Ω, perculsus E¹G, confixus B¹
+- **710** Tros Eumedides (-iades L. Mueller) Schrader, Troius eumenides Ω, Troianus iuuenis E, Eumenides troiulus (prior u erasa) V | illos Ω, conieci ipsos
+- **711** oppressus Ω, -um MN | gressum in (in om. ELR, ad MN) sua castra Ω, gressus in castra CF
+- **712** fidens BCEFGMNV Helmstad. W², fixus P (W¹ ut vid.), fidis R, fidi L; cf. Verg. Aen. 2, 61
+- **714** capiunt Ω, rapiunt E, rapiunt (uel c ss.) P
+- **715** timore Ω, om. R
+- **716** quod si Ω, quod sic E¹, sed si E³, ñ sic L¹, sic L² | ira Ω, iram MNB³
+- **718** om. CF¹ | At B, Aut Ω | si cur Ω, sicut L Helmstad.¹ | promisit (perm- P¹) Ω, -ttit GV
+- **721** quod PWLN¹R, quos CEFGMVB³N², cum B¹
+- **722** nunc uos (nos R) Ω, non uos CF¹
+- **724** Ne Ω, Non C
+- **725** om. R
+- **726** priami regis remque PWCFGV, priami uobis (uob. pr. R) remque BMNR, priami remque omnem ex E, uobis priami totam remque L, priami pandam remque Helmstad.¹
+- **728** recluso Ω, -sas G, reuulso βδ
 
 ## p. 37
 
@@ -1522,7 +1631,7 @@ PDF page 195.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 729 | K | -j- detrudunt iuvenis: post haec tentoria Rhesi |  |
+| 729 | Κ | † detrudunt iuvenis: post haec tentoria Rhesi |  |
 | 730 | 470 | intrant atque ipsum somno vinoque sepultum | 730 |
 | 731 |  | obtruncant spoliantque virum fusosque per herbam |  |
 | 732 |  | exanimant socios; tum tristi caede peracta |  |
@@ -1536,7 +1645,7 @@ PDF page 195.
 | 740 | — | fessaque iucundae tradunt sua membra quieti. | 740 |
 | 741 |  | lux exorta viros in pristina bella remisit, |  |
 | 742 |  | instaurantque animos recreato milite pugnae |  |
-| 743 |  | fi6.55Dardanidum Dauaumque duces: volat undique nubes |  |
+| 743 | Λ 15. 55 | Dardanidum Danaumque duces: volat undique nubes |  |
 | 744 |  | telorum et ferro ferrum sonat, undique mixtis |  |
 | 745 |  | inter se strident mucronibus: instat utrimque | 745 |
 | 746 |  | densa acies mixtusque fluit cum sanguine sudor. |  |
@@ -1549,20 +1658,22 @@ PDF page 195.
 
 ### Apparatus
 
-- **(cont.)** 72» Detrudunt (-ant B) Sl, Detrudunt Baehrens, Detruncant de Eooy; an Dirumpunt.? Discindunt .«^ \ iunems PWCFGV£^, -ni E^ L M X B Helmstad. | i(li)esi .Q, regis J/, regi N', ovi. B^ 781 uirum cod. Santen., uiros P.., om. B^ \ herbam il, -as BE 782 tum (-nc P) tristi k, tristi tum B
-- **733** multo et FW^, multo cett., multos B
-- **734** Tracis G, T(h)races R, Thracas qp y (ex Stat. Theb. 6,486); cf. Oc. met. 9,194 | pr(a)ecederet eurus Sl, -et currus N^, -re cursus 31
-- **735** posset Sl, -it B^M] uoluc(h)ri il, -cris MN \ cursu Sl, eurus 31
-- **736** iterum 52, quideiu E I tempore Sl, -ra B^X
-- **737** accipit (i. audit) Sl, susc- LB, exc- 31 N
-- **739** Facta Sl, Fata P W^ \ duci Sl, ducis B, -it J3*
-- **740** Fessaque Sl, Fusaqiie L
-- **741** Lux exorta Sl, Luxit terra LB
-- **743** Dartlanidum (-umque F) BVB^, -nium Sl
-- **744** Telorum Sl, -umque 3IN \ et Sl et Gesta Ber., om. B^GL, non E nec 31 N \ ferro ferrum Sl, ferrum ferro BC3IN Gesta Ber. ; mixtis Sl, -tus W^
-- **745** strident (-ens E) Sl, -unt Gesta Ber. 1 utrimque (-umq; II ^3£) Sl, utrique L
-- **746** mixtusque (mict- B) Sl, mitusq; N\ intusq; 31
-- **748** AntiTphon van Kooten, Ant^haphonem vel -fonem Sl, -am L^ \ fudit Sl, fundit W E
+- **729** Detrudunt (-ant B) Ω, Detrudunt Baehrens, Detruncant de Rooy; an Dirumpunt? Discindunt? | iuuenis PWCFGVE³, -ni E¹LMNR Helmstad. | r(h)esi Ω, regis M, regi N², om. B¹
+- **731** uirum cod. Santen., uiros Ω, om. B¹ | herbam Ω, -as BE
+- **732** tum (-nc P) tristi Ω, tristi tum B
+- **733** multo et PW¹, multo cett., multos B
+- **734** Tracis G, T(h)races Ω, Thracas φv (ex Stat. Theb. 6, 486); cf. Ov. met. 9, 194 | pr(a)ecederet eurus Ω, -et currus N¹, -re cursus M
+- **735** posset Ω, -it B¹M | uoluc(h)ri Ω, -cris MN | cursu Ω, eurus M
+- **736** iterum Ω, quidem E | tempore Ω, -ra B¹N
+- **737** accipit (i. audit) Ω, susc- LR, exc- MN
+- **739** Facta Ω, Fata PW¹ | duci Ω, ducis R, -it B¹
+- **740** Fessaque Ω, Fusaque L
+- **741** Lux exorta Ω, Luxit terra LR
+- **743** Dardanidum (-umque V) RVB³, -nium Ω
+- **744** Telorum Ω, -umque MN | et Ω et Gesta Ber., om. B¹GL, non E, nec MN | ferro ferrum Ω, ferrum ferro BCMN Gesta Ber. | mixtis Ω, -tus W¹
+- **745** strident (-ens E) Ω, -unt Gesta Ber. | utrimque (-umq; W¹M) Ω, utrique L
+- **746** mixtusque (mict- R) Ω, mitusq; N¹, intusq; M
+- **748** Antiphon van Kooten, Ant(h)iphonem vel -fonem Ω, -am L¹ | fudit Ω, fundit WE
 
 ## p. 38
 
@@ -1570,43 +1681,44 @@ PDF page 196.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 749 | j 122 | Pisandrumque simul fratremque acl bella raentem |  |
-| 750 | 221 | Hippolochum;posthos gladiopetit Iphidamanta. | 750 |
+| 749 | Λ 122 | Pisandrumque simul fratremque ad bella ruentem |  |
+| 750 | 221 | Hippolochum; post hos gladio petit Iphidamanta. | 750 |
 | 751 |  | hic frater dextram iaculo ferit; ille dolore |  |
-| 752 |  | aciior accepto fugientem Antenore natum |  |
+| 752 |  | acrior accepto fugientem Antenore natum |  |
 | 753 |  | persequitur traxitque ferox cum vulnere poenas. |  |
 | 754 | 284 | Hector tum pugnae subit acri concitus ira |  |
 | 755 |  | Priamides et percussos agit undique Graios; | 755 |
-| 756 | 369 | nec Paris hostiles cessat prosternere tarmas |  |
+| 756 | 369 | nec Paris hostiles cessat prosternere turmas |  |
 | 757 | 583 | Eurypylique femur contento vulnerat arcu. |  |
 | 758 |  | incumbunt Troes, fugiunt in castra Pelasgi |  |
 | 759 |  | viribus exhaustis et vastis undique firmant |  |
-| 760 | M 453 | obicibus muros; tum saxo Martius Hector | 750 |
+| 760 | Μ 453 | obicibus muros; tum saxo Martius Hector | 760 |
 | 761 |  | perfringit portas ferrataque robora laxat. |  |
 | 762 | 468 | inrumpunt aditus Phryges atque in limine primo |  |
 | 763 |  | restantes sternunt Graios valloque catervas |  |
 | 764 |  | deturbant, alii scalas in moenia poscunt |  |
 | 765 |  | et iaciunt ignes: auget victoria vires. | 765 |
-| 766 |  | de muris pugnant Danai •fpuppesque per altas: |  |
+| 766 |  | de muris pugnant Danai † puppesque per altas: |  |
 
 ### Apparatus
 
-- **(cont.)** 74» Pisandrumque ^S, T(h)es(8)andruinque (-anumq; MN) iJ 7B0 et s. ut supra dant PW Helmstad. B^ E^ G^ et edd. a^dcpX, nisi quod Hypolitum (Hipijolochum ^) et fere amphidamanta (Iph- Heinsius) exhihent; pro Hic fratris (PW) dant §8 verum Hic frater, aiHinc fratris Helmstad.^ B^E^cp, Hicregis G^Helmstad.^; loco duoruni versuum hunc unum habent B^GE^FG^L MNE V: (H)yp(p)olitum post hos gladio ferit ille dolore (-em L)
-- **751** iaculo Vollmer, gladio il
-- **753** Persequitur Sl, Pros- LMN I ferox Sl, ferrorum L, simul BB
-- **754** tum i2, tunc PW I subit Sl, sub ingenti M \ acri concitus W*E^B^ Helmstad.cc^d, acriq; (q; om. B^) incitus Sl (E^ erasa), acri quoque (que N^ concitus MN^
-- **755** ut supra Sl (egit G); Pr. agit et perc. u. Gr. M
-- **756** Nec Sl, Haud G
-- **757** contento (-tu B^)Sl, cum toto P
-- **758** Troes Sl, Tr. et V
-- **759** ex(h)austis 5i, -sto L I uastis (fa- M) Sl, factis L
-- **760** tum Sl, cum EGLE ; martius vel -cius Sl, mauortius vel -cius MVN^a^S | hector Sl, heros V
-- **761** Perfringit Sl, Perfregit B^, Perstringit GLBV Helmstad.
-- **762** limine ^, -te TT^jB^
-- **763** ualloque ii, muroque PW
-- **764** Deturbant Sl, Prot- E \ in Sl, ad MN \ poscunt P W EL MNB, ponunt BGFG V Helmstad. W^E^
-- **765** auget PW, pr&ehet B^GEFGLMNBV, geminat ^»; cf. v. 494
-- **766** puppesque PW^ Helmstad.^ a^S, pubesque L, postesque i?, om.B\ txuieBque GEFGMNVW^B^Helmstad.-; cf. v. 770
+- **749** Pisandrumque βδ, T(h)es(s)andrumque (-anumq; MN) Ω
+- **750** et s. ut supra dant PW Helmstad. B³E³G² et edd. αβδφλ, nisi quod Hypolitum (Hippolochum β) et fere amphidamanta (Iph- Heinsius) exhibent; pro Hic fratris (PW) dant βδ verum Hic frater, at Hinc fratris Helmstad.¹ B³E³φ, Hic regis G² Helmstad.²; loco duorum versuum hunc unum habent B¹CE¹FG¹LMNRV: (H)yp(p)olitum post hos gladio ferit ille dolore (-em L)
+- **751** iaculo Vollmer, gladio Ω
+- **753** Persequitur Ω, Pros- LMN | ferox Ω, ferrorum L, simul BR
+- **754** tum Ω, tunc PW | subit Ω, sub ingenti M | acri concitus W²E²B³ Helmstad. αβδ, acriq; (q; om. B¹) incitus Ω (E¹ erasa), acri quoque (que N²) concitus MN²
+- **755** ut supra Ω (egit G); Pr. agit et perc. u. Gr. M
+- **756** Nec Ω, Haud C
+- **757** contento (-tu B¹) Ω, cum toto P
+- **758** Troes Ω, Tr. et V
+- **759** ex(h)austis Ω, -sto L | uastis (fa- M) Ω, factis L
+- **760** tum Ω, cum EGLR | martius vel -cius Ω, mauortius vel -cius MVN²αβδ | hector Ω, heros V
+- **761** Perfringit Ω, Perfregit B¹, Perstringit CLRV Helmstad.
+- **762** limine Ω, -te W¹B¹
+- **763** ualloque Ω, muroque PW
+- **764** Deturbant Ω, Prot- E | in Ω, ad MN | poscunt PW¹ELMNR, ponunt BCFGV Helmstad. W²E³
+- **765** auget PW, praebet B¹CEFGLMNRV, geminat B³; cf. v. 494
+- **766** puppesque PW¹ Helmstad.¹ αβδ, pubesque L, postesque R, om. B¹, turresque CEFGMNVW²B³ Helmstad.²; cf. v. 770
 
 ## p. 39
 
@@ -1614,46 +1726,46 @@ PDF page 197.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 767 | M 287 | saxa volant, subeunt acta testudine Troes |  |
-| 768 | 469 | asceuduutque aditus et postes viribus intrant. |  |
-| 769 |  | turbati fugiimt onines jin castra Pelasgi |  |
-| 770 | 470 | et scandunt puppes ; instat Troiana iuventus | 770 |
+| 767 | Μ 287 | saxa volant, subeunt acta testudine Troes |  |
+| 768 | 469 | ascenduntque aditus et postes viribus intrant. |  |
+| 769 |  | turbati fugiunt omnes † in castra Pelasgi |  |
+| 770 | 470 | et scandunt puppes; instat Troiana iuventus | 770 |
 | 771 |  | telaque crebra iacit: resonat clamoribus aether. |  |
-| 772 | K 43 | Xeptunus vires Danais animumque ministrat: |  |
-| 773 |  | pugna ingens oritur. furit istinc hostis et illinc. |  |
+| 772 | Ν 43 | Neptunus vires Danais animumque ministrat: |  |
+| 773 |  | pugna ingens oritur, furit istinc hostis et illinc. |  |
 | 774 | 387 | Idomenei dextra cadit Asius; Hector atrocem |  |
-| 775 | 185 | Amphimachum obtruncatnecnonoccumbitinarmis | 775 |
+| 775 | 185 | Amphimachum obtruncat nec non occumbit in armis | 775 |
 | 776 | 428 | Anchisae gener Alcathous, quem fuderat ense |  |
 | 777 |  | magnanimus ductor Rhytieus; tum fervidus hasta |  |
-| 778 | 51S | Deiphobus ferit Ascalaphum mergitque sub umbras. |  |
-| 779 | .r 388 | Hector ubique ferox violento pectore saevit, |  |
+| 778 | 518 | Deiphobus ferit Ascalaphum mergitque sub umbras. |  |
+| 779 | Ξ 388 | Hector ubique ferox violento pectore saevit, |  |
 | 780 | 412 | quem saxo ingenti percussum maximus Aiax | 780 |
 | 781 |  | depulit et toto prostratum corpore fudit. |  |
-| 782 | =25 011 | concurrit Troiana manus iuvenemque vomentem |  |
+| 782 | 425 Ο 11 | concurrit Troiana manus iuvenemque vomentem |  |
 | 783 | 434 | sanguineos fluctus Xanthi lavere fluentis. |  |
 | 784 |  | inde iterum ad pugnam redeunt, fit maxima caedes |  |
 | 785 |  | amborum et manat tellus infecta cruore. | 785 |
-| 786 | 450 | Polydamas valido Prothoenora percutit ictu, |  |
+| 786 | 450 | Polydamas valido Prothoënora percutit ictu, |  |
 
 ### Apparatus
 
-- **767** acta G ex Verg. Aen. 2, 441. 9, 505, facta Sl
-- **768** et portis (-tas L, postis Vollmer) uiribus instant (intrant error apud Kootenum)Sl
-- **769** T. f. 0. Sl, 0. t. f. PW\ in Sl, iam Baehrens, per Vollmer
-- **770** puppes Sl, turres M^K^ \ instat PWX, uig(u)et cett.
-- **772** u. d. Sl, d. u. B
-- **773** iUinc Sl, -ic B^F^
-- **774** Idomenei (-onei M) dextra CFGMBV a^8, Dextra (que add. edd.) idomenei (\di\im- P^ W B E') PWBELNl \ asius ii, iffirus G
-- **775** AmpMmac(h)um (-crum CFG V, -umq; E3IX) ob.truncat Sl, Truncat et arofigrachum B^ | occumbit Sl, proc- BG
-- **776** fuderat Sl, subderat B
-- **777** om. L | Rhyttdeus van Kooten, ret(li)eus Sl, ire theus CF^ \ tum BCFGMN, tunc PW, cum V, dum B, om. E^
-- **778** Deiphobus C^dcpX, Deiph(o)ebu8 vel Deif- Sl | asc(h)alaphum Sl, -cel- CFGL V, ascelopum B I umbras (-is E\ -a CF V) Sl, undas PTF^B
-- **779** ubique (q; om. LB) Sl, deinde N \ ferox Sl, ferus PW s(a)euit Sl, seruit F\ sedat V
-- **781** Depulit i2, Rep(p)ulit E^LNB prostratum Sl, -to E
-- **782** Concurrit Sl, Occ- E^, Cucuxrit B
-- **783** lauere Sl, -are FMN \ fluentis PW, -to cett., -tos M; cf. Verg. Aen. 4,143
-- **785** et manat (exm- LB) Si, manat et E^ j infecta (-facta L) Sl, infesta CFB V \ cruore Sl, -re L
-- **786** Polidamas (-madas E) Sl, Palidomas L, Prolidamas (-dim- W^B) Poet. Lat. Minorea U, 3. ed. VoUmer. 4
+- **767** acta G ex Verg. Aen. 2, 441. 9, 505, facta Ω
+- **768** et portis (-tas L, postis Vollmer) uiribus instant (intrant error apud Kootenum) Ω
+- **769** T. f. o. Ω, O. t. f. PW | in Ω, iam Baehrens, per Vollmer
+- **770** puppes Ω, turres M¹N¹ | instat PWλ, urg(u)et cett.
+- **772** u. d. Ω, d. u. B
+- **773** illinc Ω, -ic B¹F¹
+- **774** Idomenei (-onei M) dextra CFGMRVαβδ, Dextra (que add. edd.) idomenei (idum- P¹W¹BE¹) PWBELNλ | asius Ω, iffirus G
+- **775** Amphimac(h)um (-crum CFGV, -umq; EMN) obtruncat Ω, Truncat et amfigrachum B¹ | occumbit Ω, proc- BG
+- **776** fuderat Ω, subderat B
+- **777** om. L | Rhythieus van Kooten, ret(h)eus Ω, ire theus CF¹ | tum BCFGMN, tunc PW, cum V, dum R, om. E¹
+- **778** Deiphobus C¹δφλ, Deiph(o)ebus vel Deif- Ω | asc(h)alaphum Ω, -cel- CFGLV, ascelopum R | umbras (-is E³, -a CFV) Ω, undas PW¹B
+- **779** ubique (q; om. LR) Ω, deinde N | ferox Ω, ferus PW | s(a)euit Ω, seruit F¹, sedat V
+- **781** Depulit Ω, Rep(p)ulit E¹LNR | prostratum Ω, -to E
+- **782** Concurrit Ω, Occ- E¹, Cucurrit B
+- **783** lauere Ω, -are FMN | fluentis PW, -to cett., -tos M; cf. Verg. Aen. 4, 143
+- **785** et manat (exm- LR) Ω, manat et E¹ | infecta (-facta L) Ω, infesta CFRV | cruore Ω, -rē L
+- **786** Polidamas (-madas E) Ω, Palidomas L, Prolidamas (-dim- W¹B)
 
 ## p. 40
 
@@ -1661,33 +1773,39 @@ PDF page 198.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 787 | 465 | Archelochumque Antenoriden Telamonius Aiax, |  |
-| 788 | 476 | BoeotumqueAcamasPromachum,quemsternitatrocis |  |
-| 789 | 488 | Penelei dextra: inde cadit Priameia pubes | 789 |
-| 792 | o 1 | pulsa metu valhimque et muros aggere saeptos | 792 |
-| 793 |  | transiliunt, ahi fossas volvuntur in ipsas. | 793 |
+| 787 | Ξ 465 | Archelochumque Antenoriden Telamonius Aiax, |  |
+| 788 | 476 | Boeotumque Acamas Promachum, quem sternit atrocis |  |
+| 789 | 488 | Penelei dextra; inde cadit Priameia pubes | 789 |
+| 792 | Ο 1 | pulsa metu vallumque et muros aggere saeptos | 792 |
+| 793 |  | transiliunt, alii fossas volvuntur in ipsas. | 793 |
 | 794 | 279 | advolat interea Danaum metus impiger Hector: | 794 |
 | 790 | 306 | acrius insurgunt Troes ad Achaica bella, | 790 |
-| 795 | 343 | coufugiuut iterum ad classes Agamemnonis alae | 795 |
+| 795 | 343 | confugiunt iterum ad classes Agamemnonis alae | 795 |
 | 796 | 406 | atque inde adversis propellunt viribus hostem. |  |
 | 797 |  | fit pugna ante rates; saevit Mavortius Hector |  |
 | 798 |  | et poscit flammas totamque incendere classem |  |
 | 799 | 416 | apparat; huic validis obsistit viribus Aiax, |  |
-| 800 |  | stans prima in puppi, clipeoque incendia saeva | soo |
-| 801 |  | sustinet et sohis defendit mille carinas. |  |
+| 800 |  | stans prima in puppi, clipeoque incendia saeva | 800 |
+| 801 |  | sustinet et solus defendit mille carinas. |  |
 | 802 |  | hinc iaciunt Danai robustae cuspidis hastas, |  |
-| 803 | 743 | ilhnc ardentes taedas Phryges undique iactant: |  |
+| 803 | 743 | illinc ardentes taedas Phryges undique iactant: |  |
 
 ### Apparatus
 
-- **(cont.)** PW^B I Prothoenora cpv, prot(h~)enora (-era FV) Sl \ percutit P WB CFG^ (G^ n. l.) LN\ -lit EMB VN^
-- **787** Archilocum (om. que) cc^S, Amphiloc(h)umque Sl | antenoriden Ecp, -dem P§, -de (annor- 31) Sl
-- **788** Boeotumque Bondam, Bi'o)et(h)eumque fere Sl \ Promachum quem stemit Wernsdorf, promac(h umque ste,xmi CFLBV, -chumq: quoq; 6i. E, -chumq; //st. G, promace prosternit (stemit P) P "PT, promac ('quoque add. B^) st. B, machumque prostemit MN \ atrocis PWLN^R (E^G^ non leguntur), atrocem B CFM VE^ GW^
-- **789** Penelei (Pelle- W^) Sl, P(o)eneli(a)e CFLVG- (G' anceps), Leneli^ B | dextra inde cadit iJ, dextraque c. F, dextra incumbit C 790 post 794 relegavi Vollmer 791 versum Instaurantque manus • cedit pelopeia uirtus (sic Mon. etX, pubes Helmstad.-, iuuentus E^) om. Sl, liabent Monac. lat. 5594 et ed. X in contextu et E^ Helmstad.^ in margine 792 uallumque (que om. P) Sl, ualloque C F^ 793 fossas v. in i^sas PWMN, fossa V. in i^aa, BCEFGLBV
-- **790** insurgunt PWMN Helmstad. B^a^d, ass- vel adsurgunt (-ere F') B'CEFGLBV \ ad PWBCFVHelmstad.E^ (G'n.1), etE^LMNBG- \ achaica Sl, achaia E^ C M^ N Helmstad. \ bella ^, belli R 796 et hoc loco et x)OSt 815 exMhet E^ \ Confugiunt Sl, Eff- E bis
-- **796** hostem Sl, hostes G W-
-- **797** ante rates Sl, ad naues E^ 79» huic Sl, hinc EFM | obsistit 3Ia§S, obsistere (ins- CF, dis- L) Sl
-- **800** in Sl, om. B
+- **(cont.)** PW²B | Prothoenora φv, prot(h)enora (-era FV) Ω | percutit PWBCFG² (G¹ n. l.) LN¹, -lit EMRVN²
+- **787** Archilocum (om. que) αβδ, Amphiloc(h)umque Ω | antenoriden Eφ, -dem Pβ, -dē (annor- M) Ω
+- **788** Boeotumque Bondam, B(o)et(h)eumque fere Ω | Promachum quem sternit Wernsdorf, promac(h)umque sternit CFLRV, -chumq: quoq; st. E, -chumq; // st. G, promacē prosternit (sternit P) PW, promac̃ (quoque add. B³) st. B, machumque prosternit MN | atrocis PWLN¹R (E¹G¹ non leguntur), atrocem BCFMVE²G²N²
+- **789** Penelei (Pelle- W¹) Ω, P(o)eneli(a)e CFLVG² (G¹ anceps), Lenelię R | dextra inde cadit Ω, dextraque c. F, dextra incumbit C
+- **790** post 794 relegavi Vollmer
+- **791** versum Instaurantque manus · cedit pelopeia uirtus (sic Mon. et λ, pubes Helmstad.², iuuentus E³) om. Ω, habent Monac. lat. 5594 et ed. λ in contextu et E³ Helmstad.² in margine
+- **792** uallumque (que om. P) Ω, ualloque CF¹
+- **793** fossas v. in ipsas PWMN, fossa v. in ipsa BCEFGLRV
+- **790** insurgunt PWMN Helmstad. B³αβδ, ass- vel adsurgunt (-ere F¹) B¹CEFGLRV | ad PWBCFV Helmstad. E³ (G¹ n. l.), et E¹LMNRG² | achaica Ω, achaia E¹CM¹N Helmstad. | bella Ω, belli R
+- **795** et hoc loco et post 815 exhibet E¹ | Confugiunt Ω, Eff- E bis
+- **796** hostem Ω, hostes GW²
+- **797** ante rates Ω, ad naues E¹
+- **799** huic Ω, hinc EFM | obsistit Mαβδ, obsistere (ins- CF, dis- L) Ω
+- **800** in Ω, om. B
 
 ## p. 41
 
@@ -1695,19 +1813,19 @@ PDF page 199.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 804 |  | per vastos sudor puguantum defluit artus. |  |
-| 805 | Ti 2 | uon valet ulterius cladem spectare suorum | scd |
-| 806 |  | isoPatroclus subitoque armis mimitus Achillis |  |
+| 804 |  | per vastos sudor pugnantum defluit artus. |  |
+| 805 | Π 2 | non valet ulterius cladem spectare suorum | 805 |
+| 806 | 130 | Patroclus subitoque armis munitus Achillis |  |
 | 807 | 280 | provolat et falsa conterret imagine Troas. |  |
-| 808 |  | qui modo turba! ant Dauaos animoque fremebant, |  |
+| 808 |  | qui modo turbabant Danaos animoque fremebant, |  |
 | 809 |  | nunc trepidi fugiunt: fugientibus imminet ille |  |
-| 810 |  | perturbatque ferox acies vastumque per agmen | f-in |
+| 810 |  | perturbatque ferox acies vastumque per agmen | 810 |
 | 811 | 481 | sternit et ingenti Sarpedona vulnere fundit |  |
 | 812 | 684 | et nunc hos cursu nunc illos praeterit ardens |  |
 | 813 |  | proeliaque horrendi sub imagine versat Achillis. |  |
 | 814 |  | quem postquam socias miscentem caede catervas |  |
-| 815 | 727 | turbantemque acies respexit fervidus Hector, | 8i5 |
-| 816 |  | tollit atrox animos vastisoue inmanis in armis |  |
+| 815 | 727 | turbantemque acies respexit fervidus Hector, | 815 |
+| 816 |  | tollit atrox animos vastisque inmanis in armis |  |
 | 817 |  | occurrit contra magnoque hunc increpat ore: |  |
 | 818 | — | 'huc age nunc converte gradum, fortissime Achilles: |  |
 | 819 | — | iam nosces, ultrix quid Troica dextera possit |  |
@@ -1721,20 +1839,23 @@ PDF page 199.
 
 ### Apparatus
 
-- **804** Per (Tn B) uaBtos sudor ^, Sudor per fessos E
-- **805** cladem Sl, c(a)edem M^R
-- **807** Prouolat (Peru- P, -cat E^LE) PWBE^LRE-, Aduolat (Au- CF, Ad- in rasura N^) CFG MNVE^ I conter(r)et Sl, consternit L
-- **808** animoque (-osq; L) Sl, -misque G^Kt vid. et MNa§d
-- **809** iS^^unc Sl, Tnnc PG
-- **810** Perturbatque Sl, Prot- E^NV, Cont- R
-- **811** Sternit et Sl, Sternitque 3IN, Fertur et X, Saeuit et ? 1 ingenti £1, -tem CF \ fundit Q,, fudit BELN
-- **812** cuisu Sl, curru cod. Voss. \ pr(a)eterit Sl, prot- (prod- 31^) EMN 81S (h)orrendi (-dis B^ ut vid., -nti G) Sl, -da u§Scp
-- **815** respexit i2, consp- a§6(p
-- **816** que Sl, om. W^
-- **817** hunc Sl, hoc C\ hic F Helmstad., h(a)ec ER, hec uerbai,- an 'huc'.^ 8I8 age nunc PWHelmstad., age (iam add. §6) huc BCEFGLMNRV u^Scp \ gradum Sl, -du F, -dus X
-- **820** bello PWB, in bello cett. \ ualeat EL MNR, possit P WB CFG V
-- **821** Kam 9., lam CFN^ R V 1 ipse Sl, ille E 826 prior i2, prius G, primum V
-- **826** quam Sl, qui R, om. B^ | celeri P., -re in -ri corr. B^ \ ictu Sl, astu B^
+- **804** Per (In R) uastos sudor Ω, Sudor per fessos E
+- **805** cladem Ω, c(a)edem M¹R
+- **807** Prouolat (Peru- P, -cat E¹LR) PWBE¹LRE², Aduolat (Au- CF, Ad- in rasura N²) CFGMNVE³ | conter(r)et Ω, consternit L
+- **808** animoque (-osq; L) Ω, -misque G¹ ut vid. et MNαβδ
+- **809** Nunc Ω, Tunc PG
+- **810** Perturbatque Ω, Prot- E¹NV, Cont- R
+- **811** Sternit et Ω, Sternitque MN, Fertur et λ, Saeuit et ς | ingenti Ω, -tem CF | fundit Ω, fudit BELN
+- **812** cursu Ω, curru cod. Voss. | pr(a)eterit Ω, prot- (prod- M¹) EMN
+- **813** (h)orrendi (-dis B¹ ut vid., -nti G) Ω, -da αβδφ
+- **815** respexit Ω, consp- αβδφ
+- **816** que Ω, om. W¹
+- **817** hunc Ω, hoc C¹, hic F Helmstad., h(a)ec ER, hec uerba L; an 'huc'?
+- **818** age nunc PW Helmstad., age (iam add. βδ) huc BCEFGLMNRVαβδφ | gradum Ω, -du V, -dus λ
+- **820** bello PWB, in bello cett. | ualeat ELMNR, possit PWBCFGV
+- **821** Nam Ω, Iam CFN¹RV | ipse Ω, ille E
+- **825** prior Ω, prius G, primum V
+- **826** quam Ω, qui R, om. B¹ | celeri Ω, -re in -ri corr. B¹ | ictu Ω, astu B¹
 
 ## p. 42
 
@@ -1742,38 +1863,40 @@ PDF page 200.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 827 | — | Patroclus redditque vices et mutua doua |  |
+| 827 | — | Patroclus redditque vices et mutua dona |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 | 828 | — | quod clipeo excussum viridi tellure resedit. |  |
-| 829 | — | tuuc rigidos stringunt enses et comminus armi.-i |  |
-| 830 |  | inter se miscent, donec Troianus Apollo | ?i8o |
-| 831 | 77 793 | mentitos vultus simulati pandit Achillis |  |
-| 832 |  | denudatque virum: quem bello maximus Hector |  |
+| 829 | — | tunc rigidos stringunt enses et comminus armis |  |
+| 830 |  | inter se miscent, donec Troianus Apollo | 830 |
+| 831 | Π 793 | mentitos vultus simulati pandit Achillis |  |
+| 832 |  | denudatque virum; quem bello maximus Hector |  |
 | 833 |  | pugnantem falsis postquam deprendit in armis, |  |
 | 834 | 820 | irruit et iuvenem nudato pectore ferro |  |
 | 835 | Ρ 125 | traicit et victor Vulcania detrahit arma. | 835 |
 | 836 | 132 | vindicat extincti corpus Telamonius Aiax |  |
 | 837 |  | oppositoque tegit clipeo. Priameia pubes |  |
-| 838 |  | laetitia exultat^ Danai sua fanera maerent. |  |
+| 838 |  | laetitia exultat, Danai sua funera maerent. |  |
 | 839 | Σ 2 | interea iuvenis tristi cum pube suorum |  |
-| 840 |  | Nestorides in castra ferunt miserabile corpus. | 3« |
-| 841 | 22 | tmicf ut Pelidis aures diverberat horror; |  |
-| 842 |  | pallait infelix iuvenis, calor ossa reliquit. |  |
-| 843 | — | membra simul lacrimans materno fnectit amictu, |  |
+| 840 |  | Nestorides in castra ferunt miserabile corpus. | 840 |
+| 841 | 22 | tunc † ut Pelidis aures diverberat horror; |  |
+| 842 |  | palluit infelix iuvenis, calor ossa reliquit. |  |
+| 843 | — | membra simul lacrimans materno † nectit amictu, |  |
 
 ### Apparatus
 
-- **(cont.)** post 827 in contextu addunt Obicit et saxum ingenti (multo X) cum (cum ing. K) pondere missum (magnum N) MN et Monac. 5594 et ed. 1; in margine vel inter versus (in contextu edd.): Atque ferox iaculum toto cum robore mittit TF*, Viribus extortis (et totis a^dcp) telum contorsit (-quet a^Scp) in hostem. Obicit et saxum multo cum pondere missum E^ et edd. a^dcp; Obicet et saxum multo cum pondere misit Helmstad.^, Nan mittitq; (.^) man puudre at ms (litterae paene oblitae sunt) L'
-- **828** om. B I Quod cl. excussum i2, Quam cL excussam B^
-- **829** Tunc Sl, Nunc CF \ armis ii, arma E^).; cf. v. 263
-- **831** Mentitos Sl, Nutritos 3/
-- **832** que H, om. L | uirum Sl, utrum L
-- **834** et Sl, in JR
-- **835** uictor PWBE^, uicto cett. \ detra(h)it P., detuHt GFG^LVB^ traicit B
-- **836** Yendicat (Vind- B W^j a, Vindicet E^ post v. 837 habet ed. X: Ingentes lacrimas gemitusque in coi-pore fudit
-- **838** funera CEFGL (N^?) B VW^B\ uulnera P (W^?) B^MN
-- **839** pube Sl, plebe PW
-- **840** Nest- (h)orides (-en N\ -is E^) Sl, T(h)est,h)- PW^ \ ferunt B^ELB N\ fer// N\ refert CFGVB^u§d(p, tulit 31, gerit Wk, gemit P I miserabile £1, mira- FN
-- **841** Tunc (Hic EN^, Hinc B, Nunc L) ut (om. L^) pelidis (-des E^ et W^ ut vid., itemcp, -d(a)e CFLMN ups, -de hic G) aures diuerberat horror (rumor diu. auresi).Ji; duorum versuum fragmina? 848 Membra Sl, Tristia membra {om. lacrimans) BX \ lacrimans (-atia L)
+- **827** post 827 in contextu addunt Obicit et saxum ingenti (multo λ) cum (cum ing. N) pondere missum (magnum N) MN et Monac. 5594 et ed. λ; in margine vel inter versus (in contextu edd.): Atque ferox iaculum toto cum robore mittit W², Viribus extortis (et totis αβδφ) telum contorsit (-quet αβδφ) in hostem. Obicit et saxum multo cum pondere missum E³ et edd. αβδφ; Obicet et saxum multo cum pondere misit Helmstad.², Nan mittitq; (?) man pundre at m̃s (litterae paene oblitae sunt) L³
+- **828** om. R | Quod cl. excussum Ω, Quam cl. excussam B¹
+- **829** Tunc Ω, Nunc CF | armis Ω, arma E¹λ; cf. v. 263
+- **831** Mentitos Ω, Nutritos M
+- **832** que Ω, om. L | uirum Ω, utrum L
+- **834** et Ω, in R
+- **835** uictor PWBE³, uicto cett. | detra(h)it Ω, detulit CFG¹LVB³, traicit B
+- **836** Vendicat (Vind- RW²) Ω, Vindicet E¹ | post v. 837 habet ed. λ: Ingentes lacrimas gemitusque in corpore fudit
+- **838** funera CEFGL (N¹?) RVW²B³, uulnera P (W¹?) B¹MN
+- **839** pube Ω, plebe PW
+- **840** Nest(h)orides (-en N², -is E³) Ω, T(h)est(h)- PW¹ | ferunt B¹ELRN², fer// N¹, refert CFGVB³αβδφ, tulit M, gerit Wλ, gemit P | miserabile Ω, mira- FN
+- **841** Tunc (Hic EN², Hinc B, Nunc L) ut (om. L¹) pelidis (-des E¹ et W¹ ut vid., item φ, -d(a)e CFLMNαβδ, -de hic G) aures diuerberat horror (rumor diu. aures λ) Ω; duorum versuum fragmina?
+- **843** Membra Ω, Tristia membra (om. lacrimans) Bλ | lacrimans (-atis L)
 
 ## p. 43
 
@@ -1782,37 +1905,39 @@ PDF page 201.
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
 | 844 |  | [deflens Aeacides tristi de caede sodalis] |  |
-| 845 | ^ 28 | iinguibus ora secat comptosque in pulvere criiies | 845 |
-| 846 |  | deformat: scindit ffirmas de pectore vestes |  |
+| 845 | Σ 23 | unguibus ora secat comptosque in pulvere crines | 845 |
+| 846 |  | deformat: scindit † firmas de pectore vestes |  |
 | 847 | 317 | et super extincti prostratus membra sodalis |  |
 | 848 |  | crudeles fundit questus atque oscula figit. |  |
 | 849 |  | mox ubi depositi gemitus lacrimaeque quierunt, |  |
-| 850 | — | 'non impune mei laetabere caede sodalis, | 85o |
-| 851 | — | Hector' ait, '^magnoque meo, violente, dolori |  |
+| 850 | — | 'non impune mei laetabere caede sodalis, | 850 |
+| 851 | — | Hector' ait, 'magnoque meo, violente, dolori |  |
 | 852 | — | persolves poenas atque istis, victor, in armis, |  |
 | 853 | — | in quibus exultas, fuso moriere cruore.' |  |
-| 854 | — | post baec accensus furiis decurrit ad aequor |  |
+| 854 | — | post haec accensus furiis decurrit ad aequor |  |
 | 855 | — | fortiaque arma Thetin supplex rogat: illa relictis | 855 |
-| 856 | 148. S69 | fluctibus auxilium Vulcani protinus orat. |  |
+| 856 | 148. 369 | fluctibus auxilium Vulcani protinus orat. |  |
 | 857 | 468 | excitat Aetnaeos calidis fornacibus ignes |  |
 | 858 |  | Mulciber et validis fulvum domat ictibus aurum. |  |
-| 859 | r 3 | mox effecta refert divinis artibus aima, |  |
-| 860 |  | evolat et Thetis | seo |
+| 859 | Τ 3 | mox effecta refert divinis artibus arma, |  |
+| 860 |  | evolat et Thetis. . . . . . . . . . . . . | 860 |
 
 ### Apparatus
 
-- **(cont.)** ELMNBP-W-G^a§6(f, -mas PW\ -mis CFV, -mas an -mis G^ j matemo Sl, -na W^ ut cid. \ nectit i2, et n. CF, tersit G; an -vestit nt membra sint Patrocli? v. euni 844 damnavit Higt
-- **844** Deflens ^, Flens J? | eacides 9., -de L \ tristis PWBC EFG, tiiiii LMXBVffX, iusti cc§S
-- **845** com(p)tosque (que om. MVX) in 9, cultosque in Floril. PhHlipp., captosque in a§S(p; cf. Verg. Aen. 12,99 \ scindit (-ens qp) firmas de i2, scindit frnas {sine de) M, scinditque suas de §6 ex v. 1018; an maternas.S'
-- **848/49** sic dat E^: Crudeles fundit questus lacrimeq. quierant; explevit E^
-- **848** questus ilcpX, fletus a§S
-- **849** depositi Sl, -te LB^, -suit C-F^ depulsi G \ gemitus MN B^ (cf. V. 30), questus Sl post 849 exhibet X: Tristis ait iam iamque meo cruciabere ferro
-- **850** sodaHs Si, -li L
-- **851** magnoque Si, -asque MNq) \ dolori CFG^ (N^?j VE^L*a§d, -re Sl
-- **852** Persolues Sl, -as N^X, ens L \ uictor Sl; hyperbaton virgulis indicavi 864 decurrit P., decedit B^
-- **855** thetin PW^E, -im BW-, -I BGMN, -is (s del. F) CFLV\ illa Sl, ille PUWjF^a
-- **858** Mulciber Ba^d, -fer iJ | ualidis Sl, cal- E I ictibus van Kooten, ignibus Sl 869 refert Sl, fcrf^ns W^B^E^
-- **860** Euolat (Adu- G) et thetis PW^CFG2IN'V, Eu. et thetidi (thedi L) (E^ n. l.j LBN-, Eu. (Deu- cpv inde thetis E^(pv, Eu. ad thetin E^, Euolat ergo thetis gauisa in (ni ss. B^ tentibus armis Obtulit et nato B; lacunam indicavi
+- **(cont.)** ELMNRP²W²G²αβδφ, -mas PW¹, -mis CFV, -mas an -mis G¹ | materno Ω, -na W¹ ut vid. | nectit Ω, et n. CF, tersit G; an vestit ut membra sint Patrocli? v. cum 844 damnavit Higt
+- **844** Deflens Ω, Flens R | eacides Ω, -de L | tristis PWBCEFG, tristi LMNRVφλ, iusti αβδ
+- **845** com(p)tosque (que om. MVλ) in Ω, cultosque in Floril. Phillipp., captosque in αβδφ; cf. Verg. Aen. 12, 99 | scindit (-ens φ) firmas de Ω, scindit frn̄as (sine de) M, scinditque suas de βδ ex v. 1018; an maternas?
+- **848/49** sic dat E¹: Crudeles fundit questus lacrimeq. quierunt; explevit E³
+- **848** questus Ωφλ, fletus αβδ
+- **849** depositi Ω, -te LB¹, -suit CF¹, depulsi G | gemitus MNB³ (cf. v. 30), questus Ω | post 849 exhibet λ: Tristis ait iam iamque meo cruciabere ferro
+- **850** sodalis Ω, -li L
+- **851** magnoque Ω, -asque MNφ | dolori CFG¹ (N¹?) VE³L²αβδ, -re Ω
+- **852** Persolues Ω, -as N¹λ, ens L | uictor Ω; hyperbaton virgulis indicavi
+- **854** decurrit Ω, decedit B¹
+- **855** thetin PW¹E, -im RW², -ī BGMN, -is (s del. F) CFLV | illa Ω, ille P¹(W¹)F¹α
+- **858** Mulciber Bαβδ, -fer Ω | ualidis Ω, cal- E | ictibus van Kooten, ignibus Ω
+- **859** refert Ω, ferens W²B³E²
+- **860** Euolat (Adu- G) et thetis PW¹CFGMN¹V, Eu. et thetidi (thedi L) (E¹ n. l.) LRN², Eu. (Deu- φv) inde thetis E²φv, Eu. ad thetin E³, Euolat ergo thetis gauisa in (ni ss. B³) tentibus armis Obtulit et nato B; lacunam indicavi
 
 ## p. 44
 
@@ -1820,39 +1945,42 @@ PDF page 202.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 860 |  | quae postquam magnus Achilles |  |
-| 861 | — | induit, in clipeum vultus convertit atroces. | 36i |
-| 862 | 2. 48.. | illic Ignipotens mundi caelaverat arcem |  |
-| 863 |  | sideraque et liquidis redimitas undique nymphas | sss |
-| 874 |  | [fecerat et mire liquidas Nereidos arces] | S74 |
-| 864 | 607 | Oceanum terris et cinctum Nerea circum | 86i |
+| 860 |  | . . . . . . . quae postquam magnus Achilles |  |
+| 861 | — | induit, in clipeum vultus convertit atroces. | 861 |
+| 862 | Σ 483 | illic Ignipotens mundi caelaverat arcem |  |
+| 863 |  | sideraque et liquidis redimitas undique nymphas | 863 |
+| 874 |  | [fecerat et mire liquidas Nereidos arces] | 874 |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
+| 864 | 607 | Oceanum terris et cinctum Nerea circum | 864 |
 | 865 | — | annorumque vices dimensaque tempora noctis, | 865 |
 | 866 |  | quattuor et mundi partes, quantum Arctos ab Austro |  |
 | 867 | — | et quantum occasus roseo distaret ab ortu, |  |
 | 868 | — | Lucifer unde suis, unde Hesperus unus uterque |  |
 | 869 |  | exoreretur equis, et quantus in orbe mearet |  |
-| 870 |  | Luna cava et nitida lustraret lampade caelum; | sto |
-| 871 | - | addideratque fretis sua numina: Nerea magnum |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
+| 870 |  | Luna cava et nitida lustraret lampade caelum; | 870 |
+| 871 | — | addideratque fretis sua numina: Nerea magnum |  |
 | 872 | — | Oceanumque senem nec eundem Protea semper, |  |
 | 873 | — | Tritonasque feros et amantem Dorida fluctus; |  |
 
 ### Testimonia
 
-- **(cont.)** 86B—
-- **867** = Gesta Ber. 1, 108—110
+- **865—867** = Gesta Ber. 1, 108—110
 
 ### Apparatus
 
-- **861** atroces Sl, -cem CF^
-- **862** Illic il, Illinc B^N^ \ ignipotens (igne- TP) Sl, omnipotens P (L\i E; cf. v. 106 \ arcem £1, orbem uel arcem P, axem X, artem B, arte qp 86S liquidis Sl, -das BEMW^C-N- \ legendum nymphis . . . terras post86i exhibent v. 874 Sl
-- **874** mire vel -§ P^, mira (liq. mira MX) GLMNBC^ I nereidos -eios B) P., -das CFGMN | arces PWE^B V, arce BFL, arte CMN (G. n. l.)
-- **864** terris Sl, in terris E^B \ et Sl, om. L, sed EBN^ 866 Annorumque (Arm- PW^B) Sl Gesta Ber., Astr- EG
-- **866** quantum iJ, -ta B I arctus E^ G B Helmsiad. Gesta Ber., artus MN^ (N^ n. l), ?iTctosE'a§dcp, artosJ5, arcus L, aTicMon PW-CFV (W^n.l.)
-- **867** om. L^ I occasus Sl, oceanus PW^B | distaret Sl, rest- B, consistat Gesta Ber.
-- **868** suis Sl, uenit C
-- **869** Exoreretur Ba§8, Exorir- _Q, Exoritur PL^, Exoriatur E et Eehnstad.^ et l I et quantus in E^GB Hehnstad., et quantum iu PWBCF LMNE^ a§d, quantum quoque in V, quantus sol Wernsdorf\ orbe Sl, ore L post 869 iinum deesse versum intellexit L. Miiller quistipplevit: Phoebus^ ut inferius fraterno curreret igni
-- **871** fretis Sl, freto P(W^)GX, fretum et C, freti et F
-- **873** Tritonesque (Tvt- L) Sl I feros Sl, ferox P^B'E'N'
+- **861** atroces Ω, -cem CF¹
+- **862** Illic Ω, Illinc B¹N¹ | ignipotens (igne- W¹) Ω, omnipotens P (L¹) R; cf. v. 106 | arcem Ω, orbem uel arcem P, axem λ, artem R, arte φ
+- **863** liquidis Ω, -das BEMW²C²N² | legendum nymphis . . . terras | post 863 exhibent v. 874 Ω
+- **874** mire vel -ę Ω, mira (liq. mira MN) GLMNRC² | nereidos (-eios R) Ω, -das CFGMN | arces PWE¹RV, arce BFL, arte CMN (G. n. l.)
+- **864** terris Ω, in terris E¹R | et Ω, om. L, sed ERN²
+- **865** Annorumque (Arm- PW¹R) Ω Gesta Ber., Astr- EG
+- **866** quantum Ω, -ta R | arctus E¹GR Helmstad. Gesta Ber., artus MN² (N¹ n. l.), arctos E²αβδφ, artos B, arcus L, ar(c)ton PW²CFV (W¹ n. l.)
+- **867** om. L¹ | occasus Ω, oceanus PW¹B | distaret Ω, rest- R, consistat Gesta Ber.
+- **868** suis Ω, uenit C
+- **869** Exoreretur Rαβδ, Exorir- Ω, Exoritur PL¹, Exoriatur E et Helmstad.² et λ | et quantus in E¹GR Helmstad., et quantum in PWBCFLMNE²αβδ, quantum quoque in V, quantus sol Wernsdorf | orbe Ω, ore L | post 869 unum deesse versum intellexit L. Müller qui supplevit: Phoebus, ut inferius fraterno curreret igni
+- **871** fretis Ω, freto P(W¹)Gλ, fretum et C, freti et F
+- **873** Tritonesque (Tyt- L) Ω | feros Ω, ferox P¹B¹E¹N¹
 
 ## p. 45
 
@@ -1860,42 +1988,44 @@ PDF page 203.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 874 | — | fecerat et liquidas mira Xereidas arte. |  |
+| 874 | — | fecerat et liquidas mira Nereidas arte. |  |
 | 875 | — | terra gerit silvas horrendaque monstra ferarum | 875 |
-| 876 | s 490 | fiuminaque et montes cumque altis oppida muris, |  |
+| 876 | Σ 490 | fluminaque et montes cumque altis oppida muris, |  |
 | 877 |  | in quibus exercent leges annosaque iura |  |
 | 878 | 506 | certantes populi; sedet illic aequus utrisque |  |
 | 879 |  | iudex et litem discernit fronte severa. |  |
-| 880 | 593 | parte alia castae resonant Paeana puellae | sso |
-| 881 |  | dantque ckoros molles et tympana dextera pulsat: |  |
-| 882 |  | lile lyrae graciles exteuso poUice chordas |  |
-| 883 |  | percumt septemque modos modulatur avenis: |  |
-| 884 | — | earmina componunt mundi resonantia motum. |  |
-| 885 | sii | rura colunt alii, sulcant gravia arva iuvenci | s;*5 |
+| 880 | 593 | parte alia castae resonant Paeana puellae | 880 |
+| 881 |  | dantque choros molles et tympana dextera pulsat: |  |
+| 882 |  | ille lyrae graciles extenso pollice chordas |  |
+| 883 |  | percurrit septemque modos modulatur avenis: |  |
+| 884 | — | carmina componunt mundi resonantia motum. |  |
+| 885 | 542 | rura colunt alii, sulcant gravia arva iuvenci | 885 |
 | 886 | 551 | maturasque metit robustus messor aristas |  |
 | 887 | 561 | et gaudet pressis immundus vinitor uvis; |  |
 | 888 | 587 | tondent prata greges, pendent in rupe capellae. |  |
 
 ### Testimonia
 
-- **880** puellae — 888 recepta in Gesta Berengarii 1, 64 — 67
+- **880** puellae — 883 recepta in Gesta Berengarii 1, 64—67
 - **885** = Gesta Ber. 1, 68
-- **888** = Gesta Ber. 1, 69 (pendentqiie)
+- **888** = Gesta Ber. 1, 69 (pendentque)
 
 ### Apparatus
 
-- **874** lioc loco dant PWEGLBu§d, omiserunt BCF3INV Helvistad. cpX; cf. ad v. 863 \ mira EGLR, mir(a)e PTr | nereidas EGLR, -dos PW | arte EG, artes LB, arces PW SU. 873 ordinavit Baehrens »75 Terra gerit BEG Helmstad. P*TP'-CVi, Terga gmiigei CFLN') F^(M^?)C^FLX\ Terga gerunt (geft 3/; MBV^, Tergegef F^ Terra igitur a, Terram addit §S
-- **876** cumque (q; om. E\ Sl, et cum V
-- **877** annosaque M, animosaque (anio- B) Sl
-- **879** litem Sl, Utes Hehnstad. I discernit iJ, dec- BE \ eeueta, PWBE^, serena i-nus E^) CE^FGLMXRVHelmstad.
-- **880** cast(a)e (custe TT^) resonant PWB)., resonant castae (castum C-F') cett. | p a)eana ii, -ne L^
-- **881** et Sl Gesta Ber., hic Helmstad., hec l \ tympana (varie scriptumj dextera (-raque L) pulsat (-ant P^JVF^P^) PYTF^w. l)BCEFGLNR Va§Sqi Gesta Ber., dextra ^-era 31 Helm.stad.), tympana pulsant \ - a.t Hehnstad. X 31 Hehnstad.P- W^-X
-- **882** Ille PrW)CF {hic c. glossa apoUo) VFloril. Phill., IUae N-, Illa B E G L M N^ R Hehnstad. W-apScp, Atque Gesta Ber.
-- **883** modos ii, -is LX \ modulatur ii, -antur EMNR
+- **874** hoc loco dant PWEGLRαβδ, omiserunt BCFMNV Helmstad. φλ; cf. ad v. 863 | mira EGLR, mir(a)e PW | nereidas EGLR, -dos PW | arte EG, artes LR, arces PW
+- **874. 873** ordinavit Baehrens
+- **875** Terra gerit BEG Helmstad. P²W²C²φλ, Terga gerit (ger̃ CFLN¹) P¹(W¹?)C¹FLN¹, Terga gerunt (ger̃t M) MRV², Tergeger̃ V¹, Terrâ igitur α, Terram addit βδ
+- **876** cumque (q; om. E¹) Ω, et cum V
+- **877** annosaque M, animosaque (anio- B) Ω
+- **879** litem Ω, lites Helmstad. | discernit Ω, dec- BE | seuera PWBE³, serena (-nus E¹) CE¹FGLMNRV Helmstad.
+- **880** cast(a)e (custę W¹) resonant PWBλ, resonant castae (castum CF¹) cett. | p(a)eana Ω, -ne L¹
+- **881** et Ω Gesta Ber., hic Helmstad., hec λ | tympana (varie scriptum) dextera (-raque L) pulsat (-ant P¹NV¹B³) P¹(W¹ n. l.) BCEFGLNRVαβδφ Gesta Ber., dextra (-era M Helmstad.) tympana pulsant (-at Helmstad. λ) M Helmstad. P²W²λ
+- **882** Ille P(W¹)CF (hic c. glossa apollo) V Floril. Phill., Illae N², Illa BEGLMN¹R Helmstad. W²αβδφ, Atque Gesta Ber.
+- **883** modos Ω, -is Lλ | modulatur Ω, -antur EMNR
 - **884** componunt Ω, -nit L | motum (motu P¹?) PF¹MW²N² (in L non l. nisi mot) λ, motu W¹CN¹RVF², mota E ut vid., motus G Flor. Phill. et αβδφ
-- **885** Rura (ura R) Sl, lura C
+- **885** Rura (ura R) Ω, Iura C
 - **887** om. G¹
-- **888** Tondent (Con- 31) Sl, -unt P\ Tundent TF^P^ | pendent (-unt W^) Si, splendent R, pendentque Gesta Ber.
+- **888** Tondent (Con- M) Ω, -unt P¹, Tundent W¹P² | pendent (-unt W¹) Ω, splendent R, pendentque Gesta Ber.
 
 ## p. 46
 
@@ -1904,34 +2034,35 @@ PDF page 204.
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
 | 889 | — | haec inter mediis stabat Mars aureus armis, |  |
-| 890 | — | quem diva fpoesis freliquae circaque sedebant |  |
+| 890 | — | quem diva † poesis † reliquae circaque sedebant | 890 |
 | 891 | — | anguineis maestae Clotho Lachesisque capillis. |  |
-| 892 | T 364 | talibus ornatus donis Thetideius heros |  |
+| 892 | Τ 364 | talibus ornatus donis Thetideius heros |  |
 | 893 |  | in medias acies immani turbine fertur, |  |
-| 894 | 353 | cui vires praebet casta cum Pallade luno |  |
-| 895 | r 79 | dantque animos iuveni: vidit Cythereius heros |  |
+| 894 | 353 | cui vires praebet casta cum Pallade Iuno |  |
+| 895 | Υ 79 | dantque animos iuveni: vidit Cythereius heros | 895 |
 | 896 |  | occurritque viro, sed non cum viribus aequis |  |
-| 897 |  | Aeacidae nec fcorpus erat, tamen ira coegit |  |
-| 898 |  | conferre invictis iuvenem cura viribus arma. |  |
+| 897 |  | Aeacidae nec † corpus erat, tamen ira coegit |  |
+| 898 |  | conferre invictis iuvenem cum viribus arma. |  |
 | 899 | 291 | quem nisi servasset magnarum rector aquarum, |  |
-| 900 | — | ut profugus Latiis Troiam repararet in arvis |  |
+| 900 | — | ut profugus Latiis Troiam repararet in arvis | 900 |
 | 901 | — | Augustumque genus claris submitteret astris, |  |
 | 902 | — | non clarae gentis nobis mansisset origo. |  |
 
 ### Apparatus
 
-- **(cont.)** 88» H(a)ec (Nec E) Si, Hic X \ mediis (-ius WVccpScpXt stabat mars Sl, stabat medius mars P | armis Sl i. in clipeo
-- **890** Quem diua (-a in ras. W^, diuina F) poesis (possis i) reliqu(a e circaque sedebant (-at 31) PWCFLM NV a§S(p, Post quem diua potens poesis s. s. E^) reliqu^ circa (q; add. E^ sedebant E, Diua potens atropos cixca reliqueque sedebant G, llum uiua atropos reliq; circaq; sedebant li, hunc apos circum diue reliquaeque sedebant Helmstad., Atropos binc circumstabat reliqueq; sorores cod. Vind. et ed. i; conieci: Diva potens bellique; Atropos c. q. s.
-- **891** Anguineis Vollmer, Sanguineis (-us B) Sl \ capillis (-ellis W^G^) Sl post S91 in contextu dat (?': Cloto colum baiolat lachesis trahit atropos occat
-- **892** ornatus Sl, arm- a^8 \ donis Sl, armis Ea.§8 \ t(h}etide(i)us Sl, tyt- vel tit(h)- PFMN (W^ n. l.)
-- **894** (pr(a)ebet SIX, -ent apdcp, | easta cum PWE^a§Scp, cum easta cett.; cf. V. 532
-- **895** Dantque PWEMNa§S, Dant CFGLB V | iuueni uidit PW, i. uidet hunc W^G^X, i. contra E^, i. huic CFMV, i. huic contra LNBE^a§S(p, i. huic tunc G^ \ heros Sl, hector E'^ ut vid.
-- **896** Occuiritque uiro sed (uiros et L) non cum (enim non LB Helmstad.) Sl, Concurrit (Occ- E^) ////// non (forte sed enim non E^, forte sed non cum E^ E 897.
-- **898** om. edd. a§S 897 nec corpus (opus V^) SlcpX, nec compar W^
-- **899** seru. magn. Sl, magn. seru. P
-- **900** Yt Si, Nec E^, Et L, erasum in B | Latiis Bondam, l(a)etis (-us E^) Sl, lectis a§S \ aruis Barth, armis Sl
-- **901** Augustumque (q; om. E^) Sl, Ang- MNBa
-- **902** Non P^, Nec E\ Nunc B, Tunc L^ \ clar(a)e i2, carae van Kooten \ gentis nobis Sl, nobis g. P post 902 in contextu dat E^ solus: Ni se proriperet curruque innisus abiret
+- **889** H(a)ec (Nec E) Ω, Hic λ | mediis (-ius WVαβδφλ) stabat mars Ω, stabat medius mars P | armis Ω i. in clipeo
+- **890** Quem diua (-a in ras. W², diuina V) poesis (possis L) reliqu(a)e circaque sedebant (-at M) PWCFLMNVαβδφ, Post quem diua potens poesis (s. s. E³) reliquę circa (q; add. E³) sedebant E, Diua potens atropos circa reliqueque sedebant G, llum uiua atropos reliq; circaq; sedebant R, hunc āpos circum diue reliquaeque sedebant Helmstad., Atropos hinc circumstabat reliqueq; sorores cod. Vind. et ed. λ; conieci: Diva potens bellique; Atropos c. q. s.
+- **891** Anguineis Vollmer, Sanguineis (-us R) Ω | capillis (-ellis W¹G¹) Ω | post 891 in contextu dat G¹: Cloto colum baiolat lachesis trahit atropos occat
+- **892** ornatus Ω, arm- αβδ | donis Ω, armis Eαβδ | t(h)etide(i)us Ω, tyt- vel tit(h)- PFMN (W¹ n. l.)
+- **894** (pr(a)ebet Ωλ, -ent αβδφ | casta cum PWE¹αβδφ, cum casta cett.; cf. v. 532
+- **895** Dantque PWEMNαβδ, Dant CFGLRV | iuueni uidit PW¹, i. uidet hunc W²G²λ, i. contra E¹, i. huic CFMV, i. huic contra LNRE³αβδφ, i. huic tunc G¹ | heros Ω, hector E¹ ut vid.
+- **896** Occurritque uiro sed (uiros et L) non cum (enim non LR Helmstad.) Ω, Concurrit (Occ- E²) ///// non (forte sed enim non E², forte sed non cum E³) E
+- **897. 898** om. edd. αβδ
+- **897** nec corpus (opus V¹) Ωφλ, nec compar W²
+- **899** seru. magn. Ω, magn. seru. P
+- **900** Vt Ω, Nec E¹, Et L, erasum in R | Latiis Bondam, l(a)etis (-us E¹) Ω, lectis αβδ | aruis Barth, armis Ω
+- **901** Augustumque (q; om. E¹) Ω, Ang- MNRα
+- **902** Non Ω, Nec E¹, Nunc R, Tunc L¹ | clar(a)e Ω, carae van Kooten | gentis nobis Ω, nobis g. P | post 902 in contextu dat E¹ solus: Ni se proriperet curruque innisus abiret
 
 ## p. 47
 
@@ -1939,43 +2070,45 @@ PDF page 205.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 903 | 1 881 | incle agit Aeacides infesta cuspide Teucros |  |
-| 904 |  | ingentemque modum prosternit caede yirorum, |  |
-| 905 |  | sanguinis HectQrei sitiens; at Dardana pubes | soa |
-| 906 | (ji 1 | coufugit ad Xanthi rapidos perterrita fluctus |  |
+| 903 | Υ 381 | inde agit Aeacides infesta cuspide Teucros |  |
+| 904 |  | ingentemque modum prosternit caede virorum, |  |
+| 905 |  | sanguinis Hectorei sitiens; at Dardana pubes | 905 |
+| 906 | Φ 1 | confugit ad Xanthi rapidos perterrita fluctus |  |
 | 907 |  | auxiliumque petit divini fluminis; ille |  |
 | 908 | 233 | instat et in mediis bellatur gurgitis undis. |  |
 | 909 |  | ira dabat vires; stringuntur sanguine ripae |  |
-| 910 |  | sparsaque per totos volvuutur corpora fluctus. | 910 |
-| 911 | 234 | at Yenus et Phrygiae gentis tutator Apollo |  |
+| 910 |  | sparsaque per totos volvuntur corpora fluctus. | 910 |
+| 911 | 234 | at Venus et Phrygiae gentis tutator Apollo |  |
 | 912 |  | cogunt in Danaos Xanthi consurgere fluctus, |  |
-| 913 |  | ut fera tembili misceutem proelia dextra |  |
+| 913 |  | ut fera terribili miscentem proelia dextra |  |
 | 914 |  | obruat Aeaciden: qui protinus undique totis |  |
-| 915 | 24i | expatiatur aquis et vasto gurgite praeceps | pio |
-| 916 |  | volvitur atque virum torrentilus inpedit undis |  |
+| 915 | 24? | expatiatur aquis et vasto gurgite praeceps | 915 |
+| 916 |  | volvitur atque virum torrentibus inpedit undis |  |
 | 917 |  | praetardatque gradus; ille omni corpore saevas |  |
 | 918 |  | contra pugnat aquas adversaque flumina rumpit |  |
 | 919 |  | et modo disiectos umeris modo pectore vasto |  |
-| 920 | 328 | propellit fluctus. quem louge provida luno | 920 |
+| 920 | 328 | propellit fluctus. quem longe provida Iuno | 920 |
 | 921 | 330 | asseruit, rapidae quia cederet, ignibus, undae, |  |
 
 ### Apparatus
 
-- **(cont.)** »0S agit (ait 31) 9., adit E- (JE^ periit)
-- **905** Sanguinis Sl, ■Sanguis C | sitiens Sl, sedens jB, cedens C [ Sbi Sl, sed P W
-- **906** Confagit iJ, Eff- E
-- **907** fluminis Ω, num- PW αβδφ
-- **908** Instat S., Adstatque L \ bellatur (-or L) ELMN a§dcp, pugnatur P WCFG V/.
-- **909** Ira (Era L, Terra P TT') dabat Sl, Tradebat V\ uires Sl, cunctis E^ | stringuntur PW^E^LV, ting(u)untur CFG3INW'-E^ cc§d(pX; cf. Verg. Aen. S, 62
-- **910** Corpora St, sanguine E^^CV, pectora E^ \ fluctus (-os I) Sl, campos MN 911. »12 om. E^ 9H At P,, Et C^L
-- **914** Obruat Sl, Irruat MN | eacide (-em jE^) Sl, -en cp
-- **915** Expatiatur van Kooten (cf. Ov. met. 1,285), Expediatur (Imp- CFG^E^ Sl \ ei W^, sed vel set Sl, qui E^
-- **916** Yoluitur Sl, Solu- E' G torrentibus Sl, torqu- 31 N \ undis Sl, armis MN
-- **917** Pr(a)etardatque Sl, Predaratque JS^, Pre da datque iV^
-- **918** rumpit Sl, rupit P^E
-- **919** disiectos N, die- E, disiectis LX, deiectos (-ie W^ Sl
-- **920** Propellit Sl, App- P | longe Sl, longe nam L
-- **921** Asseruit Sl, Admonmi E Helmstad.- X, Seruauit V [ rapid(a)e Sl, rab- JBaehrens \ quia PWCFV Hebnstad., qua L, quo MN a§8(p, ne G, tandem quod E^, quod E^X \ cederet Sl, cedunt V I ignibus Sl, om. E^, ictibus GX, vel fluctibus G*, imbribas L. Mulkr I ignibus iungendum cum asseruit (cf. Thesaurus II p. 864); ad hyperbaton cf. natus v. 573, uictor 852
+- **903** agit (ait M) Ω, adit E² (E¹ periit)
+- **905** Sanguinis Ω, Sanguis C | sitiens Ω, sedens R, cedens C | at Ω, sed PW
+- **906** Confugit Ω, Eff- E
+- **907** fluminis Ω, num- PWαβδφ
+- **908** Instat Ω, Adstatque L | bellatur (-or L) ELMNαβδφ, pugnatur PWCFGVλ
+- **909** Ira (Era L, Terra PW¹) dabat Ω, Tradebat V | uires Ω, cunctis E¹ | stringuntur PW¹E¹LV, ting(u)untur CFGMNW²E³αβδφλ; cf. Verg. Aen. 8, 62
+- **910** Corpora Ω, sanguine E¹CV, pectora E³ | fluctus (-os F) Ω, campos MN
+- **911. 912** om. E¹
+- **911** At Ω, Et C¹L
+- **914** Obruat Ω, Irruat MN | eacidē (-em E) Ω, -en φ
+- **915** Expatiatur van Kooten (cf. Ov. met. 1, 285), Expediatur (Imp- CFG¹E³) Ω | et W², sed vel set Ω, qui E¹
+- **916** Voluitur Ω, Solu- E¹G | torrentibus Ω, torqu- MN | undis Ω, armis MN
+- **917** Pr(a)etardatque Ω, Predaratque E¹, Pre da datque N¹
+- **918** rumpit Ω, rupit P¹E
+- **919** disiectos N, die- E, disiectis Lλ, deiectos (-is W²) Ω
+- **920** Propellit Ω, App- P | longe Ω, longe nam L
+- **921** Asseruit Ω, Admonuit E Helmstad.² λ, Seruauit V | rapid(a)e Ω, rab- Baehrens | quia PWCFV Helmstad., qua L, quo MNαβδφ, ne G, tandem quod E¹, quod E³λ | cederet Ω, cedunt V | ignibus Ω, om. E¹, ictibus Gλ, vel fluctibus G², imbribus L. Müller | ignibus iungendum cum asseruit (cf. Thesaurus II p. 864); ad hyperbaton cf. natus v. 573, uictor 852
 
 ## p. 48
 
@@ -1983,43 +2116,44 @@ PDF page 206.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 922 | * 391 | sanctacjue pagnarunt inter se numina divum. |  |
+| 922 | Φ 391 | sanctaque pugnarunt inter se numina divum. |  |
 | 923 |  | rursus agit Phrygias ingenti caede catervas |  |
 | 924 | 520 | horridus Aeacides bellique ardore resumpto |  |
-| 925 |  | funereas acies horrendaque proeHa miscet, | 925 |
+| 925 |  | funereas acies horrendaque proelia miscet, | 925 |
 | 926 |  | non illum vis ulla movet, non saeva fatigant |  |
 | 927 |  | pectora bellando; vires successus adauget. |  |
-| 928 | 52» | percussi dubitant trepida formidine Troes |  |
+| 928 | 528 | percussi dubitant trepida formidine Troes |  |
 | 929 |  | atque intra muros exhausta paene salute |  |
 | 930 | 607 | confugiunt portasque obiecto robore firmant. | 930 |
-| 931 | X 35 | unus tota salus in quo Troiana manebat |  |
+| 931 | Χ 35 | unus tota salus in quo Troiana manebat |  |
 | 932 |  | Hector adest, quem non durae timor undique mortis, |  |
-| 933 | 88 | uon patriae tenuere preces, quin obvius iret |  |
+| 933 | 38 | non patriae tenuere preces, quin obvius iret |  |
 | 934 |  | et contra magnum contendere vellet Achillem. |  |
 | 935 |  | quem procul ut vidit tectum caelestibus armis, | 935 |
 | 936 |  | [ante oculos subito visa est Tritonia Pallas] |  |
 | 937 | 136 | pertimuit clausisque fugit sua moenia circum |  |
 | 938 |  | infelix portis; sequitur Nereius heros. |  |
 | 939 | 199 | in somnis veluti, cum pectora terruit ira, |  |
-| 940 |  | hic cursu super insequitur, fugere ille videtur, | yio |
+| 940 |  | hic cursu super insequitur, fugere ille videtur, | 940 |
 | 941 |  | festinantque ambo, gressum labor ipse moratur: |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 
 ### Apparatus
 
-- **924** (H)orridu3 fl, To- P
-- **926** fatigant Sl, -at cod. Virgil.
-- **927** bellando (-tum E) ^, pugnando Ll
-- **929** Atque 5i, Aut CE^ILV I intra EGLN, inx GFV, inter PWMa^Sif
-- **930** Confugiunt ii, Dum f- L, Eff- E^ \ obiecto ^, obducto P
-- **931** tota ii, tanta E
-- **932** adest5J/l, abest a§Scp \ non i2, nec V I dur(a)e Sl, -ri GcpX, -rum F, -us C, dira)e a§d \ mortis PW Helmstad. E^a^dcp, martis GX, matris CE^FLMNV
-- **933** Non P W\ Nec cett. post 933 P W^ dant versus 969. 970
-- **935** c(a)elestibus ii, fugentibus (sic) M
-- **936** versum exMbent Sl, delevit Barth ut interpolatuin ex v. 947
-- **937** om. E^ \ Pertimuit (-nuit M) PWGMNMelmstad.a^S, Permetuit CE^FL V \ clausisque 9., -usq; P^W^L
-- **939** terruit (terret iV^) ira 5i, terret imago Baehrens
-- **940** Bic Sl, Sic L \ cursu ELMNW^, rursus PW CFGVcc^dcp
-- **941** gressum (-u P) labor ipse {sic EGL Rehnstad., ille PWCFV)Sl, gressusque laborque MN post 941 opinor deesse minimum unum versum
+- **924** (H)orridus Ω, To- P
+- **926** fatigant Ω, -at cod. Virgil.
+- **927** bellando (-tum E) Ω, pugnando Lλ
+- **929** Atque Ω, Aut CE¹FLV | intra EGLN, int̃ CFV, inter PWMαβδφ
+- **930** Confugiunt Ω, Dum f- L, Eff- E² | obiecto Ω, obducto P
+- **931** tota Ω, tanta E
+- **932** adest Ωλ, abest αβδφ | non Ω, nec V | dur(a)e Ω, -ri Gφλ, -rum F, -us C, dir(a)e αβδ | mortis PW Helmstad. E³αβδφ, martis Gλ, matris CE¹FLMNV
+- **933** Non PW¹, Nec cett. | post 933 PW¹ dant versus 969. 970
+- **935** c(a)elestibus Ω, fugentibus (sic) M
+- **936** versum exhibent Ω, delevit Barth ut interpolatum ex v. 947
+- **937** om. E¹ | Pertimuit (-nuit M) PWGMN Helmstad. αβδ, Permetuit CE²FLV | clausisque Ω, -usq; P¹W¹L
+- **939** terruit (terret N²) ira Ω, terret imago Baehrens
+- **940** Hic Ω, Sic L | cursu ELMNW³, rursus PWCFGVαβδφ
+- **941** gressum (-u P) labor ipse (sic EGL Helmstad., ille PWCFV) Ω, gressusque laborque MN | post 941 opinor deesse minimum unum versum
 
 ## p. 49
 
@@ -2027,8 +2161,8 @@ PDF page 207.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 942 | X | alternis poterant insistere coepta periclis, |  |
-| 943 |  | nec requies aderat: timor fundique concitat iras. |  |
+| 942 | Χ | alternis poterant insistere coepta periclis, |  |
+| 943 |  | nec requies aderat: timor † undique concitat iras. |  |
 | 944 | — | spectant de muris miseri sua fata parentes |  |
 | 945 | — | pallentemque vident supremo tempore natum | 945 |
 | 946 |  | [quem iam summa dies suprema luce premebat]. |  |
@@ -2049,16 +2183,18 @@ PDF page 207.
 
 ### Apparatus
 
-- **942** Alternis (-rius E^ M, -rus L) £1 | poterant ^, properant Higt I intcllego: et Hector et Achilles de vita periclitabanfur
-- **943** Nec Sl, Hec PW^ | undique concitat iras £1, hinc, hinc c. ira Baehrens post 943 addidit W^ Ambo festinant, unum sed fata vocabant
-- **945** Pallentemque £1, Pallantesque P^ | tempore Sl, funere P
-- **946** orrt. N^ \ versuni spurium iuclico, additum ut supr. temp. explicetur
-- **947** subito Sl, -oque CF^ V
+- **942** Alternis (-rius E¹M, -rus L) Ω | poterant Ω, properant Higt | intellego: et Hector et Achilles de vita periclitabantur
+- **943** Nec Ω, Hec PW¹ | undique concitat iras Ω, hinc, hinc c. ira Baehrens | post 943 addidit W³ Ambo festinant, unum sed fata vocabant
+- **945** Pallentemque Ω, Pallantesque P¹ | tempore Ω, funere P
+- **946** om. N¹ | versum spurium iudico, additum ut supr. temp. explicetur
+- **947** subito Ω, -oque CF¹V
 - **949** Nam Ω, Iam G | cum FNV, tum PWCEGMαβδφ, tunc Lλ, dum volgo | deiphebi fere Ω | credidit armis Ω, credit (-didit N¹) in armis LMNαβδφ
-- **953** om. E^ \ nequiquam PWGV, -quic- CFLMN
-- **954** ferox mutat Sl, feros mia,nt Baehrens post 954 in marg. add. Helmstad.^: Indignatur eum sibi posse resistere achilles 958 Hastam quam eqs et 957 Inq; uirum hoc ordine habet solus L, 957. 958 ordinant PWMN,
-- **958** omiserunt CE FG V Helmstad.; pro versu 958 in contextu ante v. 957 habet E hunc: Interea ualidam thetidius extulit hastam; eundem post 956 ante 957 et 95S dat ed. 7.; in edd. a§S legitur alius Tunc heros dextra vibravit Nereus hastam et sequitur in a v. 958, in PS V. 957 968 iam Baehrens, quam PWLMN \ s(a)euus L MN, saeuis P Wl 957 emissam uiribus egit (astam F) Sl, emisit uiribus hastam G Helmstad. E^
-- **959** Quam pr(a)eter (propter u^d) Sl, Quem propter L
+- **953** om. E¹ | nequiquam PWGV, -quic- CFLMN
+- **954** ferox mutat Ω, feros uitant Baehrens | post 954 in marg. add. Helmstad.²: Indignatur eum sibi posse resistere achilles
+- **958** Hastam quam eqs et 957 Inq; uirum hoc ordine habet solus L, 957. 958 ordinant PWMN, 958 omiserunt CEFGV Helmstad.; pro versu 958 in contextu ante v. 957 habet E hunc: Interea ualidam thetidius extulit hastam; eundem post 956 ante 957 et 958 dat ed. λ; in edd. αβδ legitur alius Tunc heros dextra vibravit Nereus hastam et sequitur in α v. 958, in βδ v. 957
+- **958** iam Baehrens, quam PWLMN | s(a)euus LMN, saeuis PWλ
+- **957** emissam uiribus egit (astam F) Ω, emisit uiribus hastam G Helmstad. E³
+- **959** Quam pr(a)eter (propter αβδ) Ω, Quem propter L
 
 ## p. 50
 
@@ -2066,47 +2202,47 @@ PDF page 208.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 961 | X | vibratum iaculum Vulcania torquet in arma. |  |
+| 961 | Χ | vibratum iaculum Vulcania torquet in arma. |  |
 | 962 |  | nec successus adest, nam duro inflectitur auro |  |
-| 963 |  | dissiluit^^que^ mucro: gemuerunt agmina Troum. |  |
-| 964 | — | concurrunt iterum coUatis fortiter armis |  |
+| 963 |  | dissiluit\<que> mucro: gemuerunt agmina Troum. |  |
+| 964 | — | concurrunt iterum collatis fortiter armis |  |
 | 965 | — | inque vicem duros evitant comminus enses. | 965 |
-| 966 |  | nec suflPerre valet ultra iam sorte suprema |  |
-| 967 |  | iiistantem Aeaciden defectis viribus Hector; |  |
-| 968 | 294 | dumque retro cedit frateruaque rebus in artis |  |
-| 969 |  | respicit auxilia et nuUam videt esse salutem, |  |
+| 966 |  | nec sufferre valet ultra iam sorte suprema |  |
+| 967 |  | instantem Aeaciden defectis viribus Hector; |  |
+| 968 | 294 | dumque retro cedit fraternaque rebus in artis |  |
+| 969 |  | respicit auxilia et nullam videt esse salutem, |  |
 | 970 | — | sensit adesse dolos: quid agat? quae numina supplex | 970 |
 | 971 | — | invocet? et toto languescunt corpore vires |  |
-| 972 | — | auxiliumque negant; retinet "sax dextera ferrum, |  |
-| 973 | — | nox oculos iuimica tegit uec subvenit ullum |  |
+| 972 | — | auxiliumque negant; retinet vix dextera ferrum, |  |
+| 973 | — | nox oculos inimica tegit nec subvenit ullum |  |
 | 974 | — | defesso auxilium; pugnat moriturus et alto |  |
 | 975 |  | corde premit gemitus. instat Nereius heros | 975 |
-| 976 |  | turbatumque premit procul undique, tunc iacit | bastam |
+| 976 |  | turbatumque premit procul undique, tunc iacit hastam |  |
 | 977 | 327 | et medias rigida transfixit cuspide fauces. |  |
 | 978 | — | exultant Danai, Troes sua vulnera deflent. |  |
 | 979 |  | tunc sic amissis infelix viribus Hector |  |
-| 980 | S38 | 'en concede meos miseris genitoribus artus, | m |
+| 980 | 338 | 'en concede meos miseris genitoribus artus, | 980 |
 | 981 |  | quos pater infelix multo mercabitur auro: |  |
-| 982 |  | doua feres victor. Priami nuuc filius orat |  |
+| 982 |  | dona feres victor. Priami nunc filius orat |  |
 
 ### Apparatus
 
-- **961** Vibratum Sl, Librauit E^
-- **962** nam Sl, iam M
-- **963** Dissiliitq; E, Desiliitq; L^ ut vid., Di8(s)iluit (om. que) Sl
-- **964** collatis Sl, collectis P W
-- **966** iam sorte (-e N) suprema (hoc add. N *) MN, sortemque supremam P WC EFGL VRehnstad. a^dcpk
-- **967** Instantem (-emq; VJSehnstad., Stantemque PW^) eacidem (-en qp) Sl, Horruit instantem E \ defectis Sl, -tus Burmavn
-- **968** Dumque Sl, Dum W^, Tunc P \ in ar(c)tis Sl, in aptis M, in armis N'^, inanis CF 969.
-- **970** hic omiserunt PW^, eochibent post 933 I et Sl, om. PW
-- **971** Inuocet i2, -cat PW^ \ et Sl, in E
-- **974** Defesso Sl, Defenso W^E^L \ alto F\ altos Sl; cf. Verg. Aen. 10, 464
-- **975** premit Sl, petit male van Kooten
-- **976** tunc Sl, tum MNE^
-- **977** transfixit Sl, -git CF
-- **978** uulnera PW, funera C E F G L M N V Mehnstad. \ deflent Sl, plangunt MN\ merent L
-- **979** Tunc PWCMN, Tum EFGV, Dum L post 979 in marg. addit F': Pugnanti fatur proprium miserabile corpus
-- **980** En (WGa^S, Et PEL, At CF, Nunc M Helmstad., 0 N) concede Sl, Inquit cede V
+- **961** Vibratum Ω, Librauit E¹
+- **962** nam Ω, iam M
+- **963** Dissiliitq; E, Desiliitq; L¹ ut vid., Dis(s)iluit (om. que) Ω
+- **964** collatis Ω, collectis PW
+- **966** iam sorte (-ē N) suprema (hoc add. N²) MN, sortemque supremam PWCEFGLV Helmstad. αβδφλ
+- **967** Instantem (-emq; V Helmstad., Stantemque PW¹) eacidem (-en φ) Ω, Horruit instantem E | defectis Ω, -tus Burmann
+- **968** Dumque Ω, Dum W¹, Tunc P | in ar(c)tis Ω, in aptis M, in armis N¹, inanis CF
+- **969. 970** hic omiserunt PW¹, exhibent post 933 | et Ω, om. PW
+- **971** Inuocet Ω, -cat PW² | et Ω, in E
+- **974** Defesso Ω, Defenso W¹E¹L | alto F², altos Ω; cf. Verg. Aen. 10, 464
+- **975** premit Ω, petit male van Kooten
+- **976** tunc Ω, tum MNE²
+- **977** transfixit Ω, -git CF
+- **978** uulnera PW, funera CEFGLMNV Helmstad. | deflent Ω, plangunt MN², merent L
+- **979** Tunc PWCMN, Tum EFGV, Dum L | post 979 in marg. addit F²: Pugnanti fatur proprium miserabile corpus
+- **980** En (WGαβδ, Et PEL, At CF, Nunc M Helmstad., O N) concede Ω, Inquit cede V
 
 ## p. 51
 
@@ -2114,14 +2250,14 @@ PDF page 209.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 983 | — | te primuin, dux ille ducum, quem Graecia solum |  |
-| 984 | — | pertimuit: si, nec precibus nec munere Yictus, |  |
-| 985 | — | nec lacrimis miseri nec clara gente moyeris, | 9$5 |
+| 983 | — | te primum, dux ille ducum, quem Graecia solum |  |
+| 984 | — | pertimuit: si, nec precibus nec munere victus, |  |
+| 985 | — | nec lacrimis miseri nec clara gente moveris, | 985 |
 | 986 |  | afflicti miserere patris: moveat tua Peleus |  |
 | 987 |  | pectora pro Priamo, pro nostro pignore Pyrrhus.' |  |
-| 988 | jt 344 | talia Priamides; quem contra durus Achilles |  |
-| 989 |  | 'quid mea supplicibus temptas iuflectere dictis |  |
-| 990 |  | pectora, quem possem direptum more ferarum, | 9?o |
+| 988 | Χ 344 | talia Priamides; quem contra durus Achilles |  |
+| 989 |  | 'quid mea supplicibus temptas inflectere dictis |  |
+| 990 |  | pectora, quem possem direptum more ferarum, | 990 |
 | 991 |  | si sineret natura, meis absumere malis? |  |
 | 992 |  | te vero tristesque ferae cunctaeque volucres |  |
 | 993 |  | diripient, avidique canes tua viscera pascent. |  |
@@ -2132,31 +2268,32 @@ PDF page 209.
 | 998 | 396 | deligat ad currum pedibusque exsanguia membra |  |
 | 999 | — | ter circum muros victor trahit: altius ipsos |  |
 | 1000 | — | fert domini successus equos. tum maximus heros | 1000 |
-| 1001 |  | detulit ad Dauaos foedatum pulvere corpus. |  |
+| 1001 |  | detulit ad Danaos foedatum pulvere corpus. |  |
 | 1002 | 405 | laetantur Danai, plangunt sua funera Troes |  |
-| 1003 |  | et pariter captos deflent cum fimere muros. |  |
+| 1003 |  | et pariter captos deflent cum funere muros. |  |
 
 ### Apparatus
 
-- **983** primum Yollmer, priamus ii | solum il, sola L
-- **984** Pertimuit (-nuit M) Sl, Pret- W\ munere uictus PWCFG^VE^, uulnere uicti ELMNHelmstad.G^
-- **985** om. PW^
-- **986** moueat ^, moneat PMN \ peleus 9., pelex PW^
-- **987** pignore voJgo, pectore PWL, cot^otq CEFGMNVu^S^fX
-- **988** quem contra MN, contra quem 9.
-- **990** direptum il, discerptum E^
-- **991** meis Q., meis te CFNV
-- **992** tristesque 52, -emque CFVE^
-- **993** Diripient P,, -ant CF \ auidique (-deque W^) £1, -dosque van Dorp \ pascent i2, -ant E^, -unt 3/; N n. l.
-- **994** H(a)ec ex te capient Sl, hec c. ex te JLf, Excapient hec te N
-- **995** capiunt Sl, sapiunt GW'
-- **996** iactat £1, -ant E^F^
-- **997** Red(d)idit Sl, Reddit LV\ Reddit et CF, Perdidit JN^^ | animi '-mis PW) 9., -mo GN-
-- **998** DeUgat il, Et ligat E\ AU- E^ que Sl, om. LN
-- **999** altius PWGMN-a^Scp, altior CEF LVNH I ipsos P,, -is M lOOO tum P., dum G, tunc PM
-- **1001** Detulit Sl, Ret- E, Att- P
-- **1002** plangunt P., deflent P W funera WEGM, uulnera P, corpora CFLNV
-- **1003** captos defleut cum funere (mu- F^) mestos (mesti G, tristi E^, muros /., teucri qp) ii, captos deflent {debuit se flent) cum corpore
+- **983** primum Vollmer, priamus Ω | solum Ω, sola L
+- **984** Pertimuit (-nuit M) Ω, Pret- W | munere uictus PWCFG¹VE³, uulnere uicti ELMN Helmstad. G²
+- **985** om. PW¹
+- **986** moueat Ω, moneat PMN | peleus Ω, pelex PW¹
+- **987** pignore volgo, pectore PWL, corpore CEFGMNVαβδφλ
+- **988** quem contra MN, contra quem Ω
+- **990** direptum Ω, discerptum E¹
+- **991** meis Ω, meis te CFNV
+- **992** tristesque Ω, -emque CFVE³
+- **993** Diripient Ω, -ant CF | auidique (-deque W¹) Ω, -dosque van Dorp | pascent Ω, -ant E¹, -unt M; N n. l.
+- **994** H(a)ec ex te capient Ω, hec c. ex te M, Excapient hec te N
+- **995** capiunt Ω, sapiunt GW²
+- **996** iactat Ω, -ant E¹F¹
+- **997** Red(d)idit Ω, Reddit LV¹, Reddit et CF, Perdidit N¹ | animi (-mis PW) Ω, -mo GN²
+- **998** Deligat Ω, Et ligat E¹, All- E³ | que Ω, om. LN
+- **999** altius PWGMN²αβδφ, altior CEFLVN¹λ | ipsos Ω, -is M
+- **1000** tum Ω, dum G, tunc PM
+- **1001** Detulit Ω, Ret- E, Att- P
+- **1002** plangunt Ω, deflent PW | funera WEGM, uulnera P, corpora CFLNV
+- **1003** captos deflent cum funere (mu- F¹) mestos (mesti G, tristi E¹, muros λ, teucri φ) Ω, captos deflent (debuit se flent) cum corpore
 
 ## p. 52
 
@@ -2164,38 +2301,40 @@ PDF page 210.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 1004 | q^ 110 | interea victor defleti corpus araici |  |
+| 1004 | Ψ 110 | interea victor defleti corpus amici |  |
 | 1005 |  | funerat Aeacides pompasque ad funera ducit. | 1005 |
-| 1006 | sj 16 | ter circa tumulum miseros rapit Hectoris artus |  |
-| 1007 | ijy 258 | et vapido cineri ludorum indicit honores. |  |
-| 1008 | 538 | Tydides ftyrsin cursu pedibusque ferocem |  |
+| 1006 | Ω 16 | ter circa tumulum miseros rapit Hectoris artus |  |
+| 1007 | Ψ 258 | et vapido cineri ludorum indicit honores. |  |
+| 1008 | 538 | Tydides † tyrsin cursu pedibusque ferocem |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 | 1009 |  | Merionem superat; luctando vincitur Aiax, |  |
 | 1010 | 725 | cuius decepit vires Laertius astus; | 1010 |
 | 1011 | 665 | caestibus adversos cunctos superavit Epeos |  |
 | 1012 | 844 | et disco forti Polypoetes depulit omnes |  |
 | 1013 | 882 | Merionesque arcu; tandem certamine misso |  |
-| 1014 | .'2 1 | in sua castra redit turbis comitatus Acliilles. | [ma«sto |
-| 1015 | X m | flent miseri amissum Pbryges Hectora, totaque | lois |
+| 1014 | Ω 1 | in sua castra redit turbis comitatus Achilles. |  |
+| 1015 | Χ 405 | flent miseri amissum Phryges Hectora, totaque maesto | 1015 |
 | 1016 |  | Troia sonat planctu; fundit miseranda querellas |  |
 | 1017 | 430 | infelix Hecabe saevisque arat unguibus ora |  |
-| 1018 | 466 | Aadromacheque suas scindit de pectore vestes, |  |
+| 1018 | 466 | Andromacheque suas scindit de pectore vestes, |  |
 
 ### Apparatus
 
-- **(cont.)** mesto Helmstad., captum deflent cum funere corpus E', corpus deflent cum funei-e captum MN
-- **1004** defleti 52, -tum X
-- **1005** ad funera Sl, cf. Verg. georg. 3,22
-- **1006** Tei 31 NMon. 29038 X, Tum WCEFGLV a(iS(p, Tanc P I circa SIX, circum a^S(p | rapit Sl, trahit PW \ uapido (-dos CF^) PWCFV, rapidos L, uarios EGMXJSelmstad.a^ScpX \ indicit (-cat V) Sl, inducit GE^cp
-- **1008** tyrsin PE, tirsin W, tirsim MNMehmtad., thyrsim GL, thyrsum CF^ tirph sim N; conieci Trosin (equis) \ cursu (-tu L) Sl, casu JV*, curru van Kooten \ que Sl, om. W^ | ferocem Sl, ferorum {i. equorum) Wernsdorf post 1008 unum vel duos versus deesse puto
-- **1009** Merionem (Mero- 31) Sl, erion et L \ luctando Sl, ludendo MN
-- **1010** laercius vel -tius G Helmstad. E^ a§dq)X, lertius V, il(I)ertius PW3I, il(l)ercius E^FLN, ileritius C \ astus Vollmer. astur PWN^V\ hastur L, acer CF, astu EG3IHelmstad.N^ V^a§S(pX
-- **1011** Cestibus i2, Celestib; W, Testibus X | aduersos L, -sis Sl \ epeos E^LG^, eph(a)ebus (-bos CF^N^) PWCFGMNVa§8(pX
-- **1012** forti Sl, -\s, LX \ polibetes fere Sl
-- **1013** Merionesque (-resq; P, que otn. E^) Sl, Adstant^s Mon. 29 038
-- **1014** turbis (tubis P) Sl, -am E^ \ comitatus Sl, -tur PCF 1016 planctu Sl, -u 31 1017.
-- **1016** 31
-- **1017** (h)ec- (c)uba fereSl, hecub(a)e Ea§8(p \ s(a)euisque (-itq; E) arat Sl, seuis secat MN
-- **1018** -que suas Sl, proprias V \ scindit Sl, -ene CFMVapS(p \ de PWEGX, a CFLMNVa§S(p
+- **(cont.)** mesto Helmstad., captum deflent cum funere corpus E³, corpus deflent cum funere captum MN
+- **1004** defleti Ω, -tum λ
+- **1005** ad funera Ω, cf. Verg. georg. 3, 22
+- **1006** Ter MN Mon. 29038 λ, Tum WCEFGLVαβδφ, Tunc P | circa Ωλ, circum αβδφ | rapit Ω, trahit PW | uapido (-dos CF¹) PWCFV, rapidos L, uarios EGMN Helmstad. αβδφλ | indicit (-cat V) Ω, inducit GE³φ
+- **1008** tyrsin PE, tirsin W, tirsim MN Helmstad., thyrsim GL, thyrsum CF, tirph sim N; conieci Trosin (equis) | cursu (-tu L) Ω, casu N¹, curru van Kooten | que Ω, om. W¹ | ferocem Ω, ferorum (i. equorum) Wernsdorf | post 1008 unum vel duos versus deesse puto
+- **1009** Merionem (Mero- M) Ω, erion et L | luctando Ω, ludendo MN
+- **1010** laercius vel -tius G Helmstad. E³αβδφλ, lertius V, il(l)ertius PWM, il(l)ercius E¹FLN, ileritius C | astus Vollmer, astur PWN¹V¹, hastur L, acer CF, astu EGM Helmstad. N²V²αβδφλ
+- **1011** Cestibus Ω, Celestib; W, Testibus L | aduersos L, -sis Ω | epeos E¹LG², eph(a)ebus (-bos CF¹N¹) PWCFGMNVαβδφλ
+- **1012** forti Ω, -is Lλ | polibetes fere Ω
+- **1013** Merionesque (-resq; P, que om. E¹) Ω, Adstantes Mon. 29038
+- **1014** turbis (tubis P) Ω, -am E³ | comitatus Ω, -tur PCF
+- **1016** planctu Ω, -ū M
+- **1017. 1016** M
+- **1017** (h)ec(c)uba fere Ω, hecub(a)e Eαβδφ | s(a)euisque (-itq; E) arat Ω, seuis secat MN
+- **1018** -que suas Ω, proprias V | scindit Ω, -ens CFMVαβδφ | de PWEGλ, a CFLMNVαβδφ
 
 ## p. 53
 
@@ -2203,18 +2342,18 @@ PDF page 211.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 1019 |  | lieu tanto spoliata viro. ruit omnis in uno |  |
-| 1020 | — | Hectore causa PhrTgum, ruit hcc defensa senectus | 1020 |
+| 1019 |  | heu tanto spoliata viro. ruit omnis in uno |  |
+| 1020 | — | Hectore causa Phrygum, ruit hoc defensa senectus | 1020 |
 | 1021 | — | afflicti miseranda patris. quem nec sua coniunx |  |
-| 1022 | Si 189 | turbaque natorum nec magni gloria regni |  |
+| 1022 | Ω 189 | turbaque natorum nec magni gloria regni |  |
 | 1023 |  | oblitum tenuit uitae, quin iret inermis |  |
 | 1024 |  | et solum invicti castris se redderet hostis. |  |
-| 1025 | m | mirantur Danaum proceres, rairatur et ipse | 1025 |
-| 1026 |  | Aeacides animum miseri seuis; ille trementes |  |
-| 1027 | 478 | afFiisus genibus tendecs ad sidera palmas |  |
+| 1025 | 483 | mirantur Danaum proceres, miratur et ipse | 1025 |
+| 1026 |  | Aeacides animum miseri senis; ille trementes |  |
+| 1027 | 478 | affusus genibus tendens ad sidera palmas |  |
 | 1028 | 486 | haec ait 'o Graiae gentis fortissime Achilles, |  |
-| 1029 |  | o regnis inimice meis, te Dardaua solum |  |
-| 1030 |  | victa tremit pubes, te sensit nostra senectus | loso |
+| 1029 |  | o regnis inimice meis, te Dardana solum |  |
+| 1030 |  | victa tremit pubes, te sensit nostra senectus | 1030 |
 | 1031 |  | crudelem nimium: nunc sis mitissimus, oro, |  |
 | 1032 |  | et patris afflicti genibus miserere precantis |  |
 | 1033 |  | donaque quae porto miseri pro corpore nati |  |
@@ -2222,23 +2361,24 @@ PDF page 211.
 | 1035 | — | in senis extremis tua dextera saeviat annis: | 1035 |
 | 1036 | — | saltem saeva pater comitabor funera nati. |  |
 | 1037 | — | nec vitam mihi nec magnos concedere honores |  |
+| — |  | . . . . . . . . . . . . . . . . . . . . |  |
 
 ### Apparatus
 
-- **1019** Heu Sl, Ceu L
-- **1020** Hectore Sl, Pectore L | ruit lioc defensa Vollmer, fuit hoc defensa P V (W^ funditns erasaj, ruit et defensa CF, cecidit defessa (defecta yW^ EGLMN Hehnstad.W^a^dtp, cecidit funesta l
-- **1023** tenuit uit(a)e il, uite tenuit Nci§6cp | in(h)ermis Sl, in armis CFL
-- **1024** inuicti Sl, -is L I castris P., -a M, N periit \ redderet Sl, reddite L, dederat MN
-- **1025** danaum ii, -ai E^
-- **1027** Affusus Sl, EfT- GC^E^
-- **1028** H(a~!ec Sl. Hoc L \ grai(a)e Sl, graiu P
-- **1030** sensit Sl, sentit P
-- **1031** sis Sl, sic M \ mitissimus Sl, mihi mitior cod. Virgil.; at cf. Ov. met. 14,587
-- **1032** afflicti EL MNX, -is PW^CFGV, affusi TT^c/J^g) | miserere precantis -tes W^) Sl, mif parentis N (non M) j post 1032 add. E^: Insuper hoc aurum tibi quod pro corpore dono
-- **1034** si nec P^, sin nec Barth
-- **1035** extremis Sl, -as F^, -i V \ annis Sl, armis CF
-- **1036** Saltem PWLMV (Nn. l), -im CEFG \ comitabor Sl, conabor L
-- **1037** Nec PWMHelmstad. (N n. l.) l, Ne V, Non CEFGLcc§6cp \ uitam (que add. CFNVG^ mihi nec (n M) magnos concedere {sic PWG^LHeImstad.a§8(p, -de EKMN, -dis £», cede CFV, cedet G^ honores (labores E')P., iam uita mihi magnos concedit honores l post 1037 excidit versus ut opinor
+- **1019** Heu Ω, Ceu L
+- **1020** Hectore Ω, Pectore L | ruit hoc defensa Vollmer, fuit hoc defensa PV (W¹ funditus erasa), ruit et defensa CF, cecidit defessa (defecta NW²) EGLMN Helmstad. W²αβδφ, cecidit funesta λ
+- **1023** tenuit uit(a)e Ω, uite tenuit Nαβδφ | in(h)ermis Ω, in armis CFL
+- **1024** inuicti Ω, -is L | castris Ω, -a M, N periit | redderet Ω, reddite L, dederat MN
+- **1025** danaum Ω, -ai E¹
+- **1027** Affusus Ω, Eff- GC²E³
+- **1028** H(a)ec Ω, Hoc L | grai(a)e Ω, graiũ P
+- **1030** sensit Ω, sentit P
+- **1031** sis Ω, sic M | mitissimus Ω, mihi mitior cod. Virgil.; at cf. Ov. met. 14, 587
+- **1032** afflicti ELMNλ, -is PW¹CFGV, affusi W³αβδφ | miserere precantis (-tes W¹) Ω, mīſ parentis N (non M) | post 1032 add. E³: Insuper hoc aurum tibi quod pro corpore dono
+- **1034** si nec Ω, sin nec Barth
+- **1035** extremis Ω, -as F¹, -i V | annis Ω, armis CF
+- **1036** Saltem PWLMV (N n. l.), -im CEFG | comitabor Ω, conabor L
+- **1037** Nec PWM Helmstad. (N n. l.) λ, Ne V, Non CEFGLαβδφ | uitam (que add. CFNVG²) mihi nec (ñ M) magnos concedere (sic PWG¹L Helmstad. αβδφ, -de E¹MN, -dis E³, cede CFV, cedet G²) honores (labores E¹) Ω, iam uita mihi magnos concedit honores λ | post 1037 excidit versus ut opinor
 
 ## p. 54
 
@@ -2247,37 +2387,41 @@ PDF page 212.
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
 | 1038 | — | sed funus crudele meum: miserere parentis |  |
-| 1039 | — | etjpater esse meo mitis de corpore disce. |  |
-| 1040 | — | Hectoris interitu vicisti Dardana regna, | low |
+| 1039 | — | et pater esse meo mitis de corpore disce. |  |
+| 1040 | — | Hectoris interitu vicisti Dardana regna, | 1040 |
 | 1041 | — | vicisti Priamum: sortis reminiscere victor |  |
 | 1042 | — | humanae variosque ducum tu respice casus'. |  |
-| 1043 | S2 515 | his tandem precibus grandaevum motus Achilles |  |
+| 1043 | Ω 515 | his tandem precibus grandaevum motus Achilles |  |
 | 1044 |  | allevat a terra corpusque exsangue parenti |  |
 | 1045 |  | reddidit Hectoreum. post haec sua dona reportat | 1045 |
 | 1046 | 690 | in patriam Priamus tristesque ex more suorum |  |
-| 1047 | 777 | apparat exequias supremaque fuuera ducit. |  |
+| 1047 | 777 | apparat exequias supremaque funera ducit. |  |
 | 1048 | 784 | tum pyra construitur, qua bis sex corpora Graium |  |
 | 1049 | — | quadrupedesque adduntur equi currusque tubaeque |  |
 | 1050 | — | cumque cavis galeis clipeique Argivaque tela. | 1050 |
 | 1051 | 787 | haec super ingenti gemitu componitur Hector: |  |
-| 1052 | — | stant circum Hiades matres manibusque decoros |  |
+| 1052 | — | stant circum Iliades matres manibusque decoros |  |
 | 1053 | — | abrumpunt crines laniataque pectora plangunt: |  |
-| 1054 | — | illo namque rogo uatorum funera cernunt. |  |
+| 1054 | — | illo namque rogo natorum funera cernunt. |  |
 
 ### Testimonia
 
-- **1048/50** ob rem a/fert Lactant ad Stati Theb. 6,121 (1 = Monac. 19482, 2 = Faris. 8063, 3 = Paris. 8064, 4 = Paris. 10317, 5 = Paris. 13046, 6 = Bamberg M IV 11, 7 = Monac. 6396)
+- **1048/50** ob rem affert Lactant. ad Stati Theb. 6, 121 (1 = Monac. 19482, 2 = Paris. 8063, 3 = Paris. 8064, 4 = Paris. 10317, 5 = Paris. 13046, 6 = Bamberg M IV 11, 7 = Monac. 6396)
 
 ### Apparatus
 
-- **1038** meiun Sl, mei G, peto Hehnstad. Voss. | miserere (-are C)il, miseriq; M, mis N
-- **1039** corpore Sl, pectore N, funere X, vulnere L. Miiller
-- **1043** precibus grandaevnm motus van iJorp, precibus motus Qjr. mores L, motus prec. MN) grand(a)euus Sl
-- **1044** parenti Sl, -tis L 1046 Reddidit bectoreum Sl, Hgc reddit toreum C^F \ dona i. corpus HectoHs
-- **1046** In patriam (-ia L) Sl, It p. Bartli, In p. it L. Miiller \ more i2, morte Pi^^
-- **1047** Apparat PTF, Comp. cett. \ supremaque ii, extremaque PW
-- **1048** Tum Sl, Sum L, Tunc Laet. codd. 2. 3. 6, Nunc 1 i qua APWCFMVN^a^ScpX, qua G, qug E, quo LN^ et Lact. codd. 1049 — 1051 oin. G^
-- **1049** Quadrupedesque a^Scp et Lact. codd., Quadrupedes {om. que) SIX, Consequitur E \ adduntur Sl et Lact. codd., traduntur E, aduitur L 1060 Cumque cauis galeis clipeis (clipeique Jahnke) Lact. codd., Et clipei galeaeque cau(a)e (que add. CF V; leues Helmstad. et c!(iS) Sl a^Sq)l \ argiuaque Sl, argutaque PWX, robustaque Helmstad. 1O6I H(a)ec Sl, Et MN, Hac C^ ut vid.
+- **1038** meum Ω, mei G, peto Helmstad. Voss. | miserere (-are C) Ω, miseriq; M, mīs N
+- **1039** corpore Ω, pectore N, funere λ, vulnere L. Müller
+- **1043** precibus grandaevum motus van Dorp, precibus motus (pr. mores L, motus prec. MN) grand(a)euus Ω
+- **1044** parenti Ω, -tis L
+- **1045** Reddidit hectoreum Ω, Hęc reddit toreum C¹F | dona i. corpus Hectoris
+- **1046** In patriam (-ia L) Ω, It p. Barth, In p. it L. Müller | more Ω, morte PF¹
+- **1047** Apparat PW, Comp. cett. | supremaque Ω, extremaque PW
+- **1048** Tum Ω, Sum L, Tunc Lact. codd. 2. 3. 6, Nunc 1 | qua APWCFMVN²αβδφλ, quã G, quę E, quo LN¹ et Lact. codd.
+- **1049—1051** om. G¹
+- **1049** Quadrupedesque αβδφ et Lact. codd., Quadrupedes (om. que) Ωλ, Consequitur E | adduntur Ω et Lact. codd., traduntur E, aduitur L
+- **1050** Cumque cauis galeis clipeis (clipeique Jahnke) Lact. codd., Et clipei galeaeque cau(a)e (que add. CFV; leues Helmstad. et αβδ) Ω αβδφλ | argiuaque Ω, argutaque PWλ, robustaque Helmstad.
+- **1051** H(a)ec Ω, Et MN, Hac C¹ ut vid.
 - **1053** Abrumpunt (Ab- in ras. W¹) Ω, Arr- V, Aptũ purit L, Arripiunt αβδ | pectora AWEGLMNVλ, corpora PCFαβδ | plangunt Ω, plaudunt GV, tundunt λ; cf. ad v. 420
 
 ## p. 55
@@ -2286,37 +2430,36 @@ PDF page 213.
 
 | Verse | Margin | Text | Printed |
 |---|---|---|---|
-| 1055 |  | tollitur et iuvenum magno cum murmure climor | 1055 |
-| 1056 |  | flebilis: ardebat flamma namque Ilion illa. |  |
-| 1057 |  | inter quos gemitus laniato pectore coniuni |  |
-| 1058 |  | provolat Andromache mediosque inmittere in ignes |  |
-| 1059 |  | se cupit Astyanacta tenens, quam iussa suorum |  |
-| 1060 |  | turba rapit; contra tamen omnibus usque resistit, | loeo |
-| 1061 |  | donec conlapsae ceciderunt robora flammae |  |
-| 1062 |  | inque leyes abiit tantus dux ille favillas. |  |
-| 1063 |  | Sed iam siste gradum finemque inpone labori. |  |
-| 1064 |  | Calliope, vatisque tui moderare carinam, |  |
-| 1065 |  | Remis quem cernis stringentem litora paucis. | io65 |
-| 1066 |  | lamque tenet portum metamque potentis Homeri: |  |
-| 1067 |  | Pieridum comitata cohors, summitte rudentes |  |
-| 1068 |  | Sanctaque virgineos lauro redimita capillos |  |
-| 1069 |  | Ipsa tuas depone lyras. ades^ inclita Pallas, |  |
-| 1070 |  | Tuque fave cursu vatis iam, Phoebe, peracto. | ioto |
-
-### Testimonia
-
-- **1056** murmure Sl, uulnere L
-- **1057** pectore FWajidcp, corpore CEFGLMNVX, p corpore A
-- **1058** Prouolat (Peru- Pαβδφ) Ω, Adu- Eλ | que PWELαβδφλ, om. CFGMNV in PWCGVE²F²αβδφλ, om. E¹F¹LMN
-- **1059** iussa Si, maesta van Kooten \ suorumi^i, suarum La^Scp 1O6O ut supra PW, T. rapit (tristis add. Helmstad.) contra (que add. MN) tamen usque res. CEFGLMN V Helmstad., T. ruit contraq. tamen sed illa res. a, T. rapit contra multum sed et illa res. ^d, Tristis turba r. c. t. u. r. l, Turba rapit manibus contra t. u. r. qp 1063 tantua ii, -tum C | dux ille (ipse W^P^) il, dux/// N, duxere M^
-- **1063** gradum Sl, -us G \ labori Sl, -ris E'^
-- **1064** carinam ii, -nas L
-- **1065** ut supra Baehrens, Quem (Quam E'-) cemis (comis E^) paucis stringentem litora remis (rhenus E') Sl a^Sq)l
-- **1066** Iamque EMNVλ, Namque APWCFGLαβδφ | tenet APWCFGE³φ, tenens E¹LMNV, tenes αβδλ
-- **1067** Pieridum sic Sl 1063 om. P
-- **1069** Ipsa (-as L) Sl, Ips(a)e MN^ \ ades Sl, nunc §3
-- **1070** cursu uatis (-es L) Sl, uati cursu cod. Voss.
+| 1055 | — | tollitur et iuvenum magno cum murmure clamor | 1055 |
+| 1056 | — | flebilis: ardebat flamma namque Ilion illa. |  |
+| 1057 | — | inter quos gemitus laniato pectore coniunx |  |
+| 1058 | — | provolat Andromache mediosque inmittere in ignes |  |
+| 1059 | — | se cupit Astyanacta tenens, quam iussa suorum |  |
+| 1060 | — | turba rapit; contra tamen omnibus usque resistit, | 1060 |
+| 1061 | — | donec conlapsae ceciderunt robora flammae |  |
+| 1062 | — | inque leves abiit tantus dux ille favillas. |  |
+| 1063 | — | Sed iam siste gradum finemque inpone labori, |  |
+| 1064 | — | Calliope, vatisque tui moderare carinam, |  |
+| 1065 | — | Remis quem cernis stringentem litora paucis. | 1065 |
+| 1066 | — | Iamque tenet portum metamque potentis Homeri: |  |
+| 1067 | — | Pieridum comitata cohors, summitte rudentes |  |
+| 1068 | — | Sanctaque virgineos lauro redimita capillos |  |
+| 1069 | — | Ipsa tuas depone lyras. ades, inclita Pallas, |  |
+| 1070 | — | Tuque fave cursu vatis iam, Phoebe, peracto. | 1070 |
 
 ### Apparatus
 
-- **(cont.)** Poet. Lat. MinoreB II, .3 ed. Volimer.
+- **1055** murmure Ω, uulnere L
+- **1057** pectore PWαβδφ, corpore CEFGLMNVλ, ꝑ corpore A
+- **1058** Prouolat (Peru- Pαβδφ) Ω, Adu- Eλ | que PWELαβδφλ, om. CFGMNV | in PWCGVE²F²αβδφλ, om. E¹F¹LMN
+- **1059** iussa Ω, maesta van Kooten | suorum Ωλ, suarum Lαβδφ
+- **1060** ut supra PW, T. rapit (tristis add. Helmstad.) contra (que add. MN) tamen usque res. CEFGLMNV Helmstad., T. ruit contraq. tamen sed illa res. α, T. rapit contra multum sed et illa res. βδ, Tristis turba r. c. t. u. r. λ, Turba rapit manibus contra t. u. r. φ
+- **1062** tantus Ω, -tum C | dux ille (ipse W¹P²) Ω, dux // N, duxere M¹
+- **1063** gradum Ω, -us G | labori Ω, -ris E¹
+- **1064** carinam Ω, -nas L
+- **1065** ut supra Baehrens, Quem (Quam E¹) cernis (cornis E¹) paucis stringentem litora remis (rhenus E¹) Ω αβδφλ
+- **1066** Iamque EMNVλ, Namque APWCFGLαβδφ | tenet APWCFGE³φ, tenens E¹LMNV, tenes αβδλ
+- **1067** Pieridum sic Ω
+- **1068** om. P
+- **1069** Ipsa (-as L) Ω, Ips(a)e MN¹ | ades Ω, nunc βδ
+- **1070** cursu uatis (-es L) Ω, uati cursu cod. Voss.

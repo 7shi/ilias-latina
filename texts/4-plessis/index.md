@@ -8,24 +8,24 @@ PDF page 153.
 
 - ABAS Abanta Diomedes occidit 445.
 - ACAMAS Antenoris filius.
-- — ferox Antenore cretus, 237 ; — Promachum vulneral 788.
-- ACAMAS dus Thracum.
-- — intcr Trojanorum socios 243.
-- Acamantem Ajax Telamonius interficil 338.
-- ACHAICUS Achaica tnrba, cf. Grai.
-- ACHILLES nominativ.subjectus bello clarus Agamemnoni irascitur 8; — clarus Graecorum duces, ut Calclins causas pestis significet, con- TOCat 50; — Danaum murus cum celeris Graecorum ducibus Trojara petiitl9i: — quinquagintanavesducebat 211; — Troum terror a proeliis abest, amorem cithara lenit 585-S6; — magnus Vulcania arma induit 800; — saevus liaslam in Heetorem librat 957; — durus Hectoris preces reicit 988; — magnus iliiin fatur, animam reddit Hector 995; — nondum satiatus, Hectoris membra ad currum deligat 997; — redit in caslra 1014; — Priami precibus motus est ut reddat lilii corpus 1043.
-- nominativ. praedieatUs Patfoclus silei iit verus Achilles ab Hectore credatur 82 i.
-- vocativ. fortissime Ilector adloquitur) 818; — Grajae gentis fortissime (Priamus adloq.j 1028,
-- Achillis ope tutus, Calchas causas pestis aperit 54; — ut amor ab AKamemnone non impune violatus sit. Thetis Jovem precatur 91: — dextram frustra hortantUf legati Graecornm ut ferat auxilium 6^9; — currum a Trojanis sibi promissum esse Dolon narrat 719; — armis Patroclus munilus 800; — horrendi suli imaglne Patroclus pugnat 813; — mentitos vultus Apollo pandit 831.
+- — ferox Antenore cretus, 237; — Promachum vulnerat 788.
+- ACAMAS dux Thracum.
+- — inter Trojanorum socios 245.
+- Acamantem Ajax Telamonius interficit 538.
+- ACHAICUS Achaica turba, cf. Grai.
+- ACHILLES nominativ. subjectus bello clarus Agamemnoni irascitur 8; — clarus Graecorum duces, ut Calchas causas pestis significet, convocat 50; — Danaum murus cum ceteris Graecorum ducibus Trojam petiit 191; — quinquaginta naves ducebat 211; — Troum terror a proeliis abest, amorem cithara lenit 585-86; — magnus Vulcania arma induit 860; — saevus hastam in Hectorem librat 957; — durus Hectoris preces reicit 988; — magnus dum fatur, animam reddit Hector 995; — nondum satiatus, Hectoris membra ad currum deligat 997; — redit in castra 1014; — Priami precibus motus est ut reddat filii corpus 1043.
+- nominativ. praedicatus Patroclus silet ut verus Achilles ab Hectore credatur 824.
+- vocativ. fortissime (Hector adloquitur) 818; — Grajae gentis fortissime (Priamus adloq.) 1028.
+- Achillis ope tutus, Calchas causas pestis aperit 54; — ut amor ab Agamemnone non impune violatus sit, Thetis Jovem precatur 91; — dextram frustra hortantur legati Graecorum ut ferat auxilium 689; — currum a Trojanis sibi promissum esse Dolon narrat 719; — armis Patroclus munitus 806; — horrendi sub imagine Patroclus pugnat 813; — mentitos vultus Apollo pandit 831.
 - Achilli tantum debetur (Juno adloq.) 99.
-- Achillem magnum Agamemno incusat 60; — magnum idem privat Briseide 72; — manu Pallas tenet ne Agamemnonem gladio pelat 78; Contra magnum — Hector vult contendere 934.
-- Aeaeides ferus nudato ense in Agamemnonem tendit 74 ; [Aeacides 601]; — [Patrocll caedem luuet 8ii] ; — Trojanos agit cuspide 903; — horridus Trojanos riirsus agit 92i; — Patroch corpus fimerat, 1005; — Priami miserJ animum inir.itur 1026.
-- leacidae non eral compar Aeneas897.
-- Aeaciden ul Xanthus obruat 914.
-- Xeeeius heros Hectorem metucntem persequitur 937; — Hectofi iiist.it 975.
-- Pelules matris numina invocat 81.
-- Pelidae superbi ira 1 ; — ad aures deveneral horrori Patroclicaedes)S41.
-- I lniiileiiis heros Craecorum pre-
+- Achillem magnum Agamemno incusat 60; — magnum idem privat Briseide 72; — manu Pallas tenet ne Agamemnonem gladio petat 78; contra magnum — Hector vult contendere 934.
+- Aeacides ferus nudato ense in Agamemnonem tendit 74; [Aeacides 601]; — [Patrocli caedem luget 844]; — Trojanos agit cuspide 903; — horridus Trojanos rursus agit 924; — Patrocli corpus funerat, 1005; — Priami miseri animum miratur 1026.
+- Aeacidae non erat compar Aeneas 897.
+- Aeaciden ut Xanthus obruat 914.
+- Nereius heros Hectorem metuentem persequitur 937; — Hectori instat 975.
+- Pelides matris numina invocat 81.
+- Pelidae superbi ira 1; — ad aures devenerat horror (Patrocli caedes) 841.
+- Thetideius heros Graecorum pre-
 
 ## p. 88
 
@@ -33,59 +33,59 @@ PDF page 154.
 
 - ces despuit 690; — Vulcaniis armis ornatus 892.
 - ACHIVI cf. Grai.
-- ADRASTUS inler Trojanurum priucipes 240.
-- Adrastum vastum capitMenelaus539.
+- ADRASTUS inter Trojanorum principes 240.
+- Adrastum vastum capit Menelaus 539.
 - AEACIDES cf. Achilles.
-- AENEAS sacer, Veneris certissima proles (Trojanorum principes enumerat uoster) 236; — contra Diomedem congreditur 454 : — auriga ab Agamemuoue interfecto, ingemit animosusque de curru desilit 516.
-- Aenean Dardanium Trojanus Apollo servat 472 ; — curru tendeutem Agamemno conspicit 509.
-- Cjtliereins heros contra Achillem coneurrit; a Nepluno servatur 895 sqq.
-- Yeueris proles pulcherrima emicat iu agmine 483; cf. Aeneas.
+- AENEAS sacer, Veneris certissima proles (Trojanorum principes enumerat noster) 236; — contra Diomedem congreditur 454; — auriga ab Agamemnone interfecto, ingemit animosusque de curru desilit 516.
+- Aenean Dardanium Trojanus Apollo servat 472; — curru tendentem Agamemno conspicit 509.
+- Cythereius heros contra Achillem concurrit; a Neptuno servatur 895 sqq.
+- Veneris proles pulcherrima emicat in agmine 483; cf. Aeneas.
 - AETNAEUS Aetnaeos ignes 857.
 - AETOLIUS cf. Diomedes.
-- AETOLUS degente Aetola 202.
+- AETOLUS de gente Aetola 202.
 - AGAMEMNON centum naves ducit 171.
-- Agamemnonis in thalamos Somuus, a Jove missus, devolat 121; — ira Graecosarmat iu caedes, postquam Menelaum Pandarus vulneravit 353; — alae, premente llectore, ad classes confugiunt 795.
-- Argolieus dux « Argolici ducis castra pete volatu » (Somnum adloquitur Juppiter) 115.
-- Atrides sceptriger Achilli iratus 8; — Chryseida reddi negat 24; — acer socios armari jubet 159; — impiger Democoonta petit 372; — inTrojauos armis furit 424; — ferus in hostes, ut lihycus Ieo, ruit 504; — Aeneam curru tendentem conspicitolO; — Grajum dux acer, Hectore Graecorum duces armis provocante, incedit 581; — hortatur socios 663.
-- Atride rex Danaum (Sommus, a Jove missus, loquitur) 124.
+- Agamemnonis in thalamos Somnus, a Jove missus, devolat 121; — ira Graecos armat in caedes, postquam Menelaum Pandarus vulneravit 353; — alae, premente Hectore, ad classes confugiunt 795.
+- Argolicus dux « Argolici ducis castra pete volatu » (Somnum adloquitur Juppiter) 115.
+- Atrides sceptriger Achilli iratus 8; — Chryseida reddi negat 24; — acer socios armari jubet 159; — impiger Democoonta petit 372; — in Trojanos armis furit 424; — ferus in hostes, ut libycus leo, ruit 504; — Aeneam curru tendentem conspicit 510; — Grajum dux acer, Hectore Graecorum duces armis provocante, incedit 581; — hortatur socios 663.
+- Atride rex Danaum (Somnus, a Jove missus, loquitur) 124.
 - Atridae genitiv. genibus Chryses affusus 19; — regis in galeam deiciuntur sortes 587.
 - Atridae dativ. ardor Chryseidis non excidit 70.
 - In Atriden Achilles tendit 75.
-- Ah Atrida se filiumque suum Jup piter ulciscatur, precihus Thetis orat 90.
-- Dnnaiini rev Marti infesto socios cedere videt 496; — Antiphon vulnerat 747. — (Cf. Atride).
-- Pelopeius heros duces convocat 131; — Ulixis et Diomcdis virtutem laudat 739.
+- Ab Atrida se filiumque suum Juppiter ulciscatur, precibus Thetis orat 90.
+- Danaum rex Marti infesto socios cedere videt 496; — Antiphon vulnerat 747. — (Cf. Atride).
+- Pelopeius heros duces convocat 131; — Ulixis et Diomedis virtutem laudat 739.
 - AGAPENOR Agapenoris ferox ira 175.
 - AGELAUS occurrit Diomedi 667.
 - AJACES duo 582.
 - AJAX Oilei filius.
-- — Locrum fortissimus quadraginta naves in Trojani instruxit 189; — Oileos totidem quot ille naves Protesilaus et Podarces instruxerunt 216.
+- — Locrum fortissimus quadraginta naves in Trojam instruxit 189; — Oileos totidem quot ille naves Protesilaus et Podarces instruxerunt 216.
 - AJAX Telamonis filius.
-- — Telamone satus Salaminius navem unam plus quamEumelus ducitl98; — Telamonius egregia virtute potensduodecim navihusTrojampetit 2(15-6: — Telamonius Anthemionis hlium occupat 363; — Acamantem, Thracum ducem, interfieit 538; — magnus, in galeam Agamemnonis, dejectis sortibus, procedit 588 ; — Telamonius animis armisque furens Hectorem pcLit ( ; U2; — ferus saxum, ab Hecture projecliiin, clipeo reppulit 611 ; [ — Telamonius Hectori respondet 623]; — Jjellator quo se cinxerat, balteum Hector accipit 629; — maximus Hectorem saxo percutit 780; — Telamonius Archilochuni percutit 787; — solus naves defendit 799; — Telamonius viudicat Patrocli corpus 836; — luctando vincitur (dum Achilles Patrocli corpus funerat) 1009.
+- — Telamone satus Salaminius navem unam plus quam Eumelus ducit 198; — Telamonius egregia virtute potens duodecim navibus Trojam petit 205-6; — Telamonius Anthemionis filium occupat 363; — Acamantem, Thracum ducem, interficit 538; — magnus, in galeam Agamemnonis, dejectis sortibus, procedit 588; — Telamonius animis armisque furens Hectorem petit 602; — ferus saxum, ab Hectore projectum, clipeo reppulit 611; [ — Telamonius Hectori respondet 623]; — bellator quo se cinxerat, balteum Hector accipit 629; — maximus Hectorem saxo percutit 780; — Telamonius Archilochum percutit 787; — solus naves defendit 799; — Telamonius vindicat Patrocli corpus 836; — luctando vincitur (dum Achilles Patrocli corpus funerat) 1009.
 - In Ajacis armis protectus Teucer Trojanos agit 670.
 - In Ajacem hastam torquet Antiphus 368; — Ajacem fulgenti ense Hector munerat 628.
-- Telaiuone ereatus Telamone creatum Hector saxo petit 610; — [vides (de sc loquitur) 624].
+- Telamone creatus Telamone creatum Hector saxo petit 610; — [vides (de se loquitur) 624].
 - ALCATHOUS, Anchisae gener, occiditur 776.
-- ALCINOUS Alcinoo sati Chromius et Eunomus 246.
+- ALCINOUS Alcinoo sati Chromius et Ennomus 246.
 
 ## p. 89
 
 PDF page 155.
 
-- ALEXANDER ef. Paris.
-- AMARYNCTDES cf. Diores.
-- AMPHIMACHUS princeps Carum,insignis cum celeris Trojanorum sociis 241.
+- ALEXANDER cf. Paris.
+- AMARYNCIDES cf. Diores.
+- AMPHIMACHUS princeps Carum, insignis cum ceteris Trojanorum sociis 241.
 - AMPHIMACHUS princeps Epeorum.
 - — ferox, Elide natus 212.
-- Ampliimachum atrocem obtruncat Hector 774-5.
-- AMPEDTTJS Trojanoruin socius 240.
-- ANGHISES cf. Alcathous.
-- ANDRAEMOAndraemoncnatusThoas 202; — magno natus Thoas 583.
-- ANDROMACHE fidissima conjunx Hectoris, ejusdem colloquium petit 564-5; — Hectore interfecto. vestes suas scindit 1018; — laniato Hectoris corpore provolat gemitque 1058.
-- ANTENOR Antenore creti Archilochus Acamasque 237 ; — natum (Coonem! persequitur vulncratque Agamemno 752.
+- Amphimachum atrocem obtruncat Hector 774-5.
+- AMPHIUS Trojanorum socius 240.
+- ANCHISES cf. Alcathous.
+- ANDRAEMO Andraemone natus Thoas 202; — magno natus Thoas 583.
+- ANDROMACHE fidissima conjunx Hectoris, ejusdem colloquium petit 564-5; — Hectore interfecto, vestes suas scindit 1018; — laniato Hectoris corpore provolat gemitque 1058.
+- ANTENOR Antenore creti Archilochus Acamasque 237; — natum (Coonem) persequitur vulneratque Agamemno 752.
 - ANTENORIDES cf. Archilochus.
 - ANTHEMIO Anthemione satum (Simoisium) Ajax Telamonius interficit 363.
-- ANTILOCHUS Antilochi ense interficitur Thalysiades (Echepolus) 360; — armis coucidit Mydon 520.
-- \estorides Patrocli corpus in castra refert 840.
+- ANTILOCHUS Antilochi ense interficitur Thalysiades (Echepolus) 360; — armis concidit Mydon 520.
+- Nestorides Patrocli corpus in castra refert 840.
 - ANTIPHUS Maeonum ductor.
 - — Trojanis fert auxilium 244.
 - ANTIPHUS Priami filius.
@@ -93,13 +93,13 @@ PDF page 155.
 - Antiphon Agamemno vulnerat 748.
 - ANTIPHUS [Thessalicus] Thessali filius.
 - — cum Phidippo triginta ducit naves 193.
-- APOLLO sit auctor poetae nostro 165; — Trojanus Aeneam servat 472; — Grais inimicus saxum levat quo Hectorem Ajax percutit 61 4 — Trojanus Patroclum, sub imagine Achillis pugnantem, denudat 830 ; — Phrygiae gentis tutator, simul cum Venere, Xanthi fluctus in Graecos attollit 911.
-- Delphieus Delphice (de Ulia rapta Chryses queritur) 32.
-- Fatidieus Fatidici aures vocibus compellat Chryses 31.
-- Phoebus Plioebe (Nostcr, peracto cursu, deum precatur) 1070.
-- Phoebi infesti placemus numina(CaIchas loquitur) 55; — placantur numina,Chryseide patri reddita 68.
-- Proles Jovis et Lutonae, 10.
-- ARCESILAUS ltiS. atrox ad Trojam venit
+- APOLLO sit auctor poetae nostro 165; — Trojanus Aeneam servat 472; — Grais inimicus saxum levat quo Hectorem Ajax percutit 614; — Trojanus Patroclum, sub imagine Achillis pugnantem, denudat 830; — Phrygiae gentis tutator, simul cum Venere, Xanthi fluctus in Graecos attollit 911.
+- Delphicus Delphice (de filia rapta Chryses queritur) 32.
+- Fatidicus Fatidici aures vocibus compellat Chryses 31.
+- Phoebus Phoebe (Noster, peracto cursu, deum precatur) 1070.
+- Phoebi infesti placemus numina (Calchas loquitur) 55; — placantur numina, Chryseide patri reddita 68.
+- Proles Jovis et Latonae, 10.
+- ARCESILAUS atrox ad Trojam venit 168.
 - ARCHILOCHUS Antenore cretus cum ceteris Trojanorum ducibus 237.
 - Archilochum Antenoriden occidit Ajax Telamonius 787.
 - ARCTUS 866.
@@ -108,208 +108,206 @@ PDF page 155.
 - Argolicas classes 736-7.
 - Argolicis gentibus 80 (cf. Grai.)
 - ASCALAPHUS potens Ialmenusque, uterque acer, triginta naves agunt 187.
-- Ascalaphum Deiphobus interficit778.
+- Ascalaphum Deiphobus interficit 778.
 - ASCANIUS Hippotionis filius.
 - — ingens, socius Trojanorum 247-8.
 - ASIUS Hyrtaci filius.
 - — cum ceteris Trojanorum sociis 240; — Idomenei dextra cadit 774.
-- ASTYANAX Astyanacta parvum tenet Andromache 565-6;— tenens Andromache 1059.
+- ASTYANAX Astyanacta parvum tenet Andromache 565-6; — tenens Andromache 1059.
 - ASTYNOUS Astynoum Diomedes occidit 443.
 - ATHENAEUS cf. Menestheus.
-- ATRIDES cf.Agamemno et Menelaus.
+- ATRIDES cf. Agamemno et Menelaus.
 - AUGUSTUM genus 901.
 - AULIS in Aulide (serpens visus est) 147.
 - AURORA stellas fugat 635.
 - AUSTER ab Austro Arctus distat 866.
 - BACCHUS Bacchi liquor 633.
-- BOEOTUS Boeotum (cf. Promachus) 788; — Boeoti (Prothoenor et Clo : nius) 169.
+- BOEOTUS Boeotum (cf. Promachus) 788; — Boeoti (Prothoenor et Clonius) 169.
 
 ## p. 90
 
 PDF page 156.
 
-- BRISEIS etiamsi intacta reddatur, Acbillem non movel 693.
-- Briseide Agamemno Achillcm privat 72. c
-- CALCHAS '1 'iiin numina consulil "i_'; — annum dixerat quo Troja caderei 152.
+- BRISEIS etiamsi intacta reddatur, Achillem non movet 693.
+- Briseide Agamemno Achillem privat 72.
+- CALCHAS deorum numina consulit 52; — annum dixerat quo Troja caderet 152.
 - Thestorides Thestoriden edere causas pestis Achilles hortatur 52; — dictis amaris Agamemno compellat 59.
-- CALLIOPE vocativ. (prccatur Noster) 1064.
+- CALLIOPE vocativ. (precatur Noster) 1064.
 - CALYDONIUS cf. Diomedes.
 - CHROMIUS dux Mysorum.
-- Vir florens aetate inter Trojanoruni socios 246-7.
+- Vir florens aetate inter Trojanorum socios 246-7.
 - CHROMIUS Priami filius.
 - Chromium Diomedes caedit 447.
 - CHRYSEIS Chryseidis ardor Agamemnoni non excidit 70.
-- Chryseida patri reddendam esse Mj rmidones censeni 2;i ; — castam reddamus patri (Calchas loi|uilnr 56 : — inlnrlam Agamemno patri reddit 64
-- CHRYSES filiam raptam ileflet 13.
-- Chrysen castris excedere jubei Agamemno -i
-- CLONIUS Boeotus cuin Prothoenore Tro.jam petii 168*9.
-- CLOTHO (in clipeo Achitlis) 891.
+- Chryseida patri reddendam esse Myrmidones censent 23; — castam reddamus patri (Calchas loquitur) 56; — intactam Agamemno patri reddit 64.
+- CHRYSES filiam raptam deflet 13.
+- Chrysen castris excedere jubet Agamemno 24.
+- CLONIUS Boeotus cum Prothoenore Trojam petit 168-9.
+- CLOTHO (in clipeo Achillis) 891.
 - COROEBUS clara satus tellure 250.
-- CRETAEUS uterque (Idomencus ct Meriones) 208.
-- GRETHON Crethona occidit Aencas 517.
+- CRETAEUS uterque (Idomeneus et Meriones) 208.
+- CRETHON Crethona occidit Aeneas 517.
 - CYGNEIS cf. Helena.
 - CYTHEREA cf. Venus.
 - CYTHEREIUS cf. Aeneas.
-- DANAl nomen populi cf. (Irai.
+- DANAI nomen populi cf. Grai.
 - DANAUS adjectiv. Danai salutis 57.
 - DARDANIDAE cf. Trojani.
-- DARDAN1DE8 cf. Hector,
+- DARDANIDES cf. Hector.
 - DARDANIUS cf. Aeneas, Paris.
 - Dardanii campi manant sanguine 384.
 - DARDANUS Dardana pubes cf. Trojani.
-- Dardanaregnavicisti(PriamusAchilli) 10 40.
+- Dardana regna vicisti (Priamus Achilli) 1040.
 - DARES Daretis filios in adverso agmine conspicit Diomedes 403-4.
-- DEIPHOBUS cum ceteris Trojanorum principibus 235; — Ascalaphum caedil 778.
+- DEIPHOBUS cum ceteris Trojanorum principibus 235; — Ascalaphum caedit 778.
 - Deiphobi formam assumit Minerva 949.
 - DELPHICUS Delphice cf. Apollo.
-- DKMOCOON Democoonta Agamemno petit 373.
-- DIOMEDFCS Diomcdis socius, Ulix.es 707.
+- DEMOCOON Democoonta Agamemno petit 373.
+- DIOMEDES Diomedis socius, Ulixes 707.
 - Cum Diomede Glaucus pugnaturus 554.
-- Actolius heros Glaucum adloquitur 556; — egreditur castris cum Ulixe 698.
-- Calydouius lioros medios in hostes mil :i09: — cum Aenea pugnat 454.
-- Calydonius juvenisiraardescil iil.
-- Tydides fortis in armis 184-5; — Danaos cedentes videt 390; — Phegea interficit 408; — magnus, qua Aeneam vulneret, non videt 458-9; — pugnat 530; — princeps armis emicat ardentibus 665; — \< magnanimus > cunctos curru superat 1008-9.
-- Tydidae saevi arma fortia non sustinel fdaeus iWi: — dextra prostratus Pandarus i 19.
-- Tydiden quaeril Pandarus 137.
-- Ocnides Veneris manum vuluerat 466.
-- DIORES iiim celeris Graecorum principibus 213.
-- Amaryncides Amarynciden occidit Pirous 371.
-- DIS per Dilis opaci fluctus (Dolon supplex loquitur) 723.
-- DIVA scilicet Musa) 1.
-- DOl.ON Diomedi et Ulixi per noclem occurrit 704.
-- Tros I iuih «li:nl( s eosdcm cursu praecedit 710.
-- DORICUS Doricua ensis32'».
+- Aetolius heros Glaucum adloquitur 556; — egreditur castris cum Ulixe 698.
+- Calydonius heros medios in hostes ruit 399; — cum Aenea pugnat 454.
+- Calydonius juvenis ira ardescit 441.
+- Tydides fortis in armis 184-5; — Danaos cedentes videt 390; — Phegea interficit 408; — magnus, qua Aeneam vulneret, non videt 458-9; — pugnat 530; — princeps armis emicat ardentibus 665; — < magnanimus > cunctos curru superat 1008-9.
+- Tydidae saevi arma fortia non sustinet Idaeus 416; — dextra prostratus Pandarus 449.
+- Tydiden quaerit Pandarus 437.
+- Oenides Veneris manum vulnerat 466.
+- DIORES cum ceteris Graecorum principibus 213.
+- Amaryncides Amarynciden occidit Pirous 377.
+- DIS per Ditis opaci fluctus (Dolon supplex loquitur) 723.
+- DIVA (scilicet Musa) 1.
+- DOLON Diomedi et Ulixi per noctem occurrit 704.
+- Tros Eumediades eosdem cursu praecedit 710.
+- DORICUS Doricus ensis 324.
 
 ## p. 91
 
 PDF page 157.
 
-- Dorica castra 062.
-- DORIS Dorida fluetns amantcm 874.
-- Doride uata cf. Thetis.
-- DULICHirs cf. Meges.
-- ECHEMON Echemona Diomedes cacdit 447.
-- ELEPHENOR Euboeae \< longis > finibus ortus 200.
-- ELIS Elide nati Amphimacus et Thalpius 212.
-- ENNOMUS vir florens aetate inter Trojanoruni socios 246-7.
+- Dorica castra 662.
+- DORIS Dorida fluctus amantem 874.
+- Doride nata cf. Thetis.
+- DULICHIUS cf. Meges.
+- ECHEMON Echemona Diomedes caedit 447.
+- ELEPHENOR Euboeae < longis > finibus ortus 200.
+- ELIS Elide nati Amphimachus et Thalpius 212.
+- ENNOMUS vir florens aetate inter Trojanorum socios 246-7.
 - EPEUS caestibus cunctos superat 1011.
 - EPISTROPHUS Halizonum dux.
-- — ingens. dux magnanimus 242.
+- — ingens, dux magnanimus 242.
 - EPISTROPHUS Iphiti filius.
-- — ingens. gloria Myrmidonum, saevi robur belli 179-80.
+- — ingens, gloria Myrmidonum, saevi robur belli 179-80.
 - EUBOEA Euboeae 200, cf. Elephenor.
-- EUTIAEMO Euhaemone 190, cf. Eurypylus.
-- EUMEDIADES cf. Dolou.
-- EUMELUS viribus acer navem minus unamquam Tulamonius ducit 196-7.
+- EUHAEMO Euhaemone 190, cf. Eurypylus.
+- EUMEDIADES cf. Dolon.
+- EUMELUS viribus acer navem minus unam quam Telamonius ducit 196-7.
 - EUPHEMUS ferox 243.
 - EURUS Rhesi equos non praecederet 734.
-- EURYALUS, Mecistei fllius. «lux sub Diomede 184.
-- UURYPYUUS vastis horridus armis, Hypsenorfl occidil 133-4; — ciaris speciosus in armis, procedit cum aiiis 582-3.
+- EURYALUS, Mecistei filius, dux sub Diomede 184.
+- EURYPYLUS vastis horridus armis, Hypsenora occidit 433-4; — claris speciosus in armis, procedit cum aliis 582-3.
 - Eurypyli femur Paris vulnerat 757.
-- Euliaemonc iintus quadraginta naves inslruxit 190. G
+- Euhaemone natus quadraginta naves instruxit 190.
 - GLAUCUS Lyciorum dux.
 - — magnae virtutis in armis, inter auxilia Trojanorum 239; — cum Diomede pugnaturus 553.
-- GORGYTIIION Gorgvthiona ferum Teucer interflcil 672.
-- ORAECIA bellatrix regem sibi A«?amemnonem delegerat 172; — llectoreni soluin pertimehat 983.
-- GRAI Grajorum terga premens Simoisius :Uj2,- — agmina Aeneas premit 484; — acies deficiunt 493; — duces Hcctor provocat 578.
-- Grajum volgus ruit undique 46; — agniina, Paride vulnerato, gemuerunt 305 ; — agtnina Hector vertit 487; — dux Agamemnon 581; — clades, Jove expendentc, praeponderat 658; — sex corpora in Hectoris rogum imponuntur 1048.
-- Grais miseris funera injee.it Achillis ira 2; — plflcet Hectoris sententia 277 ; — inimicus Apollo 614.
-- Gfajos, aggere inclusos. obsidunt Trojani 682 ; — Hector utldique agit 755; — Trojani sternunt 763.
-- Gvajja gens Grajae gentis fortissime Achilies 1028.
-- Achaica tnrlia fugit 790.
-- Achivi nominativ. turhantur 661. [vocativ. vulgo : Nestor loquitur 151.]
-- Achivum vires accendit Agamemhonis virlus 506 j — Phryguinque casus Juppiter expendit 657.
-- Achivis [vires reddunlur 69]; — virtus crescit 3S7; — invictis ut reddatur Helena Hector suadet 638.
+- GORGYTHION Gorgythiona ferum Teucer interficit 672.
+- GRAECIA bellatrix regem sibi Agamemnonem delegerat 172; — Hectorem solum pertimebat 983.
+- GRAI Grajorum terga premens Simoisius 362; — agmina Aeneas premit 484; — acies deficiunt 493; — duces Hector provocat 578.
+- Grajum volgus ruit undique 46; — agmina, Paride vulnerato, gemuerunt 305; — agmina Hector vertit 487; — dux Agamemnon 581; — clades, Jove expendente, praeponderat 658; — sex corpora in Hectoris rogum imponuntur 1048.
+- Grais miseris funera injecit Achillis ira 2; — placet Hectoris sententia 277; — inimicus Apollo 614.
+- Grajos, aggere inclusos, obsidunt Trojani 682; — Hector undique agit 755; — Trojani sternunt 763.
+- Graja gens Grajae gentis fortissime Achilles 1028.
+- Achaica turba fugit 790.
+- Achivi nominativ. turbantur 661. [vocativ. vulgo : Nestor loquitur 151.]
+- Achivum vires accendit Agamemnonis virtus 506; — Phrygumque casus Juppiter expendit 657.
+- Achivis [vires redduntur 69]; — virtus crescit 387; — invictis ut reddatur Helena Hector suadet 638.
 - Achivos dilectos (Juno irata Jovem incusat dictis) 101.
-- ,\r^-olic:»c gcntes gentibus Argolicis Achillis ainor famam turpem Iiquisset 80.
-- Danai laetantur 508; — incumbunt 542; — rogos struunt 646; — confugiunt 679; — pugnant de muris 766; — hastas cuspidis jacitint 802; — funera sua maerent 838; — exclamant, hasta Achillis ab Hectore vitata, 960; — exsultant, Hectore interfecto, 978; — laetantur 1002.
-- Danaorum corpora morbo iinplicuit Apollo 12.
-- Danaum castra Chryscs petit 19; — prooeres in coetum Achilles convocat 50; — classcs, Chrvseide patri reddita, Ulixes repetit 67; —
+- Argolicae gentes gentibus Argolicis Achillis amor famam turpem liquisset 80.
+- Danai laetantur 508; — incumbunt 542; — rogos struunt 646; — confugiunt 679; — pugnant de muris 766; — hastas cuspidis jaciunt 802; — funera sua maerent 838; — exclamant, hasta Achillis ab Hectore vitata, 960; — exsultant, Hectore interfecto, 978; — laetantur 1002.
+- Danaorum corpora morbo implicuit Apollo 12.
+- Danaum castra Chryses petit 19; — proceres in coetum Achilles convocat 50; — classes, Chryseide patri reddita, Ulixes repetit 67; —
 
 ## p. 92
 
 PDF page 158.
 
-- rex (Agamemno) 12 4; — armis victricibus Troja caderet 153; — murus, Achilles 191; — dolos vicisset Troja, ni fata fuissent 251; — populus 268; — catervae cadunt 357; — agmina ccdeutia 389; — rex (Agamemno) 490; — Troumque discedunt catervae 631; — proceres 686; — preces reicit Achilles 691 ; — jussu Diomedes cum Ulixe egreditur castris 698; — vires 705; — duces 743; — rcx (Agamemno) 747; — metus Hector 794; — proceres 1025.
+- rex (Agamemno) 124; — armis victricibus Troja caderet 153; — murus, Achilles 191; — dolos vicisset Troja, ni fata fuissent 251; — populus 268; — catervae cadunt 357; — agmina cedentia 389; — rex (Agamemno) 496; — Troumque discedunt catervae 631; — proceres 686; — preces reicit Achilles 691; — jussu Diomedes cum Ulixe egreditur castris 698; — vires 705; — duces 743; — rex (Agamemno) 747; — metus Hector 794; — proceres 1025.
 - Danais vires Neptunus ministrat 772.
-- Danaos Apollo luctibus infcst.it 45 ; — Hector invadit 492 et 659: qui — modo turbabant, Trojani nnnc fugiunt 808; in — Xanthi iluctus Venus Apolloque altolluut 912; ad — numina sua transfert Minerva 950; ad — Hectoris corpus Achilles defert 1001.
+- Danaos Apollo luctibus infestat 45; — Hector invadit 492 et 659: qui — modo turbabant, Trojani nunc fugiunt 808; in — Xanthi fluctus Venus Apolloque attollunt 912; ad — numina sua transfert Minerva 950; ad — Hectoris corpus Achilles defert 1001.
 - Pro Danais deos pugnare Hector sentit 544.
-- Pelasgi nominativ. in castra fugiunt 758; — turbati fugiunt omnes 769; \<vocativ. — remanete 151 >.
+- Pelasgi nominativ. in castra fugiunt 758; — turbati fugiunt omnes 769; <vocativ. — remanete 151 >.
 - Pelasgum regi Apollo infestus 10.
 - Pelasgis legati referunt Achillis responsa 694.
-- Pelasgos in Trojam venisse Iris,Jove jubente, Trojanis nuntiat 224; — fortes ira Agamemnonis armat 353.
+- Pelasgos in Trojam venisse Iris, Jove jubente, Trojanis nuntiat 224; — fortes ira Agamemnonis armat 353.
 - [Pelopea juventus cedit 791].
-- 6RAJUS grajae gentis cf. Grai.
+- GRAJUS grajae gentis cf. Grai.
 - Grajae puppes 220.
-- GUNEUS Gunei horrida ira duas et viginti naves ducit 206-7. H
-- HECTOR nominativ. Priamides patris jussu arma capit 226; — Paridem, confusum terrore, adloquitur 256; — Paridis verba refert 277; — fortissimus Graecos sternitcaede 486: — Graecos invadit, haud secus ac lupus 491 ; — patriae columen, Mavortius pugnat 529; — Mavortius deos pro Graecis pugnare senlit 543; — maximus principes Graecorum provocat 577 ; — bello maximus Ajacem adloquitiir 620; [ — Ajaeem adloquitur 626J : — maximus cum sociis funera he-
-- sterna memorat 636; — turbidus ruit 677; — Priamides iratus acri pugna subit 754-5; — Martius castrorum hostilium porlas saxo perfringit 760 ; — Amphimachum obtmncat 774; — ferox violento saevit pectore 779; — Danaum metus, impiger, advolat Graecosque {lellit 794; — Mavortius saevit, Graecorum naves incensurus 797; — fervidus Patroclum, acies sub imagine Achillis turbantem , rcspicit S15: — fortissimus quantum in bello valeat (de se loquitur) 820, — bello maximus Patroclum falsis in armis deprendit 832; — adest, uniis in quo Trojana salus manebal 932 ; — callidus Achillis hastam vitat 959; — defectus viribns, Achille instante, 967; — infelix, amissis viribus, Achillcm orat 979 ; — miserabilis vitam reddit 996; — rogo componitur 1051.
+- GUNEUS Gunei horrida ira duas et viginti naves ducit 206-7.
+- HECTOR nominativ. Priamides patris jussu arma capit 226; — Paridem, confusum terrore, adloquitur 256; — Paridis verba refert 277; — fortissimus Graecos sternit caede 486; — Graecos invadit, haud secus ac lupus 491; — patriae columen, Mavortius pugnat 529; — Mavortius deos pro Graecis pugnare sentit 543; — maximus principes Graecorum provocat 577; — bello maximus Ajacem adloquitur 620; [ — Ajacem adloquitur 626] ; — maximus cum sociis funera hesterna memorat 636; — turbidus ruit 677; — Priamides iratus acri pugna subit 754-5; — Martius castrorum hostilium portas saxo perfringit 760; — Amphimachum obtruncat 774; — ferox violento saevit pectore 779; — Danaum metus, impiger, advolat Graecosque pellit 794; — Mavortius saevit, Graecorum naves incensurus 797; — fervidus Patroclum, acies sub imagine Achillis turbantem, respicit 815; — fortissimus quantum in bello valeat (de se loquitur) 820; — bello maximus Patroclum falsis in armis deprendit 832; — adest, unus in quo Trojana salus manebat 932; — callidus Achillis hastam vitat 959; — defectus viribus, Achille instante, 967; — infelix, amissis viribus, Achillem orat 979; — miserabilis vitam reddit 996; — rogo componitur 1051.
 - vocativ. violente (Achilles de caede Patrocli) 851.
-- Hectoris crura ocreae nitentes, quales decet esse, tegunt 232; — conjunx Andromache 565; — superbi aurigam Teucer obtruncat 673-4; — miseros artus ter circa Patrocli tumulum Achilles rapit. 1006; — interitu Troja victa 1040. cf. Hectoreus.
-- Hectora insignem bello Ajax Telamonius petit 603 ; — amissum flent Trojani 1015.
+- Hectoris crura ocreae nitentes, quales decet esse, tegunt 232; — conjunx Andromache 565; — superbi aurigam Teucer obtruncat 673-4; — miseros artus ter circa Patrocli tumulum Achilles rapit 1006; — interitu Troja victa 1040. cf. Hectoreus.
+- Hectora insignem bello Ajax Telamonius petit 603; — amissum flent Trojani 1015.
 - In uno Hectore causa Trojae ruit 1020.
-- Dardauides Patroclum hasta petit 826.
-- Priauieius heros jaculum in Achilletn torquet 960.
-- Prianiides[ — 601];— contraAjacem pugnat 610; — unum Phrygiao decus, iratus pugnat 660-1; — talia dixit (Achilli, moriens) 988. cf. Hector.
-- Priaini filius dux ille ducum (de se, moriens, loquitur) 982-3.
+- Dardanides Patroclum hasta petit 826.
+- Priameius heros jaculum in Achillem torquet 960.
+- Priamides [ — 601]; — contra Ajacem pugnat 610; — unum Phrygiae decus, iratus pugnat 660-1; — talia dixit (Achilli, moriens) 988. cf. Hector.
+- Priami filius dux ille ducum (de se, moriens, loquitur) 982-3.
 - Troius heros Teucrum saxo occupat 674.
-- HECTOREUS Hectorei sanguinis 905. Hectoreum corpus 10ii-5.
-- HECUBA Hecubam vocari Ilector imperat 546.
+- HECTOREUS Hectorei sanguinis 905. Hectoreum corpus 1044-5.
+- HECUBA Hecubam vocari Hector imperat 546.
 - Hecube supplex ad Minervae templa
 
 ## p. 93
 
 PDF page 159.
 
-- 551 ; — infelix Hectore tuorluo queritur 1017.
-- HELENA Helenam Paridi Yentis deducit 317; — reposcit Menclaus 343.
-- Helcne ut Graecis rcddatur, Hector suadet 638.
+- 551; — infelix Hectore mortuo queritur 1017.
+- HELENA Helenam Paridi Venus deducit 317; — reposcit Menelaus 343.
+- Helene ut Graecis reddatur, Hector suadet 638.
 - Cygneis Cygneidos membris Paris incubat 337.
 - HELENUS inter principes Trojanorum 235.
 - HERCULES Hercule magno Tlepolemus satus 523.
 - [HESIONA Hesionae nomen 626.
 - Hesione ablativ. de matre Telamo creatus 624.]
-- HHSPERUS exoritur 868.
-- HIPPOLOCHUS Hippolochum ruentem ad bella Agamemao caedit 749-50.
+- HESPERUS exoritur 868.
+- HIPPOLOCHUS Hippolochum ruentem ad bella Agamemno caedit 749-50.
 - HIPPOTHOUS bonus armis inter Trojanorum socios 244-5.
 - HODIUS dux magnanimus inter Trojanorum auxilia 242; — infelix ab Agamemnone sternitur 427.
 - HOMERUS Homeri potentis metam cum nostro Calliope tenet 1066.
-- HYPIRON Hypirona magnum invadit Diumedes 443.
+- HYPIRON Hypirona magnum invadit Diomedes 443.
 - HYPSENOR Hypsenora venientem Eurypylus caedit 434.
 - IALMENUS et Ascalaphus, uterque acer, triginta naves in Trojam agunt 187.
 - IDA Idae montibus umbrosis Juppiter considit 654.
 - IDAEUS Daretis filius.
-- — fratri,quem Diomedes vulneravit, non potest succurrere 421.
+- — fratri, quem Diomedes vulneravit, non potest succurrere 421.
 - Idaeum cum fratre in agmine conspicit Diomedes 405.
 - IDAEUS Trojanorum praeco.
-- — Trojanorum mandata Agamemnoui perfert 641.
+- — Trojanorum mandata Agamemnoni perfert 641.
 - Idaeum castris excedere Agamemno jubet 643.
-- IDOMENEUS Cretaeus cum Merione naves octoginta in Trojam ducit
-- 208; — Phaestum caedit 429; — ferus, Hectore Graecorum principes provocante, procedit 580.
+- IDOMENEUS Cretaeus cum Merione naves octoginta in Trojam ducit 208; — Phaestum caedit 429; — ferus, Hectore Graecorum principes provocante, procedit 580.
 - Idomenei dextra Asius cadit 774.
-- Dnctur Rhytliiens magnanimus Alcathoum occidit 777.
+- Ductor Rhythieus magnanimus Alcathoum occidit 777.
 - IGNIPOTENS cf. Vulcanus.
 - ILIACUS Iliaco pulvere cum Paridis crines Menelaus foedaret, Helena timebat 323.
-- Iliaeos campos petere instructo milite 128; — id. 160.
+- Iliacos campos petere instructo milite 128; — id. 160.
 - Iliacas acies 655.
-- ILIADES ad templum Minervae subeuut 549.
+- ILIADES ad templum Minervae subeunt 549.
 - — matres stant circum Hectoris corpus 1052.
 - ILION cf. Troja.
 - IMBRASIDES cf. Pirous.
-- IPHIDAMASIphidamantaAgamemno occidit 750.
+- IPHIDAMAS Iphidamanta Agamemno occidit 750.
 - IRIS Irin ad Priamum mittit Juppiter 223.
-- ITHACUS cf. Ulixes. J
+- ITHACUS cf. Ulixes.
 - JOVIS nominativ. cf. Juppiter.
-- JUNO offensa 98; — cum Minerva vires Achilli praebet 894; — longe provida Achillem, contra Xanthi lluctus pugnantem, tuetur 920.
+- JUNO offensa 98; — cum Minerva vires Achilli praebet 894; — longe provida Achillem, contra Xanthi fluctus pugnantem, tuetur 920.
 - JUPPITER.
 - Juppiter Thetidi respondet 93; — tantummodo adsit (Menelaus loquitur 286.
 - Jovis nominativ. superos convocat in coetum 651.
 - Jovis genitiv. magni proles (Apollo) 10; — proles (Sarpedon) 248 et 520.
-- Geuitor concilium dimittit 107.
+- Genitor concilium dimittit 107.
 - Pater nominativ. omnipotens Somnum vocat 113; — Saturnius Irim ad Priamum mittit 223.
-- vocati r.o-ptime (Hector precatur) 572.
-- Rcgnator Olympi omnipotens concilium habet 345.
-- Tonans Tonantis maadata accipe (Somnus Agamemnonem adloquitur) 124.
+- vocativ. optime (Hector precatur) 572.
+- Regnator Olympi omnipotens concilium habet 345.
+- Tonans Tonantis mandata accipe (Somnus Agamemnonem adloquitur) 124.
 - Tonantem verbis incusat Juno irata 104.
 
 ## p. 94
@@ -317,254 +315,239 @@ PDF page 159.
 PDF page 160.
 
 - LACHESIS (in clipeo Achillis) 891.
-- LAERTIUS cf. Ulixcs.
+- LAERTIUS cf. Ulixes.
 - LATIUS Latiis in arvis 900.
-- LATONA Latonae ct Jovis proles 10.
-- LEITUS acer beiio, inter Graecorum duces 1 1>7.
-- LIONTEUS et Polypoetes naves in Trojano ducunl quadraginta 182.
-- LEUCUS ictus hasta quam iu Ajacem Antipbus torquebat 369.
-- LIBYCUS ut Libycus leo (Agamemno) soo.
-- LOCRI Locrum fortissimus Aj.ix 189.
+- LATONA Latonae et Jovis proles 10.
+- LEITUS acer bello, inter Graecorum duces 167.
+- LEONTEUS et Polypoetes naves in Trojano ducunt quadraginta 182.
+- LEUCUS ictus hasta quam in Ajacem Antiphus torquebat 369.
+- LIBYCUS ut Libycus leo (Agamemno) 500.
+- LOCRI Locrum fortissimus Ajax 189.
 - LUCIFER 868.
-- LYCAON cf. Pandarus. M
+- LYCAON cf. Pandarus.
 - MACHAON inter Graecorum duces 218.
 - MAEONIDES cf. Phaestus.
 - MAGNES cf. Prothous.
 - MARS duro milite gaudet 264; — aureus in clipeo Achillis stabat 889.
 - Marti infesto cedunt Graeci 495.
-- Martem tumidum increscere Diomedcs videt 390 ; — pupugit Diomedes 560.
-- Marte invito te perimct haec dextra (Patroclum, Achillisarmisindutum, Hector adloq.) 822.
-- Mavors sonat undique 358; — bellipotens pugnat cuuj Pallade 532; — licet tc protegat, morieris (Patroclum Hector adloq.) 821.
+- Martem tumidum increscere Diomedes videt 390; — pupugit Diomedes 560.
+- Marte invito te perimet haec dextra (Patroclum, Achillis armis indutum, Hector adloq.) 822.
+- Mavors sonat undique 358; — bellipotens pugnat cum Pallade 532; — licet te protegat, morieris (Patroclum Hector adloq.) 821.
 - MARTIUS cf. Hector.
 - MAVORS cf. Mars.
 - MAVORTIUS cf. Hector.
-- MEGES Dulichius inter Graecorum duces 201; — Pedacum caedit 433.
-- MENELAUS fulgens in armis contra Paridem consiitit 283; — galeam Pari dis abst rah i t , i n eundem ardens recurrit 312: — in toto agmine Paridem quaerit 339; — Adrastum capit 539.
+- MEGES Dulichius inter Graecorum duces 201; — Pedaeum caedit 433.
+- MENELAUS fulgens in armis contra Paridem constitit 283; — galeam Paridis abstrahit, in eundem ardens recurrit 312; — in toto agmine Paridem quaerit 339; — Adrastum capit 539.
 - Menelae, Pandarus te petit 347.
-- Menelai ardor sexagintanavibusTrojam petil 174; — armis concidit Pylaemenes 519; - duros ignes praeda quae mulceat 639.
-- Menelaum armatum cernit. Paris 254.
-- Atridcs impiger cum Paride in annis concurral 268; — hastam Paridis devitat 290; — memor raptae conjugis instat 301; — violentus II'lcna Paridem ad loq.) 322; — nou mesuperavit(Helenam Parisadloq.) 332; — gemebundus, quoniam Pandari telafoedatus est, pugna excidit 349.
-- Atridac saevo Idaeus mittitur G 40.
-- Cum Atrida saevo quis tibi suasit contendere? Paridi 11'lenaadloq.) 327.
+- Menelai ardor sexaginta navibus Trojam petiit 174; — armis concidit Pylaemenes 519; — duros ignes praeda quae mulceat 639.
+- Menelaum armatum cernit Paris 254.
+- Atrides impiger cum Paride in armis concurrat 268; — hastam Paridis devitat 290; — memor raptae conjugis instat 301; — violentus (Helena Paridem adloq.) 322; — non me superavit (Helenam Paris adloq.) 332; — gemebundus, quoniam Pandari tela foedatus est, pugna excidit 349.
+- Atridae saevo Idaeus mittitur 640.
+- Cum Atrida saevo quis tibi suasit contendere? (Paridi Helena adloq.) 327.
 - MENESTHEUS clara de gente, Athenaeus, naves quinquaginta ducit 210-1.
-- MERIONES et Idomeneus, uterque Cretaeus, navcs OCtOginta (lucunt 208; — Phereclum caedit 432; — notus paterna gente iu pugnam procedit cum aliis 58l)-l ; — arcu vincit omnes in ludis funebribus 1013.
-- MESTHLFS intcr Trojanorum auxilia 244.
-- MJNKRVA Minervae ad templum supplex Hecuba venit 551.
-- Pallas nominativ. casta Achillem manu tenet ne in Agamemnonem gladio ille tendat 78; — beiiica Diomedi in proelio adest 394; [ Tritonia antc oculos Hectoris subito videtur 936;] — ad Graecos nuiniua sua transfert 950.
-- vocativ. inclita ades poeta, cur superacto, dcam precatur) 1069.
-- Palladis castae ira Paridem superavit 333; ad innuptae — templnm Trojanae mulieres subeunt 548.
-- Cum Pallacle casta Mars pugnat 532: cum casta — Juno vircs Achilli pracbet 894.
-- Tritonia Deiphobi vultu et armis indutis Hectorcm decipif 947. Cf. Pallas,
-- sancta viragoMartem vulnerat 533.
-- Vir^-o armigera Virginia armigerae mouita et numen 400; uumcu 545.
-- MfSAE vocativ. 161.
+- MERIONES et Idomeneus, uterque Cretaeus, naves octoginta ducunt 208; — Phereclum caedit 432; — notus paterna gente in pugnam procedit cum aliis 580-1; — arcu vincit omnes in ludis funebribus 1013.
+- MESTHLES inter Trojanorum auxilia 244.
+- MINERVA Minervae ad templum supplex Hecuba venit 551.
+- Pallas nominativ. casta Achillem manu tenet ne in Agamemnonem gladio ille tendat 78; — bellica Diomedi in proelio adest 394; [ — Tritonia ante oculos Hectoris subito videtur 936;] — ad Graecos numina sua transfert 950.
+- vocativ. inclita ades (poeta, cur superacto, deam precatur) 1069.
+- Palladis castae ira Paridem superavit 333; ad innuptae — templum Trojanae mulieres subeunt 548.
+- Cum Pallade casta Mars pugnat 532; cum casta — Juno vires Achilli praebet 894.
+- Tritonia Deiphobi vultu et armis indutis Hectorem decipit 947. cf. Pallas.
+- sancta virago Martem vulnerat 533.
+- Virgo armigera Virginis armigerae monita et numen 400; numen 545.
+- MUSAE vocativ. 161.
 
 ## p. 95
 
 PDF page 161.
 
-- MYCENAEUS Myoenaeia moenibus Agamemnon ortua 171.
-- MYDON Antilochi armis coocidit 520.
+- MYCENAEUS Mycenaeis moenibus Agamemnon ortus 171.
+- MYDON Antilochi armis concidit 520.
 - MYRMIDONES Chrysae fletibus vincuntur filiamque reddi censent 23.
-- Myrmidonum castra Thetia petit 84; — gloria Epislrophus 180. N
-- NASTES insignis, intcr Trojanorum socios 241.
+- Myrmidonum castra Thetis petit 84; — gloria Epistrophus 180.
+- NASTES insignis, inter Trojanorum socios 241.
 - NEPTUNIUS Neptunia Troja 250.
-- NEPTUNUS Graecis animum et vircs ministrat 172.
-- NEREIDES Nereidas in clipeo Achil- UsVulcanius feeeratS73 [et 860 bis].
-- NEREIUS Cf. Achilles.
-- NEREUS[Xereainclipeo Achillis Vulcanius fecerat 864]; — in euilem, magnum 871.
-- NESTOR fidus sollerti pectore, consilioque potens navcc cum liliis in Trojam ducit nonaginta 176-7.
-- Nestoris prudentia aevo sollerti tur- 1 1 tuj scil.it 144 ; — aetas laudatur 154; — aetas Diomedem et Ulixem, qui, Dolone trucidato, repetunt castra, uxcinil 737.
-- NESTORlDEScf. Antilochus.
-- NIREUS cum tribus navibus Trojam pctil 193. O
-- OCEANUS Oceanum senem fecerat Vulcanius iu Achi.lis clipeo 872; [-864].
+- NEPTUNUS Graecis animum et vires ministrat 772.
+- NEREIDES Nereidas in clipeo Achillis Vulcanius fecerat 873 [et 863 bis].
+- NEREIUS cf. Achilles.
+- NEREUS [Nerea in clipeo Achillis Vulcanius fecerat 864]; — in eodem, magnum 871.
+- NESTOR fidus sollerti pectore, consilioque potens naves cum filiis in Trojam ducit nonaginta 176-7.
+- Nestoris prudentia aevo sollerti turbam sedat 144; — aetas laudatur 154; — aetas Diomedem et Ulixem, qui, Dolone trucidato, repetunt castra, excipit 737.
+- NESTORIDES cf. Antilochus.
+- NIREUS cum tribus navibus Trojam petit 195.
+- OCEANUS Oceanum senem fecerat Vulcanius in Achillis clipeo 872; [ — 864].
 - OENIDES cf. Diomedes.
 - OILEUS cf. Ajax, Oilei f.
-- OLYMPUS OJympi regnator(Juppiler) 3 15.
-- Ohmpo emenso dcccdit sol 108; [ 107].
-- ORSILOCHUS Orailochum Aeneas caedil 518.
-- PAEONIUS Paeoniis berbis Podalirius Menelaum curat 351.
+- OLYMPUS Olympi regnator (Juppiter) 345.
+- Olympo emenso decedit sol 108; [107].
+- ORSILOCHUS Orsilochum Aeneas caedit 518.
+- PAEONIUS Paeoniis herbis Podalirius Menelaum curat 351.
 - PALLAS cf. Minerva.
-- PANDARUS Lycaonis proles generosa inter Trojanorum auxilia 238-9; — arcu turbatfoedera340; — in agmine volitat 136.
-- Pandare, occidis Diomedis manu i 19.
-- PAPHLAGONES Papblagonum dux cf. Pylaemen.
-- PARIS nominativ.belli causa, patriae funesta ruina, arma, cum ceteris Trojanorum ducibus, capit 234; — Trojae exitium funestaque flamma, armatum Menelamu cernit 2o3; — una cum Hectore acies petit 576 ; — hostiles turmas prosternit 756.
-- vocativ. t\< mea flamma » (Helena adloq.) 320.
-- Paridi ultimus dies forct, nj Wnns eum texisset 311; — Dardanio Venus Helenam deducit 318.
-- Alcxamler pulcher, clipeo et hasta insignis contra Meneiaum procedit 2S2; — tristis Helenae respondet 332.
-- Alexandrum Menelaus quaerit 310.
-- Darilaniiis juvenis Dardanium juveneus Menelaus premit ense 302.
+- PANDARUS Lycaonis proles generosa inter Trojanorum auxilia 238-9; — arcu turbat foedera 340; — in agmine volitat 436.
+- Pandare, occidis Diomedis manu 449.
+- PAPHLAGONES Paphlagonum dux cf. Pylaemen.
+- PARIS nominativ. belli causa, patriae funesta ruina, arma, cum ceteris Trojanorum ducibus, capit 234; — Trojae exitium funestaque flamma, armatum Menelaum cernit 253; — una cum Hectore acies petit 576; — hostiles turmas prosternit 756.
+- vocativ. « mea flamma » (Helena adloq.) 320.
+- Paridi ultimus dies foret, ni Venus eum texisset 311; — Dardanio Venus Helenam deducit 318.
+- Alexander pulcher, clipeo et hasta insignis contra Menelaum procedit 282; — tristis Helenae respondet 332.
+- Alexandrum Menelaus quaerit 340.
+- Dardanius juvenis Dardanium juvenem Menelaus premit ense 302.
 - Dardanio cf. Paridi.
-- Plii-ygius in Phrygii cladem Menelaus liastam torquet 315.
-- Praedo Plirygius praedonis Phrygii corpus, ni ferrea lorica texisset, Menelai vulaerasset telum 292.
-- Priameiiis lieros pauca Hectori respondet 271.
-- (Adde buc quod Paridem Hector ita praedicat : « Dedecus... Aetemum patriae generisque infamia nostri » 257-8).
-- PATROCLUS Achillis armis munitus 80G; — hastam Hectoris decipit 827.
+- Phrygius in Phrygii cladem Menelaus hastam torquet 315.
+- Praedo Phrygius praedonis Phrygii corpus, ni ferrea lorica texisset, Menelai vulnerasset telum 292.
+- Priameius heros pauca Hectori respondet 271.
+- (Adde huc quod Paridem Hector ita praedicat : « Dedecus... Aeternum patriae generisque infamia nostri » 257-8).
+- PATROCLUS Achillis armis munitus 806; — hastam Hectoris decipit 827.
 - Patrocli manes 994.
 - PEDAEUS Pedaeum Meges occidit 433.
 - PELASGI cf. Grai.
 - PELEUS pro Priamo Achillem moveat (Hector, moriens, adloq.) 986.
 - PELIDES cf. Achilles.
 - PELOPEIUS cf. Agamemno.
-- [PELOPEA] cf. Grah
+- [PELOPEA] cf. Grai.
 
 ## p. 96
 
 PDF page 162.
 
-- PENELEUS cum ceteris Graecorum ducibus Trojara petit 167.
-- Penclei atrocis dextra Acamanlem Antenoris tilium sternit 789.
+- PENELEUS cum ceteris Graecorum ducibus Trojam petit 167.
+- Penelei atrocis dextra Acamantem Antenoris filium sternit 789.
 - PERGAMA cf. Troja.
-- PHAESTUS Phaestum Maconiden Ldemeneus ferit 430.
+- PHAESTUS Phaestum Maeoniden Idomeneus ferit 430.
 - PHEGEUS hastam in Diomedem emittit 405.
-- Phcgea videt in agmine Dioinrdcs Hl.">.
+- Phegea videt in agmine Diomedes 405.
 - PHERECLUS Phereclum Meriones occidit 432.
-- PHIDIPPUS et Antiphus, Thessaliei juvenes, naves in Trojain ducunt triginta 103.
+- PHIDIPPUS et Antiphus, Thessalici juvenes, naves in Trojam ducunt triginta 193.
 - PHOEBEIUS Phoebeia templa 27.
 - PHOEBUS cf. Apollo.
 - PHORCUS inter Trojanorum principes 247.
 - PHRYGES cf. Trojani.
-- PHRYGIA Phrygiae " unum decus (Hector) 661.
-- PHRYGIUS Phrygii 315, Phrygii praedonis 2H2. cf. Paris; Phrygiae gentis cf. Trojahi.
+- PHRYGIA Phrygiae unum decus (Hector) 661.
+- PHRYGIUS Phrygii 315, Phrygii praedonis 292, cf. Paris; Phrygiae gentis cf. Trojani.
 - PIERIDES Pieridum cohors 1067.
-- PIROUS \< ensc et virtute potens > inter auxilia Trojanorum 2i5; — — Imbrasides Diorem, Amarynci filium, occidit 378.
+- PIROUS < ense et virtute potens > inter auxilia Trojanorum 245; — Imbrasides Diorem, Amarynci filium, occidit 378.
 - PISANDER Pisandrum Agamemno caedit 749.
 - PODALIRIUS inter Graecorum duces 218; — Menelaum, a Pandaro vulneratum curat 351.
 - PODARCES fortis inter Graecorum duces 215.
-- POEAS Poeantesatus (Philoctetes)217.
+- POEAS Poeante satus (Philoctetes) 217.
 - POLITES Priami filius.
-- fortis inlcr Trojauorum principes 235.
-- POLYDAMAS Prothoenoraoccidit786.
+- fortis inter Trojanorum principes 235.
+- POLYDAMAS Prothoenora occidit 786.
 - POLYIDOS Eurydamantis filius.
-- Polyidon Diomcdes interficit 445.
+- Polyidon Diomedes interficit 445.
 - POLYPOETES et Leonteus in Trojam viginti naves instruxerunt 182; — omnes vincit disco in ludis funebribus 1012.
-- 1'OLYXENL'SclaravirtuteinterGraecorum duces 213.
+- POLYXENUS clara virtute inter Graecorum duces 213.
 - PRIAMEIA cf. Trojani.
-- PHIA.MEIUS cf. Hector, Paris.
-- PRIAMIDES cf. Ilector.
-- PRIAMUS accitur ad foedera cum Graecis jungenda 278; — redit in castra, postquam Hectoris corpus Achilles reddidit, 1016.
-- Priami consilium expediam (loquitur Dolo) 726; — filius, 982, 983, cf. Hcctor.
+- PRIAMEIUS cf. Hector, Paris.
+- PRIAMIDES cf. Hector.
+- PRIAMUS accitur ad foedera cum Graecis jungenda 278; — redit in castra, postquam Hectoris corpus Achilles reddidit, 1046.
+- Priami consilium expediam (loquitur Dolo) 726; — filius, 982, 983, cf. Hector.
 - Ad Priamum Juppiter Irin mittit 223; Priamum vicisti (de se cum Achille loq.) 1041.
-- Pro Priamo (Peleus Achillem moveat (Hector loq.)987; vide etiam defessa senectus Afflicti miseranda patris (Ilectore amisso) 1020-1.
+- Pro Priamo Peleus Achillem moveat (Hector loq.) 987; vide etiam defessa senectus Afflicti miseranda patris (Hectore amisso) 1020-1.
 - PROMACHUS Promachum Boeotum vulnerat Acamas, Antenoris filius 788.
 - PROTESILAUS in Trojam naves agit quadraginta 215.
-- PROTEUS Protca non cundem semper (fecerat Yulcanius in clipeo Achillis) 872.
+- PROTEUS Protea non eundem semper (fecerat Vulcanius in clipeo Achillis) 872.
 - PROTHOENOR Boeotus inter duces Graecorum 168-9.
 - Prothoenora occidit Polydamas 786.
 - PROTHOUS Magnes Tenthredone natus inter Graecorum duces 199.
-- PYLAEMEN \< Pylaemenis aniini
-- Paplilagonuiu iluctor a Menelao occiditur 519.
-- PYLAEUS intcr Trojanorum principes 240.
-- PYRAECHMES clarus aetate inter Trojanorum socios 2i3.
-- PYRRHUS prollectorc Achillem moveat 987. R
+- PYLAEMEN < Pylaemenis animi 245 bis >.
+- Paphlagonum ductor a Menelao occiditur 519.
+- PYLAEUS inter Trojanorum principes 240.
+- PYRAECHMES clarus aetate inter Trojanorum socios 243.
+- PYRRHUS pro Hectore Achillem moveat 987.
 - RHESUS Rhesi tentoria occupant ipsumque trucidant Ulixes et Diomedes 729.
 - RHODIUS cf. Tlepolemus.
 - RHYTHIEUS cf. Idomeneus.
 - SALAMINIUS cf. Ajax Telam. f.
-- SARPEDON Jovis proles inclita, inter Trojanorum socios 248-9; — Jovi3
+- SARPEDON Jovis proles inclita, inter Trojanorum socios 248-9; — Jovis
 
 ## p. 97
 
 PDF page 163.
 
-- proles inclita pu^nat 520-1 ; — saucius egreditur certamine 527.
-- Sarpedoua Patroelus occidit 8H.
+- proles inclita pugnat 520-1; — saucius egreditur certamine 527.
+- Sarpedona Patroclus occidit 811.
 - SATURNIUS cf. Juppiter.
-- SCHEDIUS virtute potens, saevi robur belii, inter Graecorum duces 170.
-- STHENELUS inter Graecorum duccs 184.
-- STROPHIUSe Strophiogenitum (silicet Scamandrium) Idomenous caedit. 431.
-- STTGIUS ad Stygias undas 431.
-- SUME ab Sume 195. T
-- TARTARA ad Tartara Echeuiona Diomedes rnittit 448.
+- SCHEDIUS virtute potens, saevi robur belli, inter Graecorum duces 179.
+- STHENELUS inter Graecorum duces 184.
+- STROPHIUS e Strophio genitum (silicet Scamandrium) Idomeneus caedit 431.
+- STYGIUS ad Stygias undas 431.
+- SUME ab Sume 195.
+- TARTARA ad Tartara Echemona Diomedes mittit 448.
 - TELAMO Telamone cf. Ajax Telam. filius.
 - TELAMONIUS cf. ibid.
-- TENTHRKDO Tcnlhredone cf. Prothous
-- TEUCER 3tans sub Ajacis scuto Trojanos agil 070-1.
+- TENTHREDO Tenthredone cf. Prothous.
+- TEUCER stans sub Ajacis scuto Trojanos agit 670-1.
 - TEUCRI nomen populi cf. Trojani.
-- THALPIUS Elide natus inter Graecorum duces -l-.
-- THALYSIADES (Echepolus) ab Antilocho occiditur 300-1.
-- THERSITES, quo non deformior alter linguave protervior, negat bolla ultra gerenda esse 136-7.
-- THESSALICUS Thessalici {nom.plur.) cf. Autiphus, Phidippus.
+- THALPIUS Elide natus inter Graecorum duces 212.
+- THALYSIADES (Echepolus) ab Antilocho occiditur 360-1.
+- THERSITES, quo non deformior alter linguave protervior, negat bella ultra gerenda esse 136-7.
+- THESSALICUS Thessalici (nom. plur.) cf. Antiphus, Phidippus.
 - THESTORIDES cf. Calchas.
 - THETIDEIUS cf. Achilles.
-- THETIS Achillis audit preces 83. Thetidi Vtilcanus arma donat 860.
-- Thetin fortia arma Achilies rogat855.
-- Doridc nata tantum valet (Juno Jovem adloq.) 09.
-- Adde huc quod verbis « magni diva maris » Juppiler, Thctidem adloquens, utitur 94.
-- THOAS, animis et armis insignis, de gente Aetola Andraemone natus inter Graecorum duces 201-2; — magno Andraemone natuscum aliis Graecorum ducibus procedit 533.
-- Thoantis dextra Piroum librata hasla petit 380.
+- THETIS Achillis audit preces 83. Thetidi Vulcanus arma donat 860.
+- Thetin fortia arma Achilles rogat 855.
+- Doride nata tantum valet (Juno Jovem adloq.) 99.
+- Adde huc quod verbis « magni diva maris » Juppiter, Thetidem adloquens, utitur 94.
+- THOAS, animis et armis insignis, de gente Aetola Andraemone natus inter Graecorum duces 201-2; — magno Andraemone natus cum aliis Graecorum ducibus procedit 583.
+- Thoantis dextra Piroum librata hasta petit 380.
 - THOON Phaenopis filius.
-- Thoouem vastum Diomedes occidit 446.
+- Thoonem vastum Diomedes occidit 446.
 - THRAX adjectiv. Thracas equos 734.
-- TITAN cum undis se emerserit 126; — radiis nitidum caput uudis extulit 158; — cum, fessus, igniferos currus in undas coeperat immergere 616-7; — ut radiis nitidum orbem patefecerat 650.
+- TITAN cum undis se emerserit 126; — radiis nitidum caput undis extulit 158; — cum, fessus, igniferos currus in undas coeperat immergere 616-7; — ut radiis nitidum orbem patefecerat 650.
 - Titana cum dies extulerit 118.
 - TLEPOLEMUS Rhodius naves in Trojam ducit novem 196; — satus magno Hercule, a Sarpedone occiditur 523.
 - TONANS cf. Juppiter.
 - TRITONES Tritones feros fecerat Vulcanius in clipeo 874.
 - TRITONIA cf. Minerva.
 - TROES cf. Trojani.
-- TROICUS Troica dextora (Hectoris manus) 819: ad Troica castra 644-5.
+- TROICUS Troica dextra (Hectoris manus) 819; ad Troica castra 644-5.
 - TROIUS cf. Hector; Troia pubes cf. Trojani.
-- TROJA Neptunia his ducibus (quos noster jam enumeravit) so defendit 250; — maxima currum Achjjlis Doloni promiserat 719; — quid pararet 727 ; — Hectore amisso planctu sonat 1016.
-- Trojae exitium (Paris) 253; Qammas — suasque gremio Helena accipit (scilicet Paridem) 338.
-- Trqjamnemo veneratdcformiorquam Thorsites 137; — Latiis in arvis reparatam 900.
-- Iliondies quo caderet 153; — flamma qua Hectoris corpus, ardcbat 1056.
+- TROJA Neptunia his ducibus (quos noster jam enumeravit) se defendit 250; — maxima currum Achillis Doloni promiserat 719; — quid pararet 727; — Hectore amisso planctu sonat 1016.
+- Trojae exitium (Paris) 253; flammas — suasque gremio Helena accipit (scilicet Paridem) 338.
+- Trojam nemo venerat deformior quam Thersites 137; — Latiis in arvis reparatam 900.
+- Ilion dies quo caderet 153; — flamma qua Hectoris corpus, ardebat 1056.
 - Pergama ad — quot Graecorum dux quisque naves egit 164.
 - TROJANI Trojanis crescit virtus 387.
-- Trojana jiivcntus cedit 542; — (iraecos urguet 770.
-- Trojana inaniis concurrit 782.
-- Dardana pubes ad Xanthum confugit 905 ; — te solum tremit (Achillein Priamus adloq.) 1029-30.
-- Dardanidac Dardanidum duces743.
+- Trojana juventus cedit 542; — Graecos urguet 770.
+- Trojana manus concurrit 782.
+- Dardana pubes ad Xanthum confugit 905; — te solum tremit (Achillem Priamus adloq.) 1029-30.
+- Dardanidae Dardanidum duces 743.
 
 ## p. 98
 
 PDF page 164.
 
-- Phryffes fugiunt 401; — acrius instant 493; — in coetum veriiunt 636; — Graecos, aggere inclusos, obsidunl 682; — castrorum hosti- 762: —
-- lium aditus irruinpuut —
-- taedas ardentes jactant 803;
-- amissum fleni. Hectorem 1 01 o.
-- Phrygnm populus 268; — spes una Hector 486; — turmas proturbat Agamemno 505; -- fata dura Graecorumque casus Juppiter expendit 657; — omnis causa ih uno Ilectore ruit 1020.
-- Phrygas pulsos Agamemno ore increpat 342 ; — Teucer, stans sub Ajacis scuto, agit 670.
-- Phr yjjia jjetis Phrygiaegentistotam — rem expediam (loq. Dolo) 726-7; tutator Apollo 911.
-- Phrjijiae catervae Phrygias catervas Achilles ingenti caede agit 923.
-- Prhimcia pubes cadit789; — laetitia exsultat 837.
-- Teucri fuuduntur 50S.
+- Phryges fugiunt 401; — acrius instant 493; — in coetum veniunt 636; — Graecos, aggere inclusos, obsidunt 682; — castrorum hostilium aditus irrumpunt 762; — taedas ardentes jactant 803; — amissum flent Hectorem 1015.
+- Phrygum populus 268; — spes una Hector 486; — turmas proturbat Agamemno 505; — fata dura Graecorumque casus Juppiter expendit 657; — omnis causa in uno Hectore ruit 1020.
+- Phrygas pulsos Agamemno ore increpat 342; — Teucer, stans sub Ajacis scuto, agit 670.
+- Phrygia gens Phrygiae gentis totam rem expediam (loq. Dolo) 726-7; — tutator Apollo 911.
+- Phrygiae catervae Phrygias catervas Achilles ingenti caede agit 923.
+- Priameia pubes cadit 789; — laetitia exsultat 837.
+- Teucri funduntur 508.
 - In Teucros Agamemno furit 424; Teucros cuspide Achilles agit 903.
-- Troes incumbunt, Graeci fugiunt V>8 ; — acta testudlne subeunt 767; — acrius assurgunt 790; — dubitant formidine 928; — funera sua maerent978; — vulnera sua plangunt 1002.
-- Troum vires velis renovare in proelia Juno adloq.) 102; — ab
-- (Jovem —
-- agmine Paris procedit 281; in
-- agmine Paridem Menelaus quaerit
-- 339 ; — catervae cadunt 357; — cor-
-- pora Diomedem sternentem Pan-
-- darus videt 438; — terror Achilies
-- 585; — Danaumque catervae disce-
-- dunt 631; — maudata ldaeus Aga-
-- memnoni perfert 641; — Oducia
-- quae sit 701; — agmina gemue-
-- runt 963.
+- Troes incumbunt, Graeci fugiunt 758; — acta testudine subeunt 767; — acrius assurgunt 790; — dubitant formidine 928; — funera sua maerent 978; — vulnera sua plangunt 1002.
+- Troum vires velis renovare in proelia (Jovem Juno adloq.) 102; — ab agmine Paris procedit 281; in agmine Paridem Menelaus quaerit 339; — catervae cadunt 357; — corpora Diomedem sternentem Pandarus videt 438; — terror Achilles 585; — Danaumque catervae discedunt 631; — mandata Idaeus Agamemnoni perfert 641; — fiducia quae sit 701; — agmina gemuerunt 963.
 - Troas terret Patroclus, Achillis armis munitus, 807.
-- Troia pubcs Dolonem, ut Graecorum vires ille perspiceret, miserat 704.
-- TROJANUS cf. Trojani, Apollo; salus Trojana 931 ; ad Trojana litora 220.
+- Troia pubes Dolonem, ut Graecorum vires ille perspiceret, miserat 704.
+- TROJANUS cf. Trojani, Apollo; salus Trojana 931; ad Trojana litora 220.
 - TROS cf. Dolon.
 - TYDEIUS (Diomedis) ensis 453.
-- TYDIDES cf. Diomcdes.
-- I
-- ULIXES cunctis notus Chryseida ad pal riam revehit65; — consiliis iliustrisThersitem sceptro percutil 139; — fraudis commentor Trojanos septem juvenes occidil 527; — fraudis commentor, llectore " duces Graecorum provocante armis, cum aliis procedit 579; — Dolonem adspicit 707.
+- TYDIDES cf. Diomedes.
+- ULIXES cunctis notus Chryseida ad patriam revehit 65; — consiliis illustris Thersitem sceptro percutit 139; — fraudis commentor Trojanos septem juvenes occidit 527; — fraudis commentor, Hectore duces Graecorum provocante armis, cum aliis procedit 579; — Dolonem adspicit 707.
 - Ulixem socium sibi delegit Diomedes 699.
-- Itaehus Ithaci sollertia naves duodecim in Trojam ducit 204.
-- Laertius Ajacem luctando in ludis funcbribus vincit 1010.
-- VENUS Paridem Menelao eripit 315; — Aeneam Diomedi 464 ; — etApollo Xanthi iluetus in Graecos attollunt 911. Aeneas 236 et 483; —
-- Veneris proles dextram Diomedes vulnerat559; manuin idcui violavit 584.
-- Iu Veuerum aruiis Diomedes irruit 467.
-- Cjtlierea Paridem , cum Menelao pugnantem, tegit caligine 309; — aderit meo labori (Paris loq.) 335; — icta Diomedis hasta. petit caelum 470.
-- VLLCANIUS Vulcania arma 835,961.
+- Ithacus Ithaci sollertia naves duodecim in Trojam ducit 204.
+- Laertius Ajacem luctando in ludis funebribus vincit 1010.
+- VENUS Paridem Menelao eripit 315; — Aeneam Diomedi 464; — et Apollo Xanthi fluctus in Graecos attollunt 911.
+- Veneris proles Aeneas 236 et 483; — dextram Diomedes vulnerat 559; — manum idem violavit 584.
+- In Venerem armis Diomedes irruit 467.
+- Cytherea Paridem, cum Menelao pugnantem, tegit caligine 309; — aderit meo labori (Paris loq.) 335; — icta Diomedis hasta, petit caelum 470.
+- VULCANIUS Vulcania arma 835, 961.
 - VULCANUS Vulcani auxilium Thetis orat 856.
 - Ignipotens in clipeo mundum caelaverat 862.
-- Ignipotente interposito, Juuonis et Jovis certamen residit 106.
-- Mulciber Aetnaeos ignes excitat858.
+- Ignipotente interposito, Junonis et Jovis certamen residit 106.
+- Mulciber Aetnaeos ignes excitat 858.
 - XANTHUS Phaenopis filius.
-- Xanthum notum bello Diomedes intcrlieit 446.
+- Xanthum notum bello Diomedes interficit 446.
 - XANTHUS fluvius.
-- Xanthi iluctu Hectorem vulneratum Trojani lavant 783; ad — fluctus fugiunt Trojani 906; — fluctus in Graecos Apollo et Venus attollunt 912.
+- Xanthi fluctu Hectorem vulneratum Trojani lavant 783; ad — fluctus fugiunt Trojani 906; — fluctus in Graecos Apollo et Venus attollunt 912.

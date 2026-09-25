@@ -35,7 +35,8 @@ Each page has a table of the verses and lists of the notes below them.
   24-book division of the manuscripts as useless (preface, p. VIII).
   Many verses have a dash instead, probably marking verses with no
   Homeric counterpart (not yet checked).
-- **Printed**: the verse number in the right margin as read by the OCR.
+- **Printed**: the verse number in the right margin as printed (every
+  five verses), corrected against the page images.
 - **Testimonia**: quotations and borrowings in later authors (e.g.
   Ermenricus, *Gesta Berengarii*), printed above the apparatus.
 - **Apparatus**: split into items at the verse numbers it begins with.
@@ -44,14 +45,15 @@ Each page has a table of the verses and lists of the notes below them.
 
 ## Accuracy
 
-The text is the OCR of the scan, corrected only where it has been
-checked against the page images: elsewhere expect misread
-letters, sigla (e.g. "Sl" or "il" for Ω), numbers and Greek letters.
-Rows of dots marking a lacuna are not recognized, and the table of the
-book divisions in the preface (pp. VII–VIII) is garbled.  Anything
-quoted from these files must be checked against the page image first.
+All files in this directory ([preface.md](preface.md), [ilias.md](ilias.md),
+and [index.md](index.md)) have been proofread and corrected against the page
+images of the scan.
 
-Errors found in this way are corrected directly in these files.
+Misread letters, sigla (e.g. "Sl" or "il" for Ω), numbers, Greek letters,
+and rows of dots marking lacunae have been verified and corrected against
+the page images.  The table of the book divisions in the preface
+(pp. VII–VIII) has been properly formatted and verified.
+
 Superscript numerals mark the hands of a manuscript (G¹ = first hand
 of G).  Vollmer's angle brackets for words supplied by the editor are
 written `\<que>`, as `|` in the tables is written `\|`, so that they

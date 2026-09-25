@@ -16,132 +16,125 @@ EPITOME ILIADOS HOMERI EJUSQUE AUCTORE
 
 TESTIMONIA AUCTORUM AC JUDICIA.
 
-■Mpgq^
+I. Auctor veteris epigrammatis, quod in Pithoei Epigr. vet. lib. I, p. 29, et in Burm. Anthol. Lat. lib. III, ep. 62, inscribitur De Navigatione (*), quem auctorem suspicor Rufum Avienum esse :
 
-I. Auctor yeteris epigrammatis , quod iu Pithoei Epigr. vet. lib. I, p. 29, et in Burm. Anthol. Lat. lib. III, ep. 62, inscribitur ^\<& Navigatione (*), quera auctorem suspicor Rufum Avienum esse : '
-
-. O litus vita luihi dulcius ! o mare ! feliz
-
-Cui licet ad teiras ire subinde meas.
-
-O formosa dies ! hoc quondam rure soleban\
-
-Iliadutn annatas soUicitare manus.
+O litus vita mihi dulcius ! o mare ! felix
+Cui licet ad terras ire subinde meas.
+O formosa dies ! hoc quondam rure solebam
+Iliadum armatas sollicitare manus.
 
 ### Notes
 
-- * Parum aptus hic tilulus epigraromati est, nec eum in codice Voss. aut schedis Scaligcri haberi testatur Burmannus. Nihii aliud auctor incertus , quam villam snam iu iitore maris poaitam laudat, e qna prospicere naves euntes iu mari suhinde ad litus appellentes poterat. Unde ei cogitatio suboritur comparandi incommoda et pericula navigationis cum sedis suae terrestris securitate. Conferendum Martialis epigr. 5i iibri X.
-- I. Felix, Cui iicet, h. e. felix ille habendus, cui contingit suhinde hanc in villani meam secedere , et hac terrarum anioenitate frui. Simile iliud Horatii , Epod. a : • Beatus ille, qui procul negotiis, etc. • et Claudiani epigr. a : « Felix, qui patriis svum iransegit in agris ».
-- 3. O/onnosa dies. Heinsius ofor" mosa quies emendabat in exemplari sno, et ad Ovid. Fast.VI, 594. Et sanehoc convenientius sequentibus verbis , quibus otium suuro in literis occupatum adfirmat, quomodo Plinius, Epiflt. I, 9 ; ■ o dulce otium bonestumque ! . . . o mare, o litus ! quam multa invenitis, quam multa dictatis?»Sed nec dies incongruum, siquidem Martialis verba I. c. respexit : « o soles ! o tunicata quies ! • Pithcsus edidit cum asterisco hac quondam * rure solebam Iliadas armaiasy et in margiiie Uiadum. Sca-
+- * Parum aptus hic titulus epigrammati est, nec eum in codice Voss. aut schedis Scaligeri haberi testatur Burmannus. Nihil aliud auctor incertus, quam villam suam in litore maris positam laudat, e qua prospicere naves euntes in mari subinde ad litus appellentes poterat. Unde ei cogitatio suboritur comparandi incommoda et pericula navigationis cum sedis suae terrestris securitate. Conferendum Martialis epigr. 51 libri X.
+- 1. Felix, Cui licet, h. e. felix ille habendus, cui contingit subinde hanc in villam meam secedere, et hac terrarum amoenitate frui. Simile illud Horatii, Epod. 2 : « Beatus ille, qui procul negotiis, etc. » et Claudiani epigr. 2 : « Felix, qui patriis aevum transegit in agris ».
+- 3. O formosa dies. Heinsius o formosa quies emendabat in exemplari suo, et ad Ovid. Fast. VI, 594. Et sane hoc convenientius sequentibus verbis, quibus otium suum in literis occupatum adfirmat, quomodo Plinius, Epist. I, 9 : « o dulce otium honestumque ! . . . o mare, o litus ! quam multa invenitis, quam multa dictatis ? » Sed nec dies incongruum, siquidem Martialis verba l. c. respexit : « o soles ! o tunicata quies ! » Pithoeus edidit cum asterisco hoc quondam * rure solebam Iliadas armatas, et in margine Iliadum. Sca-
 
 ## p. 509
 
 PDF page 519.
 
-Hic fontis Ucns est : iliic sinus egerit algas : s Hic statio est tacitis jimcta crepidinibus.
+Hic fontis lacus est : illic sinus egerit algas :
+Hic statio est tacitis juncta crepidinibus.
 
 ### Notes
 
-- (cont.) liger in margine notaverat rure so* lehat lUas, Lindenbrogio Tidebatur legi posse Naidas armata soliieitare manu. Christins in Excnrsu ad Viilaticp. 970, tentat : hae quondam^ rure, soleham Iliade, Ingeniosissime Heinsius in exemplari suo emenda- Tit : hoc quondam rure soleham Phjrllidos hamaias sollieitare manus : qui tamen in notis ad Ovid. FasL 1. c. armaias retinuit. Hic igitur d^ scribi putavit, quse Horat. Carm. 1,6, dicit « prselia Tirginum Sectis in juvenes unguibus acrium •>. Sed his argntiis non opns est. Teneo, qnodPithoeo adsentiente edidi, Iliadum y et interpretor, auctorem olim mre suo bellum Trojannm ex Homeri Iliade descripsisse , et nunc cnm respectn ad Odysseam Homeri periculosas naTigationes Ulyssis contendere cum vita, quam in terra agat Penelope ; Tideator vers. ult. Dicunt poet» se ipsos facere , quod ab aliis factum describunt, quod ex innnmens eorum locis constat Hinc lUadum armatas manus soUicitare idem est , ac Trojanorum prsBlia describere : qnemadmodum Propertius , II, i, 17, dicit « heroas ducere in arma n^anus >• ; et in ^tna Lncilii, ts. 4> •' * impia poetarum fabula dicitur JEtQta yerticis ignes Phlegreis castris soliicitare » , h. e. ignes ^tnse , quasi arma in Deos mota,describere. Iliadum ab lUadte est, qoomodo Trojani vocantur, sicut lUadte fratres Roniulus et Remus apud Ovid. FasL III y6a : et niemorabilc est, in antiquis editionibus Epitomen Iliadis , quam edimus , lUadum opus inscribL Si lUadum minus placeat , possis ctiam Iliade legere. — Qusb lectio edseritur, hujns operis nostri tomo II, pag. 3i4. £d.
-- 6. Vulgata legunt victa Cupidini' hus, Sed omnes eniditi, hoc carmen legentes, ista yerba soUicitant et emendare conantur, haud dubie propterea , qnod eis statio Cupidinum -valde obscnra videbatur. PithoBus Tult fida Oupidinihus ; Barthins , Advers. XXIII , la , ■ Hic statio est tacitis vita Cupidiolbus » ; Tollius tentavit placiUs lceta yel lecta Cupidinihus ,TaDdem Heiosii emendatio ad Ovid. Fast. I. c. prolata Bui^ manno se maxime probavit : « Hic statio est tacitis dicta Cupldinifans ». Neque vero hi viri animadverterunt, ipsum Cupidinihus alieuum esse, Audacter lego : « tacitis juncta crepidinibus >. — StaUo hic non est sedes vel locus Amorum et Cupidinum, sed statio navium. Hoc prsecedens sinus suadet , quocum statio etiam conjungitur in Ciri , V. 472: «Hinc sinus, hinc statio contra patet Hermionea >. Ad stationem navium pertinet crepido, vel munita et exaggerata terra litoris,ad quam junguntur vel vinciuntor oaves. Hioc Virg. ^o. X, 653 : « Forte raris celsl coojuocta crepidioe saxi Stabat ■. — Tacita: crepi* dines suot, quas careut veotis et tempestatibus , quomodo Horatlus , Carm. III , 29 , a4 » de ripa ait : « caretque Ripa vagis tacituroa veotis >. Ne plurali crepidinihus ofTendaris, ecce Manilius, IV, vs. 48: «* Eque crepidinibus cepit Carthaginis urbem ». Possis etiam pro victa iegere tuta vel /ida , ut fit in iilo Virgilii ^neid. II, a3 : « Nunc
+- (cont.) liger in margine notaverat rure solebat Ilias. Lindenbrogio videbatur legi posse Naidas armata sollicitare manu. Christius in Excursu ad Villatic. p. 270, tentat : hac quondam, rure, solebam Iliade. Ingeniosissime Heinsius in exemplari suo emendavit : hoc quondam rure solebam Phyllidos hamatas sollicitare manus : qui tamen in notis ad Ovid. Fast. l. c. armatas retinuit. Hic igitur describi putavit, quae Horat. Carm. I, 6, dicit « praelia virginum Sectis in juvenes unguibus acrium ». Sed his argutiis non opus est. Teneo, quod Pithoeo adsentiente edidi, Iliadum, et interpretor, auctorem olim rure suo bellum Trojanum ex Homeri Iliade descripsisse, et nunc cum respectu ad Odysseam Homeri periculosas navigationes Ulyssis contendere cum vita, quam in terra agat Penelope ; videatur vers. ult. Dicunt poetae se ipsos facere, quod ab aliis factum describunt, quod ex innumeris eorum locis constat. Hinc Iliadum armatas manus sollicitare idem est, ac Trojanorum praelia describere : quemadmodum Propertius, II, 1, 17, dicit « heroas ducere in arma manus » ; et in Aetna Lucilii, vs. 45, impia poetarum fabula dicitur « Aetnaei verticis ignes Phlegraeis castris sollicitare », h. e. ignes Aetnaei, quasi arma in Deos mota, describere. Iliadum ab Iliades est, quomodo Trojani vocantur, sicut Iliades fratres Romulus et Remus apud Ovid. Fast. III, 62 : et memorabile est, in antiquis editionibus Epitomen Iliados, quam edimus, Iliadum opus inscribi. Si Iliadum minus placeat, possis etiam Iliade legere. — Quae lectio adseritur, hujus operis nostri tomo II, pag. 314. Ed.
+- 6. Vulgatae legunt victa Cupidinibus. Sed omnes eruditi, hoc carmen legentes, ista verba sollicitant et emendare conantur, haud dubie propterea, quod eis statio Cupidinum valde obscura videbatur. Pithoeus vult fida Cupidinibus ; Barthius, Advers. XXIII, 12, « Hic statio est tacitis vita Cupidinibus » ; Tollius tentavit placitis laeta vel lecta Cupidinibus. Tandem Heinsii emendatio ad Ovid. Fast. l. c. prolata Burmanno se maxime probavit : « Hic statio est tacitis dicta Cupidinibus ». Neque vero hi viri animadverterunt, ipsum Cupidinibus alienum esse. Audacter lego : « tacitis juncta crepidinibus ». — Statio hic non est sedes vel locus Amorum et Cupidinum, sed statio navium. Hoc praecedens sinus suadet, quocum statio etiam conjungitur in Ciri, v. 472 : « Hinc sinus, hinc statio contra patet Hermionea ». Ad stationem navium pertinet crepido, vel munita et exaggerata terra litoris, ad quam junguntur vel vinciuntur naves. Hinc Virg. Aen. X, 653 : « Forte ratis celsi conjuncta crepidine saxi Stabat ». — Tacitae crepidines sunt, quae carent ventis et tempestatibus, quomodo Horatius, Carm. III, 29, 24, de ripa ait : « caretque Ripa vagis taciturna ventis ». Ne plurali crepidinibus offendaris, ecce Manilius, IV, vs. 48 : « Eque crepidinibus cepit Carthaginis urbem ». Possis etiam pro victa legere tuta vel fida, ut fit in illo Virgilii Aeneid. II, 23 : « Nunc
 
 ## p. 510
 
 PDF page 520.
 
-Pervixi : neque enim fortiina mftlignior nnqaam Eripiet nobis , quod prior hora dedit. Illic altemis depugnat ppntus et aer :
-
-Hic riyo tenui pervia ridet humus.
-
-lUic divisas complorat navlta pnppes :
-
+Pervixi : neque enim fortuna malignior unquam
+Eripiet nobis , quod prior hora dedit.
+Illic alternis depugnat pontus et aer :
+Hic rivo tenui pervia ridet humus.
+Illic divisas complorat navita puppes :
 Hic pastor miti perluit amne pecus.
-
-niic immanes mors obsita solvit hiatus : Hic gaudet curva falce recisa Geres. Illic inter aquas urit sitis aridai /auces ; Hic data perjuro basia multa viro. Naviget , et fluctus lasset mendicus Ulyxes : In terris vivet candida Penelope.
+Illic immanes mors obsita solvit hiatus :
+Hic gaudet curva falce recisa Ceres.
+Illic inter aquas urit sitis arida fauces ;
+Hic data perjuro basia multa viro.
+Naviget , et fluctus lasset mendicus Ulyxes :
+In terris vivet candida Penelope.
 
 ### Notes
 
-- (cont.) tantum sinus et statio male fida carinis». Csterum principio vers. 5 lego cum Heinsio Hicfons , hic iacus est, Nempe poeta significat, ex altera parte villa sue fontem et la- ,cum esse, ex altera partim sinum maris conspici undantem fluctibus, partim stationem navibus tutam.
-- 7. Pervixi, h. e. ad hoc tempus vitam bene exegi. Geminus his versibus locus Horatii est,Carm. III, 39 , 41 : ■ Ille potens sui Ltttusque deget, cui licet in diem Dixisse, Vixi non tamen irritum Quodcumque retro est efficiet , etc. »
-- XI. Iltic divisas, i. e. fractas, vel dissipatas. Heinsius volebat dispersas , vel depressas, vel elisas,
-- x3. Mors obsita. Sic Scaliger in margine schedarum emendaverat, et in editione sua expressit. Sed in cod.Voss. et schedis Scaligeri oblita. Heinsius et Opitius conjecerant 06via, quod et Burraanno prseplacet. Oudendorpius tamen volebat lltic irnmani mors horrida satvit hiatu.lS^o ex obtita conficere malim abdita, qu« scilicet ex abysso maris per hiatum undarum eroergit , quasi bellua marina.
-- 16. In vulgatls est Hie dat per» /uro; quod roultum vexavit interpretes : nam to dat quo referendum sit , non apparet , et , si puelia , qwOB non exprimitur, subintelligenda , ea sane dura ellipsis est. In Vobs. codice legebatur tla Piuro bassa, ToUius volebat nulla, scil. pnella basia dat non viro perjnro, aed fido. Oudendorpius conjiciebat Hie dat Penel\<^e basia multa wro. Burmannus : Hic dat securo basia amiea wro. Mihi placet e scriptura codicis Voss. legere : Hie data perjaro ba$ia multa viro , ita ut suppleatur urune e prsecedente versu. Ut navigantes sitis urit inter aquas , sic in terra crebra oscula pueUarum nrunt et accendunt tam liberaliter data viro, quamvis perjuro et faUenti: fortasse et prsestet pro perjuro legere percaro. Sic Horatius, Carm. I, t3 : « Uror, seu tibi candidos Turpamnt humeros, etc. >
-- t8. Candida Penelope. Epitheton candida videtur sumpsisse ex Ovid. Amor. II , 18 , 19: « Candida Penelope signum cognovit Ulyxis». Et auctor Epitomes crebro utitur Ovidianis verbis et [^rasibus.
+- (cont.) tantum sinus et statio male fida carinis ». Caeterum principio vers. 5 lego cum Heinsio Hic fons, hic lacus est. Nempe poeta significat, ex altera parte villae suae fontem et lacum esse, ex altera partim sinum maris conspici undantem fluctibus, partim stationem navibus tutam.
+- 7. Pervixi, h. e. ad hoc tempus vitam bene exegi. Geminus his versibus locus Horatii est, Carm. III, 29, 41 : « Ille potens sui Laetusque deget, cui licet in diem Dixisse, Vixi : non tamen irritum Quodcumque retro est efficiet, etc. »
+- 11. Illic divisas, i. e. fractas, vel dissipatas. Heinsius volebat dispersas, vel depressas, vel elisas.
+- 13. Mors obsita. Sic Scaliger in margine schedarum emendaverat, et in editione sua expressit. Sed in cod. Voss. et schedis Scaligeri oblita. Heinsius et Opitius conjecerant obvia, quod et Burmanno praeplacet. Oudendorpius tamen volebat Illic immani mors horrida saevit hiatu. Ego ex oblita conficere malim abdita, quae scilicet ex abysso maris per hiatum undarum emergit, quasi bellua marina.
+- 16. In vulgatis est Hic dat perjuro ; quod multum vexavit interpretes : nam to dat quo referendum sit, non apparet, et, si puella, quae non exprimitur, subintelligenda, ea sane dura ellipsis est. In Voss. codice legebatur da Piuro bassa. Tollius volebat nulla, scil. puella basia dat non viro perjuro, sed fido. Oudendorpius conjiciebat Hic dat Penelope basia multa viro. Burmannus : Hic dat securo basia amica viro. Mihi placet e scriptura codicis Voss. legere : Hic data perjuro basia multa viro, ita ut suppleatur urunt e praecedente versu. Ut navigantes sitis urit inter aquas, sic in terra crebra oscula puellarum urunt et accendunt tam liberaliter data viro, quamvis perjuro et fallenti : fortasse et praestet pro perjuro legere percaro. Sic Horatius, Carm. I, 13 : « Uror, seu tibi candidos Turparunt humeros, etc. »
+- 18. Candida Penelope. Epitheton candida videtur sumpsisse ex Ovid. Amor. II, 18, 29 : « Candida Penelope signum cognovit Ulyxis ». Et auctor Epitomes crebro utitur Ovidianis verbis et phrasibus.
 
 ## p. 511
 
 PDF page 521.
 
-IL LuTATius, sive LACTAnTius Placidus, scholiastes Statii, AD ThEB. VI, 20.
+II. LUTATIUS, sive LACTANTIUS PLACIDUS, SCHOLIASTES STATII, AD THEB. VI, 20.
 
-Jubet religio, ut majoribus mortuis tuba, minoribus tibia caneretur. Persius : hinc tuba canddce. Homerus in funere Hectoris dicit :
+Jubet religio, ut majoribus mortuis tuba, minoribus tibia caneretur. Persius : hinc tuba candelae. Homerus in funere Hectoris dicit :
 
-Hinc pyra coDstruitur, quo bU sex corpora Graium ,
+Hinc pyra construitur, quo bis sex corpora Graium,
+Quadrupedesque adduntur equi, currusque, tubaeque,
+Et clypei, galeaeque cavae, Argivaque tela.
 
-Qnadrupedeflque addnntnr equi, curmsque , tubaeque,
+III. EBERHARDUS Bethuniensis, scriptor saeculi XIII, in Labyrintho, tractatu III de Versificatione, quod carmen Pol. Leyserus in Hist. poet. med. aevi, p. 825, et Fabricius, Bibl. Lat. med. et inf. aet. t. II, p. 220, dederunt, inter poetas Latinos, quos ibi recenset, et sua aetate in scholiis praelectos innuit, etiam Homerum post Daretem (h. e. Josephum Iscanum) nominat, eoque Epitomen Iliados Latinam, ut Lutatius, significat, vs. 45 :
 
-£t clypei , galeeque cay», Argivaque tela.
+Instruit in Trojam Graecos, et pandit Homerus,
+Quae vehat unda rates, Argolicumque dolum.
 
-IIL Ebsrhardus Bethuniensis , scriptor saeculi XIII, in Labyrintho , tractatu III de Yersificatione , quod carmen Pol. Lejserus in Hist. poet. med. aevi, p. SaS, et Fabricius, Bibl. Lat. med. et inf. set. t. II, p. 220, dederunt, inter poetas Latinos, quos ibi recenset, et sua aetate in scholiis praelectos innuit, etiam Homerum post Daretem (h. e. Josephum Iscanum) nominat, eoque Epitomen lUados Latinam, ut Lutatius, significat , vs. 45 :
+IV. JO. JOVIANUS PONTANUS LIBRO I DE SERMONE, CAP. 18 DE CONTENTIOSIS, PAG. 359, TOM. II OPP. EDIT. BASIL. 1538.
 
-lostmit in Trojam Grsecoa , et pandit Homerus ,
-
-Qua vehat unda rates , Argolicumque dolum.
-
-IV. Jo. JoviANUs Pontanus libro I de Sermone, gap. 18 dk CONTENTIOSIS , PAG. SSp, TOM. II OPP. BDIT. BaSIL. i538.
-
-Laurentius Vallensis in Grammaticis, Rhetoricis, Dialecticisque ita et scripsit , et disputare est solitus , ut minime videretur velle praecipere , nec apparet , tam contendere illum de veritate proprietateque , aut docere velle , quam maledicere objectareque vetustis scriptoribus, atque obloqni. Itaque Ciceronem vellicabat, Aristotelem carpebat,VirgiIio subsannabat. Quippe qui propalam sit adseverare ausus, sive Pindarus quispiam auctor is nomine suo luerit , sive alio , ( cle hoc enim ambigitur ) qui Homericfe Ubros onmes Ilia*
+Laurentius Vallensis in Grammaticis, Rhetoricis, Dialecticisque ita et scripsit, et disputare est solitus, ut minime videretur velle praecipere, nec apparet, tam contendere illum de veritate proprietateque, aut docere velle, quam maledicere objectareque vetustis scriptoribus, atque obloqui. Itaque Ciceronem vellicabat, Aristotelem carpebat, Virgilio subsannabat. Quippe qui propalam sit adseverare ausus, sive Pindarus quispiam auctor is nomine suo fuerit, sive alio, (de hoc enim ambigitur) qui Homericos libros omnes Ilia-
 
 ## p. 512
 
 PDF page 522.
 
-dos non multos admodum in versus contractos latine convertit; qui propalam sit, inquam , adseverare ausus, Pindarrum eum Virgilio anteferendum, Est autem carminis illius principium :
+dos non multos admodum in versus contractos latine convertit ; qui propalam sit, inquam, adseverare ausus, Pindarum eum Virgilio anteferendum. Est autem carminis illius principium :
 
-Iram pande mihi Pelidae , Diva , superbi ,
-
+Iram pande mihi Pelidae, Diva, superbi,
 Tristia qui miseris injecit funera Graiis.
 
-y. Frid. Lindenbrogius in Gbseryatt. ad Statium , p. 507,
+V. FRID. LINDENBROGIUS IN OBSERVATT. AD STATIUM, P. 507, SUPER LOCO SCHOLIASTAE STATII SUPRA ADLATO.
 
-SUPER LOCO ScHOLIASTiE StATII SUPRA ADLATO.
+Ita hos versus in parte restitui ex MS codice, quo in Germania usus, in quo Pindarus hic auctor vocabatur. Quisquis tandem sit, non ita recentem arbitror : immo forte nec ineptiorem Accio Labeone, quem Homeri Iliadem versibus foedissime composuisse, scholiastes Persii ait ad illum versum : Non est hic Ilias Acci.
 
-Ita hos yersus in parte restitui ex MS codice, quo in Ger* mania usus , in quo Pindarus hic auctor vocabatur. Quisquis tandemsit, non ita recentem arbitror : immo forte nec ineptiorem Accio Labeone, quem Homeri Iliadem versibus fo&dissime composuisse , scholiastes Persii ait ad illum versum : Non est hic Ilias Acci.
+Barthius ad Stat. Theb. VI, 120, verba Lindenbrogii sic accipit, quasi hic de manuscripto Lutatii exemplari loquatur, in quo auctorem parvae Iliadis Pindarum appellatum repererit. In quo ille plane errat. Lindenbrogius loquitur de manuscripto ipsius poematis, quod Pindari Thebani nomen praeferebat.
 
-Barthius ad Stat. Theb. VI , lao, verba Lindenbrogii gic accipit» quasi hic de manuscripto Lutatii exemplari loquatur, in quo anctorem parv» liiadis Pindarum appeliatum repererit. In quo ille plane errat. Lindenbrogius loquitur de manuscripto ipsiua po»> matis y quod Pindari Thebani nomen prseferebat.
-
-VI. Caspar. BarthiuS) Advers. lib. XX, cap. 12.
+VI. CASPAR. BARTHIUS, ADVERS. LIB. XX, CAP. 12.
 
 Pindarus de bello Trojano, auctor antiquus et ingenio satis bono.
 
-VII. Idem, Advers. lib. LVIII, cap. 14.
+VII. IDEM, ADVERS. LIB. LVIII, CAP. 14.
 
-Non postremus est inter auctores non omnino antiquos, quos tamen censui eorum aliquo modo adscribere possis, qui de belloTrojano versibus compendium quoddam conscripslt , Pindari Thebani nomine , quem ego quidem , more saeculorum latius recedentium ab eruditione prisca, ad con* ciliandam hbro auctoritatem antiquissimi poetae potissimum
+Non postremus est inter auctores non omnino antiquos, quos tamen censui eorum aliquo modo adscribere possis, qui de bello Trojano versibus compendium quoddam conscripsit, Pindari Thebani nomine, quem ego quidem, more saeculorum latius recedentium ab eruditione prisca, ad conciliandam libro auctoritatem antiquissimi poetae potissimum
 
 ## p. 513
 
 PDF page 523.
 
-titulo usum fiiisse existimo; securum interim , quid isti conyeniret , quem sciret asqualium suorum paucissimis vel nomine solo notum esse. Eadem ratione Daretis nomen adscitum est Josepho Iscano Deironio, quem nescio an non et hujus compendii censerem scriptorem ; nisi quod Pindarum hunc fictitium iUo videam longo interyallo castigatiorem et melioris judicii esse, vitanteni Titia, quae ille alter adfectat, acuminum videlicet a yerborum sonis pendentium , et coUusionum inter paria vocabula, paresque sonis Uteras, quae pessumdederunt bono ingenio nisam, bona eruditione munitam poesin etiam sequiorum temporum, etc.
+titulo usum fuisse existimo ; securum interim, quid isti conveniret, quem sciret aequalium suorum paucissimis vel nomine solo notum esse. Eadem ratione Daretis nomen adscitum est Josepho Iscano Devonio, quem nescio an non et hujus compendii censerem scriptorem ; nisi quod Pindarum hunc fictitium illo videam longo intervallo castigatiorem et melioris judicii esse, vitantem vitia, quae ille alter adfectat, acuminurn videlicet a verborum sonis pendentium, et collusionum inter paria vocabula, paresque sonis literas, quae pessumdederunt bono ingenio nisam, bona eruditione munitam poesin etiam sequiorum temporum, etc.
 
-VIII. Idsm ad Statii Theb. VI , lao, post asciTATUM
+VIII. IDEM AD STATII THEB. VI, 120, POST RECITATUM SCHOLION LUTATII.
 
-SCHOLION LUTATII.
+Sit ergo (Pindarus de bello Trojano) et dignitate sua et testimonio hujus doctissimi grammatici, deinceps inter ceteriores barbarie scriptores non aspernandus, immo aestimandus. Nec ineptus collocari ultimo loco inter vetera poematia, si qui ea sunt post Pithoeum repexuri. Post alia: Non vero dubitamus et auctoris hujus nomen aliquando in lucem retrahendum, modo ipse suum operi inscripserit. Omnino autem antiquior est Gualteris, Iscaniis, modo sic recte iste appelletur, et aliis ejus notae, quod praeter Lutatianum hoc testimonium, stylus minime tumidus, minime ineptiarum affectans, easque pro doctrina habens edocet, licet interpolatum et nunc agnoscamus.
 
-Sit ergo ( Pindarus de bello Trojano ) et dignitate sua et testimonio hujus doctissimi grammatici , deinceps inter tcteriores barbarie scriptores non aspernandus, immo aestimandus. Nec ineptus coUocari uitimo loco inter vetera poematia , si qui ea sunt post Pithoeum repexuri. Post alia: Non vero dubitamus et auctoris hujus nomen aUquando in lucem retrahendum , modo ipse suum operi inscripserit. Omnino autem antiquior est Gualteris, Iscaniis, modo sic recte iste appeUetur, et aUis ejus notae , quod praeter Lutatianum hoc testimonium , stylus minime tumidus , minime ineptiarum affectans, easque pro doctrina habens edocet, Ucet interpo* latum et nunc agnoscamus.
+IX. IDEM, IN ANIMADV. AD PAULLINUM PETROCOR. P. 40.
 
-IX. Idem, iif Animadt. ad PAULLniuM Pbtrocor. p. 4o.
+Auctor parvae Iliados, non spernendus inter priscos vates. ED.
 
-Auctor parvae lUados , non spernendus inter priscos vates. Ed.
+X. GER. JO. VOSSIUS, DE HISTOR. LAT. LIB. III, PART. IV, CAP. II, P. 819.
 
-X. Gbb. Jo. Vossius, db Histob. Lat. lib. III, Paat. IV, CAP. II, P. 819.
-
-'Pindanis Thebanus inscribitur poeta quidam nominis
+Pindarus Thebanus inscribitur poeta quidam nominis
 
 ## p. 514
 
 PDF page 524.
 
-incerti, qui carmine heroicq panxit historiam belli Trojani. In codice Mspto anni iS^o, qui est Patavii apud amicissimuni Felicem Osiuni, inscribitur Pindarus TheSanus de destructione Trojce. Primus eum edidit Laurentius Abstemius cum Maphaei Yegii Astyanacte, ac quibusdam epigrammatibus. Exinde Haganoae is, et postea Basilese prodiit, etc.
+incerti, qui carmine heroico panxit historiam belli Trojani. In codice Mspto anni 1390, qui est Patavii apud amicissimum Felicem Osium, inscribitur Pindarus Thebanus de destructione Trojae. Primus eum edidit Laurentius Abstemius cum Maphaei Vegii Astyanacte, ac quibusdam epigrammatibus. Exinde Haganoae 15 , et postea Basileae prodiit, etc.
 
-XI. PbTRUS BoifDAM, YaRIAR. LbCT. LIB. U, C. 4? P* 1^9 SBQQ. Quis fuerit, quandoque vixerit Pseudo-Pindams hicce, haud facile dixerim. Bomanum fuisse haud inepte cum Barthio, Advers. lib. LIX, c. i5, p. 2809, quis conjiceret ex yersu 907, ubi, nisi jEneam', inquit, sen^a^set magru^rum rector aquarumy Non clarce gentis nobis mansisset origo, Poetam non ita recentem recte arbitratur Lindenbrogius in Observ. ad Stat. pag. $07, A. Ejus enim Epitomen legit suo jam tempore Lutatlus, seu quisquis ille sit , Auctor scholiorum in Statium , ut patet ex iis , quse adnotavit ad Theb. VI, lao.... Atque hinc recte Auctor antiquusy et ingenio satis bono Tocatur Barthio, Advers. lib. XX, cap. 12, p. 984 9 quin et ingeniosus et eruditus sic satis eidem in not. ad Aviani Fab. XI , 5. Alia ejusdem de Nostro testimonia dabit summusFabridus, Bibl.Lat. yol. I, p. 72....Haec ut ut sint, nonnumquam sane sic satis feliciter veteres sibi poetas imitandos proposuit Noster, Ovidium inprimis , ex cujus carminibus integra saepe numero desumpsit hemistichia , etc.
+XI. PETRUS BONDAM, VARIAR. LECT. LIB. II, C. 4, P. 139 SEQQ.
+
+Quis fuerit, quandoque vixerit Pseudo-Pindarus hicce, haud facile dixerim. Romanum fuisse haud inepte cum Barthio, Advers. lib. LIX, c. 15, p. 2809, quis conjiceret ex versu 907, ubi, nisi Aeneam, inquit, servasset magnarum rector aquarum, Non clarae gentis nobis mansisset origo. Poetam non ita recentem recte arbitratur Lindenbrogius in Observ. ad Stat. pag. 507, A. Ejus enim Epitomen legit suo jam tempore Lutatius, seu quisquis ille sit, Auctor scholiorum in Statium, ut patet ex iis, quae adnotavit ad Theb. VI, 120.... Atque hinc recte Auctor antiquus, et ingenio satis bono vocatur Barthio, Advers. lib. XX, cap. 12, p. 984, quin et ingeniosus et eruditus sic satis eidem in not. ad Aviani Fab. XI, 5. Alia ejusdem de Nostro testimonia dabit summus Fabricius, Bibl. Lat. vol. I, p. 72.... Haec ut ut sint, nonnumquam sane sic satis feliciter veteres sibi poetas imitandos proposuit Noster, Ovidium inprimis, ex cujus carminibus integra saepe numero desumpsit hemistichia, etc.

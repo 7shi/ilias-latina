@@ -46,10 +46,12 @@ below it.
   checked against the page image).  Verse 791, empty in The Latin
   Library, is in his text in brackets.  A long verse whose last word is printed on the next row
   (1015 *maesto*) is joined into one row.
-- **Printed**: the verse number in the right margin as read by the OCR
-  (e.g. "lO" for 10).
-- **Book**: the book number in the right margin as read by the OCR, at
-  the first verse of each book (e.g. "YII" for VII; "!!•" is II at 111).
+- **Printed**: the verse number in the right margin (printed every five
+  verses); OCR misreadings (such as "lO" for 10) have been corrected
+  against the page images.
+- **Book**: the book number in the right margin at the first verse of
+  each book (e.g. II at 111, VII at 575); OCR misreadings (such as "!!•"
+  for II, "YII" for VII) have been corrected against the page images.
   Baehrens sometimes prints it on a row of its own above the verse
   (VII at 575); it is given with the verse that follows.  Book 1 has no
   number.  The apparatus records the divisions of the manuscripts at the
@@ -64,8 +66,9 @@ below it.
 
 ## Sigla
 
-- The manuscripts are B E F G L M N V (preface, pp. 5–6); the OCR often
-  reads G as "Gr".  Hands are written *m. 1*, *m. 2*, *m. rec.*
+- The manuscripts are B E F G L M N V (preface, pp. 5–6); instances where
+  the OCR misread G as "Gr" have been corrected.  Hands are written *m. 1*,
+  *m. 2*, *m. rec.*
 - "0" stands for a bold 0 in the book, which seems to mean the
   manuscripts together (e.g. "Conficiebat 0" against a conjecture at
   6).  It is printed as a narrow bold O or zero; the files keep the
@@ -74,15 +77,13 @@ below it.
   apparatus, on nearly every page from p. 8 to p. 59; clear examples are
   at 6 and 11 (p. 8), 88 and 90 (p. 11), 98, 103 and 107 (p. 12), 560
   and 563 (p. 35), and 616, 620 and 626 (p. 38).
-- "ς" marks readings of later manuscripts (preface, p. 7); the OCR reads
-  it in various ways, e.g. `<?`, `<S`, `?`.
+- "ς" marks readings of later manuscripts (preface, p. 7); OCR misreadings
+  (such as `<?`, `<S`, `?`) have been corrected to "ς".
 
 ## Accuracy
 
-The text is the OCR of the scan, corrected only where it has been
-checked against the page images: elsewhere expect misread letters,
-sigla, numbers and marks (e.g. "\\" or "jj" for the double bar, "|" for
-the single bar between readings).  Anything quoted from these files must
-be checked against the page image first.
-
-Errors found in this way are corrected directly in these files.
+Both files in this directory ([preface.md](preface.md) and
+[ilias.md](ilias.md)) have been proofread and corrected against the page
+images of the scan.  Misread letters, sigla, numbers, and marks (e.g.
+"\\" or "jj" for the double bar ‖, "|" for the single bar between
+readings) have been corrected against the page images.

@@ -54,6 +54,10 @@ texts/6-vollmer/README.md and src/README.md first.
   to be a misprint, marked as a conjecture.  The memo src/tmp/divisions.md
   has been checked and moved there.
 - Pillow is a project dependency (`uv run python` can use it).
+- All four editions in `texts/` (Lemaire [2], Baehrens [3], Plessis [4],
+  Vollmer [6]) have now been fully proofread and corrected against the
+  page images of the original scans.  Consulting page images is no longer
+  routinely needed and is reserved as a last resort.
 
 ### Next: step 2, Vollmer's margin → *Iliad* lines
 
@@ -76,11 +80,14 @@ Proposed to the user, not yet decided; confirm before starting:
 - The Margin column is still the OCR; only 834 (820), 835 (Ρ 125) and
   839 (Σ 2) have been corrected, with capital Greek letters.
 
-### Page images
+### Page images (last resort)
 
-- The OCR is unreliable: check against the page image before quoting,
-  and correct the quoted passage in the edition's file.
-- Images: src/tmp/<number>-<id>/NNN.jpg (150 dpi), NNN = PDF page.
+- Proofreading of all four editions in `texts/` against the original page
+  images is now complete.  Extracting or checking page images is no longer
+  routinely necessary and should be treated as a last resort if an
+  unresolved doubt or ambiguity arises.
+- Images (if needed as a last resort): `src/tmp/<number>-<id>/NNN.jpg`
+  (150 dpi), NNN = PDF page.
   Vollmer: printed page = PDF page − 158 (p. 1 = PDF 159); preface
   p. VII = PDF 155.
 - Where unclear, render with `pdftoppm -r 300..600 -f N -l N -png` and
@@ -127,8 +134,9 @@ Numbers in brackets refer to the Internet Archive list there.
 
 ## Preparing the sources
 
-The OCR texts are noisy, so the sources are first turned into per-verse
-data and checked by hand against the page images on archive.org.
+The OCR texts were originally noisy, but all four editions in `texts/`
+have now been thoroughly proofread and corrected against the page images.
+Consulting page images is now kept only as a last resort.
 
 1. Verse concordance: the editions do not all number the verses in the
    same way.  Extract the text of the poem with its verse numbers from
@@ -184,11 +192,11 @@ data and checked by hand against the page images on archive.org.
   the corrections are committed.  Corrections are not kept in the
   scripts, and `make` does not rebuild a file that exists: running the
   script again would overwrite the corrections.
-- A passage is corrected when it is used, or when an error is noticed,
-  by reading the page image: at 150 dpi, or rendered again at 300–600
-  dpi where small type (sigla, superscripts, punctuation) is unclear.
-  Quotations, verse numbers, *Iliad* line numbers and sigla are always
-  checked before they are used.
+- Proofreading of the texts against the page images (at 150 dpi, or rendered
+  at 300–600 dpi where small type was unclear) has now been completed across
+  all four editions in `texts/`.  Extracting and checking page images is
+  no longer needed for ordinary work and remains only as a last resort for rare
+  doubtful cases.
 - Conventions for the corrected text: the sigla as printed, with Greek
   letters for the editions and the archetype (Ω, α β δ φ λ); the hands
   of a manuscript as each edition prints them (superscript numerals in
