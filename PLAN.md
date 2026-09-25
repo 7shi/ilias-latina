@@ -44,13 +44,14 @@ Numbers in brackets refer to the Internet Archive list there.
 The OCR texts are noisy, so the sources are first turned into per-verse
 data and checked by hand against the page images on archive.org.
 
-1. Verse concordance: it is not yet known whether the editions number the
-   verses in the same way.  Extract the text of the poem with its verse
-   numbers from each edition (Lemaire [2], Baehrens [3], Plessis [4],
-   Vollmer [6]) and align it with The Latin Library text, noting
-   omitted, added and transposed verses (e.g. Vollmer prints 597 after
-   601, as Scaffai does, and 790 after 794) and differences in the book
-   divisions.  All other tables are
+1. Verse concordance: the editions do not all number the verses in the
+   same way.  Extract the text of the poem with its verse numbers from
+   each edition (Lemaire [2], Baehrens [3], Plessis [4], Vollmer [6])
+   and align it with The Latin Library text, noting omitted, added and
+   transposed verses and differences in the book divisions.  Known so
+   far: Vollmer prints 597 after 601, as Scaffai does, and 790 after
+   794; Baehrens omits 69, counts a lacuna as 80 (so his 69–79 are
+   70–80 here), and exchanges 107 and 109 and 873 and 874.  All other tables are
    keyed to The Latin Library numbering through this concordance.
 2. From Vollmer [6]: extract the Iliad line numbers from the margin and
    build a table *Latin verse → Iliad lines*.  This also gives the list of
@@ -95,7 +96,10 @@ data and checked by hand against the page images on archive.org.
   letters for the editions and the archetype (Ω, α β δ φ λ) and
   superscript numerals for the hands of a manuscript (G¹, W²); `|` for
   the separator between readings; abbreviation marks of a manuscript
-  kept where printed (e.g. *Aptũ*).
+  kept where printed (e.g. *Aptũ*).  Signs particular to one edition are
+  described in its README (e.g. Baehrens's bold 0 for the manuscripts
+  together, written as a plain 0, and ς for the later manuscripts, in
+  `texts/3-baehrens/README.md`).
 
 ## Layout
 
@@ -138,7 +142,8 @@ divisions and is used only as an aid for checking the content.
    preface, and the indexes.  The OCR text is the basis and is corrected
    by hand afterwards (see
    [Editing the processed texts](#editing-the-processed-texts)).
-   Done for Vollmer: `texts/6-vollmer/`.
+   Done for Vollmer (`texts/6-vollmer/`) and Baehrens
+   (`texts/3-baehrens/`).
 3. Collate the sources (steps 1–4 of
    [Preparing the sources](#preparing-the-sources)): the verse
    concordance, the book divisions of the editions (adjusting

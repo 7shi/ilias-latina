@@ -4,7 +4,8 @@ Scripts that build the Latin text, organize the public-domain editions
 for reference, and build the Portuguese translation and the parallel
 text.  All outputs go into `tmp/` (ignored by git), except `make text`,
 which writes the published text `../texts/ilias.txt`, and `make
-vollmer`, which writes `../texts/6-vollmer/` once.
+vollmer` and `make baehrens`, which write `../texts/6-vollmer/` and
+`../texts/3-baehrens/` once.
 
 ## Requirements
 
@@ -21,6 +22,7 @@ make                # show help
 make all            # download the Latin text and number the verses
 make text           # add the book headings (../texts/ilias.txt)
 make vollmer        # extract Vollmer's edition once (../texts/6-vollmer/)
+make baehrens       # extract Baehrens's edition once (../texts/3-baehrens/)
 ```
 
 To process the Portuguese edition, put the PDF anywhere (for example in
@@ -41,6 +43,7 @@ make parts PDF="tmp/book.pdf"   # split the whole book into sections
 | `all` | `ilias.txt` — Latin text, `N TEXT` per verse | `extract.py` |
 | `text` | `../texts/ilias.txt` — the same with `## N` book headings | `books.py` |
 | `vollmer` | `../texts/6-vollmer/*.md` — Vollmer's edition by page (downloads the scan to `tmp/`) | `vollmer.py` |
+| `baehrens` | `../texts/3-baehrens/*.md` — Baehrens's edition by page (downloads the scan to `tmp/`) | `baehrens.py` |
 | `pt` | `ilias_pt.txt` — Portuguese translation, `LABEL TEXT` per verse | `extract_pt.py` |
 | | `ilias_la_pt.txt` — Latin and Portuguese interleaved | `parallel.py` |
 | `parts` | `parts/NN_name.txt` — the book split at its section headings | `split_pt.py` |
@@ -52,6 +55,7 @@ file for details.
 uv run python extract.py tmp/ilias.html tmp/ilias.txt
 uv run python books.py tmp/ilias.txt ../texts/ilias.txt
 uv run python vollmer.py tmp/6-p1poetaelatinimi02baeh.pdf tmp/ilias.txt ../texts/6-vollmer
+uv run python baehrens.py tmp/3-poetaelatinimino34baeh.pdf tmp/ilias.txt ../texts/3-baehrens
 uv run python extract_pt.py [-v] BOOK.pdf tmp/ilias_pt.txt
 uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 uv run python split_pt.py BOOK.pdf tmp/parts
@@ -116,6 +120,30 @@ with the position of every word (`pdftotext -bbox-layout`).
   against the page images and committed, so `make vollmer` does nothing
   when `../texts/6-vollmer/ilias.md` exists; running `vollmer.py`
   directly overwrites the corrections.
+
+## Baehrens's edition
+
+`baehrens.py` reads the scan in the same way and imports the common
+functions from `vollmer.py` (reading the words, numbering the verses by
+matching, splitting verses from notes).  What differs:
+
+- Some pages are scanned at a slight slant, so the words are grouped
+  into rows along the slope that gives the fewest rows.  A verse number
+  set a little apart joins the nearest row; a number with no row near
+  it is the row of dots of a lacuna (80).
+- There is no left margin.  The right margin holds the verse numbers
+  and the book numbers (Roman numerals, sometimes on a row of their
+  own); the last word of a long verse printed on the next row is joined
+  to it.
+- Baehrens's own verse numbers are counted from the rows and checked
+  against the printed ones (reported on stderr where they differ).  His
+  transposition of 107 and 109 is given in `NUMBER_FIXES`, verse 791
+  (empty in The Latin Library) in `VERSE_FIXES`.
+- The apparatus is split at the double bars before a verse number of
+  the page, taking the longest ascending series of such numbers so that
+  a misread number does not hide the rest.
+- As with Vollmer, `make baehrens` does nothing when
+  `../texts/3-baehrens/ilias.md` exists.
 
 ## How the PDF is read
 

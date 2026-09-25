@@ -87,8 +87,13 @@ translation, differs in three places:
   ardorque Aiacis in armis …* that applies the simile to Hector and Ajax.
   Vollmer also prints the verse after 601 [6].
 
-Whether the other editions number the verses and divide the books in the
-same way has not been checked yet.
+The numbering of Vollmer and Baehrens, as far as it differs from The
+Latin Library, is described with their texts
+([texts/6-vollmer/](texts/6-vollmer/README.md),
+[texts/3-baehrens/](texts/3-baehrens/README.md)); for example, Baehrens
+omits verse 69 and counts a lacuna as 80.  The editions have not yet
+been compared as a whole, in their numbering or in their book
+divisions.
 
 The proportions are very uneven: books 1–5 take 537 verses, just over
 half, while book 13 has seven verses and book 17 three [5].
@@ -133,7 +138,8 @@ Dutch scholars of the 18th century did much of the early work (P. Bondam,
 A. van Dorp, J. Schrader, E. W. Higt, J. van der Dussen 1769, A. de Booy
 1771).  Wernsdorf collected it in *Poetae Latini Minores* IV (1784),
 reprinted by Lemaire [2]; the edition of Th. van Kooten was completed by
-H. Weytingh (1809).  Critical editions followed from L. Müller,
+H. Weytingh (Leiden and Amsterdam, 1809, according to Vollmer [6];
+Baehrens gives Amsterdam, 1806 [3]).  Critical editions followed from L. Müller,
 Baehrens [3], Plessis [4] and Vollmer [6].  Modern editions and
 commentaries include Scaffai (1982; 2nd ed. 1997), Kennedy (1998),
 Perkins (2006), Falcone & Schubert (2022) and Green (2025).
@@ -155,7 +161,8 @@ This repository provides helper tools for preparing the commentary:
 - Add the headings of the 24 books to it and write
   [texts/ilias.txt](texts/ilias.txt).
 - Organize the public-domain editions for reference by page and verse
-  (so far Vollmer [6]: [texts/6-vollmer/](texts/6-vollmer/README.md)).
+  (so far Baehrens [3]: [texts/3-baehrens/](texts/3-baehrens/README.md);
+  Vollmer [6]: [texts/6-vollmer/](texts/6-vollmer/README.md)).
 - Optionally, align the Portuguese translation with it verse by verse
   into a parallel text, as an aid for checking the content.
 
@@ -211,9 +218,12 @@ Public-domain books on archive.org.
    Leipzig: Teubner, 1881–1882.  Vol. 3 contains the *Ilias Latina*.
    - A short Latin preface on the author, the date and medieval
      reception (Ermenricus, *Gesta Berengarii*, Benzo, Hugo von
-     Trimberg, Eberhard of Béthune) and on the name Pindarus.
+     Trimberg, Eberhard of Béthune), on the name Pindarus, on the eight
+     manuscripts used (B E F G L M N V) and on the earlier editions.
    - The apparatus is mostly manuscript readings, but notes the verses
-     borrowed by the *Gesta Berengarii*.
+     borrowed by the *Gesta Berengarii* and the conjectures of earlier
+     editors (Higtius, Schraderus, Kootenus, L. Muellerus and others).
+   - Verses held to be interpolated are printed in square brackets.
    - Largely superseded by Vollmer [6].
 
 4. Frédéric Plessis (ed.), [*Italici Ilias Latina*](https://archive.org/details/italiciiliaslati00plesuoft).

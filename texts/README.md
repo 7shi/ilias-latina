@@ -4,6 +4,8 @@ Processed texts from the public-domain sources.  Each edition in the
 [Internet Archive](../README.md#internet-archive) list is organized for
 reference in its own directory:
 
+- [3-baehrens/](3-baehrens/README.md) — Baehrens's edition: preface, text
+  with the book numbers in the margin and the apparatus.
 - [6-vollmer/](6-vollmer/README.md) — Vollmer's edition: preface, text
   with the *Iliad* lines in the margin and the apparatus, index of names.
 
