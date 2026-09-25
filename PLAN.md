@@ -1,5 +1,91 @@
 # Plan for the commentary
 
+## HANDOFF
+
+Notes for the next session.  Read README.md, this file,
+texts/README.md, texts/concordance.md (the Book divisions and book 1),
+texts/6-vollmer/README.md and src/README.md first.
+
+### Rules (unchanged)
+
+- The text and verse order follow The Latin Library (LL).  The
+  Portuguese translation is only a guide to the book divisions and an
+  aid for checking the content; nothing derived from it is published.
+- Processed texts from public-domain sources may be published.  texts/
+  holds four editions: Lemaire [2], Baehrens [3], Plessis [4], Vollmer
+  [6].  Spondanus [1] and Butler [5] are cited only for the background.
+- src/ holds the scripts; src/tmp/ holds downloads and work files and is
+  not committed.  The root README does not mention src/tmp or download
+  steps, and lists as requirements only uv, make, curl and poppler-utils,
+  without library names.
+- Files are written in English, conversation is in Japanese.  "book 1"
+  for a book; a line of the *Ilias Latina* is a verse, a line of the
+  *Iliad* a line.
+- A script extracts a source only once; later corrections are made in
+  the output files, never kept in the scripts, and `make` does not
+  rebuild an existing file (order-only prerequisites).
+- Notation: hands as each edition prints them; a literal `<` is `\<`,
+  `|` in a table `\|`.  Ask the user before settling a notation.
+- Each edition's text is from its own OCR; LL is used only to decide
+  which verse a row is.  The concordance compares numbers, not text.
+- The book divisions may differ between editions; src/books.py (the LL
+  divisions) is not changed.
+- Commit only after the user has reviewed, with /commit (staged files
+  only).  Do not commit on your own.
+- Do not restore or fix tracked files that look changed or missing;
+  ask first.  Check facts in the sources before writing them, and mark
+  conjectures as such.  Modern editions and commentaries (Scaffai,
+  Kennedy, Perkins, Falcone & Schubert, Green) may be cited, not copied.
+
+### State
+
+- Step 1 of [Preparing the sources](#preparing-the-sources) is done:
+  texts/concordance.md has the table of book divisions (written by
+  hand) and a verse table per book (generated once by
+  src/concordance.py, `make concordance`), with the columns LL |
+  Vollmer | Baehrens | Plessis | Wernsdorf | Note, each cell "own
+  number (p. page)".
+- src/tmp/concordance_check.txt lists the 29 rows least like LL; all
+  looked like variant readings or OCR noise, none assigned to a wrong
+  verse, but they are not checked against the page images.
+- The differences in the book divisions and their evidence (checked
+  against the page images) are in texts/README.md under Concordance >
+  Book divisions.  Vollmer's list (17 = 856–858, 18 = 859–891) is taken
+  to be a misprint, marked as a conjecture.  The memo src/tmp/divisions.md
+  has been checked and moved there.
+- Pillow is a project dependency (`uv run python` can use it).
+
+### Next: step 2, Vollmer's margin → *Iliad* lines
+
+Proposed to the user, not yet decided; confirm before starting:
+
+- `src/iliad.py` (`make iliad`) builds the table once from the Margin
+  column of texts/6-vollmer/ilias.md.  The Greek book letter is printed
+  only where it changes, so it is carried to the following verses.  A
+  dash is taken as a verse with no Homeric counterpart; its meaning is
+  still unchecked (texts/6-vollmer/README.md), so look for it in the
+  preface first.
+- The output is a table per book with the columns `LL | Iliad |
+  Vollmer p.`.
+- Hand checking starts with book 1, as needed for the pilot notes
+  (step 4 of Order of work).
+- For the user to decide: (1) the place, `texts/iliad.md` or under
+  `texts/6-vollmer/`; (2) the notation, `18.2` or `Σ 2` as printed.
+- Mind Vollmer's order (597 after 601, 790 after 794, 874 twice, 860
+  in two parts); see texts/concordance.md.
+- The Margin column is still the OCR; only 834 (820), 835 (Ρ 125) and
+  839 (Σ 2) have been corrected, with capital Greek letters.
+
+### Page images
+
+- The OCR is unreliable: check against the page image before quoting,
+  and correct the quoted passage in the edition's file.
+- Images: src/tmp/<number>-<id>/NNN.jpg (150 dpi), NNN = PDF page.
+  Vollmer: printed page = PDF page − 158 (p. 1 = PDF 159); preface
+  p. VII = PDF 155.
+- Where unclear, render with `pdftoppm -r 300..600 -f N -l N -png` and
+  crop with PIL.
+
 How the verse-by-verse commentary on the *Ilias Latina* will be prepared.
 Background on the poem as a whole (date, author, transmission) belongs in
 the Background section of [README.md](README.md), not in the notes.
@@ -161,9 +247,10 @@ divisions and is used only as an aid for checking the content.
    (`texts/2-lemaire/`).
 3. Collate the sources (steps 1–4 of
    [Preparing the sources](#preparing-the-sources)): the verse
-   concordance, the book divisions of the editions (adjusting
-   `src/books.py` if needed) and the tables keyed to The Latin Library
-   numbering.
+   concordance, the book divisions of the editions (compared, not
+   imposed: `src/books.py` keeps the divisions of this repository) and
+   the tables keyed to The Latin Library numbering.  Done: step 1
+   (`texts/concordance.md`).
 4. Write the notes for book 1 as a pilot and settle the format of the
    notes.
 5. Proceed book by book.
