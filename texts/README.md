@@ -24,6 +24,10 @@ to the page; it is translated into English
 ([summary-en.md](summary-en.md)) and Japanese
 ([summary-ja.md](summary-ja.md)).
 
+[NOTES.md](NOTES.md) records findings from checking the texts against
+each other, e.g. that the text of The Latin Library is based on
+Vollmer's edition.
+
 ## Translations
 
 In the edition directories, the files other than `ilias.md` (the text
