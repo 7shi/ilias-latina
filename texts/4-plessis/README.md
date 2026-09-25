@@ -13,10 +13,10 @@ book, with the page of the PDF for looking up the page image.
 
 | File | Contents | Pages |
 |---|---|---|
-| [preface.md](preface.md) | Preface (*prooemium*) | I–III |
-| [introduction.md](introduction.md) | Introduction, *De Italici Iliade Latina*: the name of the author, the date, the Silius Italicus question; Latin translations of Homer; the method and purpose of the poem; manuscripts and editions; the name Pindarus | V–LI |
+| [preface.md](preface.md) ([en](preface-en.md), [ja](preface-ja.md)) | Preface (*prooemium*) | I–III |
+| [introduction.md](introduction.md) ([en](introduction-en.md), [ja](introduction-ja.md)) | Introduction, *De Italici Iliade Latina*: the name of the author, the date, the Silius Italicus question; Latin translations of Homer; the method and purpose of the poem; manuscripts and editions; the name Pindarus | V–LI |
 | [ilias.md](ilias.md) | List of manuscripts, text, verses printed below the text, readings of the manuscripts and notes | 2–85 |
-| [index.md](index.md) | Index of names and subjects (*index nominum et rerum*), one entry per line | 87–98 |
+| [index.md](index.md) ([en](index-en.md), [ja](index-ja.md)) | Index of names and subjects (*index nominum et rerum*), one entry per line | 87–98 |
 
 ## ilias.md
 

@@ -17,6 +17,19 @@ reference in its own directory:
 [concordance.md](concordance.md) keys the verses of the four editions to
 the numbering of The Latin Library (see [Concordance](#concordance)).
 
+## Translations
+
+In the edition directories, the files other than `ilias.md` (the text
+with the editors' notes) have translations into English (`-en.md`) and Japanese
+(`-ja.md`) next to them, e.g. [4-plessis/introduction-en.md](4-plessis/introduction-en.md)
+and [4-plessis/introduction-ja.md](4-plessis/introduction-ja.md); each
+directory's README links them from its table of files.  The headings
+(`## p. N`), the `PDF page N.` lines, the paragraphs, the footnotes and
+the index entries follow the original one for one, so that a passage can
+be found in both.  Latin and Greek quoted as readings, headwords or
+examples are kept as they are, with a translation where needed.  The
+translations are drafts, not yet reviewed.
+
 ## The Latin Library text
 
 [ilias.txt](ilias.txt) is the Latin text of The Latin Library, one verse

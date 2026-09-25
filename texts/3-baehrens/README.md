@@ -13,7 +13,7 @@ book, with the page of the PDF for looking up the page image.
 
 | File | Contents | Pages |
 |---|---|---|
-| [preface.md](preface.md) | Preface: author, date, medieval reception, the manuscripts B E F G L M N V, earlier editions | 3–7 |
+| [preface.md](preface.md) ([en](preface-en.md), [ja](preface-ja.md)) | Preface: author, date, medieval reception, the manuscripts B E F G L M N V, earlier editions | 3–7 |
 | [ilias.md](ilias.md) | Text, right margin and apparatus | 7–59 |
 
 There is no index for this poem.
