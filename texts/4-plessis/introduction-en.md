@@ -41,7 +41,7 @@ AT WHAT TIME HE WROTE THE EPITOME
 
 Now if we inquire at what time our poet composed his *Iliad*, first of all we must by no means approve what Henricus Weytingh¹ strives to draw out of some little verses written below the text in the Santen manuscript.  These verses are
 
-Pindarus hunc secum trans pontum vexit Homerum;
+Pindarus hunc secum trans pontum uexit Homerum;
 
 Sed argumentum dedit esse poeta latinum.
 
@@ -91,7 +91,7 @@ Now, to pass to other things, whereas in words ending in *o*, with the exception
 
 PDF page 24.
 
-of the age in which they lived, do not shrink sufficiently from this shortening.  For you will find in Avienus, in the *Periegesis*: 263, *ergo solum*; 299, *ergo modi*; 358, *ergo tibi*; 954, *virgo locavit*.  Nor let us pass over those which, although iambic, are not pleasing: 176, *draco*; 1047, *dato*.  Add that well-known line of Pentadius, *Sentio, fugit hiems*.
+of the age in which they lived, do not shrink sufficiently from this shortening.  For you will find in Avienus, in the *Periegesis*: 263, *ergo solum*; 299, *ergo modi*; 358, *ergo tibi*; 954, *virgo locans*.  Nor let us pass over those which, although iambic, are not pleasing: 176, *draco*; 1047, *dato*.  Add that well-known line of Pentadius, *Sentio, fugit hiems*.
 
 Moreover, in the age of Avienus or about it, at a time when Latin letters had long been sinking towards their setting, poets sometimes ventured rather licentiously to lengthen short syllables and to shorten long ones in Greek names¹.  This fault was not avoided, besides Avienus, by Ausonius, Prudentius, Sidonius Apollinaris and others.  But nothing similar occurs in our Epitome of the *Iliad*; no error offends.  See, however, in Avienus, in the *Periegesis*: 129, *Pachyni*; 569, *Triphylis*; 635, *Pachynus*; 662, 663, *Corcyra* (three times in these two verses the poet used the name with a false quantity); 693, *Abydus*.  Add these in the *Ora maritima*: 43, *Hellanicus*; 421, *Libyphoenices*.  In all these names the penultimate is used shortened; in these, however, lengthened: in the *Periegesis*, 679, *Salamis*; 1013 (perhaps indeed the passage has been corrupted by the scribes), *Cragus*.
 
@@ -114,7 +114,9 @@ Undique rimabant inimico corpora ferro.
 
 But while Virgil, Ovid and others later used the deponent verb *rimari*, the form *rimare* prevails in the older writers.  See these lines of Pacuvius, v. 71, p. 85, O. Ribbeck, 2nd ed., in Nonius, 382, 7:
 
-Cum incultos pervestigans rimarem sinus.  v. 203, p. 101, O. Ribbeck, in Nonius, 382, 8:
+Cum incultos pervestigans rimarem sinus.
+
+v. 203, p. 101, O. Ribbeck, in Nonius, 382, 8:
 
 Aut stagnorum umidorum rimarem loca.
 
@@ -126,7 +128,9 @@ Et ego ibo ut latebras ruspans rimeram aptimas,
 
 2. Ueber den Auszug der Ilias, in the preface.
 
-3. Baehrens, Poet. lat. min., vol. III, preface, p. 3. — Cf. Moriz Haupt's Opuscula, vol. II, p. 163.  4. Grundriss der römischen Literatur, fifth edition, p. 523 (§ 84, n. 394).
+3. Baehrens, Poet. lat. min., vol. III, preface, p. 3. — Cf. Moriz Haupt's Opuscula, vol. II, p. 163.
+
+4. Grundriss der römischen Literatur, fifth edition, p. 523 (§ 84, n. 394).
 
 ## p. XII
 
@@ -159,10 +163,14 @@ Ut profugus latiis Trojam repararet in arvis
 Augustumque genus claris submitteret astris,
 
 Non pulcrae gentis nobis mansisset origo¹.
-("Had not the ruler of the great waters saved him, so that as an exile he might restore Troy in the Latin fields and send the Augustan race up to the bright stars, the origin of our fair race would not have remained to us.")  Cf. with v. 236:
+("Had not the ruler of the great waters saved him, so that as an exile he might restore Troy in the Latin fields and send the Augustan race up to the bright stars, the origin of our fair race would not have remained to us.")
+
+Cf. with v. 236:
 
 Et sacer Aeneas, Veneris certissima proles.
-("And holy Aeneas, the surest offspring of Venus.")  Finally, with v. 483:
+("And holy Aeneas, the surest offspring of Venus.")
+
+Finally, with v. 483:
 
 Emicat interea Veneris pulcherrima proles.
 ("Meanwhile the fairest offspring of Venus springs forth.")
@@ -195,13 +203,19 @@ Qui legis et latia carmina digna toga,
 
 Pierios tantum vati placuisse recessus
 
-Credis et Aoniae bacchica serta comae?  Sacra cothurnati non attigit ante Maronis
+Credis et Aoniae bacchica serta comae?
+
+Sacra cothurnati non attigit ante Maronis
 
 Implevit magni quam Ciceronis opus.
 
-("You who read the never-dying volumes of the everlasting Silius, and poems worthy of the Latin toga, do you believe that only the Pierian retreats pleased the bard, and the Bacchic garlands of Aonian hair?  He did not touch the sacred things of the buskined Maro before he had fulfilled the work of great Cicero.")  From this, if we are willing to confess the truth, it is made out and necessarily follows that Silius had already spent a large part of his life in forensic cases before he began to devote his active labour to composing poems,
+("You who read the never-dying volumes of the everlasting Silius, and poems worthy of the Latin toga, do you believe that only the Pierian retreats pleased the bard, and the Bacchic garlands of Aonian hair?  He did not touch the sacred things of the buskined Maro before he had fulfilled the work of great Cicero.")
 
-1. Rheinisches Museum, vol. XXXV, p. 391.  2. Munk und Seyffert, Gesch. der röm. Liter., Berlin, 1875, vol. II, p. 242.
+From this, if we are willing to confess the truth, it is made out and necessarily follows that Silius had already spent a large part of his life in forensic cases before he began to devote his active labour to composing poems,
+
+1. Rheinisches Museum, vol. XXXV, p. 391.
+
+2. Munk und Seyffert, Gesch. der röm. Liter., Berlin, 1875, vol. II, p. 242.
 
 ## p. XVI
 
@@ -217,7 +231,9 @@ And yet, although it is not altogether inept to have thought of Silius here, I s
 
 PDF page 31.
 
-For the rest, since no indication about our poet has become known through the spite of time, we must beware of fabricating useless things and of forgetting what Lucian Mueller recently repeated well in his *Naeviana*: There is also a certain virtue in not knowing.  similarity of metre and style, I do not think that even this is of sufficient weight, since Roman poets never had any scruple about taking for themselves the words of others, indeed the verses of others, if not whole, at least repeated in good part.  For the rest, Doering has called up many empty things; what does it matter, I ask, that the writer of the Epitome uses these words, « Vulgus ruit undique », Silius those, « ruit undique vulgus »?  The writer of the Epitome, « Gentibus Argolicis », Silius, « Argolicis populis »?  The writer of the Epitome, « petunt.. jocunda.. dona quietis », Silius, « haurire sinebant Dona soporiferae noctis »?  (see Doering, op. cit., p. 39 ff.).
+For the rest, since no indication about our poet has become known through the spite of time, we must beware of fabricating useless things and of forgetting what Lucian Mueller recently repeated well in his *Naeviana*: There is also a certain virtue in not knowing.
+
+similarity of metre and style, I do not think that even this is of sufficient weight, since Roman poets never had any scruple about taking for themselves the words of others, indeed the verses of others, if not whole, at least repeated in good part.  For the rest, Doering has called up many empty things; what does it matter, I ask, that the writer of the Epitome uses these words, « Vulgus ruit undique », Silius those, « ruit undique vulgus »?  The writer of the Epitome, « Gentibus Argolicis », Silius, « Argolicis populis »?  The writer of the Epitome, « petunt.. jocunda.. dona quietis », Silius, « haurire sinebant Dona soporiferae noctis »?  (see Doering, op. cit., p. 39 ff.).
 
 ## p. XVIII
 
@@ -272,7 +288,7 @@ Virum mihi, Camena, insece versutum
 
 Hom., Odyss., VI, 142:
 
-Utrum genua amplectens virginem oraret
+Utrum genua amploctens virginem oraret
 ("Whether he should entreat the maiden, clasping her knees")
 
 Ἦ γούνων λίσσοιτο λαβὼν εὐῶπιδα κούρην.
@@ -297,18 +313,28 @@ That in single points Livius Andronicus did not depart from Homer Hermann Walthe
 
 PDF page 36.
 
-Niebuhr rashly asserts, that Livius did not turn the *Odyssey* wholly into Latin but only condensed it, there is no reason why we should cling to so weak an opinion; cf. Walther, pp. 6 and 7.  But Hermann Walther himself erred when, of the three fragments on which Niebuhr relied in maintaining that hardly anything of the kind is found in the *Odyssey*, he did not see that one must be removed altogether; namely, to these Livian words *Nexabant multa inter se flexu nodorum dubio* verse 264 of book VIII of the *Odyssey* corresponds well enough.  This had already been noted by the most distinguished Émile Egger¹.
+Niebuhr rashly asserts, that Livius did not turn the *Odyssey* wholly into Latin but only condensed it, there is no reason why we should cling to so weak an opinion; cf. Walther, pp. 6 and 7.  But Hermann Walther himself erred when, of the three fragments on which Niebuhr relied in maintaining that hardly anything of the kind is found in the *Odyssey*, he did not see that one must be removed altogether; namely, to these Livian words *Nexabant multa inter se flexu nodum dubio* verse 264 of book VIII of the *Odyssey* corresponds well enough.  This had already been noted by the most distinguished Émile Egger¹.
 
 Now, I think, Cn. Matius must be named, whom Scaliger in vain maintained to be a contemporary of Caesar, but whom Walther has proved to have flourished earlier; for in the verses that survive forms are found which already Varro noted as obsolete².  Matius rendered the *Iliad* in Latin in heroic verse.  How highly the translation is to be valued we could not easily say; Gellius calls Matius a learned man³, a man of erudition⁴, and the surviving hexameters are not displeasing; yet I do not take so much upon myself as to extol them with praise; you will judge for yourself.  See first in Varro, De ling. lat., VII, 96:
 
 Obsceni interpres funestique ominis auctor,
-("Interpreter of foul and author of deadly omen,")  by which words Walther hardly doubts that Matius rendered Iliad I, 106:
+("Interpreter of foul and author of deadly omen,")
 
-(Greek, garbled in the OCR: "Prophet of evils, never yet have you spoken to me what is good.")
+by which words Walther hardly doubts that Matius rendered Iliad I, 106:
+
+Μάντι κακῶν, οὐ πώποτέ μοι τὸ κρήγυον εἶπες.
+
+("Prophet of evils, never yet have you spoken to me what is good.")
 
 Scaliger referred it to XI, 4; C. O. Mueller thought not
 
-1. Émile Egger, Latini sermonis vetustioris reliquiae selectae, p. 119. — Louis Havet refers the Livian verse to Odyss. VIII, 480; see his *De Saturnio*, p. 428.  2. Cf. Walther, op. cit., p. 42.  3. A. Gellius, Noct. att., VII (VI), 6, 5.  4. A. Gellius, Noct. att., XV, 23, 1.
+1. Émile Egger, Latini sermonis vetustioris reliquiae selectae, p. 119. — Louis Havet refers the Livian verse to Odyss. VIII, 480; see his *De Saturnio*, p. 428.
+
+2. Cf. Walther, op. cit., p. 42.
+
+3. A. Gellius, Noct. att., VII (VI), 6, 5.
+
+4. A. Gellius, Noct. att., XV, 25, 1.
 
 ## p. XXIII
 
@@ -331,11 +357,13 @@ We find now in Gellius, Noct. att., VII (VI), 6, 5, this verse of Matius:
 Dum dat vincendi praepes Victoria palmam.
 ("While winged Victory gives the palm of conquering.")
 
-* Gellius says: « in the second book of the *Iliad* »; but since nothing of the kind is found in that book, Scaliger compares it with Iliad VII, 291–292, Walther with XVI, 87.  Neither is to be approved.  For my part I think that it is not Gellius who has erred, but that Matius here, and in other places, departed from Homer.
+Gellius says: « in the second book of the *Iliad* »; but since nothing of the kind is found in that book, Scaliger compares it with Iliad VII, 291–292, Walther with XVI, 87.  Neither is to be approved.  For my part I think that it is not Gellius who has erred, but that Matius here, and in other places, departed from Homer.
 
 Also in Gellius, Noct. att., IX, 14, 14–15: « Cn. Matius in book XXI of the *Iliad*:
 
-Altera pars acii vitassent fluminis undas.  « The same Matius in XIII:
+Altera pars acii vitassent fluminis undas.
+
+« The same Matius in XIII:
 
 An manet specii simulacrum in morte silentum. »
 
@@ -343,8 +371,8 @@ An manet specii simulacrum in morte silentum. »
 
 Diomedes, I, 345 K: « Cn. Matius in book XX of the *Iliad*:
 
-Ille lnetans herbam moribundus delinet ore. »
-("He, dying, holds the grass in his mouth.")
+Ille hietans herbam moribundus detinet ore. »
+("He, gaping and dying, holds the grass in his mouth.")
 
 ## p. XXIV
 
@@ -355,7 +383,9 @@ Scaliger teaches that this looks to Iliad XXII, 403; but Walther suspects that t
 Priscian, VII, p. 334 Hertz: « Cn. Matius in the *Iliad*:
 
 celerissimus advolat Hector, »
-("most swift Hector flies up,")  which words we shall refer with Walther to Iliad VII, 1: "shining Hector rushed out" (ἐξέσσυτο φαίδιμος Ἕκτωρ), rather than with Scaliger to XII, 462: "and shining Hector leapt in" (ὁ δ' ἄρ' ἔσθορε φαίδιμος Ἕκτωρ).
+("most swift Hector flies up,")
+
+which words we shall refer with Walther to Iliad VII, 1: "shining Hector rushed out" (ἐξέσσυτο φαίδιμος Ἕκτωρ), rather than with Scaliger to XII, 462: "and shining Hector leapt in" (ὁ δ' ἄρ' ἔσθορε φαίδιμος Ἕκτωρ).
 
 Finally see in Charisius, book I, 117 K, where Cn. Matius, Iliad XV, is reported to have said *acrum* for *acrem*.
 
@@ -364,7 +394,9 @@ Now, if we may conclude something from all these, we shall judge that the *Iliad
 But now let us deal with Ninnius Crassus, who seems to have been a contemporary of Furius Bibaculus and is said to have rendered the *Iliad* wholly into Latin in hexameter verse.  Only three verses survive, only two complete, one mutilated.  In Nonius, s. v. *fite*: « Crassus, book XVI of the *Iliad*:
 
 socii nunc fite viri. »
-("comrades, now be men.")  Walther compares it with Iliad V, 529: ὦ φίλοι, ἀνέρες ἔστε ("friends, be men").  In Priscian, X, p. 503 Hertz: « Ninnius in the second book of the *Iliad*:
+("comrades, now be men.")
+
+Walther compares it with Iliad V, 529: ὦ φίλοι, ἀνέρες ἔστε ("friends, be men").  In Priscian, X, p. 503 Hertz: « Ninnius in the second book of the *Iliad*:
 
 Fecundo penetrat penitus thalamoque potitur. »
 ("He penetrates deep into the fruitful chamber and takes possession of it.")
@@ -401,7 +433,7 @@ Now M. Tullius falls within our survey, who, although he seems never to have ren
 
 PDF page 40.
 
-a familiarity and intimacy Cicero had with the poems of Homer, and with what affection of mind he embraced them, countless passages of his works show well enough; and he was so steeped in the reading of the *Iliad* and the *Odyssey* that he quoted very many verses here and there from memory.  So it is not at all surprising if he was sometimes caught in error: thus, in *De Divinatione*, II, 30, 63 f., by a slip of memory he brought in Agamemnon speaking, not Ulysses, as Homer does in Iliad II, 290; and he also erred when in the book that was the second *On Glory* he cited Ajax instead of Hector¹.
+a familiarity and intimacy Cicero had with the poems of Homer, and with what affection of mind he embraced them, countless passages of his works show well enough; and he was so steeped in the reading of the *Iliad* and the *Odyssey* that he quoted very many verses here and there from memory.  So it is not at all surprising if he was sometimes caught in error: thus, in *De Divinatione*, II, 30, 63 f., by a slip of memory he brought in Agamemnon speaking, not Ulysses, as Homer does in Iliad II, 299; and he also erred when in the book that was the second *On Glory* he cited Ajax instead of Hector¹.
 
 We find in Cicero seven times certain verses drawn from the *Iliad* and rendered into Latin², from the *Odyssey* only once³; but from the latter Augustine in the *City of God* has handed down to us two more verses turned into Latin by M. Tullius⁴.  It is not my intention to set them all out here, since they are very well known; collected in the edition of Baiter and Kayser, vol. XI, p. 89 ff., they are easily found.  See also the excellent work, already praised above, of one of our countrymen, Victor Clavel, on M. Tullius Cicero as an interpreter of the Greeks.
 
@@ -425,13 +457,41 @@ O decus Argolicum, quin puppim flectis, Ulixes,
 
 Auribus ut nostros possis agnoscere cantus!
 
-Nam nemo haec umquam est transvectus caerula cursu Quin prius astiterit vocum dulcedine captus; Post, variis avido satiatus pectore Musis, Doctior ad patrias lapsus pervenerit oras. Nos grave certamen belli clademque tenemus Graecia quam Trojae divino numine vexit Omniaque e latis rerum vestigia terris.  ("O glory of Argos, Ulysses, why do you not turn your stern, so that you may hear our songs with your ears!  For no one has ever sailed across these blue waters without first stopping, captivated by the sweetness of our voices; then, his eager breast sated with varied Muses, he has glided more learned to his native shores.  We know the grievous contest of war and the disaster that Greece brought upon Troy by the will of the gods, and all the traces of things over the wide lands.")  Cf. with Hom., Odyss. XII, 184–191 (the Greek is garbled in the OCR: "Come hither, much-praised Odysseus, great glory of the Achaeans, stay your ship, that you may hear our voice.  For never yet has anyone rowed past here in his black ship before hearing the honey-sweet voice from our lips; but he goes on his way delighted and knowing more.  For we know all the things that in broad Troy
+Nam nemo haec umquam est transvectus caerula cursu
 
-the Argives and Trojans toiled through by the will of the gods;
+Quin prius astiterit vocum dulcedine captus;
 
-and we know all that comes to pass on the much-nourishing earth.")
+Post, variis avido satiatus pectore Musis,
 
-You see that the eight Greek verses are rendered by as many Latin ones, but that in the Ciceronian ones frankness and Homeric colour are lacking; that the sense is not closely followed; that some very pleasing words are neglected, others little pleasing added: "the black ship" (νηῒ μελαίνῃ) has vanished; *dulcedo vocum* does not sound so sweet as "honey-sweet voice" (ὄπα μελίγηρυν); the "we know" (ἴδμεν) repeated by Homer Cicero did not repeat.  I do not deny it: yet the Latin verses breathe a certain sweetness, and they seem to me not inelegantly written nor unworthy of a more learned poet than Tullius ever was; and you would wrongly wonder that a mediocre poet followed the footsteps of so great a leader only at a long distance.
+Doctior ad patrias lapsus pervenerit oras.
+
+Nos grave certamen belli clademque tenemus
+
+Graecia quam Trojae divino numine vexit
+
+Omniaque e latis rerum vestigia terris.
+("O glory of Argos, Ulysses, why do you not turn your stern, so that you may hear our songs with your ears!  For no one has ever sailed across these blue waters without first stopping, captivated by the sweetness of our voices; then, his eager breast sated with varied Muses, he has glided more learned to his native shores.  We know the grievous contest of war and the disaster that Greece brought upon Troy by the will of the gods, and all the traces of things over the wide lands.")
+
+Cf. with Hom., Odyss., XII, 184–191:
+
+Δεῦρ' ἄγ' ἰών, πολύαιν' Ὀδυσεῦ, μέγα κῦδος Ἀχαιῶν,
+
+νῆα κατάστησον, ἵνα νωϊτέρην ὄπ' ἀκούσῃς.
+
+Οὐ γάρ πώ τις τῇδε παρήλασε νηῒ μελαίνῃ,
+
+πρίν γ' ἡμέων μελίγηρυν ἀπὸ στομάτων ὄπ' ἀκοῦσαι,
+
+ἀλλ' ὅγε τερψάμενος νεῖται καὶ πλείονα εἰδώς.
+
+Ἴδμεν γάρ τοι πάνθ', ὅσ' ἐνὶ Τροίῃ εὐρείῃ
+
+Ἀργεῖοι Τρῶές τε θεῶν ἰότητι μόγησαν·
+
+ἴδμεν δ', ὅσσα γένηται ἐπὶ χθονὶ πουλυβοτείρῃ.
+("Come hither, much-praised Odysseus, great glory of the Achaeans, stay your ship, that you may hear our voice.  For never yet has anyone rowed past here in his black ship before hearing the honey-sweet voice from our lips; but he goes on his way delighted and knowing more.  For we know all the things that in broad Troy the Argives and Trojans toiled through by the will of the gods; and we know all that comes to pass on the much-nourishing earth.")
+
+You see that the eight Greek verses are rendered by as many Latin ones, but that in the Ciceronian ones frankness and Homeric colour are lacking; that the sense is not closely followed; that some very pleasing words are neglected, others little pleasing added: "the black ship" (νηῦς μέλαινα) has vanished; *dulcedo vocum* does not sound so sweet as "honey-sweet voice" (ὄψ μελίγηρυς); the "we know" (ἴδμεν) repeated by Homer Cicero did not repeat.  I do not deny it: yet the Latin verses breathe a certain sweetness, and they seem to me not inelegantly written nor unworthy of a more learned poet than Tullius ever was; and you would wrongly wonder that a mediocre poet followed the footsteps of so great a leader only at a long distance.
 
 ## p. XXVIII
 
@@ -453,7 +513,7 @@ Ebria veratro?
 
 ("Is not here the *Iliad* of Attius, drunk with hellebore?")
 
-But the old commentator on Persius teaches us more, who noted this on verse 4: « Labeo translated the *Iliad* and the *Odyssey* word for word, ridiculously enough, since he followed the words rather than the sense. »  Soon after, on verse 50: « Attius Labeo was an unlearned poet of those times, who composed Homer's *Iliad* in the foulest verses, so that not even the poet himself would have understood it unless he had been purged with hellebore. »  Finally, in a letter of Élie Vinet to P. Daniel, this is read: « Labeo was a Latin poet, as Fulgentius says in his book of etymologies, who turned the Homeric poem and work into Latin and pleased his hearers no more than his readers.  His is the verse
+But the old commentator on Persius teaches us more, who noted this on verse 4: « Labeo translated the *Iliad* and the *Odyssey* word for word, ridiculously enough, since he followed the words rather than the sense. »  Soon after, on verse 50: « Attius Labeo was an unlearned poet of those times, who composed Homer's *Iliad* in the foulest verses, so that not even the poet himself would have understood it unless he had been purged with hellebore. »  Finally, in a letter of Élie Vinet to P. Daniel, this is read: « Labeo was a Latin poet, as Fulgentius says in his book of etymologies, who turned the Homeric poem and work into Latin and pleased his hearers no more than his readers.  His is the verse:
 
 Crudum manduces Priamum Priamique pisinnos. »
 ("May you eat Priam raw and Priam's little ones.")
@@ -468,7 +528,8 @@ PDF page 43.
 
 which clearly looks to Iliad IV, 35:
 
-(Greek, garbled in the OCR: "and eat Priam raw, and the children of Priam"¹.)
+ὠμὸν βεβρώθοις Πρίαμον Πριάμοιό τε παῖδας¹.
+("and eat Priam raw, and the children of Priam")
 
 For my part I do not think that there should be mentioned here with the same right Pompeius Macer, whom Naso called *Iliacus*² and whom Douza long ago noted to have been different from Aemilius Macer of Verona, Antonius Rufus³, Camerinus⁴ and others praised by Ovid⁵.  For they did not interpret the verses of Homer, but composed their own original poems on Trojan subjects.  Nor did Julius Antonius behave otherwise, the son of the triumvir, consul in 744 [of the City], who, as Acro teaches on Horace, Carm. IV, 2, 33, « wrote twelve excellent books of *Diomedeia* in heroic metre. »  So, to continue on our intended way, let us now come to Italicus.
 
@@ -483,8 +544,10 @@ Ibid., II, 10, 13 (to Macer):
 
 Tu canis aeterno quicquid restabat Homero
 
-Ne careant summa Troica bella manu.  Amor. II, 18, 1 ff.:
+Ne careant summa Troica bella manu.
 ("You sing whatever remained over for eternal Homer, so that the Trojan wars may not lack the finishing hand.")
+
+Amor. II, 18, 1 ff.:
 
 Carmen ad iratum dum tu perducis Achillen
 
@@ -514,33 +577,52 @@ THE LATIN ILIAD WAS WRITTEN
 
 Just as in single matters our poet departed very far from Homer, so in what concerns composition he used great freedom.  He seems at first to have approached the work with hesitation, uncertain whether he should render the *Iliad* complete, or treat only the main events, neglecting the rest entirely.  The former indeed pleased him more, but the latter was better suited to his strength.  For either his strength often failed, or Italicus did not lay down for himself firm enough rules of condensing.  Lest you doubt, look over, I pray, this comparison with your eyes:
 
-Book I in the *Iliad* consists of 611 verses; in the epitome of 110
-
-II 141
-
-92 45 149
-
-37
-
-75
-
-36 • — - 9 — — 45 — — 17 — _14
-
-— 7
-
-(The table of the numbers of verses, book by book, is garbled in the OCR.)
+| Book | verses in the *Iliad* | in the epitome |
+|---|---|---|
+| I | 611 | 110 |
+| II | 877 | 141 |
+| III | 461 | 92 |
+| IV | 544 | 45 |
+| V | 909 | 149 |
+| VI | 529 | 37 |
+| VII | 482 | 75 |
+| VIII | 565 | 36 |
+| IX | 713 | 9 |
+| X | 579 | 45 |
+| XI | 848 | 17 |
+| XII | 471 | 14 |
+| XIII | 837 | 7 |
 
 ## p. XXXI
 
 PDF page 45.
 
-XV
+| Book | verses in the *Iliad* | in the epitome |
+|---|---|---|
+| XIV | 522 | 11 |
+| XV | 746 | 15 |
+| XVI | 867 | 31 |
+| XVII | 761 | 3 |
+| XVIII | 617 | 53 |
+| XIX and XX | 927 | 19 |
+| XXI | 611 | 20 |
+| XXII | 515 | 73 |
+| XXIII | 897 | 11 |
+| XXIV | 804 | 56 |
+
+Next, since Italicus has narrated some things otherwise than Homer, examples of which we shall soon bring forward, there arises a difficult question, which must not be passed over here in silence: whether he had before his eyes the Greek *Iliad* itself or one or more of the old Latin translations, not the Homeric work itself.  It is certain that Italicus drew some things from other sources as well as from the Homeric one, but it is uncertain whether he neglected the Greek text altogether or, while following Homer above all, nevertheless took into his poem stories told by others that he remembered, perhaps at times unawares when he was in haste.  Nothing helps us to untie the knot.  For my part I suspect, as far as one can conjecture in this matter, that our poet, taken up with much business and the duties of a schoolmaster, wrote the poem piece by piece in his spare time¹, helped above all by memory; and indeed, as you will see, he followed the usage of the Latins, of Virgil and Ovid above all, much more than that of the Greeks².  Be that as it may, it is chiefly in these places that Italicus departed from Homer:
+
+V. 78. — Homer relates, I, 188 ff., that Achilles was
+
+1. This opinion is supported by the fact that the same words recur rather often: 12 *implicuit*, 14 *implicitus*; 14 *natae*, 21 *nata*; 14 *flevit*, 18 *fletus*, 22 *fletibus*; 31 *sacras*, 34 *sacros*, 40 *sacros*; 417 *nati*, 419 *nato*; 712, 714 *manuque*; 744 *mixtis*, 746 *mixtus*, etc.
+
+2. This is most clearly seen in the epithets called ornamental, joined to the names of men and gods; for that reason I have printed them in heavier type in the index.
 
 ## p. XXXII
 
 PDF page 46.
 
-Minerva was prevented from drawing his sword against the king before Agamemnon had carried off Briseis; our poet puts the same after the maiden has been taken away.
+prevented by Minerva from drawing his sword against the king before Agamemnon had carried off Briseis; our poet puts the same after the maiden has been taken away.
 
 V. 151. — The words which Italicus here gives to Nestor are uttered by Ulysses in the Greek text, II, 300.
 
@@ -566,37 +648,67 @@ our poet imitated the Roman poets, and sometimes reproduced them word for word. 
 
 From Virgil first.
 
-58. Dixerat; exarsit subito violentia regis.
-
-Aeneid XI, 376. Talibus exarsit dictis violentia Turni.  96. Dixit; at illa leves caeli delapsa per oras.
-
-(It is repeated whole from Aeneid XI, 595.)  223. Cum pater ad Priamum mittit Saturnius Irim.  Aeneid V, 606. Irim de caelo misit Saturnia Juno.  236. Et sacer Aeneas, Veneris certissima proles.  Aeneid VI, 322. Anchisa generate, deum certissima proles.  255. Seque velut viso perterritus angue recepit…  Aeneid II, 379. Improvisum aspris veluti qui sentibus anguem
-
-Pressit humi nitens…  311. Ultimus ille dies Paridis foret.  Aeneid IX, 758. Ultimus ille dies bello gentique fuisset.  347. Te, Menelae, petens.  Aeneid V, 840. Te, Palinure, petens.  569. Terribilemque fugit galeam cristasque comantes.  Aeneid III, 468. Et conum insignis galeae cristasque comantes…  655. dextraque potenti
-
-Sustinet auratas aequato pondere lances
-
-[Achivum
-
-Fataque dura Phrygum casusque expendit  Aeneid XII, 723. Juppiter ipse duas aequato pondere lances
-
-Sustinet, et fata imponit diversa duorum.  700. Qui secum tutae sublustri noctis in umbra.  Aeneid IX, 372. …sublustri noctis in umbra.
+| Verse | Text |
+|---|---|
+| 58. | Dixerat; exarsit subito violentia regis. |
+| Aeneid XI, 376. | Talibus exarsit dictis violentia Turni. |
+| 96. | Dixit; at illa leves caeli delapsa per oras. |
+|  | (It is repeated whole from Aeneid XI, 595.) |
+| 223. | Cum pater ad Priamum mittit Saturnius Irim. |
+| Aeneid V, 606. | Irim de caelo misit Saturnia Juno. |
+| 236. | Et sacer Aeneas, Veneris certissima proles. |
+| Aeneid VI, 322. | Anchisa generate, deum certissima proles. |
+| 255. | Seque velut viso perterritus angue recepit... |
+| Aeneid II, 379. | Improvisum aspris veluti qui sentibus anguem |
+|  | Pressit humi nitens... |
+| 311. | Ultimus ille dies Paridis foret. |
+| Aeneid IX, 758. | Ultimus ille dies bello gentique fuisset. |
+| 347. | Te Menelae, petens. |
+| Aeneid V, 840. | Te, Palinure, petens. |
+| 569. | Terribilemque fugit galeam cristasque comantes. |
+| Aeneid III, 468. | Et conum insignis galeae cristasque comantes... |
+| 655. | ......... dextraque potenti |
+|  | Sustinet auratas aequato pondere lances |
+|  | Fataque dura Phrygum casusque expendit Achivum. |
+| Aeneid XII, 723. | Juppiter ipse duas aequato pondere lances |
+|  | Sustinet, et fata imponit diversa duorum. |
+| 700. | Qui secum tutae sublustri noctis in umbra. |
+| Aeneid IX, 372. | ...sublustri noctis in umbra. |
 
 ## p. XXXIV
 
 PDF page 48.
 
-From Ovid: 39. Cur o tua dextera cessat?  Metam. II, 279. Quid o tua fulmina cessant?  298. Non aliter fortes nitida de conjuge tauri…  Metam. IX, 46. Non aliter vidi fortes concurrere tauros.  316. Et secum in thalamos defert testudine cultos.  Metam. II, 737. Pars secreta domus ebore et testudine cultos
+From Ovid:
 
-Tres habuit thalamos.  321. Vidi puduitque videre.
+| Verse | Text |
+|---|---|
+| 39. | Cur o tua dextera cessat? |
+| Metam. II, 279. | Quid o tua fulmina cessant? |
+| 298. | Non aliter fortes nitida de conjuge tauri... |
+| Metam. IX, 46. | Non aliter vidi fortes concurrere tauros. |
+| 316. | Et secum in thalamos defert testudine cultos. |
+| Metam. II, 737. | Pars secreta domus ebore et testudine cultos |
+|  | Tres habuit thalamos. |
+| 321. | Vidi puduitque videre. |
+|  | (Similarly in Metam. XIII, 223.) |
+| 821. | Nam licet ipse suis Mavors te protegat armis. |
+| Metam. VIII, 394. | Ipsa suis licet hunc Latonia protegat armis. |
+| 872. | Oceanumque senem. |
+|  | (Cf. Metam. II, 510.) |
 
-(Similarly in Metam. XIII, 223.)  821. Nam licet ipse suis Mavors te protegat armis.  Metam. VIII, 394. Ipsa suis licet hunc Latonia protegat armis.  872. Oceanumque senem.
+From Ovid and Virgil Italicus turned these and other things to his own use; from Horace or Lucretius very few:
 
-(Cf. Metam. II, 510.)  From Ovid and Virgil Italicus turned these and other things to his own use; from Horace or Lucretius very few: 111. Nox erat et toto fulgebant sidera mundo¹.  Horace, Epod. 15, 1: Nox erat et caelo fulgebat luna sereno.  109. Et dapibus divi curant sua corpora largis.  Lucretius, II, 31. Non magnis opibus jucunde corpora curant.  857. Excitat Aetnaeos calidis fornacibus ignes.  Lucretius, VI, 681. Flamma foras vastis Aetnae fornacibus efflet.
-
-(Add verse 1 of the poem *Aetna*:
-
-…ruptisque cavis fornacibus ignes.)
+| Verse | Text |
+|---|---|
+| 111. | Nox erat et toto fulgebant sidera mundo¹. |
+| Horace, Epod. 15, 1: | Nox erat et caelo fulgebat luna sereno. |
+| 109. | Et dapibus divi curant sua corpora largis. |
+| Lucretius, II, 31. | Non magnis opibus jucunde corpora curant. |
+| 857. | Excitat Aetnaeos calidis fornacibus ignes. |
+| Lucretius, VI, 681. | Flamma foras vastis Aetnae fornacibus efflet. |
+|  | (Add verse 1 of the poem *Aetna*: |
+|  | ...ruptisque cavis fornacibus ignes.) |
 
 1. *Caelo*, which is read in three manuscripts (see the critical apparatus), is favoured at first sight by the verse of Horace cited; and I once read it so.  But on longer consideration the opinion must be changed: some learned man, mindful of the Horatian verse, could have substituted the word *caelo* for the word *mundo*; but that *mundo* should have burst in here in place of *caelo* is not likely.
 
@@ -700,7 +812,7 @@ Nor did I think that the Vossianus, A, should be altogether despised.  It was wr
 
 To the complete variants of these thirteen books I have added the readings, hitherto unpublished, of one Brussels and two Paris manuscripts, for vv. 1–111 and 1000–1070, and some others of the same in the most doubtful places:
 
-T, Bruxellensis 2718, of the fifteenth century, in small quarto, preserves the Latin *Iliad* on twenty-nine leaves; each page is occupied by twenty or nineteen verses; there follows the *Tragedia Reneri a Druxella*.  The title is missing;
+T, Bruxellensis 2718, of the fifteenth century, in small quarto, preserves the Latin *Iliad* on twenty-nine leaves; each page is occupied by twenty or nineteen verses; there follows the *Tragedia Reneri a Bruxella*.  The title is missing;
 
 1. Sometimes, however, the Vossian manuscript (A) agrees more plainly with the Munich manuscripts (M N); see in our apparatus on vv. 326, 387, 667, 706, 764, 770, etc.  From the Annabergensis, the first Leidensis and the Helmestadiensis, after examining the critical apparatus with which Theodor van Kooten and Lucian Mueller each furnished his edition, I confess I see little fruit to be gathered.
 
@@ -712,7 +824,7 @@ but at the end is read: *Explicit homerus de probitate Achillis*.  The scribe dr
 
 C, Parisinus lat. 8413, written in the year 1403, on paper, has the whole poem on fol. 179–201, which once formed a separate volume.  After v. 1070 the scribe added these without any interval:
 
-(f. 201 recto)
+(F° 201 recto)
 
 Pindarus hunc secum trans pontum uexit Homerum
 
@@ -720,17 +832,25 @@ Silicet orgiuum dedit esse poeta latinum
 
 Pindarus hunc librum fecit sectatus Homerum
 
-Pindarus Homeri transcribens carmina greci (f. 201 verso) Prelia conscripsit, sed sic sua carmina dixit ~
+Pindarus Homeri transcribens carmina greci
 
+(F° 201 verso)
+
+Prelia conscripsit, sed sic sua carmina dixit ÷
 ("Pindar carried this Homer with him across the sea; that is, the poet made the Argive [poem] to be Latin.  Pindar made this book following Homer.  Pindar, transcribing the poems of the Greek Homer, wrote of battles, but so he called the poems his own.")
 
-Thanks be to God, amen.  I, Marcus (?), son of the (late?) master Iohannes
+Deo gratias amen.
 
-de Aliotis (or -cis), wrote this Homer translated from Greek into Latin, containing the destruction of Troy
+Ego marais filius (quondam?) magistri Iohannis
 
-perpetrated by the Greeks.  On the seventh day of the month of April
+de Aliotis (vel -cis), scripsi hunc Homerum translatum
 
-in the year one thousand four hundred and three.
+de greco in latinam continentem destructionem troianam
+
+a grecis perpetratam. Die septimo mensis aprilis
+
+miliesimo quadringensesimo tercio.
+("Thanks be to God, amen.  I, marais, son of the (late?) master Iohannes de Aliotis (or -cis), wrote this Homer translated from Greek into Latin, containing the destruction of Troy perpetrated by the Greeks.  On the seventh day of the month of April, in the year one thousand four hundred and three.")
 
 There follow two epitaphs, one of Hector, the other of Achilles.  The book was collated for me by Louis Duvau, to whom I here declare the feelings of a most grateful heart.
 
@@ -740,7 +860,7 @@ There follow two epitaphs, one of Hector, the other of Achilles.  The book was c
 
 PDF page 59.
 
-D, Parisinus lat. 14909, of the fifteenth century, partly of parchment, partly of paper; it has the Epitome on fol. 61–82, which once formed a separate volume; it lacks a title; it omitted vv. 1–54, leaving a space on fol. 61 up to a third of the page.  At the end is read: *Explicit Homeri Smirnensis vatis*.  Louis Duvau collated it for me.
+D, Parisinus lat. 14909, of the fifteenth century, partly of parchment, partly of paper; it has the Epitome on fol. 61–82, which once formed a separate volume; it lacks a title; it omitted vv. 1–54, leaving a space on fol. 61 up to a third of the page.  At the end is read: *Explicit Homeri Smirnensis uatis*.  Louis Duvau collated it for me.
 
 You will find, then, the variants of sixteen manuscripts in my apparatus; I have excerpted some things even from bad books, first because I feared that, if that task were neglected, I might seem to have consulted laziness rather than judgment, and then because, seeing how slippery a trust all except the Leiden and Erfurt manuscripts deserve, and how many and various the faults with which they are defiled, it seemed better to me to offer aids of whatever kind than to remove them.  But from so many manuscripts, so that the apparatus, already heavy, should not be weighed down with too great a mass, I have noted only the more useful readings, and left out the orthographical ones and all those which are of value only for recognizing the authority of the books; no one will wonder that I have followed this method who considers that, through the unkindness of circumstances, I have had no manuscript before my eyes.
 
@@ -772,7 +892,11 @@ Now besides those who have edited our poem, some have set about healing the text
 
 2. In his *Spicilegia critica*, Dordrecht, 1771.
 
-3. Prodromus in Pindarum Thebanum, Kampen, 1769.  4. In his *Periculum criticum*.  5. Zeitschrift für die österreichischen Gymnasien, 1875, p. 243 ff.
+3. Prodromus in Pindarum Thebanum, Kampen, 1769.
+
+4. In his *Periculum criticum*.
+
+5. Zeitschrift für die österreichischen Gymnasien, 1875, p. 243 ff.
 
 ## p. XLVIII
 
@@ -786,11 +910,17 @@ It remains for us to deal with the name of Pindar, which was found in some books
 
 Pindarus hunc librum fecit sectatus homerum,
 
-Grecus homerus erat, sed pindarus ipse latinus.  ("Pindar made this book following Homer; Homer was Greek, but Pindar himself Latin.")  In the Vatican Palatinus 1611 too, of the end of the fourteenth century, one reads at the end:
+Grecus homerus erat, sed pindarus ipse latinus.
+("Pindar made this book following Homer; Homer was Greek, but Pindar himself Latin.")
+
+In the Vatican Palatinus 1611 too, of the end of the fourteenth century, one reads at the end:
 
 Pandarus hunc secum trans pontum uexit homerum,
 
-Scilicet argiuum dedit esse poema latinum.  ("Pandarus carried this Homer with him across the sea; that is, he made the Argive poem a Latin one.")  There is no doubt, as Baehrens rightly saw, that *Pandarus* came here by a fabrication of a scribe, and that *Pindarus* is to be restored from the Santen manuscript; in that book you have already very easily recognized, though altered, the subscription which we took above from Weytingh's preface:
+Scilicet argiuum dedit esse poema latinum.
+("Pandarus carried this Homer with him across the sea; that is, he made the Argive poem a Latin one.")
+
+There is no doubt, as Baehrens rightly saw, that *Pandarus* came here by a fabrication of a scribe, and that *Pindarus* is to be restored from the Santen manuscript; in that book you have already very easily recognized, though altered, the subscription which we took above from Weytingh's preface:
 
 Pindarus hunc secum trans pontum uexit homerum,
 
@@ -808,14 +938,17 @@ Silicet orgiuum dedit esse poeta latinum
 
 Pindarus hunc librum fecit sectatus Homerum
 
-Pindarus Homeri transcribens carmina greci.  These things too, in the thirteenth century, Hugo of Trimberg recorded thus in his « catalogue of many authors »: « Hence a lesser place is given to this Homer, whom the philosopher Pindar is said to have translated and turned into metre for the Latin teachers. »  Finally, if you look at a certain poem written by Benzo, bishop of Alba, in the year 1087 or thereabouts, you will find it established that the name of Pindar was already common in the eleventh century.
+Pindarus Homeri transcribens carmina greci.
+
+These things too, in the thirteenth century, Hugo of Trimberg recorded thus in his « catalogue of many authors »: « Hence a lesser place is given to this Homer, whom the philosopher Pindar is said to have translated and turned into metre for the Latin teachers. »  Finally, if you look at a certain poem written by Benzo, bishop of Alba, in the year 1087 or thereabouts, you will find it established that the name of Pindar was already common in the eleventh century.
 
 In the Erfurt manuscript, however, nothing is read but *incipit liber homeri*; in the Leiden one, *incipit liber omeri*; in the Guelferbytanus, *incipit homerus*; in Munich 19462, *de bello troyano homerus*.  In the catalogues of manuscripts compiled from the ninth to the eleventh century, *Omerus*, as did not escape Baehrens, is mentioned rather often, and in the letter to Grimold written about the year 850, Ermenricus of Ellwangen, citing the seventh verse of our Epitome, uses only these words: « as in Homer in the *Iliad* ».  Nor did Eberhard of Béthune bring forward the name of Pindar or anything similar, nor the old commentator on Statius, Theb. VI, 120, Luctatius or Lactantius.
 
 Wernsdorf at first bade us detect Pentadius in that Pindar; then, after he had chosen Avienus and no longer Pentadius, he tried to explain the matter in another way.  Well known is that Pandarus, one of the Trojan princes, who
 
-"the glorious son of Lycaon,
-Pandarus, to whom Apollo himself gave the bow"¹,
+Λυκάονος ἀγλαὸς υἱὸς
+Πάνδαρος, ᾧ καὶ τόξον Ἀπόλλων αὐτὸς ἔδωκεν¹,
+("the glorious son of Lycaon, Pandarus, to whom Apollo himself gave the bow")
 
 1. Iliad II, 826.
 
@@ -829,7 +962,7 @@ And since our poet is called *Thebanus* by the old editors, it is hardly necessa
 
 As to what we find in the Santen, the Vatican Palatine and the Paris manuscripts about Homer carried across the sea, whoever reads it accurately and with sense will, I think, have little trouble over it: it is to be understood that the poems of Homer were brought from Greece to Italy, between which the sea makes a division.  The matter is expressed, I confess, in most inept words; for the rest, let us not think these of any account, and let us now delete the name of Pindar.
 
-1. Iliad IV, 85–126.
+1. Ibid. IV, 85–126.
 
 2. Ibid. V, 166–310.
 

@@ -41,7 +41,7 @@ PDF page 21.
 
 さて、われらの詩人がいつ自らの『イーリアス』を仕上げたかを探るならば、まず第一に、ヘンリクス・ヴァイティング¹ がサンテン写本の末尾に書き添えられたいくつかの短い詩行から引き出そうと努めるものは、まったく是認できない。それらの詩行は次のとおりである。
 
-Pindarus hunc secum trans pontum vexit Homerum;
+Pindarus hunc secum trans pontum uexit Homerum;
 
 Sed argumentum dedit esse poeta latinum.
 
@@ -91,7 +91,7 @@ PDF page 23.
 
 PDF page 24.
 
-彼らの生きた時代の習いに従い、この短縮を十分には避けていない。すなわちアウィエーヌスの『ペリエーゲーシス』には次のものが見出される。263 行 *ergo solum*、299 行 *ergo modi*、358 行 *ergo tibi*、954 行 *virgo locavit*。また短長格ではあるがあまり好ましくないもの、176 行 *draco*、1047 行 *dato* も見逃すまい。ペンタディウスのよく知られた *Sentio, fugit hiems* も加えよ。
+彼らの生きた時代の習いに従い、この短縮を十分には避けていない。すなわちアウィエーヌスの『ペリエーゲーシス』には次のものが見出される。263 行 *ergo solum*、299 行 *ergo modi*、358 行 *ergo tibi*、954 行 *virgo locans*。また短長格ではあるがあまり好ましくないもの、176 行 *draco*、1047 行 *dato* も見逃すまい。ペンタディウスのよく知られた *Sentio, fugit hiems* も加えよ。
 
 さらに、アウィエーヌスの時代あるいはその頃、ラテン文学がすでに長く没落へと傾いていた時期には、詩人たちはギリシア語の名において短い音節を長くし、長い音節を短くすることを、時にかなり放恣にあえてした¹。この欠点は、アウィエーヌスのほかにアウソニウス、プルーデンティウス、シードニウス・アポッリナーリスその他も避けなかった。しかしわれらの『イーリアス』梗概には似たようなものは何も現れない。いかなる誤りもつまずかせない。ところがアウィエーヌスの『ペリエーゲーシス』を見よ。129 行 *Pachyni*、569 行 *Triphylis*、635 行 *Pachynus*、662, 663 行 *Corcyra*(この二行で詩人は三度この名を誤った音量で用いた)、693 行 *Abydus*。『海岸誌』のものも加えよ。43 行 *Hellanicus*、421 行 *Libyphoenices*。これらの名のすべてで、次末音節が短くされて用いられている。一方次のものでは長くされている。『ペリエーゲーシス』679 行 *Salamis*、1013 行 *Cragus*(もっともこの箇所はおそらく書写者によって損なわれている)。
 
@@ -114,7 +114,9 @@ Undique rimabant inimico corpora ferro.
 
 しかしウェルギリウス、オウィディウスその他の後の詩人たちは形式所相動詞 *rimari* を用いたのに対し、より古い著作家たちでは *rimare* という形が優勢である。パークウィウスの次の詩行を見よ。v. 71, p. 85, O. Ribbeck 第 2 版、ノニウス 382, 7 所引:
 
-Cum incultos pervestigans rimarem sinus.  v. 203, p. 101, O. Ribbeck、ノニウス 382, 8 所引:
+Cum incultos pervestigans rimarem sinus.
+
+v. 203, p. 101, O. Ribbeck、ノニウス 382, 8 所引:
 
 Aut stagnorum umidorum rimarem loca.
 
@@ -126,7 +128,9 @@ Et ego ibo ut latebras ruspans rimeram aptimas,
 
 2. Ueber den Auszug der Ilias、序文。
 
-3. Baehrens, Poet. lat. min., 第 III 巻、序文 p. 3。— Moriz Haupt, Opuscula 第 II 巻 p. 163 を参照。  4. Grundriss der römischen Literatur、第 5 版 p. 523 (§ 84, n. 394)。
+3. Baehrens, Poet. lat. min., 第 III 巻、序文 p. 3。— Moriz Haupt, Opuscula 第 II 巻 p. 163 を参照。
+
+4. Grundriss der römischen Literatur、第 5 版 p. 523 (§ 84, n. 394)。
 
 ## p. XII
 
@@ -159,10 +163,14 @@ Ut profugus latiis Trojam repararet in arvis
 Augustumque genus claris submitteret astris,
 
 Non pulcrae gentis nobis mansisset origo¹.
-(「もし大いなる水の支配者が彼を救い、亡命者としてラティウムの野にトロイアを再建させ、アウグストゥスの一族を輝く星々へと送り上げさせなかったならば、われらの麗しき民族の起源は残らなかったであろう。」)236 行と比較せよ。
+(「もし大いなる水の支配者が彼を救い、亡命者としてラティウムの野にトロイアを再建させ、アウグストゥスの一族を輝く星々へと送り上げさせなかったならば、われらの麗しき民族の起源は残らなかったであろう。」)
+
+236 行と比較せよ。
 
 Et sacer Aeneas, Veneris certissima proles.
-(「そして聖なるアエネーアース、ウェヌスのまごうかたなき子。」)最後に 483 行と比較せよ。
+(「そして聖なるアエネーアース、ウェヌスのまごうかたなき子。」)
+
+最後に 483 行と比較せよ。
 
 Emicat interea Veneris pulcherrima proles.
 (「その間にウェヌスのいと麗しき子が躍り出る。」)
@@ -195,13 +203,19 @@ Qui legis et latia carmina digna toga,
 
 Pierios tantum vati placuisse recessus
 
-Credis et Aoniae bacchica serta comae?  Sacra cothurnati non attigit ante Maronis
+Credis et Aoniae bacchica serta comae?
+
+Sacra cothurnati non attigit ante Maronis
 
 Implevit magni quam Ciceronis opus.
 
-(「永遠なるシーリウスの決して滅びぬ巻物と、ラテンのトガにふさわしい詩を読む者よ、ピエリアの隠れ家とアオニアの髪に飾るバッコスの花冠だけがこの詩人の気に入ったと思うのか。彼は偉大なるキケローの仕事を果たし終えるまでは、悲劇靴を履いたマロー(ウェルギリウス)の聖域に触れなかった。」)ここから、真実を認める気があるならば、シーリウスが詩作に熱心な労力を注ぎ始める前に、すでに人生の大部分を法廷弁論に費やしていたこと、
+(「永遠なるシーリウスの決して滅びぬ巻物と、ラテンのトガにふさわしい詩を読む者よ、ピエリアの隠れ家とアオニアの髪に飾るバッコスの花冠だけがこの詩人の気に入ったと思うのか。彼は偉大なるキケローの仕事を果たし終えるまでは、悲劇靴を履いたマロー(ウェルギリウス)の聖域に触れなかった。」)
 
-1. Rheinisches Museum, 第 XXXV 巻 p. 391。  2. Munk und Seyffert, Gesch. der röm. Liter., ベルリン、1875 年、第 II 巻 p. 242。
+ここから、真実を認める気があるならば、シーリウスが詩作に熱心な労力を注ぎ始める前に、すでに人生の大部分を法廷弁論に費やしていたこと、
+
+1. Rheinisches Museum, 第 XXXV 巻 p. 391。
+
+2. Munk und Seyffert, Gesch. der röm. Liter., ベルリン、1875 年、第 II 巻 p. 242。
 
 ## p. XVI
 
@@ -217,7 +231,9 @@ PDF page 30.
 
 PDF page 31.
 
-なお、時の妬みによってわれらの詩人についての手がかりが何ひとつ知られていない以上、無用なことをでっち上げないよう、またルキアン・ミュラーが最近『ナエウィウス論』で見事に繰り返したこと、すなわち「知らないことにもまたある種の美徳がある」を忘れないよう注意しなければならない。 類似性についても、私はそれさえ十分な重みを持つとは考えない。ローマの詩人たちには、他人の言葉を、いや他人の詩行さえ、完全にではないにせよ少なくとも大部分を繰り返して自らのものとすることに、決して何のためらいもなかったからである。なお、デーリングは多くの空虚なものを呼び出した。梗概の作者が「Vulgus ruit undique」という語を、シーリウスが「ruit undique vulgus」という語を用いることが、いったい何だというのか。梗概の作者は「Gentibus Argolicis」、シーリウスは「Argolicis populis」。梗概の作者は「petunt.. jocunda.. dona quietis」、シーリウスは「haurire sinebant Dona soporiferae noctis」。(Doering 前掲書 p. 39 以下を参照。)
+なお、時の妬みによってわれらの詩人についての手がかりが何ひとつ知られていない以上、無用なことをでっち上げないよう、またルキアン・ミュラーが最近『ナエウィウス論』で見事に繰り返したこと、すなわち「知らないことにもまたある種の美徳がある」を忘れないよう注意しなければならない。
+
+類似性についても、私はそれさえ十分な重みを持つとは考えない。ローマの詩人たちには、他人の言葉を、いや他人の詩行さえ、完全にではないにせよ少なくとも大部分を繰り返して自らのものとすることに、決して何のためらいもなかったからである。なお、デーリングは多くの空虚なものを呼び出した。梗概の作者が「Vulgus ruit undique」という語を、シーリウスが「ruit undique vulgus」という語を用いることが、いったい何だというのか。梗概の作者は「Gentibus Argolicis」、シーリウスは「Argolicis populis」。梗概の作者は「petunt.. jocunda.. dona quietis」、シーリウスは「haurire sinebant Dona soporiferae noctis」。(Doering 前掲書 p. 39 以下を参照。)
 
 ## p. XVIII
 
@@ -272,7 +288,7 @@ Virum mihi, Camena, insece versutum
 
 ホメーロス『オデュッセイア』VI, 142:
 
-Utrum genua amplectens virginem oraret
+Utrum genua amploctens virginem oraret
 (「膝を抱いて乙女に嘆願すべきかどうか」)
 
 Ἦ γούνων λίσσοιτο λαβὼν εὐῶπιδα κούρην.
@@ -297,18 +313,28 @@ At celer hasta perrumpit pectora ferro²
 
 PDF page 36.
 
-ニーブールが、リーウィウスは『オデュッセイア』を完全にラテン語に移したのではなく、縮約したにすぎないと軽率に断言していることについては、かくも弱い見解に固執すべき理由は何もない。Walther, pp. 6 および 7 を参照。しかしヘルマン・ヴァルター自身も誤った。ニーブールが『オデュッセイア』にはそのような響きのものはほとんど見出されないと主張する根拠とした三つの断片のうち、一つはまったく除外すべきであることを見なかったのである。すなわちリーウィウスの *Nexabant multa inter se flexu nodorum dubio* という言葉には、『オデュッセイア』第 VIII 巻 264 行が十分に対応する。このことはすでに令名高きエミール・エジェが指摘していた¹。
+ニーブールが、リーウィウスは『オデュッセイア』を完全にラテン語に移したのではなく、縮約したにすぎないと軽率に断言していることについては、かくも弱い見解に固執すべき理由は何もない。Walther, pp. 6 および 7 を参照。しかしヘルマン・ヴァルター自身も誤った。ニーブールが『オデュッセイア』にはそのような響きのものはほとんど見出されないと主張する根拠とした三つの断片のうち、一つはまったく除外すべきであることを見なかったのである。すなわちリーウィウスの *Nexabant multa inter se flexu nodum dubio* という言葉には、『オデュッセイア』第 VIII 巻 264 行が十分に対応する。このことはすでに令名高きエミール・エジェが指摘していた¹。
 
 さて、次に名を挙げるべきはグナエウス・マティウスであろう。スカリゲルは彼をカエサルと同時代人であると主張したが無駄であり、ヴァルターは彼がそれ以前に活躍したことを論証した。というのも、残っている詩行には、すでにウァッローが廃れたものとして記した形が見出されるからである²。マティウスは『イーリアス』を英雄詩形でラテン語に移した。その翻訳がどれほど評価されるべきかは容易には言えない。ゲッリウスはマティウスを学識ある人³、博識の人⁴ と称えており、残っている六歩格の詩行も悪くない。しかしそれらを賛辞で持ち上げるほど僭越なことはしない。自ら判断されたい。まずウァッロー『ラテン語について』VII, 96 を見よ。
 
 Obsceni interpres funestique ominis auctor,
-(「不吉な前兆の解釈者、死をもたらす予兆の作り手」)この言葉でマティウスが『イーリアス』I, 106 を移したことを、ヴァルターはほとんど疑わない。
+(「不吉な前兆の解釈者、死をもたらす予兆の作り手」)
 
-(ギリシア語は OCR で崩れている:「凶事の予言者よ、お前はこれまで一度も私に良いことを言ったためしがない。」)
+この言葉でマティウスが『イーリアス』I, 106 を移したことを、ヴァルターはほとんど疑わない。
+
+Μάντι κακῶν, οὐ πώποτέ μοι τὸ κρήγυον εἶπες.
+
+(「凶事の予言者よ、お前はこれまで一度も私に良いことを言ったためしがない。」)
 
 スカリゲルはこれを XI, 4 に関係づけ、C. O. ミュラーは I, 62 を考えたが、
 
-1. Émile Egger, Latini sermonis vetustioris reliquiae selectae, p. 119。— ルイ・アヴェはリーウィウスの詩行を『オデュッセイア』VIII, 480 に関係づけている。その *De Saturnio* p. 428 を参照。  2. Walther 前掲書 p. 42 を参照。  3. ゲッリウス『アッティカの夜』VII (VI), 6, 5。  4. ゲッリウス『アッティカの夜』XV, 23, 1。
+1. Émile Egger, Latini sermonis vetustioris reliquiae selectae, p. 119。— ルイ・アヴェはリーウィウスの詩行を『オデュッセイア』VIII, 480 に関係づけている。その *De Saturnio* p. 428 を参照。
+
+2. Walther 前掲書 p. 42 を参照。
+
+3. ゲッリウス『アッティカの夜』VII (VI), 6, 5。
+
+4. ゲッリウス『アッティカの夜』XV, 25, 1。
 
 ## p. XXIII
 
@@ -331,11 +357,13 @@ Corpora Grajorum maerebat mandier igni.
 Dum dat vincendi praepes Victoria palmam.
 (「翼ある勝利の女神が勝利の棕櫚を与える間に。」)
 
-* ゲッリウスは「『イーリアス』第二巻で」と言う。しかしこの巻にはそのようなものは何も見出されないので、スカリゲルは『イーリアス』VII, 291–292 と、ヴァルターは XVI, 87 と比較する。どちらも是認できない。私としては、誤ったのはゲッリウスではなく、マティウスがここで、また他の箇所でもホメーロスから離れたのだと考える。
+ゲッリウスは「『イーリアス』第二巻で」と言う。しかしこの巻にはそのようなものは何も見出されないので、スカリゲルは『イーリアス』VII, 291–292 と、ヴァルターは XVI, 87 と比較する。どちらも是認できない。私としては、誤ったのはゲッリウスではなく、マティウスがここで、また他の箇所でもホメーロスから離れたのだと考える。
 
 同じくゲッリウス『アッティカの夜』IX, 14, 14–15:「グナエウス・マティウスは『イーリアス』第 XXI 巻で
 
-Altera pars acii vitassent fluminis undas.  「同じマティウスは XIII で
+Altera pars acii vitassent fluminis undas.
+
+「同じマティウスは XIII で
 
 An manet specii simulacrum in morte silentum.」
 
@@ -343,8 +371,8 @@ An manet specii simulacrum in morte silentum.」
 
 ディオメーデース I, 345 K:「グナエウス・マティウスは『イーリアス』第 XX 巻で
 
-Ille lnetans herbam moribundus delinet ore.」
-(「彼は死に瀕して草を口にくわえる。」)
+Ille hietans herbam moribundus detinet ore.」
+(「彼は口を開け、死に瀕して草を口にくわえる。」)
 
 ## p. XXIV
 
@@ -355,7 +383,9 @@ PDF page 38.
 プリスキアーヌス VII, p. 334 Hertz:「グナエウス・マティウスは『イーリアス』で
 
 celerissimus advolat Hector,」
-(「いと速きヘクトールが飛んで来る」)この言葉は、スカリゲルとともに XII, 462「そして輝けるヘクトールは跳び込んだ」(ὁ δ' ἄρ' ἔσθορε φαίδιμος Ἕκτωρ) に関係づけるよりも、ヴァルターとともに『イーリアス』VII, 1「輝けるヘクトールは飛び出した」(ἐξέσσυτο φαίδιμος Ἕκτωρ) に関係づけることにしよう。
+(「いと速きヘクトールが飛んで来る」)
+
+この言葉は、スカリゲルとともに XII, 462「そして輝けるヘクトールは跳び込んだ」(ὁ δ' ἄρ' ἔσθορε φαίδιμος Ἕκτωρ) に関係づけるよりも、ヴァルターとともに『イーリアス』VII, 1「輝けるヘクトールは飛び出した」(ἐξέσσυτο φαίδιμος Ἕκτωρ) に関係づけることにしよう。
 
 最後にカリシウス第 I 巻 117 K を見よ。そこではグナエウス・マティウスが『イーリアス』XV で *acrem* の代わりに *acrum* と言ったと伝えられている。
 
@@ -364,7 +394,9 @@ celerissimus advolat Hector,」
 さて次にニンニウス・クラッススを扱おう。彼はフーリウス・ビバクルスと同時代人であったと思われ、『イーリアス』を完全に六歩格の詩行でラテン語に移したと言われる。三行のみが残り、完全なのは二行だけで、一行は欠けている。ノニウス *fite* の項:「クラッスス、『イーリアス』第 XVI 巻:
 
 socii nunc fite viri.」
-(「仲間たちよ、今こそ男となれ。」)ヴァルターは『イーリアス』V, 529 ὦ φίλοι, ἀνέρες ἔστε(「友らよ、男であれ」)と比較する。プリスキアーヌス X, p. 503 Hertz:「ニンニウスは『イーリアス』第二巻で
+(「仲間たちよ、今こそ男となれ。」)
+
+ヴァルターは『イーリアス』V, 529 ὦ φίλοι, ἀνέρες ἔστε(「友らよ、男であれ」)と比較する。プリスキアーヌス X, p. 503 Hertz:「ニンニウスは『イーリアス』第二巻で
 
 Fecundo penetrat penitus thalamoque potitur.」
 (「彼は豊かな寝室の奥深くに入り、それを手に入れる。」)
@@ -401,7 +433,7 @@ PDF page 39.
 
 PDF page 40.
 
-深く親しみ、どれほどの愛情をもってそれを抱いていたかは、彼の著作の無数の箇所が十分に示している。そして彼は『イーリアス』と『オデュッセイア』の読書にすっかり浸っていたので、きわめて多くの詩行をあちこちで記憶から引用した。それゆえ時に誤りに陥ったとしても少しも驚くにはあたらない。たとえば『予言について』II, 30, 63 以下では、記憶違いによって、ホメーロス『イーリアス』II, 290 のようにウリクセースではなく、アガメムノーンを語り手として登場させた。また『名声について』の第二巻であった書では、ヘクトールの代わりにアイアースを引いて誤った¹。
+深く親しみ、どれほどの愛情をもってそれを抱いていたかは、彼の著作の無数の箇所が十分に示している。そして彼は『イーリアス』と『オデュッセイア』の読書にすっかり浸っていたので、きわめて多くの詩行をあちこちで記憶から引用した。それゆえ時に誤りに陥ったとしても少しも驚くにはあたらない。たとえば『予言について』II, 30, 63 以下では、記憶違いによって、ホメーロス『イーリアス』II, 299 のようにウリクセースではなく、アガメムノーンを語り手として登場させた。また『名声について』の第二巻であった書では、ヘクトールの代わりにアイアースを引いて誤った¹。
 
 キケローには、『イーリアス』から取られラテン語に移された詩行が七度²、『オデュッセイア』からは一度だけ³ 見出される。しかし後者からは、アウグスティーヌスが『神の国』で、マルクス・トゥッリウスがラテン語に移したさらに二行を伝えている⁴。これらはすべてよく知られているので、ここに掲げるつもりはない。バイターとカイザーの刊本第 XI 巻 p. 89 以下に集められており、容易に見出される。上ですでに称賛した、わが同国人の一人ヴィクトル・クラヴェルの、ギリシア人の翻訳者としてのマルクス・トゥッリウス・キケローに関する優れた著作も参照されたい。
 
@@ -425,13 +457,41 @@ O decus Argolicum, quin puppim flectis, Ulixes,
 
 Auribus ut nostros possis agnoscere cantus!
 
-Nam nemo haec umquam est transvectus caerula cursu Quin prius astiterit vocum dulcedine captus; Post, variis avido satiatus pectore Musis, Doctior ad patrias lapsus pervenerit oras. Nos grave certamen belli clademque tenemus Graecia quam Trojae divino numine vexit Omniaque e latis rerum vestigia terris. (「おおアルゴスの誉れ、ウリクセースよ、なぜ船尾を巡らさぬのか、われらの歌を耳で聞き知ることができるように! この青き海を船で渡り過ぎた者で、まず声の甘美さにとらえられて立ち止まらなかった者は一人もいない。その後、貪る胸をさまざまな詩歌に満たされて、より賢くなって故郷の岸へと滑り着いたのである。われらは戦の重き争いと、ギリシアが神意によってトロイアにもたらした破滅を知り、広き大地の上のあらゆる事柄の跡を知っている。」)ホメーロス『オデュッセイア』XII, 184–191 と比較せよ(ギリシア語は OCR で崩れている:「さあこちらへ来よ、誉れ高きオデュッセウス、アカイア人の大いなる栄光よ、船を止めて、われらの声を聞くがよい。黒い船でここを漕ぎ過ぎた者で、われらの口から出る蜜のように甘い声を聞かずに行った者はまだいない。その者は楽しんで、より多くを知って去ってゆく。われらは知っているのだ、広きトロイアで
+Nam nemo haec umquam est transvectus caerula cursu
 
-アルゴス人とトロイア人が神々の意志によって苦しんだすべてのことを。
+Quin prius astiterit vocum dulcedine captus;
 
-そして多くを養う大地の上で起こるすべてのことを。」)
+Post, variis avido satiatus pectore Musis,
 
-ギリシア語の八行が同数のラテン語の行で移されていること、しかしキケローの詩行には率直さとホメーロス的な色合いが欠けていること、意味があまり忠実にたどられていないこと、きわめて好ましいいくつかの語が無視され、あまり好ましくない語が加えられていることがわかるであろう。「黒い船」(νηῒ μελαίνῃ) は消え、*dulcedo vocum* は「蜜のように甘い声」(ὄπα μελίγηρυν) ほど甘く響かず、ホメーロスが繰り返した「われらは知っている」(ἴδμεν) をキケローは繰り返さなかった。私も否定はしない。しかしラテン語の詩行はある種の甘美さを漂わせており、拙く書かれたものとも、トゥッリウスがかつてそうであったよりも学識ある詩人にふさわしくないものとも、私には思われない。そして凡庸な詩人がかくも偉大な先導者の足跡を大きく遅れてしか追えなかったことを不思議に思うのは不当であろう。
+Doctior ad patrias lapsus pervenerit oras.
+
+Nos grave certamen belli clademque tenemus
+
+Graecia quam Trojae divino numine vexit
+
+Omniaque e latis rerum vestigia terris.
+(「おおアルゴスの誉れ、ウリクセースよ、なぜ船尾を巡らさぬのか、われらの歌を耳で聞き知ることができるように! この青き海を船で渡り過ぎた者で、まず声の甘美さにとらえられて立ち止まらなかった者は一人もいない。その後、貪る胸をさまざまな詩歌に満たされて、より賢くなって故郷の岸へと滑り着いたのである。われらは戦の重き争いと、ギリシアが神意によってトロイアにもたらした破滅を知り、広き大地の上のあらゆる事柄の跡を知っている。」)
+
+ホメーロス『オデュッセイア』XII, 184–191 と比較せよ。
+
+Δεῦρ' ἄγ' ἰών, πολύαιν' Ὀδυσεῦ, μέγα κῦδος Ἀχαιῶν,
+
+νῆα κατάστησον, ἵνα νωϊτέρην ὄπ' ἀκούσῃς.
+
+Οὐ γάρ πώ τις τῇδε παρήλασε νηῒ μελαίνῃ,
+
+πρίν γ' ἡμέων μελίγηρυν ἀπὸ στομάτων ὄπ' ἀκοῦσαι,
+
+ἀλλ' ὅγε τερψάμενος νεῖται καὶ πλείονα εἰδώς.
+
+Ἴδμεν γάρ τοι πάνθ', ὅσ' ἐνὶ Τροίῃ εὐρείῃ
+
+Ἀργεῖοι Τρῶές τε θεῶν ἰότητι μόγησαν·
+
+ἴδμεν δ', ὅσσα γένηται ἐπὶ χθονὶ πουλυβοτείρῃ.
+(「さあこちらへ来よ、誉れ高きオデュッセウス、アカイア人の大いなる栄光よ、船を止めて、われらの声を聞くがよい。黒い船でここを漕ぎ過ぎた者で、われらの口から出る蜜のように甘い声を聞かずに行った者はまだいない。その者は楽しんで、より多くを知って去ってゆく。われらは知っているのだ、広きトロイアでアルゴス人とトロイア人が神々の意志によって苦しんだすべてのことを。そして多くを養う大地の上で起こるすべてのことを。」)
+
+ギリシア語の八行が同数のラテン語の行で移されていること、しかしキケローの詩行には率直さとホメーロス的な色合いが欠けていること、意味があまり忠実にたどられていないこと、きわめて好ましいいくつかの語が無視され、あまり好ましくない語が加えられていることがわかるであろう。「黒い船」(νηῦς μέλαινα) は消え、*dulcedo vocum* は「蜜のように甘い声」(ὄψ μελίγηρυς) ほど甘く響かず、ホメーロスが繰り返した「われらは知っている」(ἴδμεν) をキケローは繰り返さなかった。私も否定はしない。しかしラテン語の詩行はある種の甘美さを漂わせており、拙く書かれたものとも、トゥッリウスがかつてそうであったよりも学識ある詩人にふさわしくないものとも、私には思われない。そして凡庸な詩人がかくも偉大な先導者の足跡を大きく遅れてしか追えなかったことを不思議に思うのは不当であろう。
 
 ## p. XXVIII
 
@@ -468,7 +528,8 @@ PDF page 43.
 
 これが『イーリアス』IV, 35 を指していることは明らかである。
 
-(ギリシア語は OCR で崩れている:「プリアモスとプリアモスの子らを生のまま食らう」¹。)
+ὠμὸν βεβρώθοις Πρίαμον Πριάμοιό τε παῖδας¹.
+(「プリアモスとプリアモスの子らを生のまま食らう」)
 
 私としては、ここで同じ権利をもって次の人々に言及すべきだとは考えない。ナーソー(オウィディウス)が「イーリオンの」と呼び²、ドゥーザがずっと以前にヴェローナのアエミリウス・マケルとは別人であると指摘したポンペイウス・マケル、アントーニウス・ルーフス³、カメリーヌス⁴、そしてオウィディウスが称えたその他の人々⁵ である。というのも彼らはホメーロスの詩行を解釈したのではなく、トロイアの事柄について自らの独自の詩を作ったからである。三頭政治家の子で、[建国紀元] 744 年の執政官ユーリウス・アントーニウスもまた同様であり、アクローがホラーティウス『歌章』IV, 2, 33 への注で教えるように、「英雄詩形で『ディオメーデイア』十二巻の優れた作品を書いた」。そこで、定めた道を進むために、今やイタリクスへと向かおう。
 
@@ -483,8 +544,10 @@ Iliacusque Macer sidereusque Pedo.
 
 Tu canis aeterno quicquid restabat Homero
 
-Ne careant summa Troica bella manu.  『恋の歌』II, 18, 1 以下:
+Ne careant summa Troica bella manu.
 (「君は永遠なるホメーロスに残されていたことを何であれ歌う、トロイアの戦が仕上げの手を欠かぬように。」)
+
+『恋の歌』II, 18, 1 以下:
 
 Carmen ad iratum dum tu perducis Achillen
 
@@ -514,33 +577,52 @@ PDF page 44.
 
 われらの詩人は個々の事柄においてホメーロスから大きく離れたが、それと同様に構成に関わる点でも大きな自由を用いた。彼は最初ためらいながら仕事に取りかかったように思われる。『イーリアス』を完全に移すべきか、それとも主要な出来事だけを扱い、残りはまったく無視すべきか、決めかねていたのである。前者のほうがより好ましかったが、後者のほうが彼の力に適していた。というのも、しばしば力が足りなかったか、あるいはイタリクスが縮約の十分に確固たる規則を自らに定めなかったかのどちらかだからである。疑うことのないよう、どうかこの比較に目を通されたい。
 
-第 I 巻は『イーリアス』では 611 行から成り、梗概では 110 行
-
-II 141
-
-92 45 149
-
-37
-
-75
-
-36 • — - 9 — — 45 — — 17 — _14
-
-— 7
-
-(巻ごとの行数の表は OCR で崩れている。)
+| 巻 | 『イーリアス』の行数 | 梗概の行数 |
+|---|---|---|
+| I | 611 | 110 |
+| II | 877 | 141 |
+| III | 461 | 92 |
+| IV | 544 | 45 |
+| V | 909 | 149 |
+| VI | 529 | 37 |
+| VII | 482 | 75 |
+| VIII | 565 | 36 |
+| IX | 713 | 9 |
+| X | 579 | 45 |
+| XI | 848 | 17 |
+| XII | 471 | 14 |
+| XIII | 837 | 7 |
 
 ## p. XXXI
 
 PDF page 45.
 
-XV
+| 巻 | 『イーリアス』の行数 | 梗概の行数 |
+|---|---|---|
+| XIV | 522 | 11 |
+| XV | 746 | 15 |
+| XVI | 867 | 31 |
+| XVII | 761 | 3 |
+| XVIII | 617 | 53 |
+| XIX と XX | 927 | 19 |
+| XXI | 611 | 20 |
+| XXII | 515 | 73 |
+| XXIII | 897 | 11 |
+| XXIV | 804 | 56 |
+
+次に、イタリクスがいくつかの事柄をホメーロスとは異なって語っていることから(その例はまもなく挙げる)、ここで黙って見過ごすべきではない難しい問題が生じる。すなわち、彼が目の前に置いていたのはギリシア語の『イーリアス』そのものであったのか、それともホメーロスの作品そのものではなく、古いラテン語訳の一つあるいはいくつかであったのか、という問題である。イタリクスがホメーロスの源泉のほかに他の源泉からもいくつかのことを引き出したことは確かであるが、ギリシア語の本文をまったく無視したのか、それとも何よりもホメーロスに従いながらも、他の人々が語った物語で記憶していたものを、急いでいたときにはおそらく知らず知らずのうちに、自らの詩に取り入れたのかは不確かである。この結び目を解くのに役立つものは何もない。私としては、この事柄で推測しうる限りでは、われらの詩人は多くの仕事と教師としての務めに追われ、余暇の時間に¹、とりわけ記憶に助けられながら、詩を少しずつ書いたのではないかと推測する。そして実際、見てのとおり、彼はギリシア人の慣用よりも、ラテン人、とりわけウェルギリウスとオウィディウスの慣用にはるかに多く従っていた²。いずれにせよ、イタリクスがホメーロスから離れたのは主として次の箇所においてである。
+
+78 行 — ホメーロスは I, 188 以下で、アキレウスが
+
+1. この見解を支持するのは、同じ語がかなり頻繁に繰り返されることである。12 *implicuit*、14 *implicitus*。14 *natae*、21 *nata*。14 *flevit*、18 *fletus*、22 *fletibus*。31 *sacras*、34 *sacros*、40 *sacros*。417 *nati*、419 *nato*。712、714 *manuque*。744 *mixtis*、746 *mixtus* など。
+
+2. このことは、人々や神々の名に添えられる、修飾的と呼ばれる形容語句に最もはっきりと現れている。それゆえ私はそれらを索引で太字で記した。
 
 ## p. XXXII
 
 PDF page 46.
 
-ミネルウァは、アガメムノーンがブリーセーイスを奪う前に、彼が王に向かって剣を抜くのを妨げた。われらの詩人は同じことを、乙女が連れ去られた後に置いている。
+アガメムノーンがブリーセーイスを奪う前に、王に向かって剣を抜くのをミネルウァによって妨げられたと語る。われらの詩人は同じことを、乙女が連れ去られた後に置いている。
 
 151 行 — イタリクスがここでネストールに与えている言葉は、ギリシア語本文ではウリクセースによって発せられる。II, 300。
 
@@ -566,37 +648,67 @@ PDF page 47.
 
 まずウェルギリウスから。
 
-58. Dixerat; exarsit subito violentia regis.
-
-『アエネーイス』XI, 376. Talibus exarsit dictis violentia Turni.  96. Dixit; at illa leves caeli delapsa per oras.
-
-(『アエネーイス』XI, 595 からそのまま繰り返されている。)  223. Cum pater ad Priamum mittit Saturnius Irim.  『アエネーイス』V, 606. Irim de caelo misit Saturnia Juno.  236. Et sacer Aeneas, Veneris certissima proles.  『アエネーイス』VI, 322. Anchisa generate, deum certissima proles.  255. Seque velut viso perterritus angue recepit…  『アエネーイス』II, 379. Improvisum aspris veluti qui sentibus anguem
-
-Pressit humi nitens…  311. Ultimus ille dies Paridis foret.  『アエネーイス』IX, 758. Ultimus ille dies bello gentique fuisset.  347. Te, Menelae, petens.  『アエネーイス』V, 840. Te, Palinure, petens.  569. Terribilemque fugit galeam cristasque comantes.  『アエネーイス』III, 468. Et conum insignis galeae cristasque comantes…  655. dextraque potenti
-
-Sustinet auratas aequato pondere lances
-
-[Achivum
-
-Fataque dura Phrygum casusque expendit  『アエネーイス』XII, 723. Juppiter ipse duas aequato pondere lances
-
-Sustinet, et fata imponit diversa duorum.  700. Qui secum tutae sublustri noctis in umbra.  『アエネーイス』IX, 372. …sublustri noctis in umbra.
+| 行 | 本文 |
+|---|---|
+| 58. | Dixerat; exarsit subito violentia regis. |
+| 『アエネーイス』XI, 376. | Talibus exarsit dictis violentia Turni. |
+| 96. | Dixit; at illa leves caeli delapsa per oras. |
+|  | (『アエネーイス』XI, 595 からそのまま繰り返されている。) |
+| 223. | Cum pater ad Priamum mittit Saturnius Irim. |
+| 『アエネーイス』V, 606. | Irim de caelo misit Saturnia Juno. |
+| 236. | Et sacer Aeneas, Veneris certissima proles. |
+| 『アエネーイス』VI, 322. | Anchisa generate, deum certissima proles. |
+| 255. | Seque velut viso perterritus angue recepit... |
+| 『アエネーイス』II, 379. | Improvisum aspris veluti qui sentibus anguem |
+|  | Pressit humi nitens... |
+| 311. | Ultimus ille dies Paridis foret. |
+| 『アエネーイス』IX, 758. | Ultimus ille dies bello gentique fuisset. |
+| 347. | Te Menelae, petens. |
+| 『アエネーイス』V, 840. | Te, Palinure, petens. |
+| 569. | Terribilemque fugit galeam cristasque comantes. |
+| 『アエネーイス』III, 468. | Et conum insignis galeae cristasque comantes... |
+| 655. | ......... dextraque potenti |
+|  | Sustinet auratas aequato pondere lances |
+|  | Fataque dura Phrygum casusque expendit Achivum. |
+| 『アエネーイス』XII, 723. | Juppiter ipse duas aequato pondere lances |
+|  | Sustinet, et fata imponit diversa duorum. |
+| 700. | Qui secum tutae sublustri noctis in umbra. |
+| 『アエネーイス』IX, 372. | ...sublustri noctis in umbra. |
 
 ## p. XXXIV
 
 PDF page 48.
 
-オウィディウスから:39. Cur o tua dextera cessat?  『変身物語』II, 279. Quid o tua fulmina cessant?  298. Non aliter fortes nitida de conjuge tauri…  『変身物語』IX, 46. Non aliter vidi fortes concurrere tauros.  316. Et secum in thalamos defert testudine cultos.  『変身物語』II, 737. Pars secreta domus ebore et testudine cultos
+オウィディウスから:
 
-Tres habuit thalamos.  321. Vidi puduitque videre.
+| 行 | 本文 |
+|---|---|
+| 39. | Cur o tua dextera cessat? |
+| 『変身物語』II, 279. | Quid o tua fulmina cessant? |
+| 298. | Non aliter fortes nitida de conjuge tauri... |
+| 『変身物語』IX, 46. | Non aliter vidi fortes concurrere tauros. |
+| 316. | Et secum in thalamos defert testudine cultos. |
+| 『変身物語』II, 737. | Pars secreta domus ebore et testudine cultos |
+|  | Tres habuit thalamos. |
+| 321. | Vidi puduitque videre. |
+|  | (『変身物語』XIII, 223 にも同様。) |
+| 821. | Nam licet ipse suis Mavors te protegat armis. |
+| 『変身物語』VIII, 394. | Ipsa suis licet hunc Latonia protegat armis. |
+| 872. | Oceanumque senem. |
+|  | (『変身物語』II, 510 を参照。) |
 
-(『変身物語』XIII, 223 にも同様。)  821. Nam licet ipse suis Mavors te protegat armis.  『変身物語』VIII, 394. Ipsa suis licet hunc Latonia protegat armis.  872. Oceanumque senem.
+オウィディウスとウェルギリウスから、イタリクスはこれらその他のものを自らの用に転じた。ホラーティウスやルクレーティウスからはごくわずかである。
 
-(『変身物語』II, 510 を参照。)オウィディウスとウェルギリウスから、イタリクスはこれらその他のものを自らの用に転じた。ホラーティウスやルクレーティウスからはごくわずかである。111. Nox erat et toto fulgebant sidera mundo¹.  ホラーティウス『エポーディー』15, 1: Nox erat et caelo fulgebat luna sereno.  109. Et dapibus divi curant sua corpora largis.  ルクレーティウス II, 31. Non magnis opibus jucunde corpora curant.  857. Excitat Aetnaeos calidis fornacibus ignes.  ルクレーティウス VI, 681. Flamma foras vastis Aetnae fornacibus efflet.
-
-(詩『アエトナ』第 1 行も加えよ:
-
-…ruptisque cavis fornacibus ignes.)
+| 行 | 本文 |
+|---|---|
+| 111. | Nox erat et toto fulgebant sidera mundo¹. |
+| ホラーティウス『エポーディー』15, 1: | Nox erat et caelo fulgebat luna sereno. |
+| 109. | Et dapibus divi curant sua corpora largis. |
+| ルクレーティウス II, 31. | Non magnis opibus jucunde corpora curant. |
+| 857. | Excitat Aetnaeos calidis fornacibus ignes. |
+| ルクレーティウス VI, 681. | Flamma foras vastis Aetnae fornacibus efflet. |
+|  | (詩『アエトナ』第 1 行も加えよ: |
+|  | ...ruptisque cavis fornacibus ignes.) |
 
 1. 三つの写本で読まれる *caelo*(校訂資料を参照)は、引用したホラーティウスの詩行が一見するとこれを支持する。そして私もかつてそう読んでいた。しかしより長く考えると見解を改めねばならない。ホラーティウスの詩行を覚えていたある学識ある人が、*mundo* という語の代わりに *caelo* という語を置くことはありえた。しかし *caelo* の代わりに *mundo* がここに侵入したというのはありそうにない。
 
@@ -700,7 +812,7 @@ PDF page 57.
 
 これら十三の書の完全な異読に、これまで未刊行であった、ブリュッセル写本一つとパリ写本二つの読みを、1–111 行と 1000–1070 行について、また最も疑わしい箇所についてはそれらの写本の他のいくつかの読みを加えた。
 
-T, ブリュッセル写本 2718、十五世紀、小四折判で、二十九葉にラテン語の『イーリアス』を保存する。各ページを二十行または十九行が占める。その後に *Tragedia Reneri a Druxella* が続く。題はないが、
+T, ブリュッセル写本 2718、十五世紀、小四折判で、二十九葉にラテン語の『イーリアス』を保存する。各ページを二十行または十九行が占める。その後に *Tragedia Reneri a Bruxella* が続く。題はないが、
 
 1. ただし時にはウォッシウス写本 (A) はミュンヘン写本 (M N) とより明らかに一致する。われわれの校訂資料の 326, 387, 667, 706, 764, 770 行などを見よ。アンナベルク写本、第一ライデン写本、ヘルムシュタット写本からは、テオドール・ファン・クーテンとルキアン・ミュラーがそれぞれ自らの刊本に付した校訂資料を調べた後でも、得るべき実りはほとんど見えないと告白する。
 
@@ -712,7 +824,7 @@ PDF page 58.
 
 C, パリ写本 lat. 8413、1403 年に書写、紙本。fol. 179–201 に詩の全体を持ち、それはかつて独立した一巻を成していた。1070 行の後、書写者は間を置かずに次のものを付け加えた。
 
-(f. 201 recto)
+(F° 201 recto)
 
 Pindarus hunc secum trans pontum uexit Homerum
 
@@ -720,17 +832,25 @@ Silicet orgiuum dedit esse poeta latinum
 
 Pindarus hunc librum fecit sectatus Homerum
 
-Pindarus Homeri transcribens carmina greci (f. 201 verso) Prelia conscripsit, sed sic sua carmina dixit ~
+Pindarus Homeri transcribens carmina greci
 
+(F° 201 verso)
+
+Prelia conscripsit, sed sic sua carmina dixit ÷
 (「ピンダロスはこのホメーロスを携えて海を渡った。すなわち詩人はアルゴスの[詩]をラテンのものとした。ピンダロスはホメーロスに従ってこの書を作った。ピンダロスはギリシアのホメーロスの詩を書き写して戦いを書き記したが、こうしてそれを自らの詩と呼んだ。」)
 
-神に感謝を、アーメン。私、(故?)ヨハンネス・デ・アリオティス(あるいは -cis)師の子マルクス(?)は、
+Deo gratias amen.
 
-ギリシア人によってなされたトロイアの破壊を含む、ギリシア語からラテン語に翻訳されたこのホメーロスを書いた。
+Ego marais filius (quondam?) magistri Iohannis
 
-四月の第七日、
+de Aliotis (vel -cis), scripsi hunc Homerum translatum
 
-千四百三年。
+de greco in latinam continentem destructionem troianam
+
+a grecis perpetratam. Die septimo mensis aprilis
+
+miliesimo quadringensesimo tercio.
+(「神に感謝を、アーメン。私、(故?)ヨハンネス・デ・アリオティス(あるいは -cis)師の子 marais は、ギリシア人によってなされたトロイアの破壊を含む、ギリシア語からラテン語に翻訳されたこのホメーロスを書いた。四月の第七日、千四百三年。」)
 
 その後に二つの墓碑銘が続く。一つはヘクトールの、もう一つはアキレウスのものである。この書は私のためにルイ・デュヴォー氏が照合してくれた。氏にここで心からの感謝の念を表明する。
 
@@ -740,7 +860,7 @@ Pindarus Homeri transcribens carmina greci (f. 201 verso) Prelia conscripsit, se
 
 PDF page 59.
 
-D, パリ写本 lat. 14909、十五世紀、一部は羊皮紙、一部は紙。fol. 61–82 に梗概を持ち、それはかつて独立した一巻を成していた。題を欠く。1–54 行を省き、fol. 61 に三分の一まで空白を残している。末尾に *Explicit Homeri Smirnensis vatis*(「スミュルナの詩人ホメーロスの[書]、終わる」)と読まれる。ルイ・デュヴォー氏が私のために照合してくれた。
+D, パリ写本 lat. 14909、十五世紀、一部は羊皮紙、一部は紙。fol. 61–82 に梗概を持ち、それはかつて独立した一巻を成していた。題を欠く。1–54 行を省き、fol. 61 に三分の一まで空白を残している。末尾に *Explicit Homeri Smirnensis uatis*(「スミュルナの詩人ホメーロスの[書]、終わる」)と読まれる。ルイ・デュヴォー氏が私のために照合してくれた。
 
 それゆえ私の校訂資料には十六の写本の異同が見出されるであろう。劣悪な書からさえいくつかを抜き出したのは、第一に、その務めを怠れば判断よりも怠惰に従ったと見られるのではないかと恐れたからであり、次に、ライデン写本とエアフルト写本以外のすべてがいかに滑りやすい信頼しか持たず、いかに多くのさまざまな誤りで汚されているかを見ると、どのようなものであれ補助を取り除くよりも提供するほうがよいと思われたからである。しかし、すでに重い校訂資料があまりに大きな量に押しつぶされないよう、かくも多くの写本からより有用な読みだけを記し、正書法上のもの、また書の権威を知るためにのみ役立つものはすべて省いた。事情の不運により、私が一つの写本も目にしていないことを考えれば、私がこの方法に従ったことを誰も不思議には思わないであろう。
 
@@ -772,7 +892,11 @@ PDF page 61.
 
 2. 『批評落穂集』において。ドルドレヒト、1771 年。
 
-3. Prodromus in Pindarum Thebanum, カンペン、1769 年。  4. 『批評試論』において。  5. Zeitschrift für die österreichischen Gymnasien, 1875 年、p. 243 以下。
+3. Prodromus in Pindarum Thebanum, カンペン、1769 年。
+
+4. 『批評試論』において。
+
+5. Zeitschrift für die österreichischen Gymnasien, 1875 年、p. 243 以下。
 
 ## p. XLVIII
 
@@ -786,11 +910,17 @@ PDF page 62.
 
 Pindarus hunc librum fecit sectatus homerum,
 
-Grecus homerus erat, sed pindarus ipse latinus.  (「ピンダロスはホメーロスに従ってこの書を作った。ホメーロスはギリシア人であったが、ピンダロス自身はラテン人であった。」)また十四世紀末のヴァティカン・パラティヌス 1611 写本にも、末尾に次のように読まれる。
+Grecus homerus erat, sed pindarus ipse latinus.
+(「ピンダロスはホメーロスに従ってこの書を作った。ホメーロスはギリシア人であったが、ピンダロス自身はラテン人であった。」)
+
+また十四世紀末のヴァティカン・パラティヌス 1611 写本にも、末尾に次のように読まれる。
 
 Pandarus hunc secum trans pontum uexit homerum,
 
-Scilicet argiuum dedit esse poema latinum.  (「パンダロスはこのホメーロスを携えて海を渡った。すなわちアルゴスの詩をラテンの詩とした。」)ベーレンスが正しく見たように、*Pandarus* が書写者の作り事によってここに生じたのであり、サンテン写本から *Pindarus* を復元すべきことは疑いない。その書においては、変えられているとはいえ、われわれが上でヴァイティングの序文から引いた奥書をきわめて容易にすでに認めたであろう。
+Scilicet argiuum dedit esse poema latinum.
+(「パンダロスはこのホメーロスを携えて海を渡った。すなわちアルゴスの詩をラテンの詩とした。」)
+
+ベーレンスが正しく見たように、*Pandarus* が書写者の作り事によってここに生じたのであり、サンテン写本から *Pindarus* を復元すべきことは疑いない。その書においては、変えられているとはいえ、われわれが上でヴァイティングの序文から引いた奥書をきわめて容易にすでに認めたであろう。
 
 Pindarus hunc secum trans pontum uexit homerum,
 
@@ -808,14 +938,17 @@ Silicet orgiuum dedit esse poeta latinum
 
 Pindarus hunc librum fecit sectatus Homerum
 
-Pindarus Homeri transcribens carmina greci.  これらのことを、十三世紀にトリンベルクのフーゴもまた「多くの著作家の目録」において次のように記した。「ここにはより低い位置がこのホメーロスに与えられている。哲学者ピンダロスが彼を翻訳し、ラテンの教師たちのために韻文に移したと言われる。」最後に、アルバ司教ベンゾが 1087 年頃に書いたある詩を見れば、ピンダロスの名がすでに十一世紀に広まっていたことが確かめられるであろう。
+Pindarus Homeri transcribens carmina greci.
+
+これらのことを、十三世紀にトリンベルクのフーゴもまた「多くの著作家の目録」において次のように記した。「ここにはより低い位置がこのホメーロスに与えられている。哲学者ピンダロスが彼を翻訳し、ラテンの教師たちのために韻文に移したと言われる。」最後に、アルバ司教ベンゾが 1087 年頃に書いたある詩を見れば、ピンダロスの名がすでに十一世紀に広まっていたことが確かめられるであろう。
 
 しかしエアフルト写本では *incipit liber homeri* としか読まれず、ライデン写本では *incipit liber omeri*、ヴォルフェンビュッテル写本では *incipit homerus*、ミュンヘン 19462 写本では *de bello troyano homerus* である。九世紀から十一世紀にかけて作られた写本目録には、ベーレンスが見逃さなかったように、*Omerus* がかなりしばしば挙げられており、850 年頃に書かれたグリモルドゥス宛書簡で、エルヴァンゲンのエルメンリクスは、われらの梗概の第 7 行を引用するにあたり、「ホメーロスの『イーリアス』にあるように」という言葉しか用いていない。ベテューヌのエベルハルドゥスも、スターティウス『テーバイス』VI, 120 の古い注釈者ルクタティウスすなわちラクタンティウスも、ピンダロスの名もそれに類するものも持ち出していない。
 
 ヴェルンスドルフは最初、かのピンダロスのうちにペンタディウスを見出すよう命じた。次いでペンタディウスではなくアウィエーヌスを選んだ後、別の仕方で事柄を説明しようと試みた。トロイアの将の一人であるかのパンダロスはよく知られている。彼は
 
-「リュカーオーンの誉れ高き子
-パンダロス、アポッローン自らが弓を与えた者」¹、
+Λυκάονος ἀγλαὸς υἱὸς
+Πάνδαρος, ᾧ καὶ τόξον Ἀπόλλων αὐτὸς ἔδωκεν¹,
+(「リュカーオーンの誉れ高き子パンダロス、アポッローン自らが弓を与えた者」)
 
 1. 『イーリアス』II, 826。
 
@@ -829,7 +962,7 @@ PDF page 64.
 
 サンテン写本、ヴァティカン・パラティヌス写本、パリ写本に見出される、海を越えて運ばれたホメーロスについての記述は、正確に分別をもって読む者にとっては、思うに、ほとんど苦労の種にならないであろう。ホメーロスの詩が、海が隔てるギリシアからイタリアへもたらされた、と理解すべきである。白状すれば、事柄はきわめて拙い言葉で表されている。なお、これらを取るに足らぬものと考え、今やピンダロスの名を消し去ろう。
 
-1. 『イーリアス』IV, 85–126。
+1. 同 IV, 85–126。
 
 2. 同 V, 166–310。
 
