@@ -79,21 +79,27 @@ translation, differs in three places:
   According to Vollmer's apparatus, the verse is *Instaurantque manus,
   cedit Pelopeia uirtus*; it is absent from most manuscripts and stands
   in the text of Munich lat. 5594 and of the edition Vollmer calls X,
-  and in the margin of others [6].
-- Book 16 has a verse 827a that The Latin Library lacks.
+  and in the margin of others [6].  Baehrens prints it in square
+  brackets [3], Plessis below the text [4].
+- Book 16 has a verse 827a that The Latin Library lacks.  Plessis prints
+  it in square brackets as 827 bis (*Obicit et saxum magno cum robore
+  missum*) [4].
 - Verse 597 (*alterni librant gladios et uulnera miscent*) is moved after
   601.  In the manuscript order it interrupts the simile of the fighting
   boars (595–600); after 601 it completes the sentence *Tales Priamides
   ardorque Aiacis in armis …* that applies the simile to Hector and Ajax.
-  Vollmer also prints the verse after 601 [6].
+  Vollmer also prints the verse after 601 [6]; Plessis prints it below
+  the text as a gloss ("nihil hoc nisi glossema est") [4].
 
-The numbering of Vollmer and Baehrens, as far as it differs from The
-Latin Library, is described with their texts
+The numbering of Vollmer, Baehrens and Plessis, as far as it differs
+from The Latin Library, is described with their texts
 ([texts/6-vollmer/](texts/6-vollmer/README.md),
-[texts/3-baehrens/](texts/3-baehrens/README.md)); for example, Baehrens
-omits verse 69 and counts a lacuna as 80.  The editions have not yet
-been compared as a whole, in their numbering or in their book
-divisions.
+[texts/3-baehrens/](texts/3-baehrens/README.md),
+[texts/4-plessis/](texts/4-plessis/README.md)); for example, Baehrens
+omits verse 69 and counts a lacuna as 80, while Plessis keeps the same
+numbers and prints the verses he rejects, such as 69, below the text.
+The editions have not yet been compared as a whole, in their numbering
+or in their book divisions.
 
 The proportions are very uneven: books 1–5 take 537 verses, just over
 half, while book 13 has seven verses and book 17 three [5].
@@ -139,8 +145,8 @@ A. van Dorp, J. Schrader, E. W. Higt, J. van der Dussen 1769, A. de Booy
 1771).  Wernsdorf collected it in *Poetae Latini Minores* IV (1784),
 reprinted by Lemaire [2]; the edition of Th. van Kooten was completed by
 H. Weytingh (Leiden and Amsterdam, 1809, according to Vollmer [6];
-Baehrens gives Amsterdam, 1806 [3]).  Critical editions followed from L. Müller,
-Baehrens [3], Plessis [4] and Vollmer [6].  Modern editions and
+Baehrens gives Amsterdam, 1806 [3]).  Critical editions followed from
+L. Müller, Baehrens [3], Plessis [4] and Vollmer [6].  Modern editions and
 commentaries include Scaffai (1982; 2nd ed. 1997), Kennedy (1998),
 Perkins (2006), Falcone & Schubert (2022) and Green (2025).
 
@@ -162,6 +168,7 @@ This repository provides helper tools for preparing the commentary:
   [texts/ilias.txt](texts/ilias.txt).
 - Organize the public-domain editions for reference by page and verse
   (so far Baehrens [3]: [texts/3-baehrens/](texts/3-baehrens/README.md);
+  Plessis [4]: [texts/4-plessis/](texts/4-plessis/README.md);
   Vollmer [6]: [texts/6-vollmer/](texts/6-vollmer/README.md)).
 - Optionally, align the Portuguese translation with it verse by verse
   into a parallel text, as an aid for checking the content.
@@ -228,13 +235,16 @@ Public-domain books on archive.org.
 
 4. Frédéric Plessis (ed.), [*Italici Ilias Latina*](https://archive.org/details/italiciiliaslati00plesuoft).
    Paris: Hachette, 1885.  Edition of the poem.
-   - A Latin thesis with a full introduction (pp. V–LV): the name of the
+   - A Latin thesis with a full introduction (pp. V–LI): the name of the
      author, the date, the Silius Italicus question; Latin translations
      of Homer at Rome; the method, talent and purpose of the poem
      (imitation of Vergil and Ovid, errors, how it abridges); manuscripts
      and editions; the false name Pindarus.
-   - The apparatus gives the readings of 13 manuscripts and some
-     parallels in the *Iliad*.
+   - The apparatus gives the readings of 13 manuscripts throughout and
+     of three more (T C D) in part (p. XLIII); separate notes give the
+     conjectures of earlier editors and some parallels in the *Iliad*.
+   - Verses held to be spurious are printed below the text, with a
+     short remark.
    - An index of names and subjects lists, for each name, the verses
      where it occurs with a short account of each scene.
 

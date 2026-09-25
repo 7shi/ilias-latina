@@ -6,6 +6,9 @@ reference in its own directory:
 
 - [3-baehrens/](3-baehrens/README.md) — Baehrens's edition: preface, text
   with the book numbers in the margin and the apparatus.
+- [4-plessis/](4-plessis/README.md) — Plessis's edition: preface,
+  introduction, text with the readings of the manuscripts and the notes,
+  index of names and subjects.
 - [6-vollmer/](6-vollmer/README.md) — Vollmer's edition: preface, text
   with the *Iliad* lines in the margin and the apparatus, index of names.
 

@@ -51,8 +51,11 @@ data and checked by hand against the page images on archive.org.
    transposed verses and differences in the book divisions.  Known so
    far: Vollmer prints 597 after 601, as Scaffai does, and 790 after
    794; Baehrens omits 69, counts a lacuna as 80 (so his 69–79 are
-   70–80 here), and exchanges 107 and 109 and 873 and 874.  All other tables are
-   keyed to The Latin Library numbering through this concordance.
+   70–80 here), and exchanges 107 and 109 and 873 and 874; Plessis keeps
+   the numbers, prints the verses he rejects below the text, puts 108
+   after 110 and 874 before 873, and adds 245 bis, 827 bis and a lacuna
+   869 bis.  All other tables are keyed to The Latin Library numbering
+   through this concordance.
 2. From Vollmer [6]: extract the Iliad line numbers from the margin and
    build a table *Latin verse → Iliad lines*.  This also gives the list of
    passages with no Homeric counterpart.
@@ -93,13 +96,16 @@ data and checked by hand against the page images on archive.org.
   Quotations, verse numbers, *Iliad* line numbers and sigla are always
   checked before they are used.
 - Conventions for the corrected text: the sigla as printed, with Greek
-  letters for the editions and the archetype (Ω, α β δ φ λ) and
-  superscript numerals for the hands of a manuscript (G¹, W²); `|` for
-  the separator between readings; abbreviation marks of a manuscript
-  kept where printed (e.g. *Aptũ*).  Signs particular to one edition are
-  described in its README (e.g. Baehrens's bold 0 for the manuscripts
-  together, written as a plain 0, and ς for the later manuscripts, in
-  `texts/3-baehrens/README.md`).
+  letters for the editions and the archetype (Ω, α β δ φ λ); the hands
+  of a manuscript as each edition prints them (superscript numerals in
+  Vollmer, G¹, W²; *m. 2* in Baehrens; *m 2* in Plessis); `|` for the
+  separator between readings; abbreviation marks of a manuscript kept
+  where printed (e.g. *Aptũ*).  A literal `<` (angle brackets for
+  supplied words, `<que>`) is written `\<` and `|` in a table `\|`, so
+  that they are not taken for markup.  Signs particular to one edition
+  are described in its README (e.g. Baehrens's bold 0 for the
+  manuscripts together, written as a plain 0, and ς for the later
+  manuscripts, in `texts/3-baehrens/README.md`).
 
 ## Layout
 
@@ -142,8 +148,8 @@ divisions and is used only as an aid for checking the content.
    preface, and the indexes.  The OCR text is the basis and is corrected
    by hand afterwards (see
    [Editing the processed texts](#editing-the-processed-texts)).
-   Done for Vollmer (`texts/6-vollmer/`) and Baehrens
-   (`texts/3-baehrens/`).
+   Done for Vollmer (`texts/6-vollmer/`), Baehrens
+   (`texts/3-baehrens/`) and Plessis (`texts/4-plessis/`).
 3. Collate the sources (steps 1–4 of
    [Preparing the sources](#preparing-the-sources)): the verse
    concordance, the book divisions of the editions (adjusting

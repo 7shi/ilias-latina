@@ -4,8 +4,9 @@ Scripts that build the Latin text, organize the public-domain editions
 for reference, and build the Portuguese translation and the parallel
 text.  All outputs go into `tmp/` (ignored by git), except `make text`,
 which writes the published text `../texts/ilias.txt`, and `make
-vollmer` and `make baehrens`, which write `../texts/6-vollmer/` and
-`../texts/3-baehrens/` once.
+vollmer`, `make baehrens` and `make plessis`, which write
+`../texts/6-vollmer/`, `../texts/3-baehrens/` and `../texts/4-plessis/`
+once.
 
 ## Requirements
 
@@ -23,6 +24,7 @@ make all            # download the Latin text and number the verses
 make text           # add the book headings (../texts/ilias.txt)
 make vollmer        # extract Vollmer's edition once (../texts/6-vollmer/)
 make baehrens       # extract Baehrens's edition once (../texts/3-baehrens/)
+make plessis        # extract Plessis's edition once (../texts/4-plessis/)
 ```
 
 To process the Portuguese edition, put the PDF anywhere (for example in
@@ -44,6 +46,7 @@ make parts PDF="tmp/book.pdf"   # split the whole book into sections
 | `text` | `../texts/ilias.txt` — the same with `## N` book headings | `books.py` |
 | `vollmer` | `../texts/6-vollmer/*.md` — Vollmer's edition by page (downloads the scan to `tmp/`) | `vollmer.py` |
 | `baehrens` | `../texts/3-baehrens/*.md` — Baehrens's edition by page (downloads the scan to `tmp/`) | `baehrens.py` |
+| `plessis` | `../texts/4-plessis/*.md` — Plessis's edition by page (downloads the scan to `tmp/`) | `plessis.py` |
 | `pt` | `ilias_pt.txt` — Portuguese translation, `LABEL TEXT` per verse | `extract_pt.py` |
 | | `ilias_la_pt.txt` — Latin and Portuguese interleaved | `parallel.py` |
 | `parts` | `parts/NN_name.txt` — the book split at its section headings | `split_pt.py` |
@@ -56,6 +59,7 @@ uv run python extract.py tmp/ilias.html tmp/ilias.txt
 uv run python books.py tmp/ilias.txt ../texts/ilias.txt
 uv run python vollmer.py tmp/6-p1poetaelatinimi02baeh.pdf tmp/ilias.txt ../texts/6-vollmer
 uv run python baehrens.py tmp/3-poetaelatinimino34baeh.pdf tmp/ilias.txt ../texts/3-baehrens
+uv run python plessis.py tmp/4-italiciiliaslati00plesuoft.pdf tmp/ilias.txt ../texts/4-plessis
 uv run python extract_pt.py [-v] BOOK.pdf tmp/ilias_pt.txt
 uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 uv run python split_pt.py BOOK.pdf tmp/parts
@@ -144,6 +148,42 @@ matching, splitting verses from notes).  What differs:
   a misread number does not hide the rest.
 - As with Vollmer, `make baehrens` does nothing when
   `../texts/3-baehrens/ilias.md` exists.
+
+## Plessis's edition
+
+`plessis.py` imports the common functions from `vollmer.py` (reading
+the words, numbering the verses by matching) and the slope of a
+slanted page from `baehrens.py`.  What differs:
+
+- The bold sigla and the double bars of the readings are placed by the
+  OCR a little below their row, so the words are grouped into rows by
+  the middle of their height; a row of marks alone joins the row above,
+  and a part of a row set a little lower joins it if their words do not
+  overlap.
+- Each book begins on a new page with its number as a heading.  The
+  verses end at the first wide gap (the rule).  Below it the rows are
+  split into blocks at the wider gaps: the verses that Plessis leaves
+  out of the text, with a remark (only on some pages); the readings of
+  the manuscripts, the first block with double bars; and the notes in
+  small type, which begin where the rows start further left than the
+  indented rows of the readings.
+- The verses printed below the text are matched with the verses within
+  40 of the count without moving it on; one that matches none takes its
+  printed number (791).  A verse numbered "bis" has no verse of The
+  Latin Library unless it matches one (874 as "863 bis").
+- The readings are split at the verse numbers after a double bar or
+  after the end of an item, taking the longest ascending series as in
+  `baehrens.py`; the notes at rows that are indented or begin with a
+  number.
+- The preface and the introduction are split into paragraphs at the
+  indented rows, measured against the left edge of the nearby rows, as
+  the edge drifts on a slanted page.  The index is read column by
+  column, with the gutter where the fewest words cross; an entry begins
+  at the left edge, each row being compared with the one before it.
+- The list of manuscripts (p. 2) is not in the text layer and is left
+  to be transcribed by hand.
+- As with Vollmer, `make plessis` does nothing when
+  `../texts/4-plessis/ilias.md` exists.
 
 ## How the PDF is read
 
