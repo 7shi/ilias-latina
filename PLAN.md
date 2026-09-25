@@ -54,14 +54,18 @@ data and checked by hand against the page images on archive.org.
    70–80 here), and exchanges 107 and 109 and 873 and 874; Plessis keeps
    the numbers, prints the verses he rejects below the text, puts 108
    after 110 and 874 before 873, and adds 245 bis, 827 bis and a lacuna
-   869 bis.  All other tables are keyed to The Latin Library numbering
-   through this concordance.
+   869 bis; Wernsdorf (Lemaire) counts 1075 verses, adding six (among
+   them 827 bis) and one in place of 957, joining 84–85 in one verse,
+   and putting 597 before 595 and 936 before 935.  All other tables
+   are keyed to The Latin Library numbering through this concordance.
 2. From Vollmer [6]: extract the Iliad line numbers from the margin and
    build a table *Latin verse → Iliad lines*.  This also gives the list of
    passages with no Homeric counterpart.
 3. From Plessis [4]: turn the index into a table *name → verses*.
-4. From Lemaire [2]: split Wernsdorf's notes by the verse number or lemma
-   they begin with, so they can be looked up per verse.
+4. From Lemaire [2]: Wernsdorf's notes are split by the verse number they
+   begin with (his own numbering) in `texts/2-lemaire/ilias.md`; key them
+   to The Latin Library numbering and supply the labels that the OCR
+   could not read, so they can be looked up per verse.
 5. Publish these tables and the cleaned texts in the repository.  The
    sources are in the public domain, so processed texts derived from them
    can be published.
@@ -73,7 +77,8 @@ data and checked by hand against the page images on archive.org.
   structured text from the OCR (see [Order of work](#order-of-work) and
   [Editing the processed texts](#editing-the-processed-texts)).  The
   PDFs of [3], [4] and [6] also have a text layer that can be searched
-  page by page; [2] has none.
+  page by page; [2] has none, and its OCR is read from the hOCR file of
+  the scan on archive.org.
 - OCR text only: Spondanus [1] (text without notes, cited only as
   evidence of the attribution) and Butler [5] (a few pages on the poem).
 - [3] and [6] contain several volumes or fascicles, so the pages of the
@@ -149,7 +154,8 @@ divisions and is used only as an aid for checking the content.
    by hand afterwards (see
    [Editing the processed texts](#editing-the-processed-texts)).
    Done for Vollmer (`texts/6-vollmer/`), Baehrens
-   (`texts/3-baehrens/`) and Plessis (`texts/4-plessis/`).
+   (`texts/3-baehrens/`), Plessis (`texts/4-plessis/`) and Lemaire
+   (`texts/2-lemaire/`).
 3. Collate the sources (steps 1–4 of
    [Preparing the sources](#preparing-the-sources)): the verse
    concordance, the book divisions of the editions (adjusting

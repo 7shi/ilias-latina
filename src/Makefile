@@ -3,6 +3,7 @@ ARCHIVE = https://archive.org/download
 VOLLMER = p1poetaelatinimi02baeh
 BAEHRENS = poetaelatinimino34baeh
 PLESSIS = italiciiliaslati00plesuoft
+LEMAIRE = poetaelatinimin00unkngoog
 PDF =
 CHECK_PDF = @test -n "$(PDF)" || { echo 'usage: make $@ PDF="path/to/book.pdf"'; exit 1; }
 
@@ -22,6 +23,8 @@ vollmer: ../texts/6-vollmer/ilias.md ## Extract Vollmer's edition once (texts/6-
 baehrens: ../texts/3-baehrens/ilias.md ## Extract Baehrens's edition once (texts/3-baehrens)
 
 plessis: ../texts/4-plessis/ilias.md ## Extract Plessis's edition once (texts/4-plessis)
+
+lemaire: ../texts/2-lemaire/ilias.md ## Extract Lemaire's edition once (texts/2-lemaire)
 
 download: tmp/ilias.html ## Download the Latin text from The Latin Library
 
@@ -62,6 +65,15 @@ tmp/4-$(PLESSIS).pdf:
 	mkdir -p ../texts/4-plessis
 	uv run python plessis.py tmp/4-$(PLESSIS).pdf tmp/ilias.txt ../texts/4-plessis
 
+# The PDF of this scan has no text layer, so the OCR is read from the hOCR.
+tmp/2-$(LEMAIRE)_hocr.html:
+	mkdir -p tmp
+	curl -fsSL -o $@ $(ARCHIVE)/$(LEMAIRE)/$(LEMAIRE)_hocr.html
+
+../texts/2-lemaire/ilias.md: | tmp/2-$(LEMAIRE)_hocr.html tmp/ilias.txt
+	mkdir -p ../texts/2-lemaire
+	uv run python lemaire.py tmp/2-$(LEMAIRE)_hocr.html tmp/ilias.txt ../texts/2-lemaire
+
 pt: tmp/ilias.txt extract_pt.py parallel.py ## Extract numbered translation and parallel text (PDF=...)
 	$(CHECK_PDF)
 	uv run python extract_pt.py "$(PDF)" tmp/ilias_pt.txt
@@ -71,4 +83,4 @@ parts: split_pt.py ## Split the PDF text into sections in tmp/parts (PDF=...)
 	$(CHECK_PDF)
 	uv run python split_pt.py "$(PDF)" tmp/parts
 
-.PHONY: help all text vollmer baehrens plessis download pt parts
+.PHONY: help all text vollmer baehrens plessis lemaire download pt parts

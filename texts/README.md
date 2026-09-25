@@ -4,6 +4,8 @@ Processed texts from the public-domain sources.  Each edition in the
 [Internet Archive](../README.md#internet-archive) list is organized for
 reference in its own directory:
 
+- [2-lemaire/](2-lemaire/README.md) — Lemaire's reprint of Wernsdorf's
+  edition: prooemium, testimonia, text with Wernsdorf's notes, excursus.
 - [3-baehrens/](3-baehrens/README.md) — Baehrens's edition: preface, text
   with the book numbers in the margin and the apparatus.
 - [4-plessis/](4-plessis/README.md) — Plessis's edition: preface,

@@ -4,9 +4,9 @@ Scripts that build the Latin text, organize the public-domain editions
 for reference, and build the Portuguese translation and the parallel
 text.  All outputs go into `tmp/` (ignored by git), except `make text`,
 which writes the published text `../texts/ilias.txt`, and `make
-vollmer`, `make baehrens` and `make plessis`, which write
-`../texts/6-vollmer/`, `../texts/3-baehrens/` and `../texts/4-plessis/`
-once.
+vollmer`, `make baehrens`, `make plessis` and `make lemaire`, which
+write `../texts/6-vollmer/`, `../texts/3-baehrens/`, `../texts/4-plessis/`
+and `../texts/2-lemaire/` once.
 
 ## Requirements
 
@@ -25,6 +25,7 @@ make text           # add the book headings (../texts/ilias.txt)
 make vollmer        # extract Vollmer's edition once (../texts/6-vollmer/)
 make baehrens       # extract Baehrens's edition once (../texts/3-baehrens/)
 make plessis        # extract Plessis's edition once (../texts/4-plessis/)
+make lemaire        # extract Lemaire's edition once (../texts/2-lemaire/)
 ```
 
 To process the Portuguese edition, put the PDF anywhere (for example in
@@ -47,6 +48,7 @@ make parts PDF="tmp/book.pdf"   # split the whole book into sections
 | `vollmer` | `../texts/6-vollmer/*.md` — Vollmer's edition by page (downloads the scan to `tmp/`) | `vollmer.py` |
 | `baehrens` | `../texts/3-baehrens/*.md` — Baehrens's edition by page (downloads the scan to `tmp/`) | `baehrens.py` |
 | `plessis` | `../texts/4-plessis/*.md` — Plessis's edition by page (downloads the scan to `tmp/`) | `plessis.py` |
+| `lemaire` | `../texts/2-lemaire/*.md` — Lemaire's edition by page (downloads the OCR of the scan to `tmp/`) | `lemaire.py` |
 | `pt` | `ilias_pt.txt` — Portuguese translation, `LABEL TEXT` per verse | `extract_pt.py` |
 | | `ilias_la_pt.txt` — Latin and Portuguese interleaved | `parallel.py` |
 | `parts` | `parts/NN_name.txt` — the book split at its section headings | `split_pt.py` |
@@ -60,6 +62,7 @@ uv run python books.py tmp/ilias.txt ../texts/ilias.txt
 uv run python vollmer.py tmp/6-p1poetaelatinimi02baeh.pdf tmp/ilias.txt ../texts/6-vollmer
 uv run python baehrens.py tmp/3-poetaelatinimino34baeh.pdf tmp/ilias.txt ../texts/3-baehrens
 uv run python plessis.py tmp/4-italiciiliaslati00plesuoft.pdf tmp/ilias.txt ../texts/4-plessis
+uv run python lemaire.py tmp/2-poetaelatinimin00unkngoog_hocr.html tmp/ilias.txt ../texts/2-lemaire
 uv run python extract_pt.py [-v] BOOK.pdf tmp/ilias_pt.txt
 uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 uv run python split_pt.py BOOK.pdf tmp/parts
@@ -184,6 +187,41 @@ slanted page from `baehrens.py`.  What differs:
   to be transcribed by hand.
 - As with Vollmer, `make plessis` does nothing when
   `../texts/4-plessis/ilias.md` exists.
+
+## Lemaire's edition
+
+The PDF of this scan has no text layer, so `lemaire.py` reads the OCR
+of the scan from its hOCR file on archive.org (`_hocr.html`, made with
+ABBYY FineReader), which gives the position of every word grouped into
+lines and blocks.  It imports `Numberer` and the text helpers from
+`vollmer.py`; the rest differs:
+
+- The running head is the top line with anything level with it (the
+  OCR sometimes puts the page number in a block of its own).  The
+  "Digitized by Google" stamp, the ornamental rules and the printer's
+  signatures are dropped; a drop capital is joined to its word.
+- On a text page the verses are the lines above the note columns (the
+  blocks in the left or right half of the page).  Each verse is
+  numbered by matching, and Wernsdorf's own number is counted from the
+  rows.  The verses that The Latin Library does not have and 791 are
+  given in `VERSE_FIXES`.  The verse number in the margin is a block
+  of its own or joined to the verse; on every fifth verse a short last
+  word that may be a figure is moved to the margin, and the numbers
+  that disagree with the count are reported on stderr.
+- The notes begin on indented lines of the columns.  Their labels are
+  old-style figures that the OCR misreads, so each character is given
+  the figures it may stand for (`FIGURES`, e.g. "S" for 5 or 8, and
+  1, 3 or 9 for 2); of the readings that fall among the verses of the
+  page, in order, the one whose verse contains the lemma is taken,
+  else the one with the fewest substitutions.
+- In the prose a paragraph begins after a line that ends short of the
+  right edge (measured against nearby lines, as the edges drift on a
+  slanted page), not at an indent, as the testimonia have hanging
+  indents; quoted verses (indented, short and in smaller type) are
+  kept one per line.  ABBYY's own paragraphs are not used, as they join
+  quotations to the prose around them.
+- As with Vollmer, `make lemaire` does nothing when
+  `../texts/2-lemaire/ilias.md` exists.
 
 ## How the PDF is read
 

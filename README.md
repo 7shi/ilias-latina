@@ -91,13 +91,16 @@ translation, differs in three places:
   Vollmer also prints the verse after 601 [6]; Plessis prints it below
   the text as a gloss ("nihil hoc nisi glossema est") [4].
 
-The numbering of Vollmer, Baehrens and Plessis, as far as it differs
-from The Latin Library, is described with their texts
+The numbering of Vollmer, Baehrens, Plessis and Wernsdorf (Lemaire), as
+far as it differs from The Latin Library, is described with their texts
 ([texts/6-vollmer/](texts/6-vollmer/README.md),
 [texts/3-baehrens/](texts/3-baehrens/README.md),
-[texts/4-plessis/](texts/4-plessis/README.md)); for example, Baehrens
-omits verse 69 and counts a lacuna as 80, while Plessis keeps the same
-numbers and prints the verses he rejects, such as 69, below the text.
+[texts/4-plessis/](texts/4-plessis/README.md),
+[texts/2-lemaire/](texts/2-lemaire/README.md)); for example, Baehrens
+omits verse 69 and counts a lacuna as 80, Plessis keeps the same
+numbers and prints the verses he rejects, such as 69, below the text,
+and Wernsdorf counts 1075 verses, with seven that The Latin Library
+does not have.
 The editions have not yet been compared as a whole, in their numbering
 or in their book divisions.
 
@@ -167,7 +170,8 @@ This repository provides helper tools for preparing the commentary:
 - Add the headings of the 24 books to it and write
   [texts/ilias.txt](texts/ilias.txt).
 - Organize the public-domain editions for reference by page and verse
-  (so far Baehrens [3]: [texts/3-baehrens/](texts/3-baehrens/README.md);
+  (Lemaire [2]: [texts/2-lemaire/](texts/2-lemaire/README.md);
+  Baehrens [3]: [texts/3-baehrens/](texts/3-baehrens/README.md);
   Plessis [4]: [texts/4-plessis/](texts/4-plessis/README.md);
   Vollmer [6]: [texts/6-vollmer/](texts/6-vollmer/README.md)).
 - Optionally, align the Portuguese translation with it verse by verse
@@ -211,15 +215,18 @@ Public-domain books on archive.org.
 
 2. N. E. Lemaire (ed.), [*Poetae Latini Minores*, vol. 3](https://archive.org/details/poetaelatinimin00unkngoog).
    Paris: Lemaire, 1824.  Reprints Wernsdorf's edition (1784) of the poem
-   as *Pindarus Thebanus, Epitome Iliadis Homeri*.
+   as *Incerti auctoris (vulgo Pindari Thebani) Epitome Iliados Homeri*.
    - The only running commentary among these books: Latin notes on each
      passage with parallels from Vergil, Ovid, Statius, Valerius Flaccus
-     and others, and discussion of readings.
-   - *De Epitome Iliados Homeri ejusque auctore*: ancient and later
-     testimonia and judgements on the poem.
-   - Wernsdorf's argument for Avienus as the author and against the name
-     Pindarus Thebanus; outdated, but useful for the history of the
-     question.
+     and others, and discussion of readings, keyed to Wernsdorf's own
+     numbering (1075 verses).  Four excursus discuss difficult passages.
+   - A long prooemium (pp. 455–507): Wernsdorf's argument for Avienus
+     as the author (giving up his earlier Pentadius, p. 468) and against
+     the name Pindarus Thebanus, outdated but useful for the history of
+     the question; the earlier Latin translators of Homer with their
+     fragments; the manuscripts and editions of the poem.
+   - *De Epitome Iliados Homeri ejusque auctore testimonia auctorum ac
+     judicia*: ancient and later testimonia and judgements on the poem.
 
 3. Emil Baehrens (ed.), [*Poetae Latini Minores*, vol. 3–4](https://archive.org/details/poetaelatinimino34baeh).
    Leipzig: Teubner, 1881–1882.  Vol. 3 contains the *Ilias Latina*.
