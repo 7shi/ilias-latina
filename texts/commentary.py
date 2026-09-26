@@ -5,8 +5,8 @@ Usage: python commentary.py TEXTS_DIR OUTPUT.md [LANG]
 For each row of the verse concordance (TEXTS_DIR/concordance.md), in
 the order of The Latin Library, writes the verse of The Latin Library
 (TEXTS_DIR/ilias.txt) and then, for each edition, its own number and
-text of the verse (from its ilias.md) followed by the items of its
-COMMENTARY.md on that verse.
+text of the verse (from its ilias.md) as an item of a list, with the
+items of its COMMENTARY.md on that verse nested under it.
 
 A commentary item is placed at the verse of its label; a label for a
 range of verses ("474—482", "242, 243, 244") at its first verse.  The
@@ -90,11 +90,11 @@ LANGS = {
             "- Each verse begins with its number and text in The Latin Library",
             "  (LL); \"79a\", \"79b\" are verses that The Latin Library does not have,",
             "  placed after the verse that precedes them in the editions.",
-            "- Then, for each edition, [2] Lemaire (Wernsdorf's numbers),",
-            "  [3] Baehrens, [4] Plessis and [6] Vollmer, its own number and text",
+            "- Then, as a list, each edition, [2] Lemaire (Wernsdorf's numbers),",
+            "  [3] Baehrens, [4] Plessis and [6] Vollmer, with its own number and text",
             "  of the verse as in the concordance (\"[n]\" a verse the edition",
             "  brackets, \"below\" one Plessis prints below the text, \"—\" none),",
-            "  followed by the items of its COMMENTARY.md on the verse.",
+            "  and the items of its COMMENTARY.md on the verse nested under it.",
             "- An item keeps its label only where the label is more than the",
             "  number of the verse given above it: a range of verses, whose item",
             "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
@@ -122,12 +122,12 @@ LANGS = {
             "- Each verse begins with its number and text in The Latin Library",
             "  (LL); \"79a\", \"79b\" are verses that The Latin Library does not have,",
             "  placed after the verse that precedes them in the editions.",
-            "- Then, for each edition, [2] Lemaire (Wernsdorf's numbers),",
-            "  [3] Baehrens, [4] Plessis and [6] Vollmer, its own number and text",
+            "- Then, as a list, each edition, [2] Lemaire (Wernsdorf's numbers),",
+            "  [3] Baehrens, [4] Plessis and [6] Vollmer, with its own number and text",
             "  of the verse as in the concordance (\"[n]\" a verse the edition",
             "  brackets, \"below\" one Plessis prints below the text, \"—\" none),",
-            "  followed by the items of its COMMENTARY-en.md on the verse.  The",
-            "  verses are in Latin.",
+            "  and the items of its COMMENTARY-en.md on the verse nested under it.",
+            "  The verses are in Latin.",
             "- An item keeps its label only where the label is more than the",
             "  number of the verse given above it: a range of verses, whose item",
             "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
@@ -147,7 +147,7 @@ LANGS = {
             "[COMMENTARY.md](COMMENTARY.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。このディレクトリの `make commentary`（[commentary.py](commentary.py)）が [concordance.md](concordance.md)、各版の `ilias.md` と `COMMENTARY-ja.md` から生成し、それらが変わると作り直す。手で修正しないこと。",
             "",
             "- 各詩行は The Latin Library（LL）の行番号と本文で始まる。「79a」「79b」は The Latin Library にない詩行で、各版でその前にある詩行の後に置く。",
-            "- 続いて各版、[2] Lemaire（ヴェルンスドルフの行番号）、[3] Baehrens、[4] Plessis、[6] Vollmer について、対照表のとおりにその版の行番号と本文を示す（「[n]」はその版が括弧に入れる詩行、「below」はプレシが本文の下に印刷する詩行、「—」は該当なし）。その後にその版の COMMENTARY-ja.md のうち、その詩行の項目を置く。詩行はラテン語のまま。",
+            "- 続いて各版、[2] Lemaire（ヴェルンスドルフの行番号）、[3] Baehrens、[4] Plessis、[6] Vollmer を箇条書きにし、対照表のとおりにその版の行番号と本文を示す（「[n]」はその版が括弧に入れる詩行、「below」はプレシが本文の下に印刷する詩行、「—」は該当なし）。その下の入れ子にその版の COMMENTARY-ja.md のうち、その詩行の項目を置く。詩行はラテン語のまま。",
             "- 項目のラベルは、上に示した詩行の番号以上の情報がある場合に限って残す。すなわち詩行の範囲（項目はその最初の詩行に置く）と、前の頁から続く Lemaire の注「(cont.)」である。フォルマーの証言には「（証言）」と記す。",
             "- 本文と項目は各ファイルにあるとおりに引く。何を残し何を省いたかは各版の COMMENTARY-ja.md を参照。",
         ],
@@ -279,17 +279,15 @@ def main() -> None:
         else:
             last, extra = int(row["LL"]), 0
             lines += ["", f"{last} {ll[last]}"]
+        # Each edition is an item of a list, its commentary items nested
+        # under it; "[2]" rather than "2." keeps Markdown from renumbering.
         for num, d, col in EDITIONS:
-            lines.append("")
-            ents = entries[i][num] or [("—", "")]
-            for k, (label, text) in enumerate(ents):
-                if k:
-                    lines.append("")
+            for label, text in entries[i][num] or [("—", "")]:
                 if label == "—" and not text:
-                    lines.append(f"[{num}] —")
+                    lines.append(f"- [{num}] —")
                 else:
-                    lines.append(f"[{num}] {label} {text}".rstrip())
-            lines += notes[i].get(num, [])
+                    lines.append(f"- [{num}] {label} {text}".rstrip())
+            lines += ["  " + n for n in notes[i].get(num, [])]
     output.write_text("\n".join(lines) + "\n")
 
 

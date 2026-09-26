@@ -156,10 +156,12 @@ following the rows of [concordance.md](concordance.md):
 - A verse begins with its number and text in The Latin Library; "79a",
   "79b" are verses that The Latin Library does not have, after the
   verse that precedes them in the editions.
-- Then come [2] Lemaire (Wernsdorf's numbers), [3] Baehrens, [4]
-  Plessis and [6] Vollmer, each with its own number and text of the
-  verse ("—" where it does not have the verse), followed by the items of
-  its `COMMENTARY.md` on that verse.
+- Then come, as a list, [2] Lemaire (Wernsdorf's numbers), [3]
+  Baehrens, [4] Plessis and [6] Vollmer, each with its own number and
+  text of the verse ("—" where it does not have the verse) and the items
+  of its `COMMENTARY.md` on that verse nested under it.  The editions
+  are marked "[2]" rather than "2." so that Markdown does not renumber
+  them from 1.
 - An item's label is left out where it is only the number of the verse
   above it; it is kept for a range of verses (given at the first of
   them) and for Lemaire's "(cont.)", a note continued from the previous
