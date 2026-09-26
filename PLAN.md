@@ -102,6 +102,12 @@ and src/README.md first.
 - texts/overview.md (with -en, -ja) sums up what the editors say about
   the poem as a whole (author, date, transmission).  It is background,
   not a source for the notes on the verses.
+- texts/commentary.tsv holds the notes of texts/COMMENTARY-en.md
+  that apply to the text of LL, as context for the English translation
+  (2026-09-27): notes on readings LL does not have are left out, notes
+  that apply in part are rewritten, and Wernsdorf's references to other
+  verses are given in LL numbers.  It is made and corrected by hand;
+  the English drafts it copies were not reviewed first.
 
 ### Next: the pilot notes for book 1
 
