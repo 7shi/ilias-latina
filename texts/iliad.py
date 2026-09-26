@@ -57,14 +57,18 @@ def iliad(margin: str, book: int) -> tuple[str, int]:
     Vollmer gives the book as a Greek letter only where it changes (and
     at the top of most pages), so it is carried on to the lines that
     follow; "148. 369" in book 18 becomes "18.148, 18.369".  A letter
-    alone gives no line and is left out.
+    after a line applies only to the lines after it in the same margin:
+    "425 Ο 11" in book 14 is "14.425, 15.11", and the next verses stay
+    in book 14.  A letter alone gives no line and is left out.
     """
-    refs = []
+    refs, current = [], book
     for m in re.finditer(r"([Α-Ω])|(\d+\??)|(ss\.)|(—)", margin):
         if m[1]:
-            book = GREEK.index(m[1]) + 1
+            current = GREEK.index(m[1]) + 1
+            if not refs:
+                book = current
         elif m[2]:
-            refs.append(f"{book}.{m[2]}")
+            refs.append(f"{current}.{m[2]}")
         elif m[3]:
             refs[-1] += " ss."
         else:

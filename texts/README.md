@@ -197,8 +197,10 @@ corrected by hand.
 - The lines are given as book.line: his Greek book letter, printed
   where the book changes and on the first verse of most pages, is
   carried on and turned into a number ("Α 8" → "1.8"; "148. 369" in
-  book 18 → "18.148, 18.369"); a letter alone gives no line and is
-  left out.
+  book 18 → "18.148, 18.369"); a letter after a line applies only to
+  the lines after it in the same margin ("425 Ο 11" in book 14 →
+  "14.425, 15.11", and the next verses stay in book 14); a letter alone
+  gives no line and is left out.
 - What the marks mean is set out at the top of iliad.md and in
   [6-vollmer/README.md](6-vollmer/README.md).
 

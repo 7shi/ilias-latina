@@ -450,8 +450,8 @@ these two files, and rebuilt from them; do not correct it by hand.
 | 779 | Ξ 388 | 14.388 | Hector ubique ferox violento pectore saevit, |
 | 780 | 412 | 14.412 | quem saxo ingenti percussum maximus Aiax |
 | 782 | 425 Ο 11 | 14.425, 15.11 | concurrit Troiana manus iuvenemque vomentem |
-| 783 | 434 | 15.434 | sanguineos fluctus Xanthi lavere fluentis. |
-| 786 | 450 | 15.450 | Polydamas valido Prothoënora percutit ictu, |
+| 783 | 434 | 14.434 | sanguineos fluctus Xanthi lavere fluentis. |
+| 786 | 450 | 14.450 | Polydamas valido Prothoënora percutit ictu, |
 | 787 | Ξ 465 | 14.465 | Archelochumque Antenoriden Telamonius Aiax, |
 | 788 | 476 | 14.476 | Boeotumque Acamas Promachum, quem sternit atrocis |
 | 789 | 488 | 14.488 | Penelei dextra; inde cadit Priameia pubes |
