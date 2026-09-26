@@ -165,9 +165,20 @@ following the rows of [concordance.md](concordance.md):
   them) and for Lemaire's "(cont.)", a note continued from the previous
   page.
 
-It is built by `make commentary` in [src/](../src/README.md)
-(`commentary.py`) and rebuilt whenever its sources change, so it is not
-corrected by hand; corrections go into the editions' files.
+It is built by `make commentary` in this directory
+([commentary.py](commentary.py)) from [ilias.txt](ilias.txt),
+[concordance.md](concordance.md), and the verse tables (`ilias.md`)
+and `COMMENTARY.md` of the four editions, and rebuilt whenever they
+change, so it is not corrected by hand; corrections go into the
+editions' files.
+
+- The rows follow the concordance, including its rows "—"; each
+  edition's number of the verse is taken from its cell, and the text
+  from the row of its ilias.md with the same verse and page.
+- A commentary item goes to the verse of its label: Lemaire's labels
+  give the verse of The Latin Library ("(LL n)"), and his "(cont.)" goes
+  with the last note of the previous page; the numbers of Baehrens,
+  Plessis and Vollmer are looked up in their concordance columns.
 
 ## Iliad
 

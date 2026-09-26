@@ -32,8 +32,6 @@ lemaire: ../texts/2-lemaire/ilias.md ## Extract Lemaire's edition once (texts/2-
 
 concordance: ../texts/concordance.md ## Build the verse concordance once (texts/concordance.md)
 
-commentary: ../texts/COMMENTARY.md ../texts/COMMENTARY-en.md ../texts/COMMENTARY-ja.md ## Put the verses and commentaries side by side (texts/COMMENTARY.md, -en, -ja)
-
 download: tmp/ilias.html ## Download the Latin text from The Latin Library
 
 homer: tmp/iliad-grc.xml ## Download the Greek Iliad from Perseus (not distributed)
@@ -96,15 +94,6 @@ tmp/2-$(LEMAIRE)_hocr.html:
 	mkdir -p tmp
 	uv run python concordance.py ../texts $@ tmp/concordance_check.txt
 
-# Derived from the files below and never corrected by hand, so it is
-# rebuilt whenever they change.
-COMMENTARIES = $(foreach d,2-lemaire 3-baehrens 4-plessis 6-vollmer,../texts/$(d)/ilias.md ../texts/$(d)/COMMENTARY.md)
-../texts/COMMENTARY.md: commentary.py ../texts/ilias.txt ../texts/concordance.md $(COMMENTARIES)
-	uv run python commentary.py ../texts $@
-
-../texts/COMMENTARY-%.md: commentary.py ../texts/ilias.txt ../texts/concordance.md $(COMMENTARIES) $(foreach d,2-lemaire 3-baehrens 4-plessis 6-vollmer,../texts/$(d)/COMMENTARY-%.md)
-	uv run python commentary.py ../texts $@ $*
-
 pt: tmp/ilias.txt extract_pt.py parallel.py ## Extract numbered translation and parallel text (PDF=...)
 	$(CHECK_PDF)
 	uv run python extract_pt.py "$(PDF)" tmp/ilias_pt.txt
@@ -120,4 +109,4 @@ parts: split_pt.py ## Split the PDF text into sections in tmp/parts (PDF=...)
 	$(CHECK_PDF)
 	uv run python split_pt.py "$(PDF)" tmp/parts
 
-.PHONY: help all homer text vollmer baehrens plessis lemaire concordance commentary download pt check-pt parts
+.PHONY: help all homer text vollmer baehrens plessis lemaire concordance download pt check-pt parts

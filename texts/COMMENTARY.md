@@ -3,7 +3,7 @@
 The verses of the four editions organized in this directory and the
 items of their commentaries, verse by verse in the order of The Latin
 Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in
-[src/](../src/README.md) (`commentary.py`) from
+this directory ([commentary.py](commentary.py)) from
 [concordance.md](concordance.md), the editions' `ilias.md` and their
 `COMMENTARY.md`, and rebuilt from them; do not correct it by hand.
 Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).

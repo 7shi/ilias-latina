@@ -1,6 +1,6 @@
 # 注解
 
-[COMMENTARY.md](COMMENTARY.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。[src/](../src/README.md) の `make commentary`（`commentary.py`）が [concordance.md](concordance.md)、各版の `ilias.md` と `COMMENTARY-ja.md` から生成し、それらが変わると作り直す。手で修正しないこと。
+[COMMENTARY.md](COMMENTARY.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。このディレクトリの `make commentary`（[commentary.py](commentary.py)）が [concordance.md](concordance.md)、各版の `ilias.md` と `COMMENTARY-ja.md` から生成し、それらが変わると作り直す。手で修正しないこと。
 
 - 各詩行は The Latin Library（LL）の行番号と本文で始まる。「79a」「79b」は The Latin Library にない詩行で、各版でその前にある詩行の後に置く。
 - 続いて各版、[2] Lemaire（ヴェルンスドルフの行番号）、[3] Baehrens、[4] Plessis、[6] Vollmer について、対照表のとおりにその版の行番号と本文を示す（「[n]」はその版が括弧に入れる詩行、「below」はプレシが本文の下に印刷する詩行、「—」は該当なし）。その後にその版の COMMENTARY-ja.md のうち、その詩行の項目を置く。詩行はラテン語のまま。

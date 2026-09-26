@@ -27,8 +27,9 @@ texts/concordance.md (the Book divisions) and src/README.md first.
   the output files, never kept in the scripts, and `make` does not
   rebuild an existing file (order-only prerequisites).  The exception is
   texts/COMMENTARY.md with its translations COMMENTARY-en.md and
-  COMMENTARY-ja.md, which are derived and rebuilt by `make commentary`
-  from the files they read; they are not corrected by hand.
+  COMMENTARY-ja.md (and texts/iliad.md), which are derived and rebuilt
+  by `make commentary` (`make iliad`) in texts/ from the files they
+  read; they are not corrected by hand.
 - The translations (`-en.md`, `-ja.md`) follow their originals one for
   one.  A correction to an original is made in its translations too;
   the COMMENTARY-en/ja.md of an edition quote the notes of its
