@@ -21,11 +21,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   is given at the first of them, or Lemaire's "(cont.)", a note
   continued from the previous page.  Vollmer's testimonia are marked
   "(testimonia)".
-- Under Vollmer's verse, "*Iliad*" gives the lines of the *Iliad*
-  printed in his left margin where the poet follows them, as book.line
-  ("1.8" for his "Α 8"; he gives the book as a Greek letter only
-  where it changes).  "—" is as printed, probably a verse with no
-  Homeric counterpart.
 - The texts and the items are quoted as they stand in the files;
   see each edition's COMMENTARY.md for what is kept and left out.
 
@@ -40,7 +35,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1 Iram pande mihi Pelidae, Diva, superbi,
 
 [6] 1 Iram pande mihi Pelidae, Diva, superbi,
-- *Iliad* 1.1 ss.
 
 2 Tristia quae miseris iniecit funera Grais
 
@@ -129,7 +123,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 9 Quis deus hos jussit ira contendere tristi ?
 
 [6] 9 quis deus hos ira tristi contendere iussit?
-- *Iliad* 1.8
 
 10 Latonae et magni proles Iouis. Ille Pelasgum
 
@@ -280,7 +273,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 23 Myrmidones reddique patri Chryseida censent.
 
 [6] 23 Myrmidones reddique patri Chryseida censent.
-- *Iliad* 1.22
 
 24 Sed negat Atrides Chrysenque excedere castris
 
@@ -322,7 +314,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 27 Contemptus repetit Phoebeia templa sacerdos
 
 [6] 27 contemptus repetit Phoebeia templa sacerdos
-- *Iliad* 1.33
 
 28 squalidaque infestis maerens secat unguibus ora
 
@@ -377,7 +368,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 32 « Quid coluisse mihi tua numina, Delphice, prodest
 
 [6] 32 'quid coluisse mihi tua, Delphice, numina prodest
-- *Iliad* 1.37
 
 33 aut castam uitam multos duxisse per annos?
 
@@ -388,7 +378,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 33 Aut castam multos vitam duxisse per annos ?
 
 [6] 33 aut castam multos vitam duxisse per annos?
-- *Iliad* —
 
 34 Quidue iuuat sacros posuisse altaribus ignes,
 
@@ -409,7 +398,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 35 Si tuus externo jam spernor ab hoste sacerdos ?
 
 [6] 35 si tuus externo iam spernor ab hoste sacerdos?
-- *Iliad* —
 
 36 En, haec desertae redduntur dona senectae?
 
@@ -421,7 +409,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 36 En, haec desertae redduntur dona senectae?
 
 [6] 36 en, haec desertae redduntur dona senectae?
-- *Iliad* —
 
 37 Si gratus tibi sum, sim te sub uindice tutus.
 
@@ -432,7 +419,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 37 Si gratus tibi sum, sim te sub vindice tutus.
 
 [6] 37 si gratus tibi sum, sim te sub vindice tutus.
-- *Iliad* —
 
 38 Aut si qua, ut luerem sub acerbo crimine poenas,
 
@@ -444,7 +430,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 38 Aut si qua, ut luerem sub acerbo crimine poenam,
 
 [6] 38 aut si qua, ut luerem sub acerbo crimine poenas,
-- *Iliad* —
 
 39 inscius admisi, cur o tua dextera cessat?
 
@@ -455,7 +440,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 39 Inscius admisi, cur o tua dextera cessat?
 
 [6] 39 inscius admisi, cur o tua dextera cessat?
-- *Iliad* —
 
 40 Posce sacros arcus, in me tua derige tela:
 
@@ -477,7 +461,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 41 Auctor mortis erit certe deus. Ecce merentem
 
 [6] 41 auctor mortis erit certe deus. ecce merentem
-- *Iliad* —
 
 42 fige patrem; cur nata luit peccata parentis
 
@@ -488,7 +471,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 42 Fige patrem : cur nata luit peccata parentis
 
 [6] 42 fige patrem: cur nata luit peccata parentis
-- *Iliad* —
 
 43 atque hostis duri patitur miseranda cubile?."
 
@@ -500,7 +482,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 43 Atque hostis duri patitur miseranda cubile ? »
 
 [6] 43 atque hostis duri patitur miseranda cubile?'
-- *Iliad* —
 
 44 Dixerat. Ille sui uatis prece motus acerbis
 
@@ -511,7 +492,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 44 Dixit; at ille sui vatis prece motus acerbis
 
 [6] 44 dixerat. ille sui motus prece vatis acerbis
-- *Iliad* 1.43
 
 45 luctibus infestat Danaos pestemque per omnes
 
@@ -523,7 +503,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 45 Luctibus infestat Danaos pestemque per omnes
 
 [6] 45 luctibus infestat Danaos pestemque per omnes
-- *Iliad* 1.48
 
 46 immittit populos: uulgus ruit undique Graium
 
@@ -578,7 +557,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 50 Cum Danaum proceres in coctum clarus Acbilles
 
 [6] 50 cum Danaum proceres in coetum clarus Achilles
-- *Iliad* 1.54
 
 51 conuocat et causas hortatur pestis iniquae
 
@@ -599,7 +577,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 52 Edere Thestoriden. Tunc Calchas numina divum
 
 [6] 52 edere Thestoriden. tunc Calchas numina divum
-- *Iliad* 1.69
 
 53 consulit et causam pariter finemque malorum
 
@@ -662,7 +639,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 58 Dixerat; exarsit subito violentia regis;
 
 [6] 58 dixerat; exarsit subito violentia regis:
-- *Iliad* 1.101
 
 59 Thestoriden dictis primum compellat amaris
 
@@ -738,7 +714,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 65 Multaque dona super; quam cunctis notus Ulixes
 
 [6] 65 multaque dona super; quam cunctis notus Vlixes
-- *Iliad* 1.430
 
 66 impositam puppi patrias deuexit ad arces
 
@@ -760,7 +735,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 67 Atque itorum ad Danaum classes sua vela retorsit.
 
 [6] 67 atque iterum ad Danaum classes sua vela retorsit.
-- *Iliad* 1.478
 
 68 Protinus infesti placantur numina Phoebi
 
@@ -771,7 +745,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 68 Protinus infesti placantur numina Phoebi.
 
 [6] 68 protinus infesti placantur numina Phoebi
-- *Iliad* 1.457
 
 69 et prope consumptae uires redduntur Achiuis.
 
@@ -792,7 +765,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 70 Non tamen Atridae Chryseidis excidit ardor
 
 [6] 70 non tamen Atridae Chryseidos excidit ardor:
-- *Iliad* 1.318
 
 71 maeret et amissos deceptus luget amores.
 
@@ -834,7 +806,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 74 At ferus Aeacides nudato protinus ense
 
 [6] 74 at ferus Aeacides nudato protinus ense
-- *Iliad* 1.190
 
 75 tendit in Atriden et, ni sibi reddat honestae
 
@@ -877,7 +848,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 78 Quod nisi casta manu Pallas tenuisset Achillem.
 
 [6] 78 quod nisi casta manu Pallas tenuisset Achillem,
-- *Iliad* 1.194
 
 79 turpem caecus amor famam liquisset in aeuum
 
@@ -920,7 +890,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 81 Invocat aequoreae Pelides numina matris,
 
 [6] 81 invocat aequoreae Pelides numina matris,
-- *Iliad* 1.351
 
 82 ne se Plistheniden contra patiatur inultum.
 
@@ -942,7 +911,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 83 At Thetis audita nati prece dcserit undas
 
 [6] 83 at Thetis audita nati prece deserit undas
-- *Iliad* 1.357
 
 84 castraque Myrmidonum iuxta petit et monet armis
 
@@ -963,7 +931,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 85 Abstineat dextra, gressuque exinde per auras
 
 [6] 85 abstineat dextram ac congressibus: inde per auras
-- *Iliad* 1.422
 
 86 emicat aetherias et in aurea sidera fertur.
 
@@ -974,7 +941,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 86 Emical aetheroas et in aurca sidcra fertur.
 
 [6] 86 emicat aethereas et in aurea sidera fertur.
-- *Iliad* 1.497
 
 87 Tunc genibus regis sparsis affusa capillis:
 
@@ -997,7 +963,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - … cf. Aeneid. VIII, 382 et Metam. V, 514).
 
 [6] 88 'pro nato veni genetrix en ad tua supplex
-- *Iliad* 1.503
 
 89 numina, summe parens; ulciscere meque meumque
 
@@ -1051,7 +1016,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 93 Juppiter huic conlra : « Tristes depone querellas,
 
 [6] 93 Iuppiter haec contra 'tristes depone querelas,
-- *Iliad* 1.517
 
 94 magni diua maris, mecum labor iste manebit.
 
@@ -1073,7 +1037,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 95 Tu solare tui maerentia pectora nati »
 
 [6] 95 tu solare tui maerentia pectora nati'.
-- *Iliad* —
 
 96 Dixit. At illa leues caeli delapsa per auras
 
@@ -1095,7 +1058,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 97 Litus adit patrium gratasque sororibus undas.
 
 [6] 97 litus adit patrium gratasque sororibus undas.
-- *Iliad* 1.532
 
 98 Offensa est Iuno: "Tantum"que ait, "optime coniunx,
 
@@ -1106,7 +1068,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 98 Offensa est Juno : « Tantumque » ait « optime conjunx,
 
 [6] 98 offensa est Iuno 'tantum'que ait, 'optime coniunx,
-- *Iliad* 1.539
 
 99 Doride nata ualet, tantum debetur Achilli,
 
@@ -1192,7 +1153,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 106 Tandem interposito lis Ignipotente resedit,
 
 [6] 106 tandem interposito lis Ignipotente resedit
-- *Iliad* 1.571
 
 107 conciliumque simul genitor dimittit Olympi.
 
@@ -1203,7 +1163,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 107 Conciliumque simul genitor dimittit [Olympo];
 
 [6] 107 conciliumque simul genitor dimittit Olympi
-- *Iliad* —
 
 108 Interea sol emenso decedit Olympo
 
@@ -1214,7 +1173,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 108 Interea sol emenso decedit Olympo.
 
 [6] 108 interea sol emenso decedit Olympo:
-- *Iliad* 1.605
 
 109 et dapibus diui curant sua corpora largis;
 
@@ -1226,7 +1184,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 109 Et dapibus divi curant sua corpora largis.
 
 [6] 109 et dapibus divi curant sua corpora largis.
-- *Iliad* 1.602
 
 110 inde petunt thalamos iucundaque dona quietis.
 
@@ -1251,7 +1208,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 111 Nox erat et toto fulgebant sidera mundo
 
 [6] 111 nox erat et toto fulgebant sidera mundo
-- *Iliad* 2.1
 - (testimonia) cf. Gesta Berengarii (PMA IV) 1, 127
 
 112 humanumque genus requies diuumque tenebat,
@@ -1273,7 +1229,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 113 Cum pater omnipotens somnum vocat atque ita fatur :
 
 [6] 113 cum pater omnipotens Somnum vocat atque ita fatur:
-- *Iliad* 2.7
 
 114 "Vade age per tenues auras, lenissime diuum,
 
@@ -1347,7 +1302,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 120 Nec mora : somnus abit levibusque per aera pennis
 
 [6] 120 nec mora, Somnus abit levibusque per aera pennis
-- *Iliad* 2.16
 
 121 deuolat in thalamos Agamemnonis: ille sopore
 
@@ -1446,7 +1400,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 129 Dixit et lias repetit per quas modo vcnerat auras.
 
 [6] 129 dixit et has repetit per quas modo venerat auras.
-- *Iliad* 2.35
 
 130 Interea lucem terris dedit ignea lampas.
 
@@ -1457,7 +1410,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 130 Interea lucem terris dedit ignea lampas.
 
 [6] 130 interea lucem terris dedit ignea lampas.
-- *Iliad* 2.48
 
 131 Conuocat attonitus iussis Pelopeius heros
 
@@ -1480,7 +1432,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 132 In coelum proceres remque omnibus ordine pandil.
 
 [6] 132 in coetum proceres remque omnibus ordine pandit.
-- *Iliad* 2.55
 
 133 cuncti promittunt socias in proelia uires
 
@@ -1522,7 +1473,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 136 Hic tum Thersites, quo non deformior alter
 
 [6] 136 hic tunc Thersites, quo non deformior alter
-- *Iliad* 2.212
 
 137 uenerat ad Troiam nec lingua proteruior ulli,
 
@@ -1554,7 +1504,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 139 Yertereiter; quem consiliis illustris Ulixes
 
 [6] 139 vertere iter; quem consiliis inlustris Vlixes
-- *Iliad* 2.244
 
 140 correptum dictis sceptro percussit eburno.
 
@@ -1565,7 +1514,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 140 Correptum dictis sceptro percussit eburno.
 
 [6] 140 correptum dictis sceptro percussit eburno.
-- *Iliad* 2.265
 
 141 Tum uero ardescit conceptis litibus ira:
 
@@ -1577,7 +1525,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 141 Tunc vero ardescit conceptis litibus ira :
 
 [6] 141 tum vero ardescit conceptis litibus ira:
-- *Iliad* —
 
 142 uix telis caruere manus, ad sidera clamor
 
@@ -1588,7 +1535,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 142 Yix telis caruere manus, ad sitlera clamor
 
 [6] 142 vix telis caruere manus, ad sidera clamor
-- *Iliad* —
 
 143 tollitur et cunctos pugnandi corripit ardor.
 
@@ -1599,7 +1545,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 143 Tollitur, et cnnclos pugnandi corripit ardor.
 
 [6] 143 tollitur et cunctos pugnandi corripit ardor.
-- *Iliad* —
 
 144 Tandem sollertis prudentia Nestoris aeuo
 
@@ -1612,7 +1557,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 144 Tandem sollerti prudentia Nestoris aevo
 
 [6] 144 tandem sollertis prudentia Nestoris aevo
-- *Iliad* 2.284
 
 145 compressam miti sedauit pectore turbam
 
@@ -1645,7 +1589,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 147 Temporis illius, quo visus in Aulide serpens
 
 [6] 147 temporis illius, quo visus in Aulide serpens
-- *Iliad* 2.308
 
 148 consumpsit uolucrum bis quattuor arbore fetus
 
@@ -1700,7 +1643,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 152 In decimo labor est, Calchas quem dixerat, anno,
 
 [6] 152 in decimo labor est, Calchas quem dixerat, anno,
-- *Iliad* 2.322
 
 153 quo caderet Danaum uictricibus Ilion armis."
 
@@ -1722,7 +1664,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 154 Assensere omnes, laudalur Nestoris aetas,
 
 [6] 154 assensere omnes, laudatur Nestoris aetas
-- *Iliad* 2.335
 
 155 conciliumque simul dimittitur. Arma parari
 
@@ -1733,7 +1674,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 155 Conciliumque simul dimittitur; arnia parari
 
 [6] 155 conciliumque simul dimittitur; arma parari
-- *Iliad* 2.442
 
 156 dux iubet atque animos aptare et pectora pugnae.
 
@@ -1755,7 +1695,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 157 Postera lux tacitas ut primum depulit umbras
 
 [6] 157 postera lux tacitas ut primum depulit umbras
-- *Iliad* —
 
 158 et nitidum Titan radiis caput extulit undis,
 
@@ -1766,7 +1705,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 158 Et nitidum Titan radiis caput extulit undis,
 
 [6] 158 et nitidum Titan radiis caput extulit undis,
-- *Iliad* —
 
 159 protinus armari socios iubet acer Atrides
 
@@ -1799,7 +1737,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 161 Vos mihi nunc, Musae (quid enim non ordine nostis ?),
 
 [6] 161 vos mihi nunc, Musae (quid enim non ordine nostis?),
-- *Iliad* 2.484
 
 162 nomina clara ducum clarosque referte parentes
 
@@ -1840,7 +1777,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 165 Et coeptum peragamus opus, sitque auctor Apollo
 
 [6] 165 et coeptum peragamus opus, sitque auctor Apollo
-- *Iliad* —
 
 166 aspiretque libens operi per singula nostro.
 
@@ -1852,7 +1788,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 166 Aspiretque libens operi per singula nostro.
 
 [6] 166 aspiretque libens operi per singula nostro.
-- *Iliad* —
 
 167 Peneleos princeps et bello Leitus acer,
 
@@ -1865,7 +1800,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Leitus … (cf. Iliad. II, 494).
 
 [6] 167 Peneleus princeps et bello Leïtus acer
-- *Iliad* 2.494
 
 168 Arcesilaus atrox Prothoenorque Cloniusque
 
@@ -1908,7 +1842,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 171 Inde Mycenaeis Agamemnon moenibus ortus,
 
 [6] 171 inde Mycenaeis Agamemnon moenibus ortus,
-- *Iliad* 2.569
 
 172 quem sibi bellatrix delegit Graecia regem,
 
@@ -1940,7 +1873,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 174 Et bis tricenis Menelai navibus ardor
 
 [6] 174 et bis tricenis Menelai navibus ardor
-- *Iliad* 2.586
 
 175 insequitur totidemque ferox Agapenoris ira;
 
@@ -1951,7 +1883,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 175 Insequitur totidemque ferox Agapenoris ira.
 
 [6] 175 insequitur totidemque ferox Agapenoris ira.
-- *Iliad* 2.609
 
 176 quos iuxta fidus sollerti pectore Nestor
 
@@ -1962,7 +1893,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 176 Quos juxta fidus sollerti pectore Nestor
 
 [6] 176 quos iuxta fidus sollerti pectore Nestor
-- *Iliad* 2.601
 
 177 consilioque potens gemina cum prole suorum
 
@@ -1996,7 +1926,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 179 At Schedius virtute potens et Epistrophus ingens
 
 [6] 179 at Schedius virtute potens et Epistrophus ingens,
-- *Iliad* 2.517
 
 180 gloria Myrmidonum, saeui duo robora belli,
 
@@ -2030,7 +1959,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 182 Et bis vicenas Polypoeles atque Leonteus
 
 [6] 182 et bis vicenas Polypoetes atque Leonteus
-- *Iliad* 2.740
 
 183 instruxere rates ornatas milite forti.
 
@@ -2053,7 +1981,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Euryalus … — duces Kooten jure retinuit: cf. enim Iliad. II, 563 sqq. ἡγεμόνευε, et quem optime laudat Weytingh, Aeneid. II versum 261 « Thessandrus Sthenelusque duces » …
 
 [6] 184 Euryalus Sthenelique decus et fortis in armis
-- *Iliad* 2.564
 
 185 Tydides ualido pulsarunt remige pontum:
 
@@ -2064,7 +1991,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 185 Tydides valido pulsarunt remige fliictus
 
 [6] 185 Tydides valido pulsarunt remige pontum:
-- *Iliad* 2.567
 
 186 bis quadragenas onerarunt milite puppes;
 
@@ -2087,7 +2013,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 187 Ascalaphusque potens et Ialmenus, acer ulerque,
 
 [6] 187 Ascalaphusque potens et Ialmenus, acer uterque,
-- *Iliad* 2.512
 
 188 ter denas ualido complerunt remige naues
 
@@ -2108,7 +2033,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 189 Et bis vicenas Locrum fortissimus Ajax
 
 [6] 189 et bis vicenas Locrum fortissimus Aiax
-- *Iliad* 2.527
 
 190 instruxit puppes totidemque Euhaemone natus,
 
@@ -2121,7 +2045,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Euaemone … (cf. Iliad. II, 736).
 
 [6] 190 instruxit puppes totidemque Euhaemone natus.
-- *Iliad* 2.736
 
 191 quos iuxta Graium murus comitatur Achilles
 
@@ -2133,7 +2056,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 191 Quosjuxta Danaum murus comitatur Achilles,
 
 [6] 191 quos iuxta Graium durus comitator Achilles
-- *Iliad* 2.685
 
 192 cum quinquaginta materna per aequora uectus.
 
@@ -2155,7 +2077,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 193 Thessalici juvenes Phidippus et Antiphus ibant
 
 [6] 193 Thessalici iuvenes Phidippus et Antiphus ibant
-- *Iliad* 2.678
 
 194 altaque ter denis pulsarunt aequora proris
 
@@ -2178,7 +2099,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - … Nireus Bondam, Higt (Iliad. II, 671 sqq.)
 
 [6] 195 et tribus † assumptis ratibus secat aequora Nireus,
-- *Iliad* 2.671
 
 196 Tlepolemusque nouem Rhodius, quos uiribus acer
 
@@ -2191,7 +2111,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Tlepolemus … (cf. Iliad. II, 653).
 
 [6] 196 Tlepolomusque novem Rhodius, quos viribus acer
-- *Iliad* 2.653
 
 197 Eumelus sequitur, minus una naue profectus
 
@@ -2204,7 +2123,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 197 Eumelus sequitur, minus una nave profectus
 
 [6] 197 Eumelus sequitur, minus una nave profectus
-- *Iliad* 2.714
 - … minus una scil. undecim …
 
 198 quam duxit Telamone satus Salaminius Aiax.
@@ -2228,7 +2146,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - At Prothous … (ibid. 756). … Magnes … (ibid.). …
 
 [6] 199 ast Prothous Magnes Tenthredone natus et una
-- *Iliad* 2.756
 
 200 Euboeae magnis Elephenor finibus ortus
 
@@ -2240,7 +2157,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 200 Euboeae longis Elephenor finibus ortus
 
 [6] 200 Euboeae a † magnis Elephenor finibus ortus
-- *Iliad* 2.540
 
 201 Dulichiusque Meges, animisque insignis et armis,
 
@@ -2251,7 +2167,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 201 Dulichiusque Meges, animisque insignis et armis,
 
 [6] 201 Dulichiusque Meges, animisque insignis et armis,
-- *Iliad* 2.627
 
 202 Aetola de gente Thoas Andraemone natus,
 
@@ -2263,7 +2178,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 202 Aetola de gente Thoas Andraemone natus,
 
 [6] 202 Aetola de gente Thoas Andraemone natus,
-- *Iliad* 2.638
 
 203 hi quadragenas omnes duxere carinas;
 
@@ -2284,7 +2198,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 204 Et bis sex Ithaci naves sollertia duxit;
 
 [6] 204 et bis sex Ithaci naves sollertia duxit;
-- *Iliad* 2.631
 
 205 quem sequitur totidem ratibus Telamonius Aiax,
 
@@ -2295,7 +2208,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 205 Quem sequitur totidem ratibus Telamonius Ajax,
 
 [6] 205 quem sequitur totidem ratibus Telamonius Aiax,
-- *Iliad* 2.557
 
 206 egregia uirtute potens; simul horrida Guneus
 
@@ -2308,7 +2220,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - **206-207** Gunei Ira … Iliad. II, 748).
 
 [6] 206 egregia virtute potens; simul horrida Guneus
-- *Iliad* 2.748
 
 207 ire bis undenis temptabat in arma carinis.
 
@@ -2329,7 +2240,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 208 Idomeneus et Meriones, Cretaeus uterque,
 
 [6] 208 Idomeneus et Meriones, Cretaeus uterque,
-- *Iliad* 2.645
 
 209 bis quadragenis muniti nauibus ibant;
 
@@ -2352,7 +2262,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Menestheus … (ibid. 552).
 
 [6] 210 et totidem puppes clara de gente Menestheus
-- *Iliad* 2.552
 
 211 duxit Athenaeus, quot uiribus ambit Achilles;
 
@@ -2376,7 +2285,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Thalpius … (ibid. 620).
 
 [6] 212 Amphimachusque ferox et Thalpius, Elide nati,
-- *Iliad* 2.620
 
 213 et clara uirtute Polyxenus atque Diores,
 
@@ -2388,7 +2296,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 213 Et clara virtute Polyxenus atque Diores.
 
 [6] 213 et clara virtute Polyxenus atque Diores,
-- *Iliad* 2.622
 
 214 hi bis uicenas onerarunt milite puppes.
 
@@ -2410,7 +2317,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 215 Protesilaus agit totidem fortisque Podarces
 
 [6] 215 Protesilaus agit totidem fortisque Podarces
-- *Iliad* 2.698, 2.704
 
 216 instructas puppes, quot duxit Oileos Aiax;
 
@@ -2432,7 +2338,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 217 Et septem Poeante satus dat in arma carinas.
 
 [6] 217 et septem Poeante satus tulit arma carinis.
-- *Iliad* 2.718
 
 218 quem sequitur iuxta Podalirius atque Machaon,
 
@@ -2444,7 +2349,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 218 Quem sequitur juxta Podalirius atque Machaon,
 
 [6] 218 quem sequitur iuxta Podalirius atque Machaon,
-- *Iliad* 2.732
 
 219 altaque ter denis sulcarunt aequora proris.
 
@@ -2477,7 +2381,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 221 Bis septeni venere minus quam mille ducentae.
 
 [6] 221 bis septem venere minus quam mille ducentae.
-- *Iliad* —
 
 222 Iamque citi appulerant classes camposque tenebant,
 
@@ -2488,7 +2391,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 222 below Jamque citam appulerant classem camposque tenebant
 
 [6] 222 iamque citae appulerant classes camposque tenebant,
-- *Iliad* —
 - … auctor licentia poetica abutitur
 
 223 cum pater ad Priamum mittit Saturnius Irim,
@@ -2500,7 +2402,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 223 Tum pater ad Priamum mittit Saturnius Irim
 
 [6] 223 cum pater ad Priamum mittit Saturnius Irin,
-- *Iliad* 2.786
 
 224 quae doceat fortes uenisse ad bella Pelasgos.
 
@@ -2532,7 +2433,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 226 Priamides Hector totamque in proelia pubem
 
 [6] 226 Priamides Hector totamque in proelia pubem
-- *Iliad* 2.816
 
 227 festinare iubet portisque agit agmen apertis.
 
@@ -2554,7 +2454,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 228 Cui fulgens auro cassis juvenile legebat
 
 [6] 228 cui fulgens auro cassis iuvenile tegebat
-- *Iliad* —
 
 229 omni parte caput, munibat pectora thorax
 
@@ -2565,7 +2464,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 229 Omni parte caput, munibat pectora thorax,
 
 [6] 229 omni parte caput, munibat pectora thorax
-- *Iliad* —
 
 230 et clipeus laeuam, dextram decorauerat hasta
 
@@ -2576,7 +2474,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 230 Et clipeus laevam, dextram decoraverat hasta
 
 [6] 230 et clipeus laevam, dextram decoraverat hasta
-- *Iliad* —
 
 231 ornabatque latus mucro; simul alta nitentes
 
@@ -2587,7 +2484,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 231 Ornabatque latus mucro; simul alta nitenles
 
 [6] 231 ornabatque latus mucro; simul alta nitentes
-- *Iliad* —
 
 232 crura tegunt ocreae, quales decet Hectoris esse.
 
@@ -2599,7 +2495,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 232 Crura tegunt ocreae, quales decet Hectoris esse.
 
 [6] 232 crura tegunt ocreae, quales decet Hectoris esse.
-- *Iliad* —
 
 233 Hunc sequitur forma melior, tunc fortis in armis,
 
@@ -2610,7 +2505,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 233 Hunc sequitur forma melior quam fortior armis,
 
 [6] 233 hunc sequitur forma melior, tunc fortis in armis,
-- *Iliad* —
 
 234 belli causa Paris, patriae funesta ruina,
 
@@ -2621,7 +2515,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 234 Belli causa Paris, patriae funesta ruina
 
 [6] 234 belli causa Paris, patriae funesta ruina,
-- *Iliad* —
 
 235 Deiphobusque Helenusque simul fortisque Polites
 
@@ -2633,7 +2526,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 235 Deiphobusque Helenusque simul fortisque Polites,
 
 [6] 235 Deiphobusque Helenusque simul fortisque Polites,
-- *Iliad* —
 
 236 et sacer Aeneas, Veneris certissima proles,
 
@@ -2644,7 +2536,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 236 Et sacer Aeneas, Veneris certissima proles,
 
 [6] 236 et sacer Aeneas, Veneris certissima proles,
-- *Iliad* 2.820
 
 237 Archelochusque Acamasque ferox Antenore creti;
 
@@ -2656,7 +2547,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 237 Archilochusque Acamasque ferox Antenore creti.
 
 [6] 237 Archelochusque Acamasque ferox Antenore creti.
-- *Iliad* 2.823
 
 238 nec non et proles generosa Lycaonis ibat
 
@@ -2667,7 +2557,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 238 Nec non et proles generosa Lycaonis ibat
 
 [6] 238 nec non et proles generosa Lycaonis ibat
-- *Iliad* 2.827
 
 239 Pandarus et magnae Glaucus uirtutis in armis
 
@@ -2679,7 +2568,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 239 Pandarus et magnae Glaucus virtutis in armis;
 
 [6] 239 Pandarus et magnae Glaucus virtutis in armis;
-- *Iliad* 2.876
 
 240 Amphiusque et Adrastus et Asius atque Pylaeus.
 
@@ -2692,7 +2580,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Amphius … (Iliad. II, 830). … Pylaeus … (ibid. 842).
 
 [6] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
-- *Iliad* 2.830, 2.837, 2.842
 
 241 Ibat et Amphimachus Nastesque, insignis uterque,
 
@@ -2705,7 +2592,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Nastes … (ibid. 870).
 
 [6] 241 ibat et Amphimachus Nastesque, insignis uterque,
-- *Iliad* 2.870
 
 242 magnanimique duces Odiusque et Epistrophus ingens
 
@@ -2718,7 +2604,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - **242, 243, 244** Hodius, Pyraechmes, Mesthles … (ibid. 856, 848. 864).
 
 [6] 242 magnanimique duces Odiusque et Epistrophus ingens
-- *Iliad* 2.856
 
 243 Euphemusque ferox clarusque aetate Pyraechmes,
 
@@ -2730,7 +2615,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 243 Euphemusque ferox clarusque aetate Pyraechmes;
 
 [6] 243 Euphemusque ferox clarusque aetate Pyraechmes;
-- *Iliad* 2.846, 2.848
 
 244 cum quibus et Mesthles atque Antiphus et bonus armis
 
@@ -2742,7 +2626,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 244 Cum quibus et Mesthles atque Antiphus et bonus armis
 
 [6] 244 cum quibus et Mesthles atque Antiphus et bonus armis
-- *Iliad* 2.864
 
 245 Hippothous uenere Acamasque et Pirous una,
 
@@ -2755,7 +2638,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Hippothous … (ibid. 840) …
 
 [6] 245 Hippothous † atque Acamas † venere Pirous una,
-- *Iliad* 2.840, 2.844
 
 245a
 
@@ -2777,7 +2659,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 246 Alcinooque sati Chromiusque atque Ennomus, ambo
 
 [6] 246 Arsinooque sati Chromiusque atque Ennomus, ambo
-- *Iliad* 2.858
 - Arsinooque … (ex Apollod. epit. 3, 35 p. 199 Wagner) …
 
 247 florentes aetate uiri, quos Phorcus et ingens
@@ -2790,7 +2671,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 247 Florentes aetate viri, quos Phorcus et ingens
 
 [6] 247 florentes aetate viri, quos Phorcus et ingens
-- *Iliad* 2.862
 
 248 Ascanius sequitur, simul et Iouis inclita proles
 
@@ -2815,7 +2695,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Coroebus … (cf. Aen. II, 342); …
 
 [6] 249 Sarpedon claraque satus tellure Coroebus.
-- *Iliad* 2.876
 
 250 His se defendit ducibus Neptunia Troia
 
@@ -2827,7 +2706,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 250 His se defendit dncibus Neptunia Troja,
 
 [6] 250 his se defendit ducibus Neptunia Troia,
-- *Iliad* —
 
 251 uicissetque dolos Danaum, ni fata fuissent.
 
@@ -2838,7 +2716,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 251 Vicissetque dolos Danaum, ni fata fuissent.
 
 [6] 251 vicissetque dolos Danaum, ni fata fuissent.
-- *Iliad* —
 
 ## Book 3
 
@@ -2862,7 +2739,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 253 Cum Paris, exitium Trojae funestaque flamma,
 
 [6] 253 cum Paris, exitium Troiae funestaque flamma,
-- *Iliad* 3.16
 
 254 armatum aduerso Menelaum ex agmine cernit
 
@@ -2873,7 +2749,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 254 Armatum adverso Menelaum cx agminc cernit
 
 [6] 254 armatum adverso Menelaum ex agmine cernit
-- *Iliad* 3.30
 
 255 seque uelut uiso perterritus angue recepit
 
@@ -2885,7 +2760,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 255 Seque velut viso perterritus angue recepit
 
 [6] 255 seque velut viso perterritus angue recepit
-- *Iliad* 3.33
 
 256 ad socios amens. Quem postquam turpiter Hector
 
@@ -2896,7 +2770,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 256 Ad socios amens; qucm postquam turpiter Hector
 
 [6] 256 ad socios amens; quem postquam turpiter Hector
-- *Iliad* 3.38
 
 257 confusum terrore uidet: "O dedecus - inquit -
 
@@ -2950,7 +2823,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 261 Yimque timcs! ubi sunt vires, ubi cognita nobis
 
 [6] 261 vimque times. ubi sunt vires, ubi cognita nobis
-- *Iliad* —
 
 262 ludorum quondam uaria in certamina uis est?
 
@@ -2961,7 +2833,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 262 Ludorum quondam vario in certamine virtus?
 
 [6] 262 ludorum quondam vario in certamine virtus?
-- *Iliad* —
 
 263 Hic animos ostende tuos: nihil adiuuat armis
 
@@ -2973,7 +2844,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 263 Ilic animos ostende tuos : nihil adjuvat arma
 
 [6] 263 hic animos ostende tuos: nihil adiuvat armis
-- *Iliad* —
 - armis (i. in pugna) …
 
 264 nobilitas formae: duro Mars milite gaudet.
@@ -2986,7 +2856,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 264 Nobilitas formae : duro Mars milite gaudct.
 
 [6] 264 nobilitas formae: duro Mars milite gaudet.
-- *Iliad* —
 
 265 Dum iaceas in amore tuo, nos bella geremus
 
@@ -2998,7 +2867,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 265 Dum jaccas in amore tuo, nos bella gcremus
 
 [6] 265 dum iaceas in amore tuo, nos bella geremus
-- *Iliad* —
 
 266 scilicet et nostrum fundemus in hoste cruorem.
 
@@ -3010,7 +2878,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 266 Scilicct et nostrum fundemus in hoste cruorem !
 
 [6] 266 scilicet et nostrum fundemus in hoste cruorem.
-- *Iliad* —
 
 267 Aequius aduersis tecum concurrat in armis
 
@@ -3021,7 +2888,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 267 Acquius ndversis tecum concurrat in armis
 
 [6] 267 aequius adversis tecum concurrat in armis
-- *Iliad* 3.52
 
 268 impiger Atrides, spectet Danaumque Phrygumque
 
@@ -3084,7 +2950,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 272 « Quid nimis indignis » inquit « me vocibus urgues,
 
 [6] 272 'quid nimis indignis' inquit 'me vocibus urges,
-- *Iliad* 3.59
 
 273 o patriae, germane, decus? Nam nec mihi coniunx
 
@@ -3137,7 +3002,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 277 Dicta rcfert Hector; placuit sentcntia Grais.
 
 [6] 277 dicta refert Hector; placuit sententia Grais.
-- *Iliad* 3.76
 - (testimonia) cf. Gesta Ber. 2, 3
 
 278 Protinus accitur Priamus sacrisque peractis
@@ -3149,7 +3013,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 278 Protinus accitur Priamus, sacrisquc peractis
 
 [6] 278 protinus accitur Priamus sacrisque peractis
-- *Iliad* 3.116
 
 279 foedera iunguntur. Post haec discedit uterque
 
@@ -3182,7 +3045,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 281 Interea toto procedit ab agmine Troum
 
 [6] 281 interea toto procedit ab agmine Troum
-- *Iliad* 3.328
 
 282 pulcher Alexander, clipeoque insignis et hasta.
 
@@ -3203,7 +3065,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 283 Quem contra paribus fulgens Menelaus in armis
 
 [6] 283 quem contra paribus fulgens Menelaus in armis
-- *Iliad* 3.339
 
 284 constitit et: "Tecum mihi sint certamina - dixit -
 
@@ -3214,7 +3075,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 284 Constititet « Tecum mihi sint certamina » dixit;
 
 [6] 284 constitit et 'tecum mihi sint certamina' dixit
-- *Iliad* —
 
 285 "nec longum nostra laetabere coniuge, quae te
 
@@ -3226,7 +3086,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 285 « Nec longum nostra laetaberc conjuge, quam te
 
 [6] 285 'nec longum nostra laetabere coniuge, quae te
-- *Iliad* —
 
 286 mox raptum ire gemet, tantummodo Iuppiter adsit."
 
@@ -3238,7 +3097,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 286 Mox rapuisse gemes, tantummodo Juppiter adsit. »
 
 [6] 286 mox raptum regemet, tantummodo Iuppiter adsit.'
-- *Iliad* —
 
 287 Dixit et aduersum se concitat acer in hostem.
 
@@ -3282,7 +3140,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 290 Hastam deinde jacit, quam devitavit Atrides.
 
 [6] 290 hastam deinde iacit; quam devitavit Atrides
-- *Iliad* 3.346
 
 291 inque uicem misso fixisset corpora telo
 
@@ -3325,7 +3182,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 294 Insequitur clamor; tum vero adversus uterque
 
 [6] 294 insequitur iuxta clamor; tum adversus uterque
-- *Iliad* —
 
 295 constitit et galeam galea terit et pede plantam
 
@@ -3337,7 +3193,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 295 Constitit et galeam galea terit et pede plantam
 
 [6] 295 constitit et galeam galea terit et pede plantam
-- *Iliad* —
 
 296 coniungit stridetque mucro mucrone corusco;
 
@@ -3348,7 +3203,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 296 Conjungit, stridetque mucro mucrone corusco.
 
 [6] 296 coniungit, stridetque mucro mucrone corusco,
-- *Iliad* —
 
 297 corpus collectum tegitur fulgentibus armis.
 
@@ -3360,7 +3214,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 297 below Corpus collectum tegilur fulgentibus armis
 
 [6] 297 corpus collectum tegitur fulgentibus armis.
-- *Iliad* —
 - … cf. Verg. Aen. 12, 491 et 10, 412; armis i. scuto
 
 298 Non aliter fortes nitida de coniuge tauri
@@ -3373,7 +3226,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 298 Non aliter forles nitida de conjuge tauri
 
 [6] 298 non aliter fortes nitida de coniuge tauri
-- *Iliad* —
 
 299 bella gerunt uastisque replent mugitibus auras.
 
@@ -3384,7 +3236,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 299 Bella gerunt vastisque replent nmgitibus auras.
 
 [6] 299 bella gerunt vastisque replent mugitibus auras.
-- *Iliad* —
 
 300 Atque diu rigido captabant corpora ferro,
 
@@ -3396,7 +3247,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 300 Jamque diu rigido captarant corpora fcrro,
 
 [6] 300 atque diu rigido rimabant corpora ferro,
-- *Iliad* —
 
 301 cum memor Atrides raptae sibi coniugis instat
 
@@ -3407,7 +3257,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 301 Cum memor Atrides raptae sibi conjugis instat
 
 [6] 301 cum memor Atrides raptae sibi coniugis instat
-- *Iliad* —
 
 302 Dardaniumque premit iuuenem. Mox ense rigente
 
@@ -3418,7 +3267,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 302 Dardaniumque premit juvenem mox ense rigentc ;
 
 [6] 302 Dardaniumque premit iuvenem. mox ense rigente
-- *Iliad* 3.361
 - male post iuvenem non distinguebant editiones recentes
 
 303 cedentem retro dum desuper appetit hostem,
@@ -3472,7 +3320,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 307 Et juvenem arrepta prosternit casside victor
 
 [6] 307 et iuvenem arrepta prosternit casside victor
-- *Iliad* 3.369
 
 308 ad socios traheretque, et, ni caligine caeca
 
@@ -3504,7 +3351,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 310 Fortia laxatis rupisset vincula nodis,
 
 [6] 310 fortia rupisset laxatis vincula nodis,
-- *Iliad* 3.375
 
 311 ultimus ille dies Paridi foret. Abstrahit auro
 
@@ -3535,7 +3381,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 313 In medios mittit proceres rursusque recurrit
 
 [6] 313 in medios mittit proceres rursumque recurrit
-- *Iliad* 3.377
 
 314 et magnam ualidis contorsit uiribus hastam
 
@@ -3547,7 +3392,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 314 Et magnam validis contorsit viribus hastam
 
 [6] 314 et magnam validis contorsit viribus hastam
-- *Iliad* 3.379
 
 315 in cladem Phrygii, sua quem Venus eripit hosti
 
@@ -3582,7 +3426,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 317 Ipsa dehinc Helenam muris arcessit ab altis
 
 [6] 317 ipsa dehinc Helenam muris accersit ab altis
-- *Iliad* 3.383
 
 318 Dardanioque suos Paridi deducit amores.
 
@@ -3613,7 +3456,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 320 « Yenisti, mea flamma, Paris, superatus ab armis
 
 [6] 320 'venisti, mea flamma, Paris, superatus ab armis
-- *Iliad* 3.428
 
 321 coniugis antiqui? Vidi puduitque uidere,
 
@@ -3739,7 +3581,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 332 Trislis Alexander « Non me superavit Atrides,
 
 [6] 332 tristis Alexander 'non me superavit Atrides,
-- *Iliad* 3.438
 
 333 o meus ardor" - ait - "sed castae Palladis ira.
 
@@ -3781,7 +3622,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 336 Post hacc amplexu pcr mutua corpora juncto
 
 [6] 336 post haec amplexus per mutua corpora iunctis
-- *Iliad* 3.447
 
 337 incubuit membris Cygneidos; illa soluto
 
@@ -3804,7 +3644,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 338 Accepit flammas gremio Trojaeque suasquc.
 
 [6] 338 accepit flammas gremio Troiaeque suasque.
-- *Iliad* —
 
 339 Interea toto Menelaus in agmine Troum
 
@@ -3815,7 +3654,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 339 Interea toto Menelaus in agminc Troum
 
 [6] 339 interea toto Menelaus in agmine Troum
-- *Iliad* 3.449
 
 340 quaerit Alexandrum uictorque huc fertur et illuc.
 
@@ -3836,7 +3674,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 341 Qucm frater socias acuens in bella catervas
 
 [6] 341 quem frater socias acuens in bella catervas
-- *Iliad* 3.455
 
 342 adiuuat et forti pulsos Phrygas increpat ore
 
@@ -3871,7 +3708,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 344 Cumquo inter sese proceres certamen haberent,
 
 [6] 344 dumque inter sese proceres certamen haberent,
-- *Iliad* 4.1
 
 345 concilium omnipotens habuit regnator Olympi
 
@@ -3893,7 +3729,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 346 Foederaque intento turbavit Pandarus arcu,
 
 [6] 346 foederaque intento turbavit Pandarus arcu,
-- *Iliad* 4.124
 
 347 te, Menelae, petens; laterique uolatile telum
 
@@ -3915,7 +3750,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 348 Incidit et tunicam ferro squamisque rigentem
 
 [6] 348 incidit et tunicam ferro squamisque rigentem
-- *Iliad* 4.135
 
 349 dissecat. Excedit pugna gemebundus Atrides
 
@@ -3927,7 +3761,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 349 Dissecat : excedit pugna gemebundus Atrides
 
 [6] 349 dissecat: excedit pugna gemebundus Atrides
-- *Iliad* 4.150
 
 350 castraque tuta petit, quem doctus ab arte paterna
 
@@ -3949,7 +3782,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 351 Paeoniis curat juvenis Podalirius lierbis
 
 [6] 351 Paeoniis curat iuvenis Podalirius herbis
-- *Iliad* 4.213
 
 352 itque iterum in caedes horrendaque proelia uictor.
 
@@ -3961,7 +3793,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 352 Atquc iterum in caedes horrendaque proelia mittit.
 
 [6] 352 itque iterum in caedes horrendaque proelia victor.
-- *Iliad* —
 
 353 Armauit fortes Agamemnonis ira Pelasgos
 
@@ -3972,7 +3803,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 353 Armavit fortes Agamemnonis ira Pelasgos,
 
 [6] 353 armavit fortes Agamemnonis ira Pelasgos
-- *Iliad* 4.223
 
 354 et dolor in pugnam cunctos communis agebat.
 
@@ -3995,7 +3825,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 355 Bellum mgons oritur, multumque utrimque' cruoris
 
 [6] 355 bellum ingens oritur multumque utrimque cruoris
-- *Iliad* 4.446
 - **355/6** (testimonia) = Gesta Ber. 2, 180/1 (multum hinc illincque)
 
 356 funditur et totis sternuntur corpora campis
@@ -4018,7 +3847,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 357 Inque vicem Troumque cadunt Danaumque catervae.
 
 [6] 357 inque vicem Troumque cadunt Danaumque catervae.
-- *Iliad* 4.451
 
 358 nec requies datur ulla uiris: sonat undique Mauors
 
@@ -4051,7 +3879,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 360 Occidit Antilochi rigido demissus ad umbras
 
 [6] 360 occidit Antilochi rigido demersus in umbras
-- *Iliad* 4.457
 
 361 ense Thalysiades optataque lumina linquit.
 
@@ -4073,7 +3900,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 362 Inde manu iorti Grajorum terga prementem
 
 [6] 362 inde manu forti Graiorum terga prementem
-- *Iliad* 4.473
 
 363 occupat Anthemione satum Telamonius Aiax
 
@@ -4108,7 +3934,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 365 Purpuream vomit ille animam, sua sanguine multo
 
 [6] 365 purpureo vomit ille animam cum sanguine mixtam,
-- *Iliad* —
 - … cf Verg. Aen. 9, 349
 
 366 ora rigat moriens. Tum magnis Antiphus hastam
@@ -4120,7 +3945,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 366 Arma rigat moriens. Tum magnis Antiphus hastam
 
 [6] 366 ora rigat moriens. tum magnis Antiphus hastam
-- *Iliad* 4.489
 
 367 uiribus aduersum conatus corpore toto
 
@@ -4177,7 +4001,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 371 Et carpit virides moribundis dcntibus lierbas.
 
 [6] 371 et carpit virides moribundus dentibus herbas.
-- *Iliad* —
 - (testimonia) fere = Gesta Ber. 2, 213
 
 372 Impiger Atrides casu commotus amici
@@ -4202,7 +4025,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Democoonta … (Iliad. IV, 499).
 
 [6] 373 Democoonta petit teloque adversa trabali
-- *Iliad* 4.499
 
 374 tempora transadigit uaginaque horridus ensem
 
@@ -4249,7 +4071,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Jamque Amarynciden … (Iliad. IV, 517).
 
 [6] 377 iamque Amarynciden saxi deiecerat ictu
-- *Iliad* 4.517
 
 378 Pirous Imbrasides dederatque silentibus umbris;
 
@@ -4281,7 +4102,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 380 Desuper hasta venit dextra librata Thoanlis,
 
 [6] 380 desuper hasta venit dextra librata Thoantis
-- *Iliad* 4.527
 
 381 perque uiri scapulas animosaque pectora transit;
 
@@ -4377,7 +4197,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 389 Hic postquam Danaum longe cedentia vidit
 
 [6] 389 hic postquam Danaum longe cedentia vidit
-- *Iliad* 5.1
 
 390 agmina Tydides tumidumque increscere Martem,
 
@@ -4430,7 +4249,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 394 Bellica Pallas adest flagrantiaque ignibus arma
 
 [6] 394 bellica Pallas adest flagrantiaque ignibus arma
-- *Iliad* 5.4
 
 395 adiuuat atque animos iuueni uiresque ministrat.
 
@@ -4453,7 +4271,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 396 Ille, boum veluti viso grege saeva leaena,
 
 [6] 396 ille — boum veluti viso grege saeva leaena,
-- *Iliad* 5.136
 
 397 quam stimulat ieiuna fames, ruit agmina contra
 
@@ -4548,7 +4365,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Phegeaque … (Iliad. V, 9 sqq.). …
 
 [6] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
-- *Iliad* 5.11
 
 406 occupat ante graui, sed uulnera depulit umbo
 
@@ -4603,7 +4419,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 410 Eminet, et prodit scapulis pars altera fossis.
 
 [6] 410 eminet et prodit scapulis pars altera fossis.
-- *Iliad* —
 
 411 Hunc ubi fundentem calidum de pectore flumen
 
@@ -4635,7 +4450,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 413 Conspexil frater, stricto celer advolat ense
 
 [6] 413 conspexit frater, stricto celer advolat ense
-- *Iliad* 5.20
 
 414 germanique cupit fatorum exsistere uindex.
 
@@ -4677,7 +4491,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 417 Ut volucris, derepta sni cum corpora nati
 
 [6] 417 ut volucris, discerpta sui cum corpora nati
-- *Iliad* —
 
 418 accipitrem laniare uidet nec tendere contra,
 
@@ -4688,7 +4501,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 418 Accipitrem laniare videt, nec tendere contra
 
 [6] 418 accipitrem laniare videt nec tendere contra,
-- *Iliad* —
 
 419 auxilium neque ferre suo ualet anxia nato
 
@@ -4699,7 +4511,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 419 Auxilium nec ferre suo valet anxia nato,
 
 [6] 419 auxilium neque ferre suo valet anxia nato
-- *Iliad* —
 
 420 quodque potest, leuibus plaudit sua pectora pennis,
 
@@ -4710,7 +4521,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 420 Quodque potest, levibus plangit sua pectora pennis :
 
 [6] 420 quodque potest, levibus plaudit sua pectora pennis:
-- *Iliad* —
 
 421 sic hostem Idaeus germani caede superbum
 
@@ -4751,7 +4561,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 424 Nec minus in Teucros armis furit alter Atrides
 
 [6] 424 nec minus in Teucros armis furit † alter Atrides
-- *Iliad* 5.38
 
 425 insequiturque acies et ferro funera miscet.
 
@@ -4805,7 +4614,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 429 Hinc petit Idomeneus adversa ex parte ruentem
 
 [6] 429 hinc petit Idomeneus adversa parte ruentem
-- *Iliad* 5.43
 
 430 Maeoniden Phaestum, cuius post funera laetus
 
@@ -4829,7 +4637,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - … Strophio … (Iliad. V, 49).
 
 [6] 431 et Strophio genitum Stygias demittit ad umbras.
-- *Iliad* 5.49
 
 432 Meriones Phereclum librata percutit hasta
 
@@ -4841,7 +4648,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - **432-433** Meriones Phereclum (Iliad. V, 59), vibrata perculit, Pedaeumque Meges (Iliad. V, 69), …
 
 [6] 432 Meriones Phereclum librata percutit hasta,
-- *Iliad* 5.59
 
 433 Pedaeumque Meges. Tum uastis horridus armis
 
@@ -4852,7 +4658,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 433 Pedaeuinque Meges ; tum vastis horridus armis
 
 [6] 433 Pedaeumque Meges; tum vastis horridus armis
-- *Iliad* 5.69
 
 434 Eurypylus gladio uenientem Hypsenora fundit
 
@@ -4865,7 +4670,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - … Hypsenora … (Iliad. V, 76 sqq.).
 
 [6] 434 Eurypylus gladio venientem Hypsenora fundit
-- *Iliad* 5.76
 
 435 et pariter uita iuuenem spoliauit et armis.
 
@@ -4886,7 +4690,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 436 Parte alia volitat sinuoso Pandarus arcu
 
 [6] 436 parte alia volitat sinuoso Pandarus arcu
-- *Iliad* 5.95
 
 437 Tydidenque oculis immensa per agmina quaerit;
 
@@ -4947,7 +4750,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 442 In mediasque acies animosi more leonis
 
 [6] 442 in mediasque acies animosi more leonis
-- *Iliad* 5.136
 
 443 fertur et Astynoum, magnum quoque Hypirona fundit,
 
@@ -4960,7 +4762,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Astynoum, Hypirona … (Iliad. V, 144). …
 
 [6] 443 fertur et Astynoum magnumque † Hyperona fundit:
-- *Iliad* 5.144
 
 444 comminus hunc gladio, iaculo ferit eminus illum;
 
@@ -4982,7 +4783,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - **445-446** Polyidon, Thoonem … (Iliad. V, 148, 152).
 
 [6] 445 inde premit Polyïdon Abantaque cuspide forti
-- *Iliad* 5.148
 
 446 et notum bello Xanthum uastumque Thoonem.
 
@@ -4993,7 +4793,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 446 Etnolnm bello Xanthum vastumque Thoonem.
 
 [6] 446 et notum bello Xanthum vastumque Thoonem.
-- *Iliad* 5.152
 
 447 Post hos infestus Chromiumque et Echemmona telo
 
@@ -5005,7 +4804,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - … Chromium, Echemona … (Iliad. V, 159-160).
 
 [6] 447 post hos infestos Chromiumque et Echemmona telo
-- *Iliad* 5.160
 
 448 proturbat celeri pariterque ad Tartara mittit.
 
@@ -5026,7 +4824,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 449 Tu quoque Tydidae prostratus, Pandare, dextra
 
 [6] 449 tu quoque Tydidae prostratus, Pandare, dextra
-- *Iliad* 5.290
 
 450 occidis, infelix, accepto uulnere tristi,
 
@@ -5078,7 +4875,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 454 Jamque manum Aeneas simul et Calydonius hcros
 
 [6] 454 iamque manum Aeneas simul et Calydonius heros
-- *Iliad* 5.297
 
 455 contulerant, iactis inter se comminus hastis;
 
@@ -5100,7 +4896,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 456 Undique rimabant inimico corpora ferro,
 
 [6] 456 undique rimabant inimico corpora ferro
-- *Iliad* —
 
 457 et modo cedebant retro, modo deinde coibant.
 
@@ -5111,7 +4906,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 457 Et modo cedebant retro, modo deinde coibant.
 
 [6] 457 et modo cedebant retro, modo deinde coibant.
-- *Iliad* —
 
 458 Postquam utrique diu steterant nec uulnera magnus
 
@@ -5122,7 +4916,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 458 Postquam utrique diu steterant ncc vulnera maguus
 
 [6] 458 postquam utrique diu steterant nec vulnera magnus
-- *Iliad* —
 
 459 qua daret infesto Tydides ense uidebat,
 
@@ -5133,7 +4926,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 459 Qua daret infesto Tydides ense videbat,
 
 [6] 459 qua daret infesto Tydides ense videbat,
-- *Iliad* —
 
 460 saxum ingens medio quod forte iacebat in agro,
 
@@ -5144,7 +4936,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 460 Saxum ingens. medio quod forte jaeebat in agro,
 
 [6] 460 saxum ingens, medio quod forte iacebat in agro,
-- *Iliad* 5.302
 
 461 bis seni quod uix iuuenes tellure mouerent,
 
@@ -5187,7 +4978,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 464 Quem Yenus aelhereas genetrix delapsa per auras
 
 [6] 464 quem Venus aethereas genetrix delapsa per auras
-- *Iliad* 5.312
 
 465 accipit et nigra corpus caligine condit.
 
@@ -5222,7 +5012,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 467 Fertur et in Yenerem tlagrantibus irruit armis
 
 [6] 467 fertur et in Venerem flagrantibus irruit armis
-- *Iliad* 5.330
 
 468 et neque quem demens ferro petat inspicit aruis
 
@@ -5233,7 +5022,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 468 Et neque quem demens ferro petat inspicit ante
 
 [6] 468 et neque quem demens ferro petat inspicit . . . . .
-- *Iliad* —
 
 469 caelestemque manum mortali uulnerat hasta.
 
@@ -5245,7 +5033,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 469 Caelestemque manum mortali vulnerat hasta.
 
 [6] 469 caelestemque manum mortali vulnerat hasta.
-- *Iliad* 5.336
 
 470 Icta petit caelum terris Cytherea relictis
 
@@ -5268,7 +5055,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 471 Atque ibi sidereae queritur sua vulnera matri.
 
 [6] 471 atque ibi sidereae queritur sua vulnera matri.
-- *Iliad* 5.370
 
 472 Dardanium Aenean seruat Troianus Apollo
 
@@ -5279,7 +5065,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 472 Dardanium Aenean servat Trojanus Apollo
 
 [6] 472 Dardanium Aenean servat Troianus Apollo
-- *Iliad* 5.344
 
 473 accenditque animos iterumque ad bella reducit.
 
@@ -5290,7 +5075,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 473 Accenditque animos iterumque ad bella reducit.
 
 [6] 473 accenditque animos iterumque ad bella reducit.
-- *Iliad* 5.513
 
 474 Vndique consurgunt acies et puluere caelum
 
@@ -5302,7 +5086,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 474 Undique consurgunt acies et pulvere caelum
 
 [6] 474 undique consurgunt acies et pulvere caelum
-- *Iliad* —
 - **474—481** (testimonia) = Gesta Ber. 1, 195—202 (476 in aequore cursu)
 
 475 conditur horrendisque sonat clamoribus aether.
@@ -5314,7 +5097,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 475 Conditur horrendisque sonat clamoribus aether.
 
 [6] 475 conditur horrendisque sonat clamoribus aether.
-- *Iliad* —
 
 476 Hic alius rapido deiectus in aequora curru
 
@@ -5325,7 +5107,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 476 Ilic alius rapido dejcctus in aequora curru
 
 [6] 476 hic alius rapido deiectus in aequora curru
-- *Iliad* —
 
 477 proteritur pedibusque simul calcatur equorum
 
@@ -5337,7 +5118,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 477 Proteritur pedibusque simul calcatur equorum;
 
 [6] 477 proteritur pedibusque simul calcatur equorum
-- *Iliad* —
 
 478 atque alius uolucri traiectus corpora telo
 
@@ -5348,7 +5128,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 478 Atque alius volucri trajectus pectora telo
 
 [6] 478 atque alius volucri traiectus tempora telo
-- *Iliad* —
 
 479 quadrupedis tergo pronus ruit; illius ense
 
@@ -5360,7 +5139,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 479 Quadrupedis tergo pronus rnit; illius ense
 
 [6] 479 cornipedis tergo pronus ruit; illius ense
-- *Iliad* —
 
 480 deiectum longe caput a ceruice cucurrit;
 
@@ -5371,7 +5149,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 480 Dejectum longe caput a cervice cucurrit; hSO
 
 [6] 480 deiectum longe caput a cervice cucurrit;
-- *Iliad* —
 
 481 hic iacet exanimis fuso super arma cerebro:
 
@@ -5383,7 +5160,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 481 Hic jacet exanimis fuso super arma cerebro :
 
 [6] 481 hic iacet exanimis fuso super arma cerebro:
-- *Iliad* —
 
 482 sanguine manat humus, campi sudore madescunt.
 
@@ -5394,7 +5170,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 482 Sanguine manat liumus, campi sudorc madescunt.
 
 [6] 482 sanguine manat humus, campi sudore madescunt.
-- *Iliad* —
 - (testimonia) = Gesta Ber. 1, 204 s.
 
 483 Emicat interea Veneris pulcherrima proles
@@ -5406,7 +5181,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 483 Emicat interea Veneris pulcherrima proles
 
 [6] 483 emicat interea Veneris pulcherrima proles
-- *Iliad* 5.514
 
 484 densaque Graiorum premit agmina nudaque late
 
@@ -5439,7 +5213,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 486 Nec cessat spes una Phrygum fortissimus Hector
 
 [6] 486 nec cessat spes una Phrygum fortissimus Hector
-- *Iliad* 5.494
 
 487 sternere caede uiros atque agmina uertere Graium.
 
@@ -5461,7 +5234,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 488 Ut lupus in campis pecudes cum vidit apertis,
 
 [6] 488 ut lupus in campis pecudes cum vidit apertis
-- *Iliad* —
 - **488—490** (testimonia) canum = Gesta Ber. 2, 163—5
 
 489 (non actor gregis ipse, comes non horrida terret
@@ -5474,7 +5246,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 489 Non actor gregis ipse comes, non horrida terret
 
 [6] 489 (non actor gregis ipse, comes non horrida terret
-- *Iliad* —
 - … distinxi post ipse; solent post comes
 
 490 turba canum), fremit esuriens et neglegit omnes
@@ -5487,7 +5258,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 490 Turba canum; fremit esuriens et neglegit omnes
 
 [6] 490 turba canum), fremit esuriens et neglegit omnes
-- *Iliad* —
 
 491 in mediosque greges auidus ruit, haut secus Hector
 
@@ -5498,7 +5268,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 491 In mediosque greges avidus ruit : liaut secus Hector
 
 [6] 491 in mediosque greges avidus ruit: haut secus Hector
-- *Iliad* —
 
 492 inuadit Danaos et territat ense cruento.
 
@@ -5519,7 +5288,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 493 Deficiunt Grajorum acies, Phryges acrius instant
 
 [6] 493 deficiunt Graiorum acies, Phryges acrius instant
-- *Iliad* —
 
 494 attolluntque animos: geminat uictoria uires.
 
@@ -5531,7 +5299,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 494 Attolluntque animos : geminat victoria vires.
 
 [6] 494 attolluntque animos: geminat victoria vires.
-- *Iliad* —
 
 495 Vt uidit socios infesto cedere Marte,
 
@@ -5552,7 +5319,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 496 Rex Danaum, sublimis equo volat agmina circum
 
 [6] 496 rex Danaum, sublimis equo volat agmina circum
-- *Iliad* 5.528
 
 497 hortaturque duces animosque in proelia firmat.
 
@@ -5594,7 +5360,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 500 Ut Libycus cum forte leo procul agmina vidit
 
 [6] 500 ut Libycus cum forte leo procul agmina vidit
-- *Iliad* 5.161
 - **500—508** (testimonia) fere = Gesta Ber. 1, 208—10 (500 cernit, 502 Attollens)
 
 501 laeta boum passim uirides errare per herbas,
@@ -5637,7 +5402,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 504 Sic ferus Atrides adversos fertur in hostes
 
 [6] 504 sic ferus Atrides adversos fertur in hostes
-- *Iliad* 5.533
 
 505 infestasque Phrygum proturbat cuspide turmas.
 
@@ -5700,7 +5464,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 510 Conspicit Atrides strictoque occurrere ferro
 
 [6] 510 conspicit Atrides: stricto concurrere ferro
-- *Iliad* 5.561
 
 511 comparat et iaculum, quantum furor ipse mouebat,
 
@@ -5711,7 +5474,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 511 Comparat et jaculum, quantas furor ipse movebat,
 
 [6] 511 comparat et iaculum, quantas furor ipse movebat,
-- *Iliad* —
 
 512 uiribus intorquet, quod detulit error ab illo
 
@@ -5723,7 +5485,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 512 Viribus intorquet, quod detulit error ab illo
 
 [6] 512 viribus intorquet, quod detulit error ab illo
-- *Iliad* —
 - detulit Schrader ex Ov. met. 5, 90 …
 
 513 pectus in aurigae stomachoque infigitur alto;
@@ -5736,7 +5497,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 513 Pectus in aurigae stomachoque infigitur alto :
 
 [6] 513 pectus in aurigae stomachoque infigitur alto:
-- *Iliad* 8.119
 - alto … at cf. Verg. Aen. 9, 699
 
 514 ille ruens ictu media inter lora rotasque
@@ -5749,7 +5509,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 514 Ille ruens ictu media inter lora rotasque
 
 [6] 514 ille ruens ictu media inter lora rotasque
-- *Iliad* —
 
 515 uoluitur et uitam calido cum sanguine fundit.
 
@@ -5760,7 +5519,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 515 Yolvitur et vitam calido cum sanguine fundit.
 
 [6] 515 voluitur et vitam calido cum sanguine fundit.
-- *Iliad* —
 
 516 Ingemit Aeneas curruque animosus ab alto
 
@@ -5771,7 +5529,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 516 Ingemit Acneas curruque animosus ab alto
 
 [6] 516 ingemit Aeneas curruque animosus ab alto
-- *Iliad* —
 
 517 desilit et ualido Crethona<que> comminus ictu
 
@@ -5784,7 +5541,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Crethona … (Iliad. V, 541 sqq.).
 
 [6] 517 desilit et valido Crethona\<que> comminus ictu
-- *Iliad* 5.542
 
 518 Orsilochumque ferit, quorum post funera uictus
 
@@ -5808,7 +5564,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 519 Paphlagonum ductor Menelai concidit armis,
 
 [6] 519 Paphlagonum ductor Menelai concidit armis,
-- *Iliad* 5.577
 
 520 Antilochique Mydon. Post hos Iouis inclita proles
 
@@ -5820,7 +5575,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 520 Antilochique Mydon ; post hos Jovis inclita proles
 
 [6] 520 Antilochique Mydon; post hos Iovis inclita proles
-- *Iliad* 5.580
 
 521 Sarpedon bellum funestaque proelia miscet.
 
@@ -5853,7 +5607,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Tlepolemus … (Iliad. V, 628).
 
 [6] 523 Tlepolomus magno satus Hercule, sed neque vires
-- *Iliad* 5.628
 
 524 hunc seruare patris nec tot potuere labores,
 
@@ -5886,7 +5639,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 526 Saucius egreditur medio certamine belli
 
 [6] 526 saucius egreditur medio certamine belli
-- *Iliad* 5.663
 
 527 Sarpedon fraudisque subit commentor Vlixes
 
@@ -5898,7 +5650,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 527 Sarpedon, fraudisque subit commentor Ulixes
 
 [6] 527 Sarpedon, fraudisque subit commentor Vlixes
-- *Iliad* 5.669
 
 528 et septem iuuenum fortissima corpora fundit.
 
@@ -5910,7 +5661,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 528 Et septem juvenum fortissima corpora fundit.
 
 [6] 528 et septem iuvenum pulcherrima corpora fundit.
-- *Iliad* 5.677
 
 529 Hinc pugnat patriae columen Mauortius Hector,
 
@@ -5922,7 +5672,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 529 Hinc pugnat patriae columen Mavortius Hector,
 
 [6] 529 hinc pugnat patriae columen Mavortius Hector,
-- *Iliad* 5.680
 
 530 illinc Tydides: sternuntur utrimque uirorum
 
@@ -5933,7 +5682,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 530 Illinc Tydides : sternuntur utrimque virorum
 
 [6] 530 illinc Tydides: sternuntur utrimque virorum
-- *Iliad* 5.793
 
 531 corpora per campos et sanguine prata rigantur.
 
@@ -5954,7 +5702,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 532 Pugnat bellipotens casta cum Pallade Mavors
 
 [6] 532 pugnat bellipotens casta cum Pallade Mavors
-- *Iliad* 5.846
 
 533 ingentemque mouet clipeum, quem sancta uirago
 
@@ -5987,7 +5734,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 535 Attonitumque simul caelum petere ipsa coegit;
 
 [6] 535 attonitumque simul caelum petere ipsa coegit;
-- *Iliad* 5.867
 
 536 Hic ille aetherio queritur sua uulnera regi
 
@@ -6010,7 +5756,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 537 Saucius et magni genitoris jurgia suffert.
 
 [6] 537 saucius et magni genitoris iurgia suffert.
-- *Iliad* 5.888
 
 ## Book 6
 
@@ -6024,7 +5769,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 538 Interea magnis Acamantem viribus Ajax
 
 [6] 538 interea magnis Acamantem viribus Aiax
-- *Iliad* 6.8
 
 539 interimit uastumque capit Menelaus Adrastum
 
@@ -6036,7 +5780,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 539 Interimit, vastumque capit Menelaus Adrastum
 
 [6] 539 interimit, vastumque capit Menelaus Adrastum
-- *Iliad* 6.37
 
 540 et rapit ad classes manibus post terga reuinctis,
 
@@ -6047,7 +5790,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 540 Et rapit ad classes manibus post terga revinctis,
 
 [6] 540 et rapit ad classes manibus post terga revinctis,
-- *Iliad* —
 - (testimonia) manibus — revinctis = Gesta Ber. 3, 115
 
 541 ut ui deducat laetos ex hoste triumphos.
@@ -6060,7 +5802,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 541 Ut vivo ducat laetos ex hoste triumphos.
 
 [6] 541 ut vivo ducat laetos ex hoste triumphos.
-- *Iliad* —
 
 542 Incumbunt Danai, cedit Troiana iuuentus
 
@@ -6071,7 +5812,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 542 Incumbunt Danai, cedit Trojana juventus
 
 [6] 542 incumbunt Danai, cedit Troiana iuventus
-- *Iliad* 6.73
 
 543 tergaque nuda tegit. Sensit Mauortius Hector
 
@@ -6123,7 +5863,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 547 Imperat et divae placari numina suadet.
 
 [6] 547 imperat et divae placari numina suadet.
-- *Iliad* 6.240
 
 548 Protinus armatas innuptae Palladis arces
 
@@ -6166,7 +5905,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 551 Dumque preces Hecuhe supplex ad templa Minervae
 
 [6] 551 dumque preces Hecabe supplex ad templa Minervae
-- *Iliad* 6.286
 
 552 pro caris genetrix natis et coniuge fundit,
 
@@ -6187,7 +5925,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 553 Interea Glaucus stricto decernere ferro
 
 [6] 553 interea Glaucus stricto decernere ferro
-- *Iliad* 6.119
 
 554 cum Diomede parat nomenque genusque roganti
 
@@ -6293,7 +6030,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 563 Commutant clipeos inimicaque proelia lincunt.
 
 [6] 563 commutant clipeos inimicaque proelia linquunt.
-- *Iliad* 6.233
 
 ## Book 7
 
@@ -6306,7 +6042,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 564 Colloquium petit interea fidissima conjunx
 
 [6] 564 colloquium petit interea fidissima coniunx
-- *Iliad* 6.394
 
 565 Hectoris Andromache paruumque ad pectora natum
 
@@ -6359,7 +6094,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 569 Terribilemque fugit galeam cristamque micantem.
 
 [6] 569 terribilemque fugit galeam cristamque comantem.
-- *Iliad* 6.469
 
 570 Vtque caput iuuenis posito detexerat aere,
 
@@ -6391,7 +6125,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 572 Attollensque manus « Precor, o pater optime » dixit,
 
 [6] 572 attollensque manus 'precor, o pater optime' dixit,
-- *Iliad* 6.476
 
 573 "ut meus hic, pro quo tua numina, natus, adoro,
 
@@ -6423,7 +6156,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 575 Haec ait, et portis acies petit acer apertis;
 
 [6] 575 haec ait et portis acies petit acer apertis;
-- *Iliad* 7.1
 
 576 una deinde Paris. Postquam in certamina uentumst,
 
@@ -6454,7 +6186,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 578 Grajorumque duces invictis provocat armis.
 
 [6] 578 Graiorumque duces invictis provocat armis.
-- *Iliad* 7.55
 
 579 Nec mora: continuo fraudis commentor Vlixes
 
@@ -6466,7 +6197,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 579 Nec mora : continuo fraudis commentor Ulixes
 
 [6] 579 nec mora: continuo fraudis commentor Vlixes
-- *Iliad* 7.161
 
 580 et ferus Idomeneus et notus gente paterna
 
@@ -6527,7 +6257,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 585 Procedunt; aberat nam Troum terror Achilles
 
 [6] 585 procedunt; aberat nam Troum terror Achilles
-- *Iliad* 7.229
 
 586 et cithara dulci durum lenibat amorem.
 
@@ -6539,7 +6268,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 586 Et citbara dulci durum lenibat amorem.
 
 [6] 586 et cithara dulci † divum lenibat amores.
-- *Iliad* 9.186
 
 586a
 
@@ -6561,7 +6289,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 587 Ergo ubi dejectis auratam regis Atridae
 
 [6] 587 ergo ubi deiectis auratam regis Atridae
-- *Iliad* 7.181
 
 588 sortibus in galeam magnus processerat Aiax,
 
@@ -6592,7 +6319,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 589 Principio jactis commidunt proelia telis,
 
 [6] 589 principio iactis committunt proelia telis:
-- *Iliad* 7.244
 
 590 mox rigidos stringunt enses et fortibus armis
 
@@ -6603,7 +6329,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 590 Mox rigidos slringunt enses et forlibus armis
 
 [6] 590 mox rigidos stringunt enses et fortibus armis
-- *Iliad* —
 
 591 decernunt partesque oculis rimantur apertas
 
@@ -6615,7 +6340,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 591 Decernunt partesque oculis rimantur apertas
 
 [6] 591 decernunt partesque oculis rimantur apertas
-- *Iliad* —
 
 592 et modo terga petunt, duros modo fortibus ictus
 
@@ -6626,7 +6350,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 592 Et modo terga petunt, duros modo forlibus ictus
 
 [6] 592 et modo terga petunt, duros modo fortibus ictus
-- *Iliad* —
 
 593 depellunt clipeis; ingens ad sidera clamor
 
@@ -6637,7 +6360,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 593 Depellunt clipeis; ingens ad sidera clamor
 
 [6] 593 depellunt clipeis; ingens ad sidera clamor
-- *Iliad* —
 
 594 tollitur et uastis impletur uocibus aer.
 
@@ -6648,7 +6370,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 594 Tollitur et vastis impletur vocibus aellier.
 
 [6] 594 tollitur et vastis impletur vocibus aer.
-- *Iliad* —
 
 595 Non sic saetigeri exacuunt feruoribus iras
 
@@ -6659,7 +6380,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 595 Non sic setigeri exacuunt fervoribus iras
 
 [6] 595 non sic saetigeri exacuunt fervoribus iras
-- *Iliad* 7.257
 
 596 pectoribusque petunt uastis, modo dentibus uncis
 
@@ -6670,7 +6390,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 596 Pectoribusque fremunt vastis, mox dentibus uncis
 
 [6] 596 pectoribusque petunt vastis, modo dentibus uncis
-- *Iliad* —
 
 597 alterni librant gladios et uulnera miscent.
 
@@ -6681,7 +6400,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 597 below Alterni librant gladios et vulnera miscent
 
 [6] 597 alterni librant gladios et vulnera miscent.
-- *Iliad* —
 
 598 fortia terga premunt spumantque per ora uicissim;
 
@@ -6693,7 +6411,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 598 Fortia terga petunt spumantque per ora vicissim,
 
 [6] 598 fortia terga premunt spumantque per ora vicissim
-- *Iliad* —
 
 599 fumiferae nubes concretaque fulgura et ignes
 
@@ -6705,7 +6422,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 599 Fumiferae nubes et crebri fulminis ignes
 
 [6] 599 fumiferae nubes concretaque fulgura et ignes
-- *Iliad* —
 
 600 iactantur magnoque implentur murmure siluae.
 
@@ -6716,7 +6432,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 600 Jactantnr magnoque implentur murmure silvae.
 
 [6] 600 iactantur magnoque implentur murmure silvae:
-- *Iliad* —
 
 601 Tales Priamides ardorque Aiacis in armis
 
@@ -6727,7 +6442,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 601 below Talis Priamides similisque Aeacides armis
 
 [6] 601 tales Priamides ardorque Aiacis in armis
-- *Iliad* —
 
 602 Tandem animis teloque furens Telamonius Aiax
 
@@ -6768,7 +6482,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 605 Ille ictum celeri praevidit callidus astu
 
 [6] 605 ille ictum celeri praevidit callidus astu
-- *Iliad* 7.254
 
 606 tergaque summisit ferrumque umbone repellit.
 
@@ -6799,7 +6512,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 608 Guspis et exiguo cervicem vulnere libat.
 
 [6] 608 ensis et exiguo cervicem vulnere libat.
-- *Iliad* 7.262
 
 609 Acrius impugnans rursus consurgit in hostem
 
@@ -6830,7 +6542,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 611 Sed magno saxi jactu petit; at ferus Ajax
 
 [6] 611 sed magno saxi iactu petit; at ferus Aiax
-- *Iliad* 7.264
 
 612 ingentem clipeo septemplice reppulit ictum
 
@@ -6862,7 +6573,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 614 Quem levat exceptum Grais inimicus Apollo,
 
 [6] 614 quem levat exceptum Grais inimicus Apollo
-- *Iliad* 7.272
 
 615 integratque animum; iam rursus ad arma coibant
 
@@ -6894,7 +6604,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 617 Coeperat igniferos Titan immergere currus
 
 [6] 617 coeperat igniferos Titan immergere currus
-- *Iliad* 7.282
 
 618 noxque subire polum: iuxta mittuntur, utrosque
 
@@ -6905,7 +6614,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 618 Noxque subire polum : juxta mittuntur utrimque
 
 [6] 618 noxque subire polum: iuxta mittuntur, utrosque
-- *Iliad* 7.274
 
 619 qui dirimant a caede uiros, nec segnius illi
 
@@ -6926,7 +6634,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 620 Deponunt animos. Tum bello maximus Hector
 
 [6] 620 deponunt animos. tum bello maximus Hector
-- *Iliad* 7.287
 
 621 "Quae te terra uirum, qui te genuere parentes?
 
@@ -6938,7 +6645,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 621 below « Quae te terra virum, qui te genuere parentes?
 
 [6] 621 'quae te terra virum, qui te genuere parentes?
-- *Iliad* —
 
 622 Viribus es proles generosa atque inclita" - dixit.
 
@@ -6949,7 +6655,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 622 below Viribus es proles generosa atque inclita » dixit.
 
 [6] 622 viribus es proles generosa atque inclita' dixit.
-- *Iliad* —
 
 623 At contra se ferre parat Telamonius Aiax:
 
@@ -6960,7 +6665,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 623 below At eontra referre parat Telamonius Ajax :
 
 [6] 623 at contra se ferre parat Telamonius Aiax:
-- *Iliad* —
 - … cf. Verg. Aen. 5, 372
 
 624 "Hesiona de matre uides Telamone creatum,
@@ -6972,7 +6676,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 624 below « Hesione de malre vides Telamone creatum;
 
 [6] 624 'Hesiona de matre vides Telamone creatum,
-- *Iliad* —
 
 625 nobilis est domus et fama generosa propago."
 
@@ -6983,7 +6686,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 625 below Nobilis est domus et fama generosa propago ».
 
 [6] 625 nobilis est domus et fama generosa propago'.
-- *Iliad* —
 
 626 Hector, ut Hesionae nomen casusque recordans:
 
@@ -6995,7 +6697,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 626 below Hector ut Hesionae nomen casusque recordat :
 
 [6] 626 Hector, ut Hesionae nomen casusque recordans,
-- *Iliad* —
 
 627 "Absistamus" - ait - "sanguis communis utriquest",
 
@@ -7006,7 +6707,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 627 « Absistamus » ait, «nam vis communis utrique »;
 
 [6] 627 'absistamus' ait, 'sanguis communis utrique est'
-- *Iliad* —
 
 628 et prior Aeaciden aurato munerat ense
 
@@ -7017,7 +6717,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 628 Et prior Ajacem fulgenti munerat ense
 
 [6] 628 et prior Aeaciden aurato munerat ense
-- *Iliad* 7.303
 
 629 inque uicem, quo se bellator cinxerat Aiax,
 
@@ -7069,7 +6768,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 633 Implentur dapibus largis Bacchique liquore
 
 [6] 633 implentur dapibus largis Bacchique liquore
-- *Iliad* 7.320
 
 634 atque auidi placido tradunt sua corpora somno.
 
@@ -7080,7 +6778,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 634 Atque avidi placido tradunt sua corpora somno.
 
 [6] 634 atque avidi placido tradunt sua corpora somno.
-- *Iliad* —
 
 635 Postera cum primum stellas Aurora fugarat,
 
@@ -7093,7 +6790,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 635 Postera cum primum stellas Aurora fugarat,
 
 [6] 635 postera cum primum stellas Aurora fugarat,
-- *Iliad* —
 - (testimonia) = Gesta Ber. 3, 90 (fugaret)
 
 636 in coetum uenere Phryges. Tunc maximus Hector
@@ -7105,7 +6801,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 636 In coetum venere Phryges; tum maximus Hector
 
 [6] 636 in coetum venere Phryges; tunc maximus Hector
-- *Iliad* 7.345
 
 637 cum sociis memorans hesternae funera caedis
 
@@ -7156,7 +6851,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 641 Pertulit Idaeus Troum mandata, neque ille
 
 [6] 641 pertulit Idaeus Troum mandata; neque ille
-- *Iliad* 7.381
 
 642 aut animum praedae aut dictis accommodat aures,
 
@@ -7177,7 +6871,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 643 Ultro etiam castris Idaeum cxcedere jussit.
 
 [6] 643 ultro etiam castris Idaeum excedere iussit.
-- *Iliad* —
 
 644 Paruit is monitis iterumque ad castra reuersus
 
@@ -7188,7 +6881,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 644 Paruit is monilis iterumque ad castra reversus
 
 [6] 644 paruit is monitis iterumque ad castra reversus
-- *Iliad* 7.413
 
 645 Troiae contemptum duro se reddit ab hoste.
 
@@ -7200,7 +6892,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 645 Troica contemptum duro se reddit ab hoste.
 
 [6] 645 Troiae contemptum duro se reddit ab hoste.
-- *Iliad* —
 
 646 Interea Danai confusi caede suorum
 
@@ -7212,7 +6903,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 646 Interea Danai confusa caede suorurn
 
 [6] 646 interea Danai confusi caede suorum
-- *Iliad* 7.433
 - confusi … at cf. v. 679 et H 426; confusi est 'maesti'
 
 647 ingentes struxere pyras collectaque passim
@@ -7245,7 +6935,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 649 Tum rcnovant fossas et vallum robore cingunt.
 
 [6] 649 tum renovant vires et vallum robore cingunt.
-- *Iliad* 7.441
 
 ## Book 8
 
@@ -7269,7 +6958,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 651 Convocat in coetum superos Jovis et monet omnes,
 
 [6] 651 convocat in coetum superos Iovis et monet, armis
-- *Iliad* 8.2
 
 652 ne contra sua dicta uelint contendere diui.
 
@@ -7310,7 +6998,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 655 Inde acies videt Iliacas dextraque potenti
 
 [6] 655 inde acies videt Iliacas dextraque potenti
-- *Iliad* 8.52
 
 656 sustinet auratas aequato pondere lances
 
@@ -7321,7 +7008,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 656 Sustinet auratas aequato pondere lances
 
 [6] 656 sustinet auratas aequato pondere lances
-- *Iliad* 8.69
 
 657 fataque dura Phrygum casusque expendit Achiuum
 
@@ -7363,7 +7049,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - gradiens supereminet omnes ego (Cf. Aeneid. I, 501) … [armis capiendum videtur de umeris... Totis armis Samtenius accipiebat pro « toti exercitui » KOOTEN] …
 
 [6] 660 Priamides agit et totis gravis imminet armis,
-- *Iliad* 8.216
 - … armis … i. copiis; cf. ex. gr. Ov. met. 7, 865
 
 661 unum quippe decus Phrygiae. Turbantur Achiui
@@ -7395,7 +7080,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 663 Hortatur socios muris inclusus Atrides
 
 [6] 663 hortatur socios murisque inclusus Atrides
-- *Iliad* 8.227
 
 664 languentesque animos iuuenum in certamina firmat.
 
@@ -7417,7 +7101,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 665 Princops Tydidcs ardentibus emicat armis,
 
 [6] 665 princeps Tydides ardentibus emicat armis
-- *Iliad* 8.254
 
 666 per medios hostes immani pondere fertur.
 
@@ -7482,7 +7165,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 671 Teucer agit spargitque leves in terga sagittas.
 
 [6] 671 Teucer agit spargitque leves in terga sagittas.
-- *Iliad* 8.266
 
 672 Gorgythiona ferum letali uulnere fundit;
 
@@ -7494,7 +7176,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 672 Gorgythiona ferum lelali vulnere fundit,
 
 [6] 672 Gorgythiona ferum letali vulnere fundit,
-- *Iliad* 8.302
 
 673 mox alias acies petit aurigamque superbi
 
@@ -7505,7 +7186,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 673 Mox alias acies petit aurigamque superhi
 
 [6] 673 mox alias acies petit aurigamque superbi
-- *Iliad* 8.312
 
 674 Hectoris obtruncat, quem saxo Troius heros
 
@@ -7528,7 +7208,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 675 Occupat excussoque incautum proterit arcu :
 
 [6] 675 occupat excussoque incautum proterit arcu:
-- *Iliad* 8.327
 
 676 Ast illum fidi rapiunt de caede sodales
 
@@ -7540,7 +7219,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 676 Ast illum fidi rapiunt de caede sodales
 
 [6] 676 ast illum fidi rapiunt de caede sodales
-- *Iliad* 8.332
 
 677 prostratumque leuant. Ruit undique turbidus Hector
 
@@ -7551,7 +7229,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 677 Prostratumque levant. Ruit undiquc turhidus Hector
 
 [6] 677 prostratumque levant. ruit undique turbidus Hector
-- *Iliad* 8.337
 
 678 aduersasque acies infesta cuspide terret.
 
@@ -7572,7 +7249,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 679 Sic rursus Danai turbati caede suorum
 
 [6] 679 se rursus Danai turbati caede suorum
-- *Iliad* 8.342
 
 680 conuertunt iterumque leues in castra cateruae
 
@@ -7594,7 +7270,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 681 Confugiunt portasque objecto robore firmant.
 
 [6] 681 confugiunt portasque obiecto robore firmant.
-- *Iliad* —
 
 682 At Phryges obsidunt inclusos aggere Graios
 
@@ -7605,7 +7280,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 682 At Phryges obsidunt inclusos aggere Grajos
 
 [6] 682 at Phryges obsidunt inclusos aggere Graios
-- *Iliad* 8.509
 
 683 excubituque premunt muros flammisque coronant.
 
@@ -7617,7 +7291,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 683 Excubituque premunt muros flammisque coronant.
 
 [6] 683 excubituque premunt muros flammisque coronant.
-- *Iliad* 8.561
 
 684 Cetera per campos sternunt sua corpora pubes
 
@@ -7650,7 +7323,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 686 Attoniti Danaum proceres discrimine tanto
 
 [6] 686 attoniti Danaum proceres discrimine tanto
-- *Iliad* 9.2
 
 687 nec dapibus releuant animos nec corpora curant,
 
@@ -7671,7 +7343,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 688 Sed miseri sua fata gemunt. Jam, nocte recepti,
 
 [6] 688 sed miseri sua fata gemunt. mox † hoste repulso
-- *Iliad* 9.94
 
 689 legatos mittunt dextramque hortantur Achillis,
 
@@ -7683,7 +7354,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 689 Legatos mitlunt dextramque hortantur Achillis,
 
 [6] 689 legatos mittunt dextramque hortantur Achillis,
-- *Iliad* 9.174
 
 690 ut ferat auxilium miseris. Thetideius heros
 
@@ -7705,7 +7375,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 691 Nec Danaum capit aure preces nec munera regis
 
 [6] 691 nec Danaum capit aure preces nec munera regis
-- *Iliad* 9.307
 
 692 ulla referre cupit; non illum redditus ignis
 
@@ -7736,7 +7405,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 694 Irrita legati rcferunt responsa Pelasgis.
 
 [6] 694 irrita legati referunt responsa Pelasgis
-- *Iliad* 9.657
 
 695 et dapibus curant animos lenique sopore.
 
@@ -7747,7 +7415,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 695 below Et dapibus curant animos lenique sopore
 
 [6] 695 et dapibus curant animos lenique sopore.
-- *Iliad* 9.712
 
 ## Book 10
 
@@ -7773,7 +7440,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 697 Restabatque super tacitae pars tertia noetis,
 
 [6] 697 restabatque super tacitae pars tertia noctis,
-- *Iliad* 10.253
 
 698 cum Danaum iussu castris Aetolius heros
 
@@ -7846,7 +7512,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 704 Carpebant, venit ecce Dolon, quem Troia pubes
 
 [6] 704 carpebant, venit ecce Dolon, quem Troia pubes
-- *Iliad* 10.314
 
 705 miserat, ut Danaum sollerti pectore uires
 
@@ -7878,7 +7543,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 707 Quem procul ut vidit socius Diomedis Ulixes,
 
 [6] 707 quem procul ut vidit socius Diomedis Vlixes,
-- *Iliad* 10.340
 
 708 abdiderant occultantes sua corpora furtim
 
@@ -7933,7 +7597,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 712 Post ubi transierat Pidens animoqne manuque,
 
 [6] 712 post ubi transierat fidens animoque manuque,
-- *Iliad* 10.350
 - fidens … cf. Verg. Aen. 2, 61
 
 713 prosiluere uiri iuuenemque euadere cursu
@@ -7965,7 +7628,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 715 Ille, timore pavens, « Yitam concedite » dixit
 
 [6] 715 ille timore pavens 'vitam concedite' dixit,
-- *Iliad* 10.376
 
 716 "hoc unum satis est; quodsi perstatis in ira,
 
@@ -8008,7 +7670,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 719 Maxima Troja mihi currum promisit Achillis,
 
 [6] 719 maxima Troia mihi currum promisit Achillis,
-- *Iliad* 10.392
 
 720 si uestras cepisset opes. Haec dona secutus
 
@@ -8103,7 +7764,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 728 Cogoovere viri, fauees mucrone recluso
 
 [6] 728 cognovere viri, fauces mucrone recluso
-- *Iliad* 10.455
 
 729 detrudunt iuuenis. Post haec tentoria Rhesi
 
@@ -8126,7 +7786,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 730 Intrant atque ipsum somno vinoque sepultum
 
 [6] 730 intrant atque ipsum somno vinoque sepultum
-- *Iliad* 10.470
 
 731 obtruncant spoliantque uirum fusosque per herbam
 
@@ -8180,7 +7839,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 734 Thracas equos rapiunt, quos nec praecederet Eurus
 
 [6] 734 Thraecis equos rapiunt, quos nec praecederet Eurus
-- *Iliad* 10.437
 - … cf. Ov. met. 9, 194 …
 
 735 nec posset uolucri cursu superare sagitta.
@@ -8215,7 +7873,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 737 Ad classes redeunt, quos Nestoris excipit aetas
 
 [6] 737 ad classes redeunt; quos Nestoris accipit aetas
-- *Iliad* 10.532
 - accipit (i. audit) …
 
 738 ac recipit portis. Postquam sua castra tenebant,
@@ -8237,7 +7894,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 739 Facla duci referunl : laudat Pelopeius heros,
 
 [6] 739 facta duci referunt: laudat Pelopeius heros,
-- *Iliad* —
 
 740 fessaque iucundae tradunt sua membra quieti.
 
@@ -8248,7 +7904,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 740 Fessaque jocundae tradunt sua membra quieti.
 
 [6] 740 fessaque iucundae tradunt sua membra quieti.
-- *Iliad* —
 
 ## Book 11
 
@@ -8282,7 +7937,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 743 Dardanidum Danaumque duces : volat undique nubes
 
 [6] 743 Dardanidum Danaumque duces: volat undique nubes
-- *Iliad* 11.15, 11.55
 
 744 telorum et ferro ferrum sonat, undique mixtis
 
@@ -8336,7 +7990,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 748 Antipbon ingenti prostratum vulnere fudit
 
 [6] 748 Antiphon ingenti prostratum vulnere fudit
-- *Iliad* 11.101
 
 749 Pisandrumque simul fratremque ad bella ruentem
 
@@ -8349,7 +8002,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - **749, 750** Pisandrum, Hippolochum … (Iliad. XI, 122).
 
 [6] 749 Pisandrumque simul fratremque ad bella ruentem
-- *Iliad* 11.122
 
 750 Hippolochum; post hos gladio petit Iphidamanta.
 
@@ -8361,7 +8013,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 750 Hippolochum ; post lios gladio petit Iphidamanta.
 
 [6] 750 Hippolochum; post hos gladio petit Iphidamanta.
-- *Iliad* 11.221
 
 751 Hic frater dextram iaculo ferit; ille dolore
 
@@ -8406,7 +8057,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 754 Hector tum pugnae subit acri concitus ira
 
 [6] 754 Hector tum pugnae subit acri concitus ira
-- *Iliad* 11.284
 
 755 Priamides et percussos agit undique Graios;
 
@@ -8427,7 +8077,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 756 Nec Paris hostiles cessat prosternere turmas
 
 [6] 756 nec Paris hostiles cessat prosternere turmas
-- *Iliad* 11.369
 
 757 Eurypylique femur contento uulnerat arcu.
 
@@ -8438,7 +8087,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 757 Eurypylique femur contento vulnerat arcu.
 
 [6] 757 Eurypylique femur contento vulnerat arcu.
-- *Iliad* 11.583
 
 ## Book 12
 
@@ -8473,7 +8121,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 760 Obicibus muros. Tum saxo Martius Hector
 
 [6] 760 obicibus muros; tum saxo Martius Hector
-- *Iliad* 12.453
 
 761 perfringit portas ferrataque robora laxat.
 
@@ -8494,7 +8141,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 762 Irrumpunt aditus Phryges atque in limine primo
 
 [6] 762 inrumpunt aditus Phryges atque in limine primo
-- *Iliad* 12.468
 
 763 restantes sternunt Graios ualloque cateruas
 
@@ -8546,7 +8192,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 767 Saxa volant, subeunt acta testudine Troes
 
 [6] 767 saxa volant, subeunt acta testudine Troes
-- *Iliad* 12.287
 - acta … ex Verg. Aen. 2, 441. 9, 505 …
 
 768 ascenduntque aditus et portis uiribus instant.
@@ -8558,7 +8203,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 768 Ascenduntque aditus et totis viribus instant.
 
 [6] 768 ascenduntque aditus et postes viribus intrant.
-- *Iliad* 12.469
 
 769 Turbati fugiunt omnes iam castra Pelasgi
 
@@ -8579,7 +8223,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 770 Et scandunt puppes ; urguet Trojana juventus
 
 [6] 770 et scandunt puppes; instat Troiana iuventus
-- *Iliad* 12.470
 
 771 telaque crebra iacit: resonat clamoribus aether.
 
@@ -8602,7 +8245,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 772 Neptunus vires Danais animumque ministrat.
 
 [6] 772 Neptunus vires Danais animumque ministrat:
-- *Iliad* 13.43
 
 773 pugna ingens oritur, furit istinc hostis et illinc.
 
@@ -8624,7 +8266,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 774 Idomenei dextra cadit Asius; Hector atrocem
 
 [6] 774 Idomenei dextra cadit Asius; Hector atrocem
-- *Iliad* 13.387
 
 775 Amphimachum obtruncat nec non occumbit in armis
 
@@ -8635,7 +8276,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 775 Amphimachum obtruncat, nec non occumbit in armis
 
 [6] 775 Amphimachum obtruncat nec non occumbit in armis
-- *Iliad* 13.185
 
 776 Anchisae gener Alcathous, quem fuderat ense
 
@@ -8647,7 +8287,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 776 Anchisae gener Alcathous, quem fuderat ense
 
 [6] 776 Anchisae gener Alcathous, quem fuderat ense
-- *Iliad* 13.428
 
 777 magnanimus ductor Rhytieus. Tunc feruidus hasta
 
@@ -8669,7 +8308,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 778 Deiphobus ferit Ascalaphum mergitque sub umbras.
 
 [6] 778 Deiphobus ferit Ascalaphum mergitque sub umbras.
-- *Iliad* 13.518
 
 ## Book 14
 
@@ -8682,7 +8320,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 779 Hector ubique ferox violento pectore saevit,
 
 [6] 779 Hector ubique ferox violento pectore saevit,
-- *Iliad* 14.388
 
 780 quem saxo ingenti percussum maximus Aiax
 
@@ -8693,7 +8330,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 780 Quem saxo ingenti percussum maximus Ajax
 
 [6] 780 quem saxo ingenti percussum maximus Aiax
-- *Iliad* 14.412
 
 781 depulit et toto prostratum corpore fudit.
 
@@ -8714,7 +8350,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 782 Concurrit Trojana manus juvenemque vomentem
 
 [6] 782 concurrit Troiana manus iuvenemque vomentem
-- *Iliad* 14.425, 15.11
 
 783 sanguineos fluctus Xanthi lauere fluentis.
 
@@ -8725,7 +8360,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 783 Sanguineos fluctus Xanthi lavere fluento.
 
 [6] 783 sanguineos fluctus Xanthi lavere fluentis.
-- *Iliad* 15.434
 - … cf. Verg. Aen. 4, 143
 
 784 Inde iterum ad pugnam redeunt; fit maxima caedes
@@ -8757,7 +8391,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 786 Polydamas valido Prothoenora percutit ictu,
 
 [6] 786 Polydamas valido Prothoënora percutit ictu,
-- *Iliad* 15.450
 
 787 Archelochumque Antenoriden Telamonius Aiax,
 
@@ -8769,7 +8402,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - Archilocum … (Iliad. XIV, 462 sqq.).
 
 [6] 787 Archelochumque Antenoriden Telamonius Aiax,
-- *Iliad* 14.465
 
 788 Boeotumque Acamas Promachum, quem sternit atrocis
 
@@ -8780,7 +8412,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 788 Boeotumque Acamas Promachum, quem sternit atrocis
 
 [6] 788 Boeotumque Acamas Promachum, quem sternit atrocis
-- *Iliad* 14.476
 
 789 Penelei dextra; inde cadit Priameia pubes
 
@@ -8791,7 +8422,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 789 Penelei dextra ; inde cadit Priameia pubes.
 
 [6] 789 Penelei dextra; inde cadit Priameia pubes
-- *Iliad* 14.488
 
 790 acrius insurgunt Troes ad Achaica bella
 
@@ -8803,7 +8433,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 790 Acrius assurgunt Troes ; at Achaica turba
 
 [6] 790 acrius insurgunt Troes ad Achaica bella,
-- *Iliad* 15.306
 
 791 <>
 
@@ -8826,7 +8455,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 792 Pulsa metu vallumque et muros aggere saeptos
 
 [6] 792 pulsa metu vallumque et muros aggere saeptos
-- *Iliad* 15.1
 
 793 transiliunt, alii fossas uoluuntur in ipsas.
 
@@ -8847,7 +8475,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 794 Advolat interea Danaum metus impiger Hector.
 
 [6] 794 advolat interea Danaum metus impiger Hector:
-- *Iliad* 15.279
 
 795 confugiunt iterum ad classes Agamemnonis alae
 
@@ -8858,7 +8485,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 795 Confugiunt iterum ad classes Agamemnonis alae
 
 [6] 795 confugiunt iterum ad classes Agamemnonis alae
-- *Iliad* 15.343
 
 796 atque inde aduersis propellunt uiribus hostem.
 
@@ -8869,7 +8495,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 796 Atque inde adversis propellunt viribus hostem.
 
 [6] 796 atque inde adversis propellunt viribus hostem.
-- *Iliad* 15.406
 
 797 Fit pugna ante rates, saeuit Mauortius Hector
 
@@ -8900,7 +8525,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 799 Apparat; huic validis obsistit viribus Ajax,
 
 [6] 799 apparat; huic validis obsistit viribus Aiax,
-- *Iliad* 15.416
 
 800 stans prima in puppi, clipeoque incendia saeua
 
@@ -8943,7 +8567,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 803 Illinc ardentes taedas Phryges undique jactant :
 
 [6] 803 illinc ardentes taedas Phryges undique iactant:
-- *Iliad* 15.743
 
 804 per uastos sudor pugnantum defluit artus.
 
@@ -8966,7 +8589,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 805 Non valet ulterius cladem spectare suorum
 
 [6] 805 non valet ulterius cladem spectare suorum
-- *Iliad* 16.2
 
 806 Patroclus subitoque armis munitus Achillis
 
@@ -8977,7 +8599,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 806 Patroclus subitoque armis munitus Achillis
 
 [6] 806 Patroclus subitoque armis munitus Achillis
-- *Iliad* 16.130
 
 807 prouolat et falsa conterret imagine Troas.
 
@@ -8988,7 +8609,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 807 Provolat et falsa conterret imagine Troas.
 
 [6] 807 provolat et falsa conterret imagine Troas.
-- *Iliad* 16.280
 
 808 Qui modo turbabant Danaos animoque fremebant,
 
@@ -9029,7 +8649,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 811 Saevit et ingenti Sarpedona vulnere fundit
 
 [6] 811 sternit et ingenti Sarpedona vulnere fundit
-- *Iliad* 16.481
 
 812 et nunc hos cursu nunc illos praeterit ardens
 
@@ -9041,7 +8660,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 812 Et nunc hos curru, nunc illos praeterit ardens
 
 [6] 812 et nunc hos cursu nunc illos praeterit ardens
-- *Iliad* 16.684
 
 813 proeliaque horrendi sub imagine uersat Achillis.
 
@@ -9072,7 +8690,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 815 Turbantemque acies respexit fervidus Hector,
 
 [6] 815 turbantemque acies respexit fervidus Hector,
-- *Iliad* 16.727
 
 816 tollit atrox animos uastisque immanis in armis
 
@@ -9103,7 +8720,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 818 « Huc age nunc converte gradum, fortissime Achilles :
 
 [6] 818 'huc age nunc converte gradum, fortissime Achilles:
-- *Iliad* —
 
 819 iam nosces ultrix quid Troica dextera possit
 
@@ -9114,7 +8730,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 819 Jam nosces, ultrix quid Troica dextera possit
 
 [6] 819 iam nosces, ultrix quid Troica dextera possit
-- *Iliad* —
 
 820 et quantum bello ualeat fortissimus Hector.
 
@@ -9125,7 +8740,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 820 Et quantum in bello valeat fortissimus Hector.
 
 [6] 820 et quantum bello valeat fortissimus Hector.
-- *Iliad* —
 
 821 Nam licet ipse suis Mauors te protegat armis,
 
@@ -9137,7 +8751,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 821 Nam licet ipse suis Mavors te protegat armis,
 
 [6] 821 nam licet ipse suis Mavors te protegat armis,
-- *Iliad* —
 
 822 inuito tamen haec perimet te dextera Marte."
 
@@ -9148,7 +8761,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 822 Invito tamen haec perimet te dextera Marte ».
 
 [6] 822 invito tamen haec perimet te dextera Marte'.
-- *Iliad* —
 
 823 Ille silet spernitque minas animosaque dicta,
 
@@ -9159,7 +8771,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 823 Ille silet spernitque minas animosaque dicta,
 
 [6] 823 ille silet spernitque minas animosaque dicta,
-- *Iliad* —
 
 824 ut quem mentitur uerus credatur Achilles.
 
@@ -9170,7 +8781,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 824 Ut quem mentitur verus credatur Achilles.
 
 [6] 824 ut quem mentitur verus credatur Achilles.
-- *Iliad* —
 
 825 Tunc prior intorquet collectis uiribus hastam
 
@@ -9181,7 +8791,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 825 Tunc prior intorquet collectis viribus hastam
 
 [6] 825 tunc prior intorquet collectis viribus hastam
-- *Iliad* —
 
 826 Dardanides, quam prolapsam celeri excipit ictu
 
@@ -9192,7 +8801,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 826 Dardanides, lapsam celeri quam decipit astu
 
 [6] 826 Dardanides, quam prolapsam celeri excipit ictu
-- *Iliad* —
 
 827 Patroclus redditque uices et, mutua dona,
 
@@ -9205,7 +8813,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 827 Patroclus redditque vices et mutua dona ;
 
 [6] 827 Patroclus redditque vices et mutua dona
-- *Iliad* —
 
 827a
 
@@ -9226,7 +8833,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 828 Quod clipeo excussum viridi tellure resedit.
 
 [6] 828 quod clipeo excussum viridi tellure resedit.
-- *Iliad* —
 
 829 Tunc rigidos stringunt enses et comminus armis
 
@@ -9237,7 +8843,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 829 Tunc rigidos stringunt enses et cominus arma
 
 [6] 829 tunc rigidos stringunt enses et comminus armis
-- *Iliad* —
 
 830 inter se miscent, donec Troianus Apollo
 
@@ -9258,7 +8863,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 831 Mentitos vultus simulati pandit Achillis
 
 [6] 831 mentitos vultus simulati pandit Achillis
-- *Iliad* 16.793
 
 832 denudatque uirum, quem bello maximus Hector
 
@@ -9290,7 +8894,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 834 Irruit et juvenem nudato pectore ferro
 
 [6] 834 irruit et iuvenem nudato pectore ferro
-- *Iliad* 16.820
 
 835 traicit et uictor Vulcania detrahit arma.
 
@@ -9301,7 +8904,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 835 Traicit et victo Vulcania detrahit arma.
 
 [6] 835 traicit et victor Vulcania detrahit arma.
-- *Iliad* 17.125
 
 ## Book 17
 
@@ -9314,7 +8916,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 836 Vindicat exstincti corpus Telamonius Ajax
 
 [6] 836 vindicat extincti corpus Telamonius Aiax
-- *Iliad* 17.132
 
 837 oppositoque tegit clipeo. Priameia pubes
 
@@ -9347,7 +8948,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 839 Interea juvenis tristi cum pube suorum
 
 [6] 839 interea iuvenis tristi cum pube suorum
-- *Iliad* 18.2
 
 840 Nestorides in castra ferunt miserabile corpus.
 
@@ -9370,7 +8970,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 841 Hic ut Pelidae devenerat horror ad aures
 
 [6] 841 tunc † ut Pelidis aures diverberat horror;
-- *Iliad* 18.22
 
 842 palluit infelix iuuenis, calor ossa reliquit;
 
@@ -9392,7 +8991,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 843 below Membra simul lacrimans materno nectit amictu
 
 [6] 843 membra simul lacrimans materno † nectit amictu,
-- *Iliad* —
 
 844 deflens Aeacides tristi de caede sodalis;
 
@@ -9415,7 +9013,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 845 Unguibus ora secat, comptos in pulvere crines
 
 [6] 845 unguibus ora secat comptosque in pulvere crines
-- *Iliad* 18.23
 - … cf. Verg. Aen. 12, 99 …
 
 846 deformat, scindit firmo de pectore uestes
@@ -9439,7 +9036,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 847 Et super exstincti prostratus membra sodalis
 
 [6] 847 et super extincti prostratus membra sodalis
-- *Iliad* 18.317
 
 848 crudeles fundit questus atque oscula figit.
 
@@ -9480,7 +9076,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 850 « Non impune mei laetabere caede sodalis,
 
 [6] 850 'non impune mei laetabere caede sodalis,
-- *Iliad* —
 
 851 Hector" - ait - "magnoque meo, uiolente, dolori
 
@@ -9492,7 +9087,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 851 Hector, » ait « magnasque meo, violente, dolori
 
 [6] 851 Hector' ait, 'magnoque meo, violente, dolori
-- *Iliad* —
 
 852 persolues poenas atque istis uictor in armis,
 
@@ -9503,7 +9097,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 852 Persolves poenas atque istis victor in armis,
 
 [6] 852 persolves poenas atque istis, victor, in armis,
-- *Iliad* —
 - … hyperbaton virgulis indicavi
 
 853 in quibus exsultas, fuso moriere cruore."
@@ -9515,7 +9108,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 853 In quibus exsultas, fuso moriere cruore ».
 
 [6] 853 in quibus exultas, fuso moriere cruore.'
-- *Iliad* —
 
 854 Post haec accensus furiis decurrit ad aequor
 
@@ -9527,7 +9119,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 854 Post haec accensus furiis decurrit ad aequor
 
 [6] 854 post haec accensus furiis decurrit ad aequor
-- *Iliad* —
 
 855 fortiaque arma Thetin supplex rogat: illa relictis
 
@@ -9538,7 +9129,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 855 Fortiaque arma Thetin supplex rogat : illa relictis
 
 [6] 855 fortiaque arma Thetin supplex rogat: illa relictis
-- *Iliad* —
 
 856 fluctibus auxilium Vulcani protinus orat.
 
@@ -9549,7 +9139,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 856 Fluctibus auxilium Vulcani protinus orat.
 
 [6] 856 fluctibus auxilium Vulcani protinus orat.
-- *Iliad* 18.148, 18.369
 
 857 Excitat Aetnaeos calidis fornacibus ignes
 
@@ -9561,7 +9150,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 857 Excitat Aetnaeos calidis fornacibus ignes
 
 [6] 857 excitat Aetnaeos calidis fornacibus ignes
-- *Iliad* 18.468
 
 858 Mulciber et ualidis fuluum domat ictibus aurum.
 
@@ -9582,7 +9170,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 859 Mox effecta refert divinis artibus arma
 
 [6] 859 mox effecta refert divinis artibus arma,
-- *Iliad* 19.3
 
 860 Euolat inde Thetis; quae postquam magnus Achilles
 
@@ -9606,7 +9193,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 861 Induit, in clipeum vultus convertit atroces.
 
 [6] 861 induit, in clipeum vultus convertit atroces.
-- *Iliad* —
 
 862 Illic Ignipotens mundi caelauerat arcem
 
@@ -9618,7 +9204,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 862 Illic Ignipotens mundi caelaverat arcem
 
 [6] 862 illic Ignipotens mundi caelaverat arcem
-- *Iliad* 18.483
 
 863 sideraque et liquidis redimitas undique nymphis
 
@@ -9641,7 +9226,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 864 below Oceanum terris et cinctum Nerea circum.
 
 [6] 864 Oceanum terris et cinctum Nerea circum
-- *Iliad* 18.607
 
 865 astrorumque uices dimensaque tempora noctis,
 
@@ -9653,7 +9237,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 865 Astrorumque vices dimensaque tempora noctis,
 
 [6] 865 annorumque vices dimensaque tempora noctis,
-- *Iliad* —
 - **865—867** (testimonia) = Gesta Ber. 1, 108—110
 
 866 quattuor et mundi partes, quantum Arctos ab Austro
@@ -9675,7 +9258,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 867 Et quantum occasus roseo distaret ab ortu,
 
 [6] 867 et quantum occasus roseo distaret ab ortu,
-- *Iliad* —
 
 868 Lucifer unde suis, unde Hesperus unus uterque
 
@@ -9687,7 +9269,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 868 Lucifer unde suis, unde Hesperus unus uterque
 
 [6] 868 Lucifer unde suis, unde Hesperus unus uterque
-- *Iliad* —
 
 869 exoreretur equis, et quantum in orbe mearet
 
@@ -9729,7 +9310,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 871 Addideratque fretis sua numina, Nerea magnum
 
 [6] 871 addideratque fretis sua numina: Nerea magnum
-- *Iliad* —
 
 872 Oceanumque senem nec eundem Protea semper,
 
@@ -9740,7 +9320,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 872 Oceanumque senem nec eundem Protea semper,
 
 [6] 872 Oceanumque senem nec eundem Protea semper,
-- *Iliad* —
 
 873 Tritonasque feros et amantem Dorida fluctus;
 
@@ -9752,7 +9331,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 873 Tritonesque feros et amantem Dorida fluctus;
 
 [6] 873 Tritonasque feros et amantem Dorida fluctus;
-- *Iliad* —
 
 874 fecerat et liquidas mira Nereidas arte.
 
@@ -9767,7 +9345,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [6] [874] [fecerat et mire liquidas Nereidos arces]
 
 [6] 874 fecerat et liquidas mira Nereidas arte.
-- *Iliad* —
 
 875 Terra gerit siluas horrendaque monstra ferarum
 
@@ -9779,7 +9356,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 875 Terra gerit silvas horrendaque monstra ferarum
 
 [6] 875 terra gerit silvas horrendaque monstra ferarum
-- *Iliad* —
 
 876 fluminaque et montes cumque altis oppida muris,
 
@@ -9790,7 +9366,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 876 Fluminaque et montes cumque altis oppida muris,
 
 [6] 876 fluminaque et montes cumque altis oppida muris,
-- *Iliad* 18.490
 
 877 in quibus exercent leges annosaque iura
 
@@ -9813,7 +9388,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 878 Certantes populi; sedet illic aequus utrisque
 
 [6] 878 certantes populi; sedet illic aequus utrisque
-- *Iliad* 18.506
 
 879 iudex et litem discernit fronte serena.
 
@@ -9835,7 +9409,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 880 Parte alia resonant castae paeana puellae
 
 [6] 880 parte alia castae resonant Paeana puellae
-- *Iliad* 18.593
 - (testimonia) puellae — 883 recepta in Gesta Berengarii 1, 64—67
 
 881 dantque choros molles et tympana dextera pulsat;
@@ -9878,7 +9451,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 884 Stamina compositum mundi resonantia motum.
 
 [6] 884 carmina componunt mundi resonantia motum.
-- *Iliad* —
 
 885 Rura colunt alii, sulcant grauia arua iuuenci
 
@@ -9889,7 +9461,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 885 Rura colunt alii, sulcant gravia arva juvenci
 
 [6] 885 rura colunt alii, sulcant gravia arva iuvenci
-- *Iliad* 18.542
 - (testimonia) = Gesta Ber. 1, 68
 
 886 maturasque metit robustus messor aristas
@@ -9901,7 +9472,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 886 Maturasque metit robustus messor aristas
 
 [6] 886 maturasque metit robustus messor aristas
-- *Iliad* 18.551
 
 887 et gaudet pressis immundus uinitor uuis;
 
@@ -9912,7 +9482,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 887 Et gaudet pressis immundus vinitor uvis;
 
 [6] 887 et gaudet pressis immundus vinitor uvis;
-- *Iliad* 18.561
 
 888 tondent prata greges, pendent in rupe capellae.
 
@@ -9923,7 +9492,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 888 Tondent prata greges, pendent in rupe capellae.
 
 [6] 888 tondent prata greges, pendent in rupe capellae.
-- *Iliad* 18.587
 - (testimonia) = Gesta Ber. 1, 69 (pendentque)
 
 889 Haec inter mediis stabat Mars aureus armis,
@@ -9936,7 +9504,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 889 Haec inter nitidis stabat Mars aureus armis,
 
 [6] 889 haec inter mediis stabat Mars aureus armis,
-- *Iliad* —
 - … armis Ω i. in clipeo
 
 890 quem diua poesis reliquae* circaque sedebant
@@ -9948,7 +9515,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 890 Post quem diva potens belli; circaque sedebant
 
 [6] 890 quem diva † poesis † reliquae circaque sedebant
-- *Iliad* —
 
 891 anguineis maestae Clotho Lachesisque capillis.
 
@@ -9961,7 +9527,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 891 Sanguineis maestae Clotho Lachesisque quasillis.
 
 [6] 891 anguineis maestae Clotho Lachesisque capillis.
-- *Iliad* —
 
 ## Book 19
 
@@ -9974,7 +9539,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 892 Talibus ornatus donis Thetideius heros
 
 [6] 892 talibus ornatus donis Thetideius heros
-- *Iliad* 19.364
 
 893 in medias acies immani turbine fertur,
 
@@ -9995,7 +9559,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 894 Cui vires praebet casta cum Pallade Juno
 
 [6] 894 cui vires praebet casta cum Pallade Iuno
-- *Iliad* 19.353
 
 895 dantque animos iuueni. Vidit Cythereius heros
 
@@ -10006,7 +9569,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 895 Dantque animos juveni ; contra Cythereius heros
 
 [6] 895 dantque animos iuveni: vidit Cythereius heros
-- *Iliad* 20.79
 
 896 occurritque uiro, sed non cum uiribus aequis
 
@@ -10050,7 +9612,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 899 Quem nisi servasset magnarum rector aquarum,
 
 [6] 899 quem nisi servasset magnarum rector aquarum,
-- *Iliad* 20.291
 
 900 ut profugus laetis Troiam repararet in aruis
 
@@ -10062,7 +9623,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 900 Ut profugus Latiis Trojam repararet in arvis
 
 [6] 900 ut profugus Latiis Troiam repararet in arvis
-- *Iliad* —
 
 901 Augustumque genus claris submitteret astris,
 
@@ -10074,7 +9634,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 901 Augustumque genus claris submitteret astris,
 
 [6] 901 Augustumque genus claris submitteret astris,
-- *Iliad* —
 
 902 non clarae gentis nobis mansisset origo.
 
@@ -10086,7 +9645,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 902 Non pulcrae gentis nobis mansisset origo.
 
 [6] 902 non clarae gentis nobis mansisset origo.
-- *Iliad* —
 
 903 Inde agit Aeacides infesta cuspide Teucros
 
@@ -10097,7 +9655,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 903 Inde agit Aeacides infesta cuspide Teucros
 
 [6] 903 inde agit Aeacides infesta cuspide Teucros
-- *Iliad* 20.381
 
 904 ingentemque modum prosternit caede uirorum,
 
@@ -10129,7 +9686,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 906 Confugit ad Xanthi rapidos perterrita fluctus
 
 [6] 906 confugit ad Xanthi rapidos perterrita fluctus
-- *Iliad* 21.1
 
 907 auxiliumque petit diuini fluminis; ille
 
@@ -10150,7 +9706,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 908 Instat et in mediis bellatur gurgitis undis.
 
 [6] 908 instat et in mediis bellatur gurgitis undis.
-- *Iliad* 21.233
 
 909 Ira dabat uires; stringuntur sanguine ripae
 
@@ -10184,7 +9739,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 911 At Venus et Phrygiae gentis tutator Apollo
 
 [6] 911 at Venus et Phrygiae gentis tutator Apollo
-- *Iliad* 21.234
 
 912 cogunt in Danaos Xanthi consurgere fluctus,
 
@@ -10225,7 +9779,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 915 Exspatiatur aquis et vasto gurgite praeceps
 
 [6] 915 expatiatur aquis et vasto gurgite praeceps
-- *Iliad* 21.24?
 - Expatiatur … (cf. Ov. met. 1, 285) …
 
 916 uoluitur atque uirum torrentibus impedit undis
@@ -10278,7 +9831,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 920 Propellit fluctus. Quem longe provida Juno
 
 [6] 920 propellit fluctus. quem longe provida Iuno
-- *Iliad* 21.328
 
 921 asseruit, rapidae quia cederet, ignibus, undae,
 
@@ -10291,7 +9843,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - … ignibus, Kootenio auctore, retinui : cf. enim Iliad. XXI, 342, 356, 361, 365. …
 
 [6] 921 asseruit, rapidae quia cederet, ignibus, undae,
-- *Iliad* 21.330
 - … ignibus iungendum cum asseruit (cf. Thesaurus II p. 864); ad hyperbaton cf. natus v. 573, uictor 852
 
 922 sanctaque pugnarunt inter se numina diuum.
@@ -10304,7 +9855,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 922 Sanctaque pugnarunt inter se numina divum.
 
 [6] 922 sanctaque pugnarunt inter se numina divum.
-- *Iliad* 21.391
 
 923 Rursus agit Phrygias ingenti caede cateruas
 
@@ -10325,7 +9875,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 924 Horridus Aeacides bellique ardore resumpto
 
 [6] 924 horridus Aeacides bellique ardore resumpto
-- *Iliad* 21.520
 
 925 funereas acies horrendaque proelia miscet.
 
@@ -10367,7 +9916,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 928 Percussi dubitant trepida formidine Troes
 
 [6] 928 percussi dubitant trepida formidine Troes
-- *Iliad* 21.528
 
 929 atque intra muros exhausta paene salute
 
@@ -10390,7 +9938,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 930 Confugiunt portasque objecto robore firmant.
 
 [6] 930 confugiunt portasque obiecto robore firmant.
-- *Iliad* 21.607
 
 ## Book 21
 
@@ -10403,7 +9950,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 931 Unus tota salus in quo Trojana manebat
 
 [6] 931 unus tota salus in quo Troiana manebat
-- *Iliad* 22.35
 
 932 Hector adest, quem non durae timor undique mortis,
 
@@ -10424,7 +9970,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 933 Nec patriae tenuere preces, quin obvius iret
 
 [6] 933 non patriae tenuere preces, quin obvius iret
-- *Iliad* 22.38
 
 934 et contra magnum contendere uellet Achillem.
 
@@ -10468,7 +10013,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 937 Praemetuit clausisque fugit sua moenia circum
 
 [6] 937 pertimuit clausisque fugit sua moenia circum
-- *Iliad* 22.136
 
 938 infelix portis, sequitur Nereius heros:
 
@@ -10491,7 +10035,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 939 In somnis veluti, cum pectora terruit ira,
 
 [6] 939 in somnis veluti, cum pectora terruit ira,
-- *Iliad* 22.199
 
 940 hic cursu super insequitur, fugere ille uidetur,
 
@@ -10549,7 +10092,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 944 Spectant de muris miseri sua fata parentes
 
 [6] 944 spectant de muris miseri sua fata parentes
-- *Iliad* —
 
 945 pallentemque uident supremo tempore natum
 
@@ -10560,7 +10102,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 945 Pallentemque vident extremo tempore natum,
 
 [6] 945 pallentemque vident supremo tempore natum
-- *Iliad* —
 
 946 quem iam summa dies suprema luce premebat.
 
@@ -10582,7 +10123,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 947 Huic subito ante oculos similis Tritonia fratri
 
 [6] 947 huic subito ante oculos similis Tritonia fratri
-- *Iliad* 22.226
 
 948 occurrens iuuenem simulato decipit ore;
 
@@ -10613,7 +10153,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 950 Transtulit ad Danaos iterum sua numina Pallas.
 
 [6] 950 transtulit ad Danaos iterum sua numina Pallas.
-- *Iliad* —
 
 951 Concurrunt iactis inter se comminus hastis
 
@@ -10624,7 +10163,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 951 Concurrunt jactis inter se cominus hastis
 
 [6] 951 concurrunt iactis inter se comminus hastis
-- *Iliad* 22.273
 
 952 inuicti iuuenes: hic uastis intonat armis,
 
@@ -10658,7 +10196,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 954 Alternisque feros mutant congressibus ictus.
 
 [6] 954 alternisque ferox mutat congressibus ictus.
-- *Iliad* —
 
 955 Sudor agit riuos, ensem terit horridus ensis
 
@@ -10670,7 +10207,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 955 Sudor agit rivos, ensem terit horridus ensis,
 
 [6] 955 sudor agit rivos, ensem terit horridus ensis.
-- *Iliad* —
 
 956 collatusque haeret pede pes et dextera dextrae.
 
@@ -10682,7 +10218,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 956 Collatusque haeret pede pes et dextera dextrae.
 
 [6] 956 collatusque haeret pede pes et dextera dextrae.
-- *Iliad* —
 
 956a
 
@@ -10723,7 +10258,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 959 Quam praeterlapsam vitavit callidus Hector.
 
 [6] 959 quam praeterlapsam vitavit callidus Hector.
-- *Iliad* 22.274
 
 960 Exclamant Danai. Contra Priameius heros
 
@@ -10734,7 +10268,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 960 Exclamant Danai. Contra Priameius heros
 
 [6] 960 exclamant Danai. contra Priameius heros
-- *Iliad* 22.289
 
 961 uibratum iaculum Vulcania torquet in arma.
 
@@ -10777,7 +10310,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 964 Concurrunt iterum collatis fortiter armis
 
 [6] 964 concurrunt iterum collatis fortiter armis
-- *Iliad* —
 
 965 inque uicem duros euitant comminus enses.
 
@@ -10790,7 +10322,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 965 Inque vicem duros evitant cominus enses.
 
 [6] 965 inque vicem duros evitant comminus enses.
-- *Iliad* —
 
 966 Nec sufferre ualet ultra sortemque supremam
 
@@ -10821,7 +10352,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 968 Dumque retrocedit fraternaque rebus in artis
 
 [6] 968 dumque retro cedit fraternaque rebus in artis
-- *Iliad* 22.294
 
 969 respicit auxilia et nullam uidet esse salutem,
 
@@ -10843,7 +10373,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 970 Sensit adesse dolos : quid agat? quae numina supplex
 
 [6] 970 sensit adesse dolos: quid agat? quae numina supplex
-- *Iliad* —
 
 971 inuocet? et toto languescunt corpore uires
 
@@ -10854,7 +10383,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 971 Invocet? en toto languescunt corpore vires
 
 [6] 971 invocet? et toto languescunt corpore vires
-- *Iliad* —
 
 972 auxiliumque negant; retinet uix dextera ferrum,
 
@@ -10865,7 +10393,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 972 Auxiliumque negant; retinet vix dextera ferrum.
 
 [6] 972 auxiliumque negant; retinet vix dextera ferrum,
-- *Iliad* —
 
 973 nox oculos inimica tegit nec subuenit ullum
 
@@ -10876,7 +10403,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 973 Nox oculos inimica tegit nec subvenit ullum
 
 [6] 973 nox oculos inimica tegit nec subvenit ullum
-- *Iliad* —
 
 974 defesso auxilium; pugnat moriturus et alto
 
@@ -10887,7 +10413,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 974 Defesso auxilium; pugnat moriturus et alto
 
 [6] 974 defesso auxilium; pugnat moriturus et alto
-- *Iliad* —
 - … alto … cf. Verg. Aen. 10, 464
 
 975 corde premit gemitus. Instat Nereius heros
@@ -10920,7 +10445,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 977 Et medias rigida transfixit cuspide fauces.
 
 [6] 977 et medias rigida transfixit cuspide fauces.
-- *Iliad* 22.327
 
 978 Exsultant Danai, Troes sua uulnera deflent.
 
@@ -10931,7 +10455,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 978 Exsultant Danai, Troes sua funera maerent.
 
 [6] 978 exultant Danai, Troes sua vulnera deflent.
-- *Iliad* —
 
 979 Tunc sic amissis infelix uiribus Hector:
 
@@ -10952,7 +10475,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 980 « En concede meos miseris genitoribus artus,
 
 [6] 980 'en concede meos miseris genitoribus artus,
-- *Iliad* 22.338
 
 981 quos pater infelix multo mercabitur auro:
 
@@ -10984,7 +10506,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 983 Te Priami, dux ille ducum, quem Graecia solum
 
 [6] 983 te primum, dux ille ducum, quem Graecia solum
-- *Iliad* —
 
 984 pertimuit: si, nec precibus nec munere uictus,
 
@@ -10995,7 +10516,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 984 Pertimuit : si nec precibus nec vulnere victi
 
 [6] 984 pertimuit: si, nec precibus nec munere victus,
-- *Iliad* —
 
 985 nec lacrimis miseri nec clara gente moueris,
 
@@ -11006,7 +10526,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 985 Nec lacrimis miseri nec clara gente moveris,
 
 [6] 985 nec lacrimis miseri nec clara gente moveris,
-- *Iliad* —
 
 986 afflicti miserere patris: moueat tua Peleus
 
@@ -11038,7 +10557,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 988 Talia Priamides; contra quem durus Achilles :
 
 [6] 988 talia Priamides; quem contra durus Achilles
-- *Iliad* 22.344
 
 989 "Quid mea supplicibus temptas inflectere dictis
 
@@ -11102,7 +10620,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 994 Haec ex te capient Patrocli gaudia manes,
 
 [6] 994 haec ex te capient Patrocli gaudia manes,
-- *Iliad* —
 
 995 si sapiunt umbrae." Dum talia magnus Achilles
 
@@ -11114,7 +10631,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 995 Si capiunt umbrae ». Dum talia magnus Achilles
 
 [6] 995 si capiunt umbrae.' dum talia magnus Achilles
-- *Iliad* —
 
 996 ore truci iactat, uitam miserabilis Hector
 
@@ -11125,7 +10641,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 996 Ore truci jactat, vitam miserabilis Hector
 
 [6] 996 ore truci iactat, vitam miserabilis Hector
-- *Iliad* 22.361
 
 997 reddidit. Hunc animi nondum satiatus Achilles
 
@@ -11147,7 +10662,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 998 Deligat ad currum pedibusque exsanguia membra
 
 [6] 998 deligat ad currum pedibusque exsanguia membra
-- *Iliad* 22.396
 
 999 ter circum muros uictor trahit; altius ipsos
 
@@ -11160,7 +10674,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 999 Ter circum muros victor trahit : altior ipsos
 
 [6] 999 ter circum muros victor trahit: altius ipsos
-- *Iliad* —
 
 1000 fert domini successus equos. Tum maximus heros
 
@@ -11172,7 +10685,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1000 Fert domini successus equos. Tum maximus heros
 
 [6] 1000 fert domini successus equos. tum maximus heros
-- *Iliad* —
 
 1001 detulit ad Danaos foedatum puluere corpus.
 
@@ -11193,7 +10705,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1002 Laetantur Danai, plangunt sua funera Troes.
 
 [6] 1002 laetantur Danai, plangunt sua funera Troes
-- *Iliad* 22.405
 
 1003 et pariter captos deflent cum funere muros.
 
@@ -11216,7 +10727,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1004 Interea victor defleti corpus amici
 
 [6] 1004 interea victor defleti corpus amici
-- *Iliad* 23.110
 
 1005 funerat Aeacides pompasque ad funera ducit.
 
@@ -11240,7 +10750,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1006 Ter circa tumulum miseros rapit Hectoris artus
 
 [6] 1006 ter circa tumulum miseros rapit Hectoris artus
-- *Iliad* 24.16
 
 1007 et uapido cineri ludorum indicit honores.
 
@@ -11251,7 +10760,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1007 Et varios cineri ludorum indicit honores.
 
 [6] 1007 et vapido cineri ludorum indicit honores.
-- *Iliad* 23.258
 
 1008 Tydides *tyrsin* cursu pedibusque ferocem
 
@@ -11263,7 +10771,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1008 Tydides cunctos curru pedibusque ferorum
 
 [6] 1008 Tydides † tyrsin cursu pedibusque ferocem
-- *Iliad* 23.538
 
 1009 Merionem superat; luctando uincitur Aiax
 
@@ -11284,7 +10791,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1010 Cujus decepit vires Laertius astu;
 
 [6] 1010 cuius decepit vires Laertius astus;
-- *Iliad* 23.725
 
 1011 caestibus aduersis cunctos superauit Epeos
 
@@ -11296,7 +10802,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1011 Caestibus adversos cunctos superavit Epeus
 
 [6] 1011 caestibus adversos cunctos superavit Epeos
-- *Iliad* 23.665
 
 1012 et disco forti Polypoetes depulit omnes
 
@@ -11308,7 +10813,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1012 Et disco fortis Polypoetes depulit omnes
 
 [6] 1012 et disco forti Polypoetes depulit omnes
-- *Iliad* 23.844
 
 1013 Merionesque arcu. Tandem certamine misso
 
@@ -11319,7 +10823,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1013 Merionesque arcu ; tandem certamine misso
 
 [6] 1013 Merionesque arcu; tandem certamine misso
-- *Iliad* 23.882
 
 1014 in sua castra redit turbis comitatus Achilles.
 
@@ -11330,7 +10833,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1014 In sua castra redit turbis comitatus Achilles.
 
 [6] 1014 in sua castra redit turbis comitatus Achilles.
-- *Iliad* 24.1
 
 ## Book 24
 
@@ -11343,7 +10845,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1015 Flent miseri amissum Phryges Hectora, totaque maesto
 
 [6] 1015 flent miseri amissum Phryges Hectora, totaque maesto
-- *Iliad* 22.405
 
 1016 Troia sonat planctu; fundit miseranda querelas
 
@@ -11365,7 +10866,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1017 Infelix Hecube saevisque arat unguibus ora;
 
 [6] 1017 infelix Hecabe saevisque arat unguibus ora
-- *Iliad* 22.430
 
 1018 Andromacheque suas scindit de pectore uestes,
 
@@ -11377,7 +10877,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1018 Andromacheque suas scindit de pectore vestes,
 
 [6] 1018 Andromacheque suas scindit de pectore vestes,
-- *Iliad* 22.466
 
 1019 heu tanto spoliata uiro. Ruit omnis in uno
 
@@ -11400,7 +10899,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1020 Hectore causa Phrygum, ruit et defessa senectus
 
 [6] 1020 Hectore causa Phrygum, ruit hoc defensa senectus
-- *Iliad* —
 
 1021 afflicti miseranda patris, quem nec sua coniunx
 
@@ -11411,7 +10909,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1021 Afflicti miseranda patris, quem nec sua conjunx
 
 [6] 1021 afflicti miseranda patris. quem nec sua coniunx
-- *Iliad* —
 
 1022 turbaque natorum nec magni gloria regni
 
@@ -11422,7 +10919,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1022 Turbaque natorum nec magni gloria regni
 
 [6] 1022 turbaque natorum nec magni gloria regni
-- *Iliad* 24.189
 
 1023 oblitum tenuit uitae, quin iret inermis
 
@@ -11454,7 +10950,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1025 Mirantur Danaum proceres, miratur et ipse
 
 [6] 1025 mirantur Danaum proceres, miratur et ipse
-- *Iliad* 24.483
 
 1026 Aeacides animum miseri senis; ille trementes
 
@@ -11475,7 +10970,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1027 Affusus genibus tendens ad sidera palmas
 
 [6] 1027 affusus genibus tendens ad sidera palmas
-- *Iliad* 24.478
 
 1028 haec ait: "O Graiae gentis fortissime Achilles,
 
@@ -11487,7 +10981,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1028 Haec ait : « Grajae gentis fortissime Achilles,
 
 [6] 1028 haec ait 'o Graiae gentis fortissime Achilles,
-- *Iliad* 24.486
 
 1029 o regnis inimice meis, te Dardana solum
 
@@ -11550,7 +11043,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1034 Accipias ; si nec precibus nec flecteris auro,
 
 [6] 1034 accipias; si nec precibus nec flecteris auro,
-- *Iliad* —
 
 1035 in senis extremis tua dextera saeuiat annis:
 
@@ -11561,7 +11053,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1035 In senis extremis tua dextera saeviat annis :
 
 [6] 1035 in senis extremis tua dextera saeviat annis:
-- *Iliad* —
 
 1036 saltem saeua pater comitabor funera nati!
 
@@ -11572,7 +11063,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1036 Saltim saeva pater comitabor funera nati.
 
 [6] 1036 saltem saeva pater comitabor funera nati.
-- *Iliad* —
 
 1037 Nec uitam mihi nec magnos *concedere* honores,
 
@@ -11584,7 +11074,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1037 Non vitam mihi nec magnos concedere honores,
 
 [6] 1037 nec vitam mihi nec magnos concedere honores
-- *Iliad* —
 
 1038 sed funus crudele meum! Miserere parentis
 
@@ -11596,7 +11085,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1038 Sed funus crudele peto : miserere parentis
 
 [6] 1038 sed funus crudele meum: miserere parentis
-- *Iliad* —
 
 1039 et pater esse meo mitis de corpore disce.
 
@@ -11608,7 +11096,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1039 Et pater esse meo mitis de vulnere disce.
 
 [6] 1039 et pater esse meo mitis de corpore disce.
-- *Iliad* —
 
 1040 Hectoris interitu uicisti Dardana regna,
 
@@ -11619,7 +11106,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1040 Hectoris interitu vicisti Dardana regna,
 
 [6] 1040 Hectoris interitu vicisti Dardana regna,
-- *Iliad* —
 
 1041 uicisti Priamum: sortis reminiscere uictor
 
@@ -11631,7 +11117,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1041 Vicisti Priamum : sortis reminiscere victor
 
 [6] 1041 vicisti Priamum: sortis reminiscere victor
-- *Iliad* —
 
 1042 humanae uariosque ducum tu respice casus."
 
@@ -11642,7 +11127,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1042 Humanae variosque ducum tu respice casus ».
 
 [6] 1042 humanae variosque ducum tu respice casus'.
-- *Iliad* —
 
 1043 His tandem precibus grandaeuum motus Achilles
 
@@ -11653,7 +11137,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1043 His tandem precibus grandaevum motus Achilles
 
 [6] 1043 his tandem precibus grandaevum motus Achilles
-- *Iliad* 24.515
 
 1044 alleuat a terra corpusque exsangue parenti
 
@@ -11686,7 +11169,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1046 Jamque redit Priamus tristesque ex more suorum
 
 [6] 1046 in patriam Priamus tristesque ex more suorum
-- *Iliad* 24.690
 
 1047 apparat exsequias extremaque funera ducit.
 
@@ -11697,7 +11179,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1047 Comparat exsequias supremumque funera ducit.
 
 [6] 1047 apparat exequias supremaque funera ducit.
-- *Iliad* 24.777
 
 1048 Tum pyra construitur, qua bis sex corpora Graium
 
@@ -11710,7 +11191,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1048 Tum pyra construitur, quo bis sex corpora Grajum
 
 [6] 1048 tum pyra construitur, qua bis sex corpora Graium
-- *Iliad* 24.784
 - **1048/50** (testimonia) ob rem affert Lactant. ad Stati Theb. 6, 121 …
 
 1049 quadrupedesque adduntur equi currusque tubaeque
@@ -11724,7 +11204,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1049 Quadrupedesque adduntur equi currusque tubaeque
 
 [6] 1049 quadrupedesque adduntur equi currusque tubaeque
-- *Iliad* —
 
 1050 et clipei galeaeque cauae argutaque tela.
 
@@ -11735,7 +11214,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1050 Et clipei galeaeque cavae Argivaque tela.
 
 [6] 1050 cumque cavis galeis clipeique Argivaque tela.
-- *Iliad* —
 
 1051 Haec super ingenti gemitu componitur Hector:
 
@@ -11746,7 +11224,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1051 Haec super ingenti gemitu componitur Hector :
 
 [6] 1051 haec super ingenti gemitu componitur Hector:
-- *Iliad* 24.787
 
 1052 stant circum Iliades matres manibusque decoros
 
@@ -11758,7 +11235,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1052 Stant circum Iliades matres manibusque decoros
 
 [6] 1052 stant circum Iliades matres manibusque decoros
-- *Iliad* —
 
 1053 abrumpunt crines laniataque pectora plangunt:
 
@@ -11769,7 +11245,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1053 Abscindunt crines laniataque pectora plangunt.
 
 [6] 1053 abrumpunt crines laniataque pectora plangunt:
-- *Iliad* —
 
 1054 illo namque rogo natorum funera cernunt.
 
@@ -11780,7 +11255,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1054 below Illo namque rogo natorum funera cernunt
 
 [6] 1054 illo namque rogo natorum funera cernunt.
-- *Iliad* —
 
 1055 Tollitur et iuuenum magno cum murmure clamor
 
@@ -11791,7 +11265,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1055 Tollitur et juvenum magno cum murmure clamor
 
 [6] 1055 tollitur et iuvenum magno cum murmure clamor
-- *Iliad* —
 
 1056 flebilis: ardebat flamma namque Ilion illa.
 
@@ -11803,7 +11276,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1056 Flebilis : ardebat flamma namque Ilion illa.
 
 [6] 1056 flebilis: ardebat flamma namque Ilion illa.
-- *Iliad* —
 
 1057 Inter quos gemitus laniato pectore coniunx
 
@@ -11814,7 +11286,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1057 Inter quos gemitus laniato corpore conjunx
 
 [6] 1057 inter quos gemitus laniato pectore coniunx
-- *Iliad* —
 
 1058 prouolat Andromache mediosque immittere in ignes
 
@@ -11825,7 +11296,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1058 Provolat Andromache mediosque immittere in ignes
 
 [6] 1058 provolat Andromache mediosque inmittere in ignes
-- *Iliad* —
 
 1059 se cupit Astyanacta tenens, quam iussa suarum
 
@@ -11836,7 +11306,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1059 Se cupit Astyanacta tenens, quam maesta suarum
 
 [6] 1059 se cupit Astyanacta tenens, quam iussa suorum
-- *Iliad* —
 
 1060 turba rapit. Contra tamen omnibus usque resistit,
 
@@ -11847,7 +11316,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1060 Turba rapit; contra tantum tamen illa resistit,
 
 [6] 1060 turba rapit; contra tamen omnibus usque resistit,
-- *Iliad* —
 
 1061 donec collapsae ceciderunt robora flammae
 
@@ -11859,7 +11327,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1061 Donec collapsae ceciderunt robora flammae
 
 [6] 1061 donec conlapsae ceciderunt robora flammae
-- *Iliad* —
 
 1062 inque leues abiit tantus dux ille fauillas.
 
@@ -11870,7 +11337,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1062 Inque leves abiit tantus dux ille favillas.
 
 [6] 1062 inque leves abiit tantus dux ille favillas.
-- *Iliad* —
 
 1063 Sed iam siste gradum finemque impone labori,
 
@@ -11882,7 +11348,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1063 Sed jam siste gradum finemque impone labori,
 
 [6] 1063 Sed iam siste gradum finemque inpone labori,
-- *Iliad* —
 
 1064 Calliope, uatisque tui moderare carinam,
 
@@ -11894,7 +11359,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1064 Calliope, vatisque tui moderare carinam,
 
 [6] 1064 Calliope, vatisque tui moderare carinam,
-- *Iliad* —
 
 1065 Remis quem cernis stringentem litora paucis,
 
@@ -11906,7 +11370,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1065 Raris quam cernis stringentem litora remis,
 
 [6] 1065 Remis quem cernis stringentem litora paucis.
-- *Iliad* —
 
 1066 Iamque tenet portum metamque potentis Homeri.
 
@@ -11918,7 +11381,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1066 Iamque tenens portum metamque potentis Homeri,
 
 [6] 1066 Iamque tenet portum metamque potentis Homeri:
-- *Iliad* —
 
 1067 Pieridum comitata cohors, summitte rudentes
 
@@ -11930,7 +11392,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1067 Pieridum comitata cohors, summitte rudentes;
 
 [6] 1067 Pieridum comitata cohors, summitte rudentes
-- *Iliad* —
 
 1068 Sanctaque uirgineos lauro redimita capillos
 
@@ -11942,7 +11403,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1068 Sanctaque virgineos lauro redimita capillos,
 
 [6] 1068 Sanctaque virgineos lauro redimita capillos
-- *Iliad* —
 
 1069 Ipsa tuas depone lyras. Ades, inclita Pallas,
 
@@ -11955,7 +11415,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1069 Ipsa, tuas depone lyras, ades, inclita Pallas,
 
 [6] 1069 Ipsa tuas depone lyras. ades, inclita Pallas,
-- *Iliad* —
 
 1070 Tuque faue cursu uatis iam, Phoebe, peracto.
 
@@ -11967,4 +11426,3 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1070 Tuque fave vati, cursu jam, Phoebe, peracto.
 
 [6] 1070 Tuque fave cursu vatis iam, Phoebe, peracto.
-- *Iliad* —

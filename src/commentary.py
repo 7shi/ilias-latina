@@ -69,14 +69,13 @@ def read_concordance(path: Path) -> list[tuple[int, dict]]:
 
 
 # Per language: the file of the commentary items, the headings of the
-# testimonia in it, the marker for them, the label of the lines of the
-# *Iliad*, and the heading and explanation of the output.
+# testimonia in it, the marker for them, and the heading and explanation
+# of the output.
 LANGS = {
     "": {
         "commentary": "COMMENTARY.md",
         "testimonia": "Testimonia",
         "marker": "(testimonia)",
-        "iliad": "*Iliad*",
         "header": [
             "# Commentary",
             "",
@@ -101,11 +100,6 @@ LANGS = {
             "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
             "  continued from the previous page.  Vollmer's testimonia are marked",
             "  \"(testimonia)\".",
-            "- Under Vollmer's verse, \"*Iliad*\" gives the lines of the *Iliad*",
-            "  printed in his left margin where the poet follows them, as book.line",
-            "  (\"1.8\" for his \"Α 8\"; he gives the book as a Greek letter only",
-            "  where it changes).  \"—\" is as printed, probably a verse with no",
-            "  Homeric counterpart.",
             "- The texts and the items are quoted as they stand in the files;",
             "  see each edition's COMMENTARY.md for what is kept and left out.",
         ],
@@ -114,7 +108,6 @@ LANGS = {
         "commentary": "COMMENTARY-en.md",
         "testimonia": "Testimonia",
         "marker": "(testimonia)",
-        "iliad": "*Iliad*",
         "header": [
             "# Commentary",
             "",
@@ -140,11 +133,6 @@ LANGS = {
             "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
             "  continued from the previous page.  Vollmer's testimonia are marked",
             "  \"(testimonia)\".",
-            "- Under Vollmer's verse, \"*Iliad*\" gives the lines of the *Iliad*",
-            "  printed in his left margin where the poet follows them, as book.line",
-            "  (\"1.8\" for his \"Α 8\"; he gives the book as a Greek letter only",
-            "  where it changes).  \"—\" is as printed, probably a verse with no",
-            "  Homeric counterpart.",
             "- The texts and the items are quoted as they stand in the files;",
             "  see each edition's COMMENTARY-en.md for what is kept and left out.",
         ],
@@ -153,7 +141,6 @@ LANGS = {
         "commentary": "COMMENTARY-ja.md",
         "testimonia": "証言",
         "marker": "（証言）",
-        "iliad": "『イーリアス』",
         "header": [
             "# 注解",
             "",
@@ -162,41 +149,14 @@ LANGS = {
             "- 各詩行は The Latin Library（LL）の行番号と本文で始まる。「79a」「79b」は The Latin Library にない詩行で、各版でその前にある詩行の後に置く。",
             "- 続いて各版、[2] Lemaire（ヴェルンスドルフの行番号）、[3] Baehrens、[4] Plessis、[6] Vollmer について、対照表のとおりにその版の行番号と本文を示す（「[n]」はその版が括弧に入れる詩行、「below」はプレシが本文の下に印刷する詩行、「—」は該当なし）。その後にその版の COMMENTARY-ja.md のうち、その詩行の項目を置く。詩行はラテン語のまま。",
             "- 項目のラベルは、上に示した詩行の番号以上の情報がある場合に限って残す。すなわち詩行の範囲（項目はその最初の詩行に置く）と、前の頁から続く Lemaire の注「(cont.)」である。フォルマーの証言には「（証言）」と記す。",
-            "- フォルマーの詩行の下の「『イーリアス』」は、詩人が『イーリアス』に従う箇所でフォルマーが左欄に印刷した行を、巻.行の形で示す（フォルマーの「Α 8」は「1.8」。フォルマーは巻をギリシア文字で、変わるところにだけ示す）。「—」は印刷どおりで、おそらくホメーロスに対応のない詩行である。",
             "- 本文と項目は各ファイルにあるとおりに引く。何を残し何を省いたかは各版の COMMENTARY-ja.md を参照。",
         ],
     },
 }
 
-GREEK = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"
-
-
-def iliad(margin: str, book: int) -> tuple[str, str]:
-    """Return the lines of the *Iliad* in Vollmer's margin as book.line,
-    and the current book.
-
-    Vollmer gives the book as a Greek letter only where it changes, so
-    it is carried on to the lines that follow; "148. 369" becomes
-    "2.148, 2.369".  A letter alone, printed at the top of a page, gives
-    no line and is left out.
-    """
-    refs = []
-    for m in re.finditer(r"([Α-Ω])|(\d+\??)|(ss\.)|(—)", margin):
-        if m[1]:
-            book = GREEK.index(m[1]) + 1
-        elif m[2]:
-            refs.append(f"{book}.{m[2]}")
-        elif m[3]:
-            refs[-1] += " ss."
-        else:
-            refs.append("—")
-    return ", ".join(refs), book
-
-
-def read_verses(path: Path) -> dict[tuple, list[tuple[str, str]]]:
-    """Map (LL verse or None, page, below) to (text, *Iliad* lines of the
-    margin), in order."""
-    out, page, section, header, book = {}, "", "", [], 0
+def read_verses(path: Path) -> dict[tuple, list[str]]:
+    """Map (LL verse or None, page, below) to the texts, in order."""
+    out, page, section, header = {}, "", "", []
     for line in path.read_text().splitlines():
         if m := re.match(r"## p\. (\S+)", line):
             page, section, header = m[1], "text", []
@@ -210,8 +170,7 @@ def read_verses(path: Path) -> dict[tuple, list[tuple[str, str]]]:
             c = dict(zip(header, cells(line)))
             verse = None if c["Verse"] == "—" else int(c["Verse"])
             key = (verse, page, section == "Below the text")
-            lines, book = iliad(c.get("Margin", ""), book)
-            out.setdefault(key, []).append((unescape(c["Text"]), lines))
+            out.setdefault(key, []).append(unescape(c["Text"]))
     return out
 
 
@@ -269,9 +228,9 @@ def main() -> None:
                     if not verses.get(key):
                         # A verse that ilias.md does not number ("863 bis").
                         key = (None,) + key[1:]
-                    text, margin = verses[key].pop(0) if verses.get(key) else ("", "")
+                    text = verses[key].pop(0) if verses.get(key) else ""
                     label = own + (" below" if m["below"] else "")
-                    out.append((label or "—", text, margin))
+                    out.append((label or "—", text))
                     bare = own.strip("[]")
                     if bare:
                         own_row.setdefault((num, bare), i)
@@ -301,7 +260,7 @@ def main() -> None:
             # The label is left out where it is only the number of the
             # verse given above ("1075 (LL 1070)", "474").
             owns = {l.removesuffix(" below").strip("[]")
-                    for l, _, _ in entries[i][num]}
+                    for l, _ in entries[i][num]}
             head = [] if re.sub(r" \(LL .*\)$", "", label) in owns else [f"**{label}**"]
             if section == lang["testimonia"]:
                 head.append(lang["marker"])
@@ -322,16 +281,14 @@ def main() -> None:
             lines += ["", f"{last} {ll[last]}"]
         for num, d, col in EDITIONS:
             lines.append("")
-            ents = entries[i][num] or [("—", "", "")]
-            for k, (label, text, margin) in enumerate(ents):
+            ents = entries[i][num] or [("—", "")]
+            for k, (label, text) in enumerate(ents):
                 if k:
                     lines.append("")
                 if label == "—" and not text:
                     lines.append(f"[{num}] —")
                 else:
                     lines.append(f"[{num}] {label} {text}".rstrip())
-                if margin:
-                    lines.append(f"- {lang['iliad']} {margin}")
             lines += notes[i].get(num, [])
     output.write_text("\n".join(lines) + "\n")
 

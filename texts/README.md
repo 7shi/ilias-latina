@@ -31,6 +31,10 @@ Its translations [COMMENTARY-en.md](COMMENTARY-en.md) and
 [COMMENTARY-ja.md](COMMENTARY-ja.md) are built in the same way from the
 editions' `COMMENTARY-en.md` and `COMMENTARY-ja.md`.
 
+[iliad.md](iliad.md) lists the lines of the *Iliad* that Vollmer prints
+in the left margin of his text, as book.line, with his verses keyed to
+The Latin Library (see [Iliad](#iliad)).
+
 [overview.md](overview.md) draws the prefaces, introductions, testimonia,
 excursus and indexes of the four editions together into one essay in
 Latin, keeping the editors' words where possible and linking each point
@@ -156,8 +160,6 @@ following the rows of [concordance.md](concordance.md):
   Plessis and [6] Vollmer, each with its own number and text of the
   verse ("—" where it does not have the verse), followed by the items of
   its `COMMENTARY.md` on that verse.
-- Under Vollmer's verse, "*Iliad*" gives the lines of the *Iliad* in his
-  left margin as book.line ("1.8" for his "Α 8").
 - An item's label is left out where it is only the number of the verse
   above it; it is kept for a range of verses (given at the first of
   them) and for Lemaire's "(cont.)", a note continued from the previous
@@ -166,6 +168,26 @@ following the rows of [concordance.md](concordance.md):
 It is built by `make commentary` in [src/](../src/README.md)
 (`commentary.py`) and rebuilt whenever its sources change, so it is not
 corrected by hand; corrections go into the editions' files.
+
+## Iliad
+
+[iliad.md](iliad.md) is built by `make iliad` in this directory
+([iliad.py](iliad.py)) from the Margin column of Vollmer's
+[ilias.md](6-vollmer/ilias.md) and the book headings of
+[ilias.txt](ilias.txt), and rebuilt whenever they change, so it is not
+corrected by hand.
+
+- Only the verses with a line of the *Iliad* or a dash in the margin
+  are listed, in Vollmer's order, under the book of The Latin Library;
+  a verse he moves back across a book (790 after 794) stays in the
+  later book.
+- The lines are given as book.line: his Greek book letter, printed
+  where the book changes and on the first verse of most pages, is
+  carried on and turned into a number ("Α 8" → "1.8"; "148. 369" in
+  book 18 → "18.148, 18.369"); a letter alone gives no line and is
+  left out.
+- What the marks mean is set out at the top of iliad.md and in
+  [6-vollmer/README.md](6-vollmer/README.md).
 
 ## Books
 

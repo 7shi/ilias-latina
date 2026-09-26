@@ -283,11 +283,6 @@ and the verse tables and `COMMENTARY.md` of the four editions.
   with the last note of the previous page; the numbers of Baehrens,
   Plessis and Vollmer are looked up in their concordance columns.  A
   label for several verses goes to the first of them.
-- The lines of the *Iliad* in the Margin column of Vollmer's ilias.md
-  are given under his verse as book.line: his Greek book letter,
-  printed only where the book changes, is carried on and turned into a
-  number ("Α 8" → "1.8", "148. 369" → "2.148, 2.369"); the letter he
-  repeats alone at the top of a page is left out.
 - Unlike the concordance, `../texts/COMMENTARY.md` is not corrected by
   hand; corrections are made in its sources and `make commentary`
   rebuilds it.

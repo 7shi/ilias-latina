@@ -32,10 +32,18 @@ Each page has a table of the verses and lists of the notes below them.
   around a lacuna.  Verse 791 is not in the text (see the apparatus).
 - **Margin**: the left margin as read by the OCR.  Vollmer prints there
   the lines of the *Iliad* that the poet follows (the book as a Greek
-  letter where it changes, then the line), since he regards the
-  24-book division of the manuscripts as useless (preface, p. VIII).
-  Many verses have a dash instead, probably marking verses with no
-  Homeric counterpart (not yet checked).
+  letter where it changes and usually on the first verse of a page,
+  then the line), since he regards the 24-book division of the
+  manuscripts as useless; this also shows, he says, in which parts
+  the poet displayed his own art and invention (preface, p. VIII).
+  He does not explain the marks further.  A line marks where the
+  correspondence begins or resumes; how far it runs is not given.
+  Many verses have a dash instead, in the context of the preface the
+  poet's own additions (e.g. 33, 35–39, 41–43 in Chryses' prayer).  A
+  verse with an empty margin is not marked; most such verses follow
+  Homer near the lines given before or after them (34, on the
+  sacrifices, is *Iliad* 1.39–40; 252, before Γ 16, is 3.1–15).  The
+  lines are listed in [../iliad.md](../iliad.md).
 - **Printed**: the verse number in the right margin as printed (every
   five verses), corrected against the page images.
 - **Testimonia**: quotations and borrowings in later authors (e.g.

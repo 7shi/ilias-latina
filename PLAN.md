@@ -73,9 +73,10 @@ texts/concordance.md (the Book divisions) and src/README.md first.
   interpretation (without the readings and conjectures), and
   texts/COMMENTARY.md puts the verses of LL and the four editions and
   these notes together verse by verse (`make commentary`).  It is the
-  material for the notes; the separate tables planned before (Vollmer's
-  margin → *Iliad* lines, Plessis's index → verses, Lemaire's notes keyed
-  to LL) are no longer needed.
+  material for the notes; the separate tables planned before
+  (Plessis's index → verses, Lemaire's notes keyed to LL) are no longer
+  needed.  The lines of the *Iliad* in Vollmer's margin are kept apart in
+  texts/iliad.md (`make iliad` in texts/), as book.line with his verses.
 - The files of the editions, including ilias.md (apparatus and notes;
   the verse tables are kept verbatim) and COMMENTARY.md, have English
   and Japanese translations (`-en.md`, `-ja.md`), and `make commentary`
@@ -98,10 +99,13 @@ the user before writing much:
 - Settle the [Open questions](#open-questions) (directory, file format,
   language of the notes) with the user before writing the notes
   themselves.
-- The *Iliad* lines of Vollmer's margin are given under his verse in
-  texts/COMMENTARY.md as book.line ("1.8" for his "Α 8"); the meaning of
-  his dash (probably no Homeric counterpart) is still to be checked in
-  his preface.
+- The *Iliad* lines of Vollmer's margin are in texts/iliad.md as
+  book.line ("1.8" for his "Α 8").  His preface (p. VIII) says only
+  that they show where the poet displayed his own art and invention; a
+  dash is read as the poet's addition, and verses with an empty margin
+  are left out.  The Greek text (Monro and Allen, from Perseus) is
+  downloaded by `make homer` to src/tmp/ for reference only and is not
+  committed.
 
 ### Page images (last resort)
 
@@ -152,7 +156,7 @@ The sources for all layers are gathered verse by verse in
    follows, compresses, changes or adds to Homer.
    - Source: the references to Homer in the notes of Wernsdorf [2],
      Plessis [4] and Vollmer [6]; the *Iliad* lines in the margin of
-     Vollmer's text, given under his verse.
+     Vollmer's text, listed in texts/iliad.md.
 2. **Latin models**: echoes of Vergil, Ovid and other Latin poets.
    - Source: Wernsdorf's notes, reprinted by Lemaire [2]; the parallels
      in Plessis [4] and Vollmer [6].
