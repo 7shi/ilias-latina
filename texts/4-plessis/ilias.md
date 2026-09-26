@@ -60,7 +60,7 @@ Book heading: I.
 ### Notes
 
 - **2** quae Higt.
-- **5** Ipsorum Havet; cf. Iliad. I, 4 αὐτοὺς δὲ.
+- **5** Ipsorum Havet; cf. Iliad. I, 4 αὐτοὺς δέ.
 - **6** confiebat Higt cum aliis.
 - **7** Volverunt — turbas Havet. (cf. p. V et VI). Ex quo contulerant — pugnas vulgo Ut primum tulerant — pugnas Baehrens. Versarant ex quo — pugnas Doering.
 
@@ -108,8 +108,8 @@ PDF page 70.
 
 ### Notes
 
-- **9** ira tristi contendere jussit vulgo (ego verba transtuli: cf. ap. nostr. r. 257, 308, 966; ap. Prop. IV, 1, 17 « Nulli cura fuit extemos quaererc divos »,
-- **11** lnfestus Brantma; cf. Iliad. I, 9 : PowiXtjV /oawOsi';. — praetoria ab Higtio et Schradero receperunt Muellcr et Baehrens.
+- **9** ira tristi contendere jussit vulgo (ego verba transtuli: cf. ap. nostr. v. 257, 308, 966; ap. Prop. IV, 1, 17 « Nulli cura fuit externos quaerere divos », et cet.
+- **11** Infestus Brantsma; cf. Iliad. I, 9 : βασιλῆϊ χολωθείς. — praetoria ab Higtio et Schradero receperunt Mueller et Baehrens.
 - **13** Chryses quondam scripsi.
 
 ## p. 5
@@ -152,10 +152,10 @@ PDF page 71.
 
 ### Notes
 
-- **29** tempora Kooten, Mneller.
-- **31** aras Wernsdorf. Mueller, Baehrens.
-- **40** derige Baelirens.
-- **44** Dixit; at Baehrens (cf. v. 96).'
+- **29** tempora Kooten, Mueller.
+- **31** aras Wernsdorf, Mueller, Baehrens.
+- **40** derige Baehrens.
+- **44** Dixit; at Baehrens (cf. v. 96).
 
 ## p. 6
 
@@ -197,7 +197,7 @@ PDF page 72.
 
 - **47** arbor Schrader, A. de Rooy (cf. Ovid. Met. VII, 613) aer Mueller aether veter. ed.
 - **50** Cum Higt.
-- **57** petitos Koolen (cf. Ovid. Mcl. VIII, 5).
+- **57** petitos Kooten (cf. Ovid. Met. VIII, 5).
 - **63** invictos Mueller invitos vulgo invisos — dis mittere Baehrens (qui invitis — dis m. in notis proposuit).
 
 ## p. 7
@@ -245,8 +245,8 @@ legitur in D el, man. rec. in marg. addit., in G; deest tn ceteris; Baehrens jur
 ### Notes
 
 - **78** cauta Suringar.
-- **80** contenta probavit Hacet intenta Hoeufft — minisque] manuque Higt.
-- **82** Ne se plus, populis coram, p. i. in loco dcsperato temptavi (vel Ne se praedonem contra) Ne se Plistheniden contra p. i. Bergk, Baehrens. Ne se plus contra Atrideui p. i. Dusscn. Ne se plus Thetis contra p. i vulgo (itaque scriptum versum Mucller stellula notavit).
+- **80** contenta probavit Havet intenta Hoeufft — minisque] manuque Higt.
+- **82** Ne se plus, populis coram, p. i. in loco desperato temptavi (vel Ne se praedonem contra) Ne se Plistheniden contra p. i. Bergk, Baehrens. Ne se plus contra Atridem p. i. Dussen. Ne se plus Thetis contra p. i vulgo (itaque scriptum versum Mueller stellula notavit).
 
 ## p. 8
 
@@ -291,8 +291,8 @@ PDF page 74.
 ### Notes
 
 - **85** dextra, gressuque exinde scripsi dextra, e congressuque inde Baehrens dextram congressuque; inde Ritschl. Mueller.
-- **88** veni Wernsdorf, Baehrcns {sed cf. Aeneid. VIII, 382 et Mctam. V, 514).
-- **90** Pignus Iligt.
+- **88** veni Wernsdorf, Baehrens (sed cf. Aeneid. VIII, 382 et Metam. V, 514).
+- **90** Pignus Higt.
 
 ## p. 9
 
@@ -330,7 +330,7 @@ Sic versus disposuit Havet. — 107 et 109 inter se locum mutare jussit Mueller;
 ### Notes
 
 - **103** Haec tu Wernsdorf Haecine Dussen.
-- **107** ab aula vulgo; totum versum spurium habet Schcnkl.
+- **107** ab aula vulgo; totum versum spurium habet Schenkl.
 
 ## p. 10
 
@@ -364,7 +364,7 @@ Book heading: II.
 
 ### Notes
 
-- **111** caelo veter. edit., Wernsdorf (cf. Horal. epod. 13, 1; vide p. XXXIV,n. I .
+- **111** caelo veter. edit., Wernsdorf (cf. Horat. epod. 13, 1; vide p. XXXIV, n. 1).
 - **113** Cum Higt.
 
 ## p. 11
@@ -406,10 +406,10 @@ PDF page 77.
 
 ### Notes
 
-- **126** se emerserit Kooten emcrserit ceteri.
-- **134** duces nominativ. plur.) Baehrens.
+- **126** se emerserit Kooten emerserit ceteri.
+- **134** duces (nominativ. plur.) Baehrens.
 - **135** grates agit Wernsdorf gratesque agit vulgo.
-- **137** protervior, ultra Bergk, Baehrens protervior alter ndijo procacior alter Mueller.
+- **137** protervior, ultra Bergk, Baehrens protervior alter vulgo procacior alter Mueller.
 
 ## p. 12
 
@@ -447,10 +447,10 @@ PDF page 78.
 ### Notes
 
 - **144** sollerti reposui.
-- **145** ponderc Baehrens.
-- **149** corpore receperunt Mueller, Daehrens.
-- **151** Infit deinde senex Wernsdorf. — uioneo rcslituit Ilarct. — rcmanete, Pelasgi scripsi ex Ovid. Mct. XII, 19 : « Thestorides : Vincemus, ail, gaudete, Pelasgi » ; saepe noster Pelasyi voce usus est; hic Acliivi nomcn c glossa ortum esse censeo. maneo remaneteque, Achivi vulgo. — « Senex remoror, remorainini, Achivi Baehrens.
-- **153** cadet ec Baehrcns (« an recidit? » idcm in notis).
+- **145** pondere Baehrens.
+- **149** corpore receperunt Mueller, Baehrens.
+- **151** Infit deinde senex Wernsdorf. — moneo restituit Havet. — remanete, Pelasgi scripsi ex Ovid. Met. XII, 19 : « Thestorides : Vincemus, ait, gaudete, Pelasgi »; saepe noster Pelasgi voce usus est; hic Achivi nomen e glossa ortum esse censeo. maneo remaneteque, Achivi vulgo. — « Senex remoror, remoramini, Achivi Baehrens.
+- **153** cadet ec Baehrens (« an recidit? » idem in notis).
 
 ## p. 13
 
@@ -493,9 +493,9 @@ PDF page 79.
 
 ### Notes
 
-- **156** Dux omnis jtibet atque aptari c. p. Baehrens. — corpora Higt.
-- **162** penates cdit. vet., Koolen.
-- **167** Leitus Bondam (cf. lliad. II, 494).
+- **156** Dux omnis jubet atque aptari c. p. Baehrens. — corpora Higt.
+- **162** penates edit. vet., Kooten.
+- **167** Leitus Bondam (cf. Iliad. II, 494).
 - **169** Boeoti (ibid., 495 et 509). Boeotas Wernsdorf.
 
 ## p. 14
@@ -536,11 +536,10 @@ PDF page 80.
 
 - **181** Longa quaterdenis Schrader.
 - **183** forti] multo Schenkl.
-- **184** Euryalus ltondam, Hir/t. — duces Kooten jitre retinitit: rf. cnim Iliad. 11.
-- **563** sqq. fYSfjLoveus, et quem optime laudat Weytingh, Aeneid. II versum 261 * Thessandrus Sthenelusque daces » ferox Wemsdorf (lacunam significaverunt Mueller et Baehrcns).
-- **185** pulsantes — fluctus Baehrens qui v. 180 bis, non bisque, scripsit. — pontum vulrjo.
+- **184** Euryalus Bondam, Higt. — duces Kooten jure retinuit: cf. enim Iliad. II, 563 sqq. ἡγεμόνευε, et quem optime laudat Weytingh, Aeneid. II versum 261 « Thessandrus Sthenelusque duces » ferox Wernsdorf (lacunam significaverunt Mueller et Baehrens).
+- **185** pulsantes — fluctus Baehrens qui v. 186 bis, non bisque, scripsit. — pontum vulgo.
 - **187** acer, uterque Wernsdorf.
-- **190** Euaemone Bondam. Euhaemone Mueller (cf. Iliad. II. 736 .
+- **190** Euaemone Bondam. Euhaemone Mueller (cf. Iliad. II, 736).
 
 ## p. 15
 
@@ -583,7 +582,7 @@ v. 198 eiciendum Wcmsdorf ccnset.
 - **194** sulcarunt vulgo.
 - **195** ab Sume Schenkl ex Syme Wernsdorf jam in notis proposuerat, Kooten probabat; idem olim in mentem venerat Suringario, neque Santenio displicebat; cf. Iliad. II, 671. — secuit freta Baehrens in not. — Nireus Bondam, Higt (Iliad. II, 671 sqq.)
 - **196** Tlepolemus Barth (cf. Iliad. II, 653).
-- **199** At Prothous Bondam (ibid. 736). — Magnes Schrader, Higt [ibid.). — longis ego ex magnis Bondam (Martius Euboicis Wakker).
+- **199** At Prothous Bondam (ibid. 756). — Magnes Schrader, Higt (ibid.). — longis ego ex magnis Bondam (Martius Euboicis Wakker).
 
 ## p. 16
 
@@ -623,10 +622,10 @@ PDF page 82.
 
 ### Notes
 
-- **206-207** Gunei Ira scripsi [cf. v. 175) Guneus Ire vulgo (Guneus Dondam, lliad. II, 748).
-- **210** Menestheus Bondam (ibid. t>52).
+- **206-207** Gunei Ira scripsi (cf. v. 175) Guneus Ire vulgo (Guneus Bondam, Iliad. II, 748).
+- **210** Menestheus Bondam (ibid. 552).
 - **211** quot Schrader. — addit Wernsdorf.
-- **212** Thalpius Iiondam (ibid. 620).
+- **212** Thalpius Bondam (ibid. 620).
 - **216** Oileos Schrader.
 
 ## p. 17
@@ -677,7 +676,7 @@ spurium esse Mueller vidit.
 
 - **223** Cum Kooten, Baehrens.
 - **224** exisse Schenkl.
-- **230** clipeus laevam restituit Baehrens laevam clipeus vutgo.
+- **230** clipeus laevam restituit Baehrens laevam clipeus vulgo.
 - **233** quam fortior armis correxit Havet non fortis in armis vulgo nec fortis in armis Baehrens quam fortibus armis Kooten in not. (cf. enim Verg. Aen. X, 735) non fortibus armis Schenkl.
 
 ## p. 18
@@ -711,7 +710,7 @@ PDF page 84.
 
 ### Notes
 
-- **240** Auiphius Bondam [Iliad. II, 8:50). Amphios Mueller. — Pylaeus Dondam • ibid. 842).
+- **240** Amphius Bondam (Iliad. II, 830). Amphios Mueller. — Pylaeus Bondam (ibid. 842).
 - **241** Nastes Bondam (ibid. 870).
 - **242, 243, 244** Hodius, Pyraechmes, Mesthles Bondam (ibid. 856, 848. 864).
 - **245** Hippothous Kooten (ibid. 840) Hipp. Acamasque ivere Baehrens. — et Wernsdorf.
@@ -738,8 +737,8 @@ PDF page 85.
 
 ### Notes
 
-- **246** Alcinoo Kootenii atnicus (cf. Auson. Epitaph. XVII, 23, 2). — Alcinooque sati] Ex Enetisque orti Mueller.
-- **249** Coroebus] Pylaemen Baehrens. Totum versum spurhim habet Mueller. Sarpedon tamen relinendus est, el de Coroebo non negleaendum est quod Kooten in notis dispulavit [cf. Acn. II, 342) ; equidem hoc aliquidve simile olim conjeceram : Sarpedon, Lyciis pulcberrima gloria rebus.
+- **246** Alcinoo Kootenii amicus (cf. Auson. Epitaph. XVII, 23, 2). — Alcinooque sati] Ex Enetisque orti Mueller.
+- **249** Coroebus] Pylaemen Baehrens. Totum versum spurium habet Mueller. Sarpedon tamen retinendus est, et de Coroebo non neglegendum est quod Kooten in notis disputavit (cf. Aen. II, 342); equidem hoc aliquidve simile olim conjeceram : Sarpedon, Lyciis pulcherrima gloria rebus.
 
 ## p. 20
 
@@ -817,11 +816,11 @@ PDF page 87.
 
 ### Notes
 
-- **266** ut — fnndamus edit. vetcr.
-- **267** concurret Daehrens.
+- **266** ut — fundamus edit. veter.
+- **267** concurret Baehrens.
 - **270** et cernite Higt.
-- **274** Pravaque Schrader, Koolen in not. Pronaque vulgo Trivaque Wakkcr, Baehrens.
-- **279** decedit Drantsma !cf. Aen. V, So!).
+- **274** Pravaque Schrader, Kooten in not. Pronaque vulgo Privaque Wakker, Baehrens.
+- **279** decedit Brantsma (cf. Aen. V, 551).
 
 ## p. 22
 
@@ -867,7 +866,7 @@ spurium jam uncis secluscrunt Mueller et Baehrens.
 
 ### Notes
 
-- **285-286** quam te Mox rapuisse gernes Wakker quae te Mox rapturu ire geraet Baehrcns.
+- **285-286** quam te Mox rapuisse gemes Wakker quae te Mox raptum ire gemet Baehrens.
 - **288** vementem Mueller, Baehrens.
 - **294** Ita recte Kooten in notis, e cod. Burmanniano Ins. juxta cl.; tum adv. vulgo.
 
@@ -915,10 +914,10 @@ PDF page 89.
 
 ### Notes
 
-- **300** Utque — captabant Ilocufft, Baehrens. — pectora Mueller.
+- **300** Utque — captabant Hoeufft, Baehrens. — pectora Mueller.
 - **308** Ad sociosque trahit; et ni Baehrens quem ni Kooten qui Venus v. seq. habet quod ni Mueller et nisi tum Wernsdorf in not.
-- **313** rursusque ex libris Guelferb. scc. el Virg. recepi rursumque vulgo.
-- **316** Ac scripsi. Et vulgo. — cultos cf. Metam. II. 737, ct ita Wernsdorf, Baehrens (hic autem in not. tectuui infelicius conjecitj tectos Mueller.
+- **313** rursusque ex libris Guelferb. sec. et Virg. recepi rursumque vulgo.
+- **316** Ac scripsi. Et vulgo. — cultos cf. Metam. II, 737, et ita Wernsdorf, Baehrens (hic autem in not. tectum infelicius conjecit) tectos Mueller.
 
 ## p. 24
 
@@ -959,8 +958,8 @@ PDF page 90.
 
 ### Notes
 
-- **325** disiceret (diss.) Baehrens. — relapsa scripsi revincta Daehrens relictae Anton. de Rooy.
-- **327** suasit contendere Alrida Mueller cont. s. A. vulgo.
+- **325** disiceret (diss.) Baehrens. — relapsa scripsi revincta Baehrens relictae Anton. de Rooy.
+- **327** suasit contendere Atrida Mueller cont. s. A. vulgo.
 - **328** inique Baehrens.
 - **331** Dixit, tum — perfudit Baehrens. — Fortasse scribendum est : Dixit; tum largis perfundens fletibus ora, Tristis Alexander.
 
@@ -1061,11 +1060,11 @@ PDF page 93.
 
 ### Notes
 
-- **360** demersus in retcr. edit. demersus ad Baehrens.
-- **361** Thalysiades Bondam (Iliad. IV, 4.j8).
-- **363** Antlieuuone Bondam (ibid., 473).
-- **365-366** Loeum aperte corrttplum, ttl potui, emendavi; post 3Go itnum versitm periisse suspicalur Havet.
-- **367** conisus Wcrnsdorf corr. ex Aen. V, 642 et X, 127.
+- **360** demersus in veter. edit. demersus ad Baehrens.
+- **361** Thalysiades Bondam (Iliad. IV, 458).
+- **363** Anthemione Bondam (ibid., 473).
+- **365-366** Locum aperte corruptum, ut potui, emendavi; post 365 unum versum periisse suspicatur Havet.
+- **367** conisus Wernsdorf corr. ex Aen. V, 642 et X, 127.
 - **368** telum derravit Baehrens.
 
 ## p. 28
@@ -1103,10 +1102,10 @@ PDF page 94.
 
 ### Notes
 
-- **360** namque idus in inguine Leucus Schrader (— Leucos Mueller) transfixitque inguine Leucon Ilaehrens.
-- **370** tristi Buehrens restituit.
+- **369** namque ictus in inguine Leucus Schrader (— Leucos Mueller) transfixitque inguine Leucon Baehrens.
+- **370** tristi Baehrens restituit.
 - **371** moribundis Higt.
-- **372** Impiger Aeolides Higt. Impiger ast Itachus Weytingh Hinc Laertiades Dondam.
+- **372** Impiger Aeolides Higt. Impiger ast Itachus Weytingh Hinc Laertiades Bondam.
 - **373** Democoonta Bondam (Iliad. IV, 499).
 - **376** Occidit Wernsdorf, Kooten. — moribundo Dussen (cf. Metam. V, 83 et XII, 118).
 - **377** Jamque Amarynciden Schrader (Iliad. IV, 517).
@@ -1136,7 +1135,7 @@ PDF page 95.
 
 ### Notes
 
-- **385-386** pugnatur ubique, Ardet et immixtis scripsi pugnabat ubique Immixtis ardens vulgo pugnatur ubique [Inm. ardens, etc.] Dachrens qui v. 386 spurium habere vidctur.
+- **385-386** pugnatur ubique, Ardet et immixtis scripsi pugnabat ubique Immixtis ardens vulgo pugnatur ubique [Inm. ardens, etc.] Baehrens qui v. 386 spurium habere videtur.
 
 ## p. 30
 
@@ -1214,8 +1213,8 @@ PDF page 97.
 ### Notes
 
 - **402** furit Wernsdorf, Baehrens receperunt.
-- **404** frernibundus Baehrens.
-- **405** Phegeaque Higt {lliad. V, 9 sqq.). — Phegeus Schrader, Higt. praeceps e codd. Wernsdorf relinuil.
+- **404** fremibundus Baehrens.
+- **405** Phegeaque Higt (Iliad. V, 9 sqq.). — Phegeus Schrader, Higt. praeceps e codd. Wernsdorf retinuit.
 - **407** Vibratumque Wernsdorf recepit.
 
 ## p. 32
@@ -1254,12 +1253,12 @@ PDF page 98.
 
 ### Notes
 
-- **417** derepta Wcrnsdorf, Baeitrens discerpta — viseera Barth, Kooten, Miicller.
-- **424** acer velcr. cdit., Wernsdorf.
+- **417** derepta Wernsdorf, Baehrens discerpta — viscera Barth, Kooten, Mueller.
+- **424** acer veter. edit., Wernsdorf.
 - **425** vulnera id.
-- **427** Hodius Bondam (liiad. V, 39). — jactae recepit Kooten (cf. Aen. X, 733 vasto Wernsdorf vastae vulgo.
-- **429** ferit Schrader, Kooten, Baehrens. — advcrsa parte vulgo.
-- **430** Maeoniden Phaestum Schrader {lliad. V, 43J. — laetus retinuit Muelier Atrides vulgo ab Higtio et Schradcro.
+- **427** Hodius Bondam (Iliad. V, 39). — jactae recepit Kooten (cf. Aen. X, 733) vasto Wernsdorf vastae vulgo.
+- **429** ferit Schrader, Kooten, Baehrens. — adversa parte vulgo.
+- **430** Maeoniden Phaestum Schrader (Iliad. V, 43). — laetus retinuit Mueller Atrides vulgo ab Higtio et Schradero.
 - **431** E Baehrens Et vulgo. — Strophio Schrader (Iliad. V, 49).
 
 ## p. 33
@@ -1339,11 +1338,11 @@ PDF page 100.
 
 ### Notes
 
-- **445-440** Polyidon, Thoonem Bondam (Iliad. V, 148, 152).
-- **447** infestos Mueller, Baehrens. — Chromium, Echernona Bondam (Iliad. V, 159-160).
+- **445-446** Polyidon, Thoonem Bondam (Iliad. V, 148, 152).
+- **447** infestos Mueller, Baehrens. — Chromium, Echemona Bondam (Iliad. V, 159-160).
 - **450** turpi ego ex Burmann. cod. tristi vulgo.
 - **453** Tydeius Heinsius.
-- **455** jactisque Koolen.
+- **455** jactisque Kooten.
 
 ## p. 35
 
@@ -1387,7 +1386,7 @@ PDF page 101.
 
 ### Notes
 
-- **461** levarent] moverent Mueller, llaehrens (ex Metam. XII, 432; perperam, nam librarium semidoctum ex Ovidii versu verbum « moverent » huc transtulisse ceri simile est).
+- **461** levarent] moverent Mueller, Baehrens (ex Metam. XII, 432; perperam, nam librarium semidoctum ex Ovidii versu verbum « moverent » huc transtulisse veri simile est).
 - **462** conisu (?) Baehrens in not.
 - **470** Laesa Kooten recepit.
 - **471** Sidereae matri Schrader, Higt, Van Dorp.
@@ -1439,7 +1438,7 @@ PDF page 102.
 
 ### Notes
 
-- **490** fremit Iligt.
+- **490** fremit Higt.
 
 ## p. 37
 
@@ -1484,9 +1483,9 @@ PDF page 103.
 
 ### Notes
 
-- **505** Infesta cf. 680 ct quae narrat Kootcn ad nostrwn vcrsum; hic autem iufestus maluit.
-- **511** quantas — uiovebat Hocufft quantis — monebat Higt, Kooten.
-- **312** detulit Schrader, ffigt.
+- **505** Infesta cf. 680 et quae narrat Kooten ad nostrum versum; hic autem infestus maluit.
+- **511** quantas — movebat Hoeufft quantis — monebat Higt, Kooten.
+- **512** detulit Schrader, Higt.
 
 ## p. 38
 
@@ -1557,7 +1556,7 @@ PDF page 105.
 ### Notes
 
 - **534** Aegide et Suringar, Wernsdorf.
-- **535** ipsa] inde Baehrcns.
+- **535** ipsa] inde Baehrens.
 
 ## p. 40
 
@@ -1589,8 +1588,8 @@ Book heading: VI.
 
 ### Notes
 
-- **545** armiferae Koolcn.
-- **548** auratas Sterk arquatas Mueller in texlu (vel ornatas in not.) elatas Uaehrens.
+- **545** armiferae Kooten.
+- **548** auratas Sterk arquatas Mueller in textu (vel ornatas in not.) elatas Baehrens.
 
 ## p. 41
 
@@ -1744,10 +1743,10 @@ ejecerunt Wernsdorf, Mueller; nihil hoc nisi glossema est.
 
 ### Notes
 
-- **580** durum — amorem Koolcn diros — amores Dussen duros — amores cditio Fancnsis.
-- **591** apertas cnrr. Schrader cl lliijt.
-- **596** fremunt Kooten ruunt Mueller — mox scripsi; jam Daehrcns suspicatus erat (vidc in cjnsd. app. crit.)
-- **598** premunt Kootcn, Mucllcr Iremunt Dachrens — fera ora Daehrens.
+- **586** durum — amorem Kooten diros — amores Dussen duros — amores editio Fanensis.
+- **591** apertas corr. Schrader et Higt.
+- **596** fremunt Kooten ruunt Mueller — mox scripsi; jam Baehrens suspicatus erat (vide in ejusd. app. crit.)
+- **598** premunt Kooten, Mueller tremunt Baehrens — fera ora Baehrens.
 
 ## p. 45
 
@@ -1789,9 +1788,9 @@ spurium agnovcre Schradcr et Higt.
 
 ### Notes
 
-- **599** spurium esse Weylingft, fortasse haud perperam, arbitratus est qui legere jussit : — spuinaeque per ora vicissim Jactantur — Fumifica; Kooten — Fumiferte nubes concretaque fulgura et ignes vulgo Fumiferse nubes concrescunt, fulirura et ignes Daehrens.
+- **599** spurium esse Weytingh, fortasse haud perperam, arbitratus est qui legere jussit : — spumaeque per ora vicissim Jactantur — Fumificae Kooten — Fumiferae nubes concretaque fulgura et ignes vulgo Fumiferae nubes concrescunt, fulgura et ignes Baehrens.
 - **604** derigit Baehrens — ensem Mueller.
-- **600** actu Daehrens.
+- **605** actu Baehrens.
 - **608** cuspis Mueller.
 
 ## p. 46
@@ -1840,8 +1839,8 @@ PDF page 112.
 
 ### Notes
 
-- **618** utrimque Wcytingh.
-- **621-626** inlerpolatos senrit Kooten.
+- **618** utrimque Weytingh.
+- **621-626** interpolatos sensit Kooten.
 
 ## p. 47
 
@@ -1884,7 +1883,7 @@ PDF page 113.
 - **627** nam vis Baehrens virtus Mueller — utrique est vulgo.
 - **628** fulgenti conjeci (e falcato in Erfurtano codice; aurato glossam esse ad fulgenti additam suspicor) falcato Mueller (Cf. Ovid. Met. I, 717) deaurato Baehrens. — Ajacemque prior aurato Wernsdorf, Kooten.
 - **631** Post haec restituit Baehrens posthac vulgo — Danaum Troumque scripsi Troum Danaumque ceteri.
-- **642** Aut animum precibus nec dictis porrigit aures veter. edit. (precibus ex prede, prece et porrigit c deterior. codd.) Aut animum praedae, dictis aut commodat aures Kooten in notis, quod non displicet.
+- **642** Aut animum precibus nec dictis porrigit aures veter. edit. (precibus ex prede, prece et porrigit e deterior. codd.) Aut animum praedae, dictis aut commodat aures Kooten in notis, quod non displicet.
 
 ## p. 48
 
@@ -1949,7 +1948,7 @@ Book heading: VIII.
 ### Notes
 
 - **658** armis] ulnis Schenkl.
-- **660** gradiens snpereminet omnes ego (Cf. Aeneid. I, 501) totis gravis imminet armis vulgo [armis capiendum videtur dc umeris... Totis armis Samtenius accipiebat pro « toti exercitui » KOOTEN] Sed voces gravis et armis e v. 658 huc irrupisse parum dubilo. — totis gravis imminet arvis Baehrens.
+- **660** gradiens supereminet omnes ego (Cf. Aeneid. I, 501) totis gravis imminet armis vulgo [armis capiendum videtur de umeris... Totis armis Samtenius accipiebat pro « toti exercitui » KOOTEN] Sed voces gravis et armis e v. 658 huc irrupisse parum dubito. — totis gravis imminet arvis Baehrens.
 
 ## p. 50
 
@@ -2022,7 +2021,7 @@ PDF page 117.
 
 ### Notes
 
-- **683** curis animosque resolvunt Wernsdorf curasque Higt, vulgo.
+- **685** curis animosque resolvunt Wernsdorf curasque Higt, vulgo.
 
 ## p. 52
 
@@ -2102,9 +2101,9 @@ Book heading: X.
 ### Notes
 
 - **696** Altera transierat Wernsdorf.
-- **697** super lacitae] rnalim soporiferae.
+- **697** super tacitae] malim soporiferae.
 - **700** tutae Baehrens.
-- **703** non tuta ego non nota liaehrens montana veter. edit. secreta Wcrnsdorf nocturna Koolen in not., Mueller.
+- **703** non tuta ego non nota Baehrens montana veter. edit. secreta Wernsdorf nocturna Kooten in not., Mueller.
 
 ## p. 54
 
@@ -2150,9 +2149,9 @@ PDF page 120.
 ### Notes
 
 - **708** pectora Mueller.
-- **710** Tros Schradcr Euinediades Mueller Eumedides Schrader Jliad. X, 314 .
-- **716** quodsin ISaehrens.
-- **726** ConsiUuni Priami totaui rernque ord. g. Baehrens.
+- **710** Tros Schrader Eumediades Mueller Eumedides Schrader (Iliad. X, 314).
+- **716** quodsin Baehrens.
+- **726** Consilium Priami totam remque ord. g. Baehrens.
 
 ## p. 55
 
@@ -2191,8 +2190,8 @@ PDF page 121.
 
 ### Notes
 
-- **729** Diffindunt Mucller Pertundunt Baehrens Detrudunt servat Weytinghqui v. praecedenli legit mucronem fauce reclusum ; — juvenis praetulit Wernsdorf.
-- **781** viros vulgo armis liaehrens.
+- **729** Diffindunt Mueller Pertundunt Baehrens Detrudunt servat Weytingh qui v. praecedenti legit mucronem fauce reclusum; — juvenis praetulit Wernsdorf.
+- **731** viros vulgo armis Baehrens.
 
 ## p. 56
 
@@ -2256,7 +2255,7 @@ PDF page 123.
 
 ### Notes
 
-- **751** Hic regis dextram frater ferit Santen, et ita Baehrens Hinc frater regis dextram ferit Wernsdorf Hic frater dextram gladio ferit Kooten Mueller(Huic Weytingh).
+- **751** Hic regis dextram frater ferit Santen, et ita Baehrens Hinc frater regis dextram ferit Wernsdorf Hic frater dextram gladio ferit Kooten Mueller (Huic Weytingh).
 
 ## p. 58
 
@@ -2366,7 +2365,7 @@ Book heading: XIV.
 
 - **782** Accurrit Mueller.
 - **783** fluentis edit. veter.
-- **787** Archilochum Bondam (Iliad. XIV, 162 sqq.).
+- **787** Archilocum Bondam (Iliad. XIV, 462 sqq.).
 - **788-9** atroci Peneleus dextra Wernsdorf in not.
 
 ## p. 61
@@ -2644,7 +2643,7 @@ PDF page 134.
 
 - **851** magnasque Wernsdorf, Kooten in not., Higt magnoque vulgo.
 - **858** ictibus Kooten.
-- **860** Et donat Thetidi Wernsdorf e Guelferbyt. secundo. Devolat inde Thetis editio Fanensis, Weytingh Devolat atque Thetis Mueller Evolat inde Thetis Baehrens.
+- **860** Et donat Thetidi Wernsdorf e Guelferbyt. secundo. Devolat inde Thetis editio Fanensis, Weytingh Devolat atque Thetis Mueller Evolat inde Th. Baehrens.
 
 ## p. 69
 
@@ -2687,7 +2686,7 @@ PDF page 135.
 ### Notes
 
 - **869** et quantus in] quantus Sol Wernsdorf.
-- **870** Quantum et lunacava lustraret Wernsdorf — caelum restituit Baehrens terras vulgo.
+- **870** Quantum et luna cava lustraret Wernsdorf — caelum restituit Baehrens terras vulgo.
 - **875** lustra Baehrens in not.
 - **877** annosaque praetulerunt Mueller et Baehrens.
 - **879** severa Heinsius.
@@ -2865,7 +2864,7 @@ PDF page 140.
 
 - **921** rabidae Baehrens — ne] qua Baehrens — ictibus edit. veter., Wernsdorf imbribus Mueller. — Equidem ignibus, Kootenio auctore, retinui : cf. enim Iliad. XXI, 342, 356, 361, 365. — Asseruit rapidasque coercuit ignibus undas Weytingh.
 - **929** Aut praetulit Baehrens.
-- **930** Aufugiunt Mueller Defugiunt Baehrens. — Diffugiunt libenter scripserim cf. Aeneid. IX, 785.
+- **930** Aufugiunt Mueller Defugiunt Baehrens. — Diffugiunt libenter scripserim cf. Aeneid. IX, 755.
 
 ## p. 75
 
@@ -3050,7 +3049,7 @@ PDF page 144.
 - **974-75** alto scripsi altos ceteri. — trahit scripsi petit Kooten in not., Mueller Baehrens premit edit. veter.
 - **980** En] Tu Mueller Nunc Kooten.
 - **983** Priami Kootenii amicus quidam; recepit Mueller. Priamus vulgo primus Baehrens.
-- **984** vulnere victi praetulerunt Mueller Baehrens, non spernebat Kooten ; id autem, Hectore loquente, absonum esse Wernsdorf censebat : sed cf. 1039.
+- **984** vulnere victi praetulerunt Mueller Baehrens, non spernebat Kooten ; id autem, Hectore loquente, absonum esse Wernsdorf censebat ; sed cf. 1039.
 
 ## p. 79
 
@@ -3132,7 +3131,7 @@ Book heading: XXIII.
 
 - **1004** defletum edit. veter.
 - **1005** in funere Schenkl.
-- **1008** cunctos Baehrens circi Wernsdorf tirsim edit. veter. — curru Kooten, Baehrens. — ferorum, id est « equorum », Wernsdorf (cf. Manil. V, 77) feroces Baehrens fugacem Higt.
+- **1008** cunctos Baehrens circi Wernsdorf Tirsum edit. veter. — curru Kooten, Baehrens. — ferorum, id est « equorum », Wernsdorf (cf. Manil. V, 77) feroces Baehrens fugacem Higt.
 - **1009** Magnanimus scripsi Merionen vulgo Aeolides Baehrens.
 
 ## p. 81
@@ -3234,7 +3233,7 @@ PDF page 149.
 
 - **1028** Achille Santen.
 - **1031** mihi mitior e cod. Virgil. recepi; et ita Kooten in textu.
-- **1036** Saltim Baehrens Saltem vulgo — saeva Baehrens.
+- **1036** Saltim Baehrens Saltem vulgo — scaeva Baehrens.
 - **1037-8** concedis honores Sed funus crudele mei Mueller concede favores Sed f. cr. mei Baehrens. — Stet vulnus crudele meum ! Barth.
 - **1039** patris vel precor Schenkl — vulnere Mueller funere vulgo.
 
