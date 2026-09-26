@@ -5244,6 +5244,8 @@ this directory ([commentary.py](commentary.py)) from
 - [4] 789 Penelei dextra ; inde cadit Priameia pubes.
 - [6] 789 Penelei dextra; inde cadit Priameia pubes
 
+## Book 15
+
 790 acrius insurgunt Troes ad Achaica bella
 - [2] 793 XV. Acrins insurgunt Troes ad Achaica bella,
   - … Through the author's excessive brevity and barren meagerness in narration, it happens that in this passage it cannot be perceived whence so sudden a reversal of affairs occurred, that the Trojans, who a little while before were slain and routed, now rise up more fiercely, and even drive the Greeks to their ships after inflicting great slaughter. Truly, at least briefly, the causes should have been touched upon which Homer invents: that Jove awakened restored courage to the Trojans, dissuaded Neptune from helping the Greeks any further, and that Hector was revived by Apollo and furnished with new strength to renew the fight. If the author had related these inventions of Homer more attentively than mere battles and slaughters, charges and retreats, he would have preserved more of the charm of poetry, and would not have narrated bare chronicle.
@@ -5256,8 +5258,6 @@ this directory ([commentary.py](commentary.py)) from
 - [3] [791] [Instaurantque manus, cedit Pelopea iuuentus]
 - [4] 791 below Instaurantque manus, cedit Pelopea juventus
 - [6] —
-
-## Book 15
 
 792 pulsa metu uallumque et muros aggere saeptos
 - [2] 795 Pulsa metu, vallumque et muros aggere septos

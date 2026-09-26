@@ -86,7 +86,8 @@ one of the editions, with the book number (in Arabic figures) and the
 page.
 
 - **Book**: the books of this repository ([ilias.txt](ilias.txt)),
-  after the Portuguese translation (see [Books](#books)).
+  after the Portuguese translation except book 15 (see
+  [Books](#books)).
 - **Vollmer**: his list in the preface (pp. VII–VIII, a footnote, read
   from the page images), with no page, as he does not mark the books in
   the text.  He gives book 16 as 805–855, 17 as 856–858 and 18 as
@@ -235,7 +236,10 @@ be read together with the Greek, as `make greek` in
 Each book is defined by its first verse and runs up to the verse before
 the next book.  The first verses follow the Portuguese translation, which
 is based on Scaffai's edition, and were checked against The Latin Library
-text (see [Structure](../README.md#structure) in the main README).
+text (see [Structure](../README.md#structure) in the main README).  Book
+15 begins at 790, not at 792 as in the translation, since 790 already
+renders *Iliad* 15 ([alignment.tsv](alignment.tsv)); the editions under
+[Book divisions](#book-divisions) all begin it there.
 
 | Book | First verse | Summary |
 |---|---|---|
@@ -252,8 +256,8 @@ text (see [Structure](../README.md#structure) in the main README).
 | 11 | 741 | Agamemnon kills Antiphus, Pisander and Hippolochus and attacks Iphidamas; wounded in the hand by his brother, a son of Antenor, he kills him.  Hector attacks; Paris wounds Eurypylus in the thigh. |
 | 12 | 758 | The Trojans storm the Greek wall; Hector breaks the gate with a stone and the Greeks flee to the ships. |
 | 13 | 772 | Neptune strengthens the Greeks.  Idomeneus kills Asius, Hector kills Amphimachus, Alcathous falls, Deiphobus kills Ascalaphus. |
-| 14 | 779 | Ajax fells Hector with a stone and the Trojans wash him in the Xanthus.  The battle resumes with more kills, and the Trojans press on (verse 791 is missing). |
-| 15 | 792 | The Greeks are driven over the wall and ditch to the ships; Hector calls for fire, and Ajax alone defends the ships. |
+| 14 | 779 | Ajax fells Hector with a stone and the Trojans wash him in the Xanthus.  The battle resumes with more kills. |
+| 15 | 790 | The Trojans press on (verse 791 is missing); the Greeks are driven over the wall and ditch to the ships; Hector calls for fire, and Ajax alone defends the ships. |
 | 16 | 805 | Patroclus, in the arms of Achilles, routs the Trojans and kills Sarpedon.  Hector challenges him as Achilles; Apollo reveals who he is, and Hector kills him and takes the armour. |
 | 17 | 836 | Ajax protects the body of Patroclus. |
 | 18 | 839 | Antilochus brings the body to the camp.  Achilles' grief and vow of revenge on Hector.  Thetis asks Vulcan for new armour; description of the shield. |

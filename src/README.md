@@ -129,7 +129,7 @@ edit the first verses of the books in `STARTS` in `books.py` and run
 `make text` again.
 
 A book is defined only by its first verse and runs up to the verse before
-the next book, so verse 791 (`<>`) falls in book 14.
+the next book, so verse 791 (`<>`) falls in book 15, which begins at 790.
 
 ## Vollmer's edition
 

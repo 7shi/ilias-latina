@@ -5243,6 +5243,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 789 Penelei dextra ; inde cadit Priameia pubes.
 - [6] 789 Penelei dextra; inde cadit Priameia pubes
 
+## Book 15
+
 790 acrius insurgunt Troes ad Achaica bella
 - [2] 793 XV. Acrins insurgunt Troes ad Achaica bella,
   - … Per nimiam brevitatem scriptoris jejunamque in narrando exilitatem fit, ut hoc loco perspici nequeat, unde tam repentina conversio rerum facta sit, ut Trojani paullo ante caesi fugatique, nunc acrius insurgant, et Graecos adeo ad naves suas, multa caede facta, compellant. Nimirum brevius saltem attingi debebant caussae, quas Homerus fingit, Jovem expergefactum Trojanis virtutem reddidisse, Neptunumque dehortatum, ne Graecos amplius juvaret, Hectoremque ab Apolline excitatum et novis viribus instructum, ut pugnam integraret. Haec commenta Homeri si diligentius retulisset auctor, quam pugnas et caedes, impetus et fugas, magis servasset amoenitatem poematis, nec meram historiam narrasset.
@@ -5255,8 +5257,6 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] [791] [Instaurantque manus, cedit Pelopea iuuentus]
 - [4] 791 below Instaurantque manus, cedit Pelopea juventus
 - [6] —
-
-## Book 15
 
 792 pulsa metu uallumque et muros aggere saeptos
 - [2] 795 Pulsa metu, vallumque et muros aggere septos

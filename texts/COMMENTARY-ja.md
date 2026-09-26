@@ -5226,6 +5226,8 @@
 - [4] 789 Penelei dextra ; inde cadit Priameia pubes.
 - [6] 789 Penelei dextra; inde cadit Priameia pubes
 
+## Book 15
+
 790 acrius insurgunt Troes ad Achaica bella
 - [2] 793 XV. Acrins insurgunt Troes ad Achaica bella,
   - … 作者の過度の簡潔さと叙述における貧弱な薄弱さのせいで、少し前には討たれ潰走していたトロイア勢が、なぜ今やより激しく立ち上がり、夥しい殺戮を行ってギリシア勢を自らの陣船へと追い詰めるのか、事態の急激な逆転がどこから生じたのかがこの箇所では理解できなくなっている。言うまでもなく、ホメーロスが創作している諸原因、すなわち目を覚ましたユピテルがトロイア勢に勇気を取り戻させ、ネプトゥーヌスにギリシア勢をもはや助けぬよう諫め、ヘクトールがアポッローンによって奮い立たされ、戦いを再開すべく新たな力を授けられたという事情を、少なくとも手短にでも触れるべきであった。もし作者が戦いや殺戮、突撃や潰走よりも、ホメーロスのこれら詩的虚構をより注意深く伝えていたならば、詩としての魅力をより多く保ち、単なる実録（年代記）を語るだけに終わることはなかったであろう。
@@ -5238,8 +5240,6 @@
 - [3] [791] [Instaurantque manus, cedit Pelopea iuuentus]
 - [4] 791 below Instaurantque manus, cedit Pelopea juventus
 - [6] —
-
-## Book 15
 
 792 pulsa metu uallumque et muros aggere saeptos
 - [2] 795 Pulsa metu, vallumque et muros aggere septos

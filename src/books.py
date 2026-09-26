@@ -8,8 +8,10 @@ verse of each book, preceded by a title.
 
 A book is defined only by its first verse and runs up to the verse before
 the next book.  The first verses follow the Portuguese translation
-(Scaffai's edition) and were checked against the Latin text.  Verse 791
-("<>", absent in Scaffai) therefore falls in book 14.
+(Scaffai's edition) and were checked against the Latin text, except book
+15, which begins at 790 as in the editions of Vollmer, Baehrens, Plessis
+and Wernsdorf (790 renders Iliad 15.306-307; Scaffai ends book 14 with
+it).  Verse 791 ("<>", absent in Scaffai) therefore falls in book 15.
 """
 
 import sys
@@ -17,7 +19,7 @@ import sys
 # The first verse of each of the 24 books.
 STARTS = [
     1, 111, 252, 344, 389, 538, 564, 650, 686, 696, 741, 758,
-    772, 779, 792, 805, 836, 839, 892, 911, 931, 944, 1004, 1015,
+    772, 779, 790, 805, 836, 839, 892, 911, 931, 944, 1004, 1015,
 ]
 
 

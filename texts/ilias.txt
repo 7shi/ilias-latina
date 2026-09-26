@@ -830,11 +830,11 @@
 787 Archelochumque Antenoriden Telamonius Aiax,
 788 Boeotumque Acamas Promachum, quem sternit atrocis
 789 Penelei dextra; inde cadit Priameia pubes
-790 acrius insurgunt Troes ad Achaica bella
-791 <>
 
 ## 15
 
+790 acrius insurgunt Troes ad Achaica bella
+791 <>
 792 pulsa metu uallumque et muros aggere saeptos
 793 transiliunt, alii fossas uoluuntur in ipsas.
 794 Aduolat interea Danaum metus impiger Hector:

@@ -64,9 +64,10 @@ added by a late-antique schoolmaster, not by the poet [6].
 The divisions used here are based on the Portuguese translation listed
 under [References](#references), which follows Scaffai's edition.  The
 first verse of each book was checked against the Latin text of The Latin
-Library, and the verse numbers agree with it.  Each book is defined by
-its first verse and runs up to the verse before the next book.  The first
-verses and a summary of each book are listed in
+Library, and the verse numbers agree with it; only book 15 begins
+earlier, at 790 (see below).  Each book is defined by its first verse
+and runs up to the verse before the next book.  The first verses and a
+summary of each book are listed in
 [texts/README.md](texts/README.md).
 
 This repository follows the text and verse order of The Latin Library;
@@ -75,8 +76,11 @@ an aid for checking the content.  Scaffai's edition, as printed in the
 translation, differs in three places:
 
 - Verse 791, a gap in The Latin Library text (`<>`), is absent: the
-  numbering goes from 790 to 792, and book 15 begins at 792.  As the
-  books are defined by their first verses, the gap falls in book 14.
+  numbering goes from 790 to 792, and book 15 begins at 792.  Here book
+  15 begins at 790 instead, as in the editions of Vollmer, Baehrens,
+  Plessis and Wernsdorf: 790 already renders *Iliad* 15 (15.306–307;
+  see [texts/alignment.tsv](texts/alignment.tsv)).  The gap therefore
+  falls in book 15.
   According to Vollmer's apparatus, the verse is *Instaurantque manus,
   cedit Pelopeia uirtus*; it is absent from most manuscripts and stands
   in the text of Munich lat. 5594 and of the edition Vollmer calls X,
