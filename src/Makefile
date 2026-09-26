@@ -4,6 +4,7 @@ VOLLMER = p1poetaelatinimi02baeh
 BAEHRENS = poetaelatinimino34baeh
 PLESSIS = italiciiliaslati00plesuoft
 LEMAIRE = poetaelatinimin00unkngoog
+HOMER = https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0012/tlg001/tlg0012.tlg001.perseus-grc2.xml
 PDF =
 CHECK_PDF = @test -n "$(PDF)" || { echo 'usage: make $@ PDF="path/to/book.pdf"'; exit 1; }
 MODEL =
@@ -35,9 +36,18 @@ commentary: ../texts/COMMENTARY.md ../texts/COMMENTARY-en.md ../texts/COMMENTARY
 
 download: tmp/ilias.html ## Download the Latin text from The Latin Library
 
+homer: tmp/iliad-grc.xml ## Download the Greek Iliad from Perseus (not distributed)
+
 tmp/ilias.html:
 	mkdir -p tmp
 	curl -fsSL -o $@ $(URL)
+
+# The Greek Iliad for reference only: Monro and Allen, 3rd ed. (Oxford,
+# 1908-1920), public domain, as encoded by Perseus (CC BY-SA 4.0).  It
+# stays in tmp/ and is not committed.
+tmp/iliad-grc.xml:
+	mkdir -p tmp
+	curl -fsSL -o $@ $(HOMER)
 
 tmp/ilias.txt: tmp/ilias.html extract.py
 	uv run python extract.py $< $@
@@ -110,4 +120,4 @@ parts: split_pt.py ## Split the PDF text into sections in tmp/parts (PDF=...)
 	$(CHECK_PDF)
 	uv run python split_pt.py "$(PDF)" tmp/parts
 
-.PHONY: help all text vollmer baehrens plessis lemaire concordance commentary download pt check-pt parts
+.PHONY: help all homer text vollmer baehrens plessis lemaire concordance commentary download pt check-pt parts

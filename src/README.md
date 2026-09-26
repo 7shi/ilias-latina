@@ -25,7 +25,16 @@ make plessis        # extract Plessis's edition once (../texts/4-plessis/)
 make lemaire        # extract Lemaire's edition once (../texts/2-lemaire/)
 make concordance    # build the verse concordance once (../texts/concordance.md)
 make commentary     # put the verses and commentaries side by side (../texts/COMMENTARY.md, -en, -ja)
+make homer          # download the Greek Iliad for reference (tmp/iliad-grc.xml)
 ```
+
+`make homer` downloads the Greek text of the *Iliad* from the Perseus
+Digital Library ([canonical-greekLit](https://github.com/PerseusDL/canonical-greekLit),
+`tlg0012.tlg001.perseus-grc2.xml`): the edition of Monro and Allen,
+*Homeri Opera*, 3rd ed. (Oxford, 1908–1920), which is in the public
+domain, in Perseus's TEI encoding, licensed CC BY-SA 4.0.  It is used
+only for reference while processing and stays in `tmp/`; it is not
+part of this repository.
 
 To process the Portuguese edition, put the PDF anywhere (for example in
 `tmp/`) and pass its path with `PDF=`.  Quote it if the name contains
@@ -52,6 +61,7 @@ make check-pt MODEL="gpt-5.6-terra"
 | Target | Output (in `tmp/`, except `text`) | Script |
 |---|---|---|
 | `download` | `ilias.html` — the page from The Latin Library | — |
+| `homer` | `iliad-grc.xml` — the Greek *Iliad* from Perseus (TEI, one `<l n>` per line in each book) | — |
 | `all` | `ilias.txt` — Latin text, `N TEXT` per verse | `extract.py` |
 | `text` | `../texts/ilias.txt` — the same with `## N` book headings | `books.py` |
 | `vollmer` | `../texts/6-vollmer/*.md` — Vollmer's edition by page (downloads the scan to `tmp/`) | `vollmer.py` |
