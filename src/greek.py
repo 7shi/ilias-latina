@@ -4,7 +4,7 @@ Usage: python greek.py ILIAD_GRC.xml TEXTS_DIR OUTPUT.md
 
 Divides the verses of The Latin Library (TEXTS_DIR/ilias.txt) into
 sections at the verses where Vollmer prints a line of the Iliad in his
-margin (TEXTS_DIR/iliad.md).  Each verse is followed by the lines it
+margin (TEXTS_DIR/iliad.md) and at the first verse of each book.  Each verse is followed by the lines it
 renders (TEXTS_DIR/alignment.tsv), and each section by the notes of
 alignment.tsv and the Greek of those lines (ILIAD_GRC.xml, the Perseus
 TEI of Monro and Allen), in the order the verses first render them and
@@ -91,10 +91,11 @@ def main() -> None:
     margin = read_margin(texts / "iliad.md")
     alignment = read_alignment(texts / "alignment.tsv")
 
-    # Sections begin at the verses with lines of the Iliad.
+    # Sections begin at the verses with lines of the Iliad and at the
+    # first verse of each book.
     sections: list[list[tuple[int, int, str]]] = []
     for v in verses:
-        if margin.get(v[1]) or not sections:
+        if not sections or margin.get(v[1]) or v[0] != sections[-1][0][0]:
             sections.append([])
         sections[-1].append(v)
 

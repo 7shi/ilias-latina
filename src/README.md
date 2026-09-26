@@ -36,9 +36,9 @@ domain, in Perseus's TEI encoding, licensed CC BY-SA 4.0.  It is used
 only for reference while processing and stays in `tmp/`; it is not
 part of this repository.  `make greek` divides the verses of The Latin
 Library into sections at the lines of the *Iliad* in Vollmer's margin
-(`../texts/iliad.md`), gives each verse the lines it renders and each
-section the notes and the Greek of those lines
-(`../texts/alignment.tsv`), for reference in translating; as it quotes
+(`../texts/iliad.md`) and at the first verse of each book, gives each
+verse the lines it renders and each section the notes and the Greek of
+those lines (`../texts/alignment.tsv`), for reference in translating; as it quotes
 the Perseus text, it also stays in `tmp/`.
 
 To process the Portuguese edition, put the PDF anywhere (for example in
