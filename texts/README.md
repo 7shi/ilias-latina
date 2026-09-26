@@ -6,6 +6,9 @@ reference in its own directory:
 
 - [2-lemaire/](2-lemaire/README.md) — Lemaire's reprint of Wernsdorf's
   edition: prooemium, testimonia, text with Wernsdorf's notes, excursus.
+  The directory is named after the book (Lemaire, 1824), but the text,
+  notes and numbering are Wernsdorf's (1784), so the edition is called
+  Wernsdorf where its text or numbers are meant.
 - [3-baehrens/](3-baehrens/README.md) — Baehrens's edition: preface, text
   with the book numbers in the margin and the apparatus.
 - [4-plessis/](4-plessis/README.md) — Plessis's edition: preface,
