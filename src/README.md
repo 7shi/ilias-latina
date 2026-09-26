@@ -1,8 +1,8 @@
 # Scripts
 
 Scripts that build the Latin text, organize the public-domain editions
-for reference, and build the Portuguese translation and the parallel
-text.  All outputs go into `tmp/` (ignored by git), except `make text`,
+for reference, set the Greek of the *Iliad* beside the verses, and build
+the Portuguese translation and the parallel text.  All outputs go into `tmp/` (ignored by git), except `make text`,
 which writes the published text `../texts/ilias.txt`, and `make
 vollmer`, `make baehrens`, `make plessis` and `make lemaire`, which
 write `../texts/6-vollmer/`, `../texts/3-baehrens/`, `../texts/4-plessis/`
@@ -91,6 +91,7 @@ uv run python baehrens.py tmp/3-poetaelatinimino34baeh.pdf tmp/ilias.txt ../text
 uv run python plessis.py tmp/4-italiciiliaslati00plesuoft.pdf tmp/ilias.txt ../texts/4-plessis
 uv run python lemaire.py tmp/2-poetaelatinimin00unkngoog_hocr.html tmp/ilias.txt ../texts/2-lemaire
 uv run python concordance.py ../texts ../texts/concordance.md tmp/concordance_check.txt
+uv run python greek.py tmp/iliad-grc.xml ../texts tmp/greek.md
 uv run python extract_pt.py [-v] BOOK.pdf tmp/ilias_pt.txt
 uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 uv run python split_pt.py BOOK.pdf tmp/parts

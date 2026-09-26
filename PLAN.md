@@ -4,7 +4,8 @@
 
 Notes for the next session.  Read README.md, this file,
 texts/README.md, texts/COMMENTARY.md (book 1), texts/NOTES.md,
-texts/concordance.md (the Book divisions) and src/README.md first.
+texts/concordance.md (the Book divisions), texts/alignment.tsv (book 1)
+and src/README.md first.
 
 ### Rules (unchanged)
 
@@ -16,8 +17,10 @@ texts/concordance.md (the Book divisions) and src/README.md first.
 - Processed texts from public-domain sources may be published.  texts/
   holds four editions: Lemaire [2], Baehrens [3], Plessis [4], Vollmer
   [6].  Spondanus [1] and Butler [5] are cited only for the background.
-- src/ holds the scripts; src/tmp/ holds downloads and work files and is
-  not committed.  The root README does not mention src/tmp or download
+- src/ holds the scripts that process downloads and the scans (src/tmp/)
+  and write into texts/; scripts whose inputs and outputs are all in
+  texts/ (commentary.py, iliad.py, with texts/Makefile) live in texts/.
+  src/tmp/ holds downloads and work files and is not committed.  The root README does not mention src/tmp or download
   steps, and lists as requirements only uv, make, curl and poppler-utils,
   without library names.
 - Files are written in English, conversation is in Japanese.  "book 1"
@@ -78,6 +81,18 @@ texts/concordance.md (the Book divisions) and src/README.md first.
   (Plessis's index → verses, Lemaire's notes keyed to LL) are no longer
   needed.  The lines of the *Iliad* in Vollmer's margin are kept apart in
   texts/iliad.md (`make iliad` in texts/), as book.line with his verses.
+- texts/alignment.tsv gives, for all 1070 verses, the lines of the
+  *Iliad* each verse renders (309 "—", 4 uncertain "?", 61 notes).  It
+  was made in one pass by reading each verse against the Greek, with
+  the line numbers checked in the Greek text; the correspondences
+  themselves are not yet reviewed.  It is made and corrected by hand.
+- The Greek *Iliad* (Monro and Allen, TEI from Perseus, CC BY-SA 4.0)
+  is downloaded by `make homer` to src/tmp/iliad-grc.xml and is not
+  committed; only line numbers go into the repository.  `make greek`
+  builds src/tmp/greek.md: the verses in sections at Vollmer's lines,
+  each verse with its lines from alignment.tsv, each section with the
+  notes and the Greek.  The user found this readable and intends to
+  translate into English section by section with it.
 - The files of the editions, including ilias.md (apparatus and notes;
   the verse tables are kept verbatim) and COMMENTARY.md, have English
   and Japanese translations (`-en.md`, `-ja.md`), and `make commentary`
@@ -103,10 +118,32 @@ the user before writing much:
 - The *Iliad* lines of Vollmer's margin are in texts/iliad.md as
   book.line ("1.8" for his "Α 8").  His preface (p. VIII) says only
   that they show where the poet displayed his own art and invention; a
-  dash is read as the poet's addition, and verses with an empty margin
-  are left out.  The Greek text (Monro and Allen, from Perseus) is
-  downloaded by `make homer` to src/tmp/ for reference only and is not
-  committed.
+  dash is read as the poet's addition (not stated by him), and verses
+  with an empty margin are left out.  A line marks where a
+  correspondence begins or resumes, not how far it runs (e.g. 252,
+  empty, renders 3.1–15 before his Γ 16).
+
+### Handoff: alignment and translation (2026-09-26)
+
+- texts/alignment.tsv should be reviewed, book by book, in
+  src/tmp/greek.md (`make homer`, then `make greek` in src/).  Correct
+  the TSV by hand and rebuild greek.md.  The uncertain rows are 62,
+  382, 545, 766.
+- Its `note` column is limited to: the Latin differing from the Greek
+  it renders (persons, numbers, who does what: e.g. 195 Teucer for
+  Nireus, 351 Podalirius for Machaon, 372 Atrides for Odysseus, 431
+  Idomeneus for Menelaus), the alignment differing from Vollmer's
+  margin (263–264, 514, 861, 900, 970: a counterpart where he has a
+  dash; 915 his "24?"), and "cf." for a verse without a counterpart.
+  No summaries of content and no notes taken from memory without
+  checking the Greek.
+- How the alignment was made: print the LL verses of a book with
+  Vollmer's margin (texts/iliad.md), print the Greek lines around his
+  numbers from src/tmp/iliad-grc.xml, assign lines to each verse, and
+  check every line number cited in the Greek before writing it.
+- The English translation is to be made section by section from
+  src/tmp/greek.md (see [Other aids](#other-aids)); where it goes and
+  in what format are not yet settled.
 
 ### Page images (last resort)
 
@@ -150,14 +187,16 @@ Numbers in brackets refer to the Internet Archive list there.
 
 ## Layers of each note
 
-The sources for all layers are gathered verse by verse in
-[texts/COMMENTARY.md](texts/COMMENTARY.md).
+The sources are gathered verse by verse in
+[texts/COMMENTARY.md](texts/COMMENTARY.md), and for the Homer layer in
+[texts/alignment.tsv](texts/alignment.tsv).
 
 1. **Homer**: which lines of the *Iliad* the verse renders, and whether it
    follows, compresses, changes or adds to Homer.
    - Source: the references to Homer in the notes of Wernsdorf [2],
      Plessis [4] and Vollmer [6]; the *Iliad* lines in the margin of
-     Vollmer's text, listed in texts/iliad.md.
+     Vollmer's text, listed in texts/iliad.md; the lines each verse
+     renders, in texts/alignment.tsv (with the Greek in src/tmp/greek.md).
 2. **Latin models**: echoes of Vergil, Ovid and other Latin poets.
    - Source: Wernsdorf's notes, reprinted by Lemaire [2]; the parallels
      in Plessis [4] and Vollmer [6].
@@ -199,11 +238,12 @@ Consulting page images is now kept only as a last resort.
    manuscripts and the conjectures (`texts/*/COMMENTARY.md`), and put
    them together with the verses of the editions, keyed to The Latin
    Library through the concordance.  Done: `texts/COMMENTARY.md`.  This
-   replaces the separate tables planned earlier (Vollmer's margin →
-   *Iliad* lines, Plessis's index → verses, Wernsdorf's notes keyed to
-   The Latin Library): Wernsdorf's labels already give the verse of The
-   Latin Library, Vollmer's margin is given under his verse, and the
-   index is read where needed.
+   replaces the separate tables planned earlier (Plessis's index →
+   verses, Wernsdorf's notes keyed to The Latin Library): Wernsdorf's
+   labels already give the verse of The Latin Library, and the index is
+   read where needed.  Vollmer's margin is listed apart in
+   `texts/iliad.md`, and the lines each verse renders in
+   `texts/alignment.tsv`.
 3. Publish these files and the cleaned texts in the repository.  The
    sources are in the public domain, so processed texts derived from them
    can be published.
@@ -252,13 +292,17 @@ Consulting page images is now kept only as a last resort.
 
 ## Layout
 
-`src/` holds only the scripts.  The work is done in separate directories:
+`src/` holds the scripts that work on downloads and scans.  The work is
+done in separate directories:
 
 - `texts/` — processed texts from the public-domain sources, one
   subdirectory per book of the Internet Archive list, named by its
-  number and the editor (e.g. `texts/6-vollmer/`), with the concordance
-  the collected commentary (`texts/COMMENTARY.md`) and the working
-  notes (`texts/NOTES.md`).  The Latin
+  number and the editor (e.g. `texts/6-vollmer/`), with the concordance,
+  the collected commentary (`texts/COMMENTARY.md`), Vollmer's *Iliad*
+  lines (`texts/iliad.md`), the alignment with the *Iliad*
+  (`texts/alignment.tsv`) and the working notes (`texts/NOTES.md`).
+  The scripts that build files from these (`commentary.py`,
+  `iliad.py`, with a Makefile) are kept here too.  The Latin
   Library text is published here as `texts/ilias.txt`: one continuous
   file with a heading for each book, so that the divisions can still be
   adjusted.
@@ -275,9 +319,10 @@ published.
 
 - The Portuguese translation is used only to check the understanding of
   the Latin, through the parallel text built by the tools.
-- The English translation is made from the Latin and the notes of the
-  editions alone, without consulting the Portuguese translation, so that
-  it is not derived from it.  Only when it is finished is it compared
+- The English translation is made from the Latin, the notes of the
+  editions and the Greek of the lines each verse renders
+  (`src/tmp/greek.md`), without consulting the Portuguese translation,
+  so that it is not derived from it.  Only when it is finished is it compared
   with the Portuguese translation, following the list of differences in
   [src/PORTUGUESE.md](src/PORTUGUESE.md): transposed lines (75-76,
   100-101, 862-864) are compared as a range, and lines without a

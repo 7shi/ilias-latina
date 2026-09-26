@@ -7,7 +7,8 @@ summary of Homer's Iliad.
 ## About the poem
 
 The *Ilias Latina* retells Homer's *Iliad* in Latin hexameters, reducing
-the 15,693 lines of the original to 1,070.  It is attributed to Publius
+the 15,693 lines of the original (15,687 in the edition of Monro and
+Allen) to 1,070.  It is attributed to Publius
 Baebius Italicus, reportedly a Roman senator, and dated to about AD 60–70.
 The poem was popular in antiquity and remained a standard school text
 throughout the Middle Ages; Ernst Robert Curtius nevertheless called it a
@@ -195,6 +196,13 @@ poppler-utils.  See [src/README.md](src/README.md) for usage.
   used as an aid for checking the content.  The results of comparing
   it line by line with the text of The Latin Library, with the lines
   concerned quoted, are in [src/PORTUGUESE.md](src/PORTUGUESE.md).
+- D. B. Monro and T. W. Allen (eds.), *Homeri Opera*, vols. 1–2 (the
+  *Iliad*), 3rd ed.  Oxford: Clarendon Press, 1908–1920.  The Greek
+  text of the *Iliad* in the TEI encoding of the
+  [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
+  (CC BY-SA 4.0).  Its line numbers are used in
+  [texts/alignment.tsv](texts/alignment.tsv); the Greek text itself is
+  not part of this repository.
 
 ### Internet Archive
 

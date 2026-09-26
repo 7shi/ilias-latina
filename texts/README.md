@@ -213,7 +213,8 @@ verse of The Latin Library renders, found by reading the verse against
 the Greek.  Vollmer's margin gives only where the correspondences
 begin; this gives them verse by verse.  It is made and corrected by
 hand, and is data for scripts rather than for reading: it is meant to
-be read together with the Greek.
+be read together with the Greek, as `make greek` in
+[src/](../src/README.md) does.  It is a first draft, not yet reviewed.
 
 - Columns: `verse` (The Latin Library), `iliad`, `note`.
 - `iliad`: book.line, ranges with "–", separate places with ", ", in
