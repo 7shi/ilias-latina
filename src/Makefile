@@ -36,6 +36,8 @@ download: tmp/ilias.html ## Download the Latin text from The Latin Library
 
 homer: tmp/iliad-grc.xml ## Download the Greek Iliad from Perseus (not distributed)
 
+greek: tmp/greek.md ## Put the Greek lines beside the verses, for translating (not distributed)
+
 tmp/ilias.html:
 	mkdir -p tmp
 	curl -fsSL -o $@ $(URL)
@@ -46,6 +48,10 @@ tmp/ilias.html:
 tmp/iliad-grc.xml:
 	mkdir -p tmp
 	curl -fsSL -o $@ $(HOMER)
+
+# Quotes the Perseus text, so it also stays in tmp/.
+tmp/greek.md: greek.py tmp/iliad-grc.xml ../texts/ilias.txt ../texts/iliad.md ../texts/alignment.tsv
+	uv run python greek.py tmp/iliad-grc.xml ../texts $@
 
 tmp/ilias.txt: tmp/ilias.html extract.py
 	uv run python extract.py $< $@
@@ -109,4 +115,4 @@ parts: split_pt.py ## Split the PDF text into sections in tmp/parts (PDF=...)
 	$(CHECK_PDF)
 	uv run python split_pt.py "$(PDF)" tmp/parts
 
-.PHONY: help all homer text vollmer baehrens plessis lemaire concordance download pt check-pt parts
+.PHONY: help all homer greek text vollmer baehrens plessis lemaire concordance download pt check-pt parts
