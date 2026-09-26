@@ -82,10 +82,11 @@ and src/README.md first.
   needed.  The lines of the *Iliad* in Vollmer's margin are kept apart in
   texts/iliad.md (`make iliad` in texts/), as book.line with his verses.
 - texts/alignment.tsv gives, for all 1070 verses, the lines of the
-  *Iliad* each verse renders (309 "—", 4 uncertain "?", 61 notes).  It
+  *Iliad* each verse renders (287 "—", 1 uncertain "?", 56 notes).  It
   was made in one pass by reading each verse against the Greek, with
   the line numbers checked in the Greek text; the correspondences
-  themselves are not yet reviewed.  It is made and corrected by hand.
+  were then reviewed book by book (2026-09-27).  It is made and
+  corrected by hand.
 - The Greek *Iliad* (Monro and Allen, TEI from Perseus, CC BY-SA 4.0)
   is downloaded by `make homer` to src/tmp/iliad-grc.xml and is not
   committed; only line numbers go into the repository.  `make greek`
@@ -125,16 +126,20 @@ the user before writing much:
 
 ### Handoff: alignment and translation (2026-09-26)
 
-- texts/alignment.tsv should be reviewed, book by book, in
-  src/tmp/greek.md (`make homer`, then `make greek` in src/).  Correct
-  the TSV by hand and rebuild greek.md.  The uncertain rows are 62,
-  382, 545, 766.
+- texts/alignment.tsv has been reviewed, book by book, in
+  src/tmp/greek.md (`make homer`, then `make greek` in src/), for all
+  24 books (2026-09-27).  Further corrections are made in the TSV by
+  hand, then greek.md is rebuilt.  The only uncertain row left is 62
+  (left uncertain in the review).
 - Its `note` column is limited to: the Latin differing from the Greek
   it renders (persons, numbers, who does what: e.g. 195 Teucer for
   Nireus, 351 Podalirius for Machaon, 372 Atrides for Odysseus, 431
   Idomeneus for Menelaus), the alignment differing from Vollmer's
   margin (263–264, 514, 861, 900, 970: a counterpart where he has a
-  dash; 915 his "24?"), and "cf." for a verse without a counterpart.
+  dash; 915 his "24?").  The notes are not expanded where the TSV is
+  used, so a place a verse draws on or recalls, even without rendering
+  it (e.g. 26 1.112–115), goes into the `iliad` column, not into a
+  "cf." note.
   No summaries of content and no notes taken from memory without
   checking the Greek.
 - How the alignment was made: print the LL verses of a book with
