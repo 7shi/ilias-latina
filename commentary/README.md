@@ -1,0 +1,89 @@
+# Commentary
+
+An English translation of the *Ilias Latina* with a commentary, made
+with an LLM section by section from the text of The Latin Library, the
+notes of the editions that apply to it and the Greek of the *Iliad*.
+
+## Policy
+
+The translation with its commentary is meant to be read as an
+abridged *Iliad* by a reader with no previous knowledge of the poem or
+of Homer.  It follows the course of the story rather than the scholarly
+interpretation of the Latin text.
+
+- The commentary is an essay on each section as a whole, not a note on
+  each verse: it tells what happens and what it means, how the passage
+  retells the *Iliad* (what is kept, condensed, changed or added), and
+  the persons, places and background the reader needs.  Verse numbers
+  are given only where the reader would otherwise not find what is
+  meant.
+- Names of persons and peoples are kept in the translation as the Latin
+  gives them; the commentary explains whom they mean.
+- Where a note explains what a word or phrase means, the translation
+  and the commentary follow it, even against a reading that seems more
+  natural.  A parallel from another author, or an opinion that a note
+  reports or disputes, does not decide the meaning; where the meaning
+  remains uncertain, no reading is stated as fact.
+- The reader sees only the verses and the commentary.  The notes and
+  the Greek are given to the model to make the translation and the
+  commentary accurate and are not reported: no parallels or references
+  from them, and no mention of the notes, the editions or their
+  editors.  Matters of the transmission of the text (other readings,
+  manuscripts, quotations by later authors) are left out.
+- The Greek is not quoted; the *Iliad* is cited in English translation
+  with its book and line.
+
+## Generation
+
+`make generate MODEL=...` in this directory ([generate.py](generate.py))
+takes the sections of `../src/tmp/greek.md` (`make greek` in src/),
+which begin at the lines of the *Iliad* in Vollmer's margin and at the
+first verse of each book.  `BOOKS=1-3` limits the run to some books;
+`VERSE=9`, for testing, generates only the section of verse 9, with
+what context there is, and no summary.
+
+- Each section is saved as `NN/VVVV.md` (NN the book, VVVV the first
+  verse) under its heading: every verse quoted with its translation
+  (`> N Latin`, then `> (translation)`), then the commentary.
+- The model is given the whole previous section in `<previous>`; the
+  first section of a book is given instead the summary of the previous
+  book in `<summary>` (`NN/README.md`), which is made from the
+  translations of a book once all its sections are there.  It is
+  context for the model, not meant for reading.
+- An answer is saved only when it quotes every verse of the section
+  once, in order, with the Latin unchanged and a translation; otherwise
+  it is asked again (`-r`, 3 times by default).  Existing files are
+  skipped, so an interrupted run resumes where it left off.
+
+## Notes
+
+The notes of the editions belong to their own texts, which in places
+read differently from The Latin Library: at 11, for example, all four
+editions read *Infestus*, and their notes explain it (= χολωθείς),
+while The Latin Library has *infestam regi pestem*.
+[notes.tsv](notes.tsv) keeps the notes that apply to the text of The
+Latin Library, as curated context for translating it into English.  It
+was made once from [texts/COMMENTARY-en.md](../texts/COMMENTARY-en.md)
+and is corrected by hand from then on; it is not rebuilt when the
+editions' files change.
+
+- Columns: `verse` (The Latin Library), `edition` (2 Lemaire, 3
+  Baehrens, 4 Plessis, 6 Vollmer), `note`, in the order of
+  COMMENTARY-en.md.  A note continued from the previous page
+  ("(cont.)") is joined to the note it continues, and the label of a
+  range of verses is kept at the start of the note ("432-433: …").
+- A note is copied as it is when it applies to The Latin Library.  A
+  note on a reading that The Latin Library does not have is left out
+  (e.g. 47, *arbor* for *aer*).  A note that applies only in part is
+  rewritten to fit, keeping the editor's words where possible and
+  naming the edition's reading where it matters (e.g. 5, Plessis's
+  *Ipsorum* for *Illorum*).
+- The notes were chosen by comparing each edition's verse with that of
+  The Latin Library and checking whether the words a note discusses
+  are there, reading the full notes in the editions' `ilias-en.md`
+  where COMMENTARY-en.md cuts them.
+- Wernsdorf's references to other verses of the poem are given in the
+  numbering of The Latin Library, found by their content: his figures
+  do not always follow his own numbering (at 28 his "v. 1012", *arat
+  unguibus ora*, is 1017, his 1022).  References to the *Iliad* and to
+  other works are left as they are.

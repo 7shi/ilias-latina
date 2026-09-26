@@ -43,10 +43,10 @@ texts/README.md and src/README.md first.
   (150 dpi, NNN = PDF page; Vollmer p. 1 = PDF 159), or render with
   `pdftoppm -r 300..600` and crop with Pillow.
 - texts/alignment.tsv was reviewed book by book against the Greek
-  (2026-09-27); only 62 is left uncertain.  The Greek is downloaded by
+  (2026-09-27).  The Greek is downloaded by
   `make homer` and not committed; `make greek` in src/ builds
   src/tmp/greek.md, from which the user intends to translate into
   English section by section.
 - The English and Japanese translations of the editions' files are
-  drafts, not yet reviewed; texts/commentary.tsv was made from the
+  drafts, not yet reviewed; commentary/notes.tsv was made from the
   English drafts before any review.

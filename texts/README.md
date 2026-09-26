@@ -30,9 +30,9 @@ without the readings and conjectures; see [Commentary](#commentary)).
 Its translations [COMMENTARY-en.md](COMMENTARY-en.md) and
 [COMMENTARY-ja.md](COMMENTARY-ja.md) are built in the same way from the
 editions' `COMMENTARY-en.md` and `COMMENTARY-ja.md`.
-[commentary.tsv](commentary.tsv) selects and adapts the English
-notes to the text of The Latin Library, as context for translating it
-(see [Commentary for The Latin Library](#commentary-for-the-latin-library)).
+[../commentary/notes.tsv](../commentary/notes.tsv) selects and adapts
+the English notes to the text of The Latin Library, as context for
+translating it (see [commentary/](../commentary/README.md)).
 
 [iliad.md](iliad.md) lists the lines of the *Iliad* that Vollmer prints
 in the left margin of his text, as book.line, with his verses keyed to
@@ -187,39 +187,6 @@ editions' files.
   give the verse of The Latin Library ("(LL n)"), and his "(cont.)" goes
   with the last note of the previous page; the numbers of Baehrens,
   Plessis and Vollmer are looked up in their concordance columns.
-
-## Commentary for The Latin Library
-
-The notes of the editions belong to their own texts, which in places
-read differently from The Latin Library: at 11, for example, all four
-editions read *Infestus*, and their notes explain it (= χολωθείς),
-while The Latin Library has *infestam regi pestem*.
-[commentary.tsv](commentary.tsv) keeps the notes that apply to
-the text of The Latin Library, as curated context for translating it
-into English.  It was made once from
-[COMMENTARY-en.md](COMMENTARY-en.md) and is corrected by hand from then
-on; it is not rebuilt when the editions' files change.
-
-- Columns: `verse` (The Latin Library), `edition` (2 Lemaire, 3
-  Baehrens, 4 Plessis, 6 Vollmer), `note`, in the order of
-  COMMENTARY-en.md.  A note continued from the previous page
-  ("(cont.)") is joined to the note it continues, and the label of a
-  range of verses is kept at the start of the note ("432-433: …").
-- A note is copied as it is when it applies to The Latin Library.  A
-  note on a reading that The Latin Library does not have is left out
-  (e.g. 47, *arbor* for *aer*).  A note that applies only in part is
-  rewritten to fit, keeping the editor's words where possible and
-  naming the edition's reading where it matters (e.g. 5, Plessis's
-  *Ipsorum* for *Illorum*).
-- The notes were chosen by comparing each edition's verse with that of
-  The Latin Library and checking whether the words a note discusses
-  are there, reading the full notes in the editions' `ilias-en.md`
-  where COMMENTARY-en.md cuts them.
-- Wernsdorf's references to other verses of the poem are given in the
-  numbering of The Latin Library, found by their content: his figures
-  do not always follow his own numbering (at 28 his "v. 1012", *arat
-  unguibus ora*, is 1017, his 1022).  References to the *Iliad* and to
-  other works are left as they are.
 
 ## Iliad
 
