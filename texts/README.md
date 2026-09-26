@@ -14,6 +14,9 @@ reference in its own directory:
 - [6-vollmer/](6-vollmer/README.md) — Vollmer's edition: preface, text
   with the *Iliad* lines in the margin and the apparatus, index of names.
 
+[PROOFREADING.md](PROOFREADING.md) records the OCR each edition was
+taken from and how the texts were proofread against the page images.
+
 [concordance.md](concordance.md) keys the verses of the four editions to
 the numbering of The Latin Library (see [Concordance](#concordance)).
 
