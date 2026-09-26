@@ -21,7 +21,7 @@ throughout).
 |---|---|---|
 | [prooemium.md](prooemium.md) ([en](prooemium-en.md), [ja](prooemium-ja.md)) | Half-title, and Wernsdorf's prooemium on the poem, its author, the name Pindarus, the Latin translators of Homer and the editions | [453], 455–507 |
 | [testimonia.md](testimonia.md) ([en](testimonia-en.md), [ja](testimonia-ja.md)) | *De Epitome Iliados Homeri ejusque auctore testimonia auctorum ac judicia*, with notes | 508–514 |
-| [ilias.md](ilias.md) | Text and notes | 515–610 |
+| [ilias.md](ilias.md) ([en](ilias-en.md), [ja](ilias-ja.md)) | Text and notes | 515–610 |
 | [COMMENTARY.md](COMMENTARY.md) | The notes of ilias.md on the interpretation (Homer, Latin models, persons, language), without the readings and conjectures | 515–610 |
 | [excursus.md](excursus.md) ([en](excursus-en.md), [ja](excursus-ja.md)) | Excursus I–IV on verses 690 seq., 867–870, 894–896 and 919–921 (Wernsdorf's numbers) | 611–620 |
 

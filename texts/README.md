@@ -35,10 +35,10 @@ Vollmer's edition.
 
 ## Translations
 
-In the edition directories, the files other than `ilias.md` (the text
-with the editors' notes) have translations into English (`-en.md`) and Japanese
+In the edition directories, the files have translations into English (`-en.md`) and Japanese
 (`-ja.md`) next to them, e.g. [4-plessis/introduction-en.md](4-plessis/introduction-en.md)
-and [4-plessis/introduction-ja.md](4-plessis/introduction-ja.md); each
+and [4-plessis/introduction-ja.md](4-plessis/introduction-ja.md); for `ilias.md`, the
+verse tables are kept verbatim and the apparatus and notes are translated.  Each
 directory's README links them from its table of files.  The headings
 (`## p. N`), the `PDF page N.` lines, the paragraphs, the footnotes and
 the index entries follow the original one for one, so that a passage can

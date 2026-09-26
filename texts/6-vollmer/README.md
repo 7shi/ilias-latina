@@ -14,7 +14,7 @@ the page of the PDF for looking up the page image.
 | File | Contents | Pages |
 |---|---|---|
 | [preface.md](preface.md) ([en](preface-en.md), [ja](preface-ja.md)) | Preface and list of manuscripts (*conspectus codicum*) | IV–X |
-| [ilias.md](ilias.md) | Text, margins, testimonia and apparatus | 1–55 |
+| [ilias.md](ilias.md) ([en](ilias-en.md), [ja](ilias-ja.md)) | Text, margins, testimonia and apparatus | 1–55 |
 | [COMMENTARY.md](COMMENTARY.md) | The testimonia, and the glosses and parallels of the apparatus, without the readings and conjectures | 1–54 |
 | [index.md](index.md) ([en](index-en.md), [ja](index-ja.md)) | Index of names (*index nominum*), one entry per line | 56–65 |
 
