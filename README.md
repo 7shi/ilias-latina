@@ -192,8 +192,9 @@ poppler-utils.  See [src/README.md](src/README.md) for usage.
   [doi:10.14195/978-989-26-2205-7](https://doi.org/10.14195/978-989-26-2205-7).
   Portuguese translation, based on the edition of M. Scaffai (1997).
   Consulted for the book divisions under [Structure](#structure) and
-  used as an aid for checking the content; nothing derived from it is
-  published.
+  used as an aid for checking the content.  The results of comparing
+  it line by line with the text of The Latin Library, with the lines
+  concerned quoted, are in [src/PORTUGUESE.md](src/PORTUGUESE.md).
 
 ### Internet Archive
 

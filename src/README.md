@@ -37,6 +37,16 @@ make pt    PDF="tmp/book.pdf"   # numbered translation and parallel text
 make parts PDF="tmp/book.pdf"   # split the whole book into sections
 ```
 
+`make check-pt` has an LLM check that each translated line matches its
+Latin verse (see [PORTUGUESE.md](PORTUGUESE.md) for the results).  The
+model is required, with an optional vendor prefix as in llm7shi.  The
+judgments are saved after every chunk, so an interrupted run resumes
+when the target is run again.
+
+```sh
+make check-pt MODEL="gpt-5.6-terra"
+```
+
 ### Targets and outputs
 
 | Target | Output (in `tmp/`, except `text`) | Script |
@@ -52,6 +62,7 @@ make parts PDF="tmp/book.pdf"   # split the whole book into sections
 | `commentary` | `../texts/COMMENTARY.md` — the verses of The Latin Library and of the four editions with the items of their commentaries; `COMMENTARY-en.md` and `COMMENTARY-ja.md` with the items of the editions' translations | `commentary.py` |
 | `pt` | `ilias_pt.txt` — Portuguese translation, `LABEL TEXT` per verse | `extract_pt.py` |
 | | `ilias_la_pt.txt` — Latin and Portuguese interleaved | `parallel.py` |
+| `check-pt` | `ilias_la_pt_check.json` — `"ok"` or `"ng"` per verse | `check_pt.py` |
 | `parts` | `parts/NN_name.txt` — the book split at its section headings | `split_pt.py` |
 
 The scripts can also be run directly; see the docstring at the top of each

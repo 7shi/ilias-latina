@@ -6,6 +6,8 @@ PLESSIS = italiciiliaslati00plesuoft
 LEMAIRE = poetaelatinimin00unkngoog
 PDF =
 CHECK_PDF = @test -n "$(PDF)" || { echo 'usage: make $@ PDF="path/to/book.pdf"'; exit 1; }
+MODEL =
+CHECK_MODEL = @test -n "$(MODEL)" || { echo 'usage: make $@ MODEL="vendor:model"'; exit 1; }
 
 help: ## Show this help
 	@grep -hE '^[a-zA-Z0-9_ -]+:.*## ' $(MAKEFILE_LIST) | \
@@ -13,6 +15,7 @@ help: ## Show this help
 	@echo
 	@echo '  PDF: the Portuguese edition (A Ilíada Latina, Coimbra University'
 	@echo '       Press, 2021), e.g. make pt PDF="tmp/book.pdf"'
+	@echo '  MODEL: the LLM for check-pt, e.g. make check-pt MODEL="gpt-5.6-terra"'
 
 all: tmp/ilias.txt ## Download the Latin text and extract numbered verses
 
@@ -97,8 +100,14 @@ pt: tmp/ilias.txt extract_pt.py parallel.py ## Extract numbered translation and 
 	uv run python extract_pt.py "$(PDF)" tmp/ilias_pt.txt
 	uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 
+# Not a file target: the check resumes from the saved judgments, so it is
+# run again until every verse is judged.
+check-pt: check_pt.py ## Check with an LLM that the translation matches the verses (MODEL=...)
+	$(CHECK_MODEL)
+	uv run python check_pt.py -m "$(MODEL)" tmp/ilias_la_pt.txt tmp/ilias_la_pt_check.json
+
 parts: split_pt.py ## Split the PDF text into sections in tmp/parts (PDF=...)
 	$(CHECK_PDF)
 	uv run python split_pt.py "$(PDF)" tmp/parts
 
-.PHONY: help all text vollmer baehrens plessis lemaire concordance commentary download pt parts
+.PHONY: help all text vollmer baehrens plessis lemaire concordance commentary download pt check-pt parts

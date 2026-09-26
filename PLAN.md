@@ -10,7 +10,9 @@ texts/concordance.md (the Book divisions) and src/README.md first.
 
 - The text and verse order follow The Latin Library (LL).  The
   Portuguese translation is only a guide to the book divisions and an
-  aid for checking the content; nothing derived from it is published.
+  aid for checking the content; only the analysis of its line-by-line
+  correspondence with LL, with short quotations, is published
+  ([src/PORTUGUESE.md](src/PORTUGUESE.md)).
 - Processed texts from public-domain sources may be published.  texts/
   holds four editions: Lemaire [2], Baehrens [3], Plessis [4], Vollmer
   [6].  Spondanus [1] and Butler [5] are cited only for the background.
@@ -258,14 +260,25 @@ Consulting page images is now kept only as a last resort.
 - `commentary/` — the commentary itself, arranged by book.
 
 Downloads and intermediate files stay in `src/tmp/`, which is not
-committed.  The Portuguese translation is not in the public domain, so
-nothing derived from it is published; it was consulted for the book
-divisions and is used only as an aid for checking the content.
+committed.  The Portuguese translation is not in the public domain; it
+was consulted for the book divisions and is used only as an aid for
+checking the content.  Of it, only the analysis in
+[src/PORTUGUESE.md](src/PORTUGUESE.md), with short quotations, is
+published.
 
 ## Other aids
 
 - The Portuguese translation is used only to check the understanding of
   the Latin, through the parallel text built by the tools.
+- The English translation is made from the Latin and the notes of the
+  editions alone, without consulting the Portuguese translation, so that
+  it is not derived from it.  Only when it is finished is it compared
+  with the Portuguese translation, following the list of differences in
+  [src/PORTUGUESE.md](src/PORTUGUESE.md): transposed lines (75-76,
+  100-101, 862-864) are compared as a range, and lines without a
+  counterpart (827a, 890) are left out.  An error found by the
+  comparison is corrected from the Latin and the notes, not by taking
+  over the wording of the Portuguese translation.
 - Butler [5] and Plessis's introduction [4] supply the points for the book
   summaries (e.g. the uneven proportions of the books).
 - Modern editions and commentaries (Scaffai, Kennedy, Perkins, Falcone &

@@ -6,5 +6,9 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.15.0",
+    "llm7shi>=0.22.0",
     "pillow>=12.3.0",
 ]
+
+[tool.uv.sources]
+llm7shi = { git = "https://github.com/7shi/llm7shi.git" }
