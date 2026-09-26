@@ -123,6 +123,11 @@ Numbers in brackets refer to the Internet Archive list there.
 
 - The Latin text of The Latin Library, numbered 1–1070, with headings
   for the 24 books (`texts/ilias.txt`).
+- It stays the base text although one of the printed editions might
+  seem a better choice: the text of every edition carries its own
+  editorial reservations, and arranging them into a text of our own
+  would in effect make a new edition and add to the confusion.  The
+  differences of the editions are given in the notes instead.
 - Its editorial signs are kept and explained in the notes where they
   occur: `<que>`, `<et>` (words supplied by the editor, 517, 582, 685),
   `<>` (missing verse, 791) and the asterisks at 7, 890, 1008 and 1037.
