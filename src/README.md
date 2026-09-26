@@ -6,8 +6,9 @@ text.  All outputs go into `tmp/` (ignored by git), except `make text`,
 which writes the published text `../texts/ilias.txt`, and `make
 vollmer`, `make baehrens`, `make plessis` and `make lemaire`, which
 write `../texts/6-vollmer/`, `../texts/3-baehrens/`, `../texts/4-plessis/`
-and `../texts/2-lemaire/` once, and `make concordance`, which writes
-`../texts/concordance.md` once.
+and `../texts/2-lemaire/` once, `make concordance`, which writes
+`../texts/concordance.md` once, and `make commentary`, which writes
+`../texts/COMMENTARY.md` again whenever its sources change.
 
 ## Usage
 
@@ -22,6 +23,7 @@ make baehrens       # extract Baehrens's edition once (../texts/3-baehrens/)
 make plessis        # extract Plessis's edition once (../texts/4-plessis/)
 make lemaire        # extract Lemaire's edition once (../texts/2-lemaire/)
 make concordance    # build the verse concordance once (../texts/concordance.md)
+make commentary     # put the verses and commentaries side by side (../texts/COMMENTARY.md)
 ```
 
 To process the Portuguese edition, put the PDF anywhere (for example in
@@ -46,6 +48,7 @@ make parts PDF="tmp/book.pdf"   # split the whole book into sections
 | `plessis` | `../texts/4-plessis/*.md` — Plessis's edition by page (downloads the scan to `tmp/`) | `plessis.py` |
 | `lemaire` | `../texts/2-lemaire/*.md` — Lemaire's edition by page (downloads the OCR of the scan to `tmp/`) | `lemaire.py` |
 | `concordance` | `../texts/concordance.md` — the verses of the four editions keyed to The Latin Library; `concordance_check.txt` — the rows to check | `concordance.py` |
+| `commentary` | `../texts/COMMENTARY.md` — the verses of The Latin Library and of the four editions with the items of their commentaries | `commentary.py` |
 | `pt` | `ilias_pt.txt` — Portuguese translation, `LABEL TEXT` per verse | `extract_pt.py` |
 | | `ilias_la_pt.txt` — Latin and Portuguese interleaved | `parallel.py` |
 | `parts` | `parts/NN_name.txt` — the book split at its section headings | `split_pt.py` |
@@ -61,6 +64,7 @@ uv run python baehrens.py tmp/3-poetaelatinimino34baeh.pdf tmp/ilias.txt ../text
 uv run python plessis.py tmp/4-italiciiliaslati00plesuoft.pdf tmp/ilias.txt ../texts/4-plessis
 uv run python lemaire.py tmp/2-poetaelatinimin00unkngoog_hocr.html tmp/ilias.txt ../texts/2-lemaire
 uv run python concordance.py ../texts ../texts/concordance.md tmp/concordance_check.txt
+uv run python commentary.py ../texts ../texts/COMMENTARY.md
 uv run python extract_pt.py [-v] BOOK.pdf tmp/ilias_pt.txt
 uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 uv run python split_pt.py BOOK.pdf tmp/parts
@@ -242,6 +246,28 @@ made there are carried over.
   written to `tmp/concordance_check.txt`, least alike first.
 - As with the editions, `make concordance` does nothing when
   `../texts/concordance.md` exists.
+
+## Commentary
+
+`commentary.py` reads `../texts/ilias.txt`, `../texts/concordance.md`,
+and the verse tables and `COMMENTARY.md` of the four editions.
+
+- The rows follow the concordance, including its rows "—"; each
+  edition's number of the verse is taken from its cell, and the text
+  from the row of its ilias.md with the same verse and page.
+- A commentary item goes to the verse of its label: Lemaire's labels
+  give the verse of The Latin Library ("(LL n)"), and his "(cont.)" goes
+  with the last note of the previous page; the numbers of Baehrens,
+  Plessis and Vollmer are looked up in their concordance columns.  A
+  label for several verses goes to the first of them.
+- The lines of the *Iliad* in the Margin column of Vollmer's ilias.md
+  are given under his verse as book.line: his Greek book letter,
+  printed only where the book changes, is carried on and turned into a
+  number ("Α 8" → "1.8", "148. 369" → "2.148, 2.369"); the letter he
+  repeats alone at the top of a page is left out.
+- Unlike the concordance, `../texts/COMMENTARY.md` is not corrected by
+  hand; corrections are made in its sources and `make commentary`
+  rebuilds it.
 
 ## How the PDF is read
 

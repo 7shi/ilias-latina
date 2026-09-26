@@ -17,6 +17,11 @@ reference in its own directory:
 [concordance.md](concordance.md) keys the verses of the four editions to
 the numbering of The Latin Library (see [Concordance](#concordance)).
 
+[COMMENTARY.md](COMMENTARY.md) goes through the poem verse by verse in
+the order of The Latin Library, giving the verse of each edition with
+the items of its `COMMENTARY.md` (the notes on the interpretation,
+without the readings and conjectures; see [Commentary](#commentary)).
+
 [overview.md](overview.md) draws the prefaces, introductions, testimonia,
 excursus and indexes of the four editions together into one essay in
 Latin, keeping the editors' words where possible and linking each point
@@ -114,6 +119,42 @@ an edition differs much from The Latin Library, the correspondence was
 taken from the matching of the text and should be checked in the
 edition's `ilias.md`; the rows least like The Latin Library (a variant
 verse, a misread line) were listed when the file was generated.
+
+## Commentary
+
+The project introduces the poem to a general audience, so the notes of
+the editions are read for the interpretation of the text rather than for
+the manuscripts.  Each edition directory has a `COMMENTARY.md` that keeps
+only the notes on the interpretation, quoted from its `ilias.md`, and
+leaves out the readings of the manuscripts and the conjectures:
+
+| Edition | Notes kept | What remains |
+|---|---|---|
+| [Lemaire](2-lemaire/COMMENTARY.md) | 427 of 769 | The correspondences with Homer and the changes made to him, the imitations of Vergil and Ovid, the persons, usage and style.  Wernsdorf's notes are mostly on the interpretation, so this is the fullest. |
+| [Vollmer](6-vollmer/COMMENTARY.md) | 64: all 18 testimonia and 46 of the 770 items of the apparatus | Glosses (such as *pestem i. amorem Chryseidos*), parallels in Homer and the Latin poets, borrowings in later works. |
+| [Plessis](4-plessis/COMMENTARY.md) | 44 of 286 | Mainly references identifying the persons by the line of the *Iliad*, and parallels in the Latin poets. |
+| [Baehrens](3-baehrens/COMMENTARY.md) | 14 of 784 | Very little, as the apparatus is almost entirely readings and conjectures. |
+
+[COMMENTARY.md](COMMENTARY.md) puts them together verse by verse,
+following the rows of [concordance.md](concordance.md):
+
+- A verse begins with its number and text in The Latin Library; "79a",
+  "79b" are verses that The Latin Library does not have, after the
+  verse that precedes them in the editions.
+- Then come [2] Lemaire (Wernsdorf's numbers), [3] Baehrens, [4]
+  Plessis and [6] Vollmer, each with its own number and text of the
+  verse ("—" where it does not have the verse), followed by the items of
+  its `COMMENTARY.md` on that verse.
+- Under Vollmer's verse, "*Iliad*" gives the lines of the *Iliad* in his
+  left margin as book.line ("1.8" for his "Α 8").
+- An item's label is left out where it is only the number of the verse
+  above it; it is kept for a range of verses (given at the first of
+  them) and for Lemaire's "(cont.)", a note continued from the previous
+  page.
+
+It is built by `make commentary` in [src/](../src/README.md)
+(`commentary.py`) and rebuilt whenever its sources change, so it is not
+corrected by hand; corrections go into the editions' files.
 
 ## Books
 

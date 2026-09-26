@@ -3,8 +3,8 @@
 ## HANDOFF
 
 Notes for the next session.  Read README.md, this file,
-texts/README.md, texts/concordance.md (the Book divisions and book 1),
-texts/6-vollmer/README.md and src/README.md first.
+texts/README.md, texts/COMMENTARY.md (book 1), texts/concordance.md
+(the Book divisions) and src/README.md first.
 
 ### Rules (unchanged)
 
@@ -23,7 +23,9 @@ texts/6-vollmer/README.md and src/README.md first.
   *Iliad* a line.
 - A script extracts a source only once; later corrections are made in
   the output files, never kept in the scripts, and `make` does not
-  rebuild an existing file (order-only prerequisites).
+  rebuild an existing file (order-only prerequisites).  The exception is
+  texts/COMMENTARY.md, which is derived and rebuilt by `make commentary`
+  from the files it reads; it is not corrected by hand.
 - Notation: hands as each edition prints them; a literal `<` is `\<`,
   `|` in a table `\|`.  Ask the user before settling a notation.
 - Each edition's text is from its own OCR; LL is used only to decide
@@ -56,29 +58,31 @@ texts/6-vollmer/README.md and src/README.md first.
 - Pillow is a project dependency (`uv run python` can use it).
 - All four editions in `texts/` (Lemaire [2], Baehrens [3], Plessis [4],
   Vollmer [6]) have now been fully proofread and corrected against the
-  page images of the original scans.  Consulting page images is no longer
-  routinely needed and is reserved as a last resort.
+  page images of the original scans; the notes of Lemaire and Plessis
+  were checked again for texts/COMMENTARY.md.  Consulting page images is
+  no longer routinely needed and is reserved as a last resort.
+- Step 2 of [Preparing the sources](#preparing-the-sources) is done:
+  each edition has a `COMMENTARY.md` with the notes on the
+  interpretation (without the readings and conjectures), and
+  texts/COMMENTARY.md puts the verses of LL and the four editions and
+  these notes together verse by verse (`make commentary`).  It is the
+  material for the notes; the separate tables planned before (Vollmer's
+  margin → *Iliad* lines, Plessis's index → verses, Lemaire's notes keyed
+  to LL) are no longer needed.
 
-### Next: step 2, Vollmer's margin → *Iliad* lines
+### Next: the pilot notes for book 1
 
-Proposed to the user, not yet decided; confirm before starting:
+Step 4 of [Order of work](#order-of-work); confirm the format with the
+user before writing much:
 
-- `src/iliad.py` (`make iliad`) builds the table once from the Margin
-  column of texts/6-vollmer/ilias.md.  The Greek book letter is printed
-  only where it changes, so it is carried to the following verses.  A
-  dash is taken as a verse with no Homeric counterpart; its meaning is
-  still unchecked (texts/6-vollmer/README.md), so look for it in the
-  preface first.
-- The output is a table per book with the columns `LL | Iliad |
-  Vollmer p.`.
-- Hand checking starts with book 1, as needed for the pilot notes
-  (step 4 of Order of work).
-- For the user to decide: (1) the place, `texts/iliad.md` or under
-  `texts/6-vollmer/`; (2) the notation, `18.2` or `Σ 2` as printed.
-- Mind Vollmer's order (597 after 601, 790 after 794, 874 twice, 860
-  in two parts); see texts/concordance.md.
-- The Margin column is still the OCR; only 834 (820), 835 (Ρ 125) and
-  839 (Σ 2) have been corrected, with capital Greek letters.
+- Work from texts/COMMENTARY.md, book 1 (verses 1–110), and write the
+  notes in the layers below.
+- Settle the [Open questions](#open-questions) (directory, file format,
+  language of the notes) with the user first.
+- The *Iliad* lines of Vollmer's margin are given under his verse in
+  texts/COMMENTARY.md as book.line ("1.8" for his "Α 8"); the meaning of
+  his dash (probably no Homeric counterpart) is still to be checked in
+  his preface.
 
 ### Page images (last resort)
 
@@ -117,16 +121,22 @@ Numbers in brackets refer to the Internet Archive list there.
 
 ## Layers of each note
 
+The sources for all layers are gathered verse by verse in
+[texts/COMMENTARY.md](texts/COMMENTARY.md).
+
 1. **Homer**: which lines of the *Iliad* the verse renders, and whether it
    follows, compresses, changes or adds to Homer.
-   - Source: the Iliad line numbers in the margin of Vollmer's text [6];
-     parallels cited by Plessis [4].
+   - Source: the references to Homer in the notes of Wernsdorf [2],
+     Plessis [4] and Vollmer [6]; the *Iliad* lines in the margin of
+     Vollmer's text, given under his verse.
 2. **Latin models**: echoes of Vergil, Ovid and other Latin poets.
-   - Source: Wernsdorf's notes, reprinted by Lemaire [2]; Plessis on
-     Vergilian and Ovidian imitation [4].
+   - Source: Wernsdorf's notes, reprinted by Lemaire [2]; the parallels
+     in Plessis [4] and Vollmer [6].
 3. **Names and myth**: who the persons are and where else they appear in
    the poem.
-   - Source: Plessis's index of names and subjects [4].
+   - Source: Wernsdorf's and Plessis's notes on the persons; Plessis's
+     index of names and subjects [4] (texts/4-plessis/index.md) for the
+     other places.
 4. **Text**: only where it matters for the sense, e.g. the editorial signs
    above, or a place where the major editions disagree (Baehrens [3],
    Plessis [4], Vollmer [6]).  No full apparatus.
@@ -155,15 +165,17 @@ Consulting page images is now kept only as a last resort.
    595, 874 after 863 and 936 before 935.  All other tables are keyed
    to The Latin Library numbering through this concordance.  Done:
    `texts/concordance.md`, with the book divisions of the editions.
-2. From Vollmer [6]: extract the Iliad line numbers from the margin and
-   build a table *Latin verse → Iliad lines*.  This also gives the list of
-   passages with no Homeric counterpart.
-3. From Plessis [4]: turn the index into a table *name → verses*.
-4. From Lemaire [2]: Wernsdorf's notes are split by the verse number they
-   begin with (his own numbering) in `texts/2-lemaire/ilias.md`; key them
-   to The Latin Library numbering and supply the labels that the OCR
-   could not read, so they can be looked up per verse.
-5. Publish these tables and the cleaned texts in the repository.  The
+2. Notes on the interpretation: from the notes of each edition, keep
+   those on the interpretation and leave out the readings of the
+   manuscripts and the conjectures (`texts/*/COMMENTARY.md`), and put
+   them together with the verses of the editions, keyed to The Latin
+   Library through the concordance.  Done: `texts/COMMENTARY.md`.  This
+   replaces the separate tables planned earlier (Vollmer's margin →
+   *Iliad* lines, Plessis's index → verses, Wernsdorf's notes keyed to
+   The Latin Library): Wernsdorf's labels already give the verse of The
+   Latin Library, Vollmer's margin is given under his verse, and the
+   index is read where needed.
+3. Publish these files and the cleaned texts in the repository.  The
    sources are in the public domain, so processed texts derived from them
    can be published.
 
@@ -215,8 +227,8 @@ Consulting page images is now kept only as a last resort.
 
 - `texts/` — processed texts from the public-domain sources, one
   subdirectory per book of the Internet Archive list, named by its
-  number and the editor (e.g. `texts/6-vollmer/`), with the tables
-  described above.  The Latin
+  number and the editor (e.g. `texts/6-vollmer/`), with the concordance
+  and the collected commentary (`texts/COMMENTARY.md`).  The Latin
   Library text is published here as `texts/ilias.txt`: one continuous
   file with a heading for each book, so that the divisions can still be
   adjusted.
@@ -253,12 +265,12 @@ divisions and is used only as an aid for checking the content.
    Done for Vollmer (`texts/6-vollmer/`), Baehrens
    (`texts/3-baehrens/`), Plessis (`texts/4-plessis/`) and Lemaire
    (`texts/2-lemaire/`).
-3. Collate the sources (steps 1–4 of
+3. Collate the sources (steps 1–2 of
    [Preparing the sources](#preparing-the-sources)): the verse
    concordance, the book divisions of the editions (compared, not
    imposed: `src/books.py` keeps the divisions of this repository) and
-   the tables keyed to The Latin Library numbering.  Done: step 1
-   (`texts/concordance.md`).
+   the notes on the interpretation keyed to The Latin Library
+   numbering.  Done: `texts/concordance.md` and `texts/COMMENTARY.md`.
 4. Write the notes for book 1 as a pilot and settle the format of the
    notes.
 5. Proceed book by book.
