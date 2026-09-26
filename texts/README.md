@@ -21,6 +21,9 @@ the numbering of The Latin Library (see [Concordance](#concordance)).
 the order of The Latin Library, giving the verse of each edition with
 the items of its `COMMENTARY.md` (the notes on the interpretation,
 without the readings and conjectures; see [Commentary](#commentary)).
+Its translations [COMMENTARY-en.md](COMMENTARY-en.md) and
+[COMMENTARY-ja.md](COMMENTARY-ja.md) are built in the same way from the
+editions' `COMMENTARY-en.md` and `COMMENTARY-ja.md`.
 
 [overview.md](overview.md) draws the prefaces, introductions, testimonia,
 excursus and indexes of the four editions together into one essay in
@@ -38,7 +41,9 @@ Vollmer's edition.
 In the edition directories, the files have translations into English (`-en.md`) and Japanese
 (`-ja.md`) next to them, e.g. [4-plessis/introduction-en.md](4-plessis/introduction-en.md)
 and [4-plessis/introduction-ja.md](4-plessis/introduction-ja.md); for `ilias.md`, the
-verse tables are kept verbatim and the apparatus and notes are translated.  Each
+verse tables are kept verbatim and the apparatus and notes are translated, and
+the translations of `COMMENTARY.md` quote the same notes from those of `ilias.md`,
+cut at the same places.  Each
 directory's README links them from its table of files.  The headings
 (`## p. N`), the `PDF page N.` lines, the paragraphs, the footnotes and
 the index entries follow the original one for one, so that a passage can

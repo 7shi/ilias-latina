@@ -1,6 +1,6 @@
 """Put the verses and the commentaries of the four editions side by side.
 
-Usage: python commentary.py TEXTS_DIR OUTPUT.md
+Usage: python commentary.py TEXTS_DIR OUTPUT.md [LANG]
 
 For each row of the verse concordance (TEXTS_DIR/concordance.md), in
 the order of The Latin Library, writes the verse of The Latin Library
@@ -14,6 +14,10 @@ own numbers of Baehrens, Plessis and Vollmer are converted by the
 concordance; Lemaire's labels give the verse of The Latin Library
 ("(LL n)"), and "(cont.)" goes with the note continued from the
 previous page.
+
+With LANG ("en" or "ja"), the items are read from the translations
+COMMENTARY-LANG.md instead, and the heading and the explanation are
+written in that language; the verses stay in Latin.
 
 The output is derived from the files above and is rebuilt from them;
 it is not corrected by hand.
@@ -63,6 +67,106 @@ def read_concordance(path: Path) -> list[tuple[int, dict]]:
             rows.append((book, dict(zip(header, cells(line)))))
     return rows
 
+
+# Per language: the file of the commentary items, the headings of the
+# testimonia in it, the marker for them, the label of the lines of the
+# *Iliad*, and the heading and explanation of the output.
+LANGS = {
+    "": {
+        "commentary": "COMMENTARY.md",
+        "testimonia": "Testimonia",
+        "marker": "(testimonia)",
+        "iliad": "*Iliad*",
+        "header": [
+            "# Commentary",
+            "",
+            "The verses of the four editions organized in this directory and the",
+            "items of their commentaries, verse by verse in the order of The Latin",
+            "Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in",
+            "[src/](../src/README.md) (`commentary.py`) from",
+            "[concordance.md](concordance.md), the editions' `ilias.md` and their",
+            "`COMMENTARY.md`, and rebuilt from them; do not correct it by hand.",
+            "Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).",
+            "",
+            "- Each verse begins with its number and text in The Latin Library",
+            "  (LL); \"79a\", \"79b\" are verses that The Latin Library does not have,",
+            "  placed after the verse that precedes them in the editions.",
+            "- Then, for each edition, [2] Lemaire (Wernsdorf's numbers),",
+            "  [3] Baehrens, [4] Plessis and [6] Vollmer, its own number and text",
+            "  of the verse as in the concordance (\"[n]\" a verse the edition",
+            "  brackets, \"below\" one Plessis prints below the text, \"—\" none),",
+            "  followed by the items of its COMMENTARY.md on the verse.",
+            "- An item keeps its label only where the label is more than the",
+            "  number of the verse given above it: a range of verses, whose item",
+            "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
+            "  continued from the previous page.  Vollmer's testimonia are marked",
+            "  \"(testimonia)\".",
+            "- Under Vollmer's verse, \"*Iliad*\" gives the lines of the *Iliad*",
+            "  printed in his left margin where the poet follows them, as book.line",
+            "  (\"1.8\" for his \"Α 8\"; he gives the book as a Greek letter only",
+            "  where it changes).  \"—\" is as printed, probably a verse with no",
+            "  Homeric counterpart.",
+            "- The texts and the items are quoted as they stand in the files;",
+            "  see each edition's COMMENTARY.md for what is kept and left out.",
+        ],
+    },
+    "en": {
+        "commentary": "COMMENTARY-en.md",
+        "testimonia": "Testimonia",
+        "marker": "(testimonia)",
+        "iliad": "*Iliad*",
+        "header": [
+            "# Commentary",
+            "",
+            "English translation of [COMMENTARY.md](COMMENTARY.md): the verses of",
+            "the four editions organized in this directory and the items of their",
+            "commentaries in English, verse by verse in the order of The Latin",
+            "Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in",
+            "[src/](../src/README.md) (`commentary.py`) from",
+            "[concordance.md](concordance.md), the editions' `ilias.md` and their",
+            "`COMMENTARY-en.md`, and rebuilt from them; do not correct it by hand.",
+            "",
+            "- Each verse begins with its number and text in The Latin Library",
+            "  (LL); \"79a\", \"79b\" are verses that The Latin Library does not have,",
+            "  placed after the verse that precedes them in the editions.",
+            "- Then, for each edition, [2] Lemaire (Wernsdorf's numbers),",
+            "  [3] Baehrens, [4] Plessis and [6] Vollmer, its own number and text",
+            "  of the verse as in the concordance (\"[n]\" a verse the edition",
+            "  brackets, \"below\" one Plessis prints below the text, \"—\" none),",
+            "  followed by the items of its COMMENTARY-en.md on the verse.  The",
+            "  verses are in Latin.",
+            "- An item keeps its label only where the label is more than the",
+            "  number of the verse given above it: a range of verses, whose item",
+            "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
+            "  continued from the previous page.  Vollmer's testimonia are marked",
+            "  \"(testimonia)\".",
+            "- Under Vollmer's verse, \"*Iliad*\" gives the lines of the *Iliad*",
+            "  printed in his left margin where the poet follows them, as book.line",
+            "  (\"1.8\" for his \"Α 8\"; he gives the book as a Greek letter only",
+            "  where it changes).  \"—\" is as printed, probably a verse with no",
+            "  Homeric counterpart.",
+            "- The texts and the items are quoted as they stand in the files;",
+            "  see each edition's COMMENTARY-en.md for what is kept and left out.",
+        ],
+    },
+    "ja": {
+        "commentary": "COMMENTARY-ja.md",
+        "testimonia": "証言",
+        "marker": "（証言）",
+        "iliad": "『イーリアス』",
+        "header": [
+            "# 注解",
+            "",
+            "[COMMENTARY.md](COMMENTARY.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。[src/](../src/README.md) の `make commentary`（`commentary.py`）が [concordance.md](concordance.md)、各版の `ilias.md` と `COMMENTARY-ja.md` から生成し、それらが変わると作り直す。手で修正しないこと。",
+            "",
+            "- 各詩行は The Latin Library（LL）の行番号と本文で始まる。「79a」「79b」は The Latin Library にない詩行で、各版でその前にある詩行の後に置く。",
+            "- 続いて各版、[2] Lemaire（ヴェルンスドルフの行番号）、[3] Baehrens、[4] Plessis、[6] Vollmer について、対照表のとおりにその版の行番号と本文を示す（「[n]」はその版が括弧に入れる詩行、「below」はプレシが本文の下に印刷する詩行、「—」は該当なし）。その後にその版の COMMENTARY-ja.md のうち、その詩行の項目を置く。詩行はラテン語のまま。",
+            "- 項目のラベルは、上に示した詩行の番号以上の情報がある場合に限って残す。すなわち詩行の範囲（項目はその最初の詩行に置く）と、前の頁から続く Lemaire の注「(cont.)」である。フォルマーの証言には「（証言）」と記す。",
+            "- フォルマーの詩行の下の「『イーリアス』」は、詩人が『イーリアス』に従う箇所でフォルマーが左欄に印刷した行を、巻.行の形で示す（フォルマーの「Α 8」は「1.8」。フォルマーは巻をギリシア文字で、変わるところにだけ示す）。「—」は印刷どおりで、おそらくホメーロスに対応のない詩行である。",
+            "- 本文と項目は各ファイルにあるとおりに引く。何を残し何を省いたかは各版の COMMENTARY-ja.md を参照。",
+        ],
+    },
+}
 
 GREEK = "ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ"
 
@@ -142,6 +246,7 @@ def last_labels(path: Path) -> dict[str, str]:
 
 def main() -> None:
     texts, output = Path(sys.argv[1]), Path(sys.argv[2])
+    lang = LANGS[sys.argv[3] if len(sys.argv) > 3 else ""]
     ll = read_ll(texts / "ilias.txt")
     rows = read_concordance(texts / "concordance.md")
 
@@ -175,7 +280,7 @@ def main() -> None:
     # The commentary items per row and edition.
     notes: list[dict[int, list[str]]] = [{} for _ in rows]
     for num, d, col in EDITIONS:
-        items = read_commentary(texts / d / "COMMENTARY.md")
+        items = read_commentary(texts / d / lang["commentary"])
         cont = last_labels(texts / d / "ilias.md") if num == 2 else {}
         pages = list(cont)
         for page, section, label, text in items:
@@ -198,41 +303,11 @@ def main() -> None:
             owns = {l.removesuffix(" below").strip("[]")
                     for l, _, _ in entries[i][num]}
             head = [] if re.sub(r" \(LL .*\)$", "", label) in owns else [f"**{label}**"]
-            if section == "Testimonia":
-                head.append(f"({section.lower()})")
+            if section == lang["testimonia"]:
+                head.append(lang["marker"])
             notes[i].setdefault(num, []).append(" ".join(["-"] + head + [text]))
 
-    lines = [
-        "# Commentary",
-        "",
-        "The verses of the four editions organized in this directory and the",
-        "items of their commentaries, verse by verse in the order of The Latin",
-        "Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in",
-        "[src/](../src/README.md) (`commentary.py`) from",
-        "[concordance.md](concordance.md), the editions' `ilias.md` and their",
-        "`COMMENTARY.md`, and rebuilt from them; do not correct it by hand.",
-        "",
-        "- Each verse begins with its number and text in The Latin Library",
-        "  (LL); \"79a\", \"79b\" are verses that The Latin Library does not have,",
-        "  placed after the verse that precedes them in the editions.",
-        "- Then, for each edition, [2] Lemaire (Wernsdorf's numbers),",
-        "  [3] Baehrens, [4] Plessis and [6] Vollmer, its own number and text",
-        "  of the verse as in the concordance (\"[n]\" a verse the edition",
-        "  brackets, \"below\" one Plessis prints below the text, \"—\" none),",
-        "  followed by the items of its COMMENTARY.md on the verse.",
-        "- An item keeps its label only where the label is more than the",
-        "  number of the verse given above it: a range of verses, whose item",
-        "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
-        "  continued from the previous page.  Vollmer's testimonia are marked",
-        "  \"(testimonia)\".",
-        "- Under Vollmer's verse, \"*Iliad*\" gives the lines of the *Iliad*",
-        "  printed in his left margin where the poet follows them, as book.line",
-        "  (\"1.8\" for his \"Α 8\"; he gives the book as a Greek letter only",
-        "  where it changes).  \"—\" is as printed, probably a verse with no",
-        "  Homeric counterpart.",
-        "- The texts and the items are quoted as they stand in the files;",
-        "  see each edition's COMMENTARY.md for what is kept and left out.",
-    ]
+    lines = list(lang["header"])
     book = last = extra = 0
     for i, (b, row) in enumerate(rows):
         if b != book:
@@ -256,7 +331,7 @@ def main() -> None:
                 else:
                     lines.append(f"[{num}] {label} {text}".rstrip())
                 if margin:
-                    lines.append(f"- *Iliad* {margin}")
+                    lines.append(f"- {lang['iliad']} {margin}")
             lines += notes[i].get(num, [])
     output.write_text("\n".join(lines) + "\n")
 

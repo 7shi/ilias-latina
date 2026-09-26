@@ -15,7 +15,7 @@ book, with the page of the PDF for looking up the page image.
 |---|---|---|
 | [preface.md](preface.md) ([en](preface-en.md), [ja](preface-ja.md)) | Preface: author, date, medieval reception, the manuscripts B E F G L M N V, earlier editions | 3–7 |
 | [ilias.md](ilias.md) ([en](ilias-en.md), [ja](ilias-ja.md)) | Text, right margin and apparatus | 7–59 |
-| [COMMENTARY.md](COMMENTARY.md) | The few items of the apparatus on the interpretation and the later borrowings, without the readings and conjectures | 20–59 |
+| [COMMENTARY.md](COMMENTARY.md) ([en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md)) | The few items of the apparatus on the interpretation and the later borrowings, without the readings and conjectures | 20–59 |
 
 There is no index for this poem.
 

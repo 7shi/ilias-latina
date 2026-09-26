@@ -1,12 +1,12 @@
 # Commentary
 
-The verses of the four editions organized in this directory and the
-items of their commentaries, verse by verse in the order of The Latin
+English translation of [COMMENTARY.md](COMMENTARY.md): the verses of
+the four editions organized in this directory and the items of their
+commentaries in English, verse by verse in the order of The Latin
 Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in
 [src/](../src/README.md) (`commentary.py`) from
 [concordance.md](concordance.md), the editions' `ilias.md` and their
-`COMMENTARY.md`, and rebuilt from them; do not correct it by hand.
-Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
+`COMMENTARY-en.md`, and rebuilt from them; do not correct it by hand.
 
 - Each verse begins with its number and text in The Latin Library
   (LL); "79a", "79b" are verses that The Latin Library does not have,
@@ -15,7 +15,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   [3] Baehrens, [4] Plessis and [6] Vollmer, its own number and text
   of the verse as in the concordance ("[n]" a verse the edition
   brackets, "below" one Plessis prints below the text, "—" none),
-  followed by the items of its COMMENTARY.md on the verse.
+  followed by the items of its COMMENTARY-en.md on the verse.  The
+  verses are in Latin.
 - An item keeps its label only where the label is more than the
   number of the verse given above it: a range of verses, whose item
   is given at the first of them, or Lemaire's "(cont.)", a note
@@ -27,7 +28,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   where it changes).  "—" is as printed, probably a verse with no
   Homeric counterpart.
 - The texts and the items are quoted as they stand in the files;
-  see each edition's COMMENTARY.md for what is kept and left out.
+  see each edition's COMMENTARY-en.md for what is kept and left out.
 
 ## Book 1
 
@@ -45,7 +46,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 2 Tristia quae miseris iniecit funera Grais
 
 [2] 2 Tristia quae miseris injecit funera Graiis ,
-- Injecit funera. Antiquiores dicunt immittere vel dare funera. Virg. Aen. X, 13: « Quum fera Carthago Romanis arcibus olim Exitium magnum atque Alpes immittet apertas »; Val. Flaccus, III, 681, « nec enim solis dare funera Colchis Sit satis ». — Plautus tamen objicere funera dixit, Amphitr. I, 1, 35: « Qui multa Thebano populo objecit funera ». Ed.
+- *Injecit funera* [inflicted death]. The older poets say *immittere* or *dare funera*. Virg. *Aen.* X, 13: « Quum fera Carthago Romanis arcibus olim Exitium magnum atque Alpes immittet apertas »; Val. Flaccus, III, 681: « nec enim solis dare funera Colchis Sit satis ». — Plautus, however, said *objicere funera*, *Amphitr.* I, 1, 35: « Qui multa Thebano populo objecit funera ». Ed.
 
 [3] 2 Tristia quae miseris iniecit funera Grais
 
@@ -66,7 +67,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 4 Latrantumque dedit rostris uolucrumque trahendos
 
 [2] 4 Latrantumque dedit rostris volucrumque trahendos
-- Volucrumque trahendos. P. Bondamius, Var. Lect. II, 4, observat auctorem in his imitatum esse Ovid. Ib. 171: « Unguibus et rostro tardus trahet ilia vultur, Et scindent avidae perfida corda canes ».
+- *Volucrumque trahendos* [and to be torn by birds]. P. Bondam, *Var. Lect.* II, 4, observes that in these words the author imitated Ovid, *Ib.* 171: « Unguibus et rostro tardus trahet ilia vultur, Et scindent avidae perfida corda canes ».
 
 [3] 4 Latrantumque dedit rostris uolucrumque trahendos
 
@@ -77,19 +78,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 5 Illorum exsangues, inhumatis ossibus, artus.
 
 [2] 5 Illorum exsangues inhumatis ossibus artus.
-- Exsangues inhumatis ossibus. Virgil. Aen. XI, 22: « socios inhumataque corpora terrae Mandemus ». Ovid. Her. XI, 123: « Ossa superstabunt volucres inhumata marinae ».
+- *Exsangues inhumatis ossibus* [lifeless, with unburied bones]. Virgil, *Aen.* XI, 22: « socios inhumataque corpora terrae Mandemus ». Ovid, *Her.* XI, 123: « Ossa superstabunt volucres inhumata marinae ».
 
 [3] 5 Illorum exsangues inhumatis ossibus artus.
 
 [4] 5 Ipsorum exsangues inhumatis ossibus artus.
-- Ipsorum … cf. Iliad. I, 4 αὐτοὺς δέ.
+- Ipsorum …; cf. Iliad I, 4 αὐτοὺς δέ.
 
 [6] 5 Illorum exsangues inhumatis ossibus artus.
 
 6 Confiebat enim summi sententia regis,
 
 [2] 6 Confiebat enim summi sententia regis,
-- **(cont.)** … Verbum confiebat id graecum Homeri Διὸς δ᾽ ἐτελείετο βουλή optime exprimit, et similiter eo verbo utitur Virg. Aeneid. IV, 116: « nunc qua ratione, quod instat, Confieri possit, paucis, adverte, docebo ». Quo et Lucretius, III, 413: « Id quoque enim sine pernicie confiet eorum »; idem, IV, 292, « quoniam res confit utroque ».
+- **(cont.)** … The verb *confiebat* expresses that Greek phrase of Homer, Διὸς δ᾽ ἐτελείετο βουλή, most excellently, and Virgil uses that verb in a similar way, *Aeneid* IV, 116: « nunc qua ratione, quod instat, Confieri possit, paucis, adverte, docebo ». Lucretius also uses it, III, 413: « Id quoque enim sine pernicie confiet eorum »; the same author, IV, 292: « quoniam res confit utroque ».
 
 [3] 6 Confiebat enim summi sententia regis,
 
@@ -100,14 +101,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 7 protulerant* ex quo discordia pectora pugnas,
 
 [2] 7 Ex quo contulerant discordi pectore pugnas
-- … Sic Virg. Aen. X, 146: « Illi inter sese duri certamina belli Contulerant ».
+- … Thus Virg. *Aen.* X, 146: « Illi inter sese duri certamina belli Contulerant ».
 
 [3] 7 Ut primum tulerant discordi pectore pugnas
 
 [4] 7 Volverunt ex quo discordi pectore turbas
 
 [6] 7 † Protulerant ex quo discordia pectora turbas,
-- (testimonia) Ermenricus epist. ad Grimaldum (a. 850—55) Mon. Germ. hist. Epist. V 545, 24: E poetice corripitur apud Homerum in Iliade: Pertulĕrunt ex quo discordia pectora turmas
+- (testimonia) Ermenricus, *Letter to Grimald* (AD 850–55), *Mon. Germ. hist. Epist.* V 545, 24: "E is poetically shortened in Homer in the *Iliad*: *Pertulĕrunt ex quo discordia pectora turmas*"
 
 8 Sceptriger Atrides et bello clarus Achilles.
 
@@ -122,7 +123,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 9 Quis deus hos ira tristi contendere iussit?
 
 [2] 9 Quis Deus hos ira tristi contendere jussit?
-- … Atque illud verba Homeri poscunt ἔριδι ξυνέηκε μάχεσθαι.
+- … And Homer's words require this: ἔριδι ξυνέηκε μάχεσθαι.
 
 [3] 9 Quis deus hos ira tristi contendere iussit?
 
@@ -144,20 +145,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 11 infestam regi pestem in praecordia misit
 
 [2] 11 Infestus regi pestem in praecordia misit,
-- … Hoc enim volunt verba Homeri, vs. 9, ὃ γὰρ βασιλῆϊ χολωθείς, et ipse auctor infra, v. 55, confirmat: « Haec ait: Infesti placemus numina Phoebi ». … Pestem in praecordia misit: nempe iram, quae ipsis esset pestifera. Sic apud Ovid. Metam. VIII, 791, Ceres de fame Erisichtoni immissa: « ea se in praecordia condat Sacrilegi scelerata jube ».
+- … For this is what the words of Homer mean, v. 9: ὃ γὰρ βασιλῆϊ χολωθείς, and the author himself confirms it below, v. 55: « Haec ait: Infesti placemus numina Phoebi ». … *Pestem in praecordia misit* [sent a plague into their breasts]: namely wrath, which was to be pestilential to them. Thus in Ovid, *Metam.* VIII, 791, Ceres says of the hunger sent upon Erysichthon: « ea se in praecordia condat Sacrilegi scelerata jube ».
 
 [3] 11 Infestus regi pestem in praetoria misit
 
 [4] 11 Infestus regi pestem in praecordia misit
-- Infestus … cf. Iliad. I, 9 : βασιλῆϊ χολωθείς. …
+- Infestus …; cf. Iliad I, 9: βασιλῆϊ χολωθείς. …
 
 [6] 11 infestus regi pestem in praecordia misit
-- Infestus (χολωθείς) … pestem i. amorem Chryseidos (v. v. 26) …
+- Infestus (χολωθείς) … pestem i.e. amorem Chryseidos (see v. 26) …
 
 12 implicuitque graui Danaorum corpora morbo.
 
 [2] 12 Implicuitque gravi Danaorum corpora morbo.
-- Implicuit morbo. Sane ineleganter dictum, et magis offendit quod fere statim vs. 14 recurrit implicitus. Ed.
+- *Implicuit morbo* [entangled in disease]. Truly an inelegant expression, and it offends all the more because almost immediately in v. 14 *implicitus* recurs. Ed.
 
 [3] 12 Inplicuitque graui Danaorum corpora morbo.
 
@@ -168,7 +169,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 13 Nam quondam Chryses, sollemni tempora uitta
 
 [2] 13 Nam quondam Chryses solenni tempora vitta
-- … Vittam nominat insigne sacerdotii capiti innexum, quo solenniter utendum erat in sacrificiis et ministeriis Apollinis, sicut Cereris sacerdos apud Ovid. Met. V, 110, dicitur « albenti velatus tempora vitta ». …
+- … He calls the fillet (*vitta*) the badge of priesthood bound to the head, which had to be solemnly used in the sacrifices and ministries of Apollo, just as the priest of Ceres in Ovid, *Met.* V, 110, is said to be « albenti velatus tempora vitta ». …
 
 [3] 13 Nam quondam Chryses, sollemni tempora uitta
 
@@ -189,8 +190,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 15 inuisosque dies inuisaque tempora noctis
 
 [2] 15 Invisosque dies invisaque tempora noctis
-- … Dies noctesque conquestum esse
-- **(cont.)** Chrysen hoc loco significat auctor, Virgilium fortasse imitatus, qui de Orpheo, Georg. IV, v. 464: « Ipse cava solans aegrum testudine amorem, Te dulcis conjux, te solo in litore secum, Te veniente die, te decedente canebat ». Homerus tempus et perpetuitatem luctus non attigit, contra Chrysen in litore solum obambulantem facit; quod Virgilius expressit in Orpheo, Noster omisit. Invisam moerentibus lucem vel vitam dicere solent poetae et inprimis Virgilius, ut Aen. IV, 631, XII, 177.
+- … That Chryses lamented days and nights
+- **(cont.)** (cont.) the author signifies in this passage regarding Chryses, perhaps having imitated Virgil, who says of Orpheus, *Georg.* IV, v. 464: « Ipse cava solans aegrum testudine amorem, Te dulcis conjux, te solo in litore secum, Te veniente die, te decedente canebat ». Homer did not touch upon the duration and perpetuity of the grief; on the contrary, he depicts Chryses walking alone on the shore; what Virgil expressed in Orpheus, our author omitted. Poets, and especially Virgil, are accustomed to describe light or life as hateful (*invisam*) to mourners, as in *Aen.* IV, 631, XII, 177.
 
 [3] 15 Inuisosque dies inuisaque tempora noctis
 
@@ -211,7 +212,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 17 Postquam nulla dies animum maerore leuabat
 
 [2] 17 Postquam nulla dies animum moerore levabat,
-- … Sequentes hos quinque versus Barthius, Advers. LVIII, 14, memorabili ingenio et judicio scriptos esse adfirmat, eorumque suavitatem admiratur. …
+- … Barth, *Advers.* LVIII, 14, asserts that these following five verses were written with remarkable talent and judgment, and admires their sweetness. …
 
 [3] 17 Postquam nulla dies animum maerore leuabat
 
@@ -252,7 +253,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 21 ut sibi causa suae reddatur nata salutis.
 
 [2] 21 Ut sibi caussa suse reddatur nata salutis:
-- Ut sibi caussa suae. Apud Ovid. Met. VI, 499, Pandion de filia sua: « Per Superos oro ..... Et mihi sollicitae lenimen dulce senectae Quamprimum (omnis erit nobis mora longa) remittas.
+- *Ut sibi caussa suae* [That to him as the cause of her own...]. In Ovid, *Met.* VI, 499, Pandion says of his daughter: « Per Superos oro ..... Et mihi sollicitae lenimen dulce senectae Quamprimum (omnis erit nobis mora longa) remittas ».
 
 [3] 21 Ut sibi causa suae reddatur nata salutis.
 
@@ -273,7 +274,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 23 Myrmidones reddique patri Chryseida censent.
 
 [2] 23 Myrmidones , reddique patri Chryseida censent.
-- Myrmidones. Barthius l. cit. non satis circumspecte ab hoc auctore ait Myrmidones pro omnibus Graecis dici, quamquam Maro Danaos, Argivos, Pelasgos pro iisdem habet; hoc vero, quia novum, non posse placere; praeterea Myrmidonum aliam rationem esse, qui nomine praeferant originem gentis prorsus peculiarem, quam ad reliquas extendere, praeferat speciem historiae ignari.
+- *Myrmidones*. Barth *loc. cit.* remarks, not circumspectly enough, that "Myrmidons" is used by this author for all Greeks, although Virgil uses Danai, Argives, Pelasgians for the same; but that this, because novel, cannot please; furthermore, that the case of the Myrmidons is different, since in their name they display an entirely peculiar tribal origin, to extend which to the rest gives the appearance of someone ignorant of history.
 
 [3] 23 Myrmidones reddique patri Chryseida censent.
 
@@ -305,7 +306,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 26 haeret amor spernitque preces damnosa libido.
 
 [2] 26 Haeret amor, spernitque preces damnosa libido.
-- … Cl. P. Bondamio videtur hoc expressum ex Ovidio, Heroid. IV, 70: « Acer in extremis ossibus haesit amor », qui et Metam. III, 395, « Sed tamen haeret amor ». — Damnosa libido est ab Horatio, Epist. II, 1, 107.
+- … To the renowned P. Bondam this seems expressed from Ovid, *Heroid.* IV, 70: « Acer in extremis ossibus haesit amor », who also writes in *Metam.* III, 395: « Sed tamen haeret amor ». — *Damnosa libido* [ruinous lust] is from Horace, *Epist.* II, 1, 107.
 
 [3] 26 Haeret amor, spernitque preces damnosa libido.
 
@@ -327,8 +328,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 28 squalidaque infestis maerens secat unguibus ora
 
 [2] 28 Squalidaque infestis moerens secat unguibus ora,
-- Secat unguibus ora. Bondamius hoc Ovidio deberi putat, Her. V, 72: « Et secui madidas ungue rigente genas »; idem squalida ora
-- **(cont.)** dixit Trist. IV, 2, 34. Infra, vs. 1012, « arat unguibus ora ».
+- *Secat unguibus ora* [tears his face with nails]. Bondam thinks this is owed to Ovid, *Her.* V, 72: « Et secui madidas ungue rigente genas »; the same poet used the phrase *squalida ora*
+- **(cont.)** (cont.) in *Trist.* IV, 2, 34. Below, v. 1012: « arat unguibus ora ».
 
 [3] 28 Squalidaque infestis maerens secat unguibus ora
 
@@ -360,7 +361,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 31 Fatidici his sacras compellat uocibus aures:
 
 [2] 31 Fatidici sacras compellat vocibus aras :
-- … Solet Noster Deos suos solo munerum nomine designare, ut Jovem regis, Vulcanum ignipotentis, Minervam armigerae. Fatidici autem nomen deberi Apollini, quod oracula edit, et futura praedivinando fatur, vulgatum est. Diserte sic Phoebum appellat Ovidius, Fast. II, 262, et V, 626. Et auguris nomen, quod Apollini Horatius, Carm. I, 2, 32, tribuit, eodem spectat. … Nam preces ad aures sacras, Principum vel Deorum, ferre, vulgaris formula est, sequiore praesertim latinitatis aevo. Vid. quae notavimus ad Calpurn. I, vers. ult. et Apollini peculiariter tribuuntur aures precantibus faciles. Unde in precibus ad Apollinem fusis inprimis frequens est exclamatio, ut hic apud Homerum Κλῦθί μευ, ita apud Latinos Audi Apollo. Vid. Horat. Carm. Saec. v. 34. Quin apud Lacedaemonios Apollinem dictum esse τετράωτον, ejusque simulacrum cum quatuor auribus fictum esse, adnotavit Gyraldus, Histor. Deor. Syntagm. VII, sub init.
+- … Our author is accustomed to designate his gods by the name of their office alone, as Jupiter by *rex*, Vulcan by *ignipotens*, Minerva by *armigera*. That the name *Fatidicus* belongs to Apollo because he issues oracles and speaks future things by foretelling is common knowledge. Ovid expressly calls Phoebus so, *Fast.* II, 262, and V, 626. And the title *augur*, which Horace, *Carm.* I, 2, 32, attributes to Apollo, points to the same thing. … For to bear prayers to sacred ears, whether of Princes or of Gods, is a common formula, especially in a later age of Latinity. See what we noted on Calpurnius I, last verse; and ears inclined to suppliants are especially attributed to Apollo. Hence in prayers poured forth to Apollo the exclamation is particularly frequent: as here in Homer, Κλῦθί μευ, so among the Latins, *Audi Apollo*. See Horace, *Carm. Saec.* v. 34. Indeed, among the Spartans Apollo was called τετράωτος [four-eared], and his statue was fashioned with four ears, as Gyraldus noted, *Histor. Deor. Syntagm.* VII, near the beginning.
 
 [3] 31 Fatidici sacras compellat uocibus aras:
 
@@ -414,7 +415,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 36 En, haec desertae redduntur dona senectae?
 
 [2] 36 En haec desertae redduntur dona senectae.
-- … Nam hoc vocabulum fere proprium et usitatissimum senectutis est, et huic maxime loco aptum, ubi de amissione filiae sermo. — Sic in Epitaph. Luceii, huj. op. t. II, p. 263: « Me desolatum, me desertum ac spoliatum Clamarem ». Vid. quae notavimus ad hunc loc., et ad Petronii Bellum civile, vs. 286. Ed.
+- … For this word is almost proper and most customary for old age, and especially suited to this passage, where there is discussion of the loss of a daughter. — Thus in *Epitaph. Luceii*, vol. II of this work, p. 263: « Me desolatum, me desertum ac spoliatum Clamarem ». See what we noted on this passage, and on Petronius' *Bellum civile*, vs. 286. Ed.
 
 [3] 36 En, haec desertae redduntur dona senectae?
 
@@ -437,7 +438,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 38 Aut si qua, ut luerem sub acerbo crimine poenas,
 
 [2] 38 Aut si quam ut luerem sub acerbo crimine poenam
-- … Caeterum quae auctor hoc et sequentibus tribus versibus scripsit, Barthius, Advers. LVIII, 14, perpulchra et meliore saeculo digna esse, et summam ingenii felicitatem arguere judicat. Verum et hoc apertum est, quod Bondamius et Dussenius jam observarunt, respexisse in iis et imitatum has Telluris in Phaethontaeo incendio querelas ad Jovem, apud Ovid. Met. II, 279: « Si placet hoc meruique, quid o tua fulmina cessant, Summe Deum? liceat periturae viribus ignis Igne perire tuo, clademque auctore levare ».
+- … As for the rest, what the author wrote in this and the following three verses, Barth, *Advers.* LVIII, 14, judges to be exceedingly beautiful and worthy of a better age, demonstrating the greatest felicity of talent. But it is also clear, as Bondam and Dussen have already observed, that in them he looked back to and imitated these complaints of Tellus to Jupiter during the Phaethontic conflagration, in Ovid, *Met.* II, 279: « Si placet hoc meruique, quid o tua fulmina cessant, Summe Deum? liceat periturae viribus ignis Igne perire tuo, clademque auctore levare ».
 
 [3] 38 Aut si qua, ut luerem sub acerbo crimine poenam,
 
@@ -460,7 +461,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 40 Posce sacros arcus, in me tua derige tela:
 
 [2] 40 Posce sacros arcus ; in me tua dirige tela :
-- Posce sacros arcus. Similis oratio Choroebi ad Apollinem apud Stat. Theb. I, 651: « Quid meruere Argi? me me, Divum optime, solum Objecisse caput fatis praestabit »; et v. 658: « Proinde move pharetras, arcusque intende sonoros, Insignemque animam leto demitte ».
+- *Posce sacros arcus* [Demand your sacred bow]. A similar speech of Choroebus to Apollo is found in Stat. *Theb.* I, 651: « Quid meruere Argi? me me, Divum optime, solum Objecisse caput fatis praestabit »; and v. 658: « Proinde move pharetras, arcusque intende sonoros, Insignemque animam leto demitte ».
 
 [3] 40 Posce sacros arcus, in me tua derige tela:
 
@@ -493,7 +494,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 43 atque hostis duri patitur miseranda cubile?."
 
 [2] 43 Atque hostis duri patitur miseranda cubile?»
-- Patitur miseranda cubile. Sic pati hymenaeos Virg. Georg. III, 60; pati concubitus Ovidius, Art. Am. III, 766, pati servitium. Idem, Art. Am. III, 486. — Et Noster forte exprimere voluit Homerum, qui Iliad. XVIII, 433: καὶ ἔτλην ἀνέρος εὐνήν. Ed.
+- *Patitur miseranda cubile* [she, pitiable, endures his bed]. Thus *pati hymenaeos* Virg. *Georg.* III, 60; *pati concubitus* Ovid, *Art. Am.* III, 766; *pati servitium*, the same author, *Art. Am.* III, 486. — And our author perhaps wished to express Homer, who in *Iliad* XVIII, 433 has: καὶ ἔτλην ἀνέρος εὐνήν. Ed.
 
 [3] 43 Atque hostis duri patitur miseranda cubile?'
 
@@ -516,7 +517,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 45 luctibus infestat Danaos pestemque per omnes
 
 [2] 45 Luctibus infestat Danaos , pestemque per omnes
-- Luctibus infestat Danaos, i. e. vexat, desolatur. Saepe etiam infestare pro infestum facere dicitur; Sil. Ital. II, 277: « Ductorem infestans odiis ». Ed.
+- *Luctibus infestat Danaos* [He harries the Danai with griefs], that is, vexes, lays waste. Often *infestare* is also used for *infestum facere* [to make hostile / harass]; Sil. Ital. II, 277: « Ductorem infestans odiis ». Ed.
 
 [3] 45 Luctibus infestat Danaos pestemque per omnes
 
@@ -528,7 +529,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 46 immittit populos: uulgus ruit undique Graium
 
 [2] 46 Immittit populos : vulgus ruit undique Graium,
-- Vulgus ruit undique, hoc est, cadit, occumbit moriens; ut Seneca, Oedipi v. 53: « sed omnis aetas pariter et sexus ruit ». Poeticam et argutam esse hanc descriptionem stragis fatetur Barthius l. c. Sed deberi eam Ovidio Bondamius et Dussenius, cum eodem Barthio, agnoscunt. Sic enim Ovid. Metam. VII, 611: « Qui lacryment, desunt, indefletaeque vagantur Natarum matrumque animae, juvenesque senesque. Nec locus in tumulos, nec sufficit arbor in ignes ». Addi potest Manilius, de pestilentia Attica loquens, lib. I, 883 seqq. et Seneca in Oedipo de strage Thebana, act. I, v. 37 seqq. qui et Ovidiano loco admodum similis est.
+- *Vulgus ruit undique* [The common throng collapses on all sides], that is, falls, perishes dying; as Seneca, *Oedipus* v. 53: « sed omnis aetas pariter et sexus ruit ». Barth *loc. cit.* admits that this description of the slaughter is poetic and vivid. But Bondam and Dussen, along with Barth himself, recognize that it is owed to Ovid. For so Ovid, *Metam.* VII, 611: « Qui lacryment, desunt, indefletaeque vagantur Natarum matrumque animae, juvenesque senesque. Nec locus in tumulos, nec sufficit arbor in ignes ». There may be added Manilius, speaking of the Attic plague, book I, 883 ff., and Seneca in *Oedipus* on the Theban carnage, act I, v. 37 ff., which is also very similar to the passage of Ovid.
 
 [3] 46 Inmittit populos: uulgus ruit undique Graium,
 
@@ -539,12 +540,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 47 uixque rogis superest tellus, uix ignibus aer,
 
 [2] 47 Vixque rogis superest tellus, vix ignibus arbor:
-- … E quibus hic maxime locus Senecae in Oed. v. 68, aptus verbis nostri auctoris est: « Pars quota in cineres abit? Deest terra tumulis: jam rogos silvae negant ».
+- … Of these, this passage of Seneca in *Oed.* v. 68 is especially suited to the words of our author: « Pars quota in cineres abit? Deest terra tumulis: jam rogos silvae negant ».
 
 [3] 47 Vixque rogis superest tellus, uix ignibus arbor,
 
 [4] 47 Vixque rogis superest tellus, vix ignibus arbor,
-- arbor … (cf. Ovid. Met. VII, 613) …
+- arbor … (cf. Ovid, Met. VII, 613) …
 
 [6] 47 vixque rogis superest tellus, vix ignibus aer;
 
@@ -561,7 +562,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 49 transierant decimusque dies patefecerat orbem,
 
 [2] 49 Transierant, decimusque dies patefecerat orbem;
-- Patefecerat orbem. Et hoc, monente Barthio, ex Ovidio habet, Metam. IX, 794: « Postera lux radiis latum patefecerat orbem ».
+- *Patefecerat orbem* [had revealed the world]. And this, as Barth notes, he takes from Ovid, *Metam.* IX, 794: « Postera lux radiis latum patefecerat orbem ».
 
 [3] 49 Transierant decimusque dies patefecerat orbem,
 
@@ -644,8 +645,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 57 si uolumus, Danai, portus intrare salutis."
 
 [2] 57 Si volumus Danai portus intrare salutis ».
-- Portus intrare salutis. Ad haec verba Barthius: De saeculi est inquinatione quadam, quod portum salutis intrare pro pestilentia liberari dixit, quo loco sane aliter scripsisset majorum gentium aliquis vates. « Ego vero, an apte satis eam
-- **(cont.)** phrasin adhibuerit auctor, de eo non disceptabo, phrasis ipsa defendi potest. Intrare portum satis bonum et usitatum esse, nemo negaverit, et Virgilius Ovidiusque usurparunt. Et portus salutis ab eodem Ovidio est, qui Rem. amoris, v. 610: « Inque suae portu poene salutis erat ».
+- *Portus intrare salutis* [to enter the harbors of safety]. On these words Barth writes: "It belongs to a certain corruption of the age that he said *portum salutis intrare* for being freed from the pestilence, in which passage a poet of the greater rank would certainly have written otherwise." "I for my part, whether the author [used] that
+- **(cont.)** [phrase suitably or not,] I shall not dispute; the phrase itself can be defended. That *intrare portum* [to enter port] is good enough and customary, no one will deny, and Virgil and Ovid have used it. And *portus salutis* [harbor of safety] is from the same Ovid, who in *Rem. amoris*, v. 610, has: « Inque suae portu poene salutis erat »."
 
 [3] 57 Si uolumus Danai portus intrare salutis'.
 
@@ -687,7 +688,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 61 inque uicem ducis inuicti conuicia suffert.
 
 [2] 61 Inque vicem ducis invicti convicia sufFert.
-- Convicia suffert. Conferantur infra v. 104 et 537.
+- *Convicia suffert* [He endures reproaches]. Compare below vv. 104 and 537.
 
 [3] 61 Inque uicem ducis inuicti conuicia suffert.
 
@@ -698,7 +699,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 62 Confremuere omnes. Tandem clamore represso
 
 [2] 62 Confremuere omnes : tandem clamore represso
-- Confremuere omnes. Cl. Bondamius observat esse hoc hemistichium Ovidii, Met. I, 199.
+- *Confremuere omnes* [All murmured loudly]. The celebrated Bondam observes that this is a hemistich of Ovid, *Met.* I, 199.
 
 [3] 62 Confremuere omnes. tandem clamore represso
 
@@ -709,14 +710,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 63 cogitur inuitos aeger dimittere amores
 
 [2] 63 Cogitur invitos aeger dimittere amores,
-- … invitos amores, quod vulgatae habent, rectum, quia Chryseis invita erat apud Agamemnonem, et hic dicitur eam aeger dimittere. Propert. III, 20, 30: « Atridae magno quum stetit alter amor ».
+- … *invitos amores* [unwilling love], which the vulgate editions have, is correct, because Chryseis was unwillingly with Agamemnon, and he is here said to release her sorrowfully (*aeger*). Propertius, III, 20, 30: « Atridae magno quum stetit alter amor ».
 
 [3] 63 Cogitur inuisos aeger dismittere amores
 
 [4] 63 Cogitur invictos aeger dimittere amores
 
 [6] 63 cogitur invitos aeger dimittere amores
-- inuitos … intellege: quae regem non amabat; amores ipsam Chryseida denotat
+- inuitos … understand: who did not love the king; amores denotes Chryseis herself
 
 64 intactamque pio reddit Chryseida patri
 
@@ -731,7 +732,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 65 multaque dona super. Quam cunctis notus Vlixes
 
 [2] 65 Multaque dona super : quam cunctis notus Ulysses
-- … — Cunctis notus Ulysses. … In graeco πολύμητις dicitur Ulysses. Hoc vocabulum auctor Epitomes intellexisse videtur, quasi esset πολύμυθος vel πολύμνητος, de eo, qui multorum in ore est, vel de quo multae narrantur fabulae, quod adeo interpretari potuit cunctis notus.
+- … — *Cunctis notus Ulysses* [Ulysses known to all]. … In Greek Ulysses is called πολύμητις. The author of the *Epitome* seems to have understood this word as if it were πολύμυθος or πολύμνητος, said of one who is on the lips of many, or of whom many tales are told, which he could thus interpret as *cunctis notus*.
 
 [3] 65 Multaque dona super; quam cunctis notus Ulixes
 
@@ -753,7 +754,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 67 atque iterum ad classes Danaum sua uela retorsit.
 
 [2] 67 Atque iterum ad classes Danaum sua vela retorsit.
-- Sua vela retorsit. Ovid. Trist. I, 1, 84: « Semper ab Euboicis vela retorquet aquis ».
+- *Sua vela retorsit* [Turned back his sails]. Ovid, *Trist.* I, 1, 84: « Semper ab Euboicis vela retorquet aquis ».
 
 [3] 67 Atque iterum ad Danaum classes sua uela retorsit.
 
@@ -817,7 +818,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 73 solaturque suos alienis ignibus ignes.
 
 [2] 73 Solaturque suos alienis ignibus ignes.
-- Ignibus ignes, ut Ovid. Trist. IV, 3, 65, « compescuit ignibus ignes ». Pari sententia Val. Flaccus, II, 151, ex emendatione Heinsii: « Attamen hos aliis forsan solabere casus Tu thalamis ». Quintilianus, Declam. II, 3: « Hoc juveni fuit consilium, ut pater, cui matrimonium filiumque abstulerat incendium, residua senectutis alia solaretur uxore ».
+- *Ignibus ignes* [Fires with fires], as Ovid, *Trist.* IV, 3, 65: « compescuit ignibus ignes ». With similar thought Valerius Flaccus, II, 151, from the emendation of Heinsius: « Attamen hos aliis forsan solabere casus Tu thalamis ». Quintilian, *Declam.* II, 3: « Hoc juveni fuit consilium, ut pater, cui matrimonium filiumque abstulerat incendium, residua senectutis alia solaretur uxore ».
 
 [3] 72 Solaturque suos alienis ignibus ignes.
 
@@ -849,7 +850,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 76 munera militiae, letum crudele minatur,
 
 [2] 76 Munera militiae , letum crudele minatur.
-- Munera militiae. Rectius praemia dixisset: nam intelligit Briseidem, quae in praemium belli, quasi praeda et spolium, cesserat Achilli.
+- *Munera militiae* [Gifts of warfare]. He would have spoken more correctly had he said *praemia* [prizes/rewards]: for he means Briseis, who had fallen to Achilles as a reward of war, like booty and spoil.
 
 [3] 75 Munera militiae, letum crudele minatur;
 
@@ -870,7 +871,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 78 Quod nisi casta manu Pallas tenuisset Achillem,
 
 [2] 78 Et nisi casta manu Pallas tenuisset Achillem,
-- Et nisi casta manu. Auctor Epitomes ordinem et narrationem rerum paullum mutat ab Homero observatam. Homerus Achillem narrat ensem voluisse stringere in Agamemnonem, et a Minerva cohibitum esse, antequam Briseis Achilli auferretur. Noster de ea contentione, quasi post ablatam Briseidem facta, loquitur.
+- *Et nisi casta manu* [And had not the chaste goddess with her hand...]. The author of the *Epitome* changes slightly the order and narration of events observed by Homer. Homer relates that Achilles wished to draw his sword against Agamemnon and was restrained by Minerva, before Briseis was taken away from Achilles. Our author speaks of that clash as if it occurred after Briseis was taken away.
 
 [3] 77 Quod nisi casta manu Pallas tenuisset Achillem,
 
@@ -882,7 +883,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 79 turpem caecus amor famam liquisset in aeuum
 
 [2] 79 Turpem caecus amor famam liquisset in aevum
-- Turpem caecus amor famam. Non hoc ad mentem Homeri, et ad mores priscorum heroum dictum videtur qui sibi minime turpe putarunt furore amoris propter puellam in arma agi. Sed videtur rationem ejus dicti e verbis Achillis, v. 298, petiisse, quibus adfirmat, scilicet monitus a Pallade, se quidem caussa puellae non pugnaturum manibus: Χερσὶ μὲν οὔτι ἔγωγε μαχήσομαι εἵνεκα κούρης.
+- *Turpem caecus amor famam* [Blind love... shameful renown]. This does not seem to be said according to the mind of Homer and the customs of the ancient heroes, who by no means considered it shameful for themselves to be driven into arms by the madness of love on account of a girl. But he seems to have sought the reason for this saying from the words of Achilles, v. 298, in which he asserts—evidently having been warned by Pallas—that he indeed will not fight with his hands for the sake of the girl: Χερσὶ μὲν οὔτι ἔγωγε μαχήσομαι εἵνεκα κούρης.
 
 [3] 78 Turpem caecus amor famam liquisset in aeuum
 
@@ -893,7 +894,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 80 gentibus Argolicis. Contempta uoce minisque
 
 [2] 80 Gentibus Argolicis : contentus voce minisque ,
-- … h. e. Achilles contentus voce, conviciis et minis decertasse cum Agamemnone, non manibus et ferro (hoc enim ei praeceperat Minerva), ultionem injuriae sibi illatae petit a matre.
+- … that is, Achilles, content to have contended with Agamemnon by voice, reproaches, and threats, not by hands and sword (for this Minerva had enjoined upon him), seeks vengeance from his mother for the wrong inflicted upon him.
 
 [3] 79 Gentibus Argolicis. contempta uoce minisque
 
@@ -925,7 +926,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 82 ne se Plistheniden contra patiatur inultum.
 
 [2] 82 Ne se plus contra Atridem patiatur inultum.
-- … Barth. Advers. p. 2753 adnotat ad hunc versum, plus sonare amplius, quomodo Plautus, Claudianus, Sidonius, Apuleius, alii habeant; …
+- … Barth, *Advers.* p. 2753, notes on this verse that *plus* means *amplius* [further/more], as Plautus, Claudian, Sidonius, Apuleius, and others have it; …
 
 [3] 82 Ne se Plistheniden contra patiatur inultum.
 
@@ -979,7 +980,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 87 Tunc genibus regis sparsis affusa capillis:
 
 [2] 86 Tunc genibus regis sparsis affusa capillis:
-- … Hic plane imitatus est Noster Ovidium, de Cerere, Jovi pro filia Proserpina supplicante, loquentem Met. V, 513: « Ante Jovem passis stetit invidiosa capillis, Proque meo venio supplex tibi, Jupiter, inquit, Sanguine, proque tuo.
+- … Here our author clearly imitated Ovid, speaking of Ceres suppliant before Jove for her daughter Proserpina, *Met.* V, 513: « Ante Jovem passis stetit invidiosa capillis, Proque meo venio supplex tibi, Jupiter, inquit, Sanguine, proque tuo.
 
 [3] 87 Tunc genibus regis sparsis affusa capillis
 
@@ -994,7 +995,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 88 'Pro nato ueni genetrix en ad tua supplex
 
 [4] 88 « Pronato venio genetrix, en, ad tua supplex
-- … cf. Aeneid. VIII, 382 et Metam. V, 514).
+- … cf. Aeneid VIII, 382 and Metam. V, 514).
 
 [6] 88 'pro nato veni genetrix en ad tua supplex
 - *Iliad* 1.503
@@ -1012,7 +1013,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 90 corpus ab Atrida, quodsi permittitur illi
 
 [2] 89 Corpus ab Atride : quod si permittitur illi ,
-- … Notante Barthio l. c. corpus suum Thetis dicit Achillem filium, atque hoc noviter dictum ab auctore, neque in aliis poetis facile reperiundum puto: nam viscera, sanguinem parentum liberos dici, vulgare est.
+- … As Barth notes *loc. cit.*, Thetis calls her son Achilles her *corpus* [body/flesh], and I consider this a novel expression by the author, not easily to be found in other poets; for it is common for children to be called the *viscera* [entrails/flesh] or *sanguis* [blood] of their parents.
 
 [3] 90 Pignus ab Atrida. quodsi permittitur illi,
 
@@ -1033,8 +1034,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 92 turpiter occiderit superata libidine uirtus."
 
 [2] 91 Turpiter occiderit superata libidine virtus».
-- … Hanc sententiam auctor ex ingenio suo addit; apud Homerum talia non loquitur Thetis. Contra omittit ille, quod praecipue petebat Thetis a Jove, quodque sequens Junonis expostulatio respicit, ut Trojanos esse victores sineret tam diu, donec Graeci
-- **(cont.)** debitum filio suo honorem in melius mutati redderent.
+- … The author adds this thought from his own invention; in Homer Thetis speaks no such things. On the other hand, he omits what Thetis chiefly asked of Jove, and which the following expostulation of Juno looks back to, that he allow the Trojans to be victorious so long until the Greeks
+- **(cont.)** [the Greeks,] changing for the better, should render the due honor to her son.
 
 [3] 92 Turpiter occiderit superata libidine uirtus.'
 
@@ -1056,7 +1057,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 94 magni diua maris, mecum labor iste manebit.
 
 [2] 93 Magni Diva maris , mecum labor iste manebit :
-- … h. e. hanc rem diligenter assidueque curabo. Homer. v. 523: ἐμοὶ δέ κε ταῦτα μελήσεται, ὄφρα τελέσσω. — Expressit Noster Virgilii Aeneid. IV, 115: « Mecum erit iste labor »; et videtur simul respexisse verba Jovis ad Venerem apud Virg. Aen. I, 256: « Parce metu, Cytherea: manent immota tuorum Fata tibi »; aut quod Aeolus ad Junonem, Aen. I, 76, « tuus, o regina, quid optes, Explorare labor, mihi jussa capessere fas est ». Contrarium verbis Nostri est illud Virgilii, Aen. II, 595: « quonam nostri tibi cura recessit ».
+- … that is, I shall take care of this matter diligently and constantly. Homer, v. 523: ἐμοὶ δέ κε ταῦτα μελήσεται, ὄφρα τελέσσω. — Our author has reproduced Virgil, *Aeneid* IV, 115: « Mecum erit iste labor »; and he seems at the same time to have looked to the words of Jove to Venus in Virg. *Aen.* I, 256: « Parce metu, Cytherea: manent immota tuorum Fata tibi »; or what Aeolus says to Juno, *Aen.* I, 76: « tuus, o regina, quid optes, Explorare labor, mihi jussa capessere fas est ». The opposite to our author's words is that of Virgil, *Aen.* II, 595: « quonam nostri tibi cura recessit ».
 
 [3] 94 Magni diua maris, mecum labor iste manebit.
 
@@ -1084,7 +1085,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 96 Dixit; at illa leves caeli delapsa per auras
 
 [6] 96 dixit, at illa leves caeli delapsa per auras
-- leues … cf. Verg. Aen. 11, 595
+- leues … cf. Virgil, Aen. 11, 595
 
 97 litus adit patrium gratasque sororibus undas.
 
@@ -1111,7 +1112,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 99 Doride nata ualet, tantum debetur Achilli,
 
 [2] 98 Doride nata valet, tantum debetur Achilli,
-- … Propertius ab Ant. de Rooy citatur, lib. I, 18, 25: « At vos aequoreae formosa Doride natae, Candida felici solvite vela choro ». Doride natae sunt Oceanitides, ut vocantur Virgilio, Georg. IV, 341. Sic autem, inquit Barthius in Adv. p. 2753, inepte vocat per convicium Juno Thetidem, immemor, se quoque Oceani filiam esse, ex quo Iliade, lib. XXIII, scripsit Homerus: Ὠκεανόν τε θεῶν γένεσιν καὶ μητέρα Τηθύν.
+- … Propertius is cited by Anton de Rooy, book I, 18, 25: « At vos aequoreae formosa Doride natae, Candida felici solvite vela choro ». The daughters of Doris are the Oceanids, as they are called by Virgil, *Georg.* IV, 341. "Yet in this way," says Barth in *Adv.* p. 2753, "Juno foolishly calls Thetis by way of reproach, unmindful that she too is a daughter of Ocean, concerning whom Homer wrote in *Iliad*, book XXIII: Ὠκεανόν τε θεῶν γένεσιν καὶ μητέρα Τηθύν."
 
 [3] 99 Doride nata ualet, tantum debetur Achilli,
 
@@ -1122,7 +1123,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 100 ut mihi quae coniunx dicor tua quaeque sororis
 
 [2] 99 Ut mihi, quse conjux dicor tua , quaeque sororis
-- Ut mihi, quae conjux. Similiter Juno apud Virg. Aen. I, 46: « Ast ego, quae Divum incedo regina, Jovisque Et soror et conjux ». — Et eadem emphasi egregius poeta noster Racine, Britann. act. I, sc. 2, v. 29: « Moi, fille, femme, soeur et mère de vos maîtres ». Ed.
+- *Ut mihi, quae conjux* [That to me, who am his wife...]. Similarly Juno in Virgil, *Aen.* I, 46: « Ast ego, quae Divum incedo regina, Jovisque Et soror et conjux ». — And with the same emphasis our eminent poet Racine, *Britann.* act I, sc. 2, v. 29: « Moi, fille, femme, soeur et mère de vos maîtres ». Ed.
 
 [3] 100 Ut mihi, quae coniunx dicor tua quaeque sororis
 
@@ -1153,7 +1154,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 103 Haec ita dona refers nobis? sic diligor a te?"
 
 [2] 102 Haec ita dona refers nobis? sic diligor a te? »
-- … Caeterum forma hujus dicti plane expressa est ad orationem Veneris ad Jovem apud Virg. Aen. I, 253: « Hic pietatis honos? sic nos in sceptra reponis? »
+- … Furthermore, the form of this saying is clearly modeled upon the speech of Venus to Jove in Virgil, *Aen.* I, 253: « Hic pietatis honos? sic nos in sceptra reponis? »
 
 [3] 103 Haec tu dona refers nobis? sic diligor a te?'
 
@@ -1164,7 +1165,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 104 Talibus incusat dictis irata Tonantem
 
 [2] 103 Talibus incusat dictis irata Tonantem ,
-- Talibus incusat: e Virgilio, Aen. I, 410.
+- *Talibus incusat* [With such words she reproaches]: from Virgil, *Aen.* I, 410.
 
 [3] 104 Talibus incusat dictis irata Tonantem
 
@@ -1185,7 +1186,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 106 Tandem interposito lis Ignipotente resedit
 
 [2] 105 Tandem interposito lis Ignipotente resedit,
-- … et Vulcanum intelligi. Hic enim intervenit Jovi et Junoni rixanti, et hortatu multisque poculis invitans parentes placavit, ad hilaritatemque convertit. Sic Hom. Iliad. I, 571: Τοῖσιν δ᾽ Ἥφαιστος κλυτοτέχνης ἦρχ᾽ ἀγορεύειν. Vulcanus autem a nostro auctore aliisque poetis vocatur Ignipotens. Infra, vs. 867: « Illic Ignipotens mundi caelaverat axem »; et Virgil. Aen. VIII, 414, « Haud secus Ignipotens, nec tempore segnior illo »: addendum illud Aen. X, 243: « clypeum cape quem dedit ipse Invictum Ignipotens, etc. » Ed.
+- … and Vulcan is understood. For he intervened between Jove and Juno quarreling, and by encouragement and offering many cups appeased his parents and turned them to cheerfulness. So Hom. *Iliad* I, 571: Τοῖσιν δ᾽ Ἥφαιστος κλυτοτέχνης ἦρχ᾽ ἀγορεύειν. Moreover, Vulcan is called *Ignipotens* by our author and other poets. Below, v. 867: « Illic Ignipotens mundi caelaverat axem »; and Virgil, *Aen.* VIII, 414: « Haud secus Ignipotens, nec tempore segnior illo »; to which must be added that of *Aen.* X, 243: « clypeum cape quem dedit ipse Invictum Ignipotens, etc. » Ed.
 
 [3] 106 Tandem interposito lis Ignipotente resedit,
 
@@ -1219,7 +1220,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 109 et dapibus diui curant sua corpora largis;
 
 [2] 108 Et dapibus largis curant sua corpora Divi ,
-- … Virgil. Aen. III, 510: « passimque in litore sicco Corpora curamus ».
+- … Virgil, *Aen.* III, 510: « passimque in litore sicco Corpora curamus ».
 
 [3] 109 Et dapibus diui curant sua corpora largis.
 
@@ -1231,7 +1232,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 110 inde petunt thalamos iucundaque dona quietis.
 
 [2] 109 Inde petunt thalamos jucundaque dona quietis.
-- Dona quietis. Virg. Aen. II, 369: « quies ... dono Divum gratissima serpit ». Ovid. Am. II, 9, 40: « et somnos praemia magna vocat ». Stat. Silv. V, 4, 2: « donis ut solus egerem, Somne, tuis ».
+- *Dona quietis* [Gifts of rest]. Virg. *Aen.* II, 369: « quies ... dono Divum gratissima serpit ». Ovid, *Am.* II, 9, 40: « et somnos praemia magna vocat ». Stat. *Silv.* V, 4, 2: « donis ut solus egerem, Somne, tuis ».
 
 [3] 110 Inde petunt thalamos iocundaque dona quietis.
 
@@ -1244,7 +1245,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 111 Nox erat et toto fulgebant sidera mundo
 
 [2] 110 II. Nox erat et toto fulgebant sidera caelo,
-- Nox erat. Breviorem hanc descriptionem noctis haurire potuit Noster e latioribus, quas habet Virgil. Aen. IV, 522 seqq. et VIII, 26 seq. …
+- *Nox erat* [Night was falling / It was night]. Our author could have drawn this briefer description of the night from the more detailed ones which Virgil has, *Aen.* IV, 522 ff. and VIII, 26 f. …
 
 [3] 111 Nox erat et toto fulgebant sidera mundo
 
@@ -1252,7 +1253,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 111 nox erat et toto fulgebant sidera mundo
 - *Iliad* 2.1
-- (testimonia) cf. Gesta Berengarii (PMA IV) 1, 127
+- (testimonia) cf. *Gesta Berengarii* (PMA IV) 1, 127
 
 112 humanumque genus requies diuumque tenebat,
 
@@ -1278,7 +1279,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 114 "Vade age per tenues auras, lenissime diuum,
 
 [2] 113 « Vade, age, per tenues auras, lenissime Divum ,
-- Vade, age. Laudat haec Barthius l. c. ut egregia et optimo poeta digna. Sed hic multa poetarum veterum loca habuit, quae imitaretur, praesertim Ovidii de somnio Halcyonae immisso, Met. XI, 586 seq. et, qui Ovidium imitatus est, Statii Theb. X, 84 seqq. — Lenissime divum. Ovid. Met. XI, 623, « placidissime, Somne, Deorum ». Stat. Silv. V, 4, 1, « placidissime Divum », et Theb. X, 126, « mitissime Divum ».
+- *Vade, age* [Go, come!]. Barth *loc. cit.* praises these words as outstanding and worthy of the finest poet. But here he had many passages of ancient poets to imitate, especially of Ovid on the dream sent to Alcyone, *Met.* XI, 586 ff., and of Statius, who imitated Ovid, *Theb.* X, 84 ff. — *Lenissime divum* [Gentlest of the gods]. Ovid, *Met.* XI, 623: « placidissime, Somne, Deorum ». Statius, *Silv.* V, 4, 1: « placidissime Divum », and *Theb.* X, 126: « mitissime Divum ».
 
 [3] 114 'Vade age per tenues auras, lenissime diuum,
 
@@ -1299,7 +1300,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 116 dumque tuo premitur sopitus pondere dulci,
 
 [2] 115 Dumque tuo premitur sopitus pondere dulci,
-- … Pondus adscribit somno auctor, quod et alias poetae somno gravari, opprimi, succumbere dicunt. Vidend. Virg. Aen. VI, 520; Ovid. Her. XII, 49.
+- … The author attributes weight (*pondus*) to sleep, just as poets elsewhere also say that people are weighed down (*gravari*), overwhelmed (*opprimi*), or succumb (*succumbere*) to sleep. See Virg. *Aen.* VI, 520; Ovid, *Her.* XII, 49.
 
 [3] 116 Dumque tuo premitur sopitus pondere dulci,
 
@@ -1330,7 +1331,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 119 cogat in arma uiros incautumque occupet hostem."
 
 [2] 118 Cogat in arma viros , incautumque occupet hostem ».
-- Cogat in arma viros. Virg. Aen. IX, 463: « Turnus in arma viros armis circumdatus ipse, Suscitat, aeratasque acies in praelia cogit ».
+- *Cogat in arma viros* [Let him summon the men to arms]. Virg. *Aen.* IX, 463: « Turnus in arma viros armis circumdatus ipse, Suscitat, aeratasque acies in praelia cogit ».
 
 [3] 119 Cogat in arma uiros incautumque occupet hostem.'
 
@@ -1362,7 +1363,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 122 corpus inundatum leni prostratus habebat.
 
 [2] 121 Corpus inundatum leni prostratus habebat.
-- Corpus inundatum. Barthius l. cit. pag. 2752 hic affectatiunculam, nescio quam, quae dedeceat optimos numeros hoc loco, deprehendit. Ego perelegans esse puto τὸ inundatum, factumque ad eum morem poetarum, quo alias irrigare somnum, et soporem irriguum dicunt. Vid. Virg. Aen. III, 511; Lucret. IV, 906; Claudian. praef. ad VI Cons. Hon. v. 9.
+- *Corpus inundatum* [The body flooded / steeped]. Barth *loc. cit.* p. 2752 detects here some kind of affectation that is unworthy of the finest meter in this place. I consider the word *inundatum* to be thoroughly elegant, and formed after that custom of poets by which they elsewhere say *irrigare somnum* [to pour over with sleep] and *soporem irriguum* [refreshing sleep]. See Virg. *Aen.* III, 511; Lucret. IV, 906; Claudian, preface to *VI Cons. Hon.* v. 9.
 
 [3] 122 Corpus inundatum leni prostratus habebat.
 
@@ -1373,7 +1374,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 123 Ad quem sic loquitur curarum operumque leuator:
 
 [2] 122 Ad quem sic loquitur curarum operumque levator:
-- Curarum operumque levator. Brevius eloquitur, quod Naso fusius Met. XI, 624: « Pax animi, quem cura fugit; qui corda diurnis Fessa ministeriis mulces, reparasque labori ».
+- *Curarum operumque levator* [Reliever of cares and of labors]. He expresses more briefly what Naso states more expansively, *Met.* XI, 624: « Pax animi, quem cura fugit; qui corda diurnis Fessa ministeriis mulces, reparasque labori ».
 
 [3] 123 Ad quem sic loquitur curarum operumque leuator:
 
@@ -1410,13 +1411,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 126 Accipe : ciiui primum Titan se emerserit undis,
 
 [6] 126 accipe: cum primum Titan se emerserit undis,
-- se emerserit … cf. Manil. 5, 198. Avien. periheg. 126 …
+- se emerserit … cf. Manilius 5, 198; Avienus, Descr. orb. 126 …
 
 127 fortibus arma iube socios aptare lacertis
 
 [2] 126 Fortibus arma jube socios aptare lacertis,
-- Aptare lacertis. Ovid. Am. I,
-- **(cont.)** 13, vs. 14: « Miles et armiferas aptat ad arma manus ».
+- *Aptare lacertis* [To fit to his arms]. Ovid, *Am.* I,
+- **(cont.)** [Ovid, *Am.* I,] 13, v. 14: « Miles et armiferas aptat ad arma manus » [The soldier fits his weapon-bearing hands to arms].
 
 [3] 127 Fortibus arma iube socios aptare lacertis
 
@@ -1427,19 +1428,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 128 et petere Iliacos instructo milite campos."
 
 [2] 127 Et petere Iliacos instructo milite campos ».
-- Et petere Iliacos. Repetit hunc versum auctor infra v. 159, quod saepius facit ille Homeri ipsius, quem contrahit, exemplo.
+- *Et petere Iliacos* [And to make for the Ilian...]. The author repeats this verse below at v. 159, which he does quite often, following the example of Homer himself, whom he abridges.
 
 [3] 128 Et petere Iliacos instructo milite campos.'
 
 [4] 128 Et petere Iliacos instructo milite campos. »
 
 [6] 128 et petere Iliacos instructo milite campos.'
-- (testimonia) cf. Gesta Ber. 3, 37
+- (testimonia) cf. *Gesta Ber.* 3, 37
 
 129 Dixit, et has repetit per quas modo uenerat auras.
 
 [2] 128 Dixity et has repetit, per quas modo venerat, auras.
-- … atque haec manifesta est imitatio Ovidii, qui de Iride a Somno revertente, Met. XI, 632: « remeat, per quos modo venerat, arcus ».
+- … and this is a clear imitation of Ovid, who says of Iris returning from Sleep, *Met.* XI, 632: « remeat, per quos modo venerat, arcus ».
 
 [3] 129 Dixit et has repetit per quas modo uenerat auras.
 
@@ -1468,12 +1469,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 131 Convocat altonitus visis Pelopeius heros
 
 [6] 131 convocat attonitus iussis Pelopeius heros
-- iussis … cf. Verg. Aen. 3, 172
+- iussis … cf. Virgil, Aen. 3, 172
 
 132 in coetum proceres remque omnibus ordine pandit:
 
 [2] 131 In coetum proceres, remque omnibus ordine pandit
-- Remque omnibus ordine pandit. Virg. Aen. III, 179.
+- *Remque omnibus ordine pandit* [And reveals the matter in order to all]. Virg. *Aen.* III, 179.
 
 [3] 132 In coetum proceres remque omnibus ordine pandit.
 
@@ -1501,7 +1502,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 134 Hortanturque ducem ; quorum rex forlia dictis
 
 [6] 134 hortanturque ducem; quorum rex fortia dictis
-- ducem Ω: Agamemnona etiam incitant
+- ducem Ω: they also incite Agamemnon
 
 135 pectora collaudans grates agit omnibus aequas.
 
@@ -1547,7 +1548,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 139 uertere iter, quem consiliis illustris Vlixes
 
 [2] 138 Vertere iter : quem consiliis illustris Ulysses
-- Consiliis illustris Ulysses. Laudat hoc Barthius l. c. p. 2754, et pulchre non unum Homeri epitheton exprimere ait, quale est πολύμητις et πολυμήχανος, δῖος.
+- *Consiliis illustris Ulysses* [Ulysses, illustrious for his counsels]. Barth praises this, *loc. cit.* p. 2754, and says it beautifully expresses more than one Homeric epithet, such as πολύμητις, πολυμήχανος, and δῖος.
 
 [3] 139 Vertere iter; quem consiliis inlustris Ulixes
 
@@ -1570,7 +1571,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 141 Tum uero ardescit conceptis litibus ira:
 
 [2] 140 Tunc vero ardescit conceptis litibus ira;
-- … Ardescit ira; sequitur Virgilium, Aen. IX, 66: « Ignescunt irae, duris dolor ossibus haeret ».
+- … *Ardescit ira* [Blazes with anger]; he follows Virgil, *Aen.* IX, 66: « Ignescunt irae, duris dolor ossibus haeret ».
 
 [3] 141 Tum uero ardescit conceptis litibus ira:
 
@@ -1604,8 +1605,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 144 Tandem sollertis prudentia Nestoris aeuo
 
 [2] 143 Tandem solertis prudentia Nestoris aevo
-- … Prudentia Nestoris aevo, i. e. Nestor aevo et experientia prudens. Per abstracta saepe solet Noster heroas
-- **(cont.)** suos signare, exemplo Homeri et aliorum: quale est alio loco Nestoris aetas, pro ipso Nestore, Menelai ardor, Ithaci solertia, et virtus Catonis apud Horatium.
+- … *Prudentia Nestoris aevo* [The prudence of Nestor in his age], that is, Nestor prudent by age and experience. Our poet is often accustomed to designate his heroes by abstract terms,
+- **(cont.)** [to designate his heroes,] following the example of Homer and others: such as in another place *Nestoris aetas* [the age of Nestor], for Nestor himself; *Menelai ardor* [the ardor of Menelaus]; *Ithaci solertia* [the skill of the Ithacan]; and *virtus Catonis* [the virtue of Cato] in Horace.
 
 [3] 144 Tandem sollertis prudentia Nestoris aeuo
 
@@ -1617,7 +1618,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 145 compressam miti sedauit pectore turbam
 
 [2] 144 Compressam miti sedavit pectore turbam ,
-- Compressam miti sedavit. Fortasse petitum est ex his Virgilii Georg. IV, 86: « Hi motus animorum atque haec certamina tanta Pulveris exigui jactu compressa quiescent ». Et sedato pectore dicit Virg. Aen. IX, 740.
+- *Compressam miti sedavit* [Calmed, checked with gentle...]. Perhaps taken from these words of Virgil, *Georg.* IV, 86: « Hi motus animorum atque haec certamina tanta Pulveris exigui jactu compressa quiescent ». And Virgil says *sedato pectore* [with calmed breast] in *Aen.* IX, 740.
 
 [3] 145 Compresssam miti sedauit pondere turbam
 
@@ -1628,7 +1629,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 146 admonuitque duces dictis responsa recordans
 
 [2] 145 Admonuitque,duces dictis, responsa recordans
-- Responsa recordans Temporis illius. Cl. Bondamius, pag. 144, effictum putat ex his Ovid. Met. 280: « quanto cogor meminisse dolore Temporis illius, quo Graium murus Achilles Procubuit ».
+- *Responsa recordans Temporis illius* [Recalling the prophecies of that time]. The distinguished Bondam, page 144, thinks this is fashioned after these words of Ovid, *Met.* [XIII,] 280: « quanto cogor meminisse dolore Temporis illius, quo Graium murus Achilles Procubuit ».
 
 [3] 146 Admonuitque duces dictis, responsa recordans
 
@@ -1650,7 +1651,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 148 consumpsit uolucrum bis quattuor arbore fetus
 
 [2] 147 Consumpsit volucrum bis quatuor arbore fetus,
-- … Vix dubium est, auctorem hic respexisse Ovidium, Met. XII, 15: « Nidus erat volucrum bis quatuor arbore summa, Quas simul et matrem circum sua damna volantem Corripuit serpens ». …
+- … There is scarcely any doubt that the author here had in mind Ovid, *Met.* XII, 15: « Nidus erat volucrum bis quatuor arbore summa, Quas simul et matrem circum sua damna volantem Corripuit serpens ». …
 
 [3] 148 Consumpsit uolucrum bis quattuor arbore fetus
 
@@ -1681,7 +1682,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 151 Tunc "sic deinde" senex "moneo remoneboque, Achiui:
 
 [2] 150 Infit deinde senex : « Maneo, remaneteque, Achivi,
-- … Iliad. II, 331, ubi Ulysses monet: Ἀλλ᾽ ἄγε, μίμνετε πάντες ἐϋκνήμιδες Ἀχαιοί. Scilicet apud Homerum Ulyssis oratio est, quam Noster Nestori tribuit.
+- … Homer, *Iliad* II, 331, where Ulysses advises: Ἀλλ᾽ ἄγε, μίμνετε πάντες ἐϋκνήμιδες Ἀχαιοί. To be sure, in Homer it is a speech of Ulysses, which our author attributes to Nestor.
 
 [3] 151 Tum sic deinde: 'senex remoror, remoramini, Achiui:
 
@@ -1692,8 +1693,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 152 in decimo labor est, Calchas quem dixerat, anno,
 
 [2] 151 In decimo labor est, quem Calchas dixerat, anno,
-- In decimo labor est, h. e. in
-- **(cont.)** decimo demum anno nobis praedictus et constitutus labor est, quo Ilion capiamus. Fere tamen malim legere In decimum annum usque labor, i. e. laborandum nobis est. Vult enim in eum annum retardatum iri bellum, donec Ilion capiatur. Sic loqui solet Virgilius, ut Aen. IX, 155, « decimum quos distulit Hector in annum »; et XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum ».
+- *In decimo labor est* [In the tenth is the toil], that is, in
+- **(cont.)** [that is, in] the tenth year at last is the toil foretold and appointed for us, in which we may capture Ilion. Yet I would almost prefer to read *In decimum annum usque labor*, that is, we must toil. For he means that the war is to be delayed to that year, until Ilion is captured. Virgil is accustomed to speak thus, as in *Aen.* IX, 155: « decimum quos distulit Hector in annum »; and XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum ».
 
 [3] 152 In decimo labor est, Calchas quem dixerat, anno,
 
@@ -1715,7 +1716,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 154 Assensere omnes, laudatur Nestoris aetas
 
 [2] 153 Adsensere omnes, laudatur Nestoris aetas:
-- Nestoris aetas, i. e. senilis prudentia, vel Nestor senex.
+- *Nestoris aetas* [The age of Nestor], that is, aged prudence, or the aged Nestor.
 
 [3] 154 Assensere omnes, laudatur Nestoris aetas,
 
@@ -1738,7 +1739,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 156 dux iubet atque animos aptare et pectora pugnae.
 
 [2] 155 Dux jubet, atque animos aptari et pectora pugnae.
-- … idem aptare. Virg. Aen. X, 258: « sociis edicit, signa sequantur, Atque animos aptent armis: pugnaeque parent se ».
+- … the same has *aptare*. Virg. *Aen.* X, 258: « sociis edicit, signa sequantur, Atque animos aptent armis: pugnaeque parent se ».
 
 [3] 156 Dux omnis iubet atque aptari corpora pugnae.
 
@@ -1781,7 +1782,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 160 et petere Iliacos instructo milite campos.
 
 [2] 159 Et petere Iliacos instructo milite campos.
-- … Repetitur versus 127. …
+- … Verse 127 is repeated. …
 
 [3] 160 Et petere Iliacos instructo milite campos.
 
@@ -1792,7 +1793,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 161 Vos mihi nunc, Musae - quid enim non ordine nostis? -,
 
 [2] 160 Vos mihi nunc, Musae, quid enim non ordine nostis?
-- Quid enim non ordine nostis? Similiter Maro, Aen. VII, 645, et IX, 529, « Et meministis enim, Divae, et memorare potestis ».
+- *Quid enim non ordine nostis?* [For what do you not know in order?]. Similarly Maro, *Aen.* VII, 645, and IX, 529: « Et meministis enim, Divae, et memorare potestis ».
 
 [3] 161 Vos mihi nunc, Musae (quid enim non ordine nostis?),
 
@@ -1845,7 +1846,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 166 aspiretque libens operi per singula nostro.
 
 [2] 165 Adspiretque libens operi per singula nostro.
-- Adspiretque libens operi. Virg. Aen. IX, 525: « Vos, o Calliope, precor, adspirate canenti ». Ovid. Met. I, 3: « Di coeptis ... adspirate meis ». — Caeterum fere solennis omnibus ab Homero poetis epicis haec exercituum enumeratio. Adeundus inprimis illius felix imitator et aemulus, Virg. Aen. VII, 641; et inter recentiores, Torquato Tasso, Gerus. lib. c. I, st. 36. Ed.
+- *Adspiretque libens operi* [And may she breathe favorably upon the work]. Virg. *Aen.* IX, 525: « Vos, o Calliope, precor, adspirate canenti ». Ovid, *Met.* I, 3: « Di coeptis ... adspirate meis ». — For the rest, this enumeration of the armies is practically customary for all epic poets since Homer. One should consult especially his happy imitator and rival, Virg. *Aen.* VII, 641; and among more recent poets, Torquato Tasso, *Gerus. lib.* c. I, st. 36. Ed.
 
 [3] 166 Aspiretque libens operi per singula nostro.
 
@@ -1857,12 +1858,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 167 Peneleos princeps et bello Leitus acer,
 
 [2] 166 Peneleus princeps, et bello Leitus acer.
-- … quia ab Homero Boeotiae versu 1 Πηνέλεως καὶ Λήϊτος junguntur. Ex hoc nomine librarii notiorem Laertium, i. e. Ulyssem perperam fecerunt.
+- … because by Homer in the Boeotia [Catalogue of Ships], verse 1, Πηνέλεως καὶ Λήϊτος are joined together. From this name the copyists erroneously made the better-known *Laertius*, that is, Ulysses.
 
 [3] 167 Peneleus princeps et bello Leitus acer
 
 [4] 167 Peneleus princeps et bello Leitus acer
-- Leitus … (cf. Iliad. II, 494).
+- Leitus … (cf. Iliad II, 494).
 
 [6] 167 Peneleus princeps et bello Leïtus acer
 - *Iliad* 2.494
@@ -1880,12 +1881,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 169 Boeoti decies quinas egere carinas
 
 [2] 168 Boeotas decies quinas duxere carinas,
-- … ex Homero, Iliad. II, 510, legendum Boeotas vel Boeotum. …
+- … from Homer, *Iliad* II, 510, one should read *Boeotas* or *Boeotum*. …
 
 [3] 169 Boeoti decies quinas egere carinas
 
 [4] 169 Boeoti decies quinas egere carinas
-- Boeoti (ibid., 495 et 509). …
+- Boeoti (ibid., 495 and 509). …
 
 [6] 169 Boeoti decies quinas egere carinas
 
@@ -1933,7 +1934,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 174 et bis tricenis Menelai nauibus ardor
 
 [2] 173 Et bis tricenis Menelai navibus ardor
-- … Menelai ardor, id est, ardens Menelaus.
+- … *Menelai ardor* [The ardor of Menelaus], that is, the fiery Menelaus.
 
 [3] 174 Et bis tricenis Menelai nauibus ardor
 
@@ -1967,7 +1968,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 177 consilioque potens gemina cum prole suorum
 
 [2] 176 Consilioque potens, gemina cum prole suorum
-- Gemina cum prole suorum. Quod Nestorem cum duobus filiis advenisse scribit, id non ex Homero habet, sed forte a Dictye Cret. qui lib. I, cap. 13: « Nestor cum Antilocho et Thrasymede, quos ex Anaxibia susceperat, supervenit ».
+- *Gemina cum prole suorum* [With twin offspring of his own]. That he writes that Nestor arrived with two sons he does not have from Homer, but perhaps from Dictys of Crete, who in Book I, chap. 13 says: « Nestor cum Antilocho et Thrasymede, quos ex Anaxibia susceperat, supervenit ».
 
 [3] 177 Consilioque potens gemina cum prole suorum
 
@@ -1978,7 +1979,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 178 it ter tricenis munitus in arma carinis.
 
 [2] 177 It ter tricenis munitus in arma carinis.
-- … nam Homerus, Iliad. II, 602, nonaginta naves ei tribuit.
+- … for Homer, *Iliad* II, 602, attributes ninety ships to him.
 
 [3] 178 It ter tricenis munitus in arma carinis.
 
@@ -1989,7 +1990,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 179 At Schedius uirtute potens et Epistrophus ingens,
 
 [2] 178 At Schedius virtute potens et Epistrophus ingens
-- … Legendum ex Homero, II, 517, At Schedius virtute potens et Epistrophus.
+- … One must read from Homer, *Il.* II, 517: *At Schedius virtute potens et Epistrophus*.
 
 [3] 179 At Schedius uirtute potens et Epistrophus ingens
 
@@ -2011,7 +2012,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 181 longa quaterdenis pulsarunt aequora proris
 
 [2] 180 Longa quater denis pulsarunt aequora proris.
-- … Nam Homerus l. c. quadraginta naves ponit. …
+- … For Homer *loc. cit.* sets down forty ships. …
 
 [3] 181 Longa quaterdenis sulcarunt aequora proris.
 
@@ -2022,8 +2023,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 182 et bis uicenas Polypoetes atque Leonteus
 
 [2] 181 At bis vicenas Polypoetes atque Leonteus
-- … Sed Polypoetes atque Leonteus
-- **(cont.)** legendum esse patet ex Homeri Iliad. II, 740 et 745. …
+- … But that one must read *Polypoetes atque Leonteus*
+- **(cont.)** [that one must read Polypoetes atque Leonteus] is clear from Homer, *Iliad* II, 740 and 745. …
 
 [3] 182 Et bis uicenas Polypoetes atque Leonteus
 
@@ -2045,12 +2046,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 184 Euryalus Sthenelusque duces et fortis in armis
 
 [2] 183 Euryalus, Sthenelusque ferox, et fortis in armis
-- … quem ipsum Homerus, Iliad. II, 565, cum Sthenelo et Diomede conjungit. Et Dares Phryg. cap. 14: « Diomedes, Euryalus, Sthenelus ex Argis », navibus LXXX. Eurypylum contra, quem Homerus, v. 736, in ducibus Graecorum cum quadraginta navibus numerat, sed poetaster noster non nominasse videtur, Bondamius v. 189 adductum putat, quod ipsi ad eum versum notabimus.
+- … whom Homer himself joins with Sthenelus and Diomedes in *Iliad* II, 565. And Dares the Phrygian, chap. 14: « Diomedes, Euryalus, Sthenelus ex Argis », with eighty ships. On the other hand, Eurypylus, whom Homer (v. 736) numbers among the Greek leaders with forty ships, but whom our poetaster does not seem to have named, Bondam thinks was brought in at v. 189, which we ourselves shall note at that verse.
 
 [3] 184 Euryalus Sthenelusque . . . . et fortis in armis
 
 [4] 184 Euryalus Sthenelusque duces et fortis in armis
-- Euryalus … — duces Kooten jure retinuit: cf. enim Iliad. II, 563 sqq. ἡγεμόνευε, et quem optime laudat Weytingh, Aeneid. II versum 261 « Thessandrus Sthenelusque duces » …
+- Euryalus … — duces Kooten rightly retained: cf. Iliad II, 563 ff. ἡγεμόνευε, and, whom Weytingh excellently praises, Aeneid II line 261 "Thessandrus Sthenelusque duces" …
 
 [6] 184 Euryalus Sthenelique decus et fortis in armis
 - *Iliad* 2.564
@@ -2069,7 +2070,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 186 bis quadragenas onerarunt milite puppes;
 
 [2] 185 Bisque quadragenas onerarunt milite puppes:
-- … Homerus octoginta naves iis tribuit; …
+- … Homer assigns them eighty ships; …
 
 [3] 186 Bis quadragenas onerarunt milite puppes.
 
@@ -2080,7 +2081,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 187 Ascalaphusque potens et Ialmenus, acer uterque,
 
 [2] 186 Ascalaphusque potens, et lalmenus acer, uterque
-- … ex Homero, Iliad. II, 512, qui hunc Ascalapho apponit. …
+- … from Homer, *Iliad* II, 512, who places him next to Ascalaphus. …
 
 [3] 187 Ascalaphusque potens et Ialmenus, acer uterque,
 
@@ -2113,12 +2114,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 190 instruxit puppes totidemque Euhaemone natus,
 
 [2] 189 Instruxit puppes , totidemque Evaemone natus ;
-- … Sed Abantoris filium nullum in catalogo Homeri invenio. Cl. Bondamius, Var. lect. p. 146, Eurypylum, quem ab Homero inter duces nominatum apud Nostrum non invenit, hoc versu indicatum putat, ideoque sic scriptum esse conjicit: « Instruxit puppes, totidemque Evaemone natus ». Nam Eurypylus ab Homero v. 736 vocatur Εὐαίμονος ἀγλαὸς υἱός, et dicitur eumdem navium 40 numerum duxisse. Evaemonis et Opis filius vocatur etiam Hygino, fab. 94. …
+- … But I find no son of Abantor in Homer's catalogue. The distinguished Bondam, *Var. lect.* p. 146, thinks Eurypylus, named among the leaders by Homer but not found in our author, is indicated in this verse, and therefore conjectures it was written thus: « Instruxit puppes, totidemque Evaemone natus ». For Eurypylus is called by Homer (v. 736) Εὐαίμονος ἀγλαὸς υἱός [glorious son of Euaemon], and is said to have led the same number of 40 ships. He is also called the son of Euaemon and Opis by Hyginus, *fab.* 94. …
 
 [3] 190 Instruxit puppes totidemque Euhaemone natus.
 
 [4] 190 Instruxit puppes totidemque Euhaemone natus.
-- Euaemone … (cf. Iliad. II, 736).
+- Euaemone … (cf. Iliad II, 736).
 
 [6] 190 instruxit puppes totidemque Euhaemone natus.
 - *Iliad* 2.736
@@ -2126,7 +2127,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 191 quos iuxta Graium murus comitatur Achilles
 
 [2] 190 Quos juxta Graium ductor comitatur Achilles ,
-- Graium ductor praecipuum bello, supremum fortitudine explicat Barthius, Advers. p. 2754. …
+- Barth, *Advers.* p. 2754, explains *Graium ductor* [leader of the Greeks] as preeminent in war, supreme in bravery. …
 
 [3] 191 Quos iuxta Graium murus comitatur Achilles,
 
@@ -2148,7 +2149,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 193 Thessalici iuuenes Phidippus et Antiphus ibant
 
 [2] 192 Thessalici juvenes Phidippus et Antiphus ibant,
-- Phidippus et Antiphus scripsi ex Homeri Iliad. II, 678, …
+- I wrote *Phidippus et Antiphus* from Homer's *Iliad* II, 678, …
 
 [3] 193 Thessalici iuuenes Phidippus et Antiphus ibant
 
@@ -2170,12 +2171,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 195 et tribus assumptis ratibus secat aequora Teucer
 
 [2] 194 Et tribus adsumptis ratibus secat aequora Nireus,
-- … quod non solum Homerus in catalogo suo Teucri hujus nuspiam meminit, sed fratrem ejus Ajacem Telamonium duodecim naves ad Trojam duxisse narrat, quocum et Noster convenit versu 204; sed et alii scriptores, ut Dictys, lib. I, cap. 13 et 17 Ajacem ductorem navium faciunt, Teucrum fratrem ejus comitem et socium fuisse aiunt. Clare Dares Phryg. c. 14: « Ajax Telamonius ex Salamine adduxit secum Teucrum fratrem ». Hyginus quidem, fab. 97, Ajacem Telam. naves XII, et Teucrum fratrem totidem adduxisse ait. Sed diversus ab hoc numerus navium est, quas Teucro apud Nostrum vulgata lectio tribuit: tres tantum naves duxisse dicitur; apud Homerum vero soli Nireo tres naves tribuuntur, et hic solus ab epitomatore siletur, nisi loco Teucri nominandus sit. … Nam Dictys, I, 17: « Nireus ex Syme tres, Podarces et Protesilaus ex Phylaca naves XL ».
+- … not only does Homer nowhere mention this Teucer in his catalogue, but he relates that his brother Telamonian Ajax led twelve ships to Troy, with which our author also agrees in verse 204; but other writers as well, such as Dictys, Book I, chaps. 13 and 17, make Ajax the leader of the ships, and say that his brother Teucer was his companion and ally. Dares the Phrygian clearly states, chap. 14: « Ajax Telamonius ex Salamine adduxit secum Teucrum fratrem ». Hyginus indeed, *fab.* 97, says that Telamonian Ajax brought 12 ships, and his brother Teucer just as many. But different from this is the number of ships which the vulgate reading attributes to Teucer in our author: he is said to have led only three ships; in Homer, however, three ships are attributed to Nireus alone, and he alone is passed over in silence by the epitomator, unless he is to be named in place of Teucer. … For Dictys, I, 17 says: « Nireus ex Syme tres, Podarces et Protesilaus ex Phylaca naves XL ».
 
 [3] 195 Et tribus assumptis ratibus secat aequora Nireus,
 
 [4] 195 Et tribus ab Sume ratibus secat aequora Nireus,
-- … Nireus Bondam, Higt (Iliad. II, 671 sqq.)
+- … Nireus Bondam, Higt (Iliad II, 671 ff.).
 
 [6] 195 et tribus † assumptis ratibus secat aequora Nireus,
 - *Iliad* 2.671
@@ -2183,12 +2184,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 196 Tlepolemusque nouem Rhodius, quos uiribus acer
 
 [2] 195 Tlepolemusque novem Rhodius, quos viribus acer
-- … quem Homerus II, 653, dicit ex Rhodo novem naves adduxisse. Dictys l. c. Tlepolemus ex Rhodo aliisque insulis, quae circa eam erant, octo navibus venit. Dares Phryg. c. 14: « Tlepolemus ex Rhodo navibus numero novem ».
+- … Homer (*Il.* II, 653) says that he brought nine ships from Rhodes. Dictys *loc. cit.*: *Tlepolemus ex Rhodo aliisque insulis, quae circa eam erant, octo navibus venit*. Dares the Phrygian, chap. 14: « Tlepolemus ex Rhodo navibus numero novem ».
 
 [3] 196 Tlepolemusque nouem Rhodius, quos uiribus acer
 
 [4] 196 Tlepolemusque novem Rhodius, quos viribus acer
-- Tlepolemus … (cf. Iliad. II, 653).
+- Tlepolemus … (cf. Iliad II, 653).
 
 [6] 196 Tlepolomusque novem Rhodius, quos viribus acer
 - *Iliad* 2.653
@@ -2196,8 +2197,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 197 Eumelus sequitur, minus una naue profectus
 
 [2] 196 Eumelus sequitur, minus una nave profectus.
-- … Homero auctore, Iliad. II, 714, ubi Εὔμηλος Admeti filius undecim navibus ex Pheris praefuisse dicitur. Pherae urbs Thessaliae. Dictys l. c. « Eumelus XI Pheris ». Unde Hyginus corrigendus videtur, qui scribit Eumelum ex Perrhaebia. Noster minus una nave, i. e. undecim profe-
-- **(cont.)** ctum dicit, quia antecedentium naves, Nirei tres et Tlepolemi novem, connumerat.
+- … on the authority of Homer, *Iliad* II, 714, where Εὔμηλος, the son of Admetus, is said to have commanded eleven ships from Pherae. Pherae is a city of Thessaly. Dictys *loc. cit.*: « Eumelus XI Pheris ». Whence Hyginus, who writes that Eumelus was from Perrhaebia, seems in need of correction. Our author, by *minus una nave*, says that he set out (profe-) with one ship fewer, i.e., eleven...
+- **(cont.)** "[...profe-]ctum dicit [he says that he set out], because he counts together the ships of the preceding leaders, three of Nireus and nine of Tlepolemus."
 
 [3] 197 Eumelus sequitur, minus una naue profectus
 
@@ -2205,7 +2206,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 197 Eumelus sequitur, minus una nave profectus
 - *Iliad* 2.714
-- … minus una scil. undecim …
+- … minus una, namely eleven …
 
 198 quam duxit Telamone satus Salaminius Aiax.
 
@@ -2220,7 +2221,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 199 Ast Prothous Magnes Tenthredone natus et una
 
 [2] 198 At Prothous Magnes , Tenthredone natus , et una
-- … Nam Homerus Prothoum Magnetum principem nominat, et Dictys in catalogo heroum qui Trojam obsederunt, lib. I, 17: « Prothous, Magnes, XL naves ».
+- … For Homer calls Prothous the leader of the Magnetes, and Dictys in the catalogue of heroes who besieged Troy, Book I, 17: « Prothous, Magnes, XL naves ».
 
 [3] 199 At Prothous Magnes Tenthredone natus et una
 
@@ -2233,7 +2234,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 200 Euboeae magnis Elephenor finibus ortus
 
 [2] 199 Eubceae magnis Elephenor finibus ortus,
-- … Ovidio, Trist. III, memoratur idem fortasse Elpenor, unus ex Ulyssis comitibus, qui, quum in porcum a Circe mutatus esset, dein humanae formae restitutus ad Ulyssem incauto fugiendi studio properaret, ex edito loco decidens periit. Ed.
+- … In Ovid, *Trist.* III, perhaps the same Elpenor is mentioned, one of Ulysses' companions, who, when he had been turned into a swine by Circe, and then restored to human shape, while hastening to Ulysses in careless eagerness to flee, fell from a high place and perished. Ed.
 
 [3] 200 Euboeae magnis Elephenor finibus ortus
 
@@ -2256,7 +2257,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 202 Aetola de gente Thoas Andraemone natus,
 
 [2] 201 Aetola de gente Thoas Andraemone natus,
-- … ex Homeri II, 638: …
+- … from Homer's *Il.* II, 638: …
 
 [3] 202 Aetola de gente Thoas Andraemone natus,
 
@@ -2300,12 +2301,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 206 egregia uirtute potens; simul horrida Guneus
 
 [2] 205 Egregia virtute poLens : simul ordine Guneus
-- Guneus ex Cypho duas et viginti naves duxit. Homerus, II, 648. …
+- Guneus led twenty-two ships from Cyphus: Homer, *Il.* II, 648 [748]. …
 
 [3] 206 Egregia uirtute potens; simul horrida Guneus
 
 [4] 206 Egregia virtute potens; sinnil horrida Gunei
-- **206-207** Gunei Ira … Iliad. II, 748).
+- **206-207** Gunei Ira … Iliad II, 748).
 
 [6] 206 egregia virtute potens; simul horrida Guneus
 - *Iliad* 2.748
@@ -2344,7 +2345,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 210 et totidem puppes clara de gente Menestheus
 
 [2] 209 Et totidem puppes clara de gente Menestheus
-- Menestheus ex Athenis quinquaginta naves duxit. Hom. II, 552. Dictys et Dares Mnestheum dicunt, et totidem naves ei tribuunt. …
+- Menestheus led fifty ships from Athens: Hom. *Il.* II, 552. Dictys and Dares call him Mnestheus, and assign as many ships to him. …
 
 [3] 210 Et totidem puppes clara de gente Menestheus
 
@@ -2357,7 +2358,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 211 duxit Athenaeus, quot uiribus ambit Achilles;
 
 [2] 210 Duxit Athenaeus, quot viribus ambit Achilles:
-- Athenaeus, quia dux Atheniensium. … Vult enim, Menestheum tot naves habuisse, quot Achilles ducebat, nempe quinquaginta; vid. vers. 191. …
+- *Athenaeus* [the Athenian], because he was the leader of the Athenians. … For he means that Menestheus had as many ships as Achilles was leading, namely fifty; see verse 191. …
 
 [3] 211 Duxit Athenaeus, quot uiribus addit Achilles.
 
@@ -2368,7 +2369,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 212 Amphimachusque ferox et Thalpius, Elide nati,
 
 [2] 211 Amphimachusque ferox etThalpius, Elide nati,
-- Et Thalpius reposui ex Hom. II, 620. …
+- *Et Thalpius* [and Thalpius] I have restored from Hom. *Il.* II, 620. …
 
 [3] 212 Amphimachusque ferox et Thalpius, Elide nati,
 
@@ -2381,7 +2382,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 213 et clara uirtute Polyxenus atque Diores,
 
 [2] 212 Et clari virtute Polyxenus atque Diores,
-- … Hos cum Amphimacho et Thalpio ex Elide conjungit Homerus, sicut et Dictys, I, 17.
+- … Homer joins these men with Amphimachus and Thalpius from Elis, as does Dictys, I, 17.
 
 [3] 213 Et clara uirtute Polyxenus atque Diores.
 
@@ -2403,7 +2404,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 215 Protesilaus agit totidem fortisque Podarces
 
 [2] 214 Protesilaus agit totidem, fortisque Podarces
-- Podarces et Protesilaus ex Phylaca, et aliis, quibus praeerant, locis naves XL adduxerunt. Homerus, II, 704, et Dictys l. c. …
+- Podarces and Protesilaus brought 40 ships from Phylace and the other places over which they ruled: Homer, *Il.* II, 704, and Dictys *loc. cit.* …
 
 [3] 215 Protesilaus agit totidem fortisque Podarces
 
@@ -2425,7 +2426,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 217 et septem Poeante satus tulit arma carinis,
 
 [2] 216 At septem Poeante satus tulit arma cariBis,
-- … i. e. Philoctetes, quem Homerus, II, 719, septem navibus praefuisse scribit. …
+- … that is Philoctetes, whom Homer, *Il.* II, 719, writes was in command of seven ships. …
 
 [3] 217 Et septem Poeante satus dat in arma carinas.
 
@@ -2437,7 +2438,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 218 quem sequitur iuxta Podalirius atque Machaon,
 
 [2] 217 Quem sequitur juxta Podalirius atque Machaon,
-- … Medici ambo erant, ambo Esculapio nati. Et Machaon memoratur Virg. Aen. II, 263. Ed.
+- … Both were physicians, both sons of Aesculapius. And Machaon is mentioned in Virg. *Aen.* II, 263. Ed.
 
 [3] 218 Quem sequitur iuxta Podalirius atque Machaon,
 
@@ -2449,7 +2450,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 219 altaque ter denis sulcarunt aequora proris.
 
 [2] 218 Altaque ter denis sulcarunt aequora proris.
-- Altaque ter denis. Idem versus supra 193. Amat Noster de eadem re eosdem vel similes versus facere, ipsius Homeri, quem compilat, exemplo.
+- *Altaque ter denis* [And the deep (seas) with thirty]. The same verse as above, 193. Our author loves to compose the same or similar verses about the same subject, following the example of Homer himself, whom he compiles.
 
 [3] 219 Altaque ter denis sulcarunt aequora proris.
 
@@ -2470,7 +2471,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 221 bis septem uenere minus quam mille ducentae.
 
 [2] 220 Bis septem venere minus, quam mille ducentae.
-- Quam mille ducentae, h. e. MCLXXXVI naves: numerus ipsius Homeri est. Observante Barthio l. c. Dictys numerum navium ad Trojam venientium ponit 1117, Dares 1148. Anna Daceria ex Dictye naves Graecorum numerat 1153, e Darete 1140; scholiasten Euripidis in Oreste ait numerare 1155, Cedrenum 1148, Thucydidem atque Chrysostomum 1200.
+- *Quam mille ducentae* [than twelve hundred], that is, 1186 ships [1200 minus twice seven]: it is Homer's own number. As Barth observes *loc. cit.*, Dictys puts the number of ships coming to Troy at 1117, Dares at 1148. Anne Dacier from Dictys counts the ships of the Greeks as 1153, from Dares 1140; she says that the scholiast on Euripides' *Orestes* counts 1155, Cedrenus 1148, Thucydides and Chrysostom 1200.
 
 [3] 221 Bis septem uenere minus quam mille ducentae.
 
@@ -2489,7 +2490,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 222 iamque citae appulerant classes camposque tenebant,
 - *Iliad* —
-- … auctor licentia poetica abutitur
+- … the author makes free use of poetic license
 
 223 cum pater ad Priamum mittit Saturnius Irim,
 
@@ -2525,7 +2526,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 226 Priamides Hector totamque in proelia pubem
 
 [2] 225 Priamides Hector, totamque in praelia pubem
-- Totamque in praelia pubem. Virgil. Aen. VII, 429: « armari pubem, portisque moveri Laetus in arma para ».
+- *Totamque in praelia pubem* [And all the youth into battle]. Virgil, *Aen.* VII, 429: « armari pubem, portisque moveri Laetus in arma para ».
 
 [3] 226 Priamides Hector totamque in praelia pubem
 
@@ -2537,7 +2538,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 227 festinare iubet portisque agit agmen apertis.
 
 [2] 226 Festinare jubet, portisque agit agmen apertis.
-- Portis ... agmen apertis. Virg. Aen. XII, 121: « pilataque plenis Agmina se fundunt portis ».
+- *Portis ... agmen apertis* [the column through the open gates]. Virg. *Aen.* XII, 121: « pilataque plenis Agmina se fundunt portis ».
 
 [3] 227 Festinare iubet portisque agit agmen apertis.
 
@@ -2592,7 +2593,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 232 crura tegunt ocreae, quales decet Hectoris esse.
 
 [2] 231 Crura tegunt ocrea, quales decet Hectoris essc.
-- Quales decet Hectoris esse. Formula Ovidiana, Met. II, 14: « facies non omnibus una, Non diversa tamen: qualem decet esse sororum ». Hunc et sequentes versus de Paride Barthius l. c. tamquam praeclaros et graves et omnem rem necessariam breviter complexos laudandos censet.
+- *Quales decet Hectoris esse* [Such as befit Hector's]. An Ovidian formula, *Met.* II, 14: « facies non omnibus una, Non diversa tamen: qualem decet esse sororum ». Barth *loc. cit.* judges that this and the following verses concerning Paris should be commended as outstanding, weighty, and briefly encompassing everything necessary.
 
 [3] 232 Crura tegunt ocreae, quales decet Hectoris esse.
 
@@ -2626,7 +2627,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 235 Deiphobusque Helenusque simul fortisque Polites
 
 [2] 234 Deiphobusque , Helenusque simul, fortisque Polites,
-- … Polites, ut apud Homerum, II, 701: …
+- … *Polites*, as in Homer, *Il.* II, 791 [or 701 in Wernsdorf's citation]: …
 
 [3] 235 Deiphobusque Helenusque simul fortisque Polites,
 
@@ -2649,7 +2650,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 237 Archelochusque Acamasque ferox Antenore creti;
 
 [2] 236 Archilochusque, Acamasque ferox, Antenore nati:
-- Acamasque. Hom. II, 823; …
+- *Acamasque* [and Acamas]. Hom. *Il.* II, 823; …
 
 [3] 237 Archilochusque Acamasque ferox Antenore creti.
 
@@ -2672,7 +2673,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 239 Pandarus et magnae Glaucus uirtutis in armis
 
 [2] 238 Pandarus , et magn» virtutis Glaucus in armis ,
-- Glaucus in armis. Hunc Homerus, II extr. cum Sarpedone Lyciorum duce conjungit, de quo Noster, infra v. 248.
+- *Glaucus in armis* [Glaucus in arms]. Homer, at the end of *Il.* II, joins him with Sarpedon, leader of the Lycians, concerning whom our author writes below, v. 248.
 
 [3] 239 Pandarus et magnae Glaucus uirtutis in armis;
 
@@ -2684,12 +2685,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 240 Amphiusque et Adrastus et Asius atque Pylaeus.
 
 [2] 239 Amphionque, Adrastus, et Asius, atque Pylaeus.
-- Amphiusque Adrastus scribo ex Hom. II, 830; et Asius, ib. 838: … quem Homerus cum Hippothoo ex Larissa conjungit, II, 842, nec alio loco ab Nostro adductum vidi. …
+- I write *Amphiusque Adrastus* from Hom. *Il.* II, 830; and *Asius*, *ibid.* 838: … whom Homer joins with Hippothous from Larissa, *Il.* II, 842, and whom I have not seen mentioned by our author anywhere else. …
 
 [3] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
 
 [4] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
-- Amphius … (Iliad. II, 830). … Pylaeus … (ibid. 842).
+- Amphius … (Iliad II, 830). … Pylaeus … (ibid. 842).
 
 [6] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
 - *Iliad* 2.830, 2.837, 2.842
@@ -2697,7 +2698,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 241 Ibat et Amphimachus Nastesque, insignis uterque,
 
 [2] 240 Ibat et Amphimachus, Nastesque, insignis uterque,
-- Amphimachus Nastesque de Caria, conjunguntur ab Homero, II, 870. …
+- Amphimachus and Nastes from Caria are joined by Homer, *Il.* II, 870. …
 
 [3] 241 Ibat et Amphimachus Nastesque, insignis uterque,
 
@@ -2710,12 +2711,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 242 magnanimique duces Odiusque et Epistrophus ingens
 
 [2] 241 Magnanimique duces Hodius et Epistrophus ingens,
-- Hodius et Epistrophus filii Minoi Halizonum regis: sic Dictys, II, 35, et Homerus eosdem conjungit v. 856: …
+- Hodius and Epistrophus, sons of Minos king of the Halizones: so Dictys, II, 35, and Homer joins the same, v. 856; …
 
 [3] 242 Magnanimique duces Hodiusque et Epistrophus ingens
 
 [4] 242 Magnanimique duces Hodiusque et Epistrophus ingens
-- **242, 243, 244** Hodius, Pyraechmes, Mesthles … (ibid. 856, 848. 864).
+- **242, 243, 244** Hodius, Pyraechmes, Mesthles … (ibid. 856, 848, 864).
 
 [6] 242 magnanimique duces Odiusque et Epistrophus ingens
 - *Iliad* 2.856
@@ -2723,7 +2724,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 243 Euphemusque ferox clarusque aetate Pyraechmes,
 
 [2] 242 Euphemusque ferox, clarusque aetate Pyraechmes,
-- … Euphemus Ciconum dux, et Pyraechmes Paeonum, memorantur ab Homero, v. 846 et 848: …
+- … Euphemus, leader of the Cicones, and Pyraechmes, of the Paeonians, are mentioned by Homer, vv. 846 and 848; …
 
 [3] 243 Euphemusque ferox clarusque aetate Pyraechmes;
 
@@ -2735,7 +2736,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 244 cum quibus et Mesthles atque Antiphus et bonus armis
 
 [2] 243 Cum quibus etMesthlesatque Antiphus, et bonusarmis
-- Et Mesthles atque Antiphus, Maeonii. Hom. v. 864. …
+- *Et Mesthles atque Antiphus*, Maeonians: Hom. v. 864. …
 
 [3] 244 Cum quibus et Mesthles atque Antiphus et bonus armis
 
@@ -2747,7 +2748,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 245 Hippothous uenere Acamasque et Pirous una,
 
 [2] 244 Hippdthus atque Acamas venere, et Pirous una,
-- … Sed Hippothoum, quem Homerus inter praecipuos et proxime ante Acamanta nominat, non omisisse Noster, neque alio, quam hoc loco posuisse videtur, … quia Piron vel Piroum Homerus cum Acamante conjungit v. 844, et Pylaeus jam supra locum invenit.
+- … But our author seems neither to have omitted Hippothous, whom Homer names among the foremost leaders and immediately before Acamas, nor to have placed him anywhere other than in this verse; … because Homer joins Peiros or Peirous with Acamas at v. 844, and Pylaeus has already found a place above.
 
 [3] 245 Hippothousque Acamasque iuere et Pirous una,
 
@@ -2770,7 +2771,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 246 Arsinooque sati Chromiusque atque Ennomus, ambo
 
 [2] 245 Alcinoque sati, Chromiusque ac Ennomus, ambo
-- … Et ipse vir doctissimus ex Ausonii Epitaphiis her. epigr. 22, adlegat, ubi Ennomi et Chromii pater Alcinus vocatur. … Apud Homerum non exstat pater, qui Chromin et Ennomum Mysis praefuisse dicit v. 858. Sed Noster plura ex aliis haurire solet.
+- … That most learned scholar himself cites Ausonius, *Epitaphia heroum*, epigr. 22, where the father of Ennomus and Chromius is called Alcinus. … In Homer the father does not appear, where he simply says that Chromis and Ennomus commanded the Mysians, v. 858. But our author is accustomed to draw many things from other sources.
 
 [3] 246 Alcinooque sati Chromiusque atque Ennomus, ambo
 
@@ -2778,12 +2779,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 246 Arsinooque sati Chromiusque atque Ennomus, ambo
 - *Iliad* 2.858
-- Arsinooque … (ex Apollod. epit. 3, 35 p. 199 Wagner) …
+- Arsinooque … (from Apollod. Epit. 3, 35 p. 199 Wagner) …
 
 247 florentes aetate uiri, quos Phorcus et ingens
 
 [2] 246 Florentes aetate viri , quos Phorcis et ingens
-- … auctore Homero, qui v. 862 Phorcyn et Ascanium Phrygum duces conjungit. … Ascanius hic discernendus a filio Aeneae, qui tum puer admodum erat.
+- … on the authority of Homer, who at v. 862 joins Phorcys and Ascanius as commanders of the Phrygians. … This Ascanius is to be distinguished from the son of Aeneas, who was at that time still a mere boy.
 
 [3] 247 Florentes aetate uiri, quos Phorcus et ingens
 
@@ -2795,7 +2796,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 248 Ascanius sequitur, simul et Iouis inclita proles
 
 [2] 247 Ascanius sequitur, simul et Jovis inciyta proles
-- Jovis inclyta proles. Ovidius, Met. IX, 229.
+- *Jovis inclyta proles* [illustrious offspring of Jove]. Ovid, *Met.* IX, 229.
 
 [3] 248 Ascanius sequitur, simul et Iouis inclita proles
 
@@ -2806,10 +2807,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 249 Sarpedon claraque satus tellure Coroebus.
 
 [2] 248 Sarpedon, claraque satus tellure Coroebus.
-- … Hunc autem Coroebum Homerus non nominat, sed eum Virgilius Mygdonis filium dicit, Trojanisque auxilio venisse et a Peneleo interfectum tradit, Aen. II, 341 et 425. A Diomede perimi facit Quintus Cal. XIII, 168 seq. Contra Homerus Pylaemenem, Paphlagonum ducem, inter socios Trojanorum nominat, quem Noster, nisi fallor, omisit. De Coroebo plura videas notata ab Heynio V. C. Excurs. X ad Aen. II. — Choroebus alius memoratur a Statio, Theb. I, 650. Ed.
+- … Homer does not name this Coroebus, but Virgil calls him the son of Mygdon, and relates that he came to the aid of the Trojans and was killed by Peneleus, *Aen.* II, 341 and 425. Quintus Smyrnaeus (*Calaber*), XIII, 168 seqq., has him slain by Diomedes. In contrast, Homer names Pylaemenes, leader of the Paphlagonians, among the allies of the Trojans, whom our author, unless I am mistaken, has omitted. For more on Coroebus, see the notes by the distinguished C. G. Heyne, Excursus X to *Aen.* II. — Another Coroebus is mentioned by Statius, *Theb.* I, 650. Ed.
 
 [3] 249 Sarpedon claraque satus tellure Pylaemen.
-- … Coroebus … sed neque hic ab Homero commemoratur et Pylaemenes iam solus restat non nominatus; inuexere illum librarii ex Vergilio; …
+- … Coroebus … but neither is this man mentioned by Homer, and Pylaemenes now remains alone unnamed; the scribes imported that one from Virgil; …
 
 [4] 249 Sarpodon claraque satus tellure Coroebus.
 - Coroebus … (cf. Aen. II, 342); …
@@ -2820,7 +2821,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 250 His se defendit ducibus Neptunia Troia
 
 [2] 249 His se defendit ducibus Meptunia Troja,
-- Neptunia Troja: e Virgilii Aen. II, 625, et III, 3.
+- *Neptunia Troja* [Neptunian Troy]: from Virgil's *Aen.* II, 625, and III, 3.
 
 [3] 250 His se defendit ducibus Neptunia Troia,
 
@@ -2855,7 +2856,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 253 cum Paris, exitium Troiae funestaque flamma,
 
 [2] 252 Quum Paris, exitium Trojae funestaque flamma,
-- … Barthius ad hunc locum observat, Advers. LIX, cap. 1, optimorum scriptorum morem esse, funestarum cladium auctores clades ipsas nominare. Juvenalis de Domitiano: « si peste et clade sub illa Saevitiam damnare, et honestum afferre liceret Consilium ». Auctor declamationis in Catilinam: « vigent enim in illa clade res diversissimae pariter, continentia et libido ». Lampridius in Elagabalo: « mirum fortasse cuipiam videatur, quod haec clades, quam retuli, loco principis fuerit ». Seneca de Medea: « Abolere ferro pessimam propera luem ». Claudianus de Rufino, lib. I: « quo tanta lues eruperit ortu ». Barth. — Et ideo praesertim flamma servandum est, quod aptius conveniat cum fabula de Hecuba Paridis genetrice, taedam se peperisse somniante, qua Troas Asiaque omnis incendio vastarentur. Ed.
+- … Barth observes on this passage, *Advers.* LIX, ch. 1, that it is the custom of the best writers to call the authors of deadly disasters the disasters themselves. Juvenal of Domitian: « si peste et clade sub illa Saevitiam damnare, et honestum afferre liceret Consilium ». The author of the declamation against Catiline: « vigent enim in illa clade res diversissimae pariter, continentia et libido ». Lampridius in *Elagabalus*: « mirum fortasse cuipiam videatur, quod haec clades, quam retuli, loco principis fuerit ». Seneca of Medea: « Abolere ferro pessimam propera luem ». Claudian of Rufinus, Book I: « quo tanta lues eruperit ortu ». Barth. — And *flamma* [flame] is especially to be preserved for this reason, that it agrees more aptly with the myth of Hecuba, the mother of Paris, dreaming that she had given birth to a firebrand, by which the Troad and all Asia would be laid waste by fire. Ed.
 
 [3] 253 Cum Paris, exitium Troiae funestaque flamma,
 
@@ -2878,7 +2879,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 255 seque uelut uiso perterritus angue recepit
 
 [2] 254 Seque velut viso perterritus angue recepit
-- … Comparationem ab Homero factam, III, 33 seq. quam hic brevissime exprimit Noster, Virgilius, Aen. II, 378 seq. de Androgeo usurpavit: « Obstupuit, retroque pedem cum voce repressit. Improvisum aspris veluti qui sentibus anguem Pressit humi nitens, trepidusque repente refugit ». Brevius Naso, Fast. II, 341, « Attonitusque metu rediit: ceu saepe viator Turbatum viso rettulit angue pedem ». Juvenalis, I, 43: « Palleat, ut nudis pressit qui calcibus anguem ».
+- … The simile made by Homer, *Il.* III, 33 seqq., which our author here expresses very briefly, Virgil, *Aen.* II, 378 seqq., employed of Androgeos: « Obstupuit, retroque pedem cum voce repressit. Improvisum aspris veluti qui sentibus anguem Pressit humi nitens, trepidusque repente refugit ». More briefly Ovid, *Fast.* II, 341: « Attonitusque metu rediit: ceu saepe viator Turbatum viso rettulit angue pedem ». Juvenal, I, 43: « Palleat, ut nudis pressit qui calcibus anguem ».
 
 [3] 255 Seque uelut uiso perterritus angue recepit
 
@@ -2911,7 +2912,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 258 "aeternum patriae generisque infamia nostri,
 
 [2] 257 Aeternum patriae, generisque infamia nostri,
-- Generisque infamia nostri. Ovid. Metam. VIII, 97: « o nostri infamia saecli ».
+- *Generisque infamia nostri* [And the infamy of our race]. Ovid, *Metam.* VIII, 97: « o nostri infamia saecli ».
 
 [3] 258 'Aeternum patriae generisque infamia nostri,
 
@@ -2932,8 +2933,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 260 expugnare toros, cuius nunc defugis arma
 
 [2] 259 Expugnare toros, cujus nunc defugis arma,
-- Hospitis expugnare toros, h. e. conjugem sollicitatione capere et corrumpere, quemadmodum ex-
-- **(cont.)** pugnari dicuntur, qui inviti et repugnantes vincuntur precibus; quomodo usurpavit Suetonius, Caes. 1, Tiber. 21. Apud Ovid. Her. XVII, 3, Helena ad Paridem: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem ». Propert. III, 13, 9: « Haec etiam clausas expugnant arma pudicas ». — Rutilius, Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit. Ed. — De usu verbi expugnare plura notavit Barthius ad Stat. Theb. IV, 187.
+- *Hospitis expugnare toros* [To storm the bed of one's host], that is, to capture and corrupt a wife by solicitation, just as they are said to be stormed [ex- / -pugnari]...
+- **(cont.)** [...ex]pugnari [to be taken by storm]: they are said to be taken by storm who, unwilling and resisting, are overcome by entreaties; in which sense Suetonius used it, Caes. 1, Tiber. 21. In Ovid, Her. XVII, 3, Helen to Paris: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem ». Propertius, III, 13, 9: « Haec etiam clausas expugnant arma pudicas ». — Rutilius, Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit ». Ed. — On the use of the verb expugnare, Barth has noted more on Statius, Theb. IV, 187.
 
 [3] 260 Expugnare toros, cuius nunc defugis arma
 
@@ -2966,7 +2967,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 263 Hic animos ostende tuos: nihil adiuuat armis
 
 [2] 262 Hic animos ostende tuos, nil adjuvat arnia
-- Hic animos ostende. Virgil. Aen. VI, 261: « Nunc animis opus, Aenea, nunc pectore firmo ». …
+- *Hic animos ostende* [Show your courage here]. Virgil, Aen. VI, 261: « Nunc animis opus, Aenea, nunc pectore firmo ». …
 
 [3] 263 Hic animos ostende tuos: nihil adiuuat arma
 
@@ -2974,12 +2975,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 263 hic animos ostende tuos: nihil adiuvat armis
 - *Iliad* —
-- armis (i. in pugna) …
+- armis (i.e. in battle) …
 
 264 nobilitas formae: duro Mars milite gaudet.
 
 [2] 263 Nobilitas formae, duro Mars miiite gaudet.
-- Duro Mars milite gaudet. Helena ad Paridem l. c. v. 253: « Apta magis Veneri, quam sint tua corpora Marti ».
+- *Duro Mars milite gaudet* [Mars rejoices in a hardy soldier]. Helen to Paris in the passage cited above [Ovid, Her. XVII], v. 253: « Apta magis Veneri, quam sint tua corpora Marti ».
 
 [3] 264 Nobilitas formae: duro Mars milite gaudet.
 
@@ -2991,7 +2992,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 265 Dum iaceas in amore tuo, nos bella geremus
 
 [2] 264 Dum jaceas in amore tuo, nos beila geremus
-- Dum jaceas in amore, h. e. fractus libidine langueas et otieris, impar militiae. Tale est in Virg. Catal. V, 1: « Jacere me, quod alta non possim, putas, Ut ante, vectari freta, Nec ferre durum frigus, aut aestum pati, Neque arma victoris sequi ».
+- *Dum jaceas in amore* [While you lie in love], that is, broken by lust you languish and idle, unfit for warfare. Such is the passage in Virgil, Catal. V, 1: « Jacere me, quod alta non possim, putas, Ut ante, vectari freta, Nec ferre durum frigus, aut aestum pati, Neque arma victoris sequi ».
 
 [3] 265 Dum iaceas in amore tuo, nos bella geremus
 
@@ -3003,7 +3004,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 266 scilicet et nostrum fundemus in hoste cruorem.
 
 [2] 265 Scilicet, et nostrum fundemus in hoste cniorem.
-- … In hoste opponitur antecedenti in amore tuo. Caeterum his versibus respexisse auctor videtur Virgilium, Aen. XI, 371, ubi Drances ad Turnum: « Scilicet, ut Turno contingat regia conjux, Nos, animae viles, inhumata infletaque turba, Sternamur campis ». Et auctor orationis Achillis in Parthenone, quam supra dedimus, v. 57: « Scilicet, ut conjux viduo reddatur Atridi, Procumbat vilis Teucrorum victima Achilles ».
+- … *In hoste* [against the enemy] is opposed to the preceding *in amore tuo* [in your love]. Moreover, in these verses the author seems to have had in mind Virgil, Aen. XI, 371, where Drances says to Turnus: « Scilicet, ut Turno contingat regia conjux, Nos, animae viles, inhumata infletaque turba, Sternamur campis ». And the author of the speech of Achilles in the Parthenon, which we gave above, v. 57: « Scilicet, ut conjux viduo reddatur Atridi, Procumbat vilis Teucrorum victima Achilles ».
 
 [3] 266 Scilicet et nostrum fundemus in hoste cruorem!
 
@@ -3036,7 +3037,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 269 depositis populus telis. Vos, foedere iuncto,
 
 [2] 268 Depositis telis populus, vos foedere juncto
-- Populus, pro exercitu, ut observavit Barthius, Adv. LIX, 1. Similiter infra v. 280 et 342.
+- *Populus* [the people], for *exercitus* [the army], as Barth observed, Adv. LIX, 1. Similarly below, vv. 280 and 342.
 
 [3] 269 Depositis populus telis, uos foedere iuncto
 
@@ -3047,7 +3048,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 270 aduersas conferte manus, decernite ferro."
 
 [2] 269 Adversas conferle manus, decernite ferro
-- Conferte manus. Virg. Aen. X, 876; XI, 283.
+- *Conferte manus* [Join battle / Engage hand-to-hand]. Virg. Aen. X, 876; XI, 283.
 
 [3] 270 Aduersas conferte manus, decernite ferro.'
 
@@ -3099,7 +3100,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 274 prauaque luxuria est potior uirtutis honore
 
 [2] 274 Pronaque luxuria est potior virtutis Iionore,
-- Pronaque luxuria, i. e. facilis et proclivis in Venerem. …
+- *Pronaque luxuria* [and prone to lust], that is, easy and inclined toward Venus. …
 
 [3] 274 Priuaque luxuria est potior uirtutis honore;
 
@@ -3110,7 +3111,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 275 nec uires temptare uiri dextramque recuso,
 
 [2] 275 Nec vires dextramque viri tentare recuso,
-- Dextramque viri tentare, pugnando experiri, quid vis et dextra viri possit. Virg. Aen. II, 334: « vix primi praelia tentant ». … Tacitus, Germ. XXXIV: « Ipsum quin etiam Oceanum tentavimus ». Ovid. Epist. VII, 121: « bellis peregrina et femina tentor ». Sic tentare de molimine ac conatu, ut tentare aequor, vias, et similia. Vid. Burm. adnot. ad Val. Flacc. Argon. I, 529. Ed.
+- *Dextramque viri tentare* [And to test the right hand of the hero], to experience by fighting what the strength and right hand of the hero can do. Virg. Aen. II, 334: « vix primi praelia tentant ». … — Tacitus, Germ. XXXIV: « Ipsum quin etiam Oceanum tentavimus ». Ovid, Epist. VII, 121: « bellis peregrina et femina tentor ». Thus *tentare* is used of undertaking and attempt, as *tentare aequor*, *vias*, and the like. See Burmann's note on Val. Flacc. Argon. I, 529. Ed.
 
 [3] 275 Nec uires temptare uiri dextramque recuso,
 
@@ -3138,7 +3139,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 277 dicta refert Hector; placuit sententia Grais.
 - *Iliad* 3.76
-- (testimonia) cf. Gesta Ber. 2, 3
+- (testimonia) cf. *Gesta Ber.* 2, 3
 
 278 Protinus accitur Priamus sacrisque peractis
 
@@ -3154,7 +3155,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 279 foedera iunguntur. Post haec discedit uterque
 
 [2] 279 Foedera junguntur : post haec discedit uterque
-- … Virgilius, Aen. XII, 696, de simili pugna Turni et Aeneae agens: « Discessere omnes medii, spatiumque dedere ». …
+- … Virgil, Aen. XII, 696, treating of the similar single combat of Turnus and Aeneas: « Discessere omnes medii, spatiumque dedere ». …
 
 [3] 279 Foedera iunguntur; post haec decedit uterque
 
@@ -3165,7 +3166,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 280 depositis populus telis campusque patescit.
 
 [2] 280 Depositis telis populus, campusque patescit.
-- … Sic Ovid. Met. XII, 147: « positis pars utraque substitit armis ». Virg. Aen. XII, 707: « Armaque deposuere humeris »; et versu 710: « ut vacuo patuerunt aequore campi ».
+- … So Ovid, Met. XII, 147: « positis pars utraque substitit armis ». Virg. Aen. XII, 707: « Armaque deposuere humeris »; and in verse 710: « ut vacuo patuerunt aequore campi ».
 
 [3] 280 Depositis populus telis, campusque patescit.
 
@@ -3219,7 +3220,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 285 "nec longum nostra laetabere coniuge, quae te
 
 [2] 285 Nec longum nostra iaetabere conjuge, quae te
-- Nec longum laetabere. Virgil. Aen. X, 740. Sed totum hoc haustum ex Ovidio, Metam. V, 64: « arcus Arripit, et, Mecum tibi sint certamina, dixit, Nec longum pueri fato laetabere ».
+- *Nec longum laetabere* [Nor shall you rejoice for long]. Virgil, Aen. X, 740. But this whole phrase is drawn from Ovid, Metam. V, 64: « arcus Arripit, et, Mecum tibi sint certamina, dixit, Nec longum pueri fato laetabere ».
 
 [3] 285 'Nec longum nostra laetabere coniuge, quae te
 
@@ -3231,7 +3232,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 286 mox raptum ire gemet, tantummodo Iuppiter adsit."
 
 [2] 286 Mox rapuit regem , tantummodo Jupiter adsit ».
-- **(cont.)** … In Homero auctore est, victorem omnia habiturum. … nec Homero stricte adhaeret semper hic scriptor, nec in eo quidquam tale; sed Jovem ipsum pugnam seu duellum iniens adloquitur Menelaus. …
+- **(cont.)** … In Homer the originator, it is that the victor will have everything. … nor does this writer always adhere strictly to Homer, nor is there anything of the kind in him; but Menelaus addresses Jove himself as he enters upon the fight or duel. …
 
 [3] 286 Mox raptum ire gemet, tantummodo Iuppiter adsit.'
 
@@ -3259,12 +3260,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 288 Ille virum forti venientem reppulit iclu
 
 [6] 288 ille virum forti venientem reppulit ictu
-- forti uenientem … cf. 434. Verg. Aen. 12, 510 al.
+- forti uenientem … cf. 434; Virgil, Aen. 12, 510 etc.
 
 289 seque gradu celeri recipit longeque frementem
 
 [2] 289 Seque gradu celeri recipit, longeque frementem
-- Frementem hastam, quae emissa sonum dat, aera diverberans. …
+- *Frementem hastam* [A roaring spear], which, once hurled, makes a sound as it cleaves the air. …
 
 [3] 289 Seque gradu celeri recipit longeque frementem
 
@@ -3275,7 +3276,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 290 hastam deinde iacit, quam deuitauit Atrides
 
 [2] 290 Hastam deinde jacit, quam devitavit Atrides,
-- … Secundum Homerum, Il. III, 360, Paris Atridae hastam, non Atrides Paridis, declinavit. Et plura hujus pugnae diverse narrat Noster.
+- … According to Homer, Il. III, 360, Paris avoided the spear of the son of Atreus, not the son of Atreus that of Paris. And our author narrates several particulars of this combat differently.
 
 [3] 290 Hastam deinde iacit, quam deuitauit Atrides.
 
@@ -3297,7 +3298,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 292 praedonis Phrygii, ni uastum ferrea pectus
 
 [2] 292 Praedonis Phrygii, nisi vastum ferrea corpus
-- Praedonis Phrygii. Frequens praedonis convicium in adulteros et raptores puellarum, sigillatim in Paridem, propter raptum Helenae, ut apud Stat. Achill. I, 45, et in Aeneam, propter Laviniam, apud Virg. Aeneid. VII, 362: « Perfidus alta petens, abducta virgine, praedo »; et Aen. XI, 484, ubi « Phrygius praedo » audit. Pluto ob raptum Proserpinae sic dicitur apud Ovid. Met. V, 521; Fast. IV, 591. …
+- *Praedonis Phrygii* [Of the Phrygian robber]. The insult *praedo* [robber/ravisher] is frequent against adulterers and abductors of girls, specifically against Paris on account of the abduction of Helen, as in Stat. Achill. I, 45, and against Aeneas on account of Lavinia, in Virg. Aeneid VII, 362: « Perfidus alta petens, abducta virgine, praedo »; and Aen. XI, 484, where he is called « Phrygius praedo ». Pluto is so called on account of the rape of Proserpina in Ovid, Met. V, 521; Fast. IV, 591. …
 
 [3] 292 Praedonis Phrygii, ni uastum ferrea pectus
 
@@ -3308,7 +3309,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 293 texisset lorica uiri septemplice tergo.
 
 [2] 293 Texisset lorica viri septemplice tergo.
-- Septemplice tergo, quae septem coriis inducta et munita erat. Alias septemplices clypei heroibus tribui solent. Virg. Aen. XII, 925; Ovid. Met. XIII, 2 et 347.
+- *Septemplice tergo* [With a sevenfold hide], which was covered and protected with seven layers of hide. Elsewhere sevenfold shields are usually attributed to heroes. Virg. Aen. XII, 925; Ovid, Met. XIII, 2 and 347.
 
 [3] 293 Texisset lorica uiri septemplice tergo.
 
@@ -3330,7 +3331,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 295 constitit et galeam galea terit et pede plantam
 
 [2] 295 Constitit, et galea galeam terit, et pede plantam
-- Constitit, et galea galeam ferit. Cl. Bondamius l. c. pag. 153 putat auctoris haec scribentis animo obversata esse haec Ovidiana, Met. IX, 43: « eratque Cum pede pes junctus: totoque ego pectore pronus, Et digitos digitis, et frontem fronte premebam ». Et sane hic, ut in aliis locis, apparet captata ab auctore occasio imitandi Ovidii, quum ipsa Homeri narratio talia non suggesserit.
+- *Constitit, et galea galeam ferit* [He stood firm, and helmet strikes helmet]. The distinguished Bondam, loc. cit. p. 153, thinks that these words of Ovid were before the mind of the author when writing this, Met. IX, 43: « eratque Cum pede pes junctus: totoque ego pectore pronus, Et digitos digitis, et frontem fronte premebam ». And indeed here, as in other places, an opportunity grasped by the author for imitating Ovid is apparent, since the narrative of Homer itself did not suggest such things.
 
 [3] 295 Constitit et galeam galea terit et pede plantam
 
@@ -3353,7 +3354,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 297 corpus collectum tegitur fulgentibus armis.
 
 [2] 297 Corpus collectum tegitur fulgentibus armis.
-- Corpus collectum, i. e. intra clypeum reductum et clausum. Virg. Aen. XII, 491: « Substitit Aeneas, et se collegit in arma »; et X, 412, « seque in sua colligit arma ». … — Conf. Cuperus, Observ. lib. I, cap. 12, p. 90. Ed.
+- *Corpus collectum* [His body drawn together], that is, drawn back and enclosed within the shield. Virg. Aen. XII, 491: « Substitit Aeneas, et se collegit in arma »; and X, 412: « seque in sua colligit arma ». … — Cf. Cuper, Observ. book I, ch. 12, p. 90. Ed.
 
 [3] [297] [Corpus collectum tegitur fulgentibus armis.]
 
@@ -3361,12 +3362,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 297 corpus collectum tegitur fulgentibus armis.
 - *Iliad* —
-- … cf. Verg. Aen. 12, 491 et 10, 412; armis i. scuto
+- … cf. Virgil, Aen. 12, 491 and 10, 412; armis i.e. shield
 
 298 Non aliter fortes nitida de coniuge tauri
 
 [2] 298 !Non aliter fortes nitida pro conjuge tauri
-- Non aliter fortes. Haec comparatio plane ab Ovidio petita, qui Met. IX, 46, post verba superius adlegata, pergit: « Non aliter fortes vidi concurrere tauros, Quum pretium pugnae, toto nitidissima saltu Expetitur conjux ».
+- *Non aliter fortes* [Not otherwise the brave...]. This simile is plainly borrowed from Ovid, who in Met. IX, 46, after the words cited above, continues: « Non aliter fortes vidi concurrere tauros, Quum pretium pugnae, toto nitidissima saltu Expetitur conjux ».
 
 [3] 298 Non aliter fortes nitida de coniuge tauri
 
@@ -3389,7 +3390,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 300 Atque diu rigido captabant corpora ferro,
 
 [2] 300 Jamque diu rigido captabant corpora ferro ;
-- … Captabant pectora, i. e. locum opportunum vulnerandi corporis. — Sic apud Virgilium, Aen. XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis ». Ed. …
+- … *Captabant pectora* [They were aiming at the breasts], that is, an opportune place for wounding the body. — So in Virgil, Aen. XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis ». Ed. …
 
 [3] 300 Utque diu rigido captabant corpora ferro,
 
@@ -3419,7 +3420,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 302 Dardaniumque premit iuvenem. mox ense rigente
 - *Iliad* 3.361
-- male post iuvenem non distinguebant editiones recentes
+- wrongly did recent editions not punctuate after iuvenem
 
 303 cedentem retro dum desuper appetit hostem,
 
@@ -3444,14 +3445,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 305 dissiluit mucro; gemuerunt agmina Graium.
 
 [2] 305 Dissiluit mucro : gemuerunt agmina Graium.
-- … et ipse Noster infra integro versu 968 repetit, habetque ex imitatione Virgilii, qui eumdem casum Turni memorans, Aen. XII, 741: « Mortalis mucro, glacies seu futilis, ictu Dissiluit »; et Ovid. Metam. V, 171 seq. « Non circumspectis exactum viribus ensem Fregit, et extrema percussae parte columnae Lamina dissiluit; dominique in gutture fixa est ».
+- … and our author himself repeats it below in a complete verse, 968, and has it from an imitation of Virgil, who, recording the same misfortune of Turnus, says in Aen. XII, 741: « Mortalis mucro, glacies seu futilis, ictu Dissiluit »; and Ovid, Metam. V, 171 ff.: « Non circumspectis exactum viribus ensem Fregit, et extrema percussae parte columnae Lamina dissiluit; dominique in gutture fixa est ».
 
 [3] 305 Dissiluit mucro; gemuerunt agmina Graium.
 
 [4] 305 Dissiluit mucro; gemuerunt agmina Grajum.
 
 [6] 305 dissiluit mucro; gemuerunt agmina Graium.
-- Dis(s)iluit … cf. Verg. Aen. 12, 741
+- Dis(s)iluit … cf. Virgil, Aen. 12, 741
 
 306 Tum uero ardescit, quamuis manus ense carebat,
 
@@ -3479,7 +3480,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 308 Ad socios traheretque , nisi caligine csca
 
 [3] 308 Ad sociosque trahit; et ni caligine caeca
-- … de producta in trahit ultima cf. 257 et 966
+- … Concerning the lengthened final [syllable] in trahit cf. 257 and 966
 
 [4] 308 Ad sociosque trahit, etni caligine caeca
 
@@ -3540,7 +3541,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 314 et magnam ualidis contorsit uiribus hastam
 
 [2] 314 Et magnam validis contorsit viribus hastam
-- Contorsit viribus hastam, sunt verba Maronis, Aen. II, 50.
+- *Contorsit viribus hastam* [Hurled the spear with all his might], are the words of Virgil, Aen. II, 50.
 
 [3] 314 Et magnam ualidis contorsit uiribus hastam
 
@@ -3552,7 +3553,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 315 in cladem Phrygii, sua quem Venus eripit hosti
 
 [2] 315 In ciadem Phrygii; sua quem Yenus eripit hosti,
-- Sua quem Venus. Erat enim assiduus ejus cultor Alexander, unde suam appellavit. Sic sua numina aequori addita ait v. 877: « Addideratque freto sua numina, Nerea magnum ». Venus autem ipsa sibi addictum Paridem commendat Helenae apud Homerum, postquam manibus Menelai eripuit. Barth. Adv. LIX, 1. Pronomine suus saepe faventem, aptum et utilem significari, neminem fugit in lectione Romanorum scriptorum versatum, ut hoc pluribus exemplis docere superfluum sit. Horat. Epod. 9, 30, « Cretam ventis iturus non suis ».
+- *Sua quem Venus* [Whom his own Venus...]. For Alexander was her devoted worshipper, whence he called her *sua* [his own]. So he says in v. 877 that its own deities were added to the sea: « Addideratque freto sua numina, Nerea magnum ». Moreover, Venus herself commends Paris, devoted to her, to Helen in Homer, after she rescued him from the hands of Menelaus. Barth, Adv. LIX, 1. That the pronoun *suus* often signifies favorable, appropriate, and advantageous escapes no one versed in the reading of Roman writers, so that it is superfluous to demonstrate this with more examples. Horace, Epod. 9, 30: « Cretam ventis iturus non suis ».
 
 [3] 315 In cladem Phrygii, sua quem Uenus eripit hosti
 
@@ -3563,15 +3564,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 316 et secum in thalamos defert testudine cultos.
 
 [2] 316 Et secum in thalamos defert testudine cultos :
-- … Barthius ex hoc loco observat, scriptorem nostrum non solere, quod alii poetae faciant, ob sequentes literas sc vel st syllabam praecedentem longam facere, affertque aliud exemplum e Nostro, vs. 791, Promachum quoque sternit atrocem. Ego vero fieri hoc rarissime a bonis poetis arbitror, nisi media in voce. Exemplum habes Virg. Aen. VI, 687, ubi tamen et variat lectio. … propter consuetam Nostro imitationem Nasonis, qui Met. II, 737: « Pars secreta domus ebore et testudine cultos Tres habuit thalamos ». Caeterum thalamos testudineos dixit Noster non ad mentem Homeri, et morem aevi heroici, sed luxuriae recentioris. Neque in hoc Homeri loco, III, 390, ubi et thalami memoratur, nulla indicatur materia. At Plinius, lib. IX, sect. 13, memorat, « testudinum putamina secare in laminas, lectosque et repositoria his vestire » primum a Cornelio Pollione Romae institutum, qui circa Syllana tempora vixit. Ante haec tempora, ut cum Juvenale, XI, 93, loquar, « Nemo inter curas et seria duxit habendum, Qualis in Oceani fluctu testudo na-
-- **(cont.)** taret, Clarum Trojugenis factura ac nobile fulcrum ». Virgil. dicit varios pulchra testudine postes Georg. II, 453. — Testudineum lectum vidimus huj. op. tomo II, pag. 460, cui loco addi potest Martial. XII, 66: « Gemmantes prima fulgent testudine lecti ». Ed.
+- … Barth observes from this passage that our writer is not accustomed, as other poets do, to lengthen a preceding syllable on account of the following letters *sc* or *st*, and adduces another example from our author, v. 791: *Promachum quoque sternit atrocem*. But I consider that this is done very rarely by good poets, except in the middle of a word. You have an example in Virg. Aen. VI, 687, where however the reading also varies. … on account of our author's customary imitation of Ovid, who says in Met. II, 737: « Pars secreta domus ebore et testudine cultos Tres habuit thalamos ». Moreover, our author spoke of tortoise-shell bedchambers (*thalamos testudineos*) not according to the mind of Homer and the custom of the heroic age, but according to more recent luxury. Nor in this passage of Homer, III, 390, where the bedchamber is also mentioned, is any material indicated. But Pliny, book IX, sect. 13, records that « cutting the shells of tortoises into veneers, and overlaying couches and cabinets with them » was first introduced at Rome by Cornelius Pollio, who lived around the times of Sulla. Before these times, to speak with Juvenal, XI, 93: « Nemo inter curas et seria duxit habendum, Qualis in Oceani fluctu testudo na-
+- **(cont.)** (cont.) [-taret, Clarum Trojugenis factura ac nobile fulcrum ».] Virgil says *varios pulchra testudine postes* [doorposts adorned with beautiful tortoise-shell], Georg. II, 463. — We have seen the tortoise-shell couch (*testudineum lectum*) in vol. II, p. 460 of this work, to which passage Martial, XII, 66 [67], can be added: « Gemmantes prima fulgent testudine lecti ». Ed.
 
 [3] 316 Et secum in thalamos defert testudine cultos.
 
 [4] 316 Ac secum in thalamos defert testudine cultos.
 
 [6] 316 et secum in thalamos defert testudine cultos.
-- … cultos … cf. Ov. met. 2, 737
+- … cultos … cf. Ovid, Met. 2, 737
 
 317 Ipsa dehinc Helenam muris accersit ab altis
 
@@ -3618,7 +3619,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 321 coniugis antiqui? Vidi puduitque uidere,
 
 [2] 321 Conjugis antiqui : vidi, puduilque videre,
-- Vidi puduitque videre. Et hoc hemistichium Bondamius, p. 154, monet esse Ovidii, Met. XIII, 223, ubi Ulysses ad Ajacem: « Vidi, puduitque videre, Quum tu terga dares ». Et hunc librum, quo contentio Ulyssis et Ajacis de armis Achillis, et praecipuae res bello Trojano gestae, summatim exponuntur, inprimis respexisse auctorem nostrum in scribenda Epitome, plurimasque inde sententias mutuatum esse, facile videbit, qui diligentius ista excutiet et comparabit.
+- *Vidi puduitque videre* [I saw, and was ashamed to see]. Bondam, p. 154, also points out that this half-verse is from Ovid, Met. XIII, 223, where Ulysses says to Ajax: « Vidi, puduitque videre, Quum tu terga dares ». And anyone who examines and compares these things more carefully will easily see that our author, in writing the *Epitome*, especially looked to this book—in which the contest of Ulysses and Ajax over the arms of Achilles and the principal events of the Trojan War are summarily set forth—and borrowed very many expressions from it.
 
 [3] 321 Coniugis antiqui? uidi puduitque uidere,
 
@@ -3639,7 +3640,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 323 Iliacoque tuos foedaret puluere crines.
 
 [2] 323 Iliacoque tuos foedaret pulvere crines :
-- Pulvere crines. Virg. Aeneid. XII, 99; Ovid. Metam. VIII, 529.
+- *Pulvere crines* [Hair with dust]. Virg. Aeneid XII, 99; Ovid, Metam. VIII, 529.
 
 [3] 323 Iliacoque tuos foedaret puluere crines.
 
@@ -3660,7 +3661,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 325 oscula discuteret; totus mihi, mente reuincta,
 
 [2] 325 Oscula discuteret : totus mihi mente relicta
-- Discuteret, uti « consilia hostium discutere » Frontin. IV, 7, 31; et « discutere dolos » Sil. Ital. VII, 153, e correctione Drakenborchii, dixit. …
+- *Discuteret* [Should dispel / shatter], just as Frontinus, IV, 7, 31, said « consilia hostium discutere » [to shatter the plans of the enemy]; and Silius Italicus, VII, 153, from the correction of Drakenborch, said « discutere dolos » [to shatter stratagems]. …
 
 [3] 325 Oscula dissiceret; toto mihi mente reuincta
 
@@ -3671,7 +3672,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 326 fugerat ore color sanguisque reliquerat artus.
 
 [2] 326 Fugerat ore coior, sanguisque reliquerat artus.
-- Fugerat ore color. Et hoc hemistichium Ovidii, Her. XI, 27. …
+- *Fugerat ore color* [Color had fled from her face]. This half-verse is also from Ovid, Her. XI, 27. …
 
 [3] 326 Fugerat ore color, sanguisque reliquerat artus.
 
@@ -3692,7 +3693,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 328 An nondum uaga fama tuas peruenit ad aures
 
 [2] 328 An nondum vaga fama tuas pervenit ad aures
-- … — Pervenit ad aures. Sic Ovidius, Met. V, 256: « Fama novi fontis nostras pervenit ad aures »; et Virg. Aen. II, 81, « Fando aliquid, si forte tuas pervenit ad aures ». Ed.
+- … — *Pervenit ad aures* [Reached the ears]. So Ovid, Met. V, 256: « Fama novi fontis nostras pervenit ad aures »; and Virg. Aen. II, 81: « Fando aliquid, si forte tuas pervenit ad aures ». Ed.
 
 [3] 328 An nondum uaga fama tuas peruenit ad aures
 
@@ -3774,7 +3775,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 336 Post haec amplexus per mutua corpora iunctis
 
 [2] 336 Post haec ampiexu per mutua corpora juncto
-- … Non est dubium, scriptorem his versibus respexisse notum locum Maronis, Aeneid. VIII, 405: « Optatos dedit amplexus, placidumque petivit Conjugis infusus gremio per membra soporem ».
+- … There is no doubt that in these verses the writer looked to the well-known passage of Maro, *Aeneid* VIII, 405: « Optatos dedit amplexus, placidumque petivit Conjugis infusus gremio per membra soporem ».
 
 [3] 336 Post haec amplexu per mutua corpora iuncto
 
@@ -3786,7 +3787,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 337 incubuit membris Cygneidos; illa soluto
 
 [2] 337 Incubuit membris Cygneidos; illa soluto
-- … Cygneis autem Helena nuncupatur, quod filia Jovis in cygnum conversi credebatur: illud nomen nescio, an alius poeta usurpaverit, quamquam « cygneo edita Tyndaris ovo » dicitur a Virg. Eleg. ad Messal. 27, et ipsa Helena apud Ovid. Her. XVII, 55: « Dat mihi Leda Jovem, cygno decepta, parentem ».
+- … Now Helen is called *Cygneis* because she was believed to be the daughter of Jove transformed into a swan; I do not know whether any other poet has used that name, although the Tyndarid [Helen] is called « cygneo edita Tyndaris ovo » by Virgil, *Eleg. ad Messal.* 27, and Helen herself says in Ovid, *Her.* XVII, 55: « Dat mihi Leda Jovem, cygno decepta, parentem ».
 
 [3] 337 Incubuit membris Cygneidos; illa soluto
 
@@ -3797,7 +3798,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 338 accepit flammas gremio Troiaeque suasque.
 
 [2] 338 Accepit flammas gremio Trojaeque, suasque.
-- Flammas Trojaeque suasque. Acute de Paride, cujus amor in Helenam exitium Trojae futurus erat. Videtur et hoc dictum eo loco epistolae Paridis apud Ovidium niti, Heroid. XVI, 45 seq. quo Paris somnium matris suae, quae ante diem partus visa erat facem ardentem parere, de ardore animi sui Trojae exitioso interpretatur: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei ».
+- *Flammas Trojaeque suasque* [Both Troy's flames and his own]. Witty regarding Paris, whose love for Helen was destined to be the ruin of Troy. This expression also seems to rely on that passage of Paris's letter in Ovid, *Heroides* XVI, 45 sq., where Paris interprets the dream of his mother—who before the day of giving birth had seemed to bring forth a burning torch—as referring to the ardour of his own passion that was fatal to Troy: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei ».
 
 [3] 338 Accepit flammas gremio Troiaeque suasque.
 
@@ -3863,8 +3864,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 344 Dumque inter sese proceres certamen haberent,
 
 [2] 344 IV. Quumque inter sese proceres certamen haberent ,
-- Certamen haberent. Phrasis
-- **(cont.)** non satis digna poetico stylo videtur, et quae sequente versu occurrit, concilium habuit, insuavis repetitio est. Nec ista satis defendi videtur versu Nasonis, Met. XIII, 159: « Ergo operum quoniam nudum certamen habetur ».
+- *Certamen haberent* [should hold a contest]. The phrase
+- **(cont.)** [The phrase] does not seem worthy enough of poetic style, and what occurs in the following verse, *concilium habuit* [held a council], is an unpleasant repetition. Nor does it seem sufficiently defended by the verse of Naso [Ovid], *Met.* XIII, 159: « Ergo operum quoniam nudum certamen habetur ».
 
 [3] 344 Cumque inter sese proceres certamen haberent,
 
@@ -3886,7 +3887,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 346 foederaque intento turbauit Pandarus arcu,
 
 [2] 346 Foedcraque intento turbavit Pandarus arcu,
-- … exhibet. Virgilius verbo confundere usus est, Homericum συγχέειν aptius exprimens, Aen. V, 496: « Pandare, qui quondam jussus confundere foedus, In medios telum torsisti primus Achivos ».
+- … Virgil used the verb *confundere*, expressing the Homeric συγχέειν more suitably, *Aen.* V, 496: « Pandare, qui quondam jussus confundere foedus, In medios telum torsisti primus Achivos ».
 
 [3] 346 Foederaque intento turbauit Pandarus arcu,
 
@@ -3898,7 +3899,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 347 te, Menelae, petens; laterique uolatile telum
 
 [2] 347 Te, Menelae, petens, laterique volatile telum
-- Volatile telum ex Virg. Aen. IV, 71, et Ovid. Metam. VII, 841. …
+- *Volatile telum* [winged missile] from Virg. *Aen.* IV, 71, and Ovid, *Metam.* VII, 841. …
 
 [3] 347 Te, Menelae, petens; laterique uolatile telum
 
@@ -3920,7 +3921,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 349 dissecat. Excedit pugna gemebundus Atrides
 
 [2] 349 Dissecat : excedit bello gemebundus Atrides,
-- … Verbum dissecare hac in re minus usitatum aliis poetis, qui rumpere et lacerare solent adhibere. Vid. Virg. Aeneid. XII, 98; Ovid. Met. XII, 117.
+- … The verb *dissecare* in this connection is less commonly used by other poets, who are accustomed to employ *rumpere* and *lacerare*. See Virg. *Aeneid* XII, 98; Ovid, *Met.* XII, 117.
 
 [3] 349 Dissecat: excedit pugna tremebundus Atrides
 
@@ -3942,7 +3943,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 351 Paeoniis curat iuuenis Podalirius herbis,
 
 [2] 351 Paeoniis curat juvenis Podalirius herbis,
-- … — Paeoniis herbis ex Virgilii Aen. VII, 769. Podalirium hic nominat Noster curantem vulnus Menelai, sed Homerus Machaonem, IV, 193. — Podalirii mentio supra videatur, v. 217. Ed.
+- … — *Paeoniis herbis* [with Paeonian herbs] is from Virgil, *Aen.* VII, 769. Our author here names Podalirius as treating the wound of Menelaus, but Homer names Machaon, IV, 193. — See the mention of Podalirius above, v. 217. Ed.
 
 [3] 351 Paeoniis curat iuuenis Podalirius herbis;
 
@@ -3954,7 +3955,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 352 itque iterum in caedes horrendaque proelia uictor.
 
 [2] 352 Atque iterum in caedes horrendaque praelia niittit.
-- Atque iterum in caedes ..... mittit. Virg. de Aenea, post sanatum ejus vulnus, Aen. XII, 429: « atque opera ad majora remittit ». …
+- *Atque iterum in caedes ..... mittit* [And again sends ... into slaughter]. Virgil of Aeneas, after his wound was healed, *Aen.* XII, 429: « atque opera ad majora remittit ». …
 
 [3] 352 Atque iterum in caedes horrendaque praelia uisit.
 
@@ -3977,7 +3978,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 354 et dolor in pugnam cunctos communis agebat.
 
 [2] 354 Et dolor in pugnam cunctos comnuinis agebat.
-- Et dolor in pugnam. Sic Virg. Aen. VIII, 500: « quos justus in hostem Fert dolor, et merita incendit Mezentius ira ».
+- *Et dolor in pugnam* [And grief (drives them) into battle]. So Virg. *Aen.* VIII, 500: « quos justus in hostem Fert dolor, et merita incendit Mezentius ira ».
 
 [3] 354 Et dolor in pugnam cunctos communis agebat.
 
@@ -3990,18 +3991,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 355 Bellum ingens oritur, multumque Utrimque cmoris
 
 [3] 355 Bellum ingens oritur, multumque utrimque cruoris
-- **355 sq.** habent Gesta Bereng. II 180 sq.
+- **355 sq.** Gesta Berengarii II 180 sq. has them
 
 [4] 355 Bellum mgons oritur, multumque utrimque' cruoris
 
 [6] 355 bellum ingens oritur multumque utrimque cruoris
 - *Iliad* 4.446
-- **355/6** (testimonia) = Gesta Ber. 2, 180/1 (multum hinc illincque)
+- **355/6** (testimonia) = *Gesta Ber.* 2, 180/1 (*multum hinc illincque*)
 
 356 funditur et totis sternuntur corpora campis
 
 [2] 356 Funditur, et totis stemuntur corpora campis,
-- Sternuntur corpora campis. Virg. Aen. II, 364: « Plurima perque vias sternuntur inertia passim Corpora ».
+- *Sternuntur corpora campis* [Bodies are laid low across the plains]. Virg. *Aen.* II, 364: « Plurima perque vias sternuntur inertia passim Corpora ».
 
 [3] 356 Funditur et totis sternuntur corpora campis;
 
@@ -4033,7 +4034,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 359 telorumque uolant cunctis e partibus imbres.
 
 [2] 359 Telorumque volat cunctis de partibus imber.
-- … Virg. Aen. XII, 283: « it toto turbida caelo Tempestas telorum, ac ferreus ingruit imber ». — Reciproca metaphora pharetratos imbres seu nubes dixit Avianus, fab. XLI, v. 16. Conf. Nostri v. 746. Ed.
+- … Virg. *Aen.* XII, 283: « it toto turbida caelo Tempestas telorum, ac ferreus ingruit imber ». — By an inverse metaphor, Avianus spoke of *pharetratos imbres seu nubes* [quivered showers or clouds], *fab.* XLI, v. 16. Cf. our author, v. 746. Ed.
 
 [3] 359 Telorumque uolant cunctis e partibus imbres.
 
@@ -4044,7 +4045,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 360 Occidit Antilochi rigido demersus in umbras
 
 [2] 360 Occidit Antilochi rigido demissus ad umbras
-- … Caeterum Antilochus vitiosum sit necesse est, quia e Graecis Antilochus, et hoc loco de Trojanorum caede sermo est. Recte igitur censuit Bondamius, pag. 154 emendans: « Occidit Antilochi rigido demersus in umbra Ense Thalysiades »; nempe Echepolus, ex Homeri Iliad. IV, 458. Idque confirmat cod. H. qui scribit Ense Thalacides. G. 2 Chalestiades.
+- … Furthermore, *Antilochus* must necessarily be corrupt, because Antilochus is one of the Greeks, and in this passage the slaughter of Trojans is being discussed. Correctly therefore did Bondam judge, emending on p. 154: « Occidit Antilochi rigido demersus in umbra Ense Thalysiades »; namely Echepolus, from Homer's *Iliad* IV, 458. And this is confirmed by codex H., which writes *Ense Thalacides*. G. 2 has *Chalestiades*.
 
 [3] 360 Occidit Antilochi rigido demersus ad umbras
 
@@ -4060,7 +4061,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 361 Ense Thalysiades optataque lumina linquit.
 
 [4] 361 Ense Thalysiades optataque lumina linquit.
-- Thalysiades … (Iliad. IV, 458).
+- Thalysiades … (Iliad IV, 458).
 
 [6] 361 ense Thalysiades optataque lumina linquit.
 
@@ -4078,7 +4079,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 363 occupat Anthemione satum Telamonius Aiax
 
 [2] 363 Occupat Anthemione satum Telamonius Ajax ,
-- … ex Il. IV, 473, correxit Anthemione satum.
+- … Bondam corrected from *Il.* IV, 473, to *Anthemione satum* [sprung from Anthemion].
 
 [3] 363 Occupat Anthemione satum Telamonius Aiax
 
@@ -4090,7 +4091,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 364 et praedurato transfixit pectora telo:
 
 [2] 364 Et praedurato transfigit pectora telo.
-- … quum praesertim Homerus hoc dicat, IV, 480. … De praedurato telo nihil Homerus, sed adlusit forte auctor ad illud Virgilianum, Aeneid. VII, 524: « Stipitibus duris agitur sudibusve praeustis ». Ovid. Met. XII, 299, « sude figit obusta ».
+- … especially since Homer says this, IV, 480. … Homer says nothing of a hardened weapon (*praedurato telo*), but the author perhaps alluded to that Virgilian phrase, *Aeneid* VII, 524: « Stipitibus duris agitur sudibusve praeustis ». Ovid, *Met.* XII, 299: « sude figit obusta ».
 
 [3] 364 Et praedurato transfixit pectora telo:
 
@@ -4101,7 +4102,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 365 purpuream uomit ille animam cum sanguine mixtam,
 
 [2] 365 Purpuream vomit ille animam cum sanguine mixtam,
-- Purpuream vomit, etc. Versus Virgil. Aen. IX, 349. — Et in Anth. Lat. Burm. t. I, p. 45, Epith. Incertae, v. 8: « Nunc animam quoque tu purpuream vomeres ». Ed.
+- *Purpuream vomit*, etc. [Vomits purple (life)]. The verse is Virgil, *Aen.* IX, 349. — And in Anth. Lat. Burm. vol. I, p. 45, Epith. Incertae, v. 8: « Nunc animam quoque tu purpuream vomeres ». Ed.
 
 [3] 365 Purpuream uomit ille animam, cum sanguine misso
 
@@ -4109,7 +4110,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 365 purpureo vomit ille animam cum sanguine mixtam,
 - *Iliad* —
-- … cf Verg. Aen. 9, 349
+- … cf. Virgil, Aen. 9, 349
 
 366 ora rigat moriens. Tum magnis Antiphus hastam
 
@@ -4125,15 +4126,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 367 uiribus aduersum conatus corpore toto
 
 [2] 367 Viribus adversum, conatus corpore toto,
-- … — Viribus autem pertinet ad maximus. Sic loquitur Ovid. Met. XII, 116: « hastam Misit in adversum Lycia de plebe Menoeten ». …
+- … — Moreover, *Viribus* belongs with *maximus*. Thus Ovid speaks, *Met.* XII, 116: « hastam Misit in adversum Lycia de plebe Menoeten ». …
 
 [3] 367 Uiribus aduersum conisus corpore toto
 
 [4] 367 Viribus adversum conisus corpore toto
-- conisus … ex Aen. V, 642 et X, 127.
+- conisus … from Aen. V, 642 and X, 127.
 
 [6] 367 viribus adversum conatus corpore toto
-- … conatus … (cf. v. 462 et Ov. met. 8, 366) …
+- … conatus … (cf. v. 462 and Ovid, Met. 8, 366) …
 
 368 torquet in Aeaciden; telumque errauit ab hoste
 
@@ -4148,7 +4149,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 369 inque hostem cecidit, transfixit et inguina Leucon:
 
 [2] 369 Inque liostem cecidit; nam flxit in inguine Leucon.
-- … Nam de quo hic sermo est, apud Homerum IV, 491, Leucos dicitur, non Leucon.
+- … For the man who is spoken of here is called Leucos in Homer, IV, 491, not Leucon.
 
 [3] 369 Inque hostem cecidit transfixitque inguine Leucon:
 
@@ -4169,24 +4170,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 371 et carpit uirides moribundus dentibus herbas.
 
 [2] 371 Et carpit virides moribundus dentibus berbas.
-- Et carpit virides moribundus. Hic insolitam phrasim reperio de caesis et moribundis in terram procidentibus. Homerica formula est ὀδὰξ ἑλεῖν οὖδας (vid. Il. II, 418; XI, 748), quam Latini poetae, veteres quidem, ita imitantur, ut dicant mordere et mandere humum, vel petere, adpetere ore, morsu, terram. Virg. Aen. XI, 418: « Procubuit moriens et humum semel ore momordit »; et ibid. vs. 669: « cruentam Mandit humum, moriensque suo se in vulnere versat ». Sil. Ital. IX, 383: « Volvitur ille ruens, atque arva hostilia morsu Adpetit ». Sed, qui pro mordere vel mandere humum eo sensu dixerit carpere dentibus herbas, quod de pecudum pastu a poetis adhibetur, adhuc quidem neminem inveni. Similem tamen versum Diomedes Grammat. lib. I, p. 336, e Cn. Matii XX Iliados adfert: « Ille hietans herbam moribundo tenuit ore ».
+- *Et carpit virides moribundus* [And dying he grazes the green (grasses)]. Here I find an unusual phrase for the slain and dying who fall forward to the earth. The Homeric formula is ὀδὰξ ἑλεῖν οὖδας (see *Il.* II, 418; XI, 748), which the Latin poets, at least the ancients, imitate by saying *mordere* and *mandere humum* [bite and chew the earth], or *petere, adpetere ore, morsu, terram* [strike the earth with mouth or bite]. Virg. *Aen.* XI, 418: « Procubuit moriens et humum semel ore momordit »; and ibid. v. 669: « cruentam Mandit humum, moriensque suo se in vulnere versat ». Sil. Ital. IX, 383: « Volvitur ille ruens, atque arva hostilia morsu Adpetit ». But as for anyone who, in that sense, said *carpere dentibus herbas* [to pluck the grasses with teeth] instead of *mordere* or *mandere humum*—which is used by poets of the grazing of cattle—I have indeed hitherto found no one. Yet a similar verse is cited by the grammarian Diomedes, book I, p. 336, from Book XX of Cn. Matius's *Iliad*: « Ille hietans herbam moribundo tenuit ore ».
 
 [3] 371 Et carpit uirides moribundus dentibus herbas.
-- cf. Gesta Ber. II 213 …
+- cf. Gesta Berengarii II 213 …
 
 [4] 371 Et carpit virides moribundis dcntibus lierbas.
 
 [6] 371 et carpit virides moribundus dentibus herbas.
 - *Iliad* —
-- (testimonia) fere = Gesta Ber. 2, 213
+- (testimonia) nearly = *Gesta Ber.* 2, 213
 
 372 Impiger Atrides casu commotus amici
 
 [2] 372 linpiger Atrides casu commotus amici
-- **372–373** … est. Qui hic casu amici, nempe Leuci, commotus dicitur, apud Homerum non Atrides, sed Ulysses est. Ibi Leucus dicitur Ὀδυσσέος ἐσθλὸς ἑταῖρος, Il. IV, 491, atque Ulysses ob hunc interfectum valde iratus, in aciem processisse, et Democoonta, sibi obvium, percussisse. … — Teloque trabali, i. e. hasta magna. Virg. Aen. XII, 294.
+- **372–373** … The one who is said here to be moved by the fall of his friend, namely Leucos, in Homer is not Atrides, but Ulysses. There Leucos is called Ὀδυσσέος ἐσθλὸς ἑταῖρος, *Il.* IV, 491, and Ulysses, greatly angered at his slaying, advanced into the battle-line and struck Democoon, who confronted him. … — *Teloque trabali*, that is, with a great spear. Virg. *Aen.* XII, 294.
 
 [3] 372 Impiger Atrides casu commotus amici
-- Atridae loco cum Vlixem nominet Homerus, …
+- Since Homer names Ulysses in place of the son of Atreus, …
 
 [4] 372 Impiger Atrides casu commotus amici
 
@@ -4199,7 +4200,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 373 Democoonta petit teloque aduersa trabali
 
 [4] 373 Democoonta petit teloque adversa trabali
-- Democoonta … (Iliad. IV, 499).
+- Democoonta … (Iliad IV, 499).
 
 [6] 373 Democoonta petit teloque adversa trabali
 - *Iliad* 4.499
@@ -4207,7 +4208,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 374 tempora transadigit uaginaque horridus ensem
 
 [2] 374 Tempora transadigit, vaginaque horridus ensem
-- … — Vagina ensem eripit est dictio Virgiliana, Aen. IV, 579, sed huic loco parum apta; nam nulla alia pugna paratur.
+- … — *Vagina ensem eripit* [draws the sword from its sheath] is a Virgilian phrase, *Aen.* IV, 579, but hardly suitable for this place; for no other fight is being prepared.
 
 [3] 374 Tempora transadigit uaginaque horridus ensem
 
@@ -4228,25 +4229,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 376 concidit et terram moribundo uertice pulsat.
 
 [2] 376 Occidit, et terram moribundus vertice pulsat.
-- … quia Ovidium expressisse videtur, qui Met. V, 84: « Et resupinus humum moribundo vertice pulsat »; et ibidem, XII, 118: « Quo plangente gravem moribundo vertice terram ».
+- … because he seems to have expressed Ovid, who in *Met.* V, 84 says: « Et resupinus humum moribundo vertice pulsat »; and in the same work, XII, 118: « Quo plangente gravem moribundo vertice terram ».
 
 [3] 376 Concidit et terram moribundo uertice pulsat.
 
 [4] 376 Concidit et terram moribundo vertice pulsat.
-- … moribundo … (cf. Metam. V, 83 et XII, 118).
+- … moribundo … (cf. Metam. V, 83 and XII, 118).
 
 [6] 376 concidit et terram moribundo vertice pulsat.
-- moribundo … cf. Ov. met. 5, 84
+- moribundo … cf. Ovid, Met. 5, 84
 
 377 Iamque Amarynciden saxi deiecerat ictu
 
 [2] 377 Jamque A.marynciden saxi dejecerat ictu
-- … Sed si seriem narrationis apud Homerum, IV, 517, conferimus, hoc loco Amaryncidem Diorem saxo percussit Pirus Imbrasides, et de hoc loqui Nostrum, residuum nomen Umbrasides, vero prorsus simile, declarat. …
+- … But if we compare the narrative sequence in Homer, IV, 517, in this place Peiros, son of Imbrasus, struck Diores, son of Amarynceus, with a stone, and the surviving name *Umbrasides*, thoroughly like the truth, shows that our author is speaking of him. …
 
 [3] 377 Iamque Amarynciden saxi deiecerat ictu
 
 [4] 377 Jamque Amarynciden saxi dejecerat ictu
-- Jamque Amarynciden … (Iliad. IV, 517).
+- Jamque Amarynciden … (Iliad IV, 517).
 
 [6] 377 iamque Amarynciden saxi deiecerat ictu
 - *Iliad* 4.517
@@ -4286,8 +4287,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 381 perque uiri scapulas animosaque pectora transit;
 
 [2] 381 Perque viri scapulas annosaque pectora transit.
-- … Scapulas vocabulum, quo Noster saepius utitur, nemo heroicorum poetarum, quantum opinor, usurpavit; puto, quia vulgare id et plebeium haberetur, quando quidem etiam apud Comicos inprimis reperitur. Noster eam rationem aut neglexit sciens,
-- **(cont.)** aut ignoravit. — Usurpavit tamen Ovidius in materia tenui proprie eam partem corporis designans, Art. Am. III, 273: « Conveniunt tenues scapulis analectides altis ». Et hoc verbo Claudian. usus est. Ed.
+- … As for the word *scapulas*, which our author uses rather often, no epic poet, so far as I know, has used it; I think because it was considered vulgar and plebeian, since it is especially found among the Comic writers. Our author either knowingly neglected that consideration,
+- **(cont.)** [either knowingly neglected that consideration,] or did not know it. — Ovid, however, used it in a lighter subject to designate properly that part of the body, *Art. Am.* III, 273: « Conveniunt tenues scapulis analectides altis ». And Claudian also used this word. Ed.
 
 [3] 381 Perque uiri scapulas annosaque pectora transit.
 
@@ -4308,7 +4309,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 383 ore uomit stratusque super sua palpitat arma.
 
 [2] 383 Ore vomit, stratusque supersua palpitat arma.
-- Stratusque super sua palpitat arma. Tale est Virgilii, Aen. X, 488: « Corruit in vulnus: sonitum super arma dedere ».
+- *Stratusque super sua palpitat arma* [And stretched out he throbs upon his arms]. Comparable is Virgil, *Aen.* X, 488: « Corruit in vulnus: sonitum super arma dedere ».
 
 [3] 383 Ore uomit stratusque super sua palpitat arma.
 
@@ -4382,7 +4383,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 390 agmina Tydides tumidumque increscere Martem,
 
 [2] 390 Agmina Tydides, tumidumque increscere Martem,
-- Tumidumque increscere Martem: formatum fortasse ex hoc Maronis, Aen. IX, 687: « Tum magis increscunt animis discordibus irae ».
+- *Tumidumque increscere Martem* [And that swelling war was growing]: perhaps modeled on this passage of Maro, *Aen.* IX, 687: « Tum magis increscunt animis discordibus irae ».
 
 [3] 390 Agmina Tydides tumidumque increscere Martem,
 
@@ -4423,7 +4424,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 394 Bellica Pallas adest flagrantiaque ignibus arma
 
 [2] 394 Bellica Pallas adest, flagrantiaque ignibus arma
-- Bellica Pallas adest. Haec sumpta ex Ovidio, Met. V, 47: « Bellica Pallas adest, et protegit aegide fratrem, Datque animos ». — Flagrantia ignibus arma dat Diomedi ex Homero, V, 4, qui Palladem dicit ignem assiduum in ejus galea et clypeo radiare fecisse: Δαῖέ οἱ ἐκ κόρυθός τε καὶ ἀσπίδος ἀκάματον πῦρ. Et inf. v. 467, Noster de Diomede: flagrantibus irruit armis.
+- *Bellica Pallas adest* [Warlike Pallas is at hand]. These words are taken from Ovid, *Met.* V, 47: « Bellica Pallas adest, et protegit aegide fratrem, Datque animos ». — He gives *flagrantia ignibus arma* [arms blazing with fires] to Diomedes after Homer, V, 4, who says that Pallas caused an unwearied fire to radiate from his helmet and shield: Δαῖέ οἱ ἐκ κόρυθός τε καὶ ἀσπίδος ἀκάματον πῦρ. And below, v. 467, our author says of Diomedes: *flagrantibus irruit armis*.
 
 [3] 394 Bellica Pallas adest flagrantiaque ignibus arma
 
@@ -4445,8 +4446,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 396 Ille, boum ueluti uiso grege saeua leaena,
 
 [2] 396 lile, boum veiuti viso grege saeva leasna,
-- Saeva leaena. Comparationem leonis in greges irruentis saepius usurpat Virgilius, ut Aen. IX, 339 seq. et X, 723 seqq. Homerus quidem Diomedis impetum fluvio tor-
-- **(cont.)** renti, pontes et septa et segetes dissipanti, adsimilat, sed Noster saepius Homeri exemplar deserit, et, ubicumque occasio est, mavult copiis a Virgilio et Ovidio suppeditatis uti.
+- *Saeva leaena* [Fierce lioness]. Virgil rather frequently uses the comparison of a lion rushing upon flocks, as in *Aen.* IX, 339 sq. and X, 723 sqq. Homer indeed compares the onset of Diomedes to a tor-
+- **(cont.)** [-rent, sweeping away bridges, fences, and crops], but our author more often abandons Homer's model and, wherever there is an opportunity, prefers to use the resources supplied by Virgil and Ovid.
 
 [3] 396 Atque boum ueluti uiso grege saeua leaena,
 
@@ -4488,7 +4489,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 400 uirginis armigerae monitis et numine tutus.
 
 [2] 400 Virginis armigerse monitis et numine tutus.
-- Virginis armigerae, Palladis. … Armipotens a Virgilio, Aen. II, 425, et XII, 483.
+- *Virginis armigerae* [Of the armor-bearing maiden]: Pallas. … She is called *armipotens* [mighty in arms] by Virgil, *Aen.* II, 425, and XII, 483.
 
 [3] 400 Virginis armigerae monitis et numine tutus.
 
@@ -4509,7 +4510,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 402 instat et exstructos morientum calcat aceruos.
 
 [2] 402 Instat, et exstructos morientum calcat acervos.
-- … mutuatumque a Nasone adparet ex Met. V, 88: « Sternit, et exstructos morientum calcat acervos »; …
+- … and that it was borrowed from Naso [Ovid] is apparent from *Met.* V, 88: « Sternit, et exstructos morientum calcat acervos »; …
 
 [3] 402 Instat et exstructos morientum calcat aceruos.
 
@@ -4520,7 +4521,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 403 Dumque ferit sternitque uiros, uidet ecce Daretis
 
 [2] 403 Dumque furit stemitque viros, videt ecce Daretis
-- … immo furit eo melius est, quod quasi proprium illud de Diomede usurpat Hor. Carm. I, 15, 27: « Ecce furit te reperire atrox Tydides, melior patre ». … Daretis legendum esse, quem Phegei et Idaei patrem nominat Homerus, V, 10, …
+- … on the contrary, *furit* is all the better because Horace employs it as if characteristic of Diomedes, *Carm.* I, 15, 27: « Ecce furit te reperire atrox Tydides, melior patre ». … *Daretis* [of Dares], whom Homer names as the father of Phegeus and Idaeus, V, 10; …
 
 [3] 403 Dumque furit sternitque uiros, uidet ecce Daretis
 
@@ -4545,7 +4546,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
 
 [4] 405 Phegeaqueldaeumque simul; quem cuspide Phegeus
-- Phegeaque … (Iliad. V, 9 sqq.). …
+- Phegeaque … (Iliad V, 9 ff.). …
 
 [6] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
 - *Iliad* 5.11
@@ -4563,7 +4564,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 407 uitatumque solo ferrum stetit. Haud mora: totis
 
 [2] 407 Vibratumque solo ferrum stetit : haud mora , totis
-- … — Stetit e Virgil. Aen. II, 52, de hasta Laocoontis, « stetit illa tremens ». Ed.
+- … — *Stetit* [stood] is from Virgil, *Aen.* II, 52, on the spear of Laocoon: « stetit illa tremens ». Ed.
 
 [3] 407 Uitatumque solo ferrum stetit: haut mora, totis
 
@@ -4574,7 +4575,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 408 ingentem torquet Tydides uiribus hastam
 
 [2] 408 Ingentem torquet Tydides viribus hastam,
-- Ingentem torquet, etc. sunt ipsa verba Virgilii, Aeneidos loco citato.
+- *Ingentem torquet*, etc. [Hurls the huge (spear)], are the very words of Virgil in the cited passage of the *Aeneid*.
 
 [3] 408 Ingentem torquet Tydides uiribus hastam
 
@@ -4585,7 +4586,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 409 transadigitque uiri pectus: pars cuspidis ante
 
 [2] 409 Transadigitque viri pectus : pars cuspidis ante
-- … dedimus. Virg. Aen. IX, 544: « pectora duro Transfossi ligno ».
+- … we have given *Transadigit* [and drives through]. Virgil, *Aen.* IX, 544: « pectora duro Transfossi ligno ».
 
 [3] 409 Transadigitque uiri pectus; pars cuspidis ante
 
@@ -4596,7 +4597,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 410 eminet et prodit scapulis pars altera fossis.
 
 [2] 410 Eininet, et prodit scapulis pars altera fossis.
-- Eminet, et prodit, etc. Sic Ovid. Metam. IX, 127: « terga sagitta Trajicit: exstabat ferrum de pectore aduncum »; et lib. V, 138: « Torquet in hunc hastam, media quae nare recepta Cervice exacta est, in partesque eminet ambas ». Hoc sensu emissum telum quod per alterum latus exit, dicitur a Gratio in Halieut. v. 62. — Vid. hujus op. t. I, part. 1, pag. 224. Ed.
+- *Eminet, et prodit*, etc. [Stands out and comes forth]. Thus Ovid, *Metam.* IX, 127: « terga sagitta Trajicit: exstabat ferrum de pectore aduncum »; and book V, 138: « Torquet in hunc hastam, media quae nare recepta Cervice exacta est, in partesque eminet ambas ». In this sense, a discharged missile that exits through the other side is spoken of by Grattius in *Halieut.* v. 62. — See vol. I, part 1, page 224 of this work. Ed.
 
 [3] 410 Eminet, et prodit scapulis pars altera fossis.
 
@@ -4608,7 +4609,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 411 Hunc ubi fundentem calidum de pectore flumen
 
 [2] 411 Hunc ubi fundentem calidum de pectore flumen,
-- Calidum de pectore flumen. Virg. Aen. IX, 414: « Volvitur ille, vomens calidum de pectore flumen »; et lib. XI, 668: « Sanguinis ille vomens rivos cadit ».
+- *Calidum de pectore flumen* [A warm river from his chest]. Virg. *Aen.* IX, 414: « Volvitur ille, vomens calidum de pectore flumen »; and book XI, 668: « Sanguinis ille vomens rivos cadit ».
 
 [3] 411 Hunc ubi fundentem calidum de pectore flumen
 
@@ -4640,7 +4641,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 414 germanique cupit fatorum exsistere uindex.
 
 [2] 414 Germanique cupit fatorum exsistere vindex.
-- Cupit exsistere vindex. Haec phrasis Barthio barbarismum subolere videtur, Advers. LVIII, 14, et LIX, 1, p. 2770: et eodem modo verbo subsistere usos esse medii aevi scriptores, quodam loco Alboini presbyteri probat. Et sane languidum versum efficit ea dictio, qua prisci aevi poetae in universum abstinuisse videntur. Nec tamen propterea ad barbarismos referre velim, et fortan exsistere h. l. positum est pro exstare, eminere, conspicuum esse. De verbo subsistere certius est, id ad scholasticorum barbaram latinitatem pertinere. — Sed exsistere pro fieri vel esse videtur ab inferioris aetatis scriptoribus introductum. Nam sic Julius Exsuperantius: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno ». Et Lactantius Plac. in Argum. Metam. Ovid. lib. VI, fab. 3: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent ». Ed.
+- *Cupit exsistere vindex* [Desires to stand forth as an avenger]. This phrase seems to Barth to smack of barbarism, *Advers.* LVIII, 14, and LIX, 1, p. 2770; and he proves from a certain passage of Alboin the presbyter that medieval writers used the verb *subsistere* in the same way. And indeed that expression makes for a sluggish verse, from which poets of the ancient age seem universally to have refrained. Yet I would not on that account assign it to barbarisms, and perhaps *exsistere* in this passage is put for *exstare*, *eminere*, *conspicuum esse* [to stand out, to be prominent, to be conspicuous]. Concerning the verb *subsistere*, it is more certain that it belongs to the barbarous Latinity of the scholastics. — But *exsistere* in the sense of *fieri* [to become] or *esse* [to be] seems to have been introduced by writers of a lower age. For Julius Exsuperantius writes thus: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno ». And Lactantius Placidus in *Argum. Metam. Ovid.* lib. VI, fab. 3: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent ». Ed.
 
 [3] 414 Germanique cupit fatorum existere uindex.
 
@@ -4776,12 +4777,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 427 infelix Odius, quem uastae cuspidis ictu
 
 [2] 427 Infelix Hodius, quem vasto cuspidis ictu
-- … Hodius legendum ex Homero, Il. V, 39.
+- … we must read *Hodius* from Homer, *Il.* V, 39.
 
 [3] 427 Infelix Hodius, quem uastae cuspidis ictu
 
 [4] 427 Infelix Hodius, quem jactae cuspidis ictu
-- Hodius … (Iliad. V, 39). …
+- Hodius … (Iliad V, 39). …
 
 [6] 427 infelix Odius, quem vastae cuspidis ictu
 
@@ -4798,7 +4799,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 429 Hinc petit Idomeneus aduersa parte ruentem
 
 [2] 429 Hinc petit Idomeneus adversa parte ruentem
-- … Et hoc plenius exprimit versum Homeri, V, 43: Ἰδομενεὺς δ᾽ ἄρα Φαῖστον ἐνήρατο Μῄονος υἱόν. …
+- … And this expresses more fully the verse of Homer, V, 43: Ἰδομενεὺς δ᾽ ἄρα Φαῖστον ἐνήρατο Μῄονος υἱόν. …
 
 [3] 429 Hinc ferit Idomeneus aduersa parte ruentem
 
@@ -4814,19 +4815,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 430 Maeoniden Phaestum; cuius post funera Atrides
 
 [4] 430 Maeoniden Phaestum; cujus post funera laetus
-- Maeoniden Phaestum … (Iliad. V, 43). …
+- Maeoniden Phaestum … (Iliad V, 43). …
 
 [6] 430 Maeoniden Phaestum; cuius post funera laetus
 
 431 et Strophio genitum Stygias demittit ad umbras.
 
 [2] 431 Et Strophio genitum Stygias demittit ad umbras.
-- … — Similiter supra, v. 360, demissus ad umbras. Ed.
+- … — Similarly above, v. 360, *demissus ad umbras*. Ed.
 
 [3] 431 E Strophio genitum Stygias demittit ad umbras.
 
 [4] 431 E Strophio genitum Stygias demittit ad umbras.
-- … Strophio … (Iliad. V, 49).
+- … Strophio … (Iliad V, 49).
 
 [6] 431 et Strophio genitum Stygias demittit ad umbras.
 - *Iliad* 5.49
@@ -4838,7 +4839,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 432 Meriones Phereclum uibrata perculit hasta,
 
 [4] 432 Meriones Phereclum vibrata perculit hasta,
-- **432-433** Meriones Phereclum (Iliad. V, 59), vibrata perculit, Pedaeumque Meges (Iliad. V, 69), …
+- **432-433** Meriones Phereclum (Iliad V, 59), vibrata perculit, Pedaeumque Meges (Iliad V, 69), …
 
 [6] 432 Meriones Phereclum librata percutit hasta,
 - *Iliad* 5.59
@@ -4857,12 +4858,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 434 Eurypylus gladio uenientem Hypsenora fundit
 
 [2] 434 Eurypyius gladio venieutem Hypsenora fundit,
-- Hypsenora scripsi, monente etiam Bondamio, p. 158, ex Homeri Iliad. V, 76. …
+- I have written *Hypsenora*, as Bondam also advised, p. 158, from Homer's *Iliad* V, 76. …
 
 [3] 434 Eurypylus gladio metuentem Hypsenora fundit
 
 [4] 434 Eurypylus gladio venientem llypsenora fnndit
-- … Hypsenora … (Iliad. V, 76 sqq.).
+- … Hypsenora … (Iliad V, 76 ff.).
 
 [6] 434 Eurypylus gladio venientem Hypsenora fundit
 - *Iliad* 5.76
@@ -4952,12 +4953,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 443 fertur et Astynoum, magnum quoque Hypirona fundit,
 
 [2] 443 Fertur, et Astynoum magnumque Hypenora fundit,
-- … Etiam hunc versum cum quatuor sequentibus dedimus, prout eos cel. Bondamius, pag. 158 seq. ductu Homeri, Iliad. V, 144-160, sanitati restituit.
+- … This verse also, along with the four following, we have given just as the celebrated Bondam, pp. 158 ff., restored them to soundness under the guidance of Homer, *Iliad* V, 144–160.
 
 [3] 443 Fertur et Astynoum magnumque in Hypirona tendit:
 
 [4] 443 Fertur et Astynoum magnumque in Hypirona tendit :
-- Astynoum, Hypirona … (Iliad. V, 144). …
+- Astynoum, Hypirona … (Iliad V, 144). …
 
 [6] 443 fertur et Astynoum magnumque † Hyperona fundit:
 - *Iliad* 5.144
@@ -4979,7 +4980,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 445 Inde premit Polyidon Abantaque cuspide forti
 
 [4] 445 Inde premit Polyidon Abantaque cuspide forti
-- **445-446** Polyidon, Thoonem … (Iliad. V, 148, 152).
+- **445-446** Polyidon, Thoonem … (Iliad V, 148, 152).
 
 [6] 445 inde premit Polyïdon Abantaque cuspide forti
 - *Iliad* 5.148
@@ -5002,7 +5003,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 447 Post hos infestos Chromiumque et Echemona telo
 
 [4] 447 Post hos infestus Chromiumque et Echemona telo
-- … Chromium, Echemona … (Iliad. V, 159-160).
+- … Chromium, Echemona … (Iliad V, 159-160).
 
 [6] 447 post hos infestos Chromiumque et Echemmona telo
 - *Iliad* 5.160
@@ -5041,7 +5042,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 451 dextera qua naris fronti coniungitur imae;
 
 [2] 451 Dextera qua naris fronti conjungitur imae ,
-- Qua naris fronti conjungitur imae. Mutuatum hoc esse videtur ab Ovidio, Met. XII, 315: « inter duo lumina ferrum, Qua naris fronti committitur, accipit, imae ».
+- *Qua naris fronti conjungitur imae* [Where the nostril joins the lowest part of the forehead]. This seems to have been borrowed from Ovid, *Met.* XII, 315: « inter duo lumina ferrum, Qua naris fronti committitur, accipit, imae ».
 
 [3] 451 Dextera qua naris fronti coniungitur imae.
 
@@ -5093,7 +5094,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 456 undique rimabant inimico corpora ferro,
 
 [2] 456 Undique rimabant inimico pectora ferro,
-- … Hoc tamen verbum activa forma in nobiliore poeta reperiri vix puto. Sed indicium hoc est sequioris aevi, quo formae istae verborum dudum obsoletae revocari in usum solebant. — Exemplum aliud vidimus, contemplaverit, in fragmento Nemes. de aucupio, v. 3; hujus op. t. I, p. 182. Ed. — Caeterum verborum rimabant pectora ferro sensus est, speculabantur et tentabant, qua parte vel quo loco vulnus infligerent adversario; idque magis declarat versus 458, tum versu 593 eadem formula plenius repetitur. … Similiter Saleius Bassus in carm. ad Pisonem, v. 171: « Et nunc vivaci scrutaris pectora dextra, Nunc latus adversum nec opino percutis ictu ». — Luculentius hunc rimandi et observandi actum describere videtur sane Silius, XIII, 163: « At non idem animus Rutulo; spectatur, et omni Corpore perlustrat, qua sit certissima ferro In vulnus via, nunc vibrat, nunc comprimit hastam, etc. » Ed.
+- … Yet I hardly think this verb is found in the active voice in a nobler poet. But this is a mark of a later age, in which those verbal forms that had long been obsolete were accustomed to be recalled into use. — We have seen another example, *contemplaverit*, in the fragment of Nemesianus *De aucupio*, v. 3; vol. I, p. 182 of this work. Ed. — Moreover, the sense of the words *rimabant pectora ferro* [they probed their chests with the sword] is: they were watching and testing on what part or in what place they might inflict a wound on the adversary; and verse 458 makes this clearer, and then in verse 593 the same formula is repeated more fully. … Similarly Saleius Bassus in *Carm. ad Pisonem*, v. 171: « Et nunc vivaci scrutaris pectora dextra, Nunc latus adversum nec opino percutis ictu ». — Silius indeed seems to describe this act of probing and observing more brilliantly, XIII, 163: « At non idem animus Rutulo; spectatur, et omni Corpore perlustrat, qua sit certissima ferro In vulnus via, nunc vibrat, nunc comprimit hastam, etc. » Ed.
 
 [3] 456 Undique rimabant inimico corpora ferro
 
@@ -5149,14 +5150,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 461 bis seni quod uix iuuenes tellure mouerent,
 
 [2] 461 Bisseni quod vix juvenes tellure levarent,
-- … Caeterum et hanc ῥῆσιν fere totam aptavit sibi Noster e Virgilio, Aen. XII, 896 seqq. « Nec plura effatus, saxum circumspicit ingens, Saxum antiquum, ingens, campo quod forte jacebat: Vix illud lecti bis sex cervice subirent ». Homerus multo modestius de magnitudine saxi, quod Diomedes jaciebat, V, 303, saxum fuisse, quod viri duo hodierni aevi non ferrent.
+- … For the rest, our author adapted almost this entire passage [ῥῆσιν] to his own use from Virgil, *Aen.* XII, 896 ff.: « Nec plura effatus, saxum circumspicit ingens, Saxum antiquum, ingens, campo quod forte jacebat: Vix illud lecti bis sex cervice subirent ». Homer speaks much more modestly of the size of the stone that Diomedes was throwing, V, 303, saying that it was a stone that two men of the present age could not carry.
 
 [3] 461 Bis seni quod uix iuuenes tellure mouerent,
 
 [4] 461 F»is seni quod vix juvenes tellure levarent,
 
 [6] 461 bis seni quod vix iuvenes tellure moverent,
-- … cf. Verg. Aen. 12, 899
+- … cf. Virgil, Aen. 12, 899
 
 462 sustulit et magno conamine misit in hostem.
 
@@ -5198,24 +5199,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 465 Excipit, et nigra corpus caligine texit.
 
 [6] 465 accipit et nigra corpus caligine condit.
-- Accipit … at cf. Thes. I 311, 44 …
+- Accipit … but cf. Thes. I 311, 44 …
 
 466 Non tulit Oenides animo nebulasque per ipsas
 
 [2] 466 Non tulit OEnidesanimo, nebulasque per ipsas
-- … Ut elegantissimos versus sequentes laudandos censet Barthius, Adv. p. 2770 extr.
+- … Barth, *Adv.* p. 2770 end, judges that the following verses are to be praised as most elegant.
 
 [3] 466 Non tulit Oenides animis nebulasque per ipsas
 
 [4] 466 Non tulil Oenides animis nebulasque per ipsas
 
 [6] 466 non tulit Oenides animis nebulasque per ipsas
-- … animis … cf. Verg. Aen. 8, 256 …
+- … animis … cf. Virgil, Aen. 8, 256 …
 
 467 fertur et in Venerem flagrantibus irruit armis,
 
 [2] 467 Fertur, etin Venerem flagrantibus irruit armis,
-- Flagrantibus armis. Vid. not. ad versum 394.
+- *Flagrantibus armis* [With blazing arms]. See the note to verse 394.
 
 [3] 467 Fertur et in Uenerem flagrantibus irruit armis
 
@@ -5238,7 +5239,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 469 caelestemque manum mortali uulnerat hasta.
 
 [2] 469 Caelestemque manum mortali vulnerat hasta.
-- … quod Homerus ita tradit, Il. V, 337, … Idem de se fatetur Diomedes apud Virg. Aeneid. XI, vs. 276: « quum ferro caelestia corpora demens Adpetii, et Veneris violavi vulnere dextram ». Et apud Ovid. Met. XV, 769, Venus de se: « Quam modo Tydidae Calydonia vulneret hasta ».
+- … because Homer relates it thus, *Il.* V, 337, … Diomedes confesses the same thing about himself in Virgil, *Aeneid* XI, v. 276: « quum ferro caelestia corpora demens Adpetii, et Veneris violavi vulnere dextram ». And in Ovid, *Met.* XV, 769, Venus says of herself: « Quam modo Tydidae Calydonia vulneret hasta ».
 
 [3] 469 Caelestemque manum mortali uulnerat hasta.
 
@@ -5260,8 +5261,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 471 atque ibi sidereae queritur sua uulnera matri.
 
 [2] 471 Atque ibi sidereae queritur sua vulnera malri.
-- … Idemque jubet Homerus; qui quidem narrat, Venerem vulneratam a fra-
-- **(cont.)** tre Marte currum et equos petiisse, quibus perveheretur in caelum, ibi vero questam esse apud matrem Dionen, Iliad. V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς. …
+- … Homer also commands the same; he indeed relates that Venus, having been wounded, from her bro-
+- **(cont.)** (cont.) [brother] Mars for a chariot and horses with which to be carried to heaven, but there complained to her mother Dione, *Iliad* V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς. …
 
 [3] 471 Atque ibi sidereae queritur sua uulnera matri.
 
@@ -5297,13 +5298,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 474 Undique consurgunt acies, et pulvere caelum
 
 [3] 474 Undique consurgunt acies et puluere caelum
-- **474—482** habent Gesta Bereng. I 195—202
+- **474—482** Gesta Berengarii I 195–202 has them
 
 [4] 474 Undique consurgunt acies et pulvere caelum
 
 [6] 474 undique consurgunt acies et pulvere caelum
 - *Iliad* —
-- **474—481** (testimonia) = Gesta Ber. 1, 195—202 (476 in aequore cursu)
+- **474—481** (testimonia) = *Gesta Ber.* 1, 195–202 (476 *in aequore cursu*)
 
 475 conditur horrendisque sonat clamoribus aether.
 
@@ -5330,7 +5331,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 477 proteritur pedibusque simul calcatur equorum
 
 [2] 477 Proteritur, pedibusque simul calcatur equorum;
-- … Similiter Virgilii Aen. XII, 329: « Semineces volvit multos, aut agmina curru Proterit ».
+- … Similarly Virgil, *Aen.* XII, 329: « Semineces volvit multos, aut agmina curru Proterit ».
 
 [3] 477 Proteritur pedibusque simul calcatur equorum;
 
@@ -5353,7 +5354,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 479 quadrupedis tergo pronus ruit; illius ense
 
 [2] 479 Quadrupedis tergo pronus ruit : illius ense
-- Quadrupedis tergo. Si equitantem intelligit auctor ob vulnus equo delabentem, scripsit contra sensum Homeri, et contra morem scriptorum belli Trojani, qui equites in bello ignorant, et heroes de curribus pugnantes produnt. Talis error etiam infra occurrit versu 496, ubi Agamemnon sublimis equo volat agmina circum. Potest quidem pro equitatione adduci locus Homeri, Il. X, 513; sed quia ἵππων ἐπεβήσατο dicit, videntur equi curru juncti commode posse intelligi. Wernsdorf. in Addendis.
+- *Quadrupedis tergo* [from the back of his four-footed beast]. If the author understands a rider falling from his horse on account of a wound, he wrote contrary to the sense of Homer and contrary to the custom of the writers on the Trojan War, who know no horsemen in battle, but present heroes fighting from chariots. A similar error also occurs below in verse 496, where Agamemnon *sublimis equo volat agmina circum* [high on horseback flies around the ranks]. To be sure, a passage of Homer, *Il.* X, 513, can be cited in favor of horse-riding; but because he says ἵππων ἐπεβήσατο, horses yoked to a chariot can comfortably be understood. Wernsdorf in the Addenda.
 
 [3] 479 Quadrupedis tergo pronus ruit; illius ense
 
@@ -5376,7 +5377,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 481 hic iacet exanimis fuso super arma cerebro:
 
 [2] 481 Hic jacet exanimis fuso super arma cerebro.
-- … Similiter Virg. Aen. IX, 753: « Collapsos artus atque arma cruenta cerebro Sternit humi moriens ».
+- … Similarly Virg. *Aen.* IX, 753: « Collapsos artus atque arma cruenta cerebro Sternit humi moriens ».
 
 [3] 481 Hic iacet exanimis fuso super arma cerebro:
 
@@ -5395,7 +5396,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 482 sanguine manat humus, campi sudore madescunt.
 - *Iliad* —
-- (testimonia) = Gesta Ber. 1, 204 s.
+- (testimonia) = *Gesta Ber.* 1, 204 f.
 
 483 Emicat interea Veneris pulcherrima proles
 
@@ -5421,7 +5422,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 485 terga metit gladio funestaque proelia miscet.
 
 [2] 485 Terga metit gladio, funestaque praelia miscet.
-- **(cont.)** … fortasse animo ejus obversatum est hemistichium Virgilii, Aen. X, 513: « Proxima quaeque metit gladio ».
+- **(cont.)** … perhaps there hovered before his mind that half-verse of Virgil, *Aen.* X, 513: « Proxima quaeque metit gladio ».
 
 [3] 485 Terga metit gladio funestaque praelia miscet.
 
@@ -5432,7 +5433,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 486 Nec cessat spes una Phrygum fortissimus Hector
 
 [2] 486 Nec cessat spes una PhryguiTi , fortissimus Hector,
-- Spes una Phrygum, frequens elogium Hectoris. Pentadius in tumulo Hectoris: Occubuere simul spesque salusque Phrygum; atque infra Noster, v. 944: « Unus, tota salus in quo Trojana manebat, Hector adest ». — Et inprimis Virgil. Aen. II, 281: « O lux Dardaniae! spes o fidissima Teucrum! » Ed. — Caeterum haec et sequentia Barth. Adv. p. 2771, admirabiliter scripta esse profitetur.
+- *Spes una Phrygum* [the sole hope of the Phrygians], a frequent eulogy of Hector. Pentadius in the Tomb of Hector: *Occubuere simul spesque salusque Phrygum*; and below, our author, v. 944: « Unus, tota salus in quo Trojana manebat, Hector adest ». — And especially Virgil, *Aen.* II, 281: « O lux Dardaniae! spes o fidissima Teucrum! » Ed. — Moreover, Barth, *Adv.* p. 2771, declares that these and the following lines were admirably written.
 
 [3] 486 Nec cessat spes una Phrygum fortissimus Hector
 
@@ -5454,7 +5455,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 488 Vt lupus in campis pecudes cum uidit apertis
 
 [2] 488 Ut lupus in campis pecudes quum vidit apertis,
-- … Omnino tersa et ἐνεργὴς haec descriptio est lupi in greges irruentis, maxime propter extrema verba. Mallem tamen leonem pro lupo posuisset. Hujus enim non tam intrepida et custodum secura vis est, qualis hoc loco describitur, quam leonis, et scite insidiosum magis, quam fortem, lupum describit Virgil. Aen. XI, 810 seqq. Placuit sibi aliquantum auctor hac comparatione, judice Barthio, pag. 2771, ut paullo post similem repeteret leonis. In quo perperam fecisse ille, nimisque luxuriatus videri potest, nisi hoc ex ipsius Homeri imitatione fecit, qui duobus locis parum disjunctis Diomedem cum leone pecudes irruente comparat, Iliad. V, 136 et 161. Virgilio ista comparatio, ut Homero ipsi, frequens est. Vid. Aen. IX, 339 seqq. et X, 723 seq. Conf. Tigris apud Ovid. Metam. V, 164 seq.
+- … This description of a wolf rushing upon flocks is altogether neat and vivid (ἐνεργὴς), especially on account of the concluding words. I would have preferred, however, that he had put a lion instead of a wolf. For the latter's force is not so fearless and heedless of guards as is described here, as is that of a lion, and Virgil skillfully describes the wolf as treacherous rather than brave, *Aen.* XI, 810 ff. In Barth's judgment, p. 2771, the author took considerable pleasure in this comparison, so that a little later he repeated a similar one of a lion. In this he might seem to have acted wrongly and indulged in too much luxuriance, were it not that he did this in imitation of Homer himself, who in two passages not far apart compares Diomedes to a lion rushing upon cattle, *Iliad* V, 136 and 161. That comparison is frequent in Virgil, as in Homer himself; see *Aen.* IX, 339 ff. and X, 723 f. Cf. the tigress in Ovid, *Metam.* V, 164 f.
 
 [3] 488 Ut lupus in campis pecudes cum uidit apertis,
 
@@ -5462,25 +5463,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 488 ut lupus in campis pecudes cum vidit apertis
 - *Iliad* —
-- **488—490** (testimonia) canum = Gesta Ber. 2, 163—5
+- **488—490** (testimonia) *canum* = *Gesta Ber.* 2, 163–5
 
 489 (non actor gregis ipse, comes non horrida terret
 
 [2] 489 Non ductor gregis ipse comes , non horrida terret
 
 [3] 489 Non actor gregis ipse comes, non horrida terret
-- **489—91** canum habent Gesta Bereng. II 163—65
+- **489—91** canum are in the Gesta Berengarii II 163–65
 
 [4] 489 Non actor gregis ipse comes, non horrida terret
 
 [6] 489 (non actor gregis ipse, comes non horrida terret
 - *Iliad* —
-- … distinxi post ipse; solent post comes
+- … I punctuated after ipse; usually they punctuate after comes
 
 490 turba canum), fremit esuriens et neglegit omnes
 
 [2] 490 Turba canum , premit esuriens et negligit omnes ,
-- … — Caeterum his similia loquitur Val. Flaccus, VI, 615: « nec caede moratur in una Turbidus, inque omnes pariter furit ». Ed.
+- … — Moreover, Valerius Flaccus speaks similarly to this, VI, 615: « nec caede moratur in una Turbidus, inque omnes pariter furit ». Ed.
 
 [3] 490 Turba canum; fremit esuriens et neglegit omnes
 
@@ -5524,7 +5525,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 494 attolluntque animos: geminat uictoria uires.
 
 [2] 494 A.dtoUuntque animos : geminat victoria vires.
-- Adtolluntque animos e Virgilio, ut praecedens Deficiunt, est, Aen. XII, 2, 4. — Geminat victoria vires, graviter dictum, quod repetit versu 768.
+- *Adtolluntque animos* [and lift their spirits] is from Virgil, like the preceding *Deficiunt* [they fail], *Aen.* XII, 2, 4. — *Geminat victoria vires* [victory doubles their strength], a weighty expression, which he repeats in verse 768.
 
 [3] 494 Adtolluntque animos: geminat uictoria uires.
 
@@ -5589,13 +5590,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 500 Ut Libycus quum forte leo procul agmina vidit
 
 [3] 500 Ut Libycus cum forte leo procul agmina uidit
-- **500—504** : cf. Gesta Bereng. I 207—210
+- **500—504** : cf. Gesta Berengarii I 207–210
 
 [4] 500 Ut Libycus cum forte leo procul agmina vidit
 
 [6] 500 ut Libycus cum forte leo procul agmina vidit
 - *Iliad* 5.161
-- **500—508** (testimonia) fere = Gesta Ber. 1, 208—10 (500 cernit, 502 Attollens)
+- **500—508** (testimonia) nearly = *Gesta Ber.* 1, 208–10 (500 *cernit*, 502 *Attollens*)
 
 501 laeta boum passim uirides errare per herbas,
 
@@ -5610,7 +5611,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 502 attollit ceruice iubas sitiensque cruoris
 
 [2] 502 Adtollit cervice jubas, sitiensque cruoris
-- Adtollit cervice jubas. Virgil. Aen. X, 726, de leone: « Gaudet hians immane, comasque arrexit ». Lucanus, I, 209: « Erexitque jubam ». Similiter Olympius Nemesian. Laud. Hercul. 93: « Excussis movet arma toris ».
+- *Adtollit cervice jubas* [he raises the mane on his neck]. Virgil, *Aen.* X, 726, of a lion: « Gaudet hians immane, comasque arrexit ». Lucan, I, 209: « Erexitque jubam ». Similarly Olympius Nemesianus, *Laud. Hercul.* 93: « Excussis movet arma toris ».
 
 [3] 502 Adtollit ceruice iubas sitiensque cruoris
 
@@ -5662,7 +5663,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 507 et spes exacuit languentia militis arma:
 
 [2] 507 Et spes exacuit languentia militis arma.
-- Et spes exacuit. Virg. Aen. X, 263: « spes addita suscitat iras: Tela manu jaciunt ».
+- *Et spes exacuit* [and hope sharpens]. Virg. *Aen.* X, 263: « spes addita suscitat iras: Tela manu jaciunt ».
 
 [3] 507 Et spes exacuit languentia militis arma:
 
@@ -5683,7 +5684,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 509 Tandem hic Aenean immisso tendere curru
 
 [2] 509 Tandem hic ,neam immisso contendere curru
-- … Virg. Aeneid. XI, 889: « immissis pars caeca et concita frenis Arietat in portas ». Ovid. Met. I, 280: « Fluminibus vestris totas immittite habenas ».
+- … Virg. *Aeneid* XI, 889: « immissis pars caeca et concita frenis Arietat in portas ». Ovid, *Met.* I, 280: « Fluminibus vestris totas immittite habenas ».
 
 [3] 509 Tandem hic Aenean inmisso tendere curru
 
@@ -5716,7 +5717,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 512 uiribus intorquet, quod detulit error ab illo
 
 [2] 512 Viribus intorquet, quod depulit error ab illo
-- Depulit error. Ovid. Metam. XII, 83: « quamquam certa nullus fuit error in hasta ».
+- *Depulit error* [a miss deflected it]. Ovid, *Metam.* XII, 83: « quamquam certa nullus fuit error in hasta ».
 
 [3] 512 Uiribus intorquet, quod detulit error ab illo
 
@@ -5724,12 +5725,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 512 viribus intorquet, quod detulit error ab illo
 - *Iliad* —
-- detulit Schrader ex Ov. met. 5, 90 …
+- detulit Schrader from Ovid, Met. 5, 90 …
 
 513 pectus in aurigae stomachoque infigitur alto;
 
 [2] 513 Pectus in aurigse, stomachoque infigitur alto.
-- Stomachoque infigitur. Virgil. Aen. IX, 698: « volat Itala cornus Aera per tenerum, stomachoque infixa sub altum Pectus abit ».
+- *Stomachoque infigitur* [and is fixed in the stomach]. Virgil, *Aen.* IX, 698: « volat Itala cornus Aera per tenerum, stomachoque infixa sub altum Pectus abit ».
 
 [3] 513 Pectus in aurigae stomachoque infigitur alto:
 
@@ -5737,12 +5738,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 513 pectus in aurigae stomachoque infigitur alto:
 - *Iliad* 8.119
-- alto … at cf. Verg. Aen. 9, 699
+- alto … but cf. Virgil, Aen. 9, 699
 
 514 ille ruens ictu media inter lora rotasque
 
 [2] 514 Ille ruens ictu medla inter lora rotasque
-- Media inter lora. Virg. Aen. XII, 468: « Aurigam Turni media inter lora Metiscum Excutit ».
+- *Media inter lora* [amidst the reins]. Virg. *Aen.* XII, 468: « Aurigam Turni media inter lora Metiscum Excutit ».
 
 [3] 514 Ille ruens ictu media inter lora rotasque
 
@@ -5776,12 +5777,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 517 desilit et ualido Crethona<que> comminus ictu
 
 [2] 517 Desilit, et valido Crethonem cominus ictu
-- … Ex Hom. Il. V, 542, legendum Crethona, quod quum metri ratio respueret, latinum casum Crethonem reposui.
+- … From Hom. *Il.* V, 542, one should read *Crethona*, but since the metrical scansion rejected this, I restored the Latin case form *Crethonem*.
 
 [3] 517 Desilit et ualido Crethonaque cominus ictu
 
 [4] 517 Desilit et valido Cretlionaqne coniinus ictn
-- Crethona … (Iliad. V, 541 sqq.).
+- Crethona … (Iliad V, 541 ff.).
 
 [6] 517 desilit et valido Crethona\<que> comminus ictu
 - *Iliad* 5.542
@@ -5789,15 +5790,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 518 Orsilochumque ferit, quorum post funera uictus
 
 [2] 518 Orsilochumque ferit : quorum post fiinera victus
-- Orsilochum postulat Homerus l. c. …
+- Homer *loc. cit.* requires *Orsilochum*; …
 
 [3] 518 Orsilochumque ferit, quorum post funera uictus
 
 [4] 518 Orsilochumque ferit, quorum post funera victus
-- **518, 520** Orsilochum, Antilochique Mydon … (Iliad. ibid. et 580).
+- **518, 520** Orsilochum, Antilochique Mydon … (Iliad ibid. and 580).
 
 [6] 518 Orsilochumque ferit, quorum post funera victor
-- … Aeneas evitavit Menelaum et Antilochon (E 571 ss.)
+- … Aeneas avoided Menelaus and Antilochus (E 571 ff.)
 
 519 Paphlagonum ductor Menelai concidit armis,
 
@@ -5813,7 +5814,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 520 Antilochique Mydon. Post hos Iouis inclita proles
 
 [2] 520 Antilochique Mydon : post hos Jovis inclyta proles
-- Antilochique Mydon: sic legendum esse ex Homero Bondamius monstravit. …
+- *Antilochique Mydon*: Bondam demonstrated from Homer that this is the reading. …
 
 [3] 520 Antilochique Mydon; post hos Iouis inclita proles
 
@@ -5845,12 +5846,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 523 Tlepolemus magno satus Hercule, sed neque uires
 
 [2] 523 Tlepolemus, magno satus Hercule; sed neque vires
-- Tlepolemus legendum esse ex Hom. Il. V, 628, apparet, …
+- That we must read *Tlepolemus* from Hom. *Il.* V, 628 is evident, …
 
 [3] 523 Tlepolemus magno satus Hercule, sed neque uires
 
 [4] 523 Tlepolemus magno satus Hercule, sed neque vires
-- Tlepolemus … (Iliad. V, 628).
+- Tlepolemus … (Iliad V, 628).
 
 [6] 523 Tlepolomus magno satus Hercule, sed neque vires
 - *Iliad* 5.628
@@ -5868,8 +5869,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 525 quin caderet tenuemque daret de corpore uitam.
 
 [2] 525 Quin caderet, tenuemque daret de corpore vitam.
-- Tenuemque daret de corpore vitam, i. e. redderet spiritum. Tenuem vitam vocat ex mente eorum, quos Virgilius laudat Georg. IV, 223, qui animas quasque animantium particulas esse animae mundi dicebant, eoque redire per mortem. « Hinc, inquit l. c. Quemque sibi te-
-- **(cont.)** nues nascentem arcessere vitas. » Et Aen. IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit ».
+- *Tenuemque daret de corpore vitam* [and yielded the faint breath of life from his body], that is, gave up the ghost. He calls it *tenuem vitam* according to the mind of those whom Virgil praises in *Georg.* IV, 223, who said that each soul of living beings is a particle of the world soul, and returns thither through death. « Hence, he says *loc. cit.*, each one for itself at birth draws a sli-
+- **(cont.)** (cont.) -ght breath of life [« Quemque sibi tenues nascentem arcessere vitas »] ». And *Aen.* IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit ».
 
 [3] 525 Quin caderet tenuemque daret de corpore uitam.
 
@@ -5891,7 +5892,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 527 Sarpedon fraudisque subit commentor Vlixes
 
 [2] 527 Sarpedon, fraudisque subit cotnmentor Ulysses,
-- Fraudis commentor Ulysses dicitur, veluti hoc ejus fuerit artificium, inquit Barthius, Adv. LIX, 15, quale ab Homero aliisque Veteribus ei perpetuo tribuitur. Virgil. Aen. II, 164: « scelerumque inventor Ulysses »: idemque repetit Noster infra, v. 579. Similiter Ovidius de eo, Met. XIII, 31: « quid sanguine cretus Sisyphio, furtisque et fraude simillimus illi », cujus et commenta mox notat vs. 38. Hinc etiam, notante Dussenio ad Nostri versum 65, Ulysses in ara Dosiadae secunda φὼρ appellatur, ut pluribus ostendit Salmasius in notis, p. 156.
+- Ulysses is called *fraudis commentor* [contriver of deceit], as if this were his craft, says Barth, *Adv.* LIX, 15, of the kind constantly attributed to him by Homer and other ancients. Virgil, *Aen.* II, 164: « scelerumque inventor Ulysses »; and our author repeats the same below, v. 579. Similarly Ovid regarding him, *Met.* XIII, 31: « quid sanguine cretus Sisyphio, furtisque et fraude simillimus illi », whose fabrications (*commenta*) he also notes presently in v. 38. Hence also, as Dussen notes on verse 65 of our author, Ulysses is called φὼρ [thief] in the second Altar of Dosiadas, as Salmasius shows at greater length in his notes, p. 156.
 
 [3] 527 Sarpedon, fraudisque subit commentor Ulixes
 
@@ -5903,7 +5904,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 528 et septem iuuenum fortissima corpora fundit.
 
 [2] 528 'Et septem juvenum pulcherrima corpora fundit.
-- Et septem juvenum, Lyciorum, quos enumerat Homerus, Il. V, 677, Coeranum, Alastora, Chromium, Alcandrum, Halium, Noemona, Prytanim.
+- *Et septem juvenum* [And of seven youths], the Lycians whom Homer enumerates, *Il.* V, 677: Coeranus, Alastor, Chromius, Alcander, Halius, Noemon, and Prytanis.
 
 [3] 528 Et septem iuuenum pulcherrima corpora fundit.
 
@@ -5915,7 +5916,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 529 Hinc pugnat patriae columen Mauortius Hector,
 
 [2] 529 Hinc pugnat patriae culmen, Mavortius Hector,
-- Guelf. 2 aliter verba ordinat: Hinc patriae culmen pugnat. Dussenius mavult columen legere, p. 29; quod sane maxime aptum Hectori, atque alteri elogio, quod ei supra tribuebat Noster, v. 486, spes una Phrygum, convenientissimum est. Similiter Seneca in Troad. vs. 126, de Hectore: « Columen patriae, mora fatorum, Tu praesidium Phrygibus fessis, Tu murus eras ». — « Graium murus Achilles », Ovid. Met. XIII, 281. Lucan. VI, 201, de Scaeva: « stat non fragilis pro Caesare murus, Pompeiumque tenet ». Caeterum quod addit Seneca l. c. « Tecum cecidit, summusque dies Hectoris idem patriaeque fuit », imitatus videtur Noster, infra vs. 1061. Vide notata a nobis ad Pentadii tumulum Hect. huj. op. t. II, p. 329. Ed. — Verum tamen nolim vocabulum in ipso contextu mutare, quum culmen adeo non disconveniat Hectori, ut saltem summam ejus dignitatem indicet. Ita plane Cornel. Severus Ciceronem vocat « Egregium semper patriae caput », supra pag. 211 hujus tomi.
+- Guelf. 2 arranges the words differently: *Hinc patriae culmen pugnat*. Dussen, p. 29, prefers to read *columen* [pillar/support], which is indeed exceedingly fitting for Hector and most appropriate to that other eulogy which our author attributed to him above, v. 486, *spes una Phrygum* [the sole hope of the Phrygians]. Similarly Seneca in *Troad.* v. 126, of Hector: « Columen patriae, mora fatorum, Tu praesidium Phrygibus fessis, Tu murus eras ». — « Graium murus Achilles », Ovid, *Met.* XIII, 281. Lucan, VI, 201, of Scaeva: « stat non fragilis pro Caesare murus, Pompeiumque tenet ». Moreover, what Seneca adds *loc. cit.*, « Tecum cecidit, summusque dies Hectoris idem patriaeque fuit », our author seems to have imitated below, v. 1061. See what was noted by us on Pentadius' Tomb of Hector, vol. II, p. 329 of this work. Ed. — Nevertheless, I would not wish to alter the word in the text itself, since *culmen* [summit/peak] is by no means unsuitable for Hector, indicating at least his supreme dignity. In precisely this way Cornelius Severus calls Cicero « Egregium semper patriae caput », above on page 211 of this volume.
 
 [3] 529 Hinc pugnat patriae columen Mauortius Hector,
 
@@ -5959,7 +5960,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 533 ingentemque mouet clipeum, quem sancta uirago
 
 [2] 533 Ingentemque movet clypeum, quem sancta virago
-- … Virago frequens et fere proprium de Pallade. Flava virago Nasoni dicitur Met. VI, 130, « sancta virago », judice Barthio l. c. p. 2806, castam simul innuit et Martiam seu bellicosam.
+- … *Virago* is frequent and almost proper regarding Pallas. She is called *flava virago* by Ovid, *Met.* VI, 130; *sancta virago*, in the judgment of Barth, *loc. cit.* p. 2806, suggests both chaste and Martial, that is, warlike.
 
 [3] 533 Ingentemque mouet clipeum, quem sancta uirago
 
@@ -5970,7 +5971,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 534 egit et extrema percussum cuspide caedit
 
 [2] 534 Aegide et extrema percussum cuspide caedit,
-- **(cont.)** … Et quamquam Homerus, qui haec narrat, Iliad. V, 841, nullam aegidis mentionem injicit, Noster tamen, qui Homero raro adhaeret, et poetas latinos saepe sequitur, hoc loco fortasse Horatium respexit, qui Palladem hoc ipso in certamine ait aegidem adhibuisse, Carm. I, 15, 11: « Jam galeam Pallas et aegida Currusque et rabiem parat ». — Et Ovidius, Met. V, 47: « Bellica Pallas adest, et protegit aegide fratrem ». Ed.
+- **(cont.)** … And although Homer, who narrates these events, *Iliad* V, 841, makes no mention of the aegis, our author, who rarely adheres to Homer and often follows the Latin poets, perhaps had in view in this passage Horace, who says that Pallas used the aegis in this very contest, *Carm.* I, 15, 11: « Jam galeam Pallas et aegida Currusque et rabiem parat ». — And Ovid, *Met.* V, 47: « Bellica Pallas adest, et protegit aegide fratrem ». Ed.
 
 [3] 534 Egit et extrema percussum cuspide caedit
 
@@ -5992,7 +5993,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 536 Hic ille aetherio queritur sua uulnera regi
 
 [2] 536 Hic ille aethereo queritur sua vulnera regi
-- … Repetit versum, quem supra pari de re adhibuit v. 471.
+- … He repeats the verse that he used above on a similar matter, v. 471.
 
 [3] 536 Hic ille aethereo queritur sua uulnera regi
 
@@ -6003,7 +6004,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 537 saucius et magni genitoris iurgia suffert.
 
 [2] 537 Saucius , et magni genitoris jurgia suffert.
-- Jurg. suffert. Vid. v. 61 et 104.
+- *Jurg. suffert* [endures the rebukes]. See v. 61 and 104.
 
 [3] 537 Saucius et magni genitoris iurgia suffert.
 
@@ -6017,7 +6018,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 538 Interea magnis Acamantem uiribus Aiax
 
 [2] 538 VI. Interea magnis Acamantem viribus Ajax
-- Acamantem legunt Bondamius et Dussen. ll. cc. ex Homeri VI, 8. …
+- Bondam and Dussen *locc. citt.* read *Acamantem* from Homer, VI, 8. …
 
 [3] 538 Interea magnis Acamantem uiribus Aiax
 
@@ -6029,7 +6030,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 539 interimit uastumque capit Menelaus Adrastum
 
 [2] 539 Interimit, vastumque capit Menelaus Adrastum,
-- … propter narrationem Homeri, Iliad. VI, 37 seqq. qui refert, Adrastum equis pavore attonitis excussum, vivumque a Menelao prope adstante captum suppliciter hunc orasse, ut vitae suae parceret; atque hoc prius impetrasse, mox ab Agamemnone accurrente, et Menelaum objurgante, graviter vulneratum esse. … E qua intelligas, auctorem non hic miseras preces Adrasti respexisse, sed tantum casum ejus et captivitatem exprimere voluisse. …
+- … on account of the account of Homer, *Iliad* VI, 37 ff., who relates that Adrastus was thrown from his chariot when his horses were panic-stricken, and having been captured alive by Menelaus standing close by, suppliantly begged him to spare his life; and having at first obtained this, was soon severely wounded by Agamemnon, who rushed up and rebuked Menelaus. … From this you may understand that the author did not have in view here the wretched entreaties of Adrastus, but merely wished to express his fall and capture. …
 
 [3] 539 Interimit, uastumque capit Menelaus Adrastum
 
@@ -6048,12 +6049,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 540 et rapit ad classes manibus post terga revinctis,
 - *Iliad* —
-- (testimonia) manibus — revinctis = Gesta Ber. 3, 115
+- (testimonia) *manibus — revinctis* = *Gesta Ber.* 3, 115
 
 541 ut ui deducat laetos ex hoste triumphos.
 
 [2] 541 Ut vivo ducat laetos ex hoste triumphos.
-- … Caeterum truncavit hic auctor narrationem Homeri nimia brevitate. Nam quod Adrastus captus est, et ad naves deduci jussus, id solum narrat; reticuit autem, quod gravissimum erat, Adrastum ab Agamemnone, Menelai clementiam incusante, occisum.
+- … Furthermore, the author here truncated Homer's narrative through excessive brevity. For he relates only that Adrastus was captured and ordered to be taken to the ships; but he passed over in silence what was most important, that Adrastus was killed by Agamemnon, who reproached Menelaus' clemency.
 
 [3] 541 Ut uiuo ducat laetos ex hoste triumphos.
 
@@ -6076,7 +6077,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 543 tergaque nuda tegit. Sensit Mauortius Hector
 
 [2] 543 Tergaque nuda tegit : seusit Mavortius Hector
-- Tergaque nuda tegit, clypeis puto, ne impune caedantur. Virg. Aen. XI, 630: « Bis rejecti armis respectant terga tegentes ».
+- *Tergaque nuda tegit* [And covers their bare backs], with shields, I suppose, lest they be slain with impunity. Virg. *Aen.* XI, 630: « Bis rejecti armis respectant terga tegentes » [Twice driven back, they look behind them, covering their backs with weapons].
 
 [3] 543 Tergaque nuda tegit; sensit Mauortius Hector,
 
@@ -6128,7 +6129,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 548 Protinus armatas innuptae Palladis arces
 
 [2] 548 Protinus armatas innuptse Palladis arces
-- … — Innuptae Minervae Virgil. Aen. II, 31.
+- … — *Innuptae Minervae* [of unwed Minerva], Virgil, *Aen.* II, 31.
 
 [3] 548 Protinus elatas innuptae Palladis arces
 
@@ -6139,7 +6140,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 549 Iliades subeunt: festis altaria sertis
 
 [2] 549 Iliades subeunt, festisque altaria sertis
-- Altaria sertis. Placandis scilicet numinibus, inquit Barthius l. c. Veteres non tantum victimas adhibebant, sed etiam coronas, aris cingendis, addo etiam delubris. Virg. Aen. II, 249: « Nos delubra Deum ... festa velamus fronde per urbem »; et IV, 202: « variis florentia limina sertis »; idem, Georg. IV, 276, « Saepe Deum nexis ornatae torquibus arae ».
+- *Altaria sertis* [altars with garlands]. Namely, to appease the divine powers, says Barth in the cited passage. The ancients employed not only sacrificial victims, but also garlands for encircling altars, and, I might add, shrines as well. Virg. *Aen.* II, 249: « Nos delubra Deum ... festa velamus fronde per urbem »; and IV, 202: « variis florentia limina sertis »; also *Georg.* IV, 276: « Saepe Deum nexis ornatae torquibus arae ».
 
 [3] 549 Iliades subeunt: festis altaria sertis
 
@@ -6202,7 +6203,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 555 qui sit et unde ferat, magnis cum uiribus hastam
 
 [2] 555 Quis sit, et unde ferat, magnis cum viribus hastam
-- Et unde ferat, scilicet arma: …
+- *Et unde ferat* [and whence he bears], namely arms: …
 
 [3] 555 Qui sit et unde, ferus magnis cum uiribus hastam
 
@@ -6223,7 +6224,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 557 "Quo ruis?" - exclamat - "quae te, scelerate, furentem
 
 [2] 557 cc Quo ruis! exclamat; quae te, scelerate, furentem
-- Te, scelerate: hoc profecto durius est, quam pro blanda oratione Diomedis, quae est apud Homerum, Iliad. VI, 123 seqq. … — Sed sceleratum saepe pro molesto et impio adhiberi monet Barthius, Adv. XXV, 15; ut Virgilius quidem « sceleratum frigus » dixit, et Rutilius: « Obruerint citius scelerata oblivia solem ». Ed.
+- *Te, scelerate* [You, villain!]: this is indeed harsher than accords with the courteous speech of Diomedes in Homer, *Iliad* VI, 123 ff.; … — But Barth, *Adv.* XXV, 15, observes that *sceleratus* is often used for troublesome/grievous and impious; as indeed Virgil said « sceleratum frigus » [*Georg.* II, 256], and Rutilius: « Obruerint citius scelerata oblivia solem » [*De reditu suo* I, 137]. Ed.
 
 [3] 557 'Quo ruis?' exclamat, 'quae te, scelerate, furentem
 
@@ -6244,8 +6245,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 559 Hospitis arma uides, Veneris qui uulnere dextram
 
 [2] 559 Hospitis arma vides, Veneris qui vulnere dextram
-- Veneris quae vulnere dex-
-- **(cont.)** tram omnes dant. Barthius, Advers. p. 2807 hic docet iterandam esse vocem dextram hoc modo: Vides dextram, quae Veneris dextram vulneravit; et esse figuram poetis usitatam, qua, ubi vox quaedam eodem positu duabus rebus convenire possit, semel eam tantum ponant, sic tamen ut ambobus locis debeat aptari. …
+- *Veneris quae vulnere dex-*
+- **(cont.)** (cont.) -*tram* all [authorities] give. Barth, *Advers.* p. 2807, teaches that the word *dextram* [right hand] is to be repeated here in this manner: *Vides dextram, quae Veneris dextram vulneravit* [You see the right hand, which wounded Venus's right hand]; and that this is a figure common among poets, by which, when a word in the same construction can apply to two things, they put it only once, yet in such a way that it must be applied in both places. …
 
 [3] 559 Hospitis arma uides, Ueneris qui uulnere dextram
 
@@ -6256,7 +6257,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 560 perculit et summo pupugit certamine Martem.
 
 [2] 560 Perculit, et summo repulit certamine Martem.
-- … — Sed hoc, ut alia similiter composita, repulit, recidit, apud bonos poetas prima longa adhiberi solet. …
+- … — But this word, like others similarly compounded, *repulit*, *recidit*, is usually employed by good poets with the first syllable long. …
 
 [3] 560 Perculit et summo pupugit certamine Martem.
 
@@ -6311,7 +6312,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 565 Hectoris Andromache paruumque ad pectora natum
 
 [2] 565 Hectoris Andromache, parvumque ad pectora natum
-- Ad pectora natum tenet. Virg. Aen. VII, 318: « Et trepidae matres pressere ad pectora natos ».
+- *Ad pectora natum tenet* [holds her son to her breast]. Virg. *Aen.* VII, 318: « Et trepidae matres pressere ad pectora natos ».
 
 [3] 565 Hectoris Andromache paruumque ad pectora natum
 
@@ -6352,7 +6353,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 569 terribilemque fugit galeam cristamque comantem.
 
 [2] 569 Terribilemque fugit galeam , cristamque micantem.
-- … Nam micare poetis saepe idem est ac vibrari et tremere. Crista vero galeae eo maxime terrebat infantem, quod valde micabat nutabatque adversus ora ipsius. Manus jactare micantes vidimus in Calp. Ecl. II, 26. Ovid. Her. V, 37: « Attoniti micuere sinus ». Idem, Met. IX, 37: « Et modo cervicem, modo crura micantia captat ».
+- … For to poets *micare* is often the same as to be vibrated and to tremble. The crest of the helmet terrified the infant most of all because it fluttered and nodded vigorously before his face. We have seen *manus jactare micantes* [to toss fluttering hands] in Calpurnius, *Ecl.* II, 26. Ovid, *Her.* V, 37: « Attoniti micuere sinus »; the same author, *Met.* IX, 37: « Et modo cervicem, modo crura micantia captat » [And now he aims at the neck, now at the shifting legs].
 
 [3] 569 Terribilemque fugit galeam cristasque comantes.
 
@@ -6364,7 +6365,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 570 Vtque caput iuuenis posito detexerat aere,
 
 [2] 570 Utque caput juvenis posito detexerat aere ,
-- Juvenis, de quovis bellatore dicitur; hic de Hectore. — Posito aere, deposita galea aerea.
+- *Juvenis* [warrior/young man] is said of any warrior; here of Hector. — *Posito aere*, having laid aside his bronze helmet.
 
 [3] 570 Utque caput iuuenis posito detexerat aere,
 
@@ -6406,7 +6407,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 574 uirtutes patrias primis imitetur ab annis."
 
 [2] 574 Virtutes patrias primis imitetur ab annis».
-- … Ego vero magis aptum personae Hectoris patris, de filio loquentis, verbum puto imitetur, quam si dixisset miretur. Jactantius id verbum, ubi pater de semetipso loquitur. Ut vero imitetur se filius, id dignum patre monitum. Praeterea necessarium est verbum imitetur, quod addit patrias virtutes. Has imitari decet, mirari magis personam propter virtutes. Magis respicere scriptor illud dictum Virgilianum potuit, quo Aeneas filium hortatur, Aen. XII, 435: « Disce, puer, virtutem ex me, verumque laborem, Fortunam ex aliis ». …
+- … I, however, consider the word *imitetur* more fitting to the character of Hector the father speaking of his son than if he had said *miretur*. That word is too boastful when a father is speaking of himself. But that a son should imitate his father is an admonition worthy of a father. Moreover, the word *imitetur* is necessary because he adds *patrias virtutes* [his father's virtues]. It is fitting to imitate these, whereas one admires rather the person on account of virtues. The writer might rather have had in mind that Virgilian saying by which Aeneas exhorts his son, *Aen.* XII, 435: « Disce, puer, virtutem ex me, verumque laborem, Fortunam ex aliis » [Learn, boy, virtue and true toil from me, fortune from others]. …
 
 [3] 574 Uirtutes patrias primis imitetur ab annis'.
 
@@ -6459,7 +6460,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 579 Nec mora: continuo fraudis commentor Vlixes
 
 [2] 579 Nec mora, continuo fraudis commentor Ulysses,
-- Fraudis commentor. Homerico more ex versu 527 repetiit.
+- *Fraudis commentor* [contriver of deceit]. He repeated this from verse 527 in the Homeric manner.
 
 [3] 579 Nec mora: continuo fraudis commentor Ulixes
 
@@ -6532,7 +6533,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 586 et cithara dulci durum lenibat amorem.
 
 [2] 586 Et dulci cithara dirum lenibat amorem.
-- … Nam ipse Noster, supra, v. 25 ferum amorem dicebat, atque infra, v. 641 eadem fere dictione utitur: Praedaque, quae duros Menelai mulceat ignes. Hic vero imitatus videtur Maronem, qui Georg. IV, 464, de Orpheo: « Ipse cava solans aegrum testudine amorem ».
+- … For our author himself above, v. 25, said *ferum amorem*, and below, v. 641, uses almost the same diction: *Praedaque, quae duros Menelai mulceat ignes*. Here indeed he seems to have imitated Virgil, who in *Georg.* IV, 464, says of Orpheus: « Ipse cava solans aegrum testudine amorem » [He himself consoling his lovesick heart with the hollow tortoise shell].
 
 [3] 586 Et cithara dulci durum lenibat amorem.
 
@@ -6554,7 +6555,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 587 Ergo ubi deiectis auratam regis Atridae
 
 [2] 588 Ergo ubi dejectis auratam regis Atridae
-- Ergo ubi dejectis. Sumpsit a Virgilio, Aen. V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea ».
+- *Ergo ubi dejectis* [Therefore when having cast...]. He took this from Virgil, *Aen.* V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea » [The men assembled, and the bronze helmet received the cast lot].
 
 [3] 587 Ergo ubi deiectis auratam regis Atridae
 
@@ -6608,7 +6609,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 591 decernunt partesque oculis rimantur apertas
 
 [2] 593 Decernunt, partesque oculis rimantur apertas;
-- … Ipse Noster sensum hujus versus declarat infra, vs. 605: « quaque patebat Nuda viri cervix, fulgentem dirigit ensem ». Simili sententia Virgil. Aeneid. XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis ». — Respicit eum ritum pugnantium Cicero, in Verr. VII, 71: « Si ullum locum aperuerimus suspicioni aut crimini, accipiendum est statim vulnus ». Ed.
+- … Our author himself makes clear the meaning of this line below, v. 605: « quaque patebat Nuda viri cervix, fulgentem dirigit ensem ». With similar meaning Virgil, *Aeneid* XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis ». — Cicero refers to this custom of fighters in *Verr.* V (VII), 71: « Si ullum locum aperuerimus suspicioni aut crimini, accipiendum est statim vulnus ». Ed.
 
 [3] 591 Decernunt partesque oculis rimantur apertas
 
@@ -6686,7 +6687,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 598 fortia terga premunt spumantque per ora uicissim;
 
 [2] 600 Fortia terga petunt, spumantque per ora vicissim :
-- … Nam cur dura dicantur apri terga, explicat Virg. Georg. III, 256: « fricat arbore costas, Atque hinc atque illinc humeros ad vulnera durat ». Hinc ab Olympio, Laud. Hercul. 110, aper vocatur « duratus armos scopulis ».
+- … For why the boar's back is called *dura*, Virgil explains, *Georg.* III, 256: « fricat arbore costas, Atque hinc atque illinc humeros ad vulnera durat ». Hence by Olympius [Nemesianus], *Laud. Hercul.* 110, the boar is called « duratus armos scopulis » [having hardened its shoulders against crags].
 
 [3] 598 Fortia terga tremunt spumantque fera ora uicissim,
 
@@ -6698,7 +6699,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 599 fumiferae nubes concretaque fulgura et ignes
 
 [2] 601 Fumiferse nubes, concretaque fulgura, et ignes
-- … « Fumiferos ignes » vocat Virg. Aen. IX, 522; « fumificos mugitus » Ovid. Metam. VII, 114. … Barthius vero l. c. adnotat, crasse hoc dictum ab auctore, quum fulgura et ignes ab apris exspirari dicat. Solent quidem ignes equis et tauris tribui a poetis (vid. Nemes. Cyneg. 255, et Petronii carm. de saga, vs. 11), fulmen etiam apro, sed hoc tamen illi moderatius faciunt, quam Noster. Ovidius, Met. VIII, 289, de apro Calydonio: « Fulmen ab ore venit, frondes adflatibus ardent »; et X, 550, « Fulmen habent acres in aduncis dentibus apri ».
+- … Virgil calls them « Fumiferos ignes » in *Aen.* IX, 522; Ovid has « fumificos mugitus » in *Metam.* VII, 114. … But Barth in the cited passage notes that this was crudely expressed by the author, when he says lightning and fires are breathed out by boars. Fires are indeed accustomed to be attributed by poets to horses and bulls (see Nemesianus, *Cyneg.* 255, and Petronius's poem on the witch, v. 11), and even lightning to the boar, yet they do this more moderately than our author. Ovid, *Met.* VIII, 289, of the Calydonian boar: « Fulmen ab ore venit, frondes adflatibus ardent » [Lightning comes from its mouth, foliage burns with its blasts]; and X, 550: « Fulmen habent acres in aduncis dentibus apri » [Fierce boars have lightning in their curved tusks].
 
 [3] 599 Fumiferae nubes concrescunt, fulgura et ignes
 
@@ -6835,7 +6836,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 612 ingentem clipeo septemplice reppulit ictum
 
 [2] 614 Ingentem clypeo septemplice depulit ictum ,
-- … Clypeo septemplice secundum Ovidium, qui Met. XIII, 2 ait, « clypei dominus septemplicis Ajax »; et ejusdem libri, v. 346: « frustra Telamone creatus Gestasset laeva taurorum tergora septem ». Virgilius, XII, 925, de Turno: « orasque recludit Loricae, et clypei extremos septemplicis orbes ».
+- … *Clypeo septemplice* [with sevenfold shield] is according to Ovid, who says in *Met.* XIII, 2: « clypei dominus septemplicis Ajax »; and in v. 346 of the same book: « frustra Telamone creatus Gestasset laeva taurorum tergora septem ». Virgil, *Aen.* XII, 925, of Turnus: « orasque recludit Loricae, et clypei extremos septemplicis orbes » [and lays open the edges of the corselet, and the outermost circles of the sevenfold shield].
 
 [3] 612 Ingentem clipeo septemplice reppulit ictum
 
@@ -6867,7 +6868,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 615 integratque animum; iam rursus ad arma coibant
 
 [2] 617 Integratque animum : jam rursus ad arma coibant,
-- **(cont.)** Integrare, monente Barthio, Adv. p. 2807, pulchre est restituere in integrum, reficere; quemadmodum supra, v. 101, dixit: « Et Troum renovare velis in praelia vires ». Statius, Theb. VIII, 657: « bellum integrabat Enyo ». Seneca, Medea, v. 672: « semet dolor Accendit ipse, vimque praeteritam integrat ».
+- **(cont.)** (cont.) *Integrare* [to renew], as Barth notes, *Adv.* p. 2807, admirably means to restore to its whole state (*in integrum*), to renew; just as he said above, v. 101: « Et Troum renovare velis in praelia vires ». Statius, *Theb.* VIII, 657: « bellum integrabat Enyo ». Seneca, *Medea*, v. 672: « semet dolor Accendit ipse, vimque praeteritam integrat ».
 
 [3] 615 Integrat atque animum; iam rursus ad arma coibant
 
@@ -6931,7 +6932,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 621 "Quae te terra uirum, qui te genuere parentes?
 
 [2] 623 «Quae te terra virum, qui te genuere parentes?
-- … Virg. Aen. I, 606: « qui tanti talem genuere parentes ».
+- … Virg. *Aen.* I, 606: « qui tanti talem genuere parentes ».
 
 [3] [621] ['Quae te terra uirum, qui te genuere parentes?
 
@@ -6961,7 +6962,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 623 at contra se ferre parat Telamonius Aiax:
 - *Iliad* —
-- … cf. Verg. Aen. 5, 372
+- … cf. Virgil, Aen. 5, 372
 
 624 "Hesiona de matre uides Telamone creatum,
 
@@ -6988,7 +6989,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 626 Hector, ut Hesionae nomen casusque recordans:
 
 [2] 628 Hector ut Hesjpnae nomen casusque recordat,
-- … et recordat dignum est hoc poetastro, quem antiquatas verborum formas subinde usurpare, ex pluribus exemplis novimus. — Videantur quae supra adnotata sunt ad versum 456, et ad Nemesiani fragment. de Aucupio. Ed. — Caeterum Hesione, cujus hic mentio, Laomedontis Trojae regis filia fuit, quam Hercules ceto expositam liberavit; postea Troja capta Telamoni, qui primus murum conscenderat, uxorem dedit. Ovid. Metam. XI, 216 sqq.
+- … and *recordat* is worthy of this poetaster, whom we know from many examples to use archaic verb forms now and then. — See what was noted above at verse 456, and on the fragment of Nemesianus *De Aucupio*. Ed. — Moreover, Hesione, who is mentioned here, was the daughter of Laomedon, king of Troy, whom Hercules freed when she was exposed to a sea-monster; afterwards, when Troy was taken, he gave her as wife to Telamon, who had been the first to scale the wall. Ovid, *Metam.* XI, 216 ff.
 
 [3] 626 Hector ut Hesionae nomen casusque recordat]
 
@@ -7032,7 +7033,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 630 accipit insignem uario caelamine balteum.
 
 [2] 632 Accipit insignem vario caelamine balteum.
-- **(cont.)** … Balteum dissyllabum fecit exemplo Virgilii, Aen. X, 496: « rapiens immania pondera baltei ». Caelamina clypei dicit Ovid. Met. XIII, 291.
+- **(cont.)** … He made *balteum* a disyllable after the example of Virgil, *Aen.* X, 496: « rapiens immania pondera baltei ». Ovid speaks of *caelamina clypei* [carvings of the shield], *Met.* XIII, 291.
 
 [3] 630 Accipit insignem uario caelamine balteum.
 
@@ -7085,16 +7086,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 635 Postera cum primum stellas Aurora fugarat,
 
 [2] 637 Postera quum primum stellas Aurora fugarat ,
-- … Bondamius aeque putat Ovidium hoc versu ab auctore expressum, Met. XV, 665: « Postera sidereos Aurora fugaverat ignes »; et Met. IV, 81: « Postera nocturnos Aurora removerat ignes ». — Et poterat advocari Virgilii locus, Aeneid. III, 521: « Jamque rubescebat stellis Aurora fugatis ». Ed. — Ego vero Virgilii potius locum hic usurpatum video Aen. V, 42: « Postera quum primo stellas Oriente fugarat Clara dies, socios in coetum litore ab omni Advocat Aeneas ». …
+- … Bondam thinks that Ovid was likewise imitated by the author in this verse, *Met.* XV, 665: « Postera sidereos Aurora fugaverat ignes »; and *Met.* IV, 81: « Postera nocturnos Aurora removerat ignes ». — And the passage of Virgil, *Aeneid* III, 521, could also be cited: « Jamque rubescebat stellis Aurora fugatis ». Ed. — But I rather see here adopted that passage of Virgil, *Aen.* V, 42: « Postera quum primo stellas Oriente fugarat Clara dies, socios in coetum litore ab omni Advocat Aeneas ». …
 
 [3] 635 Postera cum primum stellas Aurora fugarat,
-- : cf. Gesta Bereng. III 90
+- : cf. Gesta Berengarii III 90
 
 [4] 635 Postera cum primum stellas Aurora fugarat,
 
 [6] 635 postera cum primum stellas Aurora fugarat,
 - *Iliad* —
-- (testimonia) = Gesta Ber. 3, 90 (fugaret)
+- (testimonia) = *Gesta Ber.* 3, 90 (*fugaret*)
 
 636 in coetum uenere Phryges. Tunc maximus Hector
 
@@ -7193,7 +7194,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 645 Troiae contemptum duro se reddit ab hoste.
 
 [2] 647 Trojae, contemptum duro se reddit ab hoste.
-- … Neque offendere debet se reddit, quod jam adfuit iterum reversus. Talis enim pleonasmus frequens est bonis scriptoribus. Suetonius in Jul. cap. 2: « intra paucos rursus dies repetita Bithynia ». Plautus in Poenuli Prol. 79: « Revertor rursus denuo Carthaginem ».
+- … Nor ought *se reddit* to cause offence on the grounds that he was already present, having turned back again. For such a pleonasm is frequent in good writers. Suetonius, *Jul.* ch. 2: « intra paucos rursus dies repetita Bithynia ». Plautus, in the Prologue to the *Poenulus*, 79: « Revertor rursus denuo Carthaginem ».
 
 [3] 645 Troica contemptum duro se reddit ab hoste.
 
@@ -7205,7 +7206,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 646 Interea Danai confusi caede suorum
 
 [2] 648 Interea Danai conflisi caede suorum
-- … Confundi dicunt sequioris latinitatis scriptores pro perturbari animo. Sic Juvenal. Sat. III, vs. 1: « Quamvis digressu veteris confusus amici ». Plinius, Epist. V, 5, 1: « qui nuntius gravi me dolore confudit ». Idem, Paneg. c. 86: « Quam ego audio confusionem tuam fuisse, quum digredientem prosequereris ». Infra, v. 681, dicit Noster: « Danai turbati caede suorum ».
+- … Writers of later Latinity say *confundi* for *perturbari animo* [to be troubled in mind]. Thus Juvenal, *Sat.* III, v. 1: « Quamvis digressu veteris confusus amici ». Pliny, *Epist.* V, 5, 1: « qui nuntius gravi me dolore confudit ». The same, *Paneg.* ch. 86: « Quam ego audio confusionem tuam fuisse, quum digredientem prosequereris ». Below, v. 681, our poet says: « Danai turbati caede suorum ».
 
 [3] 646 Interea Danai confusa caede suorum
 
@@ -7213,7 +7214,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 646 interea Danai confusi caede suorum
 - *Iliad* 7.433
-- confusi … at cf. v. 679 et H 426; confusi est 'maesti'
+- confusi … but cf. v. 679 and H 426; confusi means 'sorrowful'
 
 647 ingentes struxere pyras collectaque passim
 
@@ -7238,7 +7239,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 649 Tum renouant fossas et uallum robore cingunt.
 
 [2] 651 Tjjm renovant fossas, et vallum robore cingunt.
-- … Robur, notante Barthio, designat ligneam sepem, roboreum cinctum. Talis autem roborei valli saepe Noster meminit, ut v. 683 et 764.
+- … *Robur*, as Barth notes, designates a wooden fence, an oak palisade. And our poet often mentions such an oak rampart, as in vv. 683 and 764.
 
 [3] 649 Tum renouant fossas et uallum robore cingunt.
 
@@ -7252,7 +7253,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 650 Vt nitidum Titan radiis patefecerat orbem,
 
 [2] 652 VIII. Ut nitidum Titan radiis patefecerat orbem ,
-- … Hunc versum Bondamius l. c. monet ex hoc Ovidii effictum esse, Met. IX, 796: « Postera lux radiis totum patefecerat orbem ». Sic et Virg. Aen. IV, 118: « ubi ortus Extulerit Titan radiisque retexerit orbem ».
+- … Bondam, *loc. cit.*, notes that this verse was fashioned from this line of Ovid, *Met.* IX, 796: « Postera lux radiis totum patefecerat orbem ». So also Virg. *Aen.* IV, 118: « ubi ortus Extulerit Titan radiisque retexerit orbem ».
 
 [3] 650 Ut nitidum Titan radiis patefecerat orbem,
 
@@ -7360,11 +7361,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 660 Priamides agit et totis grauis imminet aruis,
 
 [4] 660 Priamides agit et gradiens supereminet omnes,
-- gradiens supereminet omnes ego (Cf. Aeneid. I, 501) … [armis capiendum videtur de umeris... Totis armis Samtenius accipiebat pro « toti exercitui » KOOTEN] …
+- gradiens supereminet omnes I (cf. Aeneid I, 501) … [armis seems to be taken of the shoulders... Totis armis Santen understood for "the whole army" KOOTEN] …
 
 [6] 660 Priamides agit et totis gravis imminet armis,
 - *Iliad* 8.216
-- … armis … i. copiis; cf. ex. gr. Ov. met. 7, 865
+- … armis … i.e. copiis; cf. e.g. Ovid, Met. 7, 865
 
 661 unum quippe decus Phrygiae. Turbantur Achiui
 
@@ -7410,7 +7411,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 665 Princeps Tydides fulgens ardentibus armis
 
 [2] 667 Princeps Tydides ardentibus emicat armis,
-- Ardentibus armis, ut supra v. 394, flagrantia arma dixit. Ed.
+- *Ardentibus armis*, as above, v. 394, he said *flagrantia arma*. Ed.
 
 [3] 665 Princeps Tydides ardentibus emicat armis,
 
@@ -7432,12 +7433,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 667 Hic illi occurrit fatis Agelaus iniquis,
 
 [2] 669 Hic illi occurrit fatis Agelaus iniquis
-- … hoc loco ponendus est Agelaus Phradmonides, quem hasta per tergum et pectus a Diomede trajectum Homerus memorat, Iliad. VIII, 258.
+- … Agelaus son of Phradmon should be placed here, whom Homer records as pierced through the back and chest with a spear by Diomedes, *Iliad* VIII, 258.
 
 [3] 667 Hic illi occurrit fatis Agelaus iniquis,
 
 [4] 667 Hic illi occurrit fatis Agelaus iniquis,
-- **667, 672** Agelaus, Gorgythiona … (Iliad. VIII, 257 et 302).
+- **667, 672** Agelaus, Gorgythiona … (Iliad VIII, 257 and 302).
 
 [6] 667 hic illi occurrit fatis Agelaus iniquis,
 
@@ -7454,7 +7455,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 669 occupat et duro medium transuerberat ense.
 
 [2] 671 Occupat , et duro medium transverberat ense.
-- … Pro ense hic dicendum erat hasta, secundum Homerum, …
+- … Instead of *ense* [sword], *hasta* [spear] should have been said here according to Homer, …
 
 [3] 669 Occupat et duro medium transuerberat ense.
 
@@ -7465,7 +7466,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 670 Hinc Phrygas Aiacis uastis protectus in armis
 
 [2] 672 Hinc Phrygas Ajacis vastis protectus in armis
-- … qui tradit, Teucrum Ajacis scuto protectum multos Trojanos sagittis interfecisse, Iliad. VIII, vs. 266: Τεῦκρος δ᾽ εἴνατος ἦλθε, παλίντονα τόξα τιταίνων. Στῆ δ᾽ ἄρ᾽ ὑπ᾽ Αἴαντος σάκεϊ Τελαμωνιάδαο· et v. 272: ὁ δέ μιν σάκεϊ κρύπτασκε φαεινῷ. …
+- … recounting that Teucer, protected by Ajax's shield, killed many Trojans with arrows, *Iliad* VIII, v. 266: Τεῦκρος δ᾽ εἴνατος ἦλθε, παλίντονα τόξα τιταίνων. Στῆ δ᾽ ἄρ᾽ ὑπ᾽ Αἴαντος σάκεϊ Τελαμωνιάδαο· and v. 272: ὁ δέ μιν σάκεϊ κρύπτασκε φαεινῷ. …
 
 [3] 670 Hinc Phrygas Aiacis uastis protectus in armis
 
@@ -7487,7 +7488,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 672 Gorgythiona ferum letali uulnere fundit;
 
 [2] 674 Gorgythiona ferum letali vulnere fundit.
-- … Gorgythiona legendum ex Hom. Iliad. VIII, 302, …
+- … *Gorgythiona* should be read from Hom. *Iliad* VIII, 302, …
 
 [3] 672 Gorgythiona ferum letali uulnere fundit,
 
@@ -7510,7 +7511,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 674 Hectoris obtruncat, quem saxo Troius heros
 
 [2] 676 Hectoris obtruncat, quem saxo Troius heros
-- Quem, scil. Teucrum. Ed.
+- *Quem*, namely Teucer. Ed.
 
 [3] 674 Hectoris obtruncat. quem saxo Troius heros
 
@@ -7521,7 +7522,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 675 occupat excussoque incautum proterit arcu.
 
 [2] 677 Occupat, excussoque incautum proterit arcu.
-- … excusso arcu significatur, arcum manibus Teucri excussum esse ictu lapidis ab Hectore conjecti.
+- … by *excusso arcu* [his bow having been struck from him] it is signified that the bow was knocked from Teucer's hands by the blow of the stone hurled by Hector.
 
 [3] 675 Occupat excussoque extentum proterit arcu:
 
@@ -7533,7 +7534,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 676 Ast illum fidi rapiunt de caede sodales
 
 [2] 678 Ast illum fidi rapiunt de caede sodales,
-- … Phrasin illam habet Ovidius, Her. VI, 135: « Prodidit illa patrem: rapui de caede Thoanta ».
+- … Ovid has that phrase, *Her.* VI, 135: « Prodidit illa patrem: rapui de caede Thoanta ».
 
 [3] 676 Ast illum fidi rapiunt de caede sodales
 
@@ -7587,7 +7588,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 681 confugiunt portasque obiecto robore firmant.
 
 [2] 683 Confugiunt , portasque objecto robore firmant.
-- Objecto robore, pessulo roboreo objecto. Totus versus infra recurrit vs. 935. Conferatur etiam versus 762.
+- *Objecto robore* [with the oak barrier thrown across], that is, with an oak bolt thrown across. The whole verse recurs below at v. 935. Verse 762 may also be compared.
 
 [3] 681 Confugiunt portasque obiecto robore firmant.
 
@@ -7610,7 +7611,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 683 excubituque premunt muros flammisque coronant.
 
 [2] 685 Excubiisque premunt muros, flammisque coronant.
-- … Nam Virgilius, Aen. IX, 160: « Interea vigilum excubiis obsidere portas Cura datur Messapo, et moenia cingere flammis », nempe vigiliarum; et ibid. 380: « omnemque aditum custode coronant ».
+- … For Virgil, *Aen.* IX, 160: « Interea vigilum excubiis obsidere portas Cura datur Messapo, et moenia cingere flammis », namely of watch-fires; and ibid. 380: « omnemque aditum custode coronant ».
 
 [3] 683 Excubituque premunt muros flammisque coronant.
 
@@ -7676,7 +7677,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 689 legatos mittunt dextramque hortantur Achillis,
 
 [2] 691 Legatos mittunt, dextramque hortantur Achillis,
-- Dextramque hortantur Achillis. Dextram hoc loco fidem designare observat Barthius, p. 2807, qui praeterea multis locis Veterum adductis probat, dextram invicem datam esse in amicitiae signum, favoris et clementiae; item praebitione dextrae promissiones mutuas factas, pacem compositam et foedera icta. Quae omnia, satis nota, hic repetere longum est. Unum et alterum affero. Valer. Flacc. II, 639, de Cyzico: « Ut videt, ipse ultro primus procurrit ad undas, Miraturque viros, dextraque amplexus et haerens Incipit ». Idem libro III, 14: « manibusque datis junxere nepotes », h. e. perpetuum foedus in omnem posteritatem fecerunt (sed ibi Gronovius vult penates). Prosper libro de Ingrat. « An dextram, pacis palmam, dare te pudet hosti ». Hoc nostri Homeristae loco per dextram, ut mea quidem fert opinio, non modo fides et amicitia Achillis, sed et fortitudo et vis bellica notatur.
+- *Dextramque hortantur Achillis* [And they urge the right hand of Achilles]. Barth, p. 2807, observes that *dextram* in this place designates pledge of faith (*fides*); he further proves, by adducing many passages of the ancients, that the right hand was mutually given as a sign of friendship, favor, and clemency; likewise that by offering the right hand mutual promises were made, peace settled, and treaties struck. It would take too long to repeat all these well-known matters here. I cite one or two. Valerius Flaccus, II, 639, on Cyzicus: « Ut videt, ipse ultro primus procurrit ad undas, Miraturque viros, dextraque amplexus et haerens Incipit ». The same author in Book III, 14: « manibusque datis junxere nepotes », that is, they established a perpetual alliance for all posterity (though Gronovius there prefers *penates*). Prosper in the book *De Ingratis*: « An dextram, pacis palmam, dare te pudet hosti ». In this passage of our Homerizer, in my opinion at least, *dextra* denotes not only the faith and friendship of Achilles, but also his bravery and warlike might.
 
 [3] 689 Legatos mittunt dextramque hortantur Achillis,
 
@@ -7688,7 +7689,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 690 ut ferat auxilium miseris. Thetideius heros
 
 [2] 692 Ut ferat auxilium miseris. Thetideius heros
-- … Thetideius, nempe Thetidis filius, legendum esse vidit Dussenius, pag. 36, idque aliis locis Nostri recte ponitur, ut vs. 897, 943 et 962. …
+- … Dussen, page 36, saw that *Thetideius*, namely the son of Thetis, should be read, and that is correctly placed in other passages of our author, as in vv. 897, 943, and 962. …
 
 [3] 690 Ut ferat auxilium miseris. Thetideius heros
 
@@ -7754,8 +7755,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 696 Alterius tenebrae tarde labentibus astris
 
 [2] 698 X. Altera transierat tarde labentibus astris.
-- … Quoniam hic novae rei, non altera quidem, sed eadem nocte gestae, ut ex Homero apparet, nar-
-- **(cont.)** ratio incipit, et sequente versu pars tertia noctis additur, non potest alterius noctis, quod vulgatae videntur cum praecedente lenique sopore conjungere, hic locum habere, sed auctor alteram partem ejus noctis, qua superius dicta evenerant, et cui mox tertiam subjicit, significare voluit. …
+- … Since here, of a new action, enacted not indeed on another, but on the same night, as is clear from Homer, the nar-
+- **(cont.)** (cont.) -ration begins, and in the following verse *pars tertia noctis* [the third part of the night] is added, *alterius noctis* [of another night]—which the vulgate editions seem to connect with the preceding *lenique sopore*—cannot have a place here; rather, the author intended to signify the second part of that night in which the events mentioned above had occurred, and to which he soon subjoins the third. …
 
 [3] 696 Ulterius tenebrae tarde labentibus astris
 
@@ -7766,7 +7767,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 697 restabatque super tacitae pars tertia noctis,
 
 [2] 699 Restabatque super tacitae pars tertia noctis;
-- … idque confirmant Homeri versus, e quibus ista translata sunt, Iliad. X, 252: Ἄστρα δὲ δὴ προβέβηκε· παρῴχηκεν δὲ πλέων νὺξ Τῶν δύο μοιράων, τριτάτη δ᾽ ἔτι μοῖρα λέλειπται.
+- … and this is confirmed by Homer's lines from which these were translated, *Iliad* X, 252: Ἄστρα δὲ δὴ προβέβηκε· παρῴχηκεν δὲ πλέων νὺξ Τῶν δύο μοιράων, τριτάτη δ᾽ ἔτι μοῖρα λέλειπται.
 
 [3] 697 Restabatque super tacitae pars tertia noctis,
 
@@ -7798,14 +7799,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 700 qui secum tacitae sublustri noctis in umbra
 
 [2] 702 Qui secum tacito sublustri noctis in umbra
-- … Virg. Aen. IX, 373: « sublustri noctis in umbra ».
+- … Virg. *Aen.* IX, 373: « sublustri noctis in umbra ».
 
 [3] 700 Qui secum tutae sublustri noctis in umbra
 
 [4] 700 Qui secum tacitae sublustri noctis in umbra
 
 [6] 700 qui secum tacitae sublustri noctis in umbra
-- sublustri … (cf. Verg. Aen. 9, 373) …
+- sublustri … (cf. Virgil, Aen. 9, 373) …
 
 701 scrutetur studio quae sit fiducia Troum
 
@@ -7861,7 +7862,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 706 perspiceret sensusque ducum plebisque referret.
 
 [2] 708 Perspicerel, sensusque ducum plebisque referret.
-- … — Sensus, notante Barthio, p. 2808, sunt consilia, judicium. Sic frequenter Claudianus, ut de III Cons. Honor. 187: « non corrumpentia sensus Dona valent ». Idem de IV Cons. Hon. 300: « nec sic inflectere sensus Humanos edicta valent, ut vita regentis ». Idem, de Laud. Stilich. III, 10: « magnanimum pectus, quo frena reguntur Imperii, cujus libratur sensibus orbis ».
+- … — *Sensus*, as Barth notes, p. 2808, are counsels, judgment. So frequently in Claudian, as *de III Cons. Honor.* 187: « non corrumpentia sensus Dona valent ». The same author, *de IV Cons. Hon.* 300: « nec sic inflectere sensus Humanos edicta valent, ut vita regentis ». The same author, *de Laud. Stilich.* III, 10: « magnanimum pectus, quo frena reguntur Imperii, cujus libratur sensibus orbis ».
 
 [3] 706 Perspiceret sensusque ducum plebisque referret.
 
@@ -7893,7 +7894,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 709 post densos frutices, dum spe percussus inani
 
 [2] 711 Post densos frutices, durn spe percussus inani
-- … Aptissimum est, quod in vulgatis et in G. 2 exstat, spe percussus inani. Pariter Cicero, Tusc. V, 11: « quodcumque nostros animos probabilitate percussit, id dicimus ». — Sed mihi vix aliquem spe percuti dici posse videtur. Ed.
+- … Most fitting is what stands in the vulgate editions and in G. 2, *spe percussus inani* [struck by vain hope]. Similarly Cicero, *Tusc.* V, 11: « quodcumque nostros animos probabilitate percussit, id dicimus ». — But to me it seems that hardly anyone can be said to be struck by hope (*spe percuti*). Ed.
 
 [3] 709 Post densos frutices, dum spe percussus inani
 
@@ -7904,12 +7905,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 710 Tros Eumediades cursu praecederet illos,
 
 [2] 712 Tros Eumedides cursu praecederet illos,
-- … quod Dolonem Eumedis filium significat, et ex Hom. Il. X, 314, et e Virg. Aen. XII, 346, sumptum est. …
+- … which designates Dolon, son of Eumedes, and is taken both from Hom. *Il.* X, 314, and from Virg. *Aen.* XII, 346. …
 
 [3] 710 Tros Eumediades cursu praecederet illos,
 
 [4] 710 Tros Eumediades cursu praecederet illos,
-- … Eumedides Schrader (Iliad. X, 314).
+- … Eumedides Schrader (Iliad X, 314).
 
 [6] 710 Tros Eumediades cursu praecederet illos,
 
@@ -7926,7 +7927,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 712 Post, ubi transierat fidens animoque manuque,
 
 [2] 714 Post ubi transierat fidens animoque mauuque,
-- Fidens animo, Virgilianum Aen. II, 61.
+- *Fidens animo* [confident in spirit], a Virgilian expression, *Aen.* II, 61.
 
 [3] 712 Post ubi transierat fidens animoque manuque,
 
@@ -7934,7 +7935,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 712 post ubi transierat fidens animoque manuque,
 - *Iliad* 10.350
-- fidens … cf. Verg. Aen. 2, 61
+- fidens … cf. Virgil, Aen. 2, 61
 
 713 prosiluere uiri iuuenemque euadere cursu
 
@@ -7970,7 +7971,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 716 "hoc unum satis est; quodsi perstatis in ira,
 
 [2] 718 Hoc unum satis est : quod si perstatis in ira,
-- Perstatis in ira. Ovidius, Pont. I, 4, 44: « Perstiterit laesi si gravis ira Dei ».
+- *Perstatis in ira* [you persist in anger]. Ovid, *Pont.* I, 4, 44: « Perstiterit laesi si gravis ira Dei ».
 
 [3] 716 'Hoc unum satis est; quodsin perstatis in ira,
 
@@ -8001,7 +8002,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 719 maxima Troia mihi currum promisit Achillis
 
 [2] 721 Maxima Troja mihi currum promisit Achillis,
-- … Hoc ipse Dolon Ulyssi narrat apud Homer. Iliad. X, 392. Virg. Aen. XII, 349 de Dolone: « Qui quondam, castra ut Danaum speculator adiret, Ausus Pelidae pretium sibi poscere currus ». Ovid. in Ib. 629: « Qualis equos pacto, quos fortis agebat Achilles, Acta Phrygi timido est, nox tibi talis eat ». Epigramma de Dolone in Anthol. Lat. I, 95: « Praemia magna Dolon, currum dum poscit Achillis, Prodidit ipse cadens munera magna Dolon ».
+- … Dolon himself relates this to Ulysses in Homer, *Iliad* X, 392. Virgil, *Aen.* XII, 349, says of Dolon: « Qui quondam, castra ut Danaum speculator adiret, Ausus Pelidae pretium sibi poscere currus ». Ovid, in *Ib.* 629: « Qualis equos pacto, quos fortis agebat Achilles, Acta Phrygi timido est, nox tibi talis eat ». An epigram on Dolon in *Anthol. Lat.* I, 95: « Praemia magna Dolon, currum dum poscit Achillis, Prodidit ipse cadens munera magna Dolon ».
 
 [3] 719 Maxima Troia mihi currum promisit Achillis,
 
@@ -8043,7 +8044,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 723 per mare, per Ditis fluctus obtestor opaci,
 
 [2] 725 Per mare, per Ditis fluctus obtestor opaci,
-- Per Ditis fluctus, per Styga, vel per flumina infera, ut jurat, apud Ovidium, Met. I, 187, Jupiter. « Lacus Ditis opacos » dicit Virg. Cul. 371. Obtestandi haec formula est, qualis jurandi apud Ovid. Trist. II, 53: « Per mare, per terras, per tertia numina juro ».
+- *Per Ditis fluctus* [by the waves of Dis], by the Styx, or by the infernal rivers, as Jupiter swears in Ovid, *Met.* I, 187. Virgil says *Lacus Ditis opacos* in *Culex* 371. This is a formula of entreaty, like the oath in Ovid, *Trist.* II, 53: « Per mare, per terras, per tertia numina juro ».
 
 [3] 723 Per mare, per Ditis fluctus obtestor opaci,
 
@@ -8054,7 +8055,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 724 ne rapere hanc animam crudeli caede uelitis.
 
 [2] 726 Ne rapere hanc animam crudeli caede velitis.
-- Ne rapere hanc. Ovidius « eripere animam », Met. VI, 540.
+- *Ne rapere hanc* [do not snatch this away]. Ovid has *eripere animam* [to snatch away life], *Met.* VI, 540.
 
 [3] 724 Ne rapere hanc animam crudeli caede uelitis.
 
@@ -8085,7 +8086,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 727 expediam Phrygiae." Postquam quid Troia pararet
 
 [2] 729 Expediam Phrygiae ». Postquam quid Troja pararet
-- … Barthius Adv. LVIII, 14, p. 2752, putat Trojam pro Trojanis proceribus non satis pulchre dictam esse. Atqui verba haec sunt ab Ovidio mutuata, Met. XIII, 244, ubi Ulysses eamdem rem enarrat: « Ausum eadem, quae nos, Phrygia de gente Dolona Interimo; non ante tamen, quam cuncta coegi Prodere, et edidici, quid perfida Troja pararet. Omnia cognoram ».
+- … Barth, *Adv.* LVIII, 14, p. 2752, thinks that *Troja* was not very elegantly used for the Trojan chiefs. And yet these words were borrowed from Ovid, *Met.* XIII, 244, where Ulysses relates the same affair: « Ausum eadem, quae nos, Phrygia de gente Dolona Interimo; non ante tamen, quam cuncta coegi Prodere, et edidici, quid perfida Troja pararet. Omnia cognoram ».
 
 [3] 727 Expediam Phrygiae'. postquam quid Troia pararet
 
@@ -8096,7 +8097,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 728 cognouere uiri, fauces mucrone recluso
 
 [2] 730 G)gnovere viri, fauces mucrone reclusas
-- … Nam existimo phrasin fauces mucrone reclusas vel revulsas Detrudunt significare caput Dolonis, rescissis faucibus, dejectum corpore esse, quo modo eum obtruncatum esse memorat Homerus, Iliad. X, 455 seq. — Sic jugulos aperire dixit Juvenalis, Sat. IV. Et Horat. Epod. XVII, 71: « Modo ense pectus Norico recludere ». Ed. …
+- … For I think that the phrase *fauces mucrone reclusas* (or *revulsas*) *detrudunt* signifies that Dolon's head, his throat being cut, was severed from his body, in which manner Homer relates that he was beheaded, *Iliad* X, 455 ff. — Thus Juvenal said *jugulos aperire* [to slit the throat], *Sat.* IV. And Horace, *Epod.* XVII, 71: « Modo ense pectus Norico recludere ». Ed. …
 
 [3] 728 Cognouere uiri, fauces mucrone recluso
 
@@ -8108,8 +8109,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 729 detrudunt iuuenis. Post haec tentoria Rhesi
 
 [2] 731 Detrudunt juvenis. Post haec tentoria Rhesi
-- … — Et verbum Detrudunt repetitum videtur e Virg. Aen. IX, 496: « tuo-
-- **(cont.)** que Invisum hoc detrude caput sub Tartara telo ». Ed. …
+- … — And the verb *Detrudunt* seems repeated from Virg. *Aen.* IX, 496: « tuo-
+- **(cont.)** (cont.) -que Invisum hoc detrude caput sub Tartara telo ». Ed. …
 
 [3] 729 Pertundunt iuueni: post haec tentoria Rhesi
 
@@ -8141,7 +8142,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 732 exanimant socios. Tum tristi caede peracta
 
 [2] 734 Exaniinant socios : tam tristi caede peracta
-- Exanimant, pro caedunt ferro et interficiunt, activa forma, rarius puto apud meliores scriptores inveniri. …
+- *Exanimant*, for they slaughter with the sword and kill, in the active form, is found rather rarely, I think, among the better writers. …
 
 [3] 732 Exanimant socios; tum tristi caede peracta
 
@@ -8152,7 +8153,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 733 praeda umeros onerant, multo et candore nitentes
 
 [2] 735 Praeda humeros onerant, multo candore nitentes
-- Candore nitentes. Similiter Virg. Aen. XII, 84: « Qui candore nives anteirent, cursibus auras ».
+- *Candore nitentes* [shining with whiteness]. Similarly Virg. *Aen.* XII, 84: « Qui candore nives anteirent, cursibus auras ».
 
 [3] 733 Praeda umeros onerant, multo candore nitentes
 
@@ -8173,7 +8174,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 734 Thracas equos rapiunt, quos nec praecederet Eurus
 
 [2] 737 Thracis equos rapiunt, quos nec prsecederet Eurus,
-- … quia poetae solent cursum velocem cum Euro inprimis comparare. Vid. Virg. Aen. VIII, 223, et Horat. Carm. II, 16, 24; et docti viri apud Virg. I, 317, pro Hebro ponere Eurum volunt. …
+- … because poets are accustomed to compare swift running especially with the East Wind (*Eurus*). See Virg. *Aen.* VIII, 223, and Horat. *Carm.* II, 16, 24; and learned men in Virg. I, 317 wish to substitute *Eurus* for *Hebrus*. …
 
 [3] 734 Thracas equos rapiunt, quos nec praecederet Eurus
 
@@ -8181,12 +8182,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 734 Thraecis equos rapiunt, quos nec praecederet Eurus
 - *Iliad* 10.437
-- … cf. Ov. met. 9, 194 …
+- … cf. Ovid, Met. 9, 194 …
 
 735 nec posset uolucri cursu superare sagitta.
 
 [2] 738 Nec posset volucri cursu superare sagitta.
-- … Similiter Virgilius, Aen. V, 242: « illa Noto citius volucrique sagitta Ad terram fugit ».
+- … Similarly Virgil, *Aen.* V, 242: « illa Noto citius volucrique sagitta Ad terram fugit ».
 
 [3] 735 Nec posset uolucri cursu superare sagitta.
 
@@ -8207,8 +8208,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 737 ad classes redeunt, quos Nestoris accipit aetas
 
 [2] 740 Ad classes redeunt, quos Nestoris accipit setas,
-- Nestoris accipit aetas, hoc est, Nestor senex primus eos sentit advenire, et laetus accipit, quod ex Homero, X, 532, intelligi potest. Alio loco, v. 131, utitur Noster abstracto prudentia Nestoris, ubi de consilio dando sermo est; hic vocabulo aetas Nestoris, senectutem tantum respiciens, quia senes inprimis juvenum virtutes et bene
-- **(cont.)** gesta observare et collaudare decet.
+- *Nestoris accipit aetas* [the age of Nestor receives them], that is, the aged Nestor is the first to perceive them arriving, and gladly receives them, as can be understood from Homer, X, 532. In another place, v. 131, our author uses the abstract *prudentia Nestoris* [the wisdom of Nestor], where there is talk of giving counsel; here he uses the expression *aetas Nestoris* [the age of Nestor], regarding only his old age, because it especially befits old men to observe and praise the virtues and noble
+- **(cont.)** (cont.) deeds of young men.
 
 [3] 737 Ad classes redeunt, quos Nestoris excipit aetas
 
@@ -8216,7 +8217,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 737 ad classes redeunt; quos Nestoris accipit aetas
 - *Iliad* 10.532
-- accipit (i. audit) …
+- accipit (i.e. hears) …
 
 738 ac recipit portis. Postquam sua castra tenebant,
 
@@ -8275,7 +8276,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 743 Dardanidum Danaumque duces: uolat undique nubes
 
 [2] 746 Dardanidum Danaumque duces : volat undique nubes
-- … — Nubem telorum, si recte memini, Maro non dixit, nisi ex comparatione antecedente, Aen. XI, 808: « sic obrutus undique telis Aeneas nubem belli, dum detonet, omnem Sustinet ». — Sed densam telorum nubem dicit Marius Victor in carm. ad Salmon. v. 16. Vid. huj. Op. t. II, …
+- … — *Nubem telorum* [a cloud of missiles], if I remember correctly, Maro did not say, except from an antecedent comparison, *Aen.* XI [recte X], 808: « sic obrutus undique telis Aeneas nubem belli, dum detonet, omnem Sustinet ». — But Marius Victor says *densam telorum nubem* in *carm. ad Salmon.* v. 16. See vol. II of this work, …
 
 [3] 743 Dardanidum Danaumque duces: uolat undique nubes
 
@@ -8289,12 +8290,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 747 Telorum , et ferro ferrum sonat : undique mixtis
 
 [3] 744 Telorum et ferro ferrum sonat, undique flictu
-- … uerba et ferrum — 746 acies habent gesta Bereng. II 272—74 …
+- … the words et ferrum — 746 acies are in the Gesta Berengarii II 272–74 …
 
 [4] 744 Telorum, ferro ferrum sonat, undique mixtis
 
 [6] 744 telorum et ferro ferrum sonat, undique mixtis
-- (testimonia) ferrum — 746 acies = Gesta Ber. 2, 272—4 (745 stridunt)
+- (testimonia) *ferrum* — 746 *acies* = *Gesta Ber.* 2, 272–4 (745 *stridunt*)
 
 745 inter se strident mucronibus: instat utrimque
 
@@ -8329,7 +8330,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 748 Antiphon ingenti prostratum uulnere fundit
 
 [2] 751 Antiphonem iagenti prostratum vulnere fundit,
-- … In Homero, Il. XI, 101, Antiphum et Isum, filios Priami, lego ab Agamemnone interfectos. Hunc nominare voluerit Homerista, an alium, adhuc dubito. …
+- … In Homer, *Il.* XI, 101, I read that Antiphus and Isus, sons of Priam, were slain by Agamemnon. Whether our Homerist intended to name him or another, I still doubt. …
 
 [3] 748 Antiphon ingenti prostratum uulnere fudit
 
@@ -8341,12 +8342,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 749 Pisandrumque simul fratremque ad bella ruentem
 
 [2] 752 Pisandrumque simul , fratremque ad bella ruentem
-- … Pisandrum et Hippolochum ex Homero, Iliad. XI, vs. 122, adparet, …
+- … it is apparent that *Pisandrum* and *Hippolochum* must be put, from Homer, *Iliad* XI, v. 122, …
 
 [3] 749 Pisandrumque simul fratremque ad bella ruentem
 
 [4] 749 Pisandrumque simul fratremque ad bella ruentem
-- **749, 750** Pisandrum, Hippolochum … (Iliad. XI, 122).
+- **749, 750** Pisandrum, Hippolochum … (Iliad XI, 122).
 
 [6] 749 Pisandrumque simul fratremque ad bella ruentem
 - *Iliad* 11.122
@@ -8354,7 +8355,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 750 Hippolochum; post hos gladio petit Iphidamanta.
 
 [2] 753 Hippolochum , post hos gladio petit Iphidamanta :
-- … Nam Iphidamanta, Antenoris filium, hic restituendum ex Homeri Iliad. XI, 221, …
+- … For … *Iphidamanta*, son of Antenor, should be restored here from Homer's *Iliad* XI, 221.
 
 [3] 750 Hippolochum; post hos gladio petit Iphidamanta.
 
@@ -8366,8 +8367,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 751 Hic frater dextram iaculo ferit; ille dolore
 
 [2] 754 Hinc frater regis dextram ferit , ille dolore
-- … Ex Homeri narratione, Iliad. XI, 231 seqq. res ita
-- **(cont.)** se habuit. Postquam Agamemnon Iphidamanta interfecerat, frater ejus Coon natu major, mortem fratris valde dolens, et forte adstans Agamemnoni, brachium ejus medium hasta percutit: at illum fratris corpus abstrahentem mox Agamemnon interficit. … nam adpositum gladio supervacuum et contra Homerum est, qui hasta percussisse scribit.
+- … From Homer's narrative, *Iliad* XI, 231 ff., the matter
+- **(cont.)** (cont.) stood. After Agamemnon had slain Iphidamas, his elder brother Coon, deeply grieving at his brother's death and chancing to stand near Agamemnon, strikes the middle of his arm with a spear; but as he was dragging away his brother's body, Agamemnon soon slays him. … for the addition *gladio* [with the sword] is superfluous and contrary to Homer, who writes that he struck him with a spear.
 
 [3] 751 Hic regis dextram frater ferit; ille dolore
 
@@ -8378,7 +8379,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 752 acrior accepto fugientem Antenore natum
 
 [2] 755 Acrior acoepto fugientem Antenore natum
-- Antenore natum, nempe Coonem, fratrem Iphidamantis.
+- *Antenore natum* [the son of Antenor], namely Coon, brother of Iphidamas.
 
 [3] 752 Acrior accepto fugientem Antenore natum
 
@@ -8389,7 +8390,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 753 persequitur traxitque ferox cum uulnere poenas.
 
 [2] 756 Persequitur, traxitque ferox cum vulnere pccnas.
-- Traxitque ferox cum vulnere poenas, h. e. Agamemnon vulneratus licet, ferox poenas continuavit, vel exercere perrexit, in Coone. Traxit ... graves cum sanguine poenas Helmst. Phrasin petiisse videtur ex hoc Virgilii, Aen. V, 785: « Non media de gente Phrygum exedisse nefandis Urbem odiis satis est, poenam traxisse per omnes Relliquias ».
+- *Traxitque ferox cum vulnere poenas*, that is, Agamemnon, although wounded, fiercely continued vengeance, or proceeded to exact it, upon Coon. The Helmstedt MS has *Traxit ... graves cum sanguine poenas*. He seems to have taken the phrase from this passage of Virgil, *Aen.* V, 785: « Non media de gente Phrygum exedisse nefandis Urbem odiis satis est, poenam traxisse per omnes Relliquias ».
 
 [3] 753 Persequitur traxitque ferox cum uulnere poenas.
 
@@ -8455,7 +8456,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 759 uiribus exhaustis et uastis undique firmant
 
 [2] 762 Yiribus exhaustis, et vastis undique firmant
-- Firmant Obicibus. Ut supra, versu 683, « portas objecto robore firmant ».
+- *Firmant Obicibus* [they fasten with bars]. As above, verse 683, « portas objecto robore firmant ».
 
 [3] 759 Uiribus exhaustis et uastis undique firmant
 
@@ -8466,7 +8467,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 760 obicibus muros. Tum saxo Martius Hector
 
 [2] 763 Obicibus muros ; tum saxo Martius Hector
-- … Barthius ad primum versum Thebaidos in hoc et sequente versu observat auctorem literis a et r frequenter junctis asperitatem soni in re horrida quaesisse.
+- … Barth, on the first verse of the *Thebaid*, observes on this and the following verse that the author, by frequently combining the letters *a* and *r*, sought harshness of sound for a terrible event.
 
 [3] 760 Obicibus muros, tum saxo Martius Hector
 
@@ -8539,7 +8540,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 767 Saxa uolant, subeunt acta testudine Troes
 
 [2] 770 Saxa volant; subeunt acta testudine Troes,
-- … Nempe hoc etiam Virgiliana imitatio subjicit, Aen. II, 441: « obsessumque acta testudine limen »; et IX, 505, « Accelerant acta pariter testudine Volsci ».
+- … Indeed, an imitation of Virgil also suggests this, *Aen.* II, 441: « obsessumque acta testudine limen »; and IX, 505: « Accelerant acta pariter testudine Volsci ».
 
 [3] 767 Saxa uolant, subeunt acta testudine Troes
 
@@ -8547,7 +8548,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 767 saxa volant, subeunt acta testudine Troes
 - *Iliad* 12.287
-- acta … ex Verg. Aen. 2, 441. 9, 505 …
+- acta … from Virgil, Aen. 2, 441; 9, 505 …
 
 768 ascenduntque aditus et portis uiribus instant.
 
@@ -8617,7 +8618,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 774 Idomenei dextra cadit Asius; Hector atrocem
 
 [2] 777 Idoraenei dextra cadit Asius; Hector atrocem
-- … Certe, qui hic prior Asius, et ante Amphimachum ab Hectore occisum, nominatur, eum Homerus multo post Amphimachum dicit interfectum, Iliad. XIII, 384. Neque vero Idomenei facinus in hac acie reticet Noster, et proxime Alcathoum, Anchisae generum, ab eo occisum memorat, quae caedes memorabilior fuit, quam ista Asii. …
+- … Certainly, this Asius who is named first here, and before Amphimachus is slain by Hector, is said by Homer to have been killed long after Amphimachus, *Iliad* XIII, 384. Nor does our poet pass over the deed of Idomeneus in this battle, and he mentions next that Alcathous, the son-in-law of Anchises, was slain by him—a slaughter that was more memorable than that of Asius. …
 
 [3] 774 Dextraque Idomenei cadit Asius; Hector atrocem
 
@@ -8640,7 +8641,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 776 Anchisae gener Alcathous, quem fuderat ense
 
 [2] 779 Anchisae gener Alcathous, quem fnderat ense
-- … pro quo Alcathous ex Homero recte reponunt Dorpius et Dussenius: …
+- … for which Dorpius and Dussen correctly restore *Alcathous* from Homer; …
 
 [3] 776 Anchisae gener Alcathous, quem fuderat ense
 
@@ -8652,7 +8653,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 777 magnanimus ductor Rhytieus. Tunc feruidus hasta
 
 [2] 780 Magnanimus dactor Cretum; tunc fervidas hasta
-- … et tamen Idomeneus, qui Alcathoum occidit, ductor Cretum vocatur ab Homero, Il. XIII, 221, 259, 274, aliisque in locis. …
+- … and yet Idomeneus, who slew Alcathous, is called the leader of the Cretans by Homer, *Il.* XIII, 221, 259, 274, and in other places. …
 
 [3] 777 Magnanimus ductor Rhythieus; tum feruidus hasta
 
@@ -8726,7 +8727,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 783 sanguineos fluctus Xanthi lavere fluentis.
 - *Iliad* 15.434
-- … cf. Verg. Aen. 4, 143
+- … cf. Virgil, Aen. 4, 143
 
 784 Inde iterum ad pugnam redeunt; fit maxima caedes
 
@@ -8766,7 +8767,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 787 Archilochumque Antenoriden Telamonius Aiax,
 
 [4] 787 Archilochumque Antenoriden Telamonius Ajax,
-- Archilocum … (Iliad. XIV, 462 sqq.).
+- Archilocum … (Iliad XIV, 462 ff.).
 
 [6] 787 Archelochumque Antenoriden Telamonius Aiax,
 - *Iliad* 14.465
@@ -8796,7 +8797,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 790 acrius insurgunt Troes ad Achaica bella
 
 [2] 793 XV. Acrins insurgunt Troes ad Achaica bella,
-- … Per nimiam brevitatem scriptoris jejunamque in narrando exilitatem fit, ut hoc loco perspici nequeat, unde tam repentina conversio rerum facta sit, ut Trojani paullo ante caesi fugatique, nunc acrius insurgant, et Graecos adeo ad naves suas, multa caede facta, compellant. Nimirum brevius saltem attingi debebant caussae, quas Homerus fingit, Jovem expergefactum Trojanis virtutem reddidisse, Neptunumque dehortatum, ne Graecos amplius juvaret, Hectoremque ab Apolline excitatum et novis viribus instructum, ut pugnam integraret. Haec commenta Homeri si diligentius retulisset auctor, quam pugnas et caedes, impetus et fugas, magis servasset amoenitatem poematis, nec meram historiam narrasset.
+- … Through the author's excessive brevity and barren meagerness in narration, it happens that in this passage it cannot be perceived whence so sudden a reversal of affairs occurred, that the Trojans, who a little while before were slain and routed, now rise up more fiercely, and even drive the Greeks to their ships after inflicting great slaughter. Truly, at least briefly, the causes should have been touched upon which Homer invents: that Jove awakened restored courage to the Trojans, dissuaded Neptune from helping the Greeks any further, and that Hector was revived by Apollo and furnished with new strength to renew the fight. If the author had related these inventions of Homer more attentively than mere battles and slaughters, charges and retreats, he would have preserved more of the charm of poetry, and would not have narrated bare chronicle.
 
 [3] 790 Acrius adsurgunt Troes; at Achaica turba
 
@@ -8905,7 +8906,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 800 stans prima in puppi, clipeoque incendia saeua
 
 [2] 803 Stans prima in puppi , clypeoque incendia sseva
-- … — Incendia saeva Sustinet. Sic Ovidius, Ajacem loquentem inducens, Met. XIII, 7: « non Hectoreis dubitavit cedere flammis Quas ego sustinui ». Ed.
+- … — *Incendia saeva Sustinet* [withstands the savage flames]. So Ovid, introducing Ajax speaking, *Met.* XIII, 7: « non Hectoreis dubitavit cedere flammis Quas ego sustinui ». Ed.
 
 [3] 800 Stans prima in puppi, clipeoque incendia saeua
 
@@ -8916,7 +8917,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 801 sustinet et solus defendit mille carinas.
 
 [2] 804 Sustinet, et solus defendit mille carinas.
-- Defendit mille carinas. Apud Ovid. loco cit. « Nempe ego mille meo protexi pectore puppes ».
+- *Defendit mille carinas* [Defends a thousand ships]. In Ovid, in the passage cited: « Nempe ego mille meo protexi pectore puppes ».
 
 [3] 801 Sustinet et solus defendit mille carinas.
 
@@ -9034,7 +9035,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 812 et nunc hos cursu nunc illos praeterit ardens
 
 [2] 815 Et nunc hos cursu y nunc illos praeterit ardens,
-- … Quo versu respexisse Maronem videtur Aen. IV, 157: « jamque hos cursu, jam praeterit illos ».
+- … In this verse he seems to have looked to Virgil, *Aen.* IV, 157: « jamque hos cursu, jam praeterit illos ».
 
 [3] 812 Et nunc hos cursu nunc illos praeterit ardens
 
@@ -9130,7 +9131,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 821 Nam licet ipse suis Mauors te protegat armis,
 
 [2] 824 Nam licet ipse suis Mavors te protegat armis,
-- Nam licet ipse. Pulcherrimos hos versus praedicat Barthius, Adv. LIX, 15, p. 2808. At vero eos auctor non suo, sed Ovidii ingenio debet, quem paene ad verbum exscripsit, Metam. VIII, 394: « Ipsa suis licet hunc Latonia protegat armis, Hunc tamen invita perimet mea dextra Diana ».
+- *Nam licet ipse*. Barth proclaims these verses very beautiful, *Adv.* LIX, 15, p. 2808. But in truth the author owes them not to his own talent, but to Ovid's, whom he copied almost word for word, *Metam.* VIII, 394: « Ipsa suis licet hunc Latonia protegat armis, Hunc tamen invita perimet mea dextra Diana ».
 
 [3] 821 Nam licet ipse suis Mauors te protegat armis,
 
@@ -9197,8 +9198,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 827 Patroclus redditque uices et, mutua dona,
 
 [2] 830 Patroclus, redditque vices et mutua dona.
-- Et mutua dona. Ad haec verba Barthius, Advers. LVIII, 14, p. 2752, notat idiotismum auctoris esse, quod ictum vocet donum. At vero sic Virgilius etiam loquutus est, Aen. X, v. 881: « Desine, jam venio moriturus, et haec tibi porto Dona prius ». — Sic Catullus in epigr. ad Calvum: « Ac te his suppliciis remunerabor »; et Val. Flaccus, V, 550: « Qui gemitus, irasque pares, et mutua Graiis dona ferant ». Jam hoc monuit Jo. Schraderus, Observ. I, cap. 3, pag. 35.
-- **(cont.)** Sic et gratiam referre in malam partem pro ultione aut talione dicitur. Terent. Eun. V, 3, 2: « qui referam illi sacrilego gratiam ». Ed.
+- *Et mutua dona* [And mutual gifts]. On these words Barth, *Advers.* LVIII, 14, p. 2752, notes that it is an idiosyncrasy of the author that he calls a blow a gift. But in fact Virgil also spoke thus, *Aen.* X, v. 881: « Desine, jam venio moriturus, et haec tibi porto Dona prius ». — So Catullus in the epigram to Calvus [c. 14, 20]: « Ac te his suppliciis remunerabor »; and Valerius Flaccus, V, 550: « Qui gemitus, irasque pares, et mutua Graiis dona ferant ». Jo. Schrader already pointed this out, *Observ.* I, chap. 3, page 35.
+- **(cont.)** (cont.) So also *gratiam referre* [to return thanks / repay a favor] is said in an unfavorable sense for revenge or retaliation. Terence, *Eun.* V, 3, 2: « qui referam illi sacrilego gratiam ». Ed.
 
 [3] 827 Patroclus redditque uices et mutua dona;
 
@@ -9283,7 +9284,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 834 irruit et iuuenem nudato pectore ferro
 
 [2] 838 Irruit, et juvenem , nudato pectore , ferro
-- … Nempe juvenem ferro trajicit, postquam ejus pectus nudatum erat ab Apolline, ut dixit versu 836. Etenim Homerus narrat, arma Patroclo detracta ab Apolline: Homerista, eum deserens, detracta dicit ab Hectore.
+- … Namely, he pierces the youth with his sword after his breast had been bared by Apollo, as he stated in verse 836. For Homer relates that the armor was stripped from Patroclus by Apollo; the Latin Homerist, departing from him, says that it was stripped by Hector.
 
 [3] 834 Irruit et iuuenem nudato pectore ferro
 
@@ -9352,7 +9353,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 840 Nestorides in castra ferunt miserabile corpus.
 
 [2] 844 Nestorides in castra refert miserabile corpus.
-- … Caeterum et hic diverse ab Homero narrat auctor. Nam secundum eum Menelaus et Meriones corpus Patrocli retulerunt in castra, Antilochus tantum nuntium de morte ejus pertulit ad Achillem.
+- … Moreover, here too the author narrates differently from Homer. For according to Homer, Menelaus and Meriones carried the body of Patroclus back to the camp, while Antilochus only carried the message of his death to Achilles.
 
 [3] 840 Nestorides in castra ferunt miserabile corpus.
 
@@ -9363,7 +9364,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 841 Tunc ut Pelidae aures diuerberat horror,
 
 [2] 845 XVIII. Tunc ut Pelidae rumor deverberataures,
-- **(cont.)** … Barthius, Advers. p. 2752, diverberare aures rumorem pro idiotismo Nostri habet. Sed tamen alii similibus utuntur verbis. Apud Plaut. Amphitr. I, 1, 177: « vox aures verberat »; et Lucan. VII, 25, « tuba verberat aures ». — In fragmento Petronii, quod retulimus t. II, hujus op. p. 128: « subitis rumoribus oppida pulsat ». Ed. — Id. Satyr. cap. 68: « nullus sonus unquam acidior percussit aures meas ».
+- **(cont.)** … Barth, *Advers.* p. 2752, regards *diverberare aures rumorem* [that a rumor strikes the ears] as an idiom of our author. Yet other writers use similar expressions. In Plautus, *Amphitr.* I, 1, 177: « vox aures verberat »; and Lucan, VII, 25: « tuba verberat aures ». — In a fragment of Petronius, which we cited in vol. II, p. 128 of this work: « subitis rumoribus oppida pulsat ». Ed. — The same author, *Satyr.* ch. 68: « nullus sonus unquam acidior percussit aures meas ».
 
 [3] 841 Hic Pelidae aures ut dirus uerberat horror,
 
@@ -9385,7 +9386,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 843 membra simul lacrimans materno innectit amictu,
 
 [2] 847 Membra siimil lacrymans materno tersit amictu
-- … Sed materno amictu, i. e. a matre accepto, quod dicit Noster, id habet sine dubio ex aliorum poetarum locis, qui matres, dicunt, filiis suis, in bellum euntibus, vestes texuisse, ut de Lauso Virgil. Aen. XI, 818; de Atye Statius, Theb. VIII, 566, et de Parthenopaeo, Atalantae filio; idem, IX, 691, et fortasse de Achille idem alicubi dictum est. Sed hoc loco tamen maternae vestis non meminit Homerus.
+- … But as to *materno amictu* [with his mother's robe], that is, received from his mother, which our poet says, he has this without doubt from passages of other poets who say that mothers wove garments for their sons going into war, as Virgil of Lausus, *Aen.* XI, 818; Statius of Atys, *Theb.* VIII, 566, and of Parthenopaeus, the son of Atalanta, the same author, IX, 691; and perhaps the same was said somewhere of Achilles. In this passage, however, Homer makes no mention of a maternal garment.
 
 [3] [843] [Membra simul lacrimans materno nectit amictu
 
@@ -9397,7 +9398,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 844 deflens Aeacides tristi de caede sodalis;
 
 [2] 848 Deflens Aeacides tristi de caede sodatis,
-- … Nescio, an prorsus adsentiendum sit Barthio l. c. qui deflere de caede pro idiotismo auctoris, et pro insolente adeo phrasi habet. Deflere eo sensu accipiendum, ut sit abunde flere, flendoque adimplere dolorem, quemadmodum declamare, defatigare, detonare et similia dicuntur; de caede autem ponitur pro ob vel propter caedem. …
+- … I do not know whether we should entirely agree with Barth *loc. cit.*, who regards *deflere de caede* as an idiom of the author, and indeed as an unusual phrase. *Deflere* is to be taken in the sense of weeping abundantly, and fulfilling one's grief by weeping, just as *declamare*, *defatigare*, *detonare*, and similar words are used; while *de caede* is put for *ob* or *propter caedem* [on account of the slaughter]. …
 
 [3] 844 Deflens Aeacides tristi de caede sodalis.]
 
@@ -9408,7 +9409,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 845 unguibus ora secat comptosque in puluere crines
 
 [2] 849 Unguibns ora seeat, comptos in pulvere crines
-- … Morem pulvere se conspergendi in luctu non Judaeis solum, quod ex sacris literis notum, sed et Graecis Romanisque usitatum, quamquam rara ejus exempla, notat Bernartius ad Stat. Theb. III, 50, qui eum saepius tangit, praesertim Theb. VI, 30: « sed et ipse exsutus honore Vittarum nexu genitor, squallentiaque ora Sparsus, et incultam ferali pulvere barbam ». — Et conferatur Catullus in Epithal. Pel. p. 183, ed. Voss. « Canitiem terra atque infuso pulvere foedans ». Ed. — Verbo deformat etiam utitur Noster ad consuetudinem Veterum, qui informes maxime vocare solent ita pulvere conspersos. Statius l. c. « haustaque informis arena Questibus implet agros ». Et Cornelius Severus, de morte Ciceronis, v. 16: « Informes vultus sparsamque cruore nefando Canitiem ».
+- … The custom of sprinkling oneself with dust in mourning, not only among the Jews (as is well known from Sacred Scripture) but also in use among the Greeks and Romans, although examples of it are rare, is noted by Bernarts on Stat. *Theb.* III, 50; Statius touches upon it rather frequently, especially *Theb.* VI, 30: « sed et ipse exsutus honore Vittarum nexu genitor, squallentiaque ora Sparsus, et incultam ferali pulvere barbam ». — And compare Catullus in *Epithal. Pel.* p. 183, ed. Voss.: « Canitiem terra atque infuso pulvere foedans ». Ed. — Our poet also uses the verb *deformat* according to the custom of the ancients, who are especially accustomed to call those thus sprinkled with dust *informes* [disfigured]. Statius *loc. cit.*: « haustaque informis arena Questibus implet agros ». And Cornelius Severus, on the death of Cicero, v. 16: « Informes vultus sparsamque cruore nefando Canitiem ».
 
 [3] 845 Unguibus ora secat, comptos dein puluere crines
 
@@ -9416,13 +9417,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 845 unguibus ora secat comptosque in pulvere crines
 - *Iliad* 18.23
-- … cf. Verg. Aen. 12, 99 …
+- … cf. Virgil, Aen. 12, 99 …
 
 846 deformat, scindit firmo de pectore uestes
 
 [2] 850 Deformat, scindit filrmas de pectore vestes,
-- Scindit de pectore vestes. Hunc morem omnium gentium scin-
-- **(cont.)** dendi vestes in luctu Barthius multis locis commentariorum suorum, maximeque ad hunc locum Statii probavit, Theb. IX, 353: « Exsiliit furibunda comis, ac verbere crebro Oraque, pectoraque, et viridem scidit horrida vestem ». Conferantur ejusdem adnotata ad Stat. Silv. II, 1, 171. Addere est Sil. Ital. XIII, 389: « Pulsato lacerat violenter pectore amictus ».
+- *Scindit de pectore vestes* [He tears the garments from his breast]. This custom of all nations of tear-
+- **(cont.)** (cont.) -ing garments in mourning was illustrated by Barth in many places in his commentaries, and especially on this passage of Statius, *Theb.* IX, 353: « Exsiliit furibunda comis, ac verbere crebro Oraque, pectoraque, et viridem scidit horrida vestem ». Compare his notes on Stat. *Silv.* II, 1, 171. One may add Sil. Ital. XIII, 389: « Pulsato lacerat violenter pectore amictus ».
 
 [3] 846 Deformat scinditque suas de pectore uestes
 
@@ -9485,7 +9486,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 851 Hector" - ait - "magnoque meo, uiolente, dolori
 
 [2] 856 Hector , ait, magnasque meo, violente, dolori
-- … Caeterum Barthius, Adv. p. 2753, putat auctorem violentum convicii et criminis loco voluisse accipi, eoque videri eo saeculo scripsisse, quo talia secius atque par erat usurpari consueverunt. Ego vero frustra hic quaeri convicium et crimen existimo; sed tamquam violentus increpatur, qui audax et temerarius est, et viribus suis male utitur. Certe non aliter Ovidius, quem et hic sequutus scriptor videtur, Met. IX, 121: « Quo te fiducia, clamat, Vana pedum, violente, rapit ». — Nec aliter de ipso Marte Tibullus, IV, 2, 3: « at tu, violente, caveto Ne tibi miranti turpiter arma cadant ». Et Ovidius, in Ibin, v. 20: « At tibi, calcasti qui me, violente, jacentem ». Ed.
+- … For the rest, Barth, *Adv.* p. 2753, thinks that the author intended *violentum* to be taken as an insult and reproach, and therefore seems to have written in an age in which such terms were customarily used less appropriately than was proper. I, however, consider that an insult and reproach are sought here in vain; rather he is reproached as *violentus* [violent] who is bold and reckless, and misuses his strength. Certainly Ovid, whom the writer also seems to have followed here, speaks no differently, *Met.* IX, 121: « Quo te fiducia, clamat, Vana pedum, violente, rapit ». — Nor does Tibullus speak otherwise of Mars himself, IV, 2, 3: « at tu, violente, caveto Ne tibi miranti turpiter arma cadant ». And Ovid, *in Ibin*, v. 20: « At tibi, calcasti qui me, violente, jacentem ». Ed.
 
 [3] 851 Hector' ait, 'magnoque meo, uiolente, dolori
 
@@ -9504,7 +9505,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 852 persolves poenas atque istis, victor, in armis,
 - *Iliad* —
-- … hyperbaton virgulis indicavi
+- … I indicated the hyperbaton with commas
 
 853 in quibus exsultas, fuso moriere cruore."
 
@@ -9520,7 +9521,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 854 Post haec accensus furiis decurrit ad aequor
 
 [2] 859 Post haec accensus furiis decurrit ad aequor.
-- … Accensus furiis Virgil. Aen. XII, 946.
+- … *Accensus furiis* [inflamed with rage], Virgil, *Aen.* XII, 946.
 
 [3] 854 Post haec accensus furiis decurrit ad aequor
 
@@ -9554,7 +9555,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 857 Excitat Aetnaeos calidis fornacibus ignes
 
 [2] 862 Excitat Aetnaeos calidis fornacibus ignes
-- Aetnaeos ignes hic nominat Homerista Virgilium imitans, Aen. VIII, v. 419 seqq. non Homerum, qui Aetnam flagrantem et Vulcani in ea officinam ignorat. Sic apud Reposianum de Concub. Martis et Veneris, v. 163, Vulcanus, ut vincula illigandis adulteris fabricet, « Antra furens Aetnaea petit ».
+- The Homerist here mentions *Aetnaeos ignes* [Aetnaean fires], imitating Virgil, *Aen.* VIII, vv. 419 ff., not Homer, who knows nothing of a burning Aetna and Vulcan's workshop within it. Thus in Reposianus, *De Concub. Martis et Veneris*, v. 163, Vulcan, in order to forge chains to bind the adulterers, « Antra furens Aetnaea petit ».
 
 [3] 857 Excitat Aetnaeos calidis fornacibus ignes
 
@@ -9587,7 +9588,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 860 Euolat inde Thetis; quae postquam magnus Achilles
 
 [2] 865 Et donat Thetidi : quae postquam magnus Achilles
-- … Evolat ad Thetidem, quod minime aptum est Vulcano, qui claudus describitur ab Homero. — Et propterea tardipes Deus vocatur a Catullo, Carm. 31. Ed. …
+- … *Evolat ad Thetidem* [He flies off to Thetis], which is least of all suited to Vulcan, who is described by Homer as lame. — And for that reason he is called the slow-footed god (*tardipes Deus*) by Catullus, *Carm.* 31. Ed. …
 
 [3] 860 Euolat inde Thetis. quae postquam magnus Achilles
 
@@ -9611,7 +9612,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 862 Illic Ignipotens mundi caelauerat arcem
 
 [2] 867 Iliic Ignipotens mundi caeiaverat axem,
-- Illic Ignipotens, i. e. Vulcanus. Vid. quae diximus ad vers. 105. … Videtur respicere Ovid. Metam. XIII, 110: « Nec clypeus vasti caelatus imagine mundi ». …
+- *Illic Ignipotens*, that is, Vulcan. See what we said on verse 105. … He seems to have in view Ovid, *Metam.* XIII, 110: « Nec clypeus vasti caelatus imagine mundi ». …
 
 [3] 862 Illic Ignipotens mundi caelauerat arcem
 
@@ -9633,8 +9634,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 864 Oceani terras et cinctum Nerea circum
 
 [2] 870 Oceanum ] terras , et euntem Nerea circum ,
-- … Sic Ovid. Met. II, 6, quem Noster sine dubio respexit: « Aequora caelarat medias cingentia terras ». Priscianus, initio Perieges. « Oceanum, tellus quo cingitur aequore tota ». Et conf. quae diximus ad Lucilii Aetnam, v. 93. … Potest tamen cinctus circum mutato sensu ab auctore positum esse pro circumductus vel circumfusus, atque adeo τῷ cinctum
-- **(cont.)** forte substitui ductum vel fusum. Ovid. Met. I, 12: « Et circumfuso pendebat in aere tellus ». — Videtur subinde cingere usurpari a poetis pro circumducere, circum adponere vel adjungere. Sic Silius, VIII, 617: « Non totidem Ilva viros, sed lectos cingere ferrum »; quamquam ibi legere malunt gignere ferrum, vel stringere. Sed plane ut Noster τὸ cingere usurpavisse videtur Mela, lib. III, cap. 1: « Restat ille circuitus, quem, ut initio diximus, cingit Oceanus », id est, circumducit. …
+- … So Ovid, *Met.* II, 6, whom our author without doubt had in view: « Aequora caelarat medias cingentia terras ». Priscian, at the beginning of the *Periegesis*: « Oceanum, tellus quo cingitur aequore tota ». And compare what we said on Lucilius' *Aetna*, v. 93. … Yet *cinctus circum* might have been used by the author with an altered sense for *circumductus* [led around] or *circumfusus* [poured around], and so for *cinctum*
+- **(cont.)** (cont.) perhaps *ductum* or *fusum* might be substituted. Ovid, *Met.* I, 12: « Et circumfuso pendebat in aere tellus ». — The verb *cingere* seems occasionally to be used by poets for *circumducere* [to lead around], *circum adponere* [to place around], or *adjungere* [to attach around]. Thus Silius, VIII, 617: « Non totidem Ilva viros, sed lectos cingere ferrum »; although there they prefer to read *gignere ferrum*, or *stringere*. But Mela seems to have used *cingere* in precisely the same way as our author, Book III, ch. 1: « Restat ille circuitus, quem, ut initio diximus, cingit Oceanus », that is, leads around (*circumducit*). …
 
 [3] 864 Omnes et terras et cinctum Nerea circum;
 
@@ -9648,13 +9649,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 871 Annorumque vices, dimensaque tempora noclis,
 
 [3] 865 Astrorumque uices dimensaque tempora noctis,
-- **865—67** habent Gesta Bereng. I 108—110
+- **865—67** Gesta Berengarii I 108–110 has them
 
 [4] 865 Astrorumque vices dimensaque tempora noctis,
 
 [6] 865 annorumque vices dimensaque tempora noctis,
 - *Iliad* —
-- **865—867** (testimonia) = Gesta Ber. 1, 108—110
+- **865—867** (testimonia) = *Gesta Ber.* 1, 108–110
 
 866 quattuor et mundi partes, quantum Arctos ab Austro
 
@@ -9680,7 +9681,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 868 Lucifer unde suis, unde Hesperus unus uterque
 
 [2] 874 Lucifer unde suis, unde Hesperus, unus uterque,
-- … Nam poetae Luciferum et Hesperum nominibus quidem distinguunt, sed unam stellam agnoscunt. — Vid. quae ad Eleg. in obit. Maec. in Excursu diximus, vs. 129-132, huj. op. t. II, p. 232 et sqq. Ed. — Clare hoc indicat Seneca in Hippol. 750: « Qualis est primas referens tenebras Nuntius noctis, modo lotus undis Hesperus, pulsis iterum tenebris Lucifer idem ». Quod eumdem esse significant, propterea eum desultorio vel mutato equo uti dicunt, quando alius procedit. Diserte Statius, Theb. VI, 237: « Roscida jam novies caelo dimiserat astra Lucifer, et totidem Lunae praevenerat ignes Mutato nocturnus equo; nec conscia fallit Sidera, et alterno deprenditur unus in ortu ». Quoniam igitur mutatis equis discernuntur Lucifer et Hesperus, hinc Noster utrumque suis equis exoriri dicit, quamvis alii, et in his Lips. et G. 2 aquis scribant, idque praeferre velit cl. Anton. de Rooy, p. 99. Caeterum observavi in Lucilii Aetna legi versus, ad quos adludere hic Noster videatur. Nam ille v. 168: « Hinc furtim Borea atque Noto, nunc unus uterque »; et v. 239, « Lucifer unde micet, quave Hesperus, unde Bootes ». Alium similem Lucilii ad versum sequentem adducimus. Facile possis inde argumentum ducere lecti ab auctore nostro Lucilii.
+- … For poets indeed distinguish Lucifer and Hesperus by name, but recognize them as one star. — See what we said in the Excursus to the *Elegia in obitum Maecenatis*, vv. 129–132, vol. II, p. 232 ff. of this work. Ed. — Seneca indicates this clearly in *Hippol.* 750: « Qualis est primas referens tenebras Nuntius noctis, modo lotus undis Hesperus, pulsis iterum tenebris Lucifer idem ». Because they mean that it is the same star, on that account they say that it uses a changing horse (or mounts another horse like a trick rider) when it comes forth as another. Statius expressly, *Theb.* VI, 237: « Roscida jam novies caelo dimiserat astra Lucifer, et totidem Lunae praevenerat ignes Mutato nocturnus equo; nec conscia fallit Sidera, et alterno deprenditur unus in ortu ». Since, therefore, Lucifer and Hesperus are distinguished by changed horses, hence our poet says that each arises with his own horses (*suis equis*), although others, including the Leipzig edition and G. 2, write *aquis* [from the waters], and the distinguished Anton de Rooy, p. 99, wishes to prefer that. Moreover, I observed that in Lucilius' *Aetna* verses are read to which our author seems to allude here. For that poet says in v. 168: « Hinc furtim Borea atque Noto, nunc unus uterque »; and v. 239: « Lucifer unde micet, quave Hesperus, unde Bootes ». Another similar passage of Lucilius we cite on the following verse. From this you might easily draw an argument that Lucilius was read by our author.
 
 [3] 868 Lucifer unde suis, unde Hesperus unus uterque
 
@@ -9692,7 +9693,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 869 exoreretur equis, et quantum in orbe mearet
 
 [2] 875 Exoreretur equis ; quantus Sol orbe mearet ,
-- **(cont.)** … Nam Lucifero et Hespero, deinde Luna, nominatis, cur Solem tacet, qui praecipue nominandus erat, et cum Luna, ut in Lucilii adductis versibus, in ipsoque Homero, Il. XVIII, 484, quem hoc loco exprimit auctor, factum est, conjungendus? …
+- **(cont.)** … For when Lucifer and Hesperus, and then the Moon, have been named, why is he silent about the Sun, which ought especially to have been named and joined with the Moon, as was done in the cited verses of Lucilius and in Homer himself, *Il.* XVIII, 484, whom the author is expressing here? …
 
 [3] 869 Exoreretur equis, et quantus in orbe mearet
 
@@ -9745,7 +9746,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 873 Tritonasque feros et amantem Dorida fluctus;
 
 [2] 879 Tritonesque feros, et amantem Dorida fluctus.
-- Tritonesque feros. Feri nominantur, quia ex parte belluam referunt, et pisces pro pedibus habent. Sic ferum et semiferum Tritona appellat Claud. de Nupt. Hon. 138 et 145. …
+- *Tritonesque feros* [And wild Tritons]. They are called *feri* [wild/beast-like] because in part they resemble a monster and have fish instead of feet. Thus Claudian calls Triton *ferus* and *semifer*, *De Nupt. Hon.* 138 and 145. …
 
 [3] 874 Tritonesque feros et amantem Dorida fluctus;
 
@@ -9772,7 +9773,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 875 Terra gerit siluas horrendaque monstra ferarum
 
 [2] 880 Terra gerit sihras, horrendaque monstra ferarum,
-- Terra gerit silvas. Hoc et sequente versu respexisse et paene expressisse hos Ovidii videtur, Met. II, 15: « Terra viros, urbesque gerit, silvasque, ferasque, Fluminaque, et Nymphas, et caetera numina ruris ».
+- *Terra gerit silvas* [The earth bears forests]. In this and the following verse he seems to have had in view and almost expressed these lines of Ovid, *Met.* II, 15: « Terra viros, urbesque gerit, silvasque, ferasque, Fluminaque, et Nymphas, et caetera numina ruris ».
 
 [3] 875 Terra gerit siluas horrendaque monstra ferarum
 
@@ -9795,7 +9796,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 877 in quibus exercent leges annosaque iura
 
 [2] 882 In quibus exercent leges animosaque jura
-- Animosaque jura. Hoc scitissime dictum putat Barthius, Adv. p. 2809, quia vitiis longe potentioribus opponunt sese.
+- *Animosaque jura* [And spirited laws]. Barth, *Adv.* p. 2809, considers this to have been said most shrewdly, because they oppose themselves to vices far more powerful.
 
 [3] 877 In quibus exercent leges annosaque iura
 
@@ -9806,7 +9807,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 878 certantes populi; sedet illic aequus utrisque
 
 [2] 883 Certantes populi : sedet illic sequus utrique
-- … In edd. est utrique, nempe in unaquaque caussa actori et reo.
+- … In the printed editions it is *utrique*, namely to the plaintiff and defendant in each case.
 
 [3] 878 Certantes populi; sedet illic aequus utrisque
 
@@ -9830,13 +9831,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 885 Parte alia castae resonant Paeana puellae ,
 
 [3] 880 Parte alia resonant castae paeana puellae
-- **880—83** , 85, 88 habent Gesta Bereng. I 64—69 (880 inmutatum)
+- **880—83** , 85, 88 Gesta Berengarii I 64–69 has them (880 unchanged)
 
 [4] 880 Parte alia resonant castae paeana puellae
 
 [6] 880 parte alia castae resonant Paeana puellae
 - *Iliad* 18.593
-- (testimonia) puellae — 883 recepta in Gesta Berengarii 1, 64—67
+- (testimonia) *puellae* — 883 taken into *Gesta Berengarii* 1, 64–67
 
 881 dantque choros molles et tympana dextera pulsat;
 
@@ -9871,7 +9872,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 884 carmina componunt mundi resonantia motum.
 
 [2] 889 Carmina componunt mundi resonantia motum :
-- … Tangit Veterum opinionem de siderum harmonia, de qua egimus ad principium carminis Licentii ad August.
+- … He touches upon the opinion of the ancients concerning the harmony of the stars, which we treated at the beginning of Licentius' poem to Augustine.
 
 [3] 884 Stamina compositum mundi resonantia motum.
 
@@ -9890,7 +9891,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 885 rura colunt alii, sulcant gravia arva iuvenci
 - *Iliad* 18.542
-- (testimonia) = Gesta Ber. 1, 68
+- (testimonia) = *Gesta Ber.* 1, 68
 
 886 maturasque metit robustus messor aristas
 
@@ -9924,12 +9925,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 888 tondent prata greges, pendent in rupe capellae.
 - *Iliad* 18.587
-- (testimonia) = Gesta Ber. 1, 69 (pendentque)
+- (testimonia) = *Gesta Ber.* 1, 69 (*pendentque*)
 
 889 Haec inter mediis stabat Mars aureus armis,
 
 [2] 894 Hic intermedius stabat Mars aureus armis,
-- … De ipsa imagine his versibus exposita vid. Excursus tertius ad hujus carminis calcem.
+- … Concerning the image itself set forth in these verses, see the third Excursus at the end of this poem.
 
 [3] 889 Haec inter mediis stabat Mars aureus armis,
 
@@ -9937,7 +9938,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 889 haec inter mediis stabat Mars aureus armis,
 - *Iliad* —
-- … armis Ω i. in clipeo
+- … armis Ω i.e. on the shield
 
 890 quem diua poesis reliquae* circaque sedebant
 
@@ -9953,8 +9954,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 891 anguineis maestae Clotho Lachesisque capillis.
 
 [2] 896 Sanguineis moestae Clotho Lachesisque capiUis.
-- … Adlusisse
-- **(cont.)** videtur hemistichium Virgilii, Aen. III, 64: « Caeruleis maestae vittis ». — Et de Parcis Catullus, in Epithal. Pel. p. 186 Voss. « At roseae niveo residebant vertice vittae ». Ed.
+- … [The author seems] to have allu-
+- **(cont.)** (cont.) [He seems to have alluded to] the hemistich of Virgil, *Aen.* III, 64: « Caeruleis maestae vittis ». — And of the Fates, Catullus, in *Epithal. Pel.* p. 186 Voss.: « At roseae niveo residebant vertice vittae ». Ed.
 
 [3] 891 Sanguineis maestae Clotho Lachesisque quasillis.
 
@@ -10011,7 +10012,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 896 occurritque uiro, sed non cum uiribus aequis
 
 [2] 901 Occurritque viro, sed non cum viribus aequis,
-- … Sic apud Maronem, Aen. V, 809, Neptunus dicit, « Pelidae forti Congressum Aeneam, nec Dis, nec viribus aequis ».
+- … Thus in Maro, *Aen.* V, 809, Neptune says: « Pelidae forti Congressum Aeneam, nec Dis, nec viribus aequis ».
 
 [3] 896 Occurrit feruens; sed enim non uiribus aequis,
 
@@ -10022,7 +10023,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 897 Aeacidae nec compar erat, tamen ira coegit
 
 [2] 902 Aeacidae nec compar erat; tamen ira coegit
-- … Sed observat ad hunc locum Barthius, Adv. p. 2809, auctorem corripuisse syllabam in compar, pro more sequioris latinitatis, quomodo Prudentius in Romano, « Meatus unus impar ad laudes Dei ». Et Avianus duobus locis similiter hanc corripuit, fab. XI, 5, « Dispar erat fragili et solidae concordia motus »; et fab. XVIII, 10: « Tantorum solus viribus impar erat ».
+- … But Barth observes on this passage, *Adv.* p. 2809, that the author shortened the syllable in *compar*, according to the custom of later Latinity, just as Prudentius does in *Romanus*: « Meatus unus impar ad laudes Dei ». And Avianus similarly shortened it in two passages, *Fab.* XI, 5: « Dispar erat fragili et solidae concordia motus »; and *Fab.* XVIII, 10: « Tantorum solus viribus impar erat ».
 
 [3] 897 Aeacidae nec erat conpar; tamen ira coegit
 
@@ -10043,7 +10044,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 899 Quem nisi seruasset magnarum rector aquarum,
 
 [2] 904 Quem nisi servasset magnarum rector aquarum,
-- Rector aquarum, Neptunus, a quo servatum, et pugnae ereptum esse Aeneam, cum Achille congressum, refert Hom. XX, 325 seqq. et ipse Neptunus gloriatur apud Virg. Aen. V, 804 seqq.
+- *Rector aquarum* [the ruler of the waters], Neptune, by whom Aeneas, having engaged with Achilles, was saved and snatched from the combat, as Homer relates, *Il.* XX, 325 ff., and Neptune himself boasts in Virgil, *Aen.* V, 804 ff.
 
 [3] 899 Quem nisi seruasset magnarum rector aquarum,
 
@@ -10055,7 +10056,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 900 ut profugus laetis Troiam repararet in aruis
 
 [2] 905 Ut profugus Latiis Trojam repararet in arvis,
-- … Sic et saepius loquitur Virgilius, quando Trojam illatam Latio dicit Aeneid. I, 6. Trojam in Italia restituendam Aen. III, 504, Ilium in Italiam portari Aen. I, 68. Et Ovidius, plane ut Noster, Fast. IV, 251: « Quum Trojam Aeneas Italos portaret in agros ». — Vide editionem nostram Ovidii, vol. VI, p. 251. Ed.
+- … Virgil speaks thus and quite frequently, when he says that Troy was brought to Latium, *Aeneid* I, 6; that Troy was to be restored in Italy, *Aen.* III, 504; that Ilium was carried into Italy, *Aen.* I, 68. And Ovid, exactly like our author, *Fast.* IV, 251: « Quum Trojam Aeneas Italos portaret in agros ». — See our edition of Ovid, vol. VI, p. 251. Ed.
 
 [3] 900 Ut profugus laetis Troiam repararet in aruis
 
@@ -10067,7 +10068,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 901 Augustumque genus claris submitteret astris,
 
 [2] 906 Augustumque genus cseli submitteret astris , '
-- … Submitteret astris explicari potest hinc mitteret in astra, vel inferret astris fama et gloria; sed tamen malim sic interpretari, ut significet, genus Augustum faceret venire in vitam et sub caelum, quemadmodum Virgilius de genere Augusto loquitur Aeneid. VI, 790: « Hic Caesar et omnis Iuli Progenies, magnum caeli ventura sub axem ». … Caeterum Barthius l. c. ex hoc versu non temere colligit, poema istud ab Romano homine, et Roma adhuc sub Augustis imperantibus florente, scriptum esse. — Hanc opinionem Barthii in prooemio de Epitome Iliados, init. Wernsd. retulit. Ed.
+- … *Submitteret astris* can be explained from this as 'send into the stars' or 'introduce to the stars through fame and glory'; yet I would prefer to interpret it as meaning that he brought the Augustan race into life and beneath the heavens, just as Virgil speaks of the Augustan line in *Aeneid* VI, 790: « Hic Caesar et omnis Iuli Progenies, magnum caeli ventura sub axem ». … Furthermore, Barth *loc. cit.* deduces, not without reason, from this verse that this poem was written by a Roman, and while Rome was still flourishing under the ruling Augusti. — Wernsdorf reported this opinion of Barth in the *Prooemium* on the *Epitome Iliados*, at the beginning. Ed.
 
 [3] 901 Augustumque genus claris submitteret astris,
 
@@ -10079,7 +10080,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 902 non clarae gentis nobis mansisset origo.
 
 [2] 907 Non clarae gentis nobis mansisset origo.
-- … Clara autem κατ᾽ ἐξοχὴν dicebatur gens Julia, quod apparente Julio sidere, vel Dionaeo astro, quod Horatius et Virgilius dicunt, praecipue declarata putabatur. — Originem Iulae gentis Noster Aeneam dicit ad modum Virgilii, qui Aeneid. XII, vs. 166: « Hinc pater Aeneas Romanae stirpis origo »; et Aen. I, 286: « Nascetur pulchra Trojanus origine Caesar Julius, a magno demissum nomen Iulo ».
+- … Moreover, the Julian clan was called *clara* preeminently (κατ᾽ ἐξοχὴν), because it was considered to have been especially proclaimed by the appearance of the Julian star, or the Dionean star, as Horace and Virgil call it. — Our author calls Aeneas the origin of the Julian race after the manner of Virgil, who says in *Aeneid* XII, v. 166: « Hinc pater Aeneas Romanae stirpis origo »; and *Aen.* I, 286: « Nascetur pulchra Trojanus origine Caesar Julius, a magno demissum nomen Iulo ».
 
 [3] 902 Non carae gentis nobis mansisset origo.
 
@@ -10102,7 +10103,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 904 ingentemque modum prosternit caede uirorum,
 
 [2] 909 Ingentemque manum prosternit caede virorum,
-- … et modus subinde dicitur pro quavis magnitudine vel mensura, ut ab Horatio, Sat. II, 2, 36: « Scilicet illis Majorem natura modum dedit »; et II, 6, 1: « modus agri non ita magnus ».
+- … and *modus* is repeatedly used for any magnitude or measure, as by Horace, *Sat.* II, 2, 36: « Scilicet illis Majorem natura modum dedit »; and II, 6, 1: « modus agri non ita magnus ».
 
 [3] 904 Ingentemque modum prosternit caede uirorum,
 
@@ -10161,7 +10162,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 909 Ira dabat vires; stringuntur sanguine ripae
 
 [6] 909 ira dabat vires; stringuntur sanguine ripae
-- … stringuntur … cf. Verg. Aen. 8, 62
+- … stringuntur … cf. Virgil, Aen. 8, 62
 
 910 sparsaque per totos uoluuntur corpora fluctus.
 
@@ -10226,7 +10227,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 915 expatiatur aquis et vasto gurgite praeceps
 - *Iliad* 21.24?
-- Expatiatur … (cf. Ov. met. 1, 285) …
+- Expatiatur … (cf. Ovid, Met. 1, 285) …
 
 916 uoluitur atque uirum torrentibus impedit undis
 
@@ -10241,7 +10242,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 917 praetardatque gradus. Ille omni corpore saeuas
 
 [2] 922 Praetardatque gradus : ille omni corpore saevas
-- … Statius, Thebaid. II, 671: « Tardatique gradus ». At verbum praetardo abesse video a lexicis.
+- … Statius, *Thebaid* II, 671: « Tardatique gradus ». But I see that the verb *praetardare* is absent from the lexicons.
 
 [3] 917 Praetardatque gradus; ille omni corpore saeuas
 
@@ -10283,21 +10284,21 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 921 asseruit, rapidae quia cederet, ignibus, undae,
 
 [2] 926 Adseruit, rapidae ne cederet ictibus undae:
-- … i. e. sustentavit, confirmavit. Imbribus, ignibus, fluctibus undae G. 2. Juvit autem Juno Achillem, quod Vulcanum ejus in auxilium excitavit, ut fluvii ripas campumque incenderet.
+- … that is, sustained, encouraged him. G. 2 has *Imbribus*, *ignibus*, *fluctibus undae*. Juno, moreover, assisted Achilles by rousing Vulcan to his aid to set fire to the banks of the river and the plain.
 
 [3] 921 Asseruit, rabidae qua cederet ictibus undae.
 
 [4] 921 Asseruit, rabidaene cederet ignibus undae.
-- … ignibus, Kootenio auctore, retinui : cf. enim Iliad. XXI, 342, 356, 361, 365. …
+- … For my part I retained ignibus, on the authority of Kooten: cf. Iliad XXI, 342, 356, 361, 365. …
 
 [6] 921 asseruit, rapidae quia cederet, ignibus, undae,
 - *Iliad* 21.330
-- … ignibus iungendum cum asseruit (cf. Thesaurus II p. 864); ad hyperbaton cf. natus v. 573, uictor 852
+- … ignibus is to be joined with asseruit (cf. Thesaurus II p. 864); for the hyperbaton cf. natus v. 573, uictor 852
 
 922 sanctaque pugnarunt inter se numina diuum.
 
 [2] 927 Sanctaque pugnarunt inter se numina Divum.
-- … Hoc versu auctor sane nimium breviter attingit rixas et praelia, quibus Dii Deaeque depugnant super Trojanis, Mars cum Minerva, Neptunus cum Apolline, Juno cum Diana apud Homerum, Iliad. XXI, v. 385-515.
+- … In this verse the author indeed touches too briefly upon the quarrels and battles in which the gods and goddesses fight over the Trojans—Mars with Minerva, Neptune with Apollo, Juno with Diana—in Homer, *Iliad* XXI, vv. 385–515.
 
 [3] 922 Sanctaque pugnarunt inter se numina diuum.
 
@@ -10350,7 +10351,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 927 pectora bellando; uires successus adauget.
 
 [2] 932 Pectora pugnando; vires successus adauget.
-- … Vires successus adauget idem est, ac quod supra 494 et 768 dixit geminat victoria vires.
+- … *Vires successus adauget* [success increases his strength] is the same as what he said above in vv. 494 and 768: *geminat victoria vires* [victory doubles strength].
 
 [3] 927 Pectora pugnando; uires successus adauget.
 
@@ -10372,7 +10373,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 929 atque intra muros exhausta paene salute
 
 [2] 934 Atque intra muros exhausta paene salute
-- … — Exhausta paene salute, h. e. quum paene periissent, et spes fere omnis salutis evanuisset. Virgilio dicitur « absumpta salus », Aen. I, 555.
+- … — *Exhausta paene salute* [with safety almost exhausted], that is, when they had almost perished, and nearly all hope of safety had vanished. In Virgil it is called « absumpta salus », *Aen.* I, 555.
 
 [3] 929 Aut intra muros exhausta paene salute
 
@@ -10383,7 +10384,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 930 confugiunt portasque obiecto robore firmant.
 
 [2] 935 Confugiunt, portasque objecto robore firmant.
-- Vid. vers. 683. Ed.
+- See verse 683. Ed.
 
 [3] 930 Defugiunt portasque obiecto robore firmant.
 
@@ -10439,8 +10440,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 935 Quem procul ut uidit tectum caelestibus armis,
 
 [2] 941 Quem procul ut vidit tectum caelestibus armis,
-- … Hinc in caelestibus armis intelligenda Achillis arma a Vulcano fabricata, quemadmodum Maro, Aen. XII, 167, de Aenea: « Sidereo flagrans clypeo et caelestibus armis ». Et Hectorem
-- **(cont.)** timuisse conspecto Achille armis fulgente, refert Hom. XXII, 136.
+- … Hence *in caelestibus armis* [in heavenly armor] is to be understood of Achilles' armor forged by Vulcan, just as Maro, *Aen.* XII, 167, says of Aeneas: « Sidereo flagrans clypeo et caelestibus armis ». And Hector
+- **(cont.)** (cont.) was afraid at the sight of Achilles gleaming in his arms, as Homer relates, *Il.* XXII, 136.
 
 [3] 935 Quem procul ut uidit tectum caelestibus armis,
 
@@ -10451,7 +10452,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 936 ante oculos subito uisa est Tritonia Pallas
 
 [2] [940] [Ante oculos subito visa est Tritonia Pallas]
-- … Et verum esse, quod adfirmat ille, facile Homero inspecto intelligitur, qui non aliam Palladis apparitionem tradit, quam quae ab auctore versu 952 relata est. …
+- … And that what he asserts is true is easily understood upon inspecting Homer, who records no other apparition of Pallas than that related by our author in verse 952. …
 
 [3] [936] [Ante oculos subito uisa est Tritonia Pallas]
 
@@ -10473,7 +10474,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 938 infelix portis, sequitur Nereius heros:
 
 [2] 943 Infelix portis : sequitur Nereius heros.
-- … Infra, v. 980, idem Nereius dicitur: et Saleius, Carm. in Pis. v. 164, eo nomine utitur. …
+- … Below, in v. 980, he is likewise called *Nereius*; and Saleius, *Carm. in Pis.* v. 164, uses that name. …
 
 [3] 938 Infelix portis; sequitur Nereius heros.
 
@@ -10484,7 +10485,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 939 in somnis ueluti, cum pectora terruit ira,
 
 [2] 944 In somnis veluti , quum pectora terruit ira ,
-- … Hic versus aliter, ac edd. habent, distinguendus et cum sequentibus conjungendus, comparationem continet, ab Homero, Iliad. XXII, 199 seqq. et Virgilio, Aen. XII, 908, usurpatam, cum somniantibus, qui sibi videntur alterum currendo vel consequi, vel fugere, nec tamen sopore pressi et languidi quidquam proficiunt. Videtur Noster utriusque locum respexisse, et partim imitari voluisse, sed non adsequutus est.
+- … This verse—which should be punctuated differently from what the editions have and connected with the following lines—contains a simile employed by Homer, *Iliad* XXII, 199 ff., and Virgil, *Aen.* XII, 908, with dreamers who seem to themselves in running either to overtake or to flee another, yet, oppressed with sleep and languid, accomplish nothing. Our author seems to have had an eye to the passage of each, and to have wished partly to imitate them, but did not succeed.
 
 [3] 939 In somnis ueluti, cum pectora terret imago,
 
@@ -10506,7 +10507,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 941 festinantque ambo, gressum labor ipse moratur,
 
 [2] 946 Festinantque ambo; gressum labor ipse moratur.
-- … Videtur auctor exprimere voluisse sententiam Maronis in eadem comparatione, Aeneid. XII, 909: « nequidquam avidos extendere cursus Velle videmur, et in mediis conatibus aegri Succidimus ».
+- … The author seems to have wished to express the thought of Maro in the same comparison, *Aeneid* XII, 909: « nequidquam avidos extendere cursus Velle videmur, et in mediis conatibus aegri Succidimus ».
 
 [3] 941 Festinantque ambo; gressum labor ipse moratur:
 
@@ -10517,20 +10518,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 942 alternis poterant insistere coepta periclis,
 
 [2] 947 Alternis poterant insistere coepta periciis,
-- … Insistere coepta hic significat fugam persequi, instare cursu, ut Virg. viam insistere dixit Georg. III, 164. …
+- … *Insistere coepta* here means to pursue flight, to press on in the race, as Virgil said *viam insistere*, *Georg.* III, 164. …
 
 [3] 942 Alternis poterant insistere coepta periclis,
 
 [4] 942 below Alternis poterant insistere coepta periclis
 
 [6] 942 alternis poterant insistere coepta periclis,
-- … intellego: et Hector et Achilles de vita periclitabantur
+- … I understand: both Hector and Achilles were in danger of their lives
 
 943 nec requies aderat, timor undique concitat iras.
 
 [2] 948 Nec requies aderat, timor undique concitat iras.
-- … Nempe dum heroes utrique timent, ne alter ab altero superetur, hic timor in iis iram acuit et contentionem auget. … Et fortasse respexit Noster fugam Daphnes, Apolline persequente, ab Ovidio descriptam, Metam. I, 539: « Sic Deus et virgo
-- **(cont.)** est: hic spe celer, illa timore. Qui tamen insequitur, pennis adjutus amoris Ocior est, requiemque negat, tergoque fugacis Imminet ».
+- … For while both heroes fear lest one be overcome by the other, this fear sharpens anger in them and increases the contest. … And perhaps our author had in mind the flight of Daphne pursued by Apollo, described by Ovid, *Metam.* I, 539: « Sic Deus et virgo
+- **(cont.)** (cont.) est: hic spe celer, illa timore. Qui tamen insequitur, pennis adjutus amoris Ocior est, requiemque negat, tergoque fugacis Imminet ».
 
 [3] 943 Nec requies aderat: timor hinc, hinc concitat ira.
 
@@ -10565,7 +10566,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 946 quem iam summa dies suprema luce premebat.
 
 [2] 951 Quem jam summa dies extrema luce premebat.
-- … Sed hoc ταυτολόγως et parum eleganter dictum est, praesertim voce suprema bis posita: …
+- … But this is said tautologically (ταυτολόγως) and with little elegance, especially with the word *suprema* placed twice; …
 
 [3] 946 Quem iam summa dies suprema luce premebat.
 
@@ -10629,7 +10630,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 952 inuicti iuuenes: hic uastis intonat armis,
 
 [2] 957 Invicti juvenes : hic vastis intonat armis;
-- Intonat armis dictio Virgiliana, Aen. XII, 700.
+- *Intonat armis* [thunders in arms] is a Virgilian expression, *Aen.* XII, 700.
 
 [3] 952 Inuicti iuuenes: hic uastis intonat armis,
 
@@ -10640,7 +10641,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 953 ille hostem ualidum nequiquam umbone repellit
 
 [2] 958 Ille hostem validum nequidquam umbone repellit,
-- Nequidquam umbone repellit, ut Virg. Aeneid. II, 545: « rauco quod protinus aere repulsum, Et summo clypei nequidquam umbone pependit ».
+- *Nequidquam umbone repellit* [in vain drives back with the shield-boss], as Virgil, *Aeneid* II, 545: « rauco quod protinus aere repulsum, Et summo clypei nequidquam umbone pependit ».
 
 [3] 953 Ille hostem ualidum nequicquam umbone repellit;
 
@@ -10651,7 +10652,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 954 alternisque ferox mutat congressibus ictus.
 
 [2] 959 Altemisque ferox mutat congressibus ictus.
-- Mutat congressibus ictus, i. e. congrediens ictus aliter atque aliter infert. Alterni congressus sunt, quos significat Naso, Metam. IX, 42: « Digredimur paullum, rursumque ad bella coimus ». …
+- *Mutat congressibus ictus* [varies blows in the clashes], that is, engaging he delivers blows now in one way, now in another. These are alternating clashes, which Naso signifies in *Metam.* IX, 42: « Digredimur paullum, rursumque ad bella coimus ». …
 
 [3] 954 Alternisque feros uitant congressibus ictus.
 
@@ -10663,7 +10664,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 955 Sudor agit riuos, ensem terit horridus ensis
 
 [2] 960 Sudor agit rivos, ensem terit horridus ensis,
-- Sudor agit rivos. Virgil. Aen. V, 200, « sudor fluit undique rivis », et vid. vs. 807.
+- *Sudor agit rivos* [sweat forms streams]. Virgil, *Aen.* V, 200: « sudor fluit undique rivis », and see v. 807.
 
 [3] 955 Sudor agit riuos, ensem terit horridus ensis,
 
@@ -10675,7 +10676,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 956 collatusque haeret pede pes et dextera dextrae.
 
 [2] 961 Collatusque haeret pede pes, et dextera dextrae.
-- Collatusque haeret. Virg. Aen. X, 361: « Concurrunt, haeret pede pes, densusque viro vir ». Magis tamen respexit Ovidium, Metam. IX, 44: « eratque Cum pede pes junctus: totoque ego pectore pronus Et digitos digitis, et frontem fronte premebam ». …
+- *Collatusque haeret* [and brought close he clings]. Virgil, *Aen.* X, 361: « Concurrunt, haeret pede pes, densusque viro vir ». Yet he had more in mind Ovid, *Metam.* IX, 44: « eratque Cum pede pes junctus: totoque ego pectore pronus Et digitos digitis, et frontem fronte premebam ». …
 
 [3] 956 Conlatusque haeret pede pes et dextera dextrae.
 
@@ -10749,7 +10750,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 962 Nec successus adest: nam duro inflectitur auro
 
 [2] 967 Nec successus adest, nam duro inflectitur auro :
-- … Nam sermo est de armis Vulcaniis, quae ex auro fabricata esse, Noster supra v. 863 dixit. Neque heroibus veteribus infrequens est clypeos auro caelatos gestare. Ovid. Metam. VIII, vs. 26: « Seu sumpserat auro Fulgentem clypeum, clypeum sumpsisse decebat ».
+- … For the discussion is of the Vulcanian armor, which our author stated above at v. 863 to have been crafted from gold. Nor is it uncommon for ancient heroes to bear shields embossed with gold. Ovid, *Metam.* VIII, v. 26: « Seu sumpserat auro Fulgentem clypeum, clypeum sumpsisse decebat ».
 
 [3] 962 Nec successus adest; nam duro inflectitur auro
 
@@ -10760,7 +10761,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 963 dissiluitque mucro. Gemuerunt agmina Troum.
 
 [2] 968 Dissiluit mucro : gemuerunt agmina Troum.
-- … Paullo abruptum hoc videtur, ut fere suspicer, versum aliquem excidisse. Nam ante de jaculo vibrato sermo fuit, nunc de mucrone, i. e. ense. Et in Dissiluit exprimere quidem auctor videtur, quod Turno apud Virg. Aen. XII, 739, accidit: « postquam arma Dei ad Vulcania ventum est, Mortalis mucro, glacies ceu futilis, ictu Dissiluit ». At hic mucro, qui inflectitur auro, h. e. obtunditur, vel avertitur, non dici potest dissiluisse sc. in frusta, sed decidisse. …
+- … This seems somewhat abrupt, so that I almost suspect some verse has fallen out. For earlier there was mention of the hurled javelin, now of the *mucro*, that is, the sword. And in *Dissiluit* the author indeed seems to express what happened to Turnus in Virgil, *Aen.* XII, 739: « postquam arma Dei ad Vulcania ventum est, Mortalis mucro, glacies ceu futilis, ictu Dissiluit ». But here a blade that is bent by the gold—that is, blunted or deflected—cannot properly be said to have shattered (namely into pieces), but to have fallen down. …
 
 [3] 963 Desiliitque mucro; gemuerunt agmina Troum.
 
@@ -10782,8 +10783,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 965 inque uicem duros euitant comminus enses.
 
 [2] 970 Inque vicem duros evitant cominus enses.
-- … et interpretor concurrentes ensibus diu ita digladiantur, ut ictus evitent invicem, nec vulnera accipiant. Post enim rursus cedit Hector et fugit. …
-- **(cont.)** … — Mutare ictus vel commutare enses eadem ratione dici videtur, qua apud Claudian. de Nupt. Hon. et Mar. v. 86, « permutare radios », nempe mutuos et transversos ictus vibrare et reddere. Enses et radii aeque stringunt se et stringuntur invicem, vibrant et repercutiunt, adeoque permutantur. Ed.
+- … and interpret it to mean: charging together with their swords, they fence for a long time in such a way that they avoid each other's blows in turn and receive no wounds. For afterwards Hector again yields and flees. …
+- **(cont.)** … — *Mutare ictus* or *commutare enses* seems to be said in the same manner as « permutare radios » in Claudian, *de Nupt. Hon. et Mar.* v. 86: namely, to brandish and return mutual and crisscrossing blows. Swords and rays equally graze and are grazed in turn, flash and strike back, and are thus "exchanged." Ed.
 
 [3] 965 Inque uicem duros euitant cominus enses.
 
@@ -10836,7 +10837,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 970 sensit adesse dolos. Quid agat? quae numina supplex
 
 [2] 975 Sensit adesse dolos : quid agat?qu» numina supplex
-- … — De formula quid agat? conferenda sunt quae notata sunt hujus op. t. II, El. XII, v. 37, p. 301. Et quemadmodum hic dicitur quae numina supplex Invocet? Sic supra Reposianus, v. 145: « Quod numen poscat? » Ed.
+- … — On the phrase *quid agat?* [what is he to do?], one should compare what was noted in volume II of this work, Eleg. XII, v. 37, p. 301. And just as it is said here, *quae numina supplex Invocet?* [what deities should he as a suppliant invoke?], so above Reposianus, v. 145: « Quod numen poscat? » Ed.
 
 [3] 970 Sensit adesse dolos: quid agat? quae numina supplex
 
@@ -10888,7 +10889,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 [6] 974 defesso auxilium; pugnat moriturus et alto
 - *Iliad* —
-- … alto … cf. Verg. Aen. 10, 464
+- … alto … cf. Virgil, Aen. 10, 464
 
 975 corde premit gemitus. Instat Nereius heros
 
@@ -10903,7 +10904,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 976 turbatumque premit procul undique; tunc iacit hastam
 
 [2] 981 Turbatumqueprocul premit undique; tunc jacit hastam,
-- … turbatum procul hic dicit, quem alias proturbatum.
+- … Here he says *turbatum procul* [driven far in confusion] for what is elsewhere *proturbatum* [driven forth].
 
 [3] 976 Turbatumque premit procul undique, tum iacit hastam
 
@@ -10967,7 +10968,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 982 dona feres uictor. Priami nunc filius orat,
 
 [2] 987 Dona feres victor. Priami nunc filius orat,
-- … ut simul referatur ad sequentia Te Priamus, quae bella est gradatio.
+- … so that it refers at the same time to the following words *Te Priamus*, which is a beautiful gradation.
 
 [3] 982 Dona feres uictor. Priami nunc filius orat
 
@@ -11021,7 +11022,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 987 pectora pro Priamo, pro nostro corpore Pyrrhus."
 
 [2] 992 Pectora pro Priamo , pro nostro corpore Pyrrhus ».
-- … Nam corpus pro filio ponere solet Noster; vid. vs. 89.
+- … For our author is accustomed to put *corpus* for a son; see v. 89.
 
 [3] 987 Pectora pro Priamo, pro nostro corpore Pyrrhus.'
 
@@ -11053,8 +11054,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 990 pectora, quem possem direptum more ferarum,
 
 [2] 995 PectoraPquem possem discerptum more ferarum,
-- … atque hoc verbis Homeri congruum putat Iliad. XXII, 346. Ad exemplum Tydei, caput et cerebrum Menalippi mordentis, quod refert Sta-
-- **(cont.)** tius, Theb. VIII, 755 seq. plura hujus infandae immanitatis exempla ex historia congessit Barthius l. c. …
+- … and thinks this agrees with the words of Homer, *Iliad* XXII, 346. Following the example of Tydeus biting the head and brain of Melanippus, which Sta-
+- **(cont.)** (cont.) -tius relates, *Theb.* VIII, 755 ff., Barth *loc. cit.* brought together several examples of this unspeakable brutality from history. …
 
 [3] 990 Pectora, quem possem discerptum more ferarum,
 
@@ -11085,7 +11086,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 993 diripient, auidosque canes tua uiscera pascent.
 
 [2] 998 Diripient , avidique canes tua viscera pascent.
-- … Et sane τὸ pascere activa significatione pro vorare apud bonos scriptores vix occurrit, compositum tamen depascere occurrit apud Colum. VII, 5, et in scriptore, qualis hic est, verba omnia ad meliorem usum vix possunt exigi. Igitur hic ampliandum censeo.
+- … And indeed *pascere* in an active sense for *vorare* [to devour] scarcely occurs among good authors, though the compound *depascere* occurs in Columella VII, 5; and in a writer of this sort, not all words can easily be held to the standard of the best usage. Therefore I judge that this matter should be left open.
 
 [3] 993 Diripient, auidosque canes tua uiscera pascent.
 
@@ -11107,7 +11108,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 995 si sapiunt umbrae." Dum talia magnus Achilles
 
 [2] 1000 Si capiunt umbrae». Dum talia magnus Achilles
-- … Forte hoc adumbratum ex illo Virg. Georg. IV, 489: « Ignoscenda quidem, scirent si ignoscere Manes ». Calpurn. VIII, 38: « Si sentire datur post fata quietis ».
+- … Perhaps this was sketched from that passage of Virgil, *Georg.* IV, 489: « Ignoscenda quidem, scirent si ignoscere Manes ». Calpurnius, VIII, 38: « Si sentire datur post fata quietis ».
 
 [3] 995 Si capiunt umbrae.' dum talia magnus Achilles
 
@@ -11130,7 +11131,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 997 reddidit. Hunc animi nondum satiatus Achilles
 
 [2] 1002 Reddidit : hunc animo nondum satiatus Achilles
-- … Ad verba nondum satiatus recordor epigrammatis, quod exstat Anthol. Lat. lib. I, 94, et de tractu Hectoris inscribitur: « Funere turbat equos necdum satiatus Achilles, Hector et exanimis funere turbat equos ». In quo epigrammate offendor voce turbat, quod falso dictum putabit, si quis nostrum epitomatorem conferat. Nam hic non turbatos vel consternatos equos Achillis, sed potius superbius altiusque incessisse ob Hectoris funus dicit v. 1005. Hinc fortasse pro turbat legendum tardat exemplo Statii in Achill. I, 88: « modo crassa exire vetabit (Achilles) Flamina, et Hectoreo tardabit funere currus ».
+- … At the words *nondum satiatus* [not yet satisfied], I am reminded of the epigram which is extant in *Anthol. Lat.* book I, 94, and entitled *On the Dragging of Hector*: « Funere turbat equos necdum satiatus Achilles, Hector et exanimis funere turbat equos ». In this epigram I am bothered by the word *turbat*, which anyone will deem wrongly said if he compares our epitomator. For our author says in v. 1005 that Achilles' horses were not troubled or terrified, but rather pranced more proudly and haughtily because of Hector's corpse. Hence perhaps instead of *turbat* one should read *tardat* [slows], after the example of Statius, *Achill.* I, 88: « modo crassa exire vetabit (Achilles) Flamina, et Hectoreo tardabit funere currus ».
 
 [3] 997 Reddidit. hunc animi nondum satiatus Achilles
 
@@ -11152,8 +11153,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 999 ter circum muros uictor trahit; altius ipsos
 
 [2] 1004 Ter circum ihuros victor trahit : altius ipsos
-- Ter circum muros victor trahit. Hic Noster iterum Homerum non ex Homero, sed ex Virgilio reddidit, qui Aen. I, 483, ait: « Ter circum Iliacos raptaverat Hectora muros »; sed Homerus ipse ad currum adligatum ter circa Patrocli tumulum, non Trojae moenia, tractum ab Achille scribit. Alii poetae veteres Graeci et Latini raptum circa moenia tradunt, sed de numero ternario silent. Vid. Ovid. Metam. XII, 591, et in Ib. 336. Solum poetarum, qui hoc tradat post Virgilium, esse auctorem Iliados latinae observat Baylius, Diction. article
-- **(cont.)** Achille, n. H. idemque fecisse addit Ausonium in Periocha libri XXII Iliad. Hom. propterea reprehensum a Mariangelo. Hic consensus Ausonii et Homeristae nostri in re singulari talis est, ut auctorem Epitomes si non ipsum Ausonium, certe eumdem ac Periocharum esse, opinari possimus, quum non ita certo Periochae Ausonio tribuantur.
+- *Ter circum muros victor trahit* [Thrice around the walls the victor drags him]. Here our author once again rendered Homer not from Homer, but from Virgil, who in *Aen.* I, 483, says: « Ter circum Iliacos raptaverat Hectora muros »; but Homer himself writes that, bound to the chariot, he was dragged by Achilles thrice around the mound of Patroclus, not the walls of Troy. Other ancient Greek and Latin poets report that he was dragged around the walls, but they are silent concerning the number three. See Ovid, *Metam.* XII, 591, and *in Ib.* 336. Pierre Bayle, *Diction.* article
+- **(cont.)** (cont.) *Achille*, note H, observes that the author of the *Ilias Latina* is the only one of the poets after Virgil who reports this; and he adds that Ausonius did the same in the *Periocha* of Book XXII of Homer's *Iliad*, and was for that reason criticized by Mariangelus. This agreement between Ausonius and our Homerist on such a singular point is such that we might suppose the author of the Epitome, if not Ausonius himself, was at least the same as the author of the *Periochae*, since the *Periochae* are not attributed to Ausonius with complete certainty.
 
 [3] 999 Ter circum muros uictor trahit: altior ipsos
 
@@ -11165,7 +11166,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1000 fert domini successus equos. Tum maximus heros
 
 [2] 1005 Fert domini successus equos : tunc maximus heros
-- Fert domini successus equos. Hoc egregie et Homerice dictum putat Barthius, Adv. p. 2809. Nam equos heroum quosdam augures futurorum faciunt poetae. Paria idem notavit ad Stat. Theb. I, 275, et ad vers. ult. lib. I de Raptu Proserp. Similis dictio in hoc Claudiani de Cons. Olybr. v. 4: « Blandius elato surgant temone jugales ». …
+- *Fert domini successus equos* [The master's success bears along the horses]. Barth, *Adv.* p. 2809, thinks this is splendidly and Homerically said. For poets make the horses of heroes into a kind of diviners of future events. The same scholar noted similar things on Stat. *Theb.* I, 275, and on the last verse of Book I of Claudian's *de Raptu Proserp.* There is a similar expression in this verse of Claudian, *de Cons. Olybr.* v. 4: « Blandius elato surgant temone jugales ». …
 
 [3] 1000 Fert domini successus equos. tum maximus heros
 
@@ -11221,19 +11222,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1005 funerat Aeacides pompasque ad funera ducit.
 
 [2] 1010 Funerat Aeacides, pompasque ad funera ducit.
-- Pompasque ad funera ducit. Virg. G. III, 22: « solennes ducere pompas Ad delubra juvat ».
+- *Pompasque ad funera ducit* [And leads solemn processions to the funeral rites]. Virg. *Georg.* III, 22: « solennes ducere pompas Ad delubra juvat ».
 
 [3] 1005 Funerat Aeacides pompasque ac munera ducit.
 
 [4] 1005 Funerat Aeacides pompasque ac munera ducit.
 
 [6] 1005 funerat Aeacides pompasque ad funera ducit.
-- ad funera … cf. Verg. georg. 3, 22
+- ad funera … cf. Virgil, Georg. 3, 22
 
 1006 Tum circa tumulum miseros rapit Hectoris artus
 
 [2] 1011 Ter circa tumulum miseros rapit Hectoris artus,
-- Hic quidem vulgata lectio ter circa tumulum Patrocli artus Hectoris raptos esse dicit, quomodo Homerus ipse, Iliad. XXIV, 16; … quia probabile est, poetas recentiores, Virgilium sequutos, e terna raptatione Hectoris circa tumulum Patrocli, quam Homerus tradit, fecisse totidem circa muros Trojae. Quas quum Noster supra jam significaverit, hoc loco eas indicasse non videtur.
+- Here indeed the vulgate reading says that Hector's limbs were dragged thrice around the tumulus of Patroclus, just as Homer himself has it, *Iliad* XXIV, 16; … because it is probable that later poets, following Virgil, turned the threefold dragging of Hector around Patroclus' tumulus (which Homer relates) into as many rounds about the walls of Troy. Since our author has already indicated these above, he does not seem to have meant them in this place.
 
 [3] 1006 Ter circa tumulum miseros rapit Hectoris artus
 
@@ -11256,7 +11257,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1008 Tydides *tyrsin* cursu pedibusque ferocem
 
 [2] 1013 Tydides circi cursu, pedibusque ferorum
-- **(cont.)** … Agitur de certamine equorum, quo Diomedes vicit Merionem, qui hic absurde dicitur pedibus ferox, vel velox, … — Circum de hippodromis poni a poetis monet Schraderus, Emend. cap. 8, p. 160. Ed. — Ferorum dixit pro equorum, exemplo Virgilii, Aen. II, 51, V, 818; Manilii lib. V, 76, ubi de ipso auriga circi: « Aut quum laxato fregerunt cardine claustra, Exagitare feros, pronumque anteire volantes »: adde Petronii cap. 89, in Trojae halosi, v. 12, et Ausonii, qui Diomedis feros, i. e. equos dicit Epist. 24, 17. …
+- **(cont.)** … The subject is the chariot race, in which Diomedes defeated Meriones, who is here absurdly called *pedibus ferox* [fierce of foot], or *velox* [swift], … — Schrader, *Emend.* ch. 8, p. 160, notes that *circus* is used by the poets of hippodromes. Ed. — He said *ferorum* [of beasts] for *equorum* [of horses], following the example of Virgil, *Aen.* II, 51; V, 818; Manilius Book V, 76, where of the circus charioteer himself: « Aut quum laxato fregerunt cardine claustra, Exagitare feros, pronumque anteire volantes »; add Petronius ch. 89, in the *Trojae halosis*, v. 12, and Ausonius, who speaks of Diomedes' *feros*, that is, horses, *Epist.* 24, 17. …
 
 [3] 1008 Tydides cunctos curru pedibusque feroces
 
@@ -11289,7 +11290,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1011 caestibus aduersis cunctos superauit Epeos
 
 [2] 1016 Caestibus adversis cunctos superavit Epeus ,
-- Superavit Epeus: sic emendarunt Dorpius et Dussenius, et sic Homerus docet, Iliad. XXIII, 665. …
+- *Superavit Epeus*: thus Dorp and Dussen emended, and so Homer informs us, *Iliad* XXIII, 665. …
 
 [3] 1011 Caestibus aduersos cunctos superauit Epeos
 
@@ -11301,7 +11302,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1012 et disco forti Polypoetes depulit omnes
 
 [2] 1017 Et disco fortis Polypoetes depulit omnes ,
-- Fortis Polypoetes: sic scribendum ex Homero, Iliad. XXIII, 836. …
+- *Fortis Polypoetes*: so it must be written from Homer, *Iliad* XXIII, 836. …
 
 [3] 1012 Et disco fortis Polypoetes depulit omnes
 
@@ -11348,7 +11349,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1016 Troia sonat planctu; fundit miseranda querelas
 
 [2] 1021 Troja sonat planctu; fundit miseranda querelas i«at
-- Miseranda querelas Infelix. Geminare epitheta Noster solet, ubi alterum adverbialiter exponendum, velut hic miseranda, i. e. miserandum in modum; idemque recurrit versu 1026.
+- *Miseranda querelas Infelix* [Unhappy, pitiable in her laments]. Our author is accustomed to double epithets where one is to be interpreted adverbially, as here *miseranda*, that is, *miserandum in modum* [in a pitiable manner]; and the same recurs in verse 1026.
 
 [3] 1016 Troia sonat planctu; fundit miseranda querellas
 
@@ -11370,7 +11371,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1018 Andromacheque suas scindit de pectore uestes,
 
 [2] 1023 Andromacheque suas scindit de pectore vestes,
-- De pectore vestes. Videatur versus 850.
+- *De pectore vestes* [Garments from her breast]. See verse 850.
 
 [3] 1018 Andromacheque suas scindit de pectore uestes,
 
@@ -11382,7 +11383,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1019 heu tanto spoliata uiro. Ruit omnis in uno
 
 [2] 1024 Heu! tanto spoliata viro:ruit omnis in uno
-- Tanto spoliata viro; ut Ovid. Met. XIV, 839: « Praecipuum matrona decus, dignissima tanti Ante fuisse viri conjux ».
+- *Tanto spoliata viro* [Robbed of so great a husband]; as in Ovid, *Met.* XIV, 839: « Praecipuum matrona decus, dignissima tanti Ante fuisse viri conjux ».
 
 [3] 1019 Heu tanto spoliata uiro! ruit omnis in uno
 
@@ -11393,7 +11394,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1020 Hectore causa Phrygum, ruit hoc defensa senectus
 
 [2] 1025 Hectore caussa Phrygum, cecidit defessa senectus
-- In uno Hectore caussa Phrygum: ut Pentadius in tumulo Hect. « Occubuere simul spesque salusque Phrygum »; et Ausonius, Epitaph. Her. XIV: « Hectoris hic tumulus, cum quo sua Troja sepulta est. Conduntur pariter, qui periere simul ». Cf. v. 1045 et 1059. …
+- *In uno Hectore caussa Phrygum* [In Hector alone lay the cause of the Phrygians]: as Pentadius, *in tumulo Hect.*: « Occubuere simul spesque salusque Phrygum »; and Ausonius, *Epitaph. Her.* XIV: « Hectoris hic tumulus, cum quo sua Troja sepulta est. Conduntur pariter, qui periere simul ». Cf. vv. 1045 and 1059. …
 
 [3] 1020 Hectore causa Phrygum, ruit et defessa senectus
 
@@ -11427,7 +11428,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1023 oblitum tenuit uitae, quin iret inermis
 
 [2] 1028 Oblitum tenuit vitae, quin iret inermis,
-- … Eadem constructione supra usus est auctor versu 938.
+- … The author used the same construction above in verse 938.
 
 [3] 1023 Oblitum tenuit uitae, quin iret inermis
 
@@ -11480,7 +11481,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1028 haec ait: "O Graiae gentis fortissime Achilles,
 
 [2] 1033 Haec ait : «O Graiae gentis fortissime Achilles,
-- … Apud Homerum, Iliad. XXIV, 486 seqq. plane alia Priami oratio est, atque haec apud Homeristam latinum, qui hoc loco, ut in aliis, ipse poetam agere voluit. At puto, inferior est divino illo Homeri Μνῆσαι πατρὸς σοῖο.
+- … In Homer, *Iliad* XXIV, 486 ff., Priam's speech is entirely different from this one in our Latin Homerist, who in this passage, as in others, wished to act the poet himself. But in my opinion, it is inferior to that divine passage of Homer: Μνῆσαι πατρὸς σοῖο.
 
 [3] 1028 Haec ait 'o Graiae gentis fortissime Achilles,
 
@@ -11518,12 +11519,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1031 Crudelem nimium : nunc sis mihi mitior, oro,
 
 [6] 1031 crudelem nimium: nunc sis mitissimus, oro,
-- … mitissimus … at cf. Ov. met. 14, 587
+- … mitissimus … but cf. Ovid, Met. 14, 587
 
 1032 et patris afflicti genibus miserere precantis
 
 [2] 1037 Et patris adflicti genibus miserere precantis,
-- … Ego nihil mutandum censeo, et cum Barthio, comm. ad Statium, t. III, p. 394, adflicti genibus explico adpulsi tuis genibus, adfixi velut vi quadam. Sic apud Sueton. legitur, Jul. 20, « ad genua accidere ».
+- … I think nothing should be changed, and with Barth, commentary on Statius, vol. III, p. 394, I explain *adflicti genibus* as driven to your knees, affixed as if by some force. Thus in Suetonius, *Jul.* 20, we read: « ad genua accidere ».
 
 [3] 1032 Et patris afflicti genibus miserere precantis
 
@@ -11577,7 +11578,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1037 Nec uitam mihi nec magnos *concedere* honores,
 
 [2] 1042 Non vitam mihi, nec magnos concedere honores.
-- **(cont.)** … Finxisse haec auctor videtur ex iis, quae occisi Pallantis pater dicit apud Virg. Aeneid. XI, 180: « Non vitae gaudia quaero, Nec fas, sed nato Manes perferre sub imos ».
+- **(cont.)** … The author seems to have fashioned these words from what the father of the slain Pallas says in Virgil, *Aeneid* XI, 180: « Non vitae gaudia quaero, Nec fas, sed nato Manes perferre sub imos ».
 
 [3] 1037 Non uitam mihi nec magnos concede fauores,
 
@@ -11589,7 +11590,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1038 sed funus crudele meum! Miserere parentis
 
 [2] 1043 Sed funus crudele peto : miserere parentis ,
-- … Cui similis sententia Ovidii est, Met. IX, 179: « diris cruciatibus aegram Invisamque animam, natamque laboribus aufer, Mors mihi munus erit ». …
+- … Similar to this is the sentiment of Ovid, *Met.* IX, 179: « diris cruciatibus aegram Invisamque animam, natamque laboribus aufer, Mors mihi munus erit ». …
 
 [3] 1038 Sed funus crudele mei: miserere parentis
 
@@ -11601,7 +11602,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1039 et pater esse meo mitis de corpore disce.
 
 [2] 1044 Et pater esse meo mitis de funere disce.
-- … Barth. Adv. p. 2810 inhaeret vulgatae de funere, et putat Priamum se ipsum appellare funus post interemptum filium, ut cadaver Virgilius in Ciri anum quampiam. …
+- … Barth, *Adv.* p. 2810, clings to the vulgate *de funere*, and thinks that Priam calls himself a corpse (*funus*) after his son has been slain, just as Virgil in the *Ciris* calls a certain old woman a corpse (*cadaver*). …
 
 [3] 1039 Et pater esse meo mitis de uulnere disce.
 
@@ -11624,7 +11625,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1041 uicisti Priamum: sortis reminiscere uictor
 
 [2] 1046 Yicisti Priamum : sortis reminiscere victor
-- Sortis reminiscere victor Humanae. Haud obscurum est, sententiam hanc adludere, ut alia multa auctoris nostri, ad verba Ovidii, Trist. III, 11, 67: « Humanaeque memor sortis, quae tollit eosdem, Et premit, incertas ipse verere vices ». Eadem verba ex Ovidio translata Ausonius in Periocha XXIV Iliados usurpat: Jupiter Thetidem mittit ad filium, cum mandatis ejusmodi, ut in defunctum saevire desistat, fatique hominum in exanimo hoste vereatur, ubi extrema verba, quae mendosa aut hiulca videntur, optime corrigi supplendo ex Ovidii verbis possunt, fatique hominum vices ... vereatur. Enimvero talis sententia, qualem hic auctor noster et Ausonius proferunt, nulla apud Homerum legitur, uti ad Ausonium dudum notarunt Mariangelus et Vinetus. Quae utriusque conspiratio quum in discessu ab Homero, tum in usurpanda sententia Ovidiana, utique memorabilis est, et fortasse unum utriusque scripti auctorem esse suspicari sinit.
+- *Sortis reminiscere victor Humanae* [Remember human lot, victor]. It is by no means obscure that this sentiment alludes, as do many other things in our author, to the words of Ovid, *Trist.* III, 11, 67: « Humanaeque memor sortis, quae tollit eosdem, Et premit, incertas ipse verere vices ». Ausonius uses these same words borrowed from Ovid in the *Periocha* of *Iliad* XXIV: Jupiter sends Thetis to her son with instructions of this kind, to cease raging against the deceased, and to revere the fate of men in the lifeless enemy; where the last words, which seem faulty or incomplete, can best be corrected by supplying from Ovid's words: *fatique hominum vices ... vereatur*. Indeed, no such thought as our author and Ausonius put forward here is to be read in Homer, as Mariangelus and Vinetus long ago noted on Ausonius. This agreement of both, not only in departing from Homer but also in adopting the Ovidian sentiment, is certainly memorable, and perhaps allows us to suspect that there was a single author for both writings.
 
 [3] 1041 Uicisti Priamum: sortis reminiscere uictor
 
@@ -11668,14 +11669,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1045 reddidit Hectoreum. Post haec sua dona reportat
 
 [2] 1050 Reddidit Hectoreuin : post haec sua dona reportat
-- Post haec sua dona reportat. Barthius ad Stat. l. c. dubitat, an haec sana sint. Minime enim Achillem apud Homerum dona advecta reddidisse Priamo, sed aperte testari munerum ergo ei reddere cadaver Hectoris; atque hinc scribere vult: sua dona reportat Achilles, It patriam Priamus. Ego vero in ea re non haerendum censeo, et per dona ipsum corpus Hectoris, donatum Priamo, puto intelligi.
+- *Post haec sua dona reportat* [After this he carries back his gifts]. Barth on Statius, *loc. cit.*, doubts whether these words are sound. For by no means in Homer did Achilles return the gifts brought to Priam, but openly attested that on account of the gifts he was returning the body of Hector to him; and hence he wishes to write: *sua dona reportat Achilles, It patriam Priamus*. But I think we should not stumble over this matter, and by *dona* I think the very body of Hector, granted to Priam, is understood.
 
 [3] 1045 Reddidit Hectoreum, post haec sua dona reportat.
 
 [4] 1045 Reddidit Hectoreum, post haec sua dona reportat.
 
 [6] 1045 reddidit Hectoreum. post haec sua dona reportat
-- … dona i. corpus Hectoris
+- … dona i.e. the body of Hector
 
 1046 in patriam Priamus tristesque ex more suorum
 
@@ -11702,22 +11703,22 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1048 Tum pyra construitur, qua bis sex corpora Graium
 
 [2] 1053 Tunc pyra construitur, quo bis sex corpora Graium
-- … Barthius tamen ad Statium, t. III, p. 395, Lutatii lectionem sollicitat, et Troum omnino corpora, non Graecorum, cum Hectore cremata esse contendit. Magna religione putat cautum fuisse antiquis, ne hostes uni busto inferrentur: cadavera Graecorum non adfuisse Priamo, quum constet Graecos sua studiosissime ad sepulturam recuperasse; viva autem corpora adhiberi non potuisse sine magno iracundiae Achillis in Priamum ingratum periculo. Et sane auctor ea in re relationem Homeri de funeratione Hectoris egressus est, et narrationem suam ad aliam Homeri de Patrocli rogo Il. XXIII, 171, aut ad illam Maronis de inferiis Pallanti datis Aen. XI, 80 seq. composuisse videtur. Interim lectio ea corpora Graium, quae optimis codicibus confirmatur, minime repudianda a Barthio erat, et si quid in ea falsi est, ipsius auctoris error, non librariorum est: neque Barthii rationes, ob quas Troum legendum censet, omnes probare possum. — Lectio corpora Graium etiam a Schradero defenditur, Observationum lib. I, c. 5, pag. 61. Ed.
+- … Barth, however, on Statius, vol. III, p. 395, challenges Lutatius' reading, and contends that by all means the bodies of Trojans, not Greeks, were cremated with Hector. He thinks the ancients took great religious care that enemies should not be placed into a single pyre: that the corpses of the Greeks were not available to Priam, since it is well known that the Greeks recovered their own dead for burial with the greatest eagerness; moreover, that living bodies could not have been used without great danger of Achilles' anger against an ungrateful Priam. And indeed the author in this matter departed from Homer's account of Hector's funeral, and seems to have fashioned his narrative after Homer's other account of the pyre of Patroclus, *Il.* XXIII, 171, or after that of Maro concerning the funeral offerings made to Pallas, *Aen.* XI, 80 ff. Meanwhile, that reading *corpora Graium*, which is confirmed by the best manuscripts, ought by no means to have been rejected by Barth; and if there is anything false in it, it is the error of the author himself, not of the scribes; nor can I approve all of Barth's reasons on account of which he thinks *Troum* should be read. — The reading *corpora Graium* is also defended by Schrader, *Observationum* book I, ch. 5, page 61. Ed.
 
 [3] 1048 Tum pyra construitur, quo bis sex corpora Graium
-- **1048—51** adfert Lactantius ad Statii Theb. VI 121 (Homerus in funere Hectoris dicit)
+- **1048—51** Lactantius cites on Statius Theb. VI 121 (Homer says in the funeral of Hector)
 
 [4] 1048 Tum pyra construitur, quo bis sex corpora Grajum
 
 [6] 1048 tum pyra construitur, qua bis sex corpora Graium
 - *Iliad* 24.784
-- **1048/50** (testimonia) ob rem affert Lactant. ad Stati Theb. 6, 121 …
+- **1048/50** (testimonia) cited for the matter by Lactantius on Statius, *Thebaid* 6, 121 …
 
 1049 quadrupedesque adduntur equi currusque tubaeque
 
 [2] 1054 Quadrupedesque adduntur equi, currusque, tubaeque.
-- … — Quod addit currusque tubasque esse addita in pyram, id plane alienum ab Homero videtur, et fortasse e Virgilio intempestive tra-
-- **(cont.)** ductum, qui Aen. VI, 232, de sepulcro Miseni: « Imponit suaque arma viro, remumque, tubamque ». Sed adnotavit Victor, de Orig. gent. Rom. cap. 9, eum locum Virgilii adlegans, auctore Homero, tubae usum Trojanis temporibus ignoratum fuisse.
+- … — As to his adding that chariots and trumpets were thrown onto the pyre, that seems completely foreign to Homer, and perhaps unseasonably bor-
+- **(cont.)** (cont.) -rowed from Virgil, who says of the tomb of Misenus in *Aen.* VI, 232: « Imponit suaque arma viro, remumque, tubamque ». But Victor, *De Orig. gent. Rom.* ch. 9, citing that passage of Virgil, noted that on Homer's authority the use of the trumpet was unknown in Trojan times.
 
 [3] 1049 Quadrupedesque adduntur equi currusque tubaeque
 
@@ -11751,7 +11752,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1052 stant circum Iliades matres manibusque decoros
 
 [2] 1057 Stant circum Uiades matres, manibusque decoros
-- Stant circum Iliades. Eum morem Virgilius in funere Polydori et Pallantis, Aen. III, 65, et XI, 35, observatum hoc versu indicat: Stant circum Iliades crinem de more solutae. Igitur abrumpere crines, quod Noster usurpat, idem est ac Virgilii solvere crines.
+- *Stant circum Iliades* [The Trojan women stand around]. Virgil indicates that this custom was observed at the funerals of Polydorus and Pallas, *Aen.* III, 65 and XI, 35, by this verse: *Stant circum Iliades crinem de more solutae*. Therefore *abrumpere crines* [to tear hair], which our poet uses, is the same as Virgil's *solvere crines* [to loose hair].
 
 [3] 1052 Stant circum Iliades matres manibusque decoros
 
@@ -11796,7 +11797,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1056 flebilis: ardebat flamma namque Ilion illa.
 
 [2] 1061 Flebilis , ardebat fiamma namque Ilion illa.
-- Flamma namque Ilion illa. Vid. vers. 338.
+- *Flamma namque Ilion illa* [For Ilion was burning with that flame]. See verse 338.
 
 [3] 1056 Flebilis: ardebat flamma namque Ilion illa.
 
@@ -11852,7 +11853,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1061 donec collapsae ceciderunt robora flammae
 
 [2] 1066 Donec collapsae ceciderunt robora flammae,
-- … Virg. Aen. VI, 226: « Postquam collapsi cineres, et flamma quievit »: quae Noster robora flammae, nescio an alius quis dixerit: sed possunt etiam robora de lignis in pyram structis intelligi, quae igne consumpta in cinerem ceciderunt: ut de pyra Miseni etiam refert Maro, Aen. VI, 213: « pinguem taedis et robore secto Ingentem struxere pyram ».
+- … Virg. *Aen.* VI, 226: « Postquam collapsi cineres, et flamma quievit ». What our poet calls *robora flammae*, I do not know whether anyone else has said; but *robora* can also be understood of the oak-wood piled into the pyre, which, consumed by fire, collapsed into ashes; just as Maro also relates of the pyre of Misenus, *Aen.* VI, 213: « pinguem taedis et robore secto Ingentem struxere pyram ».
 
 [3] 1061 Donec conlapsae ceciderunt robora flammae
 
@@ -11875,7 +11876,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1063 Sed iam siste gradum finemque impone labori,
 
 [2] 1068 Sed jam siste gradum, (inemque impone iabori,
-- … — Et pariter cecinit Sidonius Apollinaris, Carm. 2: « Siste, Camena, modos tenues, portumque petenti Jam placido sedeat mihi carminis anchora fundo ». Ed.
+- … — And Sidonius Apollinaris sang similarly, *Carm.* 2: « Siste, Camena, modos tenues, portumque petenti Jam placido sedeat mihi carminis anchora fundo ». Ed.
 
 [3] 1063 Sed iam siste gradum finemque inpone labori,
 
@@ -11887,7 +11888,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1064 Calliope, uatisque tui moderare carinam,
 
 [2] 1069 Calliope, vatisque tui moderare cariDatn,
-- Calliope. Quod auctor hic Musam adloquitur pro se et extra carmen Homericum, eo videtur velle indicare, se in Iliade Homeri latine contrahenda et proprio ingenio et officio poetae usum esse: quod negare illi totum nolim. — Moderare carinam. Solenne quidem poetis est, opera sua cum navigatione, sicut etiam curru et quadrigis comparare, ut a Statio, Silv. IV, 4, 99; Nemesiano, Cyneg. 59, et Claud. in praef. ad I de Rapt. Pros. factum est; sed quae allegoria navigationis hic totum fere epilogum occupat, haud parum efficit verisimile, auctorem hujusce poematis eumdem esse, qui epigrammatis de navigatione, quod in Anthol. Lat. lib. III, epigr. 62 exstat, et inter testimonia de hoc poemate a nobis relatum est, ubi auctor ait, se in villa maritima Iliadem seu bellum Trojanum descripsisse, simulque pericula maris cum securitate ruris comparat. Qua de re plura diximus in prooemio.
+- *Calliope*. That the author here addresses the Muse on his own behalf and outside the Homeric poem seems to indicate that in abridging Homer's *Iliad* in Latin he exercised both his own talent and the office of a poet—which I would by no means entirely deny him. — *Moderare carinam* [Steer the vessel]. It is indeed customary for poets to compare their works with navigation, as also with a chariot and team of four horses, as was done by Statius, *Silv.* IV, 4, 99; Nemesianus, *Cyneg.* 59; and Claudian in the preface to Book I of *De raptu Proserpinae*; but this allegory of navigation, which here occupies almost the whole epilogue, makes it not a little probable that the author of this poem is the very same as the author of the epigram on navigation which is extant in *Anthol. Lat.* book III, epigr. 62, and was included by us among the *Testimonia* on this poem, where the author says that he wrote the *Iliad* or Trojan War in a seaside villa, and at the same time compares the perils of the sea with the security of the countryside. On this matter we have said more in the *Prooemium*.
 
 [3] 1064 Calliope, uatisque tui moderare carinam,
 
@@ -11899,7 +11900,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1065 Remis quem cernis stringentem litora paucis,
 
 [2] 1070 Quem cernis paucis stringentem litora remis.
-- … — Paucis remis est parva navi, quae paucis remis utitur. Olympius, Cyneg. 59: « Dum non magna ratis vicinis sueta moveri Litoribus, tutosque sinus percurrere remis ». — Et Claud. l. c. (edit. nost. vol. II, p. 182 sq. Ed.) « Qui dubiis ausus committere flatibus alnum, Quas natura negat, praebuit arte vias, Tranquillis primum trepidus se credidit undis, Litora securo tramite summa legens ». Ed.
+- … — *Paucis remis* [with few oars] means in a small ship, which uses few oars. Olympius, *Cyneg.* 59: « Dum non magna ratis vicinis sueta moveri Litoribus, tutosque sinus percurrere remis ». — And Claudian, *loc. cit.* (our edition vol. II, p. 182 f. Ed.): « Qui dubiis ausus committere flatibus alnum, Quas natura negat, praebuit arte vias, Tranquillis primum trepidus se credidit undis, Litora securo tramite summa legens ». Ed.
 
 [3] 1065 Remis quam cernis stringentem litora paucis.
 
@@ -11911,7 +11912,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1066 Iamque tenet portum metamque potentis Homeri.
 
 [2] 1071 Jamque tenens portum metamque patentis Homeri ,
-- … Vult enim, se magnum opus Homeri, tamquam patens mare, nunc emensum esse. Horatius, Carm. II, 16, 1: in patenti Prensus Aegaeo. — Et verbum patefecit alio et notando sensu occurrit apud Saleium Bassum, Carm. ad Pisonem, vs. 230: « Ausoniamque chelyn gracilis patefecit Horati »; ubi si recte verbum patefacere potuimus interpretari clarum facere, famae ostendere, nunc non immerito patentis Homeri exponi possit illustris, inclyti vatis, cujus omnibus fama innotuit. Videantur adnotata nostra ad loc. citatum hujus tomi, pag. 265 seqq. Hanc vero observationem quasi de superfluo addo, nec ideo deserendam Wernsd. explicationem puto. Ed.
+- … For he means that he has now traversed the great work of Homer like an open sea. Horace, *Carm.* II, 16, 1: *in patenti Prensus Aegaeo*. — And the verb *patefecit* occurs in another noteworthy sense in Saleius Bassus, *Carm. ad Pisonem*, v. 230: « Ausoniamque chelyn gracilis patefecit Horati »; where, if we have rightly been able to interpret the verb *patefacere* as to make illustrious, to display to fame, now *patentis Homeri* can not undeservedly be explained as of the illustrious, celebrated poet whose fame has become known to everyone. See our notes to the cited passage of this volume, pp. 265 ff. But I add this observation as if as a surplus, nor do I think Wernsdorf's explanation should on that account be abandoned. Ed.
 
 [3] 1066 Iamque tenens portum metamque potentis Homeri,
 
@@ -11923,7 +11924,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1067 Pieridum comitata cohors, summitte rudentes
 
 [2] 1072 Pieridum comitata cohors , submitte rudentes;
-- Submitte rudentes, trahe et demitte vela. Est idem quod Virg. significavit Georg. IV, 116: « extremo ni jam sub fine laborum Vela traham, et terris festinem advertere proram ». Et Statius, Silv. IV, 4, 89 de Thebaide finita: « Jam Sidonios emensa labores Thebais optato collegit carbasa portu ».
+- *Submitte rudentes* [Lower the cordage]: haul in and lower the sails. It is the same as what Virgil signified in *Georg.* IV, 116: « extremo ni jam sub fine laborum Vela traham, et terris festinem advertere proram ». And Statius, *Silv.* IV, 4, 89, on the completion of the *Thebaid*: « Jam Sidonios emensa labores Thebais optato collegit carbasa portu ».
 
 [3] 1067 Pieridem comitata cohors, summitte rudentes;
 
@@ -11935,7 +11936,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1068 Sanctaque uirgineos lauro redimita capillos
 
 [2] 1073 Sanetaque virgineos lauro redimita capillos
-- Sanctaque virgineos lauro redimita. Pro more suo auctor duplici epitheto Musarum cohortem ornat. — Videantur adnotata ad vs. 1021 et 1026. Ed.
+- *Sanctaque virgineos lauro redimita* [And holy, bound as to your maiden hair with laurel]. In accordance with his custom, the author adorns the troop of the Muses with a double epithet. — See the notes on vv. 1021 and 1026. Ed.
 
 [3] 1068 Sanctaque uirgineos lauro redimita capillos,
 
@@ -11947,10 +11948,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1069 Ipsa tuas depone lyras. Ades, inclita Pallas,
 
 [2] 1074 Ipsa tuas depone lyras : ades, inclyta Pallas,
-- Quod lyras multitudinis numero dixit Noster, id non latinum esse pronuntiat Barth. Adv. LVIII, 14, p. 2753. Hoc equidem decidere non ausim. Illud potius adnoto, lyram vel chelyn non semper de lyrica poesi, sed et de alia, praesertim de epica, dici, ut a Statio, Silv. II, 2, 114: « Seu nostram quatit ille chelyn, seu dissona nectit Carmina »: heroicos et elegos versus significat. — Ades, inclyta Pallas, pro adsis. Ed.
+- As to our author's having used *lyras* in the plural number, Barth pronounces this not to be Latin, *Adv.* LVIII, 14, p. 2753. I for my part would not dare to decide this. I rather note that *lyra* or *chelys* is not always used of lyric poetry, but also of other poetry, especially epic, as by Statius, *Silv.* II, 2, 114: « Seu nostram quatit ille chelyn, seu dissona nectit Carmina »: he means heroic and elegiac verses. — *Ades, inclyta Pallas*, instead of *adsis*. Ed.
 
 [3] 1069 Ipsa, tuas depone lyras, ades, inclita Pallas,
-- Ipsa (= era, scil. Calliope) …
+- Ipsa (= era, namely Calliope) …
 
 [4] 1069 Ipsa, tuas depone lyras, ades, inclita Pallas,
 
@@ -11960,7 +11961,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1070 Tuque faue cursu uatis iam, Phoebe, peracto.
 
 [2] 1075 Tuque fave, cursu vatis jam, Phoebe, peracto.
-- Jam, Phoebe, peracto. His respicere videtur ad vers. 164, quo Phoebum invocaverat. Ed.
+- *Jam, Phoebe, peracto* [now that the course is completed, Phoebus]. With these words he seems to look back to verse 164, in which he had invoked Phoebus. Ed.
 
 [3] 1070 Tuque faue cursu uatis iam, Phoebe, peracto.
 

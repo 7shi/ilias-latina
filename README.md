@@ -166,22 +166,12 @@ numbers (`N TEXT`) and the editorial signs of the page (`<que>`, `<>`,
 
 ## Tools
 
-This repository provides helper tools for preparing the commentary:
-
-- Number the verses of the Latin text of The Latin Library.
-- Add the headings of the 24 books to it and write
-  [texts/ilias.txt](texts/ilias.txt).
-- Organize the public-domain editions for reference by page and verse
-  (Lemaire [2]: [texts/2-lemaire/](texts/2-lemaire/README.md);
-  Baehrens [3]: [texts/3-baehrens/](texts/3-baehrens/README.md);
-  Plessis [4]: [texts/4-plessis/](texts/4-plessis/README.md);
-  Vollmer [6]: [texts/6-vollmer/](texts/6-vollmer/README.md)).
-- Key the verses of these editions to The Latin Library in a
-  concordance ([texts/concordance.md](texts/concordance.md)).
-- Optionally, align the Portuguese translation with it verse by verse
-  into a parallel text, as an aid for checking the content.
-
-Both texts are listed under [References](#references).
+This repository provides helper tools for preparing the commentary from
+the Latin text of The Latin Library and the public-domain editions
+organized in [texts/](texts/README.md) (Lemaire [2], Baehrens [3],
+Plessis [4], Vollmer [6]); the Portuguese translation is used only as an
+aid for checking the content (see [References](#references)).  The steps
+of the work and their state are described in [PLAN.md](PLAN.md).
 
 The tools require [uv](https://docs.astral.sh/uv/), `make`, `curl` and
 poppler-utils.  See [src/README.md](src/README.md) for usage.

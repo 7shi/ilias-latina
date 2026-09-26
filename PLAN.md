@@ -3,8 +3,8 @@
 ## HANDOFF
 
 Notes for the next session.  Read README.md, this file,
-texts/README.md, texts/COMMENTARY.md (book 1), texts/concordance.md
-(the Book divisions) and src/README.md first.
+texts/README.md, texts/COMMENTARY.md (book 1), texts/NOTES.md,
+texts/concordance.md (the Book divisions) and src/README.md first.
 
 ### Rules (unchanged)
 
@@ -24,8 +24,13 @@ texts/README.md, texts/COMMENTARY.md (book 1), texts/concordance.md
 - A script extracts a source only once; later corrections are made in
   the output files, never kept in the scripts, and `make` does not
   rebuild an existing file (order-only prerequisites).  The exception is
-  texts/COMMENTARY.md, which is derived and rebuilt by `make commentary`
-  from the files it reads; it is not corrected by hand.
+  texts/COMMENTARY.md with its translations COMMENTARY-en.md and
+  COMMENTARY-ja.md, which are derived and rebuilt by `make commentary`
+  from the files they read; they are not corrected by hand.
+- The translations (`-en.md`, `-ja.md`) follow their originals one for
+  one.  A correction to an original is made in its translations too;
+  the COMMENTARY-en/ja.md of an edition quote the notes of its
+  ilias-en/ja.md, cut at the same places as its COMMENTARY.md.
 - Notation: hands as each edition prints them; a literal `<` is `\<`,
   `|` in a table `\|`.  Ask the user before settling a notation.
 - Each edition's text is from its own OCR; LL is used only to decide
@@ -69,16 +74,28 @@ texts/README.md, texts/COMMENTARY.md (book 1), texts/concordance.md
   material for the notes; the separate tables planned before (Vollmer's
   margin → *Iliad* lines, Plessis's index → verses, Lemaire's notes keyed
   to LL) are no longer needed.
+- The files of the editions, including ilias.md (apparatus and notes;
+  the verse tables are kept verbatim) and COMMENTARY.md, have English
+  and Japanese translations (`-en.md`, `-ja.md`), and `make commentary`
+  also builds texts/COMMENTARY-en.md and texts/COMMENTARY-ja.md from
+  them.  The translations are drafts, not yet reviewed.
+- texts/overview.md (with -en, -ja) sums up what the editors say about
+  the poem as a whole (author, date, transmission).  It is background,
+  not a source for the notes on the verses.
 
 ### Next: the pilot notes for book 1
 
-Step 4 of [Order of work](#order-of-work); confirm the format with the
-user before writing much:
+Steps 4–5 of [Order of work](#order-of-work); confirm the format with
+the user before writing much:
 
-- Work from texts/COMMENTARY.md, book 1 (verses 1–110), and write the
-  notes in the layers below.
+- Work through texts/COMMENTARY.md, book 1 (verses 1–110), and write
+  what is found along the way in texts/NOTES.md: points to check,
+  comparisons of the editions and conclusions, with the verse numbers of
+  The Latin Library.  NOTES.md is the working record; the notes in the
+  layers below are written from it afterwards.
 - Settle the [Open questions](#open-questions) (directory, file format,
-  language of the notes) with the user first.
+  language of the notes) with the user before writing the notes
+  themselves.
 - The *Iliad* lines of Vollmer's margin are given under his verse in
   texts/COMMENTARY.md as book.line ("1.8" for his "Α 8"); the meaning of
   his dash (probably no Homeric counterpart) is still to be checked in
@@ -228,7 +245,8 @@ Consulting page images is now kept only as a last resort.
 - `texts/` — processed texts from the public-domain sources, one
   subdirectory per book of the Internet Archive list, named by its
   number and the editor (e.g. `texts/6-vollmer/`), with the concordance
-  and the collected commentary (`texts/COMMENTARY.md`).  The Latin
+  the collected commentary (`texts/COMMENTARY.md`) and the working
+  notes (`texts/NOTES.md`).  The Latin
   Library text is published here as `texts/ilias.txt`: one continuous
   file with a heading for each book, so that the divisions can still be
   adjusted.
@@ -250,7 +268,8 @@ divisions and is used only as an aid for checking the content.
 
 ## Order of work
 
-1. Mark the 24 books in The Latin Library text with headings, using the
+1. Number the verses of The Latin Library text and mark the 24 books in
+   it with headings, using the
    divisions in `texts/README.md` (based on the Portuguese translation
    and checked against the Latin).  Done: `texts/ilias.txt`.
 2. Organize the sources for reference, one at a time: Vollmer [6],
@@ -270,10 +289,13 @@ divisions and is used only as an aid for checking the content.
    concordance, the book divisions of the editions (compared, not
    imposed: `src/books.py` keeps the divisions of this repository) and
    the notes on the interpretation keyed to The Latin Library
-   numbering.  Done: `texts/concordance.md` and `texts/COMMENTARY.md`.
-4. Write the notes for book 1 as a pilot and settle the format of the
-   notes.
-5. Proceed book by book.
+   numbering.  Done: `texts/concordance.md` and `texts/COMMENTARY.md`,
+   with English and Japanese translations of the editions' files.
+4. Work through `texts/COMMENTARY.md` book by book, starting with
+   book 1, and record the findings in `texts/NOTES.md`.
+5. Write the notes for book 1 as a pilot from them and settle the format
+   of the notes.
+6. Proceed book by book.
 
 ## Open questions
 

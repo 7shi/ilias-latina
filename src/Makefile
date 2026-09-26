@@ -28,7 +28,7 @@ lemaire: ../texts/2-lemaire/ilias.md ## Extract Lemaire's edition once (texts/2-
 
 concordance: ../texts/concordance.md ## Build the verse concordance once (texts/concordance.md)
 
-commentary: ../texts/COMMENTARY.md ## Put the verses and commentaries side by side (texts/COMMENTARY.md)
+commentary: ../texts/COMMENTARY.md ../texts/COMMENTARY-en.md ../texts/COMMENTARY-ja.md ## Put the verses and commentaries side by side (texts/COMMENTARY.md, -en, -ja)
 
 download: tmp/ilias.html ## Download the Latin text from The Latin Library
 
@@ -88,6 +88,9 @@ tmp/2-$(LEMAIRE)_hocr.html:
 COMMENTARIES = $(foreach d,2-lemaire 3-baehrens 4-plessis 6-vollmer,../texts/$(d)/ilias.md ../texts/$(d)/COMMENTARY.md)
 ../texts/COMMENTARY.md: commentary.py ../texts/ilias.txt ../texts/concordance.md $(COMMENTARIES)
 	uv run python commentary.py ../texts $@
+
+../texts/COMMENTARY-%.md: commentary.py ../texts/ilias.txt ../texts/concordance.md $(COMMENTARIES) $(foreach d,2-lemaire 3-baehrens 4-plessis 6-vollmer,../texts/$(d)/COMMENTARY-%.md)
+	uv run python commentary.py ../texts $@ $*
 
 pt: tmp/ilias.txt extract_pt.py parallel.py ## Extract numbered translation and parallel text (PDF=...)
 	$(CHECK_PDF)

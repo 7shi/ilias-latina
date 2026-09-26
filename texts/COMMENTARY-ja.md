@@ -1,33 +1,12 @@
-# Commentary
+# 注解
 
-The verses of the four editions organized in this directory and the
-items of their commentaries, verse by verse in the order of The Latin
-Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in
-[src/](../src/README.md) (`commentary.py`) from
-[concordance.md](concordance.md), the editions' `ilias.md` and their
-`COMMENTARY.md`, and rebuilt from them; do not correct it by hand.
-Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
+[COMMENTARY.md](COMMENTARY.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。[src/](../src/README.md) の `make commentary`（`commentary.py`）が [concordance.md](concordance.md)、各版の `ilias.md` と `COMMENTARY-ja.md` から生成し、それらが変わると作り直す。手で修正しないこと。
 
-- Each verse begins with its number and text in The Latin Library
-  (LL); "79a", "79b" are verses that The Latin Library does not have,
-  placed after the verse that precedes them in the editions.
-- Then, for each edition, [2] Lemaire (Wernsdorf's numbers),
-  [3] Baehrens, [4] Plessis and [6] Vollmer, its own number and text
-  of the verse as in the concordance ("[n]" a verse the edition
-  brackets, "below" one Plessis prints below the text, "—" none),
-  followed by the items of its COMMENTARY.md on the verse.
-- An item keeps its label only where the label is more than the
-  number of the verse given above it: a range of verses, whose item
-  is given at the first of them, or Lemaire's "(cont.)", a note
-  continued from the previous page.  Vollmer's testimonia are marked
-  "(testimonia)".
-- Under Vollmer's verse, "*Iliad*" gives the lines of the *Iliad*
-  printed in his left margin where the poet follows them, as book.line
-  ("1.8" for his "Α 8"; he gives the book as a Greek letter only
-  where it changes).  "—" is as printed, probably a verse with no
-  Homeric counterpart.
-- The texts and the items are quoted as they stand in the files;
-  see each edition's COMMENTARY.md for what is kept and left out.
+- 各詩行は The Latin Library（LL）の行番号と本文で始まる。「79a」「79b」は The Latin Library にない詩行で、各版でその前にある詩行の後に置く。
+- 続いて各版、[2] Lemaire（ヴェルンスドルフの行番号）、[3] Baehrens、[4] Plessis、[6] Vollmer について、対照表のとおりにその版の行番号と本文を示す（「[n]」はその版が括弧に入れる詩行、「below」はプレシが本文の下に印刷する詩行、「—」は該当なし）。その後にその版の COMMENTARY-ja.md のうち、その詩行の項目を置く。詩行はラテン語のまま。
+- 項目のラベルは、上に示した詩行の番号以上の情報がある場合に限って残す。すなわち詩行の範囲（項目はその最初の詩行に置く）と、前の頁から続く Lemaire の注「(cont.)」である。フォルマーの証言には「（証言）」と記す。
+- フォルマーの詩行の下の「『イーリアス』」は、詩人が『イーリアス』に従う箇所でフォルマーが左欄に印刷した行を、巻.行の形で示す（フォルマーの「Α 8」は「1.8」。フォルマーは巻をギリシア文字で、変わるところにだけ示す）。「—」は印刷どおりで、おそらくホメーロスに対応のない詩行である。
+- 本文と項目は各ファイルにあるとおりに引く。何を残し何を省いたかは各版の COMMENTARY-ja.md を参照。
 
 ## Book 1
 
@@ -40,12 +19,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1 Iram pande mihi Pelidae, Diva, superbi,
 
 [6] 1 Iram pande mihi Pelidae, Diva, superbi,
-- *Iliad* 1.1 ss.
+- 『イーリアス』 1.1 ss.
 
 2 Tristia quae miseris iniecit funera Grais
 
 [2] 2 Tristia quae miseris injecit funera Graiis ,
-- Injecit funera. Antiquiores dicunt immittere vel dare funera. Virg. Aen. X, 13: « Quum fera Carthago Romanis arcibus olim Exitium magnum atque Alpes immittet apertas »; Val. Flaccus, III, 681, « nec enim solis dare funera Colchis Sit satis ». — Plautus tamen objicere funera dixit, Amphitr. I, 1, 35: « Qui multa Thebano populo objecit funera ». Ed.
+- *Injecit funera*（死をもたらした）。より古い詩人たちは *immittere* または *dare funera* と言う。Virg. Aen. X, 13: « Quum fera Carthago Romanis arcibus olim Exitium magnum atque Alpes immittet apertas »；Val. Flaccus, III, 681: « nec enim solis dare funera Colchis Sit satis »。――もっともプラウトゥスは Amphitr. I, 1, 35 で *objicere funera* と言っている: « Qui multa Thebano populo objecit funera »。パリ編者。
 
 [3] 2 Tristia quae miseris iniecit funera Grais
 
@@ -66,7 +45,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 4 Latrantumque dedit rostris uolucrumque trahendos
 
 [2] 4 Latrantumque dedit rostris volucrumque trahendos
-- Volucrumque trahendos. P. Bondamius, Var. Lect. II, 4, observat auctorem in his imitatum esse Ovid. Ib. 171: « Unguibus et rostro tardus trahet ilia vultur, Et scindent avidae perfida corda canes ».
+- *Volucrumque trahendos*（鳥たちに引き裂かれるべき）。P・ボンダムは『異読考』(*Var. Lect.*) II, 4 で、作者がここで Ovid. Ib. 171 を模倣したと指摘している: « Unguibus et rostro tardus trahet ilia vultur, Et scindent avidae perfida corda canes »。
 
 [3] 4 Latrantumque dedit rostris uolucrumque trahendos
 
@@ -77,19 +56,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 5 Illorum exsangues, inhumatis ossibus, artus.
 
 [2] 5 Illorum exsangues inhumatis ossibus artus.
-- Exsangues inhumatis ossibus. Virgil. Aen. XI, 22: « socios inhumataque corpora terrae Mandemus ». Ovid. Her. XI, 123: « Ossa superstabunt volucres inhumata marinae ».
+- *Exsangues inhumatis ossibus*（血の気のない、埋葬されぬ骨のままの）。Virgil. Aen. XI, 22: « socios inhumataque corpora terrae Mandemus »。Ovid. Her. XI, 123: « Ossa superstabunt volucres inhumata marinae »。
 
 [3] 5 Illorum exsangues inhumatis ossibus artus.
 
 [4] 5 Ipsorum exsangues inhumatis ossibus artus.
-- Ipsorum … cf. Iliad. I, 4 αὐτοὺς δέ.
+- Ipsorum …。『イーリアス』I, 4 αὐτοὺς δέ を参照。
 
 [6] 5 Illorum exsangues inhumatis ossibus artus.
 
 6 Confiebat enim summi sententia regis,
 
 [2] 6 Confiebat enim summi sententia regis,
-- **(cont.)** … Verbum confiebat id graecum Homeri Διὸς δ᾽ ἐτελείετο βουλή optime exprimit, et similiter eo verbo utitur Virg. Aeneid. IV, 116: « nunc qua ratione, quod instat, Confieri possit, paucis, adverte, docebo ». Quo et Lucretius, III, 413: « Id quoque enim sine pernicie confiet eorum »; idem, IV, 292, « quoniam res confit utroque ».
+- **(cont.)** … 動詞 *confiebat* はホメーロスのギリシア語 Διὸς δ᾽ ἐτελείετο βουλή を最も見事に表現しており、同様に Virg. Aeneid. IV, 116 でもその動詞が用いられている: « nunc qua ratione, quod instat, Confieri possit, paucis, adverte, docebo »。ルクレーティウスもこれを用いており、III, 413: « Id quoque enim sine pernicie confiet eorum »、同 IV, 292: « quoniam res confit utroque »。
 
 [3] 6 Confiebat enim summi sententia regis,
 
@@ -100,14 +79,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 7 protulerant* ex quo discordia pectora pugnas,
 
 [2] 7 Ex quo contulerant discordi pectore pugnas
-- … Sic Virg. Aen. X, 146: « Illi inter sese duri certamina belli Contulerant ».
+- … 同様に Virg. Aen. X, 146: « Illi inter sese duri certamina belli Contulerant »。
 
 [3] 7 Ut primum tulerant discordi pectore pugnas
 
 [4] 7 Volverunt ex quo discordi pectore turbas
 
 [6] 7 † Protulerant ex quo discordia pectora turbas,
-- (testimonia) Ermenricus epist. ad Grimaldum (a. 850—55) Mon. Germ. hist. Epist. V 545, 24: E poetice corripitur apud Homerum in Iliade: Pertulĕrunt ex quo discordia pectora turmas
+- （証言） エルメンリクス『グリマルドゥス宛書簡』(850–55年頃)、*Mon. Germ. hist. Epist.* V 545, 24: 「ホメーロスの『イーリアス』において E が詩的に短音化されている: *Pertulĕrunt ex quo discordia pectora turmas*」
 
 8 Sceptriger Atrides et bello clarus Achilles.
 
@@ -122,14 +101,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 9 Quis deus hos ira tristi contendere iussit?
 
 [2] 9 Quis Deus hos ira tristi contendere jussit?
-- … Atque illud verba Homeri poscunt ἔριδι ξυνέηκε μάχεσθαι.
+- … さらにホメーロスの言葉 ἔριδι ξυνέηκε μάχεσθαι もこの読みを要求している。
 
 [3] 9 Quis deus hos ira tristi contendere iussit?
 
 [4] 9 Quis deus hos jussit ira contendere tristi ?
 
 [6] 9 quis deus hos ira tristi contendere iussit?
-- *Iliad* 1.8
+- 『イーリアス』 1.8
 
 10 Latonae et magni proles Iouis. Ille Pelasgum
 
@@ -144,20 +123,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 11 infestam regi pestem in praecordia misit
 
 [2] 11 Infestus regi pestem in praecordia misit,
-- … Hoc enim volunt verba Homeri, vs. 9, ὃ γὰρ βασιλῆϊ χολωθείς, et ipse auctor infra, v. 55, confirmat: « Haec ait: Infesti placemus numina Phoebi ». … Pestem in praecordia misit: nempe iram, quae ipsis esset pestifera. Sic apud Ovid. Metam. VIII, 791, Ceres de fame Erisichtoni immissa: « ea se in praecordia condat Sacrilegi scelerata jube ».
+- … というのも、ホメーロスの言葉、9 行の ὃ γὰρ βασιλῆϊ χολωθείς がそれを意味しており、作者自身も下の 55 行で « Haec ait: Infesti placemus numina Phoebi » と確証しているからである。…*Pestem in praecordia misit*（胸のうちに破滅を送り込んだ）：すなわち、彼らにとって破滅的なものとなる怒りのことである。オウィディウスの Metam. VIII, 791 で、ケーレースがエリュシクトーンに送り込まれた飢餓について次のように述べるのと同様である: « ea se in praecordia condat Sacrilegi scelerata jube »。
 
 [3] 11 Infestus regi pestem in praetoria misit
 
 [4] 11 Infestus regi pestem in praecordia misit
-- Infestus … cf. Iliad. I, 9 : βασιλῆϊ χολωθείς. …
+- Infestus …。『イーリアス』I, 9 : βασιλῆϊ χολωθείς を参照。…
 
 [6] 11 infestus regi pestem in praecordia misit
-- Infestus (χολωθείς) … pestem i. amorem Chryseidos (v. v. 26) …
+- Infestus (χολωθείς) … pestem すなわち amorem Chryseidos (26行を参照) …
 
 12 implicuitque graui Danaorum corpora morbo.
 
 [2] 12 Implicuitque gravi Danaorum corpora morbo.
-- Implicuit morbo. Sane ineleganter dictum, et magis offendit quod fere statim vs. 14 recurrit implicitus. Ed.
+- *Implicuit morbo*（病に巻き込んだ）。実に不作法な言い回しであり、ほとんど直後の 14 行で *implicitus* が再び現れるため、なおさら耳障りである。パリ編者。
 
 [3] 12 Inplicuitque graui Danaorum corpora morbo.
 
@@ -168,7 +147,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 13 Nam quondam Chryses, sollemni tempora uitta
 
 [2] 13 Nam quondam Chryses solenni tempora vitta
-- … Vittam nominat insigne sacerdotii capiti innexum, quo solenniter utendum erat in sacrificiis et ministeriis Apollinis, sicut Cereris sacerdos apud Ovid. Met. V, 110, dicitur « albenti velatus tempora vitta ». …
+- … 彼は鉢巻（*vitta*）を頭に結ばれた祭司の印と呼んでおり、これはアポッローンの犠牲式や奉仕において厳かに用いられるべきものであった。オウィディウスの Met. V, 110 でケーレースの祭司が « albenti velatus tempora vitta » と言われているのと同様である。…
 
 [3] 13 Nam quondam Chryses, sollemni tempora uitta
 
@@ -189,8 +168,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 15 inuisosque dies inuisaque tempora noctis
 
 [2] 15 Invisosque dies invisaque tempora noctis
-- … Dies noctesque conquestum esse
-- **(cont.)** Chrysen hoc loco significat auctor, Virgilium fortasse imitatus, qui de Orpheo, Georg. IV, v. 464: « Ipse cava solans aegrum testudine amorem, Te dulcis conjux, te solo in litore secum, Te veniente die, te decedente canebat ». Homerus tempus et perpetuitatem luctus non attigit, contra Chrysen in litore solum obambulantem facit; quod Virgilius expressit in Orpheo, Noster omisit. Invisam moerentibus lucem vel vitam dicere solent poetae et inprimis Virgilius, ut Aen. IV, 631, XII, 177.
+- … クリューセースが日夜嘆いていたことを
+- **(cont.)** （前頁からの続き）作者はここでクリューセースについて述べており、おそらくウェルギリウスがオルペウスについて Georg. IV, v. 464 で次のように歌ったのを模倣したのであろう: « Ipse cava solans aegrum testudine amorem, Te dulcis conjux, te solo in litore secum, Te veniente die, te decedente canebat »。ホメーロスは嘆きの時間や永続性には触れず、それに対してクリューセースをただ一人浜辺を歩む者としている。ウェルギリウスがオルペウスにおいて表現したそのことを、われらの作者は省いている。悲嘆に暮れる者にとって光や生命が忌まわしい（*invisam*）と言うのは詩人たち、とりわけウェルギリウスの常である（Aen. IV, 631, XII, 177 など）。
 
 [3] 15 Inuisosque dies inuisaque tempora noctis
 
@@ -211,7 +190,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 17 Postquam nulla dies animum maerore leuabat
 
 [2] 17 Postquam nulla dies animum moerore levabat,
-- … Sequentes hos quinque versus Barthius, Advers. LVIII, 14, memorabili ingenio et judicio scriptos esse adfirmat, eorumque suavitatem admiratur. …
+- … バルトは『雑考』(*Advers.*) LVIII, 14 で、続くこの 5 行は際立った才知と判断力をもって書かれていると断言し、その甘美さを称賛している。…
 
 [3] 17 Postquam nulla dies animum maerore leuabat
 
@@ -252,7 +231,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 21 ut sibi causa suae reddatur nata salutis.
 
 [2] 21 Ut sibi caussa suse reddatur nata salutis:
-- Ut sibi caussa suae. Apud Ovid. Met. VI, 499, Pandion de filia sua: « Per Superos oro ..... Et mihi sollicitae lenimen dulce senectae Quamprimum (omnis erit nobis mora longa) remittas.
+- *Ut sibi caussa suae*（みずからの…の原因として彼に）。Ovid. Met. VI, 499 で、パンディオーンが娘について次のように述べている: « Per Superos oro ..... Et mihi sollicitae lenimen dulce senectae Quamprimum (omnis erit nobis mora longa) remittas »。
 
 [3] 21 Ut sibi causa suae reddatur nata salutis.
 
@@ -273,14 +252,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 23 Myrmidones reddique patri Chryseida censent.
 
 [2] 23 Myrmidones , reddique patri Chryseida censent.
-- Myrmidones. Barthius l. cit. non satis circumspecte ab hoc auctore ait Myrmidones pro omnibus Graecis dici, quamquam Maro Danaos, Argivos, Pelasgos pro iisdem habet; hoc vero, quia novum, non posse placere; praeterea Myrmidonum aliam rationem esse, qui nomine praeferant originem gentis prorsus peculiarem, quam ad reliquas extendere, praeferat speciem historiae ignari.
+- *Myrmidones*（ミュルミドーン人たち）。バルトは前掲箇所で、十分な慎重さを欠いて、この作者によって「ミュルミドーン人たち」が全ギリシア人の換称として用いられていると述べ、ウェルギリウス（マロー）は同じ意味でダナオス人、アルゴス人、ペラスゴイ人を用いているが、この用法は新しいがゆえに賛同できない、その上ミュルミドーン人は事情が異なり、その名においてまったく固有の民族的起源を示しており、それを他の者たちにまで拡張することは歴史を知らぬ者のような印象を与える、と論じている。
 
 [3] 23 Myrmidones reddique patri Chryseida censent.
 
 [4] 23 Myrmidones reddique patri Chryseida censent.
 
 [6] 23 Myrmidones reddique patri Chryseida censent.
-- *Iliad* 1.22
+- 『イーリアス』 1.22
 
 24 Sed negat Atrides Chrysenque excedere castris
 
@@ -305,7 +284,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 26 haeret amor spernitque preces damnosa libido.
 
 [2] 26 Haeret amor, spernitque preces damnosa libido.
-- … Cl. P. Bondamio videtur hoc expressum ex Ovidio, Heroid. IV, 70: « Acer in extremis ossibus haesit amor », qui et Metam. III, 395, « Sed tamen haeret amor ». — Damnosa libido est ab Horatio, Epist. II, 1, 107.
+- … 高名な P・ボンダムには、これが Ovid. Heroid. IV, 70: « Acer in extremis ossibus haesit amor » から写されたものと思われ、オウィディウスは Metam. III, 395 でも « Sed tamen haeret amor » と言っている。――*Damnosa libido*（身を滅ぼす情欲）は Horat. Epist. II, 1, 107 に由来する。
 
 [3] 26 Haeret amor, spernitque preces damnosa libido.
 
@@ -322,13 +301,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 27 Contemptus repetit Phoebeia templa sacerdos
 
 [6] 27 contemptus repetit Phoebeia templa sacerdos
-- *Iliad* 1.33
+- 『イーリアス』 1.33
 
 28 squalidaque infestis maerens secat unguibus ora
 
 [2] 28 Squalidaque infestis moerens secat unguibus ora,
-- Secat unguibus ora. Bondamius hoc Ovidio deberi putat, Her. V, 72: « Et secui madidas ungue rigente genas »; idem squalida ora
-- **(cont.)** dixit Trist. IV, 2, 34. Infra, vs. 1012, « arat unguibus ora ».
+- *Secat unguibus ora*（爪で顔を引き裂く）。ボンダムはこれが Ovid. Her. V, 72: « Et secui madidas ungue rigente genas » に負うていると考え、オウィディウスはまた *squalida ora*（汚れやつれた顔）という表現を
+- **(cont.)** （前頁からの続き）Trist. IV, 2, 34 で用いている。以下、1012 行でも « arat unguibus ora » とある。
 
 [3] 28 Squalidaque infestis maerens secat unguibus ora
 
@@ -345,7 +324,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 29 Dilaceratque comas annosaque pectora plangit.
 
 [6] 29 dilaceratque comas annosaque tempora plangit.
-- tempora … cf. Φ 33 κεφαλήν
+- tempora … Φ 33 κεφαλήν を参照
 
 30 Mox ubi depositi gemitus lacrimaeque quierunt,
 
@@ -360,7 +339,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 31 Fatidici his sacras compellat uocibus aures:
 
 [2] 31 Fatidici sacras compellat vocibus aras :
-- … Solet Noster Deos suos solo munerum nomine designare, ut Jovem regis, Vulcanum ignipotentis, Minervam armigerae. Fatidici autem nomen deberi Apollini, quod oracula edit, et futura praedivinando fatur, vulgatum est. Diserte sic Phoebum appellat Ovidius, Fast. II, 262, et V, 626. Et auguris nomen, quod Apollini Horatius, Carm. I, 2, 32, tribuit, eodem spectat. … Nam preces ad aures sacras, Principum vel Deorum, ferre, vulgaris formula est, sequiore praesertim latinitatis aevo. Vid. quae notavimus ad Calpurn. I, vers. ult. et Apollini peculiariter tribuuntur aures precantibus faciles. Unde in precibus ad Apollinem fusis inprimis frequens est exclamatio, ut hic apud Homerum Κλῦθί μευ, ita apud Latinos Audi Apollo. Vid. Horat. Carm. Saec. v. 34. Quin apud Lacedaemonios Apollinem dictum esse τετράωτον, ejusque simulacrum cum quatuor auribus fictum esse, adnotavit Gyraldus, Histor. Deor. Syntagm. VII, sub init.
+- … われらの作者は神々をその職能の名だけで呼ぶのが常であり、ユピテルを *rex*（王）、ウュルカーヌスを *ignipotens*（火を支配する者）、ミネルウァを *armigera*（武具を帯びる者）と呼ぶごときである。アポッローンが神託を下し、未来のことをあらかじめ予言して告げる（*fatur*）がゆえに *Fatidicus* の名が帰せられることは周知の通りである。オウィディウスは Fast. II, 262 および V, 626 でフェーブスを明白にそう呼んでいる。またホラーティウスが Carm. I, 2, 32 でアポッローンに帰している *augur*（占い師）の名も同じことを意味している。…なぜなら君主や神々の「聖なる耳」に祈りを届けるというのは、とりわけラテン語の後代において一般的な言い回しだからである。カルプルニウス第 1 詩最終行に対するわれわれの注を参照のこと。またアポッローンには、祈る者たちに傾けられやすい耳が特に帰せられる。それゆえアポッローンに捧げられる祈りにおいては叫び声がとりわけ頻繁に現れ、ここホメーロスの Κλῦθί μευ と同様に、ラテン人たちの間では *Audi Apollo*（聞きたまえ、アポッローン）となる。Horat. Carm. Saec. v. 34 を見よ。それどころかスパルタ人たちの間ではアポッローンが τετράωτος（四つの耳をもつ者）と呼ばれ、その神像が四つの耳を備えて作られていたことを、ジラルドゥスが『諸神の歴史論纂』(*Histor. Deor. Syntagm.*) VII の冒頭近くで注記している。
 
 [3] 31 Fatidici sacras compellat uocibus aras:
 
@@ -377,7 +356,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 32 « Quid coluisse mihi tua numina, Delphice, prodest
 
 [6] 32 'quid coluisse mihi tua, Delphice, numina prodest
-- *Iliad* 1.37
+- 『イーリアス』 1.37
 
 33 aut castam uitam multos duxisse per annos?
 
@@ -388,7 +367,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 33 Aut castam multos vitam duxisse per annos ?
 
 [6] 33 aut castam multos vitam duxisse per annos?
-- *Iliad* —
+- 『イーリアス』 —
 
 34 Quidue iuuat sacros posuisse altaribus ignes,
 
@@ -409,19 +388,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 35 Si tuus externo jam spernor ab hoste sacerdos ?
 
 [6] 35 si tuus externo iam spernor ab hoste sacerdos?
-- *Iliad* —
+- 『イーリアス』 —
 
 36 En, haec desertae redduntur dona senectae?
 
 [2] 36 En haec desertae redduntur dona senectae.
-- … Nam hoc vocabulum fere proprium et usitatissimum senectutis est, et huic maxime loco aptum, ubi de amissione filiae sermo. — Sic in Epitaph. Luceii, huj. op. t. II, p. 263: « Me desolatum, me desertum ac spoliatum Clamarem ». Vid. quae notavimus ad hunc loc., et ad Petronii Bellum civile, vs. 286. Ed.
+- … なぜならこの語は老境にとってほぼ固有かつ最も慣用される語であり、娘の喪失が語られているこの箇所にきわめて適切だからである。――本叢書第 2 巻 263 頁のルケイウスの墓碑銘（*Epitaph. Luceii*）でも同様である: « Me desolatum, me desertum ac spoliatum Clamarem »。この箇所およびペトローニウス『内乱』(*Bellum civile*) 286 行に対するわれわれの注を参照のこと。パリ編者。
 
 [3] 36 En, haec desertae redduntur dona senectae?
 
 [4] 36 En, haec desertae redduntur dona senectae?
 
 [6] 36 en, haec desertae redduntur dona senectae?
-- *Iliad* —
+- 『イーリアス』 —
 
 37 Si gratus tibi sum, sim te sub uindice tutus.
 
@@ -432,19 +411,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 37 Si gratus tibi sum, sim te sub vindice tutus.
 
 [6] 37 si gratus tibi sum, sim te sub vindice tutus.
-- *Iliad* —
+- 『イーリアス』 —
 
 38 Aut si qua, ut luerem sub acerbo crimine poenas,
 
 [2] 38 Aut si quam ut luerem sub acerbo crimine poenam
-- … Caeterum quae auctor hoc et sequentibus tribus versibus scripsit, Barthius, Advers. LVIII, 14, perpulchra et meliore saeculo digna esse, et summam ingenii felicitatem arguere judicat. Verum et hoc apertum est, quod Bondamius et Dussenius jam observarunt, respexisse in iis et imitatum has Telluris in Phaethontaeo incendio querelas ad Jovem, apud Ovid. Met. II, 279: « Si placet hoc meruique, quid o tua fulmina cessant, Summe Deum? liceat periturae viribus ignis Igne perire tuo, clademque auctore levare ».
+- … なお、作者がこの行および続く 3 行で書いた内容について、バルトは『雑考』(*Advers.*) LVIII, 14 で、きわめて美しく、より良き時代にふさわしいものであり、才能の最高度の恵まれた発露を示していると評している。しかしボンダムとファン・デル・デュッセンがすでに指摘したように、彼がこれらの中で Ovid. Met. II, 279 におけるパエトーンの大火の際のテルス（大地）のユピテルへの嘆きを念頭に置き、模倣したことも明白である: « Si placet hoc meruique, quid o tua fulmina cessant, Summe Deum? liceat periturae viribus ignis Igne perire tuo, clademque auctore levare »。
 
 [3] 38 Aut si qua, ut luerem sub acerbo crimine poenam,
 
 [4] 38 Aut si qua, ut luerem sub acerbo crimine poenam,
 
 [6] 38 aut si qua, ut luerem sub acerbo crimine poenas,
-- *Iliad* —
+- 『イーリアス』 —
 
 39 inscius admisi, cur o tua dextera cessat?
 
@@ -455,12 +434,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 39 Inscius admisi, cur o tua dextera cessat?
 
 [6] 39 inscius admisi, cur o tua dextera cessat?
-- *Iliad* —
+- 『イーリアス』 —
 
 40 Posce sacros arcus, in me tua derige tela:
 
 [2] 40 Posce sacros arcus ; in me tua dirige tela :
-- Posce sacros arcus. Similis oratio Choroebi ad Apollinem apud Stat. Theb. I, 651: « Quid meruere Argi? me me, Divum optime, solum Objecisse caput fatis praestabit »; et v. 658: « Proinde move pharetras, arcusque intende sonoros, Insignemque animam leto demitte ».
+- *Posce sacros arcus*（聖なる弓を求めよ）。コロイボスのアポッローンに対する同様の演説が Stat. Theb. I, 651 に見られる: « Quid meruere Argi? me me, Divum optime, solum Objecisse caput fatis praestabit »；また 658 行: « Proinde move pharetras, arcusque intende sonoros, Insignemque animam leto demitte »。
 
 [3] 40 Posce sacros arcus, in me tua derige tela:
 
@@ -477,7 +456,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 41 Auctor mortis erit certe deus. Ecce merentem
 
 [6] 41 auctor mortis erit certe deus. ecce merentem
-- *Iliad* —
+- 『イーリアス』 —
 
 42 fige patrem; cur nata luit peccata parentis
 
@@ -488,19 +467,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 42 Fige patrem : cur nata luit peccata parentis
 
 [6] 42 fige patrem: cur nata luit peccata parentis
-- *Iliad* —
+- 『イーリアス』 —
 
 43 atque hostis duri patitur miseranda cubile?."
 
 [2] 43 Atque hostis duri patitur miseranda cubile?»
-- Patitur miseranda cubile. Sic pati hymenaeos Virg. Georg. III, 60; pati concubitus Ovidius, Art. Am. III, 766, pati servitium. Idem, Art. Am. III, 486. — Et Noster forte exprimere voluit Homerum, qui Iliad. XVIII, 433: καὶ ἔτλην ἀνέρος εὐνήν. Ed.
+- *Patitur miseranda cubile*（哀れにも閨を耐え忍んでいる）。同様に Virg. Georg. III, 60 に *pati hymenaeos*、Ovid. Art. Am. III, 766 に *pati concubitus*、同 Art. Am. III, 486 に *pati servitium* とある。――そしてわれらの作者は、おそらくホメーロスが Iliad. XVIII, 433 で καὶ ἔτλην ἀνέρος εὐνήν と言っているのを表現しようとしたのであろう。パリ編者。
 
 [3] 43 Atque hostis duri patitur miseranda cubile?'
 
 [4] 43 Atque hostis duri patitur miseranda cubile ? »
 
 [6] 43 atque hostis duri patitur miseranda cubile?'
-- *Iliad* —
+- 『イーリアス』 —
 
 44 Dixerat. Ille sui uatis prece motus acerbis
 
@@ -511,24 +490,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 44 Dixit; at ille sui vatis prece motus acerbis
 
 [6] 44 dixerat. ille sui motus prece vatis acerbis
-- *Iliad* 1.43
+- 『イーリアス』 1.43
 
 45 luctibus infestat Danaos pestemque per omnes
 
 [2] 45 Luctibus infestat Danaos , pestemque per omnes
-- Luctibus infestat Danaos, i. e. vexat, desolatur. Saepe etiam infestare pro infestum facere dicitur; Sil. Ital. II, 277: « Ductorem infestans odiis ». Ed.
+- *Luctibus infestat Danaos*（嘆きをもってダナオス軍を苦しめる）。すなわち、悩ます（*vexat*）、荒廃させる（*desolatur*）の意。またしばしば *infestare* は敵意を向ける、悩ます（*infestum facere*）の意味でも用いられる。Sil. Ital. II, 277: « Ductorem infestans odiis »。パリ編者。
 
 [3] 45 Luctibus infestat Danaos pestemque per omnes
 
 [4] 45 Luctibus infestat Danaos pestemque per omnes
 
 [6] 45 luctibus infestat Danaos pestemque per omnes
-- *Iliad* 1.48
+- 『イーリアス』 1.48
 
 46 immittit populos: uulgus ruit undique Graium
 
 [2] 46 Immittit populos : vulgus ruit undique Graium,
-- Vulgus ruit undique, hoc est, cadit, occumbit moriens; ut Seneca, Oedipi v. 53: « sed omnis aetas pariter et sexus ruit ». Poeticam et argutam esse hanc descriptionem stragis fatetur Barthius l. c. Sed deberi eam Ovidio Bondamius et Dussenius, cum eodem Barthio, agnoscunt. Sic enim Ovid. Metam. VII, 611: « Qui lacryment, desunt, indefletaeque vagantur Natarum matrumque animae, juvenesque senesque. Nec locus in tumulos, nec sufficit arbor in ignes ». Addi potest Manilius, de pestilentia Attica loquens, lib. I, 883 seqq. et Seneca in Oedipo de strage Thebana, act. I, v. 37 seqq. qui et Ovidiano loco admodum similis est.
+- *Vulgus ruit undique*（民衆は至る所で斃れる）。すなわち、倒れる、死んで斃れるの意。Seneca, Oedipi v. 53: « sed omnis aetas pariter et sexus ruit » と同様である。バルトは前掲箇所で、この殺戮の描写が詩的で機知に富んでいる（*argutam*）ことを認めている。しかしボンダムとファン・デル・デュッセンは、同じバルトとともに、これがオウィディウスに負うていることを認めている。実際 Ovid. Metam. VII, 611 にこうある: « Qui lacryment, desunt, indefletaeque vagantur Natarum matrumque animae, juvenesque senesque. Nec locus in tumulos, nec sufficit arbor in ignes »。アッティカの疫病について述べる Manilius, lib. I, 883 seqq. や、テーバイの殺戮について述べるセネカの『オイディプース』第 1 幕 37 行以下（これもオウィディウスの箇所ときわめてよく似ている）を付け加えることができる。
 
 [3] 46 Inmittit populos: uulgus ruit undique Graium,
 
@@ -539,12 +518,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 47 uixque rogis superest tellus, uix ignibus aer,
 
 [2] 47 Vixque rogis superest tellus, vix ignibus arbor:
-- … E quibus hic maxime locus Senecae in Oed. v. 68, aptus verbis nostri auctoris est: « Pars quota in cineres abit? Deest terra tumulis: jam rogos silvae negant ».
+- … その中でもセネカの Oed. v. 68 の次の箇所が、われらの作者の言葉にきわめてよく適合している: « Pars quota in cineres abit? Deest terra tumulis: jam rogos silvae negant »。
 
 [3] 47 Vixque rogis superest tellus, uix ignibus arbor,
 
 [4] 47 Vixque rogis superest tellus, vix ignibus arbor,
-- arbor … (cf. Ovid. Met. VII, 613) …
+- arbor …（オウィディウス『変身物語』VII, 613 を参照）…
 
 [6] 47 vixque rogis superest tellus, vix ignibus aer;
 
@@ -561,7 +540,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 49 transierant decimusque dies patefecerat orbem,
 
 [2] 49 Transierant, decimusque dies patefecerat orbem;
-- Patefecerat orbem. Et hoc, monente Barthio, ex Ovidio habet, Metam. IX, 794: « Postera lux radiis latum patefecerat orbem ».
+- *Patefecerat orbem*（世界を照らし出した）。これもバルトの指摘どおり、Ovid. Metam. IX, 794: « Postera lux radiis latum patefecerat orbem » から取られている。
 
 [3] 49 Transierant decimusque dies patefecerat orbem,
 
@@ -578,7 +557,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 50 Cum Danaum proceres in coctum clarus Acbilles
 
 [6] 50 cum Danaum proceres in coetum clarus Achilles
-- *Iliad* 1.54
+- 『イーリアス』 1.54
 
 51 conuocat et causas hortatur pestis iniquae
 
@@ -599,7 +578,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 52 Edere Thestoriden. Tunc Calchas numina divum
 
 [6] 52 edere Thestoriden. tunc Calchas numina divum
-- *Iliad* 1.69
+- 『イーリアス』 1.69
 
 53 consulit et causam pariter finemque malorum
 
@@ -644,8 +623,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 57 si uolumus, Danai, portus intrare salutis."
 
 [2] 57 Si volumus Danai portus intrare salutis ».
-- Portus intrare salutis. Ad haec verba Barthius: De saeculi est inquinatione quadam, quod portum salutis intrare pro pestilentia liberari dixit, quo loco sane aliter scripsisset majorum gentium aliquis vates. « Ego vero, an apte satis eam
-- **(cont.)** phrasin adhibuerit auctor, de eo non disceptabo, phrasis ipsa defendi potest. Intrare portum satis bonum et usitatum esse, nemo negaverit, et Virgilius Ovidiusque usurparunt. Et portus salutis ab eodem Ovidio est, qui Rem. amoris, v. 610: « Inque suae portu poene salutis erat ».
+- *Portus intrare salutis*（救いの港に入る）。これらの言葉についてバルトは言う：「疫病から解放されるという意味で *portum salutis intrare* と言ったのは、ある種の時代の退廃によるものであり、この箇所では主要な大詩人（*majorum gentium vates*）であれば確かに別の書き方をしたであろう」。「しかし私は、作者がその
+- **(cont.)** （前頁からの続き）語句を適切に用いたか否かについては論争しないが、この語句自体は擁護することができる。*intrare portum*（港に入る）が十分に優れており一般的であることは誰も否定しないであろうし、ウェルギリウスもオウィディウスもこれを用いている。また *portus salutis*（救いの港）も同じオウィディウスに由来し、彼は Rem. amoris, v. 610 でこう述べている: « Inque suae portu poene salutis erat »」。
 
 [3] 57 Si uolumus Danai portus intrare salutis'.
 
@@ -662,7 +641,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 58 Dixerat; exarsit subito violentia regis;
 
 [6] 58 dixerat; exarsit subito violentia regis:
-- *Iliad* 1.101
+- 『イーリアス』 1.101
 
 59 Thestoriden dictis primum compellat amaris
 
@@ -687,7 +666,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 61 inque uicem ducis inuicti conuicia suffert.
 
 [2] 61 Inque vicem ducis invicti convicia sufFert.
-- Convicia suffert. Conferantur infra v. 104 et 537.
+- *Convicia suffert*（罵詈雑言に耐える）。下の 104 行および 537 行と比較せよ。
 
 [3] 61 Inque uicem ducis inuicti conuicia suffert.
 
@@ -698,7 +677,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 62 Confremuere omnes. Tandem clamore represso
 
 [2] 62 Confremuere omnes : tandem clamore represso
-- Confremuere omnes. Cl. Bondamius observat esse hoc hemistichium Ovidii, Met. I, 199.
+- *Confremuere omnes*（一同はざわめいた）。名高いボンダムは、これがオウィディウスの Met. I, 199 の半詩行（ヘミスティキオン）であると指摘している。
 
 [3] 62 Confremuere omnes. tandem clamore represso
 
@@ -709,14 +688,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 63 cogitur inuitos aeger dimittere amores
 
 [2] 63 Cogitur invitos aeger dimittere amores,
-- … invitos amores, quod vulgatae habent, rectum, quia Chryseis invita erat apud Agamemnonem, et hic dicitur eam aeger dimittere. Propert. III, 20, 30: « Atridae magno quum stetit alter amor ».
+- … 流布本が持つ *invitos amores*（不本意な愛）が正しい。なぜならクリューセーイスは不本意ながらアガメムノーンのもとにいたのであり、ここで彼が彼女を痛心して（*aeger*）解放すると言われているからである。Propert. III, 20, 30: « Atridae magno quum stetit alter amor »。
 
 [3] 63 Cogitur inuisos aeger dismittere amores
 
 [4] 63 Cogitur invictos aeger dimittere amores
 
 [6] 63 cogitur invitos aeger dimittere amores
-- inuitos … intellege: quae regem non amabat; amores ipsam Chryseida denotat
+- inuitos … 〜と解せよ: 王を愛していなかった女; amores はクリューセーイス自身を指す
 
 64 intactamque pio reddit Chryseida patri
 
@@ -731,14 +710,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 65 multaque dona super. Quam cunctis notus Vlixes
 
 [2] 65 Multaque dona super : quam cunctis notus Ulysses
-- … — Cunctis notus Ulysses. … In graeco πολύμητις dicitur Ulysses. Hoc vocabulum auctor Epitomes intellexisse videtur, quasi esset πολύμυθος vel πολύμνητος, de eo, qui multorum in ore est, vel de quo multae narrantur fabulae, quod adeo interpretari potuit cunctis notus.
+- … ――*Cunctis notus Ulysses*（万人に知られたウリクセス）。…ギリシア語ではウリクセスは πολύμητις（多くの計略をもつ者）と呼ばれる。要約（エピトメー）の作者はこの語を、あたかも多くの人々の口の端に上る者、あるいは多くの物語が語られる者を意味する πολύμυθος や πολύμνητος であるかのように理解し、その結果 *cunctis notus*（万人に知られた）と解釈したように思われる。
 
 [3] 65 Multaque dona super; quam cunctis notus Ulixes
 
 [4] 65 Multaque dona super; quam cunctis notus Ulixes
 
 [6] 65 multaque dona super; quam cunctis notus Vlixes
-- *Iliad* 1.430
+- 『イーリアス』 1.430
 
 66 impositam puppi patrias deuexit ad arces
 
@@ -753,14 +732,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 67 atque iterum ad classes Danaum sua uela retorsit.
 
 [2] 67 Atque iterum ad classes Danaum sua vela retorsit.
-- Sua vela retorsit. Ovid. Trist. I, 1, 84: « Semper ab Euboicis vela retorquet aquis ».
+- *Sua vela retorsit*（その帆を折り返した）。Ovid. Trist. I, 1, 84: « Semper ab Euboicis vela retorquet aquis »。
 
 [3] 67 Atque iterum ad Danaum classes sua uela retorsit.
 
 [4] 67 Atque itorum ad Danaum classes sua vela retorsit.
 
 [6] 67 atque iterum ad Danaum classes sua vela retorsit.
-- *Iliad* 1.478
+- 『イーリアス』 1.478
 
 68 Protinus infesti placantur numina Phoebi
 
@@ -771,7 +750,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 68 Protinus infesti placantur numina Phoebi.
 
 [6] 68 protinus infesti placantur numina Phoebi
-- *Iliad* 1.457
+- 『イーリアス』 1.457
 
 69 et prope consumptae uires redduntur Achiuis.
 
@@ -792,7 +771,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 70 Non tamen Atridae Chryseidis excidit ardor
 
 [6] 70 non tamen Atridae Chryseidos excidit ardor:
-- *Iliad* 1.318
+- 『イーリアス』 1.318
 
 71 maeret et amissos deceptus luget amores.
 
@@ -817,7 +796,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 73 solaturque suos alienis ignibus ignes.
 
 [2] 73 Solaturque suos alienis ignibus ignes.
-- Ignibus ignes, ut Ovid. Trist. IV, 3, 65, « compescuit ignibus ignes ». Pari sententia Val. Flaccus, II, 151, ex emendatione Heinsii: « Attamen hos aliis forsan solabere casus Tu thalamis ». Quintilianus, Declam. II, 3: « Hoc juveni fuit consilium, ut pater, cui matrimonium filiumque abstulerat incendium, residua senectutis alia solaretur uxore ».
+- *Ignibus ignes*（火をもって火を）。Ovid. Trist. IV, 3, 65: « compescuit ignibus ignes » と同様。同様の趣旨で Val. Flaccus, II, 151（ハインシウスの校訂による）: « Attamen hos aliis forsan solabere casus Tu thalamis »。Quintilianus, Declam. II, 3: « Hoc juveni fuit consilium, ut pater, cui matrimonium filiumque abstulerat incendium, residua senectutis alia solaretur uxore »。
 
 [3] 72 Solaturque suos alienis ignibus ignes.
 
@@ -834,7 +813,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 74 At ferus Aeacides nudato protinus ense
 
 [6] 74 at ferus Aeacides nudato protinus ense
-- *Iliad* 1.190
+- 『イーリアス』 1.190
 
 75 tendit in Atriden et, ni sibi reddat honestae
 
@@ -849,7 +828,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 76 munera militiae, letum crudele minatur,
 
 [2] 76 Munera militiae , letum crudele minatur.
-- Munera militiae. Rectius praemia dixisset: nam intelligit Briseidem, quae in praemium belli, quasi praeda et spolium, cesserat Achilli.
+- *Munera militiae*（兵役の贈り物）。*praemia*（褒賞）と言ったほうがより適切であっただろう。というのも、彼は戦利品や鹵獲物のように、戦争の褒賞としてアキレウスのものとなったブリーセーイスを意味しているからである。
 
 [3] 75 Munera militiae, letum crudele minatur;
 
@@ -870,19 +849,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 78 Quod nisi casta manu Pallas tenuisset Achillem,
 
 [2] 78 Et nisi casta manu Pallas tenuisset Achillem,
-- Et nisi casta manu. Auctor Epitomes ordinem et narrationem rerum paullum mutat ab Homero observatam. Homerus Achillem narrat ensem voluisse stringere in Agamemnonem, et a Minerva cohibitum esse, antequam Briseis Achilli auferretur. Noster de ea contentione, quasi post ablatam Briseidem facta, loquitur.
+- *Et nisi casta manu*（そして貞淑な女神がその手で…でなかったなら）。要約（エピトメー）の作者は、ホメーロスが保っていた事象の順序と叙述を少し変更している。ホメーロスは、ブリーセーイスがアキレウスから奪い去られる前に、アキレウスがアガメムノーンに対して剣を抜こうとしてミネルウァに制止されたと物語る。われらの作者はその衝突について、あたかもブリーセーイスが連れ去られた後に生じたかのように語っている。
 
 [3] 77 Quod nisi casta manu Pallas tenuisset Achillem,
 
 [4] 78 Quod nisi casta manu Pallas tenuisset Achillem.
 
 [6] 78 quod nisi casta manu Pallas tenuisset Achillem,
-- *Iliad* 1.194
+- 『イーリアス』 1.194
 
 79 turpem caecus amor famam liquisset in aeuum
 
 [2] 79 Turpem caecus amor famam liquisset in aevum
-- Turpem caecus amor famam. Non hoc ad mentem Homeri, et ad mores priscorum heroum dictum videtur qui sibi minime turpe putarunt furore amoris propter puellam in arma agi. Sed videtur rationem ejus dicti e verbis Achillis, v. 298, petiisse, quibus adfirmat, scilicet monitus a Pallade, se quidem caussa puellae non pugnaturum manibus: Χερσὶ μὲν οὔτι ἔγωγε μαχήσομαι εἵνεκα κούρης.
+- *Turpem caecus amor famam*（盲目の愛が…恥ずべき評判を）。これはホメーロスの趣旨や古代の英雄たちの気風に適った発言とは思われない。彼らは少女のゆえに愛の激情によって武器をとることを決して恥ずべきこととは考えなかった。しかし作者は、パラスから警告を受けたアキレウスが、自分は少女のためには決して手ずから戦わないと言明する 298 行の言葉からこの発言の根拠を引き出したように思われる：Χερσὶ μὲν οὔτι ἔγωγε μαχήσομαι εἵνεκα κούρης。
 
 [3] 78 Turpem caecus amor famam liquisset in aeuum
 
@@ -893,7 +872,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 80 gentibus Argolicis. Contempta uoce minisque
 
 [2] 80 Gentibus Argolicis : contentus voce minisque ,
-- … h. e. Achilles contentus voce, conviciis et minis decertasse cum Agamemnone, non manibus et ferro (hoc enim ei praeceperat Minerva), ultionem injuriae sibi illatae petit a matre.
+- … すなわち、アキレウスは（ミネルウァが彼に命じたように）手や刃によってではなく、声と罵倒と脅迫によってアガメムノーンと争ったことに満足し、自身に加えられた不正に対する復讐を母に求めるのである。
 
 [3] 79 Gentibus Argolicis. contempta uoce minisque
 
@@ -920,12 +899,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 81 Invocat aequoreae Pelides numina matris,
 
 [6] 81 invocat aequoreae Pelides numina matris,
-- *Iliad* 1.351
+- 『イーリアス』 1.351
 
 82 ne se Plistheniden contra patiatur inultum.
 
 [2] 82 Ne se plus contra Atridem patiatur inultum.
-- … Barth. Advers. p. 2753 adnotat ad hunc versum, plus sonare amplius, quomodo Plautus, Claudianus, Sidonius, Apuleius, alii habeant; …
+- … バルトは『雑考』(*Advers.*) 2753 頁でこの詩行について、*plus* がプラウトゥス、クラウディアヌス、シドニウス、アプレイウス他にあるように *amplius*（もはや／さらに多く）を意味すると注記しているが、…
 
 [3] 82 Ne se Plistheniden contra patiatur inultum.
 
@@ -942,7 +921,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 83 At Thetis audita nati prece dcserit undas
 
 [6] 83 at Thetis audita nati prece deserit undas
-- *Iliad* 1.357
+- 『イーリアス』 1.357
 
 84 castraque Myrmidonum iuxta petit et monet armis
 
@@ -963,7 +942,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 85 Abstineat dextra, gressuque exinde per auras
 
 [6] 85 abstineat dextram ac congressibus: inde per auras
-- *Iliad* 1.422
+- 『イーリアス』 1.422
 
 86 emicat aetherias et in aurea sidera fertur.
 
@@ -974,12 +953,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 86 Emical aetheroas et in aurca sidcra fertur.
 
 [6] 86 emicat aethereas et in aurea sidera fertur.
-- *Iliad* 1.497
+- 『イーリアス』 1.497
 
 87 Tunc genibus regis sparsis affusa capillis:
 
 [2] 86 Tunc genibus regis sparsis affusa capillis:
-- … Hic plane imitatus est Noster Ovidium, de Cerere, Jovi pro filia Proserpina supplicante, loquentem Met. V, 513: « Ante Jovem passis stetit invidiosa capillis, Proque meo venio supplex tibi, Jupiter, inquit, Sanguine, proque tuo.
+- … ここでわれらの作者は、娘プロセルピナのためにユピテルに嘆願するケーレースについて語るオウィディウスの Met. V, 513 を明白に模倣している: « Ante Jovem passis stetit invidiosa capillis, Proque meo venio supplex tibi, Jupiter, inquit, Sanguine, proque tuo。
 
 [3] 87 Tunc genibus regis sparsis affusa capillis
 
@@ -994,10 +973,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 88 'Pro nato ueni genetrix en ad tua supplex
 
 [4] 88 « Pronato venio genetrix, en, ad tua supplex
-- … cf. Aeneid. VIII, 382 et Metam. V, 514).
+- … 『アエネーイス』VIII, 382 および『変身物語』V, 514 を参照）。
 
 [6] 88 'pro nato veni genetrix en ad tua supplex
-- *Iliad* 1.503
+- 『イーリアス』 1.503
 
 89 numina, summe parens; ulciscere meque meumque
 
@@ -1012,7 +991,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 90 corpus ab Atrida, quodsi permittitur illi
 
 [2] 89 Corpus ab Atride : quod si permittitur illi ,
-- … Notante Barthio l. c. corpus suum Thetis dicit Achillem filium, atque hoc noviter dictum ab auctore, neque in aliis poetis facile reperiundum puto: nam viscera, sanguinem parentum liberos dici, vulgare est.
+- … バルトが前掲箇所で指摘するように、テティスは息子アキレウスを自身の肉体（*corpus suum*）と呼んでおり、これは作者による斬新な表現であって、他の詩人には容易に見出せないものだと私は考える。子供たちが親の *viscera*（内臓／肉親）や *sanguis*（血）と呼ばれるのは一般的である。
 
 [3] 90 Pignus ab Atrida. quodsi permittitur illi,
 
@@ -1033,8 +1012,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 92 turpiter occiderit superata libidine uirtus."
 
 [2] 91 Turpiter occiderit superata libidine virtus».
-- … Hanc sententiam auctor ex ingenio suo addit; apud Homerum talia non loquitur Thetis. Contra omittit ille, quod praecipue petebat Thetis a Jove, quodque sequens Junonis expostulatio respicit, ut Trojanos esse victores sineret tam diu, donec Graeci
-- **(cont.)** debitum filio suo honorem in melius mutati redderent.
+- … 作者はこの趣旨を自らの創意から付け加えている。ホメーロスではテティスはそのようなことは語らない。他方で彼は、テティスがユピテルに何よりも求めたこと、そしてそれに続くユーノーの詰問が念頭に置いていること、すなわちギリシア勢が
+- **(cont.)** （前頁からの続き）心を改め、彼女の息子に受けるべき名誉を回復するまで（許すよう求めたこと）。
 
 [3] 92 Turpiter occiderit superata libidine uirtus.'
 
@@ -1051,12 +1030,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 93 Juppiter huic conlra : « Tristes depone querellas,
 
 [6] 93 Iuppiter haec contra 'tristes depone querelas,
-- *Iliad* 1.517
+- 『イーリアス』 1.517
 
 94 magni diua maris, mecum labor iste manebit.
 
 [2] 93 Magni Diva maris , mecum labor iste manebit :
-- … h. e. hanc rem diligenter assidueque curabo. Homer. v. 523: ἐμοὶ δέ κε ταῦτα μελήσεται, ὄφρα τελέσσω. — Expressit Noster Virgilii Aeneid. IV, 115: « Mecum erit iste labor »; et videtur simul respexisse verba Jovis ad Venerem apud Virg. Aen. I, 256: « Parce metu, Cytherea: manent immota tuorum Fata tibi »; aut quod Aeolus ad Junonem, Aen. I, 76, « tuus, o regina, quid optes, Explorare labor, mihi jussa capessere fas est ». Contrarium verbis Nostri est illud Virgilii, Aen. II, 595: « quonam nostri tibi cura recessit ».
+- … すなわち、私はこの事を丹念に、たゆまず配慮するであろう、の意。Homer. v. 523: ἐμοὶ δέ κε ταῦτα μελήσεται, ὄφρα τελέσσω。――われらの作者は Virg. Aeneid. IV, 115: « Mecum erit iste labor » を模倣しており、同時に Virg. Aen. I, 256 におけるユピテルのウェヌスへの言葉 « Parce metu, Cytherea: manent immota tuorum Fata tibi »、あるいは Aen. I, 76 でアイオロスがユーノーに述べた言葉 « tuus, o regina, quid optes, Explorare labor, mihi jussa capessere fas est » を念頭に置いていたように思われる。われらの作者の言葉と反対なのは、Virg. Aen. II, 595 の « quonam nostri tibi cura recessit » である。
 
 [3] 94 Magni diua maris, mecum labor iste manebit.
 
@@ -1073,7 +1052,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 95 Tu solare tui maerentia pectora nati »
 
 [6] 95 tu solare tui maerentia pectora nati'.
-- *Iliad* —
+- 『イーリアス』 —
 
 96 Dixit. At illa leues caeli delapsa per auras
 
@@ -1084,7 +1063,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 96 Dixit; at illa leves caeli delapsa per auras
 
 [6] 96 dixit, at illa leves caeli delapsa per auras
-- leues … cf. Verg. Aen. 11, 595
+- leues … ウェルギリウス『アエネーイス』11, 595 を参照
 
 97 litus adit patrium gratasque sororibus undas.
 
@@ -1095,7 +1074,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 97 Litus adit patrium gratasque sororibus undas.
 
 [6] 97 litus adit patrium gratasque sororibus undas.
-- *Iliad* 1.532
+- 『イーリアス』 1.532
 
 98 Offensa est Iuno: "Tantum"que ait, "optime coniunx,
 
@@ -1106,12 +1085,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 98 Offensa est Juno : « Tantumque » ait « optime conjunx,
 
 [6] 98 offensa est Iuno 'tantum'que ait, 'optime coniunx,
-- *Iliad* 1.539
+- 『イーリアス』 1.539
 
 99 Doride nata ualet, tantum debetur Achilli,
 
 [2] 98 Doride nata valet, tantum debetur Achilli,
-- … Propertius ab Ant. de Rooy citatur, lib. I, 18, 25: « At vos aequoreae formosa Doride natae, Candida felici solvite vela choro ». Doride natae sunt Oceanitides, ut vocantur Virgilio, Georg. IV, 341. Sic autem, inquit Barthius in Adv. p. 2753, inepte vocat per convicium Juno Thetidem, immemor, se quoque Oceani filiam esse, ex quo Iliade, lib. XXIII, scripsit Homerus: Ὠκεανόν τε θεῶν γένεσιν καὶ μητέρα Τηθύν.
+- … アントン・デ・ローイによってプロペルティウスが引用されている（第 1 巻 18, 25）: « At vos aequoreae formosa Doride natae, Candida felici solvite vela choro »。ドーリスから生まれた娘たちとは、ウェルギリウスが Georg. IV, 341 で呼んでいるように、オーケアニデス（大洋の娘たち）のことである。バルトは『雑考』2753 頁でこう述べている：「しかしこのように、ユーノーは自らもまたオーケアノスの娘であることを忘れて、罵倒としてテティスを愚かにもそのように呼んでいる。ホメーロスは『イーリアス』第 23 巻でオーケアノスについてこう書いている：Ὠκεανόν τε θεῶν γένεσιν καὶ μητέρα Τηθύν」。
 
 [3] 99 Doride nata ualet, tantum debetur Achilli,
 
@@ -1122,7 +1101,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 100 ut mihi quae coniunx dicor tua quaeque sororis
 
 [2] 99 Ut mihi, quse conjux dicor tua , quaeque sororis
-- Ut mihi, quae conjux. Similiter Juno apud Virg. Aen. I, 46: « Ast ego, quae Divum incedo regina, Jovisque Et soror et conjux ». — Et eadem emphasi egregius poeta noster Racine, Britann. act. I, sc. 2, v. 29: « Moi, fille, femme, soeur et mère de vos maîtres ». Ed.
+- *Ut mihi, quae conjux*（妻である私に対して…）。同様に Virg. Aen. I, 46 のユーノー：« Ast ego, quae Divum incedo regina, Jovisque Et soror et conjux »。――そして同様の強調をもって、われらの卓越した詩人ラシーヌの『ブリタニクス』第 1 幕第 2 場 29 行：« Moi, fille, femme, soeur et mère de vos maîtres »。パリ編者。
 
 [3] 100 Ut mihi, quae coniunx dicor tua quaeque sororis
 
@@ -1153,7 +1132,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 103 Haec ita dona refers nobis? sic diligor a te?"
 
 [2] 102 Haec ita dona refers nobis? sic diligor a te? »
-- … Caeterum forma hujus dicti plane expressa est ad orationem Veneris ad Jovem apud Virg. Aen. I, 253: « Hic pietatis honos? sic nos in sceptra reponis? »
+- … なお、この発言の形式は Virg. Aen. I, 253 におけるウェヌスのユピテルへの言葉に明白に倣っている: « Hic pietatis honos? sic nos in sceptra reponis? »。
 
 [3] 103 Haec tu dona refers nobis? sic diligor a te?'
 
@@ -1164,7 +1143,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 104 Talibus incusat dictis irata Tonantem
 
 [2] 103 Talibus incusat dictis irata Tonantem ,
-- Talibus incusat: e Virgilio, Aen. I, 410.
+- *Talibus incusat*（そのような言葉で非難する）：ウェルギリウスの Aen. I, 410 より。
 
 [3] 104 Talibus incusat dictis irata Tonantem
 
@@ -1185,14 +1164,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 106 Tandem interposito lis Ignipotente resedit
 
 [2] 105 Tandem interposito lis Ignipotente resedit,
-- … et Vulcanum intelligi. Hic enim intervenit Jovi et Junoni rixanti, et hortatu multisque poculis invitans parentes placavit, ad hilaritatemque convertit. Sic Hom. Iliad. I, 571: Τοῖσιν δ᾽ Ἥφαιστος κλυτοτέχνης ἦρχ᾽ ἀγορεύειν. Vulcanus autem a nostro auctore aliisque poetis vocatur Ignipotens. Infra, vs. 867: « Illic Ignipotens mundi caelaverat axem »; et Virgil. Aen. VIII, 414, « Haud secus Ignipotens, nec tempore segnior illo »: addendum illud Aen. X, 243: « clypeum cape quem dedit ipse Invictum Ignipotens, etc. » Ed.
+- … ウゥルカーヌスが理解される。なぜなら彼が諍いを起こしているユピテルとユーノーの間に割って入り、激励し、多くの杯を勧めることによって両親を宥め、陽気さへと転じさせたからである。Hom. Iliad. I, 571: Τοῖσιν δ᾽ Ἥφαιστος κλυτοτέχνης ἦρχ᾽ ἀγορεύειν と同様である。ウゥルカーヌスはわれらの作者や他の詩人たちによって *Ignipotens*（火の主）と呼ばれている。下の 867 行：« Illic Ignipotens mundi caelaverat axem »；また Virg. Aen. VIII, 414: « Haud secus Ignipotens, nec tempore segnior illo »。さらに Aen. X, 243 の « clypeum cape quem dedit ipse Invictum Ignipotens, etc. » を付け加えるべきである。パリ編者。
 
 [3] 106 Tandem interposito lis Ignipotente resedit,
 
 [4] 106 Tandem interposito lis Ignipotente resedit,
 
 [6] 106 tandem interposito lis Ignipotente resedit
-- *Iliad* 1.571
+- 『イーリアス』 1.571
 
 107 conciliumque simul genitor dimittit Olympi.
 
@@ -1203,7 +1182,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 107 Conciliumque simul genitor dimittit [Olympo];
 
 [6] 107 conciliumque simul genitor dimittit Olympi
-- *Iliad* —
+- 『イーリアス』 —
 
 108 Interea sol emenso decedit Olympo
 
@@ -1214,24 +1193,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 108 Interea sol emenso decedit Olympo.
 
 [6] 108 interea sol emenso decedit Olympo:
-- *Iliad* 1.605
+- 『イーリアス』 1.605
 
 109 et dapibus diui curant sua corpora largis;
 
 [2] 108 Et dapibus largis curant sua corpora Divi ,
-- … Virgil. Aen. III, 510: « passimque in litore sicco Corpora curamus ».
+- … Virgil. Aen. III, 510: « passimque in litore sicco Corpora curamus »。
 
 [3] 109 Et dapibus diui curant sua corpora largis.
 
 [4] 109 Et dapibus divi curant sua corpora largis.
 
 [6] 109 et dapibus divi curant sua corpora largis.
-- *Iliad* 1.602
+- 『イーリアス』 1.602
 
 110 inde petunt thalamos iucundaque dona quietis.
 
 [2] 109 Inde petunt thalamos jucundaque dona quietis.
-- Dona quietis. Virg. Aen. II, 369: « quies ... dono Divum gratissima serpit ». Ovid. Am. II, 9, 40: « et somnos praemia magna vocat ». Stat. Silv. V, 4, 2: « donis ut solus egerem, Somne, tuis ».
+- *Dona quietis*（休息の賜物）。Virg. Aen. II, 369: « quies ... dono Divum gratissima serpit »。Ovid. Am. II, 9, 40: « et somnos praemia magna vocat »。Stat. Silv. V, 4, 2: « donis ut solus egerem, Somne, tuis »。
 
 [3] 110 Inde petunt thalamos iocundaque dona quietis.
 
@@ -1244,15 +1223,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 111 Nox erat et toto fulgebant sidera mundo
 
 [2] 110 II. Nox erat et toto fulgebant sidera caelo,
-- Nox erat. Breviorem hanc descriptionem noctis haurire potuit Noster e latioribus, quas habet Virgil. Aen. IV, 522 seqq. et VIII, 26 seq. …
+- *Nox erat*（夜であった）。われらの作者は、夜に関するこのより簡潔な描写を、Virg. Aen. IV, 522 seqq. や VIII, 26 seq. が持つより詳細な描写から汲み取ることができたであろう。…
 
 [3] 111 Nox erat et toto fulgebant sidera mundo
 
 [4] 111 Nox erat et toto fulgebant sidera mundo
 
 [6] 111 nox erat et toto fulgebant sidera mundo
-- *Iliad* 2.1
-- (testimonia) cf. Gesta Berengarii (PMA IV) 1, 127
+- 『イーリアス』 2.1
+- （証言） 『ベレンガリウスの事績』(*Gesta Berengarii*, PMA IV) 1, 127 を参照
 
 112 humanumque genus requies diuumque tenebat,
 
@@ -1273,12 +1252,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 113 Cum pater omnipotens somnum vocat atque ita fatur :
 
 [6] 113 cum pater omnipotens Somnum vocat atque ita fatur:
-- *Iliad* 2.7
+- 『イーリアス』 2.7
 
 114 "Vade age per tenues auras, lenissime diuum,
 
 [2] 113 « Vade, age, per tenues auras, lenissime Divum ,
-- Vade, age. Laudat haec Barthius l. c. ut egregia et optimo poeta digna. Sed hic multa poetarum veterum loca habuit, quae imitaretur, praesertim Ovidii de somnio Halcyonae immisso, Met. XI, 586 seq. et, qui Ovidium imitatus est, Statii Theb. X, 84 seqq. — Lenissime divum. Ovid. Met. XI, 623, « placidissime, Somne, Deorum ». Stat. Silv. V, 4, 1, « placidissime Divum », et Theb. X, 126, « mitissime Divum ».
+- *Vade, age*（行け、さあ）。バルトは前掲箇所で、これらが傑出しており最高の詩人に値するものとして称賛している。しかし作者にはここで模倣すべき古代の詩人たちの多くの箇所があった。とりわけアルキュオネーに送り込まれた夢に関するオウィディウスの Met. XI, 586 seqq.、およびオウィディウスを模倣したスタティウスの Theb. X, 84 seqq. である。――*Lenissime divum*（神々の中で最も穏やかなる者よ）。Ovid. Met. XI, 623: « placidissime, Somne, Deorum »。Stat. Silv. V, 4, 1: « placidissime Divum »、および Theb. X, 126: « mitissime Divum »。
 
 [3] 114 'Vade age per tenues auras, lenissime diuum,
 
@@ -1299,7 +1278,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 116 dumque tuo premitur sopitus pondere dulci,
 
 [2] 115 Dumque tuo premitur sopitus pondere dulci,
-- … Pondus adscribit somno auctor, quod et alias poetae somno gravari, opprimi, succumbere dicunt. Vidend. Virg. Aen. VI, 520; Ovid. Her. XII, 49.
+- … 作者は眠りに重さ（*pondus*）を帰しているが、詩人たちは他の箇所でも眠りによって重荷を負わされる（*gravari*）、圧倒される（*opprimi*）、屈服する（*succumbere*）と言っている。Virg. Aen. VI, 520；Ovid. Her. XII, 49 を参照せよ。
 
 [3] 116 Dumque tuo premitur sopitus pondere dulci,
 
@@ -1330,7 +1309,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 119 cogat in arma uiros incautumque occupet hostem."
 
 [2] 118 Cogat in arma viros , incautumque occupet hostem ».
-- Cogat in arma viros. Virg. Aen. IX, 463: « Turnus in arma viros armis circumdatus ipse, Suscitat, aeratasque acies in praelia cogit ».
+- *Cogat in arma viros*（男たちを武装へと駆り立てるように）。Virg. Aen. IX, 463: « Turnus in arma viros armis circumdatus ipse, Suscitat, aeratasque acies in praelia cogit »。
 
 [3] 119 Cogat in arma uiros incautumque occupet hostem.'
 
@@ -1347,7 +1326,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 120 Nec mora : somnus abit levibusque per aera pennis
 
 [6] 120 nec mora, Somnus abit levibusque per aera pennis
-- *Iliad* 2.16
+- 『イーリアス』 2.16
 
 121 deuolat in thalamos Agamemnonis: ille sopore
 
@@ -1362,7 +1341,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 122 corpus inundatum leni prostratus habebat.
 
 [2] 121 Corpus inundatum leni prostratus habebat.
-- Corpus inundatum. Barthius l. cit. pag. 2752 hic affectatiunculam, nescio quam, quae dedeceat optimos numeros hoc loco, deprehendit. Ego perelegans esse puto τὸ inundatum, factumque ad eum morem poetarum, quo alias irrigare somnum, et soporem irriguum dicunt. Vid. Virg. Aen. III, 511; Lucret. IV, 906; Claudian. praef. ad VI Cons. Hon. v. 9.
+- *Corpus inundatum*（浸された身体）。バルトは前掲箇所 2752 頁で、ここにこの箇所の最良の韻律にそぐわない何某かの気取り（*affectatiuncula*）を嗅ぎ取っている。しかし私は *inundatum* という語をきわめて優雅であると考え、詩人たちが他の箇所で *irrigare somnum*（眠りを注ぐ）や *soporem irriguum*（潤す眠り）と言うあの慣習に倣って造られたものと考える。Virg. Aen. III, 511；Lucret. IV, 906；Claudian. praef. ad VI Cons. Hon. v. 9 を参照せよ。
 
 [3] 122 Corpus inundatum leni prostratus habebat.
 
@@ -1373,7 +1352,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 123 Ad quem sic loquitur curarum operumque leuator:
 
 [2] 122 Ad quem sic loquitur curarum operumque levator:
-- Curarum operumque levator. Brevius eloquitur, quod Naso fusius Met. XI, 624: « Pax animi, quem cura fugit; qui corda diurnis Fessa ministeriis mulces, reparasque labori ».
+- *Curarum operumque levator*（憂いと労苦を和らげる者）。ナーソー（オウィディウス）が Met. XI, 624 でより冗長に述べていることを、作者はより簡潔に言い表している：« Pax animi, quem cura fugit; qui corda diurnis Fessa ministeriis mulces, reparasque labori »。
 
 [3] 123 Ad quem sic loquitur curarum operumque leuator:
 
@@ -1410,13 +1389,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 126 Accipe : ciiui primum Titan se emerserit undis,
 
 [6] 126 accipe: cum primum Titan se emerserit undis,
-- se emerserit … cf. Manil. 5, 198. Avien. periheg. 126 …
+- se emerserit … マニリウス 5, 198、アウィエヌス『世界周航記』126 を参照 …
 
 127 fortibus arma iube socios aptare lacertis
 
 [2] 126 Fortibus arma jube socios aptare lacertis,
-- Aptare lacertis. Ovid. Am. I,
-- **(cont.)** 13, vs. 14: « Miles et armiferas aptat ad arma manus ».
+- *Aptare lacertis*（腕に装着する）。Ovid. Am. I,
+- **(cont.)** ［前頁の Ovid. Am. I, からの続き］13, 14行: « Miles et armiferas aptat ad arma manus »。
 
 [3] 127 Fortibus arma iube socios aptare lacertis
 
@@ -1427,26 +1406,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 128 et petere Iliacos instructo milite campos."
 
 [2] 127 Et petere Iliacos instructo milite campos ».
-- Et petere Iliacos. Repetit hunc versum auctor infra v. 159, quod saepius facit ille Homeri ipsius, quem contrahit, exemplo.
+- *Et petere Iliacos*（そしてイーリオスの……を目指すことを）。作者は下の 159 行でこの詩行を繰り返しているが、彼が縮約している相手であるホメーロス自身の前例にならって、こうしたことをしばしば行っている。
 
 [3] 128 Et petere Iliacos instructo milite campos.'
 
 [4] 128 Et petere Iliacos instructo milite campos. »
 
 [6] 128 et petere Iliacos instructo milite campos.'
-- (testimonia) cf. Gesta Ber. 3, 37
+- （証言） 『ベレンガリウスの事績』3, 37 を参照
 
 129 Dixit, et has repetit per quas modo uenerat auras.
 
 [2] 128 Dixity et has repetit, per quas modo venerat, auras.
-- … atque haec manifesta est imitatio Ovidii, qui de Iride a Somno revertente, Met. XI, 632: « remeat, per quos modo venerat, arcus ».
+- … そしてこれは、眠りの神のもとから帰るイーリスについて述べるオウィディウスの Met. XI, 632 の明白な模倣である: « remeat, per quos modo venerat, arcus »。
 
 [3] 129 Dixit et has repetit per quas modo uenerat auras.
 
 [4] 129 Dixit et lias repetit per quas modo vcnerat auras.
 
 [6] 129 dixit et has repetit per quas modo venerat auras.
-- *Iliad* 2.35
+- 『イーリアス』 2.35
 
 130 Interea lucem terris dedit ignea lampas.
 
@@ -1457,7 +1436,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 130 Interea lucem terris dedit ignea lampas.
 
 [6] 130 interea lucem terris dedit ignea lampas.
-- *Iliad* 2.48
+- 『イーリアス』 2.48
 
 131 Conuocat attonitus iussis Pelopeius heros
 
@@ -1468,19 +1447,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 131 Convocat altonitus visis Pelopeius heros
 
 [6] 131 convocat attonitus iussis Pelopeius heros
-- iussis … cf. Verg. Aen. 3, 172
+- iussis … ウェルギリウス『アエネーイス』3, 172 を参照
 
 132 in coetum proceres remque omnibus ordine pandit:
 
 [2] 131 In coetum proceres, remque omnibus ordine pandit
-- Remque omnibus ordine pandit. Virg. Aen. III, 179.
+- *Remque omnibus ordine pandit*（そして事の次第を順序立てて皆に明かす）。Virg. Aen. III, 179。
 
 [3] 132 In coetum proceres remque omnibus ordine pandit.
 
 [4] 132 In coelum proceres remque omnibus ordine pandil.
 
 [6] 132 in coetum proceres remque omnibus ordine pandit.
-- *Iliad* 2.55
+- 『イーリアス』 2.55
 
 133 cuncti promittunt socias in proelia uires
 
@@ -1501,7 +1480,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 134 Hortanturque ducem ; quorum rex forlia dictis
 
 [6] 134 hortanturque ducem; quorum rex fortia dictis
-- ducem Ω: Agamemnona etiam incitant
+- ducem Ω: 彼らはアガメムノーンをも駆り立てる
 
 135 pectora collaudans grates agit omnibus aequas.
 
@@ -1522,7 +1501,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 136 Hic tum Thersites, quo non deformior alter
 
 [6] 136 hic tunc Thersites, quo non deformior alter
-- *Iliad* 2.212
+- 『イーリアス』 2.212
 
 137 uenerat ad Troiam nec lingua proteruior ulli,
 
@@ -1547,14 +1526,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 139 uertere iter, quem consiliis illustris Vlixes
 
 [2] 138 Vertere iter : quem consiliis illustris Ulysses
-- Consiliis illustris Ulysses. Laudat hoc Barthius l. c. p. 2754, et pulchre non unum Homeri epitheton exprimere ait, quale est πολύμητις et πολυμήχανος, δῖος.
+- *Consiliis illustris Ulysses*（深慮に名高いユリシーズ）。バルトは前掲箇所 2754 頁でこれを称賛し、それが πολύμητις（知謀に富む）、πολυμήχανος（機知縦横の）、δῖος（神のような）といったホメーロスの複数の添え名を美しく表現していると述べている。
 
 [3] 139 Vertere iter; quem consiliis inlustris Ulixes
 
 [4] 139 Yertereiter; quem consiliis illustris Ulixes
 
 [6] 139 vertere iter; quem consiliis inlustris Vlixes
-- *Iliad* 2.244
+- 『イーリアス』 2.244
 
 140 correptum dictis sceptro percussit eburno.
 
@@ -1565,19 +1544,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 140 Correptum dictis sceptro percussit eburno.
 
 [6] 140 correptum dictis sceptro percussit eburno.
-- *Iliad* 2.265
+- 『イーリアス』 2.265
 
 141 Tum uero ardescit conceptis litibus ira:
 
 [2] 140 Tunc vero ardescit conceptis litibus ira;
-- … Ardescit ira; sequitur Virgilium, Aen. IX, 66: « Ignescunt irae, duris dolor ossibus haeret ».
+- … *Ardescit ira*（怒りに燃え上がる）。ウェルギリウスの Aen. IX, 66 に従っている: « Ignescunt irae, duris dolor ossibus haeret »。
 
 [3] 141 Tum uero ardescit conceptis litibus ira:
 
 [4] 141 Tunc vero ardescit conceptis litibus ira :
 
 [6] 141 tum vero ardescit conceptis litibus ira:
-- *Iliad* —
+- 『イーリアス』 —
 
 142 uix telis caruere manus, ad sidera clamor
 
@@ -1588,7 +1567,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 142 Yix telis caruere manus, ad sitlera clamor
 
 [6] 142 vix telis caruere manus, ad sidera clamor
-- *Iliad* —
+- 『イーリアス』 —
 
 143 tollitur et cunctos pugnandi corripit ardor.
 
@@ -1599,25 +1578,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 143 Tollitur, et cnnclos pugnandi corripit ardor.
 
 [6] 143 tollitur et cunctos pugnandi corripit ardor.
-- *Iliad* —
+- 『イーリアス』 —
 
 144 Tandem sollertis prudentia Nestoris aeuo
 
 [2] 143 Tandem solertis prudentia Nestoris aevo
-- … Prudentia Nestoris aevo, i. e. Nestor aevo et experientia prudens. Per abstracta saepe solet Noster heroas
-- **(cont.)** suos signare, exemplo Homeri et aliorum: quale est alio loco Nestoris aetas, pro ipso Nestore, Menelai ardor, Ithaci solertia, et virtus Catonis apud Horatium.
+- … *Prudentia Nestoris aevo*（年齢においてネストールの思慮分別）、すなわち年齢と経験により思慮深いネストールのこと。われらの詩人はしばしば抽象概念によって自身の英雄たちを
+- **(cont.)** （前頁からの続き）指し示すのが常であり、これはホメーロスやその他の前例にならったものである。別の箇所における、ネストール自身を表す *Nestoris aetas*（ネストールの年齢）、*Menelai ardor*（メネラーオスの熱情）、*Ithaci solertia*（イタケー人の老練さ）、またホラーティウスにおける *virtus Catonis*（カトーの徳）などがそれである。
 
 [3] 144 Tandem sollertis prudentia Nestoris aeuo
 
 [4] 144 Tandem sollerti prudentia Nestoris aevo
 
 [6] 144 tandem sollertis prudentia Nestoris aevo
-- *Iliad* 2.284
+- 『イーリアス』 2.284
 
 145 compressam miti sedauit pectore turbam
 
 [2] 144 Compressam miti sedavit pectore turbam ,
-- Compressam miti sedavit. Fortasse petitum est ex his Virgilii Georg. IV, 86: « Hi motus animorum atque haec certamina tanta Pulveris exigui jactu compressa quiescent ». Et sedato pectore dicit Virg. Aen. IX, 740.
+- *Compressam miti sedavit*（穏やかに抑えつけ鎮めた）。おそらくウェルギリウスの Georg. IV, 86 の次の言葉から取られたものであろう: « Hi motus animorum atque haec certamina tanta Pulveris exigui jactu compressa quiescent »。またウェルギリウスは Aen. IX, 740 で *sedato pectore*（鎮まった胸で）と言っている。
 
 [3] 145 Compresssam miti sedauit pondere turbam
 
@@ -1628,7 +1607,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 146 admonuitque duces dictis responsa recordans
 
 [2] 145 Admonuitque,duces dictis, responsa recordans
-- Responsa recordans Temporis illius. Cl. Bondamius, pag. 144, effictum putat ex his Ovid. Met. 280: « quanto cogor meminisse dolore Temporis illius, quo Graium murus Achilles Procubuit ».
+- *Responsa recordans Temporis illius*（あの時代の神託を思い起こし）。著名なボンダムは 144 頁で、これがオウィディウスの Met. [XIII,] 280 の次の言葉から模作されたと考えている: « quanto cogor meminisse dolore Temporis illius, quo Graium murus Achilles Procubuit »。
 
 [3] 146 Admonuitque duces dictis, responsa recordans
 
@@ -1645,12 +1624,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 147 Temporis illius, quo visus in Aulide serpens
 
 [6] 147 temporis illius, quo visus in Aulide serpens
-- *Iliad* 2.308
+- 『イーリアス』 2.308
 
 148 consumpsit uolucrum bis quattuor arbore fetus
 
 [2] 147 Consumpsit volucrum bis quatuor arbore fetus,
-- … Vix dubium est, auctorem hic respexisse Ovidium, Met. XII, 15: « Nidus erat volucrum bis quatuor arbore summa, Quas simul et matrem circum sua damna volantem Corripuit serpens ». …
+- … 作者がここでオウィディウスの Met. XII, 15 を念頭に置いていたことはほぼ確実である: « Nidus erat volucrum bis quatuor arbore summa, Quas simul et matrem circum sua damna volantem Corripuit serpens »。…
 
 [3] 148 Consumpsit uolucrum bis quattuor arbore fetus
 
@@ -1681,7 +1660,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 151 Tunc "sic deinde" senex "moneo remoneboque, Achiui:
 
 [2] 150 Infit deinde senex : « Maneo, remaneteque, Achivi,
-- … Iliad. II, 331, ubi Ulysses monet: Ἀλλ᾽ ἄγε, μίμνετε πάντες ἐϋκνήμιδες Ἀχαιοί. Scilicet apud Homerum Ulyssis oratio est, quam Noster Nestori tribuit.
+- … ホメーロスの『イーリアス』II, 331 でユリシーズが Ἀλλ᾽ ἄγε, μίμνετε πάντες ἐϋκνήμιδες Ἀχαιοί と促している。むろんホメーロスにおいてこれはユリシーズの演説であるが、われらの詩人はそれをネストールに帰しているのである。
 
 [3] 151 Tum sic deinde: 'senex remoror, remoramini, Achiui:
 
@@ -1692,15 +1671,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 152 in decimo labor est, Calchas quem dixerat, anno,
 
 [2] 151 In decimo labor est, quem Calchas dixerat, anno,
-- In decimo labor est, h. e. in
-- **(cont.)** decimo demum anno nobis praedictus et constitutus labor est, quo Ilion capiamus. Fere tamen malim legere In decimum annum usque labor, i. e. laborandum nobis est. Vult enim in eum annum retardatum iri bellum, donec Ilion capiatur. Sic loqui solet Virgilius, ut Aen. IX, 155, « decimum quos distulit Hector in annum »; et XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum ».
+- *In decimo labor est*（十番目に労苦がある）、すなわち
+- **(cont.)** （前頁からの続き）実に十年目になって初めて、われわれがイーリオンを攻略するための労苦が予言され、定められている、ということである。しかし私はむしろ *In decimum annum usque labor*、すなわち「われわれは労苦せねばならない」と読みたいところである。というのも、彼はイーリオンが攻略されるまで戦争がその年へと引き延ばされることを意味しているからである。ウェルギリウスもこのように語るのが常であり、Aen. IX, 155: « decimum quos distulit Hector in annum »、また XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum »。
 
 [3] 152 In decimo labor est, Calchas quem dixerat, anno,
 
 [4] 152 In decimo labor est, Calchas quem dixerat, anno,
 
 [6] 152 in decimo labor est, Calchas quem dixerat, anno,
-- *Iliad* 2.322
+- 『イーリアス』 2.322
 
 153 quo caderet Danaum uictricibus Ilion armis."
 
@@ -1715,14 +1694,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 154 Assensere omnes, laudatur Nestoris aetas
 
 [2] 153 Adsensere omnes, laudatur Nestoris aetas:
-- Nestoris aetas, i. e. senilis prudentia, vel Nestor senex.
+- *Nestoris aetas*（ネストールの年齢）、すなわち老年の知慮、あるいは老ネストールのこと。
 
 [3] 154 Assensere omnes, laudatur Nestoris aetas,
 
 [4] 154 Assensere omnes, laudalur Nestoris aetas,
 
 [6] 154 assensere omnes, laudatur Nestoris aetas
-- *Iliad* 2.335
+- 『イーリアス』 2.335
 
 155 conciliumque simul dimittitur. Arma parari
 
@@ -1733,12 +1712,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 155 Conciliumque simul dimittitur; arnia parari
 
 [6] 155 conciliumque simul dimittitur; arma parari
-- *Iliad* 2.442
+- 『イーリアス』 2.442
 
 156 dux iubet atque animos aptare et pectora pugnae.
 
 [2] 155 Dux jubet, atque animos aptari et pectora pugnae.
-- … idem aptare. Virg. Aen. X, 258: « sociis edicit, signa sequantur, Atque animos aptent armis: pugnaeque parent se ».
+- … 同写本は *aptare* ともする。Virg. Aen. X, 258: « sociis edicit, signa sequantur, Atque animos aptent armis: pugnaeque parent se »。
 
 [3] 156 Dux omnis iubet atque aptari corpora pugnae.
 
@@ -1755,7 +1734,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 157 Postera lux tacitas ut primum depulit umbras
 
 [6] 157 postera lux tacitas ut primum depulit umbras
-- *Iliad* —
+- 『イーリアス』 —
 
 158 et nitidum Titan radiis caput extulit undis,
 
@@ -1766,7 +1745,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 158 Et nitidum Titan radiis caput extulit undis,
 
 [6] 158 et nitidum Titan radiis caput extulit undis,
-- *Iliad* —
+- 『イーリアス』 —
 
 159 protinus armari socios iubet acer Atrides
 
@@ -1781,7 +1760,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 160 et petere Iliacos instructo milite campos.
 
 [2] 159 Et petere Iliacos instructo milite campos.
-- … Repetitur versus 127. …
+- … 127 行が繰り返されている。…
 
 [3] 160 Et petere Iliacos instructo milite campos.
 
@@ -1792,14 +1771,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 161 Vos mihi nunc, Musae - quid enim non ordine nostis? -,
 
 [2] 160 Vos mihi nunc, Musae, quid enim non ordine nostis?
-- Quid enim non ordine nostis? Similiter Maro, Aen. VII, 645, et IX, 529, « Et meministis enim, Divae, et memorare potestis ».
+- *Quid enim non ordine nostis?*（あなた方が順序正しく知らぬものなどあろうか）。同様にマロー［ウェルギリウス］も Aen. VII, 645 および IX, 529 で: « Et meministis enim, Divae, et memorare potestis »。
 
 [3] 161 Vos mihi nunc, Musae (quid enim non ordine nostis?),
 
 [4] 161 Vos mihi nunc, Musae (quid enim non ordine nostis ?),
 
 [6] 161 vos mihi nunc, Musae (quid enim non ordine nostis?),
-- *Iliad* 2.484
+- 『イーリアス』 2.484
 
 162 nomina clara ducum clarosque referte parentes
 
@@ -1840,32 +1819,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 165 Et coeptum peragamus opus, sitque auctor Apollo
 
 [6] 165 et coeptum peragamus opus, sitque auctor Apollo
-- *Iliad* —
+- 『イーリアス』 —
 
 166 aspiretque libens operi per singula nostro.
 
 [2] 165 Adspiretque libens operi per singula nostro.
-- Adspiretque libens operi. Virg. Aen. IX, 525: « Vos, o Calliope, precor, adspirate canenti ». Ovid. Met. I, 3: « Di coeptis ... adspirate meis ». — Caeterum fere solennis omnibus ab Homero poetis epicis haec exercituum enumeratio. Adeundus inprimis illius felix imitator et aemulus, Virg. Aen. VII, 641; et inter recentiores, Torquato Tasso, Gerus. lib. c. I, st. 36. Ed.
+- *Adspiretque libens operi*（そして快く事業に息吹を吹き込まれんことを）。Virg. Aen. IX, 525: « Vos, o Calliope, precor, adspirate canenti »。Ovid. Met. I, 3: « Di coeptis ... adspirate meis »。――なお、この軍勢の列挙はホメーロス以降のすべての叙事詩人にとってほぼ恒例のものである。とりわけホメーロスの巧みな模倣者にして競演者であるウェルギリウスの Aen. VII, 641 を参照すべし。近世の詩人ではトルクワート・タッソの『解放されたエルサレム』(Gerus. lib.) 第 1 歌 36 連が挙げられる。パリ編者。
 
 [3] 166 Aspiretque libens operi per singula nostro.
 
 [4] 166 Aspiretque libens operi per singula nostro.
 
 [6] 166 aspiretque libens operi per singula nostro.
-- *Iliad* —
+- 『イーリアス』 —
 
 167 Peneleos princeps et bello Leitus acer,
 
 [2] 166 Peneleus princeps, et bello Leitus acer.
-- … quia ab Homero Boeotiae versu 1 Πηνέλεως καὶ Λήϊτος junguntur. Ex hoc nomine librarii notiorem Laertium, i. e. Ulyssem perperam fecerunt.
+- … というのも、ホメーロスのボイオーティア（軍船表）の 1 行目で Πηνέλεως καὶ Λήϊτος が並べられているからである。写字生たちはこの名前から、よりよく知られた *Laertius*、すなわちユリシーズを誤って作り出したのである。
 
 [3] 167 Peneleus princeps et bello Leitus acer
 
 [4] 167 Peneleus princeps et bello Leitus acer
-- Leitus … (cf. Iliad. II, 494).
+- Leitus …（『イーリアス』II, 494 を参照）。
 
 [6] 167 Peneleus princeps et bello Leïtus acer
-- *Iliad* 2.494
+- 『イーリアス』 2.494
 
 168 Arcesilaus atrox Prothoenorque Cloniusque
 
@@ -1880,12 +1859,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 169 Boeoti decies quinas egere carinas
 
 [2] 168 Boeotas decies quinas duxere carinas,
-- … ex Homero, Iliad. II, 510, legendum Boeotas vel Boeotum. …
+- … ホメーロスの『イーリアス』II, 510 から *Boeotas* または *Boeotum* と読むべきである。…
 
 [3] 169 Boeoti decies quinas egere carinas
 
 [4] 169 Boeoti decies quinas egere carinas
-- Boeoti (ibid., 495 et 509). …
+- Boeoti（同所 495 および 509）。…
 
 [6] 169 Boeoti decies quinas egere carinas
 
@@ -1908,7 +1887,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 171 Inde Mycenaeis Agamemnon moenibus ortus,
 
 [6] 171 inde Mycenaeis Agamemnon moenibus ortus,
-- *Iliad* 2.569
+- 『イーリアス』 2.569
 
 172 quem sibi bellatrix delegit Graecia regem,
 
@@ -1933,14 +1912,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 174 et bis tricenis Menelai nauibus ardor
 
 [2] 173 Et bis tricenis Menelai navibus ardor
-- … Menelai ardor, id est, ardens Menelaus.
+- … *Menelai ardor*（メネラーオスの熱情）、すなわち燃え立つメネラーオスのこと。
 
 [3] 174 Et bis tricenis Menelai nauibus ardor
 
 [4] 174 Et bis tricenis Menelai navibus ardor
 
 [6] 174 et bis tricenis Menelai navibus ardor
-- *Iliad* 2.586
+- 『イーリアス』 2.586
 
 175 insequitur totidemque ferox Agapenoris ira;
 
@@ -1951,7 +1930,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 175 Insequitur totidemque ferox Agapenoris ira.
 
 [6] 175 insequitur totidemque ferox Agapenoris ira.
-- *Iliad* 2.609
+- 『イーリアス』 2.609
 
 176 quos iuxta fidus sollerti pectore Nestor
 
@@ -1962,12 +1941,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 176 Quos juxta fidus sollerti pectore Nestor
 
 [6] 176 quos iuxta fidus sollerti pectore Nestor
-- *Iliad* 2.601
+- 『イーリアス』 2.601
 
 177 consilioque potens gemina cum prole suorum
 
 [2] 176 Consilioque potens, gemina cum prole suorum
-- Gemina cum prole suorum. Quod Nestorem cum duobus filiis advenisse scribit, id non ex Homero habet, sed forte a Dictye Cret. qui lib. I, cap. 13: « Nestor cum Antilocho et Thrasymede, quos ex Anaxibia susceperat, supervenit ».
+- *Gemina cum prole suorum*（みずからの二人の子供とともに）。ネストールが二人の息子とともに到来したと彼が書いていることは、ホメーロスに由来するのではなく、おそらくクレータのディクテュスから取ったものであろう。ディクテュスは第 1 巻 13 章で次のように述べている: « Nestor cum Antilocho et Thrasymede, quos ex Anaxibia susceperat, supervenit »。
 
 [3] 177 Consilioque potens gemina cum prole suorum
 
@@ -1978,7 +1957,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 178 it ter tricenis munitus in arma carinis.
 
 [2] 177 It ter tricenis munitus in arma carinis.
-- … nam Homerus, Iliad. II, 602, nonaginta naves ei tribuit.
+- … なぜならホメーロスは『イーリアス』II, 602 で彼に 90 隻の船を割り当てているからである。
 
 [3] 178 It ter tricenis munitus in arma carinis.
 
@@ -1989,14 +1968,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 179 At Schedius uirtute potens et Epistrophus ingens,
 
 [2] 178 At Schedius virtute potens et Epistrophus ingens
-- … Legendum ex Homero, II, 517, At Schedius virtute potens et Epistrophus.
+- … ホメーロスの『イーリアス』II, 517 から *At Schedius virtute potens et Epistrophus* と読むべきである。
 
 [3] 179 At Schedius uirtute potens et Epistrophus ingens
 
 [4] 179 At Schedius virtute potens et Epistrophus ingens
 
 [6] 179 at Schedius virtute potens et Epistrophus ingens,
-- *Iliad* 2.517
+- 『イーリアス』 2.517
 
 180 gloria Myrmidonum, saeui duo robora belli,
 
@@ -2011,7 +1990,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 181 longa quaterdenis pulsarunt aequora proris
 
 [2] 180 Longa quater denis pulsarunt aequora proris.
-- … Nam Homerus l. c. quadraginta naves ponit. …
+- … なぜならホメーロスは前掲箇所で 40 隻の船を置いているからである。…
 
 [3] 181 Longa quaterdenis sulcarunt aequora proris.
 
@@ -2022,15 +2001,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 182 et bis uicenas Polypoetes atque Leonteus
 
 [2] 181 At bis vicenas Polypoetes atque Leonteus
-- … Sed Polypoetes atque Leonteus
-- **(cont.)** legendum esse patet ex Homeri Iliad. II, 740 et 745. …
+- … しかし *Polypoetes atque Leonteus* と
+- **(cont.)** （前頁からの続き）読むべきであることは、ホメーロスの『イーリアス』II, 740 および 745 から明らかである。…
 
 [3] 182 Et bis uicenas Polypoetes atque Leonteus
 
 [4] 182 Et bis vicenas Polypoeles atque Leonteus
 
 [6] 182 et bis vicenas Polypoetes atque Leonteus
-- *Iliad* 2.740
+- 『イーリアス』 2.740
 
 183 instruxere rates ornatas milite forti.
 
@@ -2045,15 +2024,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 184 Euryalus Sthenelusque duces et fortis in armis
 
 [2] 183 Euryalus, Sthenelusque ferox, et fortis in armis
-- … quem ipsum Homerus, Iliad. II, 565, cum Sthenelo et Diomede conjungit. Et Dares Phryg. cap. 14: « Diomedes, Euryalus, Sthenelus ex Argis », navibus LXXX. Eurypylum contra, quem Homerus, v. 736, in ducibus Graecorum cum quadraginta navibus numerat, sed poetaster noster non nominasse videtur, Bondamius v. 189 adductum putat, quod ipsi ad eum versum notabimus.
+- … ホメーロス自身が『イーリアス』II, 565 で彼をステネロスやディオメーデースと結びつけているからである。またプリュギアのダレース第 14 章にも、「アルゴスからのディオメーデース、エウリュアロス、ステネロス」が 80 隻の船を率いたとある（« Diomedes, Euryalus, Sthenelus ex Argis », navibus LXXX）。これに対して、ホメーロスが 736 行でギリシア勢の指揮官の一人として 40 隻の船とともに数え上げているものの、われらの駄作詩人（poetaster）は名を挙げていないように思われるエウリュピュロスについて、ボンダムは 189 行で導入されていると考えており、そのことはわれわれ自身もその詩行において注記することとする。
 
 [3] 184 Euryalus Sthenelusque . . . . et fortis in armis
 
 [4] 184 Euryalus Sthenelusque duces et fortis in armis
-- Euryalus … — duces Kooten jure retinuit: cf. enim Iliad. II, 563 sqq. ἡγεμόνευε, et quem optime laudat Weytingh, Aeneid. II versum 261 « Thessandrus Sthenelusque duces » …
+- Euryalus …――duces クーテンが正当にも保持。『イーリアス』II, 563 以下 ἡγεμόνευε、およびヴァイティングが見事に称賛する『アエネーイス』II, 261「Thessandrus Sthenelusque duces」を参照。…
 
 [6] 184 Euryalus Sthenelique decus et fortis in armis
-- *Iliad* 2.564
+- 『イーリアス』 2.564
 
 185 Tydides ualido pulsarunt remige pontum:
 
@@ -2064,12 +2043,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 185 Tydides valido pulsarunt remige fliictus
 
 [6] 185 Tydides valido pulsarunt remige pontum:
-- *Iliad* 2.567
+- 『イーリアス』 2.567
 
 186 bis quadragenas onerarunt milite puppes;
 
 [2] 185 Bisque quadragenas onerarunt milite puppes:
-- … Homerus octoginta naves iis tribuit; …
+- … ホメーロスは彼らに 80 隻の船を割り当てており、…
 
 [3] 186 Bis quadragenas onerarunt milite puppes.
 
@@ -2080,14 +2059,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 187 Ascalaphusque potens et Ialmenus, acer uterque,
 
 [2] 186 Ascalaphusque potens, et lalmenus acer, uterque
-- … ex Homero, Iliad. II, 512, qui hunc Ascalapho apponit. …
+- … ホメーロスの『イーリアス』II, 512 で彼がアスカラポスに並べられていることから …
 
 [3] 187 Ascalaphusque potens et Ialmenus, acer uterque,
 
 [4] 187 Ascalaphusque potens et Ialmenus, acer ulerque,
 
 [6] 187 Ascalaphusque potens et Ialmenus, acer uterque,
-- *Iliad* 2.512
+- 『イーリアス』 2.512
 
 188 ter denas ualido complerunt remige naues
 
@@ -2108,32 +2087,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 189 Et bis vicenas Locrum fortissimus Ajax
 
 [6] 189 et bis vicenas Locrum fortissimus Aiax
-- *Iliad* 2.527
+- 『イーリアス』 2.527
 
 190 instruxit puppes totidemque Euhaemone natus,
 
 [2] 189 Instruxit puppes , totidemque Evaemone natus ;
-- … Sed Abantoris filium nullum in catalogo Homeri invenio. Cl. Bondamius, Var. lect. p. 146, Eurypylum, quem ab Homero inter duces nominatum apud Nostrum non invenit, hoc versu indicatum putat, ideoque sic scriptum esse conjicit: « Instruxit puppes, totidemque Evaemone natus ». Nam Eurypylus ab Homero v. 736 vocatur Εὐαίμονος ἀγλαὸς υἱός, et dicitur eumdem navium 40 numerum duxisse. Evaemonis et Opis filius vocatur etiam Hygino, fab. 94. …
+- … しかし私はホメーロスの軍船表にアバントールの息子を見出さない。著名なボンダムは『異読考』146 頁で、ホメーロスによって指揮官の中に名を挙げられているもののわれらの詩人には見出されないエウリュピュロスがこの詩行で示されていると考え、したがって次のように書かれていたと推測している: « Instruxit puppes, totidemque Evaemone natus »。なぜならエウリュピュロスはホメーロスの 736 行で Εὐαίμονος ἀγλαὸς υἱός（エウアイモーンの輝かしき息子）と呼ばれ、同じく 40 隻の船を率いたと述べられているからである。彼はヒュギーヌスの『神話集』(fab.) 94 でもエウアイモーンとオーピスの息子と呼ばれている。…
 
 [3] 190 Instruxit puppes totidemque Euhaemone natus.
 
 [4] 190 Instruxit puppes totidemque Euhaemone natus.
-- Euaemone … (cf. Iliad. II, 736).
+- Euaemone …（『イーリアス』II, 736 を参照）。
 
 [6] 190 instruxit puppes totidemque Euhaemone natus.
-- *Iliad* 2.736
+- 『イーリアス』 2.736
 
 191 quos iuxta Graium murus comitatur Achilles
 
 [2] 190 Quos juxta Graium ductor comitatur Achilles ,
-- Graium ductor praecipuum bello, supremum fortitudine explicat Barthius, Advers. p. 2754. …
+- バルトは『雑考』2754 頁で、*Graium ductor*（ギリシア勢の指揮官）を「戦いにおいて卓越し、武勇において至高である」と解釈している。…
 
 [3] 191 Quos iuxta Graium murus comitatur Achilles,
 
 [4] 191 Quosjuxta Danaum murus comitatur Achilles,
 
 [6] 191 quos iuxta Graium durus comitator Achilles
-- *Iliad* 2.685
+- 『イーリアス』 2.685
 
 192 cum quinquaginta materna per aequora uectus.
 
@@ -2148,14 +2127,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 193 Thessalici iuuenes Phidippus et Antiphus ibant
 
 [2] 192 Thessalici juvenes Phidippus et Antiphus ibant,
-- Phidippus et Antiphus scripsi ex Homeri Iliad. II, 678, …
+- 私はホメーロスの『イーリアス』II, 678 に基づいて *Phidippus et Antiphus* と記した。…
 
 [3] 193 Thessalici iuuenes Phidippus et Antiphus ibant
 
 [4] 193 Thessalici juvenes Phidippus et Antiphus ibant
 
 [6] 193 Thessalici iuvenes Phidippus et Antiphus ibant
-- *Iliad* 2.678
+- 『イーリアス』 2.678
 
 194 altaque ter denis pulsarunt aequora proris
 
@@ -2170,42 +2149,42 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 195 et tribus assumptis ratibus secat aequora Teucer
 
 [2] 194 Et tribus adsumptis ratibus secat aequora Nireus,
-- … quod non solum Homerus in catalogo suo Teucri hujus nuspiam meminit, sed fratrem ejus Ajacem Telamonium duodecim naves ad Trojam duxisse narrat, quocum et Noster convenit versu 204; sed et alii scriptores, ut Dictys, lib. I, cap. 13 et 17 Ajacem ductorem navium faciunt, Teucrum fratrem ejus comitem et socium fuisse aiunt. Clare Dares Phryg. c. 14: « Ajax Telamonius ex Salamine adduxit secum Teucrum fratrem ». Hyginus quidem, fab. 97, Ajacem Telam. naves XII, et Teucrum fratrem totidem adduxisse ait. Sed diversus ab hoc numerus navium est, quas Teucro apud Nostrum vulgata lectio tribuit: tres tantum naves duxisse dicitur; apud Homerum vero soli Nireo tres naves tribuuntur, et hic solus ab epitomatore siletur, nisi loco Teucri nominandus sit. … Nam Dictys, I, 17: « Nireus ex Syme tres, Podarces et Protesilaus ex Phylaca naves XL ».
+- … ホメーロスが自らの軍船表においてこのテウクロスに全く言及していないだけでなく、その兄であるテラモーンの子アイアースが 12 隻の船をトロイアへ率いたと語っており（これにはわれらの詩人も 204 行で一致している）、さらに他の著述家たち、例えばディクテュス（第 1 巻 13 章および 17 章）もアイアースを船団の指揮官とし、弟のテウクロスはその同行者にして同胞であったと述べているからである。プリュギアのダレース第 14 章は明快に「サラミースからのテラモーンの子アイアースは弟テウクロスを伴った」（« Ajax Telamonius ex Salamine adduxit secum Teucrum fratrem »）と記している。ヒュギーヌスはたしかに『神話集』(fab.) 97 でテラモーンの子アイアースが 12 隻の船を率い、弟テウクロスも同数を率いたと述べている。しかし、われらの詩人において流布本の読みがテウクロスに割り当てている船の数はこれとは異なり、彼がわずか 3 隻の船を率いたとされている。しかるにホメーロスにおいて 3 隻の船が割り当てられているのはニーレウスだけであり、この人物だけが、テウクロスの代わりに名指しされるのでない限り、梗概作者によって沈黙されているのである。…なぜならディクテュス I, 17 に「シューメーからのニーレウスが 3 隻、ピュラケーからのポダルケースとプローテシラーオスが 40 隻の船」（« Nireus ex Syme tres, Podarces et Protesilaus ex Phylaca naves XL »）とあるからである。
 
 [3] 195 Et tribus assumptis ratibus secat aequora Nireus,
 
 [4] 195 Et tribus ab Sume ratibus secat aequora Nireus,
-- … Nireus Bondam, Higt (Iliad. II, 671 sqq.)
+- … Nireus ボンダム、ヒヒト（『イーリアス』II, 671 以下）。
 
 [6] 195 et tribus † assumptis ratibus secat aequora Nireus,
-- *Iliad* 2.671
+- 『イーリアス』 2.671
 
 196 Tlepolemusque nouem Rhodius, quos uiribus acer
 
 [2] 195 Tlepolemusque novem Rhodius, quos viribus acer
-- … quem Homerus II, 653, dicit ex Rhodo novem naves adduxisse. Dictys l. c. Tlepolemus ex Rhodo aliisque insulis, quae circa eam erant, octo navibus venit. Dares Phryg. c. 14: « Tlepolemus ex Rhodo navibus numero novem ».
+- … ホメーロスは『イーリアス』II, 653 で、彼がロドスから 9 隻の船を率いてきたと述べている。ディクテュス前掲箇所: 「トレーポレモスはロドスおよびその周囲の他の島々から 8 隻の船でやって来た」。プリュギアのダレース第 14 章: « Tlepolemus ex Rhodo navibus numero novem »（ロドスからのトレーポレモスは 9 隻の船で）。
 
 [3] 196 Tlepolemusque nouem Rhodius, quos uiribus acer
 
 [4] 196 Tlepolemusque novem Rhodius, quos viribus acer
-- Tlepolemus … (cf. Iliad. II, 653).
+- Tlepolemus …（『イーリアス』II, 653 を参照）。
 
 [6] 196 Tlepolomusque novem Rhodius, quos viribus acer
-- *Iliad* 2.653
+- 『イーリアス』 2.653
 
 197 Eumelus sequitur, minus una naue profectus
 
 [2] 196 Eumelus sequitur, minus una nave profectus.
-- … Homero auctore, Iliad. II, 714, ubi Εὔμηλος Admeti filius undecim navibus ex Pheris praefuisse dicitur. Pherae urbs Thessaliae. Dictys l. c. « Eumelus XI Pheris ». Unde Hyginus corrigendus videtur, qui scribit Eumelum ex Perrhaebia. Noster minus una nave, i. e. undecim profe-
-- **(cont.)** ctum dicit, quia antecedentium naves, Nirei tres et Tlepolemi novem, connumerat.
+- … ホメーロスの権威（『イーリアス』II, 714）に基づくものであり、そこではアドメートスの息子 Εὔμηλος がペライからの 11 隻の船を指揮したと述べられている。ペライはテッサリアの都市である。ディクテュス前掲箇所: « Eumelus XI Pheris »（ペライからのエウメーロスが 11 隻）。ここから、エウメーロスがペライビア出身であると書くヒュギーヌスは訂正されるべきと思われる。われらの作者は *minus una nave*（1隻少ない船で）によって、11隻で出発した（profe-）と述べており――
+- **(cont.)** （前頁からの続き）[-profe-]ctum dicit（出航したと言う）。というのも、彼は先行する指導者たちの船、すなわちニレウスの3隻とトレーポレモスの9隻を合算しているからである。
 
 [3] 197 Eumelus sequitur, minus una naue profectus
 
 [4] 197 Eumelus sequitur, minus una nave profectus
 
 [6] 197 Eumelus sequitur, minus una nave profectus
-- *Iliad* 2.714
-- … minus una scil. undecim …
+- 『イーリアス』 2.714
+- … minus una すなわち11 …
 
 198 quam duxit Telamone satus Salaminius Aiax.
 
@@ -2220,27 +2199,27 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 199 Ast Prothous Magnes Tenthredone natus et una
 
 [2] 198 At Prothous Magnes , Tenthredone natus , et una
-- … Nam Homerus Prothoum Magnetum principem nominat, et Dictys in catalogo heroum qui Trojam obsederunt, lib. I, 17: « Prothous, Magnes, XL naves ».
+- … なぜならホメーロスはプロトオスをマグネーシア人の首領と呼んでおり、ディクテュスもトロイアを包囲した英雄たちの目録（第1巻17章）で « Prothous, Magnes, XL naves » と記しているからである。
 
 [3] 199 At Prothous Magnes Tenthredone natus et una
 
 [4] 199 At Prothous Magnes Tenthredone natus et una
-- At Prothous … (ibid. 756). … Magnes … (ibid.). …
+- At Prothous …（同所 756）。… Magnes …（同所）。…
 
 [6] 199 ast Prothous Magnes Tenthredone natus et una
-- *Iliad* 2.756
+- 『イーリアス』 2.756
 
 200 Euboeae magnis Elephenor finibus ortus
 
 [2] 199 Eubceae magnis Elephenor finibus ortus,
-- … Ovidio, Trist. III, memoratur idem fortasse Elpenor, unus ex Ulyssis comitibus, qui, quum in porcum a Circe mutatus esset, dein humanae formae restitutus ad Ulyssem incauto fugiendi studio properaret, ex edito loco decidens periit. Ed.
+- … オウィディウス『悲歌』(*Trist.*) 第3巻において、おそらく同じエルペーノール、すなわちキルケーによって豚に変えられ、その後に人間の姿に戻されて、軽率な逃走の熱意に駆られてユリシーズのもとへ急ぐあまり、高所から転落して死んだユリシーズの部下の一人が言及されている。パリ編者。
 
 [3] 200 Euboeae magnis Elephenor finibus ortus
 
 [4] 200 Euboeae longis Elephenor finibus ortus
 
 [6] 200 Euboeae a † magnis Elephenor finibus ortus
-- *Iliad* 2.540
+- 『イーリアス』 2.540
 
 201 Dulichiusque Meges, animisque insignis et armis,
 
@@ -2251,19 +2230,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 201 Dulichiusque Meges, animisque insignis et armis,
 
 [6] 201 Dulichiusque Meges, animisque insignis et armis,
-- *Iliad* 2.627
+- 『イーリアス』 2.627
 
 202 Aetola de gente Thoas Andraemone natus,
 
 [2] 201 Aetola de gente Thoas Andraemone natus,
-- … ex Homeri II, 638: …
+- … ホメーロス『イーリアス』II, 638 に基づいて…
 
 [3] 202 Aetola de gente Thoas Andraemone natus,
 
 [4] 202 Aetola de gente Thoas Andraemone natus,
 
 [6] 202 Aetola de gente Thoas Andraemone natus,
-- *Iliad* 2.638
+- 『イーリアス』 2.638
 
 203 hi quadragenas omnes duxere carinas;
 
@@ -2284,7 +2263,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 204 Et bis sex Ithaci naves sollertia duxit;
 
 [6] 204 et bis sex Ithaci naves sollertia duxit;
-- *Iliad* 2.631
+- 『イーリアス』 2.631
 
 205 quem sequitur totidem ratibus Telamonius Aiax,
 
@@ -2295,20 +2274,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 205 Quem sequitur totidem ratibus Telamonius Ajax,
 
 [6] 205 quem sequitur totidem ratibus Telamonius Aiax,
-- *Iliad* 2.557
+- 『イーリアス』 2.557
 
 206 egregia uirtute potens; simul horrida Guneus
 
 [2] 205 Egregia virtute poLens : simul ordine Guneus
-- Guneus ex Cypho duas et viginti naves duxit. Homerus, II, 648. …
+- グーネウスはキュポスから22隻の船を率いた。ホメーロス『イーリアス』II, 648（実際は748）。…
 
 [3] 206 Egregia uirtute potens; simul horrida Guneus
 
 [4] 206 Egregia virtute potens; sinnil horrida Gunei
-- **206-207** Gunei Ira … Iliad. II, 748).
+- **206-207** Gunei Ira … 『イーリアス』II, 748）。
 
 [6] 206 egregia virtute potens; simul horrida Guneus
-- *Iliad* 2.748
+- 『イーリアス』 2.748
 
 207 ire bis undenis temptabat in arma carinis.
 
@@ -2329,7 +2308,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 208 Idomeneus et Meriones, Cretaeus uterque,
 
 [6] 208 Idomeneus et Meriones, Cretaeus uterque,
-- *Iliad* 2.645
+- 『イーリアス』 2.645
 
 209 bis quadragenis muniti nauibus ibant;
 
@@ -2344,20 +2323,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 210 et totidem puppes clara de gente Menestheus
 
 [2] 209 Et totidem puppes clara de gente Menestheus
-- Menestheus ex Athenis quinquaginta naves duxit. Hom. II, 552. Dictys et Dares Mnestheum dicunt, et totidem naves ei tribuunt. …
+- メネステウスはアテーナイから50隻の船を率いた。ホメーロス『イーリアス』II, 552。ディクテュスとダレースは彼をムネステウス（Mnestheus）と呼び、同数の船を彼に割り当てている。…
 
 [3] 210 Et totidem puppes clara de gente Menestheus
 
 [4] 210 Et totidcm puppes clara de gente Menestheus
-- Menestheus … (ibid. 552).
+- Menestheus …（同所 552）。
 
 [6] 210 et totidem puppes clara de gente Menestheus
-- *Iliad* 2.552
+- 『イーリアス』 2.552
 
 211 duxit Athenaeus, quot uiribus ambit Achilles;
 
 [2] 210 Duxit Athenaeus, quot viribus ambit Achilles:
-- Athenaeus, quia dux Atheniensium. … Vult enim, Menestheum tot naves habuisse, quot Achilles ducebat, nempe quinquaginta; vid. vers. 191. …
+- *Athenaeus*（アテーナイ人）。アテーナイ人の指揮官だからである。…というのも、メネステウスはアキッレウスが率いていたのと同じ数、すなわち50隻の船を有していたことを言おうとしているからである。191行を参照。…
 
 [3] 211 Duxit Athenaeus, quot uiribus addit Achilles.
 
@@ -2368,27 +2347,27 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 212 Amphimachusque ferox et Thalpius, Elide nati,
 
 [2] 211 Amphimachusque ferox etThalpius, Elide nati,
-- Et Thalpius reposui ex Hom. II, 620. …
+- *Et Thalpius*（そしてタルピオス）は、ホメーロス『イーリアス』II, 620 に基づいて私が復元した。…
 
 [3] 212 Amphimachusque ferox et Thalpius, Elide nati,
 
 [4] 212 Amphimachusque ferox et Thalpius, Elide nati,
-- Thalpius … (ibid. 620).
+- Thalpius …（同所 620）。
 
 [6] 212 Amphimachusque ferox et Thalpius, Elide nati,
-- *Iliad* 2.620
+- 『イーリアス』 2.620
 
 213 et clara uirtute Polyxenus atque Diores,
 
 [2] 212 Et clari virtute Polyxenus atque Diores,
-- … Hos cum Amphimacho et Thalpio ex Elide conjungit Homerus, sicut et Dictys, I, 17.
+- … ホメーロスは彼らをエーリス出身のアムピマコスおよびタルピオスとともに結びつけており、ディクテュス（I, 17）も同様である。
 
 [3] 213 Et clara uirtute Polyxenus atque Diores.
 
 [4] 213 Et clara virtute Polyxenus atque Diores.
 
 [6] 213 et clara virtute Polyxenus atque Diores,
-- *Iliad* 2.622
+- 『イーリアス』 2.622
 
 214 hi bis uicenas onerarunt milite puppes.
 
@@ -2403,14 +2382,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 215 Protesilaus agit totidem fortisque Podarces
 
 [2] 214 Protesilaus agit totidem, fortisque Podarces
-- Podarces et Protesilaus ex Phylaca, et aliis, quibus praeerant, locis naves XL adduxerunt. Homerus, II, 704, et Dictys l. c. …
+- ポダルケースとプローテシラーオスはピュラケーおよび支配下の他の地から40隻の船を率いてきた。ホメーロス『イーリアス』II, 704、およびディクテュス前掲書。…
 
 [3] 215 Protesilaus agit totidem fortisque Podarces
 
 [4] 215 Protesilaus agit totidem fortisque Podarces
 
 [6] 215 Protesilaus agit totidem fortisque Podarces
-- *Iliad* 2.698, 2.704
+- 『イーリアス』 2.698, 2.704
 
 216 instructas puppes, quot duxit Oileos Aiax;
 
@@ -2425,31 +2404,31 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 217 et septem Poeante satus tulit arma carinis,
 
 [2] 216 At septem Poeante satus tulit arma cariBis,
-- … i. e. Philoctetes, quem Homerus, II, 719, septem navibus praefuisse scribit. …
+- … すなわちピロクテーテースのことであり、ホメーロス『イーリアス』II, 719 は彼が7隻の船を指揮したと記している。…
 
 [3] 217 Et septem Poeante satus dat in arma carinas.
 
 [4] 217 Et septem Poeante satus dat in arma carinas.
 
 [6] 217 et septem Poeante satus tulit arma carinis.
-- *Iliad* 2.718
+- 『イーリアス』 2.718
 
 218 quem sequitur iuxta Podalirius atque Machaon,
 
 [2] 217 Quem sequitur juxta Podalirius atque Machaon,
-- … Medici ambo erant, ambo Esculapio nati. Et Machaon memoratur Virg. Aen. II, 263. Ed.
+- … 両者とも医者であり、ともにアスクレーピオスの子であった。そしてマカーオーンは Virg. Aen. II, 263 にも言及されている。パリ編者。
 
 [3] 218 Quem sequitur iuxta Podalirius atque Machaon,
 
 [4] 218 Quem sequitur juxta Podalirius atque Machaon,
 
 [6] 218 quem sequitur iuxta Podalirius atque Machaon,
-- *Iliad* 2.732
+- 『イーリアス』 2.732
 
 219 altaque ter denis sulcarunt aequora proris.
 
 [2] 218 Altaque ter denis sulcarunt aequora proris.
-- Altaque ter denis. Idem versus supra 193. Amat Noster de eadem re eosdem vel similes versus facere, ipsius Homeri, quem compilat, exemplo.
+- *Altaque ter denis*（そして深き海を30隻の）。上の193行と同じ行である。われらの詩人は、自身が編纂の拠り所としているホメーロス自身の例に倣って、同じ事柄について同一または類似の行を作ることを好む。
 
 [3] 219 Altaque ter denis sulcarunt aequora proris.
 
@@ -2470,14 +2449,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 221 bis septem uenere minus quam mille ducentae.
 
 [2] 220 Bis septem venere minus, quam mille ducentae.
-- Quam mille ducentae, h. e. MCLXXXVI naves: numerus ipsius Homeri est. Observante Barthio l. c. Dictys numerum navium ad Trojam venientium ponit 1117, Dares 1148. Anna Daceria ex Dictye naves Graecorum numerat 1153, e Darete 1140; scholiasten Euripidis in Oreste ait numerare 1155, Cedrenum 1148, Thucydidem atque Chrysostomum 1200.
+- *Quam mille ducentae*（1200隻より）、すなわち1186隻の船［1200隻より2×7＝14隻少ない］。ホメーロス自身の数である。バルトが前掲書で指摘しているように、ディクテュスはトロイアに来航した船の数を1117隻、ダレースは1148隻としている。アンヌ・ダシエはディクテュスからギリシア軍の船を1153隻、ダレースから1140隻と数えており、エウリーピデース『オレステース』の古註者は1155隻、ケドレーノスは1148隻、ツゥキュディデースおよびクリュソストモスは1200隻と数えていると述べている。
 
 [3] 221 Bis septem uenere minus quam mille ducentae.
 
 [4] 221 Bis septeni venere minus quam mille ducentae.
 
 [6] 221 bis septem venere minus quam mille ducentae.
-- *Iliad* —
+- 『イーリアス』 —
 
 222 Iamque citi appulerant classes camposque tenebant,
 
@@ -2488,8 +2467,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 222 below Jamque citam appulerant classem camposque tenebant
 
 [6] 222 iamque citae appulerant classes camposque tenebant,
-- *Iliad* —
-- … auctor licentia poetica abutitur
+- 『イーリアス』 —
+- … 作者は詩的許容を過分に行使している
 
 223 cum pater ad Priamum mittit Saturnius Irim,
 
@@ -2500,7 +2479,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 223 Tum pater ad Priamum mittit Saturnius Irim
 
 [6] 223 cum pater ad Priamum mittit Saturnius Irin,
-- *Iliad* 2.786
+- 『イーリアス』 2.786
 
 224 quae doceat fortes uenisse ad bella Pelasgos.
 
@@ -2525,19 +2504,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 226 Priamides Hector totamque in proelia pubem
 
 [2] 225 Priamides Hector, totamque in praelia pubem
-- Totamque in praelia pubem. Virgil. Aen. VII, 429: « armari pubem, portisque moveri Laetus in arma para ».
+- *Totamque in praelia pubem*（そしてすべての若者を戦いへと）。Virgil. Aen. VII, 429: « armari pubem, portisque moveri Laetus in arma para »。
 
 [3] 226 Priamides Hector totamque in praelia pubem
 
 [4] 226 Priamides Hector totamque in proelia pubem
 
 [6] 226 Priamides Hector totamque in proelia pubem
-- *Iliad* 2.816
+- 『イーリアス』 2.816
 
 227 festinare iubet portisque agit agmen apertis.
 
 [2] 226 Festinare jubet, portisque agit agmen apertis.
-- Portis ... agmen apertis. Virg. Aen. XII, 121: « pilataque plenis Agmina se fundunt portis ».
+- *Portis ... agmen apertis*（開かれた門から……隊列を）。Virg. Aen. XII, 121: « pilataque plenis Agmina se fundunt portis »。
 
 [3] 227 Festinare iubet portisque agit agmen apertis.
 
@@ -2554,7 +2533,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 228 Cui fulgens auro cassis juvenile legebat
 
 [6] 228 cui fulgens auro cassis iuvenile tegebat
-- *Iliad* —
+- 『イーリアス』 —
 
 229 omni parte caput, munibat pectora thorax
 
@@ -2565,7 +2544,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 229 Omni parte caput, munibat pectora thorax,
 
 [6] 229 omni parte caput, munibat pectora thorax
-- *Iliad* —
+- 『イーリアス』 —
 
 230 et clipeus laeuam, dextram decorauerat hasta
 
@@ -2576,7 +2555,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 230 Et clipeus laevam, dextram decoraverat hasta
 
 [6] 230 et clipeus laevam, dextram decoraverat hasta
-- *Iliad* —
+- 『イーリアス』 —
 
 231 ornabatque latus mucro; simul alta nitentes
 
@@ -2587,19 +2566,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 231 Ornabatque latus mucro; simul alta nitenles
 
 [6] 231 ornabatque latus mucro; simul alta nitentes
-- *Iliad* —
+- 『イーリアス』 —
 
 232 crura tegunt ocreae, quales decet Hectoris esse.
 
 [2] 231 Crura tegunt ocrea, quales decet Hectoris essc.
-- Quales decet Hectoris esse. Formula Ovidiana, Met. II, 14: « facies non omnibus una, Non diversa tamen: qualem decet esse sororum ». Hunc et sequentes versus de Paride Barthius l. c. tamquam praeclaros et graves et omnem rem necessariam breviter complexos laudandos censet.
+- *Quales decet Hectoris esse*（ヘクトールのものにふさわしいような）。オウィディウス風の定型表現である、Met. II, 14: « facies non omnibus una, Non diversa tamen: qualem decet esse sororum »。バルトは前掲書で、パリスに関するこの行およびそれに続く諸行について、見事で重厚であり、必要な事柄のすべてを簡潔に包括しているとして称賛すべきであると見なしている。
 
 [3] 232 Crura tegunt ocreae, quales decet Hectoris esse.
 
 [4] 232 Crura tegunt ocreae, quales decet Hectoris esse.
 
 [6] 232 crura tegunt ocreae, quales decet Hectoris esse.
-- *Iliad* —
+- 『イーリアス』 —
 
 233 Hunc sequitur forma melior, tunc fortis in armis,
 
@@ -2610,7 +2589,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 233 Hunc sequitur forma melior quam fortior armis,
 
 [6] 233 hunc sequitur forma melior, tunc fortis in armis,
-- *Iliad* —
+- 『イーリアス』 —
 
 234 belli causa Paris, patriae funesta ruina,
 
@@ -2621,19 +2600,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 234 Belli causa Paris, patriae funesta ruina
 
 [6] 234 belli causa Paris, patriae funesta ruina,
-- *Iliad* —
+- 『イーリアス』 —
 
 235 Deiphobusque Helenusque simul fortisque Polites
 
 [2] 234 Deiphobusque , Helenusque simul, fortisque Polites,
-- … Polites, ut apud Homerum, II, 701: …
+- … ホメーロス『イーリアス』II, 701（実際は791）にあるように *Polites* …
 
 [3] 235 Deiphobusque Helenusque simul fortisque Polites,
 
 [4] 235 Deiphobusque Helenusque simul fortisque Polites,
 
 [6] 235 Deiphobusque Helenusque simul fortisque Polites,
-- *Iliad* —
+- 『イーリアス』 —
 
 236 et sacer Aeneas, Veneris certissima proles,
 
@@ -2644,19 +2623,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 236 Et sacer Aeneas, Veneris certissima proles,
 
 [6] 236 et sacer Aeneas, Veneris certissima proles,
-- *Iliad* 2.820
+- 『イーリアス』 2.820
 
 237 Archelochusque Acamasque ferox Antenore creti;
 
 [2] 236 Archilochusque, Acamasque ferox, Antenore nati:
-- Acamasque. Hom. II, 823; …
+- *Acamasque*（そしてアカマース）。ホメーロス『イーリアス』II, 823。…
 
 [3] 237 Archilochusque Acamasque ferox Antenore creti.
 
 [4] 237 Archilochusque Acamasque ferox Antenore creti.
 
 [6] 237 Archelochusque Acamasque ferox Antenore creti.
-- *Iliad* 2.823
+- 『イーリアス』 2.823
 
 238 nec non et proles generosa Lycaonis ibat
 
@@ -2667,95 +2646,95 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 238 Nec non et proles generosa Lycaonis ibat
 
 [6] 238 nec non et proles generosa Lycaonis ibat
-- *Iliad* 2.827
+- 『イーリアス』 2.827
 
 239 Pandarus et magnae Glaucus uirtutis in armis
 
 [2] 238 Pandarus , et magn» virtutis Glaucus in armis ,
-- Glaucus in armis. Hunc Homerus, II extr. cum Sarpedone Lyciorum duce conjungit, de quo Noster, infra v. 248.
+- *Glaucus in armis*（武装せるグラウコス）。ホメーロスは『イーリアス』第2巻末尾で、彼をリュキア人の指導者サルペードーンと結びつけており、われらの詩人も下の248行で彼について述べている。
 
 [3] 239 Pandarus et magnae Glaucus uirtutis in armis;
 
 [4] 239 Pandarus et magnae Glaucus virtutis in armis;
 
 [6] 239 Pandarus et magnae Glaucus virtutis in armis;
-- *Iliad* 2.876
+- 『イーリアス』 2.876
 
 240 Amphiusque et Adrastus et Asius atque Pylaeus.
 
 [2] 239 Amphionque, Adrastus, et Asius, atque Pylaeus.
-- Amphiusque Adrastus scribo ex Hom. II, 830; et Asius, ib. 838: … quem Homerus cum Hippothoo ex Larissa conjungit, II, 842, nec alio loco ab Nostro adductum vidi. …
+- 私はホメーロス『イーリアス』II, 830 に基づいて *Amphiusque Adrastus* と記し、同 838 に基づいて *Asius* と記す。…ホメーロスは彼をラーリッサのヒッポトオスと結びつけており（II, 842）、われらの詩人が他の箇所で彼を持ち出しているのを私は見ていないからである。…
 
 [3] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
 
 [4] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
-- Amphius … (Iliad. II, 830). … Pylaeus … (ibid. 842).
+- Amphius …（『イーリアス』II, 830）。… Pylaeus …（同所 842）。
 
 [6] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
-- *Iliad* 2.830, 2.837, 2.842
+- 『イーリアス』 2.830, 2.837, 2.842
 
 241 Ibat et Amphimachus Nastesque, insignis uterque,
 
 [2] 240 Ibat et Amphimachus, Nastesque, insignis uterque,
-- Amphimachus Nastesque de Caria, conjunguntur ab Homero, II, 870. …
+- カリアのアムピマコスとナステースは、ホメーロス『イーリアス』II, 870 によって結びつけられている。…
 
 [3] 241 Ibat et Amphimachus Nastesque, insignis uterque,
 
 [4] 241 Ibat et Amphimachus Nastesque, insignis uterque,
-- Nastes … (ibid. 870).
+- Nastes …（同所 870）。
 
 [6] 241 ibat et Amphimachus Nastesque, insignis uterque,
-- *Iliad* 2.870
+- 『イーリアス』 2.870
 
 242 magnanimique duces Odiusque et Epistrophus ingens
 
 [2] 241 Magnanimique duces Hodius et Epistrophus ingens,
-- Hodius et Epistrophus filii Minoi Halizonum regis: sic Dictys, II, 35, et Homerus eosdem conjungit v. 856: …
+- ホディオスとエピストロポスはハリゾーン族の王ミーノースの子である。ディクテュス II, 35 はこのように記し、ホメーロスも856行で同じ両者を結びつけている。…
 
 [3] 242 Magnanimique duces Hodiusque et Epistrophus ingens
 
 [4] 242 Magnanimique duces Hodiusque et Epistrophus ingens
-- **242, 243, 244** Hodius, Pyraechmes, Mesthles … (ibid. 856, 848. 864).
+- **242, 243, 244** Hodius, Pyraechmes, Mesthles …（同所 856, 848, 864）。
 
 [6] 242 magnanimique duces Odiusque et Epistrophus ingens
-- *Iliad* 2.856
+- 『イーリアス』 2.856
 
 243 Euphemusque ferox clarusque aetate Pyraechmes,
 
 [2] 242 Euphemusque ferox, clarusque aetate Pyraechmes,
-- … Euphemus Ciconum dux, et Pyraechmes Paeonum, memorantur ab Homero, v. 846 et 848: …
+- … キコネース族の指揮官エウペーモスとパイオニア人のピュライクメースは、ホメーロス（846行および848行）に言及されている。…
 
 [3] 243 Euphemusque ferox clarusque aetate Pyraechmes;
 
 [4] 243 Euphemusque ferox clarusque aetate Pyraechmes;
 
 [6] 243 Euphemusque ferox clarusque aetate Pyraechmes;
-- *Iliad* 2.846, 2.848
+- 『イーリアス』 2.846, 2.848
 
 244 cum quibus et Mesthles atque Antiphus et bonus armis
 
 [2] 243 Cum quibus etMesthlesatque Antiphus, et bonusarmis
-- Et Mesthles atque Antiphus, Maeonii. Hom. v. 864. …
+- *Et Mesthles atque Antiphus*（そしてメストレースとアンティポス）、マイオニア人。ホメーロス 864 行。…
 
 [3] 244 Cum quibus et Mesthles atque Antiphus et bonus armis
 
 [4] 244 Cum quibus et Mesthles atque Antiphus et bonus armis
 
 [6] 244 cum quibus et Mesthles atque Antiphus et bonus armis
-- *Iliad* 2.864
+- 『イーリアス』 2.864
 
 245 Hippothous uenere Acamasque et Pirous una,
 
 [2] 244 Hippdthus atque Acamas venere, et Pirous una,
-- … Sed Hippothoum, quem Homerus inter praecipuos et proxime ante Acamanta nominat, non omisisse Noster, neque alio, quam hoc loco posuisse videtur, … quia Piron vel Piroum Homerus cum Acamante conjungit v. 844, et Pylaeus jam supra locum invenit.
+- … しかし、ホメーロスが主要な指揮官たちの間で、かつアカマースの直前に名を挙げているヒッポトオスを、われらの詩人が省いたとは思われないし、この箇所以外のどこかに置いたとも思われない。…なぜならホメーロスは844行でペイロスあるいはペイロオスをアカマースと結びつけており、ピュライオスはすでに上で場所を見出しているからである。
 
 [3] 245 Hippothousque Acamasque iuere et Pirous una,
 
 [4] 245 Hippothous venere Acamasque et Pirous, \< ense
-- Hippothous … (ibid. 840) …
+- Hippothous …（同所 840）…
 
 [6] 245 Hippothous † atque Acamas † venere Pirous una,
-- *Iliad* 2.840, 2.844
+- 『イーリアス』 2.840, 2.844
 
 245a
 
@@ -2770,32 +2749,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 246 Arsinooque sati Chromiusque atque Ennomus, ambo
 
 [2] 245 Alcinoque sati, Chromiusque ac Ennomus, ambo
-- … Et ipse vir doctissimus ex Ausonii Epitaphiis her. epigr. 22, adlegat, ubi Ennomi et Chromii pater Alcinus vocatur. … Apud Homerum non exstat pater, qui Chromin et Ennomum Mysis praefuisse dicit v. 858. Sed Noster plura ex aliis haurire solet.
+- … そしてこのきわめて博学な人物（ボンダム）自身、アウソニウスの『英雄たちの墓碑銘』第22詩を引用しており、そこではエンノモスとクロミオスの父はアルキノス（Alcinus）と呼ばれている。…ホメーロスのもとには父の名は現れず、858行でクロミスとエンノモスがミュシア人を率いていたと述べるのみである。しかしわれらの詩人は他の諸源泉から多くのものを汲み取るのが常である。
 
 [3] 246 Alcinooque sati Chromiusque atque Ennomus, ambo
 
 [4] 246 Alcinooque sati Chromiusque atque Ennomus, ambo
 
 [6] 246 Arsinooque sati Chromiusque atque Ennomus, ambo
-- *Iliad* 2.858
-- Arsinooque … (ex Apollod. epit. 3, 35 p. 199 Wagner) …
+- 『イーリアス』 2.858
+- Arsinooque … (アポロドーロス『サマリー』3, 35 p. 199 ワーグナーによる) …
 
 247 florentes aetate uiri, quos Phorcus et ingens
 
 [2] 246 Florentes aetate viri , quos Phorcis et ingens
-- … auctore Homero, qui v. 862 Phorcyn et Ascanium Phrygum duces conjungit. … Ascanius hic discernendus a filio Aeneae, qui tum puer admodum erat.
+- … 862行でポルキュスとアスカニオスをプリュギア人の指揮官として結びつけているホメーロスの典拠に基づいて … このアスカニオスは、アイネイアースの息子（当時はまだほんの幼子であった）と区別されねばならない。
 
 [3] 247 Florentes aetate uiri, quos Phorcus et ingens
 
 [4] 247 Florentes aetate viri, quos Phorcus et ingens
 
 [6] 247 florentes aetate viri, quos Phorcus et ingens
-- *Iliad* 2.862
+- 『イーリアス』 2.862
 
 248 Ascanius sequitur, simul et Iouis inclita proles
 
 [2] 247 Ascanius sequitur, simul et Jovis inciyta proles
-- Jovis inclyta proles. Ovidius, Met. IX, 229.
+- *Jovis inclyta proles*（ユピテルの名高き末裔）。Ovidius, Met. IX, 229。
 
 [3] 248 Ascanius sequitur, simul et Iouis inclita proles
 
@@ -2806,28 +2785,28 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 249 Sarpedon claraque satus tellure Coroebus.
 
 [2] 248 Sarpedon, claraque satus tellure Coroebus.
-- … Hunc autem Coroebum Homerus non nominat, sed eum Virgilius Mygdonis filium dicit, Trojanisque auxilio venisse et a Peneleo interfectum tradit, Aen. II, 341 et 425. A Diomede perimi facit Quintus Cal. XIII, 168 seq. Contra Homerus Pylaemenem, Paphlagonum ducem, inter socios Trojanorum nominat, quem Noster, nisi fallor, omisit. De Coroebo plura videas notata ab Heynio V. C. Excurs. X ad Aen. II. — Choroebus alius memoratur a Statio, Theb. I, 650. Ed.
+- … なおホメーロスはこのコロイボスを挙げていないが、ウェルギリウスは彼をミュグドーンの子と呼び、トロイア軍の救援に駆けつけてペーネレオースに討たれたと伝えている（Aen. II, 341 および 425）。クイントゥス・スミュルナエウス（クイントゥス・カラベル）XIII, 168 以下では、彼はディオメーデースに討たれるとされている。これに対してホメーロスはパプラゴニア人の指導者ピュライメネースをトロイア軍の同盟者の中に挙げているが、われらの詩人は、私の見誤りでなければ、彼を省いている。コロイボスについては、名士ハイネが『アエネーイス』第2巻への補論（Excurs. X）で記した多くの注記を参照されたい。――別のコロイボスがスターティウスの Theb. I, 650 で言及されている。パリ編者。
 
 [3] 249 Sarpedon claraque satus tellure Pylaemen.
-- … Coroebus … sed neque hic ab Homero commemoratur et Pylaemenes iam solus restat non nominatus; inuexere illum librarii ex Vergilio; …
+- … Coroebus …しかしこの人物はホメーロスにおいて言及されておらず、Pylaemenes だけがいまだ名指されずに残っている。書写者たちがウェルギリウスから彼を持ち込んだのである。…
 
 [4] 249 Sarpodon claraque satus tellure Coroebus.
-- Coroebus … (cf. Aen. II, 342); …
+- Coroebus …（『アエネーイス』II, 342 を参照）。…
 
 [6] 249 Sarpedon claraque satus tellure Coroebus.
-- *Iliad* 2.876
+- 『イーリアス』 2.876
 
 250 His se defendit ducibus Neptunia Troia
 
 [2] 249 His se defendit ducibus Meptunia Troja,
-- Neptunia Troja: e Virgilii Aen. II, 625, et III, 3.
+- *Neptunia Troja*（ネプトゥーヌスのトロイア）：Virgilius, Aen. II, 625 および III, 3 より。
 
 [3] 250 His se defendit ducibus Neptunia Troia,
 
 [4] 250 His se defendit dncibus Neptunia Troja,
 
 [6] 250 his se defendit ducibus Neptunia Troia,
-- *Iliad* —
+- 『イーリアス』 —
 
 251 uicissetque dolos Danaum, ni fata fuissent.
 
@@ -2838,7 +2817,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 251 Vicissetque dolos Danaum, ni fata fuissent.
 
 [6] 251 vicissetque dolos Danaum, ni fata fuissent.
-- *Iliad* —
+- 『イーリアス』 —
 
 ## Book 3
 
@@ -2855,14 +2834,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 253 cum Paris, exitium Troiae funestaque flamma,
 
 [2] 252 Quum Paris, exitium Trojae funestaque flamma,
-- … Barthius ad hunc locum observat, Advers. LIX, cap. 1, optimorum scriptorum morem esse, funestarum cladium auctores clades ipsas nominare. Juvenalis de Domitiano: « si peste et clade sub illa Saevitiam damnare, et honestum afferre liceret Consilium ». Auctor declamationis in Catilinam: « vigent enim in illa clade res diversissimae pariter, continentia et libido ». Lampridius in Elagabalo: « mirum fortasse cuipiam videatur, quod haec clades, quam retuli, loco principis fuerit ». Seneca de Medea: « Abolere ferro pessimam propera luem ». Claudianus de Rufino, lib. I: « quo tanta lues eruperit ortu ». Barth. — Et ideo praesertim flamma servandum est, quod aptius conveniat cum fabula de Hecuba Paridis genetrice, taedam se peperisse somniante, qua Troas Asiaque omnis incendio vastarentur. Ed.
+- … バルトはこの箇所について『雑考』LIX, 第1章で、致命的な災厄をもたらす張本人を災厄そのものの名で呼ぶのが最良の著作家たちの慣習であると指摘している。ユウェナーリスがドミティアヌス帝について次のように述べる通りである: « si peste et clade sub illa Saevitiam damnare, et honestum afferre liceret Consilium »。カティリーナ弾劾演説の著者: « vigent enim in illa clade res diversissimae pariter, continentia et libido »。ラムプリディウス『ヘリオガバルス伝』: « mirum fortasse cuipiam videatur, quod haec clades, quam retuli, loco principis fuerit »。セネカ『メーデア』について: « Abolere ferro pessimam propera luem »。クラウディアヌス『ルフィヌス論』第1巻: « quo tanta lues eruperit ortu »。バルト。――また *flamma*（炎）が保たれるべき最大の理由は、それがパリスの生母ヘカベーが松明を産み落とし、それによってトロイアと全アジアが火災で荒廃するという夢を見たという神話により適切に合致するからである。パリ編者。
 
 [3] 253 Cum Paris, exitium Troiae funestaque flamma,
 
 [4] 253 Cum Paris, exitium Trojae funestaque flamma,
 
 [6] 253 cum Paris, exitium Troiae funestaque flamma,
-- *Iliad* 3.16
+- 『イーリアス』 3.16
 
 254 armatum aduerso Menelaum ex agmine cernit
 
@@ -2873,19 +2852,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 254 Armatum adverso Menelaum cx agminc cernit
 
 [6] 254 armatum adverso Menelaum ex agmine cernit
-- *Iliad* 3.30
+- 『イーリアス』 3.30
 
 255 seque uelut uiso perterritus angue recepit
 
 [2] 254 Seque velut viso perterritus angue recepit
-- … Comparationem ab Homero factam, III, 33 seq. quam hic brevissime exprimit Noster, Virgilius, Aen. II, 378 seq. de Androgeo usurpavit: « Obstupuit, retroque pedem cum voce repressit. Improvisum aspris veluti qui sentibus anguem Pressit humi nitens, trepidusque repente refugit ». Brevius Naso, Fast. II, 341, « Attonitusque metu rediit: ceu saepe viator Turbatum viso rettulit angue pedem ». Juvenalis, I, 43: « Palleat, ut nudis pressit qui calcibus anguem ».
+- … ホメーロスが『イーリアス』III, 33 以下で行い、われらの詩人がここでごく簡潔に表現している比喩を、ウェルギリウスは『アエネーイス』II, 378 以下でアンドロゲオースについて用いた: « Obstupuit, retroque pedem cum voce repressit. Improvisum aspris veluti qui sentibus anguem Pressit humi nitens, trepidusque repente refugit »。オウィディウスはより簡潔に Fast. II, 341 で: « Attonitusque metu rediit: ceu saepe viator Turbatum viso rettulit angue pedem »。ユウェナーリス I, 43: « Palleat, ut nudis pressit qui calcibus anguem »。
 
 [3] 255 Seque uelut uiso perterritus angue recepit
 
 [4] 255 Seque velut viso perterritus angue recepit
 
 [6] 255 seque velut viso perterritus angue recepit
-- *Iliad* 3.33
+- 『イーリアス』 3.33
 
 256 ad socios amens. Quem postquam turpiter Hector
 
@@ -2896,7 +2875,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 256 Ad socios amens; qucm postquam turpiter Hector
 
 [6] 256 ad socios amens; quem postquam turpiter Hector
-- *Iliad* 3.38
+- 『イーリアス』 3.38
 
 257 confusum terrore uidet: "O dedecus - inquit -
 
@@ -2911,7 +2890,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 258 "aeternum patriae generisque infamia nostri,
 
 [2] 257 Aeternum patriae, generisque infamia nostri,
-- Generisque infamia nostri. Ovid. Metam. VIII, 97: « o nostri infamia saecli ».
+- *Generisque infamia nostri*（そしてわれらの種族の汚辱）。Ovid. Metam. VIII, 97: « o nostri infamia saecli »。
 
 [3] 258 'Aeternum patriae generisque infamia nostri,
 
@@ -2932,8 +2911,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 260 expugnare toros, cuius nunc defugis arma
 
 [2] 259 Expugnare toros, cujus nunc defugis arma,
-- Hospitis expugnare toros, h. e. conjugem sollicitatione capere et corrumpere, quemadmodum ex-
-- **(cont.)** pugnari dicuntur, qui inviti et repugnantes vincuntur precibus; quomodo usurpavit Suetonius, Caes. 1, Tiber. 21. Apud Ovid. Her. XVII, 3, Helena ad Paridem: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem ». Propert. III, 13, 9: « Haec etiam clausas expugnant arma pudicas ». — Rutilius, Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit. Ed. — De usu verbi expugnare plura notavit Barthius ad Stat. Theb. IV, 187.
+- *Hospitis expugnare toros*（主人の床を強奪する）、すなわち言い寄りによって妻を捕らえ堕落させること。ちょうど〜のように攻め落と（ex- / -pugnari）...
+- **(cont.)** （前頁からの続き）［攻め落とされる（ex-）］pugnari とは、意に反して抵抗しながらも懇願によって屈服させられる者たちのことを言う。スエートーニウスもこのように用いている（Caes. 1, Tiber. 21）。オウィディウスの Her. XVII, 3 で、ヘレネーはパリスに向かって次のように言う: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem »。プロペルティウス、III, 13, 9: « Haec etiam clausas expugnant arma pudicas »。――ルティリウス、Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit »。パリ編者。――動詞 expugnare の用法については、バルトがスタティウスの Theb. IV, 187 への注でさらに多くを記している。
 
 [3] 260 Expugnare toros, cuius nunc defugis arma
 
@@ -2950,7 +2929,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 261 Yimque timcs! ubi sunt vires, ubi cognita nobis
 
 [6] 261 vimque times. ubi sunt vires, ubi cognita nobis
-- *Iliad* —
+- 『イーリアス』 —
 
 262 ludorum quondam uaria in certamina uis est?
 
@@ -2961,56 +2940,56 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 262 Ludorum quondam vario in certamine virtus?
 
 [6] 262 ludorum quondam vario in certamine virtus?
-- *Iliad* —
+- 『イーリアス』 —
 
 263 Hic animos ostende tuos: nihil adiuuat armis
 
 [2] 262 Hic animos ostende tuos, nil adjuvat arnia
-- Hic animos ostende. Virgil. Aen. VI, 261: « Nunc animis opus, Aenea, nunc pectore firmo ». …
+- *Hic animos ostende*（ここで勇気を示せ）。ウェルギリウス『アエネーイス』VI, 261: « Nunc animis opus, Aenea, nunc pectore firmo »。…
 
 [3] 263 Hic animos ostende tuos: nihil adiuuat arma
 
 [4] 263 Ilic animos ostende tuos : nihil adjuvat arma
 
 [6] 263 hic animos ostende tuos: nihil adiuvat armis
-- *Iliad* —
-- armis (i. in pugna) …
+- 『イーリアス』 —
+- armis (すなわち戦いにおいて) …
 
 264 nobilitas formae: duro Mars milite gaudet.
 
 [2] 263 Nobilitas formae, duro Mars miiite gaudet.
-- Duro Mars milite gaudet. Helena ad Paridem l. c. v. 253: « Apta magis Veneri, quam sint tua corpora Marti ».
+- *Duro Mars milite gaudet*（マールスは頑強な兵士を喜ぶ）。ヘレネーがパリスに向かって言う前掲箇所（オウィディウス『求愛書簡』XVII）、253 行: « Apta magis Veneri, quam sint tua corpora Marti »。
 
 [3] 264 Nobilitas formae: duro Mars milite gaudet.
 
 [4] 264 Nobilitas formae : duro Mars milite gaudct.
 
 [6] 264 nobilitas formae: duro Mars milite gaudet.
-- *Iliad* —
+- 『イーリアス』 —
 
 265 Dum iaceas in amore tuo, nos bella geremus
 
 [2] 264 Dum jaceas in amore tuo, nos beila geremus
-- Dum jaceas in amore, h. e. fractus libidine langueas et otieris, impar militiae. Tale est in Virg. Catal. V, 1: « Jacere me, quod alta non possim, putas, Ut ante, vectari freta, Nec ferre durum frigus, aut aestum pati, Neque arma victoris sequi ».
+- *Dum jaceas in amore*（お前が愛の中に横たわっている間に）。すなわち、情欲に挫かれて倦怠し怠惰に過ごし、軍務に堪えられないこと。ウェルギリウス『カタレプトン』(Catal.) V, 1 にも同様の表現がある: « Jacere me, quod alta non possim, putas, Ut ante, vectari freta, Nec ferre durum frigus, aut aestum pati, Neque arma victoris sequi »。
 
 [3] 265 Dum iaceas in amore tuo, nos bella geremus
 
 [4] 265 Dum jaccas in amore tuo, nos bella gcremus
 
 [6] 265 dum iaceas in amore tuo, nos bella geremus
-- *Iliad* —
+- 『イーリアス』 —
 
 266 scilicet et nostrum fundemus in hoste cruorem.
 
 [2] 265 Scilicet, et nostrum fundemus in hoste cniorem.
-- … In hoste opponitur antecedenti in amore tuo. Caeterum his versibus respexisse auctor videtur Virgilium, Aen. XI, 371, ubi Drances ad Turnum: « Scilicet, ut Turno contingat regia conjux, Nos, animae viles, inhumata infletaque turba, Sternamur campis ». Et auctor orationis Achillis in Parthenone, quam supra dedimus, v. 57: « Scilicet, ut conjux viduo reddatur Atridi, Procumbat vilis Teucrorum victima Achilles ».
+- … *In hoste*（敵を相手に）は、前の *in amore tuo*（お前の愛の中に）に対比されている。なお、これらの詩行において作者はウェルギリウス『アエネーイス』XI, 371 を念頭に置いていたと思われる。そこではドランケースがトゥルヌスに向かって次のように言っている: « Scilicet, ut Turno contingat regia conjux, Nos, animae viles, inhumata infletaque turba, Sternamur campis »。また、我々が上に掲げたパルテノンにおけるアキッレウスの演説の作者も、57 行で次のように言っている: « Scilicet, ut conjux viduo reddatur Atridi, Procumbat vilis Teucrorum victima Achilles »。
 
 [3] 266 Scilicet et nostrum fundemus in hoste cruorem!
 
 [4] 266 Scilicct et nostrum fundemus in hoste cruorem !
 
 [6] 266 scilicet et nostrum fundemus in hoste cruorem.
-- *Iliad* —
+- 『イーリアス』 —
 
 267 Aequius aduersis tecum concurrat in armis
 
@@ -3021,7 +3000,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 267 Acquius ndversis tecum concurrat in armis
 
 [6] 267 aequius adversis tecum concurrat in armis
-- *Iliad* 3.52
+- 『イーリアス』 3.52
 
 268 impiger Atrides, spectet Danaumque Phrygumque
 
@@ -3036,7 +3015,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 269 depositis populus telis. Vos, foedere iuncto,
 
 [2] 268 Depositis telis populus, vos foedere juncto
-- Populus, pro exercitu, ut observavit Barthius, Adv. LIX, 1. Similiter infra v. 280 et 342.
+- *Populus*（民、人々）：*exercitus*（軍隊）の意味で用いられており、バルトが『雑考』(Adv.) LIX, 1 で指摘した通りである。下方の 280 行および 342 行でも同様である。
 
 [3] 269 Depositis populus telis, uos foedere iuncto
 
@@ -3047,7 +3026,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 270 aduersas conferte manus, decernite ferro."
 
 [2] 269 Adversas conferle manus, decernite ferro
-- Conferte manus. Virg. Aen. X, 876; XI, 283.
+- *Conferte manus*（手を交えよ／白兵戦を交えよ）。Virg. Aen. X, 876; XI, 283。
 
 [3] 270 Aduersas conferte manus, decernite ferro.'
 
@@ -3084,7 +3063,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 272 « Quid nimis indignis » inquit « me vocibus urgues,
 
 [6] 272 'quid nimis indignis' inquit 'me vocibus urges,
-- *Iliad* 3.59
+- 『イーリアス』 3.59
 
 273 o patriae, germane, decus? Nam nec mihi coniunx
 
@@ -3099,7 +3078,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 274 prauaque luxuria est potior uirtutis honore
 
 [2] 274 Pronaque luxuria est potior virtutis Iionore,
-- Pronaque luxuria, i. e. facilis et proclivis in Venerem. …
+- *Pronaque luxuria*（そして放縦に傾き）、すなわち愛欲（ウェヌス）に染まりやすく傾きやすいこと。…
 
 [3] 274 Priuaque luxuria est potior uirtutis honore;
 
@@ -3110,7 +3089,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 275 nec uires temptare uiri dextramque recuso,
 
 [2] 275 Nec vires dextramque viri tentare recuso,
-- Dextramque viri tentare, pugnando experiri, quid vis et dextra viri possit. Virg. Aen. II, 334: « vix primi praelia tentant ». … Tacitus, Germ. XXXIV: « Ipsum quin etiam Oceanum tentavimus ». Ovid. Epist. VII, 121: « bellis peregrina et femina tentor ». Sic tentare de molimine ac conatu, ut tentare aequor, vias, et similia. Vid. Burm. adnot. ad Val. Flacc. Argon. I, 529. Ed.
+- *Dextramque viri tentare*（そして勇士の右腕を試すこと）、戦うことによって勇士の武力と右腕に何ができるかを経験してみること。Virg. Aen. II, 334: « vix primi praelia tentant »。…――タキトゥス『ゲルマーニア』(Germ.) XXXIV: « Ipsum quin etiam Oceanum tentavimus »。オウィディウス『書簡詩』(Epist.) VII, 121: « bellis peregrina et femina tentor »。このように *tentare* は企てや試みについて用いられ、*tentare aequor*（海を試みる）、*vias*（道を試みる）などのようである。ウァレリウス・フラックス『アルゴナウティカ』I, 529 へのブルマンの注を参照。パリ編者。
 
 [3] 275 Nec uires temptare uiri dextramque recuso,
 
@@ -3137,8 +3116,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 277 Dicta rcfert Hector; placuit sentcntia Grais.
 
 [6] 277 dicta refert Hector; placuit sententia Grais.
-- *Iliad* 3.76
-- (testimonia) cf. Gesta Ber. 2, 3
+- 『イーリアス』 3.76
+- （証言） 『ベレンガリウスの事績』2, 3 を参照
 
 278 Protinus accitur Priamus sacrisque peractis
 
@@ -3149,12 +3128,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 278 Protinus accitur Priamus, sacrisquc peractis
 
 [6] 278 protinus accitur Priamus sacrisque peractis
-- *Iliad* 3.116
+- 『イーリアス』 3.116
 
 279 foedera iunguntur. Post haec discedit uterque
 
 [2] 279 Foedera junguntur : post haec discedit uterque
-- … Virgilius, Aen. XII, 696, de simili pugna Turni et Aeneae agens: « Discessere omnes medii, spatiumque dedere ». …
+- … ウェルギリウスは『アエネーイス』XII, 696 でトゥルヌスとアエネーアースの同様の一騎打ちを論じて次のように述べる: « Discessere omnes medii, spatiumque dedere »。…
 
 [3] 279 Foedera iunguntur; post haec decedit uterque
 
@@ -3165,7 +3144,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 280 depositis populus telis campusque patescit.
 
 [2] 280 Depositis telis populus, campusque patescit.
-- … Sic Ovid. Met. XII, 147: « positis pars utraque substitit armis ». Virg. Aen. XII, 707: « Armaque deposuere humeris »; et versu 710: « ut vacuo patuerunt aequore campi ».
+- … オウィディウス『変身物語』(Met.) XII, 147 でも同様である: « positis pars utraque substitit armis »。ウェルギリウス『アエネーイス』XII, 707: « Armaque deposuere humeris »；および 710 行: « ut vacuo patuerunt aequore campi »。
 
 [3] 280 Depositis populus telis, campusque patescit.
 
@@ -3182,7 +3161,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 281 Interea toto procedit ab agmine Troum
 
 [6] 281 interea toto procedit ab agmine Troum
-- *Iliad* 3.328
+- 『イーリアス』 3.328
 
 282 pulcher Alexander, clipeoque insignis et hasta.
 
@@ -3203,7 +3182,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 283 Quem contra paribus fulgens Menelaus in armis
 
 [6] 283 quem contra paribus fulgens Menelaus in armis
-- *Iliad* 3.339
+- 『イーリアス』 3.339
 
 284 constitit et: "Tecum mihi sint certamina - dixit -
 
@@ -3214,31 +3193,31 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 284 Constititet « Tecum mihi sint certamina » dixit;
 
 [6] 284 constitit et 'tecum mihi sint certamina' dixit
-- *Iliad* —
+- 『イーリアス』 —
 
 285 "nec longum nostra laetabere coniuge, quae te
 
 [2] 285 Nec longum nostra iaetabere conjuge, quae te
-- Nec longum laetabere. Virgil. Aen. X, 740. Sed totum hoc haustum ex Ovidio, Metam. V, 64: « arcus Arripit, et, Mecum tibi sint certamina, dixit, Nec longum pueri fato laetabere ».
+- *Nec longum laetabere*（お前は長く喜ぶことはないだろう）。ウェルギリウス『アエネーイス』X, 740。しかしこの表現全体はオウィディウス『変身物語』(Metam.) V, 64 から採られたものである: « arcus Arripit, et, Mecum tibi sint certamina, dixit, Nec longum pueri fato laetabere »。
 
 [3] 285 'Nec longum nostra laetabere coniuge, quae te
 
 [4] 285 « Nec longum nostra laetaberc conjuge, quam te
 
 [6] 285 'nec longum nostra laetabere coniuge, quae te
-- *Iliad* —
+- 『イーリアス』 —
 
 286 mox raptum ire gemet, tantummodo Iuppiter adsit."
 
 [2] 286 Mox rapuit regem , tantummodo Jupiter adsit ».
-- **(cont.)** … In Homero auctore est, victorem omnia habiturum. … nec Homero stricte adhaeret semper hic scriptor, nec in eo quidquam tale; sed Jovem ipsum pugnam seu duellum iniens adloquitur Menelaus. …
+- **(cont.)** … 原作者ホメーロスでは、勝利者がすべてを手に入れることになっている。…この作者が常にホメーロスに厳密に従っているわけでもなく、ホメーロスにはそのようなことは何もない。むしろメネラーオスは戦い、すなわち一騎打ちに入るにあたってユピテル自身に祈りかけているのである。…
 
 [3] 286 Mox raptum ire gemet, tantummodo Iuppiter adsit.'
 
 [4] 286 Mox rapuisse gemes, tantummodo Juppiter adsit. »
 
 [6] 286 mox raptum regemet, tantummodo Iuppiter adsit.'
-- *Iliad* —
+- 『イーリアス』 —
 
 287 Dixit et aduersum se concitat acer in hostem.
 
@@ -3259,12 +3238,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 288 Ille virum forti venientem reppulit iclu
 
 [6] 288 ille virum forti venientem reppulit ictu
-- forti uenientem … cf. 434. Verg. Aen. 12, 510 al.
+- forti uenientem … 434行、ウェルギリウス『アエネーイス』12, 510 他を参照
 
 289 seque gradu celeri recipit longeque frementem
 
 [2] 289 Seque gradu celeri recipit, longeque frementem
-- Frementem hastam, quae emissa sonum dat, aera diverberans. …
+- *Frementem hastam*（唸る槍）。放たれて空気を切り裂きながら音を立てる槍のこと。…
 
 [3] 289 Seque gradu celeri recipit longeque frementem
 
@@ -3275,14 +3254,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 290 hastam deinde iacit, quam deuitauit Atrides
 
 [2] 290 Hastam deinde jacit, quam devitavit Atrides,
-- … Secundum Homerum, Il. III, 360, Paris Atridae hastam, non Atrides Paridis, declinavit. Et plura hujus pugnae diverse narrat Noster.
+- … ホメーロス『イーリアス』III, 360 によれば、アトレウスの子の槍をかわしたのはパリスであって、パリスの槍をアトレウスの子がかわしたのではない。われらの作者はこの戦いの多くの点をホメーロスと異なって語っている。
 
 [3] 290 Hastam deinde iacit, quam deuitauit Atrides.
 
 [4] 290 Hastam deinde jacit, quam devitavit Atrides.
 
 [6] 290 hastam deinde iacit; quam devitavit Atrides
-- *Iliad* 3.346
+- 『イーリアス』 3.346
 
 291 inque uicem misso fixisset corpora telo
 
@@ -3297,7 +3276,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 292 praedonis Phrygii, ni uastum ferrea pectus
 
 [2] 292 Praedonis Phrygii, nisi vastum ferrea corpus
-- Praedonis Phrygii. Frequens praedonis convicium in adulteros et raptores puellarum, sigillatim in Paridem, propter raptum Helenae, ut apud Stat. Achill. I, 45, et in Aeneam, propter Laviniam, apud Virg. Aeneid. VII, 362: « Perfidus alta petens, abducta virgine, praedo »; et Aen. XI, 484, ubi « Phrygius praedo » audit. Pluto ob raptum Proserpinae sic dicitur apud Ovid. Met. V, 521; Fast. IV, 591. …
+- *Praedonis Phrygii*（フリュギアの略奪者の）。姦通者や娘の略奪者に対する *praedo*（強盗、略奪者）という罵倒は頻繁に見られ、とりわけヘレネーの略奪ゆえにパリスに対して（スタティウス『アキレイス』I, 45）、またラーウィーニアのゆえにアエネーアースに対して用いられる。ウェルギリウス『アエネーイス』VII, 362: « Perfidus alta petens, abducta virgine, praedo »；および同 XI, 484 では « Phrygius praedo » と呼ばれている。プルートーもプロセルピナの略奪ゆえに、オウィディウスの Met. V, 521 や Fast. IV, 591 でこのように呼ばれている。…
 
 [3] 292 Praedonis Phrygii, ni uastum ferrea pectus
 
@@ -3308,7 +3287,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 293 texisset lorica uiri septemplice tergo.
 
 [2] 293 Texisset lorica viri septemplice tergo.
-- Septemplice tergo, quae septem coriis inducta et munita erat. Alias septemplices clypei heroibus tribui solent. Virg. Aen. XII, 925; Ovid. Met. XIII, 2 et 347.
+- *Septemplice tergo*（七重の革の）：七枚の牛革で覆われ防御されていたもの。他の箇所でも七重の盾は英雄たちに帰せられるのが通例である。ウェルギリウス『アエネーイス』XII, 925；オウィディウス『変身物語』XIII, 2 および 347。
 
 [3] 293 Texisset lorica uiri septemplice tergo.
 
@@ -3325,19 +3304,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 294 Insequitur clamor; tum vero adversus uterque
 
 [6] 294 insequitur iuxta clamor; tum adversus uterque
-- *Iliad* —
+- 『イーリアス』 —
 
 295 constitit et galeam galea terit et pede plantam
 
 [2] 295 Constitit, et galea galeam terit, et pede plantam
-- Constitit, et galea galeam ferit. Cl. Bondamius l. c. pag. 153 putat auctoris haec scribentis animo obversata esse haec Ovidiana, Met. IX, 43: « eratque Cum pede pes junctus: totoque ego pectore pronus, Et digitos digitis, et frontem fronte premebam ». Et sane hic, ut in aliis locis, apparet captata ab auctore occasio imitandi Ovidii, quum ipsa Homeri narratio talia non suggesserit.
+- *Constitit, et galea galeam ferit*（立ち止まり、兜が兜を打つ）。名高きボンダムは前掲書 153 頁で、作者がこれを書く際にオウィディウスの次の詩行（Met. IX, 43）を心に思い浮かべていたと考えている: « eratque Cum pede pes junctus: totoque ego pectore pronus, Et digitos digitis, et frontem fronte premebam »。そして確かにここでも、他の箇所と同様に、作者がオウィディウスを模倣する好機を捉えていることが明らかである。ホメーロス自身の物語はそのような描写を示唆していないからである。
 
 [3] 295 Constitit et galeam galea terit et pede plantam
 
 [4] 295 Constitit et galeam galea terit et pede plantam
 
 [6] 295 constitit et galeam galea terit et pede plantam
-- *Iliad* —
+- 『イーリアス』 —
 
 296 coniungit stridetque mucro mucrone corusco;
 
@@ -3348,32 +3327,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 296 Conjungit, stridetque mucro mucrone corusco.
 
 [6] 296 coniungit, stridetque mucro mucrone corusco,
-- *Iliad* —
+- 『イーリアス』 —
 
 297 corpus collectum tegitur fulgentibus armis.
 
 [2] 297 Corpus collectum tegitur fulgentibus armis.
-- Corpus collectum, i. e. intra clypeum reductum et clausum. Virg. Aen. XII, 491: « Substitit Aeneas, et se collegit in arma »; et X, 412, « seque in sua colligit arma ». … — Conf. Cuperus, Observ. lib. I, cap. 12, p. 90. Ed.
+- *Corpus collectum*（身を縮めて）、すなわち盾の内側に身を引き隠すこと。Virg. Aen. XII, 491: « Substitit Aeneas, et se collegit in arma »；および X, 412: « seque in sua colligit arma »。…――キュペル『観察録』(Observ.) 第I巻12章、90頁を参照。パリ編者。
 
 [3] [297] [Corpus collectum tegitur fulgentibus armis.]
 
 [4] 297 below Corpus collectum tegilur fulgentibus armis
 
 [6] 297 corpus collectum tegitur fulgentibus armis.
-- *Iliad* —
-- … cf. Verg. Aen. 12, 491 et 10, 412; armis i. scuto
+- 『イーリアス』 —
+- … ウェルギリウス『アエネーイス』12, 491 および 10, 412 を参照; armis すなわち盾
 
 298 Non aliter fortes nitida de coniuge tauri
 
 [2] 298 !Non aliter fortes nitida pro conjuge tauri
-- Non aliter fortes. Haec comparatio plane ab Ovidio petita, qui Met. IX, 46, post verba superius adlegata, pergit: « Non aliter fortes vidi concurrere tauros, Quum pretium pugnae, toto nitidissima saltu Expetitur conjux ».
+- *Non aliter fortes*（勇猛な……も同様である）。この直喩は明らかにオウィディウスから採られたものであり、彼は Met. IX, 46 で、上に引用した言葉に続けて次のように述べている: « Non aliter fortes vidi concurrere tauros, Quum pretium pugnae, toto nitidissima saltu Expetitur conjux »。
 
 [3] 298 Non aliter fortes nitida de coniuge tauri
 
 [4] 298 Non aliter forles nitida de conjuge tauri
 
 [6] 298 non aliter fortes nitida de coniuge tauri
-- *Iliad* —
+- 『イーリアス』 —
 
 299 bella gerunt uastisque replent mugitibus auras.
 
@@ -3384,19 +3363,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 299 Bella gerunt vastisque replent nmgitibus auras.
 
 [6] 299 bella gerunt vastisque replent mugitibus auras.
-- *Iliad* —
+- 『イーリアス』 —
 
 300 Atque diu rigido captabant corpora ferro,
 
 [2] 300 Jamque diu rigido captabant corpora ferro ;
-- … Captabant pectora, i. e. locum opportunum vulnerandi corporis. — Sic apud Virgilium, Aen. XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis ». Ed. …
+- … *Captabant pectora*（胸を狙っていた）、すなわち身体を傷つけるのに都合のよい場所を狙うこと。――ウェルギリウス『アエネーイス』XII, 920 においても同様である: « telum Aeneas fatale coruscat, Sortitus fortunam oculis »。パリ編者。…
 
 [3] 300 Utque diu rigido captabant corpora ferro,
 
 [4] 300 Jamque diu rigido captarant corpora fcrro,
 
 [6] 300 atque diu rigido rimabant corpora ferro,
-- *Iliad* —
+- 『イーリアス』 —
 
 301 cum memor Atrides raptae sibi coniugis instat
 
@@ -3407,7 +3386,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 301 Cum memor Atrides raptae sibi conjugis instat
 
 [6] 301 cum memor Atrides raptae sibi coniugis instat
-- *Iliad* —
+- 『イーリアス』 —
 
 302 Dardaniumque premit iuuenem. Mox ense rigente
 
@@ -3418,8 +3397,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 302 Dardaniumque premit juvenem mox ense rigentc ;
 
 [6] 302 Dardaniumque premit iuvenem. mox ense rigente
-- *Iliad* 3.361
-- male post iuvenem non distinguebant editiones recentes
+- 『イーリアス』 3.361
+- 近年の刊本は誤って iuvenem の後に句読点を打たなかった
 
 303 cedentem retro dum desuper appetit hostem,
 
@@ -3444,14 +3423,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 305 dissiluit mucro; gemuerunt agmina Graium.
 
 [2] 305 Dissiluit mucro : gemuerunt agmina Graium.
-- … et ipse Noster infra integro versu 968 repetit, habetque ex imitatione Virgilii, qui eumdem casum Turni memorans, Aen. XII, 741: « Mortalis mucro, glacies seu futilis, ictu Dissiluit »; et Ovid. Metam. V, 171 seq. « Non circumspectis exactum viribus ensem Fregit, et extrema percussae parte columnae Lamina dissiluit; dominique in gutture fixa est ».
+- … われらの作者自身も下方の 968 行で詩行全体としてこれを繰り返している。そしてこれはウェルギリウスの模倣から得たものであり、ウェルギリウスはトゥルヌスの同様の不運を記して『アエネーイス』XII, 741 で次のように述べている: « Mortalis mucro, glacies seu futilis, ictu Dissiluit »。オウィディウス『変身物語』V, 171 以下も同様である: « Non circumspectis exactum viribus ensem Fregit, et extrema percussae parte columnae Lamina dissiluit; dominique in gutture fixa est »。
 
 [3] 305 Dissiluit mucro; gemuerunt agmina Graium.
 
 [4] 305 Dissiluit mucro; gemuerunt agmina Grajum.
 
 [6] 305 dissiluit mucro; gemuerunt agmina Graium.
-- Dis(s)iluit … cf. Verg. Aen. 12, 741
+- Dis(s)iluit … ウェルギリウス『アエネーイス』12, 741 を参照
 
 306 Tum uero ardescit, quamuis manus ense carebat,
 
@@ -3472,14 +3451,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 307 Et juvenem arrepta prosternit casside victor
 
 [6] 307 et iuvenem arrepta prosternit casside victor
-- *Iliad* 3.369
+- 『イーリアス』 3.369
 
 308 ad socios traheretque, et, ni caligine caeca
 
 [2] 308 Ad socios traheretque , nisi caligine csca
 
 [3] 308 Ad sociosque trahit; et ni caligine caeca
-- … de producta in trahit ultima cf. 257 et 966
+- … trahit における末尾音節の長母音化については 257 および 966 を参照
 
 [4] 308 Ad sociosque trahit, etni caligine caeca
 
@@ -3504,7 +3483,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 310 Fortia laxatis rupisset vincula nodis,
 
 [6] 310 fortia rupisset laxatis vincula nodis,
-- *Iliad* 3.375
+- 『イーリアス』 3.375
 
 311 ultimus ille dies Paridi foret. Abstrahit auro
 
@@ -3535,24 +3514,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 313 In medios mittit proceres rursusque recurrit
 
 [6] 313 in medios mittit proceres rursumque recurrit
-- *Iliad* 3.377
+- 『イーリアス』 3.377
 
 314 et magnam ualidis contorsit uiribus hastam
 
 [2] 314 Et magnam validis contorsit viribus hastam
-- Contorsit viribus hastam, sunt verba Maronis, Aen. II, 50.
+- *Contorsit viribus hastam*（渾身の力で槍を投げつけた）は、ウェルギリウス『アエネーイス』II, 50 の言葉である。
 
 [3] 314 Et magnam ualidis contorsit uiribus hastam
 
 [4] 314 Et magnam validis contorsit viribus hastam
 
 [6] 314 et magnam validis contorsit viribus hastam
-- *Iliad* 3.379
+- 『イーリアス』 3.379
 
 315 in cladem Phrygii, sua quem Venus eripit hosti
 
 [2] 315 In ciadem Phrygii; sua quem Yenus eripit hosti,
-- Sua quem Venus. Erat enim assiduus ejus cultor Alexander, unde suam appellavit. Sic sua numina aequori addita ait v. 877: « Addideratque freto sua numina, Nerea magnum ». Venus autem ipsa sibi addictum Paridem commendat Helenae apud Homerum, postquam manibus Menelai eripuit. Barth. Adv. LIX, 1. Pronomine suus saepe faventem, aptum et utilem significari, neminem fugit in lectione Romanorum scriptorum versatum, ut hoc pluribus exemplis docere superfluum sit. Horat. Epod. 9, 30, « Cretam ventis iturus non suis ».
+- *Sua quem Venus*（彼自身のウェヌスが……彼を）。なぜならアレクサンデル（パリス）は彼女の熱心な信奉者であり、それゆえ彼自身の神と呼んだのである。同様に 877 行でも、海自身の神々が海に加えられたとして次のように言っている: « Addideratque freto sua numina, Nerea magnum »。またホメーロスにおいても、ウェヌス自身がパリスをメネラーオスの手から救い出した後、自分に献身する彼をヘレネーに推薦している。バルト『雑考』(Adv.) LIX, 1。代名詞 *suus* が「好意的な、都合のよい、有益な」を意味することがしばしばあるのは、ローマの作家の読書に親しんだ者なら誰もが知るところであり、これをより多くの例引で示すのは余計なことであろう。ホラーティウス『エポードス』9, 30: « Cretam ventis iturus non suis »。
 
 [3] 315 In cladem Phrygii, sua quem Uenus eripit hosti
 
@@ -3563,15 +3542,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 316 et secum in thalamos defert testudine cultos.
 
 [2] 316 Et secum in thalamos defert testudine cultos :
-- … Barthius ex hoc loco observat, scriptorem nostrum non solere, quod alii poetae faciant, ob sequentes literas sc vel st syllabam praecedentem longam facere, affertque aliud exemplum e Nostro, vs. 791, Promachum quoque sternit atrocem. Ego vero fieri hoc rarissime a bonis poetis arbitror, nisi media in voce. Exemplum habes Virg. Aen. VI, 687, ubi tamen et variat lectio. … propter consuetam Nostro imitationem Nasonis, qui Met. II, 737: « Pars secreta domus ebore et testudine cultos Tres habuit thalamos ». Caeterum thalamos testudineos dixit Noster non ad mentem Homeri, et morem aevi heroici, sed luxuriae recentioris. Neque in hoc Homeri loco, III, 390, ubi et thalami memoratur, nulla indicatur materia. At Plinius, lib. IX, sect. 13, memorat, « testudinum putamina secare in laminas, lectosque et repositoria his vestire » primum a Cornelio Pollione Romae institutum, qui circa Syllana tempora vixit. Ante haec tempora, ut cum Juvenale, XI, 93, loquar, « Nemo inter curas et seria duxit habendum, Qualis in Oceani fluctu testudo na-
-- **(cont.)** taret, Clarum Trojugenis factura ac nobile fulcrum ». Virgil. dicit varios pulchra testudine postes Georg. II, 453. — Testudineum lectum vidimus huj. op. tomo II, pag. 460, cui loco addi potest Martial. XII, 66: « Gemmantes prima fulgent testudine lecti ». Ed.
+- … バルトはこの箇所から、われらの作者は他の詩人たちのように後続する文字 *sc* や *st* のために先行する音節を長音化することを常としないと指摘し、われらの作者からの別の例として 791 行の *Promachum quoque sternit atrocem* を挙げている。しかし私としては、優れた詩人たちにおいてこれがなされるのは、語の途中にある場合を除けば極めて稀であると考える。ウェルギリウス『アエネーイス』VI, 687 に例があるが、そこでも異読がある。…なぜならわれらの作者が好んでオウィディウスを模倣しており、オウィディウスは Met. II, 737 で次のように述べているからである: « Pars secreta domus ebore et testudine cultos Tres habuit thalamos »。なお、われらの作者が鼈甲（べっこう）張りの寝室（*thalamos testudineos*）と述べたのは、ホメーロスの趣旨や英雄時代の習俗に従ったのではなく、より新しい時代の贅沢によるものである。ホメーロスのこの箇所（III, 390）でも寝室に言及されているが、何の素材も示されていない。しかしプリニウスは第 IX 巻第 13 節で、「亀の甲羅を薄板に切り、寝台や戸棚をこれで覆うこと」は、スッラの時代前後に生きたコルネリウス・ポッリオによってローマで最初に始められたと記している。この時代以前には、ユウェナーリス（XI, 93）の言葉を借りるなら、« Nemo inter curas et seria duxit habendum, Qualis in Oceani fluctu testudo na-
+- **(cont.)** （前頁からの続き）[-taret, Clarum Trojugenis factura ac nobile fulcrum »]。ウェルギリウスは『農耕詩』(Georg.) II, 463 で *varios pulchra testudine postes*（美しい鼈甲で彩られた扉の柱）と言っている。――鼈甲張りの寝台（*testudineum lectum*）については本書第 II 巻 460 頁で見たが、その箇所にマルティアリス XII, 66 [67] を補うことができる: « Gemmantes prima fulgent testudine lecti »。パリ編者。
 
 [3] 316 Et secum in thalamos defert testudine cultos.
 
 [4] 316 Ac secum in thalamos defert testudine cultos.
 
 [6] 316 et secum in thalamos defert testudine cultos.
-- … cultos … cf. Ov. met. 2, 737
+- … cultos … オウィディウス『変身物語』2, 737 を参照
 
 317 Ipsa dehinc Helenam muris accersit ab altis
 
@@ -3582,7 +3561,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 317 Ipsa dehinc Helenam muris arcessit ab altis
 
 [6] 317 ipsa dehinc Helenam muris accersit ab altis
-- *Iliad* 3.383
+- 『イーリアス』 3.383
 
 318 Dardanioque suos Paridi deducit amores.
 
@@ -3613,12 +3592,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 320 « Yenisti, mea flamma, Paris, superatus ab armis
 
 [6] 320 'venisti, mea flamma, Paris, superatus ab armis
-- *Iliad* 3.428
+- 『イーリアス』 3.428
 
 321 coniugis antiqui? Vidi puduitque uidere,
 
 [2] 321 Conjugis antiqui : vidi, puduilque videre,
-- Vidi puduitque videre. Et hoc hemistichium Bondamius, p. 154, monet esse Ovidii, Met. XIII, 223, ubi Ulysses ad Ajacem: « Vidi, puduitque videre, Quum tu terga dares ». Et hunc librum, quo contentio Ulyssis et Ajacis de armis Achillis, et praecipuae res bello Trojano gestae, summatim exponuntur, inprimis respexisse auctorem nostrum in scribenda Epitome, plurimasque inde sententias mutuatum esse, facile videbit, qui diligentius ista excutiet et comparabit.
+- *Vidi puduitque videre*（私は見た、そして見るのを恥じた）。ボンダムは 154 頁で、この半行もオウィディウス『変身物語』XIII, 223 のものであると指摘している。そこではオデュッセウスがアイアースに向かって次のように言っている: « Vidi, puduitque videre, Quum tu terga dares »。そして、アキッレウスの武具をめぐるオデュッセウスとアイアースの争論やトロイア戦争における主要な出来事が要約して述べられているこの第 XIII 巻を、われらの作者が『梗概』(*Epitome*) を著すにあたってとりわけ念頭に置き、そこからきわめて多くの詩句を借用したことは、これらをより注意深く検討し比較する者には容易に見て取れるであろう。
 
 [3] 321 Coniugis antiqui? uidi puduitque uidere,
 
@@ -3639,7 +3618,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 323 Iliacoque tuos foedaret puluere crines.
 
 [2] 323 Iliacoque tuos foedaret pulvere crines :
-- Pulvere crines. Virg. Aeneid. XII, 99; Ovid. Metam. VIII, 529.
+- *Pulvere crines*（髪を塵で［汚す］）。Virg. Aeneid. XII, 99; Ovid. Metam. VIII, 529。
 
 [3] 323 Iliacoque tuos foedaret puluere crines.
 
@@ -3660,7 +3639,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 325 oscula discuteret; totus mihi, mente reuincta,
 
 [2] 325 Oscula discuteret : totus mihi mente relicta
-- Discuteret, uti « consilia hostium discutere » Frontin. IV, 7, 31; et « discutere dolos » Sil. Ital. VII, 153, e correctione Drakenborchii, dixit. …
+- *Discuteret*（打ち砕く、追い払う）：フロンティーヌスが IV, 7, 31 で « consilia hostium discutere »（敵の計略を打ち破る）と言い、シリウス・イタリクス VII, 153（ドラケンボルヒの校訂による）で « discutere dolos »（奸策を打ち破る）と言っているのと同様である。…
 
 [3] 325 Oscula dissiceret; toto mihi mente reuincta
 
@@ -3671,7 +3650,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 326 fugerat ore color sanguisque reliquerat artus.
 
 [2] 326 Fugerat ore coior, sanguisque reliquerat artus.
-- Fugerat ore color. Et hoc hemistichium Ovidii, Her. XI, 27. …
+- *Fugerat ore color*（顔から色が失われていた）。この半行もオウィディウス『求愛書簡』(Her.) XI, 27 のものである。…
 
 [3] 326 Fugerat ore color, sanguisque reliquerat artus.
 
@@ -3692,7 +3671,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 328 An nondum uaga fama tuas peruenit ad aures
 
 [2] 328 An nondum vaga fama tuas pervenit ad aures
-- … — Pervenit ad aures. Sic Ovidius, Met. V, 256: « Fama novi fontis nostras pervenit ad aures »; et Virg. Aen. II, 81, « Fando aliquid, si forte tuas pervenit ad aures ». Ed.
+- … ――*Pervenit ad aures*（耳に届いた）。オウィディウス『変身物語』V, 256: « Fama novi fontis nostras pervenit ad aures »；およびウェルギリウス『アエネーイス』II, 81: « Fando aliquid, si forte tuas pervenit ad aures »。パリ編者。
 
 [3] 328 An nondum uaga fama tuas peruenit ad aures
 
@@ -3739,7 +3718,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 332 Trislis Alexander « Non me superavit Atrides,
 
 [6] 332 tristis Alexander 'non me superavit Atrides,
-- *Iliad* 3.438
+- 『イーリアス』 3.438
 
 333 o meus ardor" - ait - "sed castae Palladis ira.
 
@@ -3774,19 +3753,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 336 Post haec amplexus per mutua corpora iunctis
 
 [2] 336 Post haec ampiexu per mutua corpora juncto
-- … Non est dubium, scriptorem his versibus respexisse notum locum Maronis, Aeneid. VIII, 405: « Optatos dedit amplexus, placidumque petivit Conjugis infusus gremio per membra soporem ».
+- … 作者がこれらの詩行においてマロー（ウェルギリウス）のよく知られた箇所、Aeneid. VIII, 405: « Optatos dedit amplexus, placidumque petivit Conjugis infusus gremio per membra soporem » を念頭に置いていたことは疑いようがない。
 
 [3] 336 Post haec amplexu per mutua corpora iuncto
 
 [4] 336 Post hacc amplexu pcr mutua corpora juncto
 
 [6] 336 post haec amplexus per mutua corpora iunctis
-- *Iliad* 3.447
+- 『イーリアス』 3.447
 
 337 incubuit membris Cygneidos; illa soluto
 
 [2] 337 Incubuit membris Cygneidos; illa soluto
-- … Cygneis autem Helena nuncupatur, quod filia Jovis in cygnum conversi credebatur: illud nomen nescio, an alius poeta usurpaverit, quamquam « cygneo edita Tyndaris ovo » dicitur a Virg. Eleg. ad Messal. 27, et ipsa Helena apud Ovid. Her. XVII, 55: « Dat mihi Leda Jovem, cygno decepta, parentem ».
+- … ところでヘレネーが *Cygneis* と呼ばれるのは、白鳥に変じたユピテルの娘と信じられていたからである。その名前を他の詩人が用いたかどうかは私は知らないが、もっともウェルギリウス（伝）の Eleg. ad Messal. 27 では「白鳥の卵から生まれたティンダレオス家の娘」« cygneo edita Tyndaris ovo » と言われており、オウィディウスの Her. XVII, 55 でもヘレネー自身が « Dat mihi Leda Jovem, cygno decepta, parentem » と述べている。
 
 [3] 337 Incubuit membris Cygneidos; illa soluto
 
@@ -3797,14 +3776,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 338 accepit flammas gremio Troiaeque suasque.
 
 [2] 338 Accepit flammas gremio Trojaeque, suasque.
-- Flammas Trojaeque suasque. Acute de Paride, cujus amor in Helenam exitium Trojae futurus erat. Videtur et hoc dictum eo loco epistolae Paridis apud Ovidium niti, Heroid. XVI, 45 seq. quo Paris somnium matris suae, quae ante diem partus visa erat facem ardentem parere, de ardore animi sui Trojae exitioso interpretatur: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei ».
+- *Flammas Trojaeque suasque*（トロイアの炎と彼自身の炎）。ヘレネーへの愛がトロイアの破滅となる運命にあったパリスについて、機知に富んだ表現である。この言辞もまた、オウィディウスの『名婦の書簡』(Heroid.) XVI, 45 以下のパリスの書簡の箇所に基づいているように思われる。そこではパリスが、出産の日を前に燃え盛る松明を産む夢を見た母親の夢を、トロイアに破滅をもたらす自らの胸の熱情と解釈している: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei »。
 
 [3] 338 Accepit flammas gremio Troiaeque suasque.
 
 [4] 338 Accepit flammas gremio Trojaeque suasquc.
 
 [6] 338 accepit flammas gremio Troiaeque suasque.
-- *Iliad* —
+- 『イーリアス』 —
 
 339 Interea toto Menelaus in agmine Troum
 
@@ -3815,7 +3794,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 339 Interea toto Menelaus in agminc Troum
 
 [6] 339 interea toto Menelaus in agmine Troum
-- *Iliad* 3.449
+- 『イーリアス』 3.449
 
 340 quaerit Alexandrum uictorque huc fertur et illuc.
 
@@ -3836,7 +3815,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 341 Qucm frater socias acuens in bella catervas
 
 [6] 341 quem frater socias acuens in bella catervas
-- *Iliad* 3.455
+- 『イーリアス』 3.455
 
 342 adiuuat et forti pulsos Phrygas increpat ore
 
@@ -3863,15 +3842,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 344 Dumque inter sese proceres certamen haberent,
 
 [2] 344 IV. Quumque inter sese proceres certamen haberent ,
-- Certamen haberent. Phrasis
-- **(cont.)** non satis digna poetico stylo videtur, et quae sequente versu occurrit, concilium habuit, insuavis repetitio est. Nec ista satis defendi videtur versu Nasonis, Met. XIII, 159: « Ergo operum quoniam nudum certamen habetur ».
+- *Certamen haberent*（勝負を行うように）。この言い回しは
+- **(cont.)** （前頁からの続き）詩的文体に十分ふさわしいとは思われず、次の詩行に現れる *concilium habuit*（集会を開いた）という表現も不快な重複である。そしてオウィディウスの Met. XIII, 159 の詩行 « Ergo operum quoniam nudum certamen habetur » によっても十分に弁護されるとは思われない。
 
 [3] 344 Cumque inter sese proceres certamen haberent,
 
 [4] 344 Cumquo inter sese proceres certamen haberent,
 
 [6] 344 dumque inter sese proceres certamen haberent,
-- *Iliad* 4.1
+- 『イーリアス』 4.1
 
 345 concilium omnipotens habuit regnator Olympi
 
@@ -3886,19 +3865,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 346 foederaque intento turbauit Pandarus arcu,
 
 [2] 346 Foedcraque intento turbavit Pandarus arcu,
-- … exhibet. Virgilius verbo confundere usus est, Homericum συγχέειν aptius exprimens, Aen. V, 496: « Pandare, qui quondam jussus confundere foedus, In medios telum torsisti primus Achivos ».
+- … ウェルギリウスは動詞 *confundere* を用いてホメーロスの συγχέειν をより適切に表現している（Aen. V, 496: « Pandare, qui quondam jussus confundere foedus, In medios telum torsisti primus Achivos »）。
 
 [3] 346 Foederaque intento turbauit Pandarus arcu,
 
 [4] 346 Foederaque intento turbavit Pandarus arcu,
 
 [6] 346 foederaque intento turbavit Pandarus arcu,
-- *Iliad* 4.124
+- 『イーリアス』 4.124
 
 347 te, Menelae, petens; laterique uolatile telum
 
 [2] 347 Te, Menelae, petens, laterique volatile telum
-- Volatile telum ex Virg. Aen. IV, 71, et Ovid. Metam. VII, 841. …
+- *Volatile telum*（飛ぶ矢/飛び道具）は Virg. Aen. IV, 71 および Ovid. Metam. VII, 841 より。…
 
 [3] 347 Te, Menelae, petens; laterique uolatile telum
 
@@ -3915,19 +3894,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 348 Incidit et tunicam ferro squamisque rigentem
 
 [6] 348 incidit et tunicam ferro squamisque rigentem
-- *Iliad* 4.135
+- 『イーリアス』 4.135
 
 349 dissecat. Excedit pugna gemebundus Atrides
 
 [2] 349 Dissecat : excedit bello gemebundus Atrides,
-- … Verbum dissecare hac in re minus usitatum aliis poetis, qui rumpere et lacerare solent adhibere. Vid. Virg. Aeneid. XII, 98; Ovid. Met. XII, 117.
+- … この事柄において *dissecare* という動詞は他の詩人にはあまり用いられず、彼らは通常 *rumpere* や *lacerare* を用いる。Virg. Aeneid. XII, 98；Ovid. Met. XII, 117 を参照。
 
 [3] 349 Dissecat: excedit pugna tremebundus Atrides
 
 [4] 349 Dissecat : excedit pugna gemebundus Atrides
 
 [6] 349 dissecat: excedit pugna gemebundus Atrides
-- *Iliad* 4.150
+- 『イーリアス』 4.150
 
 350 castraque tuta petit, quem doctus ab arte paterna
 
@@ -3942,26 +3921,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 351 Paeoniis curat iuuenis Podalirius herbis,
 
 [2] 351 Paeoniis curat juvenis Podalirius herbis,
-- … — Paeoniis herbis ex Virgilii Aen. VII, 769. Podalirium hic nominat Noster curantem vulnus Menelai, sed Homerus Machaonem, IV, 193. — Podalirii mentio supra videatur, v. 217. Ed.
+- … ――*Paeoniis herbis*（パイオーンの薬草で）はウェルギリウスの Aen. VII, 769 から取られている。われらの詩人はここでメネラーオスの傷を手当てする者としてポダレイリオスを挙げているが、ホメーロスではマカーオーンである（IV, 193）。――ポダレイリオスへの言及については上掲 217 行を見よ。パリ編者。
 
 [3] 351 Paeoniis curat iuuenis Podalirius herbis;
 
 [4] 351 Paeoniis curat juvenis Podalirius lierbis
 
 [6] 351 Paeoniis curat iuvenis Podalirius herbis
-- *Iliad* 4.213
+- 『イーリアス』 4.213
 
 352 itque iterum in caedes horrendaque proelia uictor.
 
 [2] 352 Atque iterum in caedes horrendaque praelia niittit.
-- Atque iterum in caedes ..... mittit. Virg. de Aenea, post sanatum ejus vulnus, Aen. XII, 429: « atque opera ad majora remittit ». …
+- *Atque iterum in caedes ..... mittit*（そして再び……を殺戮へと送り出す）。ウェルギリウスはアイネイアースについて、その傷が癒えた後、Aen. XII, 429 で « atque opera ad majora remittit » と述べている。…
 
 [3] 352 Atque iterum in caedes horrendaque praelia uisit.
 
 [4] 352 Atquc iterum in caedes horrendaque proelia mittit.
 
 [6] 352 itque iterum in caedes horrendaque proelia victor.
-- *Iliad* —
+- 『イーリアス』 —
 
 353 Armauit fortes Agamemnonis ira Pelasgos
 
@@ -3972,12 +3951,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 353 Armavit fortes Agamemnonis ira Pelasgos,
 
 [6] 353 armavit fortes Agamemnonis ira Pelasgos
-- *Iliad* 4.223
+- 『イーリアス』 4.223
 
 354 et dolor in pugnam cunctos communis agebat.
 
 [2] 354 Et dolor in pugnam cunctos comnuinis agebat.
-- Et dolor in pugnam. Sic Virg. Aen. VIII, 500: « quos justus in hostem Fert dolor, et merita incendit Mezentius ira ».
+- *Et dolor in pugnam*（そして悲憤が戦いへと［駆り立てる］）。同様に Virg. Aen. VIII, 500: « quos justus in hostem Fert dolor, et merita incendit Mezentius ira »。
 
 [3] 354 Et dolor in pugnam cunctos communis agebat.
 
@@ -3990,18 +3969,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 355 Bellum ingens oritur, multumque Utrimque cmoris
 
 [3] 355 Bellum ingens oritur, multumque utrimque cruoris
-- **355 sq.** habent Gesta Bereng. II 180 sq.
+- **355 sq.** 『ベレンガリウス事績録』II 180 以下が有する
 
 [4] 355 Bellum mgons oritur, multumque utrimque' cruoris
 
 [6] 355 bellum ingens oritur multumque utrimque cruoris
-- *Iliad* 4.446
-- **355/6** (testimonia) = Gesta Ber. 2, 180/1 (multum hinc illincque)
+- 『イーリアス』 4.446
+- **355/6** （証言） = 『ベレンガリウスの事績』2, 180/1 (*multum hinc illincque*)
 
 356 funditur et totis sternuntur corpora campis
 
 [2] 356 Funditur, et totis stemuntur corpora campis,
-- Sternuntur corpora campis. Virg. Aen. II, 364: « Plurima perque vias sternuntur inertia passim Corpora ».
+- *Sternuntur corpora campis*（野原に屍が打ち倒される）。Virg. Aen. II, 364: « Plurima perque vias sternuntur inertia passim Corpora »。
 
 [3] 356 Funditur et totis sternuntur corpora campis;
 
@@ -4018,7 +3997,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 357 Inque vicem Troumque cadunt Danaumque catervae.
 
 [6] 357 inque vicem Troumque cadunt Danaumque catervae.
-- *Iliad* 4.451
+- 『イーリアス』 4.451
 
 358 nec requies datur ulla uiris: sonat undique Mauors
 
@@ -4033,7 +4012,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 359 telorumque uolant cunctis e partibus imbres.
 
 [2] 359 Telorumque volat cunctis de partibus imber.
-- … Virg. Aen. XII, 283: « it toto turbida caelo Tempestas telorum, ac ferreus ingruit imber ». — Reciproca metaphora pharetratos imbres seu nubes dixit Avianus, fab. XLI, v. 16. Conf. Nostri v. 746. Ed.
+- … Virg. Aen. XII, 283: « it toto turbida caelo Tempestas telorum, ac ferreus ingruit imber »。――逆の隠喩によって、アウィアーヌスは『寓話』XLI, 16 で矢筒を帯びた雨あるいは雲（*pharetratos imbres seu nubes*）と呼んでいる。われらの詩人の 746 行を比較せよ。パリ編者。
 
 [3] 359 Telorumque uolant cunctis e partibus imbres.
 
@@ -4044,14 +4023,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 360 Occidit Antilochi rigido demersus in umbras
 
 [2] 360 Occidit Antilochi rigido demissus ad umbras
-- … Caeterum Antilochus vitiosum sit necesse est, quia e Graecis Antilochus, et hoc loco de Trojanorum caede sermo est. Recte igitur censuit Bondamius, pag. 154 emendans: « Occidit Antilochi rigido demersus in umbra Ense Thalysiades »; nempe Echepolus, ex Homeri Iliad. IV, 458. Idque confirmat cod. H. qui scribit Ense Thalacides. G. 2 Chalestiades.
+- … なお、*Antilochus* は必然的に誤りでなければならない。なぜならアンティロコスはギリシア勢の側であり、この箇所ではトロイア勢の殺戮について語られているからである。したがってボンダムが 154 頁で « Occidit Antilochi rigido demersus in umbra Ense Thalysiades »（タリーシアの子がアンティロコスの冷たい剣に倒れ、冥府へと落とされた）と校訂したのは正当であった。すなわちホメーロスの『イーリアス』IV, 458 に見えるエケポーロスである。そしてこのことは、*Ense Thalacides* と記す写本 H. によって確証される。G. 2 は *Chalestiades* とする。
 
 [3] 360 Occidit Antilochi rigido demersus ad umbras
 
 [4] 360 Occidit Antilochi rigido demissus ad umbras
 
 [6] 360 occidit Antilochi rigido demersus in umbras
-- *Iliad* 4.457
+- 『イーリアス』 4.457
 
 361 ense Thalysiades optataque lumina linquit.
 
@@ -4060,7 +4039,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 361 Ense Thalysiades optataque lumina linquit.
 
 [4] 361 Ense Thalysiades optataque lumina linquit.
-- Thalysiades … (Iliad. IV, 458).
+- Thalysiades …（『イーリアス』IV, 458）。
 
 [6] 361 ense Thalysiades optataque lumina linquit.
 
@@ -4073,24 +4052,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 362 Inde manu iorti Grajorum terga prementem
 
 [6] 362 inde manu forti Graiorum terga prementem
-- *Iliad* 4.473
+- 『イーリアス』 4.473
 
 363 occupat Anthemione satum Telamonius Aiax
 
 [2] 363 Occupat Anthemione satum Telamonius Ajax ,
-- … ex Il. IV, 473, correxit Anthemione satum.
+- … ボンダムが『イーリアス』IV, 473 に基づいて *Anthemione satum*（アンテミオーンの御子）と訂正した。
 
 [3] 363 Occupat Anthemione satum Telamonius Aiax
 
 [4] 363 Occupat Anthemione satum Telamonius Ajax
-- Anthemione … (ibid., 473).
+- Anthemione …（同所 473）。
 
 [6] 363 occupat Anthemione satum Telamonius Aiax
 
 364 et praedurato transfixit pectora telo:
 
 [2] 364 Et praedurato transfigit pectora telo.
-- … quum praesertim Homerus hoc dicat, IV, 480. … De praedurato telo nihil Homerus, sed adlusit forte auctor ad illud Virgilianum, Aeneid. VII, 524: « Stipitibus duris agitur sudibusve praeustis ». Ovid. Met. XII, 299, « sude figit obusta ».
+- … とりわけホメーロスが IV, 480 でそう述べているからである。…先端を固めた槍（*praedurato telo*）についてはホメーロスには何もないが、作者はおそらくウェルギリウスの Aeneid. VII, 524: « Stipitibus duris agitur sudibusve praeustis »［硬い杭や先を焼いて固めた棒で戦われる］を暗示しているのであろう。オウィディウスの Met. XII, 299: « sude figit obusta » も参照。
 
 [3] 364 Et praedurato transfixit pectora telo:
 
@@ -4101,15 +4080,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 365 purpuream uomit ille animam cum sanguine mixtam,
 
 [2] 365 Purpuream vomit ille animam cum sanguine mixtam,
-- Purpuream vomit, etc. Versus Virgil. Aen. IX, 349. — Et in Anth. Lat. Burm. t. I, p. 45, Epith. Incertae, v. 8: « Nunc animam quoque tu purpuream vomeres ». Ed.
+- *Purpuream vomit* 等（深紅の［命を］吐き出す）。この詩行はウェルギリウスの Aen. IX, 349 である。――またブルマン編『ラテン詩選』(Anth. Lat. Burm.) 第1巻 45 頁、作者不詳のエピタフ (Epith. Incertae) 8 行: « Nunc animam quoque tu purpuream vomeres »。パリ編者。
 
 [3] 365 Purpuream uomit ille animam, cum sanguine misso
 
 [4] 365 Purpuream vomit ille animam, sua sanguine multo
 
 [6] 365 purpureo vomit ille animam cum sanguine mixtam,
-- *Iliad* —
-- … cf Verg. Aen. 9, 349
+- 『イーリアス』 —
+- … ウェルギリウス『アエネーイス』9, 349 を参照
 
 366 ora rigat moriens. Tum magnis Antiphus hastam
 
@@ -4120,20 +4099,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 366 Arma rigat moriens. Tum magnis Antiphus hastam
 
 [6] 366 ora rigat moriens. tum magnis Antiphus hastam
-- *Iliad* 4.489
+- 『イーリアス』 4.489
 
 367 uiribus aduersum conatus corpore toto
 
 [2] 367 Viribus adversum, conatus corpore toto,
-- … — Viribus autem pertinet ad maximus. Sic loquitur Ovid. Met. XII, 116: « hastam Misit in adversum Lycia de plebe Menoeten ». …
+- … ――また *Viribus* は *maximus* にかかる。オウィディウスは Met. XII, 116 で次のように語っている: « hastam Misit in adversum Lycia de plebe Menoeten »。…
 
 [3] 367 Uiribus aduersum conisus corpore toto
 
 [4] 367 Viribus adversum conisus corpore toto
-- conisus … ex Aen. V, 642 et X, 127.
+- conisus …（『アエネーイス』V, 642 および X, 127 より校訂）。
 
 [6] 367 viribus adversum conatus corpore toto
-- … conatus … (cf. v. 462 et Ov. met. 8, 366) …
+- … conatus … (462行およびオウィディウス『変身物語』8, 366 を参照) …
 
 368 torquet in Aeaciden; telumque errauit ab hoste
 
@@ -4148,7 +4127,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 369 inque hostem cecidit, transfixit et inguina Leucon:
 
 [2] 369 Inque liostem cecidit; nam flxit in inguine Leucon.
-- … Nam de quo hic sermo est, apud Homerum IV, 491, Leucos dicitur, non Leucon.
+- … というのも、ここで話題になっている人物は、ホメーロス（IV, 491）ではレウコーンではなくレウコス（Leucos）と呼ばれているからである。
 
 [3] 369 Inque hostem cecidit transfixitque inguine Leucon:
 
@@ -4169,24 +4148,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 371 et carpit uirides moribundus dentibus herbas.
 
 [2] 371 Et carpit virides moribundus dentibus berbas.
-- Et carpit virides moribundus. Hic insolitam phrasim reperio de caesis et moribundis in terram procidentibus. Homerica formula est ὀδὰξ ἑλεῖν οὖδας (vid. Il. II, 418; XI, 748), quam Latini poetae, veteres quidem, ita imitantur, ut dicant mordere et mandere humum, vel petere, adpetere ore, morsu, terram. Virg. Aen. XI, 418: « Procubuit moriens et humum semel ore momordit »; et ibid. vs. 669: « cruentam Mandit humum, moriensque suo se in vulnere versat ». Sil. Ital. IX, 383: « Volvitur ille ruens, atque arva hostilia morsu Adpetit ». Sed, qui pro mordere vel mandere humum eo sensu dixerit carpere dentibus herbas, quod de pecudum pastu a poetis adhibetur, adhuc quidem neminem inveni. Similem tamen versum Diomedes Grammat. lib. I, p. 336, e Cn. Matii XX Iliados adfert: « Ille hietans herbam moribundo tenuit ore ».
+- *Et carpit virides moribundus*（そして瀕死のうちに青草を喰む）。ここに私は、討たれて瀕死の者が大地に倒れ伏すさまについての異例な表現を見出す。ホメーロスの定型句は ὀδὰξ ἑλεῖν οὖδας［歯で大地を噛む］（『イーリアス』II, 418；XI, 748 参照）であり、ラテン詩人たち、少なくとも古代の詩人たちは、これを模倣して *mordere* や *mandere humum*（土を噛む、咀嚼する）、あるいは口や噛むことによって土を求める（*petere, adpetere ore, morsu, terram*）と言う。ウェルギリウスの Aen. XI, 418: « Procubuit moriens et humum semel ore momordit »；同書 669 行: « cruentam Mandit humum, moriensque suo se in vulnere versat »。シリウス・イタリクス IX, 383: « Volvitur ille ruens, atque arva hostilia morsu Adpetit »。しかしその意味で *mordere* や *mandere humum* の代わりに、詩人たちが家畜の草食みについて用いる *carpere dentibus herbas*（歯で草を喰む/引きちぎる）と言った者を、私はこれまで誰も見出していない。もっとも文法家ディオメーデースは第1巻 336 頁で、クナエウス・マティウスの『イーリアス』第20巻から似た詩行を引いている: « Ille hietans herbam moribundo tenuit ore »。
 
 [3] 371 Et carpit uirides moribundus dentibus herbas.
-- cf. Gesta Ber. II 213 …
+- 『ベレンガリウス事績録』II 213 参照 …
 
 [4] 371 Et carpit virides moribundis dcntibus lierbas.
 
 [6] 371 et carpit virides moribundus dentibus herbas.
-- *Iliad* —
-- (testimonia) fere = Gesta Ber. 2, 213
+- 『イーリアス』 —
+- （証言） ほぼ = 『ベレンガリウスの事績』2, 213
 
 372 Impiger Atrides casu commotus amici
 
 [2] 372 linpiger Atrides casu commotus amici
-- **372–373** … est. Qui hic casu amici, nempe Leuci, commotus dicitur, apud Homerum non Atrides, sed Ulysses est. Ibi Leucus dicitur Ὀδυσσέος ἐσθλὸς ἑταῖρος, Il. IV, 491, atque Ulysses ob hunc interfectum valde iratus, in aciem processisse, et Democoonta, sibi obvium, percussisse. … — Teloque trabali, i. e. hasta magna. Virg. Aen. XII, 294.
+- **372–373** … ここで友、すなわちレウコスの死に心を動かされたと言われている人物は、ホメーロスではアトレウスの子ではなく、オデュッセウスである。そこではレウコスは Ὀδυσσέος ἐσθλὸς ἑταῖρος［オデュッセウスの気高き戦友］と呼ばれており（『イーリアス』IV, 491）、オデュッセウスが彼の殺害に激怒して戦列に進み出て、行き当たったデーモコオーンを討ったのである。…――*Teloque trabali*、すなわち巨大な槍（*hasta magna*）のこと。Virg. Aen. XII, 294。
 
 [3] 372 Impiger Atrides casu commotus amici
-- Atridae loco cum Vlixem nominet Homerus, …
+- ホメーロスはアトレウスの子の代わりにオデュッセウスを名指しているので、…
 
 [4] 372 Impiger Atrides casu commotus amici
 
@@ -4199,15 +4178,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 373 Democoonta petit teloque aduersa trabali
 
 [4] 373 Democoonta petit teloque adversa trabali
-- Democoonta … (Iliad. IV, 499).
+- Democoonta …（『イーリアス』IV, 499）。
 
 [6] 373 Democoonta petit teloque adversa trabali
-- *Iliad* 4.499
+- 『イーリアス』 4.499
 
 374 tempora transadigit uaginaque horridus ensem
 
 [2] 374 Tempora transadigit, vaginaque horridus ensem
-- … — Vagina ensem eripit est dictio Virgiliana, Aen. IV, 579, sed huic loco parum apta; nam nulla alia pugna paratur.
+- … ――*Vagina ensem eripit*（鞘から剣を抜く）はウェルギリウス的な言い回し（Aen. IV, 579）であるが、この箇所にはあまり適していない。なぜなら別の戦いが準備されているわけではないからである。
 
 [3] 374 Tempora transadigit uaginaque horridus ensem
 
@@ -4228,28 +4207,28 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 376 concidit et terram moribundo uertice pulsat.
 
 [2] 376 Occidit, et terram moribundus vertice pulsat.
-- … quia Ovidium expressisse videtur, qui Met. V, 84: « Et resupinus humum moribundo vertice pulsat »; et ibidem, XII, 118: « Quo plangente gravem moribundo vertice terram ».
+- … オウィディウスを表現したと思われるからである。オウィディウスは Met. V, 84 で « Et resupinus humum moribundo vertice pulsat »、同書 XII, 118 で « Quo plangente gravem moribundo vertice terram » と述べている。
 
 [3] 376 Concidit et terram moribundo uertice pulsat.
 
 [4] 376 Concidit et terram moribundo vertice pulsat.
-- … moribundo … (cf. Metam. V, 83 et XII, 118).
+- … moribundo …（『変身物語』V, 83 および XII, 118 を参照）。
 
 [6] 376 concidit et terram moribundo vertice pulsat.
-- moribundo … cf. Ov. met. 5, 84
+- moribundo … オウィディウス『変身物語』5, 84 を参照
 
 377 Iamque Amarynciden saxi deiecerat ictu
 
 [2] 377 Jamque A.marynciden saxi dejecerat ictu
-- … Sed si seriem narrationis apud Homerum, IV, 517, conferimus, hoc loco Amaryncidem Diorem saxo percussit Pirus Imbrasides, et de hoc loqui Nostrum, residuum nomen Umbrasides, vero prorsus simile, declarat. …
+- … しかしホメーロス（IV, 517）の叙述の順序を比較すると、この箇所でイムブラソスの子ペイロスがアマリュンケウスの子ディオレースを投石で討っており、残存する名前 *Umbrasides* が真相に酷似していることから、われらの作者が彼について語っていることは明らかである。…
 
 [3] 377 Iamque Amarynciden saxi deiecerat ictu
 
 [4] 377 Jamque Amarynciden saxi dejecerat ictu
-- Jamque Amarynciden … (Iliad. IV, 517).
+- Jamque Amarynciden …（『イーリアス』IV, 517）。
 
 [6] 377 iamque Amarynciden saxi deiecerat ictu
-- *Iliad* 4.517
+- 『イーリアス』 4.517
 
 378 Pirous Imbrasides dederatque silentibus umbris;
 
@@ -4258,7 +4237,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 378 Pirous Imbrasides dederatque silentibus umbris;
 
 [4] 378 Pirous Imbrasides dedcratque silentibus umbris;
-- Pirous … (ibid. 520).
+- Pirous …（同所 520）。
 
 [6] 378 impiger Imbrasides dederatque silentibus umbris:
 
@@ -4281,13 +4260,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 380 Desuper hasta venit dextra librata Thoanlis,
 
 [6] 380 desuper hasta venit dextra librata Thoantis
-- *Iliad* 4.527
+- 『イーリアス』 4.527
 
 381 perque uiri scapulas animosaque pectora transit;
 
 [2] 381 Perque viri scapulas annosaque pectora transit.
-- … Scapulas vocabulum, quo Noster saepius utitur, nemo heroicorum poetarum, quantum opinor, usurpavit; puto, quia vulgare id et plebeium haberetur, quando quidem etiam apud Comicos inprimis reperitur. Noster eam rationem aut neglexit sciens,
-- **(cont.)** aut ignoravit. — Usurpavit tamen Ovidius in materia tenui proprie eam partem corporis designans, Art. Am. III, 273: « Conveniunt tenues scapulis analectides altis ». Et hoc verbo Claudian. usus est. Ed.
+- … *Scapulas*（肩甲骨/肩）という単語は、われらの作者がしばしば用いているが、私の知る限り、叙事詩人の中でこれを用いた者は誰もいない。卑俗で平民的な語とみなされていたからであろう。とりわけ喜劇作家たちに見出されるからである。われらの作者はその配慮を承知の上で無視したか、
+- **(cont.)** （前頁からの続き）あるいは知らなかったのである。――もっともオウィディウスは軽い主題において、身体のその部分を固有に指すものとして用いている（Art. Am. III, 273: « Conveniunt tenues scapulis analectides altis »）。またクラウディアヌスもこの語を用いている。パリ編者。
 
 [3] 381 Perque uiri scapulas annosaque pectora transit.
 
@@ -4308,7 +4287,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 383 ore uomit stratusque super sua palpitat arma.
 
 [2] 383 Ore vomit, stratusque supersua palpitat arma.
-- Stratusque super sua palpitat arma. Tale est Virgilii, Aen. X, 488: « Corruit in vulnus: sonitum super arma dedere ».
+- *Stratusque super sua palpitat arma*（そして己の武具の上に横たわり身もだえする）。Virg. Aen. X, 488: « Corruit in vulnus: sonitum super arma dedere » に似ている。
 
 [3] 383 Ore uomit stratusque super sua palpitat arma.
 
@@ -4377,12 +4356,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 389 Hic postquam Danaum longe cedentia vidit
 
 [6] 389 hic postquam Danaum longe cedentia vidit
-- *Iliad* 5.1
+- 『イーリアス』 5.1
 
 390 agmina Tydides tumidumque increscere Martem,
 
 [2] 390 Agmina Tydides, tumidumque increscere Martem,
-- Tumidumque increscere Martem: formatum fortasse ex hoc Maronis, Aen. IX, 687: « Tum magis increscunt animis discordibus irae ».
+- *Tumidumque increscere Martem*（そして高まる軍神［戦い］が増大するのを）：おそらくマロー（ウェルギリウス）の次の箇所（Aen. IX, 687: « Tum magis increscunt animis discordibus irae »）から形作られたのであろう。
 
 [3] 390 Agmina Tydides tumidumque increscere Martem,
 
@@ -4423,14 +4402,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 394 Bellica Pallas adest flagrantiaque ignibus arma
 
 [2] 394 Bellica Pallas adest, flagrantiaque ignibus arma
-- Bellica Pallas adest. Haec sumpta ex Ovidio, Met. V, 47: « Bellica Pallas adest, et protegit aegide fratrem, Datque animos ». — Flagrantia ignibus arma dat Diomedi ex Homero, V, 4, qui Palladem dicit ignem assiduum in ejus galea et clypeo radiare fecisse: Δαῖέ οἱ ἐκ κόρυθός τε καὶ ἀσπίδος ἀκάματον πῦρ. Et inf. v. 467, Noster de Diomede: flagrantibus irruit armis.
+- *Bellica Pallas adest*（戦のパラスが寄り添う）。これらはオウィディウスの Met. V, 47: « Bellica Pallas adest, et protegit aegide fratrem, Datque animos » から取られている。――ディオメーデースに火と燃える武具（*flagrantia ignibus arma*）を与えるのは、パラスが彼の兜と楯から絶え間ない火を輝かせたとするホメーロス（V, 4: Δαῖέ οἱ ἐκ κόρυθός τε καὶ ἀσπίδος ἀκάματον πῦρ）に基づいている。また下掲 467 行で、われらの詩人はディオメーデースについて *flagrantibus irruit armis* と述べている。
 
 [3] 394 Bellica Pallas adest flagrantiaque ignibus arma
 
 [4] 394 Bellica Pallas adest flagrantiaque ignibus arma
 
 [6] 394 bellica Pallas adest flagrantiaque ignibus arma
-- *Iliad* 5.4
+- 『イーリアス』 5.4
 
 395 adiuuat atque animos iuueni uiresque ministrat.
 
@@ -4445,15 +4424,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 396 Ille, boum ueluti uiso grege saeua leaena,
 
 [2] 396 lile, boum veiuti viso grege saeva leasna,
-- Saeva leaena. Comparationem leonis in greges irruentis saepius usurpat Virgilius, ut Aen. IX, 339 seq. et X, 723 seqq. Homerus quidem Diomedis impetum fluvio tor-
-- **(cont.)** renti, pontes et septa et segetes dissipanti, adsimilat, sed Noster saepius Homeri exemplar deserit, et, ubicumque occasio est, mavult copiis a Virgilio et Ovidio suppeditatis uti.
+- *Saeva leaena*（獰猛な雌獅子）。群れに襲いかかるライオンの比喩をウェルギリウスはしばしば用いている（Aen. IX, 339 以下、X, 723 以下など）。ホメーロスは確かにディオメーデースの突撃を激-
+- **(cont.)** （前頁からの続き）［-流に、橋や垣根や作物を押し流す激流に］なぞらえているが、われらの詩人はホメーロスの手本を捨てることのほうが多く、好機があればいつでもウェルギリウスやオウィディウスから提供された題材を用いるほうを好む。
 
 [3] 396 Atque boum ueluti uiso grege saeua leaena,
 
 [4] 396 Ille, boum veluti viso grege saeva leaena,
 
 [6] 396 ille — boum veluti viso grege saeva leaena,
-- *Iliad* 5.136
+- 『イーリアス』 5.136
 
 397 quam stimulat ieiuna fames, ruit agmina contra
 
@@ -4488,7 +4467,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 400 uirginis armigerae monitis et numine tutus.
 
 [2] 400 Virginis armigerse monitis et numine tutus.
-- Virginis armigerae, Palladis. … Armipotens a Virgilio, Aen. II, 425, et XII, 483.
+- *Virginis armigerae*（武具を帯びた乙女の）：パラスのこと。…ウェルギリウスにおいては Aen. II, 425 および XII, 483 で *armipotens*（武勇に秀でた）と呼ばれている。
 
 [3] 400 Virginis armigerae monitis et numine tutus.
 
@@ -4509,7 +4488,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 402 instat et exstructos morientum calcat aceruos.
 
 [2] 402 Instat, et exstructos morientum calcat acervos.
-- … mutuatumque a Nasone adparet ex Met. V, 88: « Sternit, et exstructos morientum calcat acervos »; …
+- … そしてこれがナーソー（オウィディウス）から借用されたものであることは Met. V, 88 から明らかである: « Sternit, et exstructos morientum calcat acervos »。…
 
 [3] 402 Instat et exstructos morientum calcat aceruos.
 
@@ -4520,7 +4499,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 403 Dumque ferit sternitque uiros, uidet ecce Daretis
 
 [2] 403 Dumque furit stemitque viros, videt ecce Daretis
-- … immo furit eo melius est, quod quasi proprium illud de Diomede usurpat Hor. Carm. I, 15, 27: « Ecce furit te reperire atrox Tydides, melior patre ». … Daretis legendum esse, quem Phegei et Idaei patrem nominat Homerus, V, 10, …
+- … それどころか、ホラーティウスが Carm. I, 15, 27 でディオメーデースの固有の描写であるかのように用いているため、*furit* のほうがなおさら優れている: « Ecce furit te reperire atrox Tydides, melior patre »。…ホメーロスが V, 10 でペーゲウスとイダイオスの父と呼んでいる *Daretis*（ダレースの）…
 
 [3] 403 Dumque furit sternitque uiros, uidet ecce Daretis
 
@@ -4545,10 +4524,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
 
 [4] 405 Phegeaqueldaeumque simul; quem cuspide Phegeus
-- Phegeaque … (Iliad. V, 9 sqq.). …
+- Phegeaque …（『イーリアス』V, 9 以下）。…
 
 [6] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
-- *Iliad* 5.11
+- 『イーリアス』 5.11
 
 406 occupat ante graui, sed uulnera depulit umbo
 
@@ -4563,7 +4542,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 407 uitatumque solo ferrum stetit. Haud mora: totis
 
 [2] 407 Vibratumque solo ferrum stetit : haud mora , totis
-- … — Stetit e Virgil. Aen. II, 52, de hasta Laocoontis, « stetit illa tremens ». Ed.
+- … ――*Stetit*（立った、刺さった）はラオコオーンの槍についてのウェルギリウス Aen. II, 52 から採られている: « stetit illa tremens »。パリ編者。
 
 [3] 407 Uitatumque solo ferrum stetit: haut mora, totis
 
@@ -4574,7 +4553,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 408 ingentem torquet Tydides uiribus hastam
 
 [2] 408 Ingentem torquet Tydides viribus hastam,
-- Ingentem torquet, etc. sunt ipsa verba Virgilii, Aeneidos loco citato.
+- *Ingentem torquet* 等（巨大な［槍を］投げつける）は、『アエネーイス』の引用箇所におけるウェルギリウス自身の言葉である。
 
 [3] 408 Ingentem torquet Tydides uiribus hastam
 
@@ -4585,7 +4564,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 409 transadigitque uiri pectus: pars cuspidis ante
 
 [2] 409 Transadigitque viri pectus : pars cuspidis ante
-- … dedimus. Virg. Aen. IX, 544: « pectora duro Transfossi ligno ».
+- … われわれは *Transadigit*（そして突き通す）を置いた。Virg. Aen. IX, 544: « pectora duro Transfossi ligno »。
 
 [3] 409 Transadigitque uiri pectus; pars cuspidis ante
 
@@ -4596,19 +4575,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 410 eminet et prodit scapulis pars altera fossis.
 
 [2] 410 Eininet, et prodit scapulis pars altera fossis.
-- Eminet, et prodit, etc. Sic Ovid. Metam. IX, 127: « terga sagitta Trajicit: exstabat ferrum de pectore aduncum »; et lib. V, 138: « Torquet in hunc hastam, media quae nare recepta Cervice exacta est, in partesque eminet ambas ». Hoc sensu emissum telum quod per alterum latus exit, dicitur a Gratio in Halieut. v. 62. — Vid. hujus op. t. I, part. 1, pag. 224. Ed.
+- *Eminet, et prodit* 等（突き出て、現れ出る）。オウィディウス Metam. IX, 127 と同様である: « terga sagitta Trajicit: exstabat ferrum de pectore aduncum »；また同第 V 巻 138: « Torquet in hunc hastam, media quae nare recepta Cervice exacta est, in partesque eminet ambas »。この意味で、反対側に突き抜ける放たれた飛び道具について、グラッティウスの Halieut. 62 行で言及されている。――本著作第 I 巻第 1 部 224 頁を見よ。パリ編者。
 
 [3] 410 Eminet, et prodit scapulis pars altera fossis.
 
 [4] 410 Eminet, et prodit scapulis pars altera fossis.
 
 [6] 410 eminet et prodit scapulis pars altera fossis.
-- *Iliad* —
+- 『イーリアス』 —
 
 411 Hunc ubi fundentem calidum de pectore flumen
 
 [2] 411 Hunc ubi fundentem calidum de pectore flumen,
-- Calidum de pectore flumen. Virg. Aen. IX, 414: « Volvitur ille, vomens calidum de pectore flumen »; et lib. XI, 668: « Sanguinis ille vomens rivos cadit ».
+- *Calidum de pectore flumen*（胸から温かい奔流を）。Virg. Aen. IX, 414: « Volvitur ille, vomens calidum de pectore flumen »；また同第 XI 巻 668: « Sanguinis ille vomens rivos cadit »。
 
 [3] 411 Hunc ubi fundentem calidum de pectore flumen
 
@@ -4635,12 +4614,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 413 Conspexil frater, stricto celer advolat ense
 
 [6] 413 conspexit frater, stricto celer advolat ense
-- *Iliad* 5.20
+- 『イーリアス』 5.20
 
 414 germanique cupit fatorum exsistere uindex.
 
 [2] 414 Germanique cupit fatorum exsistere vindex.
-- Cupit exsistere vindex. Haec phrasis Barthio barbarismum subolere videtur, Advers. LVIII, 14, et LIX, 1, p. 2770: et eodem modo verbo subsistere usos esse medii aevi scriptores, quodam loco Alboini presbyteri probat. Et sane languidum versum efficit ea dictio, qua prisci aevi poetae in universum abstinuisse videntur. Nec tamen propterea ad barbarismos referre velim, et fortan exsistere h. l. positum est pro exstare, eminere, conspicuum esse. De verbo subsistere certius est, id ad scholasticorum barbaram latinitatem pertinere. — Sed exsistere pro fieri vel esse videtur ab inferioris aetatis scriptoribus introductum. Nam sic Julius Exsuperantius: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno ». Et Lactantius Plac. in Argum. Metam. Ovid. lib. VI, fab. 3: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent ». Ed.
+- *Cupit exsistere vindex*（復讐者として立ち現れることを望む）。この言い回しはバルトにとって野蛮語の匂いがするものと思われる（『雑考』LVIII, 14 および LIX, 1, p. 2770）。彼は長老アルボインのある箇所から、中世の著述家たちが動詞 *subsistere* を同様に用いたことを論証している。そして確かにこの語法は詩行を緩慢なものにしており、古き時代の詩人たちは概してこれを避けていたように見える。しかしだからといって私はこれを野蛮語に帰そうとは思わない。おそらくこの箇所での *exsistere* は、*exstare*（際立つ）、*eminere*（抜きん出る）、*conspicuum esse*（目立つ）の代わりに置かれているのであろう。動詞 *subsistere* については、それがスコラ学者たちの野蛮なラテン語に属することはより確実である。――しかし *fieri*（なる）や *esse*（である）の意で *exsistere* を用いるのは、下層の時代の著述家たちによって導入されたように思われる。実際、ユリウス・エクススペランティウスは次のように述べている: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno »。またラクタンティウス・プラキドゥスも『オウィディウス変身物語綱要』第 VI 巻第 3 話で次のように述べている: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent »。パリ編者。
 
 [3] 414 Germanique cupit fatorum existere uindex.
 
@@ -4677,7 +4656,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 417 Ut volucris, derepta sni cum corpora nati
 
 [6] 417 ut volucris, discerpta sui cum corpora nati
-- *Iliad* —
+- 『イーリアス』 —
 
 418 accipitrem laniare uidet nec tendere contra,
 
@@ -4688,7 +4667,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 418 Accipitrem laniare videt, nec tendere contra
 
 [6] 418 accipitrem laniare videt nec tendere contra,
-- *Iliad* —
+- 『イーリアス』 —
 
 419 auxilium neque ferre suo ualet anxia nato
 
@@ -4699,7 +4678,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 419 Auxilium nec ferre suo valet anxia nato,
 
 [6] 419 auxilium neque ferre suo valet anxia nato
-- *Iliad* —
+- 『イーリアス』 —
 
 420 quodque potest, leuibus plaudit sua pectora pennis,
 
@@ -4710,7 +4689,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 420 Quodque potest, levibus plangit sua pectora pennis :
 
 [6] 420 quodque potest, levibus plaudit sua pectora pennis:
-- *Iliad* —
+- 『イーリアス』 —
 
 421 sic hostem Idaeus germani caede superbum
 
@@ -4751,7 +4730,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 424 Nec minus in Teucros armis furit alter Atrides
 
 [6] 424 nec minus in Teucros armis furit † alter Atrides
-- *Iliad* 5.38
+- 『イーリアス』 5.38
 
 425 insequiturque acies et ferro funera miscet.
 
@@ -4776,12 +4755,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 427 infelix Odius, quem uastae cuspidis ictu
 
 [2] 427 Infelix Hodius, quem vasto cuspidis ictu
-- … Hodius legendum ex Homero, Il. V, 39.
+- … ホメーロス『イーリアス』V, 39 から *Hodius*（ホディオス）と読むべきである。
 
 [3] 427 Infelix Hodius, quem uastae cuspidis ictu
 
 [4] 427 Infelix Hodius, quem jactae cuspidis ictu
-- Hodius … (Iliad. V, 39). …
+- Hodius …（『イーリアス』V, 39）。…
 
 [6] 427 infelix Odius, quem vastae cuspidis ictu
 
@@ -4798,14 +4777,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 429 Hinc petit Idomeneus aduersa parte ruentem
 
 [2] 429 Hinc petit Idomeneus adversa parte ruentem
-- … Et hoc plenius exprimit versum Homeri, V, 43: Ἰδομενεὺς δ᾽ ἄρα Φαῖστον ἐνήρατο Μῄονος υἱόν. …
+- … そしてこれはホメーロスの詩行 V, 43: Ἰδομενεὺς δ᾽ ἄρα Φαῖστον ἐνήρατο Μῄονος υἱόν をより完全に表現している。…
 
 [3] 429 Hinc ferit Idomeneus aduersa parte ruentem
 
 [4] 429 Hinc petit Idomeneus adversa ex parte ruentem
 
 [6] 429 hinc petit Idomeneus adversa parte ruentem
-- *Iliad* 5.43
+- 『イーリアス』 5.43
 
 430 Maeoniden Phaestum, cuius post funera laetus
 
@@ -4814,22 +4793,22 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 430 Maeoniden Phaestum; cuius post funera Atrides
 
 [4] 430 Maeoniden Phaestum; cujus post funera laetus
-- Maeoniden Phaestum … (Iliad. V, 43). …
+- Maeoniden Phaestum …（『イーリアス』V, 43）。…
 
 [6] 430 Maeoniden Phaestum; cuius post funera laetus
 
 431 et Strophio genitum Stygias demittit ad umbras.
 
 [2] 431 Et Strophio genitum Stygias demittit ad umbras.
-- … — Similiter supra, v. 360, demissus ad umbras. Ed.
+- … ――同様に上の 360 行でも *demissus ad umbras*。パリ編者。
 
 [3] 431 E Strophio genitum Stygias demittit ad umbras.
 
 [4] 431 E Strophio genitum Stygias demittit ad umbras.
-- … Strophio … (Iliad. V, 49).
+- … Strophio …（『イーリアス』V, 49）。
 
 [6] 431 et Strophio genitum Stygias demittit ad umbras.
-- *Iliad* 5.49
+- 『イーリアス』 5.49
 
 432 Meriones Phereclum librata percutit hasta
 
@@ -4838,10 +4817,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 432 Meriones Phereclum uibrata perculit hasta,
 
 [4] 432 Meriones Phereclum vibrata perculit hasta,
-- **432-433** Meriones Phereclum (Iliad. V, 59), vibrata perculit, Pedaeumque Meges (Iliad. V, 69), …
+- **432-433** Meriones Phereclum（『イーリアス』V, 59）、vibrata perculit, Pedaeumque Meges（『イーリアス』V, 69）…
 
 [6] 432 Meriones Phereclum librata percutit hasta,
-- *Iliad* 5.59
+- 『イーリアス』 5.59
 
 433 Pedaeumque Meges. Tum uastis horridus armis
 
@@ -4852,20 +4831,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 433 Pedaeuinque Meges ; tum vastis horridus armis
 
 [6] 433 Pedaeumque Meges; tum vastis horridus armis
-- *Iliad* 5.69
+- 『イーリアス』 5.69
 
 434 Eurypylus gladio uenientem Hypsenora fundit
 
 [2] 434 Eurypyius gladio venieutem Hypsenora fundit,
-- Hypsenora scripsi, monente etiam Bondamio, p. 158, ex Homeri Iliad. V, 76. …
+- ボンダムの指摘（p. 158）にも従い、ホメーロス『イーリアス』V, 76 に基づいて *Hypsenora*（ヒュプセーノールを）と記した。…
 
 [3] 434 Eurypylus gladio metuentem Hypsenora fundit
 
 [4] 434 Eurypylus gladio venientem llypsenora fnndit
-- … Hypsenora … (Iliad. V, 76 sqq.).
+- … Hypsenora …（『イーリアス』V, 76 以下）。
 
 [6] 434 Eurypylus gladio venientem Hypsenora fundit
-- *Iliad* 5.76
+- 『イーリアス』 5.76
 
 435 et pariter uita iuuenem spoliauit et armis.
 
@@ -4886,7 +4865,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 436 Parte alia volitat sinuoso Pandarus arcu
 
 [6] 436 parte alia volitat sinuoso Pandarus arcu
-- *Iliad* 5.95
+- 『イーリアス』 5.95
 
 437 Tydidenque oculis immensa per agmina quaerit;
 
@@ -4947,20 +4926,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 442 In mediasque acies animosi more leonis
 
 [6] 442 in mediasque acies animosi more leonis
-- *Iliad* 5.136
+- 『イーリアス』 5.136
 
 443 fertur et Astynoum, magnum quoque Hypirona fundit,
 
 [2] 443 Fertur, et Astynoum magnumque Hypenora fundit,
-- … Etiam hunc versum cum quatuor sequentibus dedimus, prout eos cel. Bondamius, pag. 158 seq. ductu Homeri, Iliad. V, 144-160, sanitati restituit.
+- … この行も続く 4 行とともに、名高いボンダムがホメーロス『イーリアス』V, 144–160 の導きによって健全な形に復元した（pp. 158 以下の）とおりに提示した。
 
 [3] 443 Fertur et Astynoum magnumque in Hypirona tendit:
 
 [4] 443 Fertur et Astynoum magnumque in Hypirona tendit :
-- Astynoum, Hypirona … (Iliad. V, 144). …
+- Astynoum, Hypirona …（『イーリアス』V, 144）。…
 
 [6] 443 fertur et Astynoum magnumque † Hyperona fundit:
-- *Iliad* 5.144
+- 『イーリアス』 5.144
 
 444 comminus hunc gladio, iaculo ferit eminus illum;
 
@@ -4979,10 +4958,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 445 Inde premit Polyidon Abantaque cuspide forti
 
 [4] 445 Inde premit Polyidon Abantaque cuspide forti
-- **445-446** Polyidon, Thoonem … (Iliad. V, 148, 152).
+- **445-446** Polyidon, Thoonem …（『イーリアス』V, 148, 152）。
 
 [6] 445 inde premit Polyïdon Abantaque cuspide forti
-- *Iliad* 5.148
+- 『イーリアス』 5.148
 
 446 et notum bello Xanthum uastumque Thoonem.
 
@@ -4993,7 +4972,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 446 Etnolnm bello Xanthum vastumque Thoonem.
 
 [6] 446 et notum bello Xanthum vastumque Thoonem.
-- *Iliad* 5.152
+- 『イーリアス』 5.152
 
 447 Post hos infestus Chromiumque et Echemmona telo
 
@@ -5002,10 +4981,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 447 Post hos infestos Chromiumque et Echemona telo
 
 [4] 447 Post hos infestus Chromiumque et Echemona telo
-- … Chromium, Echemona … (Iliad. V, 159-160).
+- … Chromium, Echemona …（『イーリアス』V, 159–160）。
 
 [6] 447 post hos infestos Chromiumque et Echemmona telo
-- *Iliad* 5.160
+- 『イーリアス』 5.160
 
 448 proturbat celeri pariterque ad Tartara mittit.
 
@@ -5026,7 +5005,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 449 Tu quoque Tydidae prostratus, Pandare, dextra
 
 [6] 449 tu quoque Tydidae prostratus, Pandare, dextra
-- *Iliad* 5.290
+- 『イーリアス』 5.290
 
 450 occidis, infelix, accepto uulnere tristi,
 
@@ -5041,7 +5020,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 451 dextera qua naris fronti coniungitur imae;
 
 [2] 451 Dextera qua naris fronti conjungitur imae ,
-- Qua naris fronti conjungitur imae. Mutuatum hoc esse videtur ab Ovidio, Met. XII, 315: « inter duo lumina ferrum, Qua naris fronti committitur, accipit, imae ».
+- *Qua naris fronti conjungitur imae*（鼻が額の最下部に接するところ）。これはオウィディウス Met. XII, 315 から借用されたものと思われる: « inter duo lumina ferrum, Qua naris fronti committitur, accipit, imae »。
 
 [3] 451 Dextera qua naris fronti coniungitur imae.
 
@@ -5078,7 +5057,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 454 Jamque manum Aeneas simul et Calydonius hcros
 
 [6] 454 iamque manum Aeneas simul et Calydonius heros
-- *Iliad* 5.297
+- 『イーリアス』 5.297
 
 455 contulerant, iactis inter se comminus hastis;
 
@@ -5093,14 +5072,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 456 undique rimabant inimico corpora ferro,
 
 [2] 456 Undique rimabant inimico pectora ferro,
-- … Hoc tamen verbum activa forma in nobiliore poeta reperiri vix puto. Sed indicium hoc est sequioris aevi, quo formae istae verborum dudum obsoletae revocari in usum solebant. — Exemplum aliud vidimus, contemplaverit, in fragmento Nemes. de aucupio, v. 3; hujus op. t. I, p. 182. Ed. — Caeterum verborum rimabant pectora ferro sensus est, speculabantur et tentabant, qua parte vel quo loco vulnus infligerent adversario; idque magis declarat versus 458, tum versu 593 eadem formula plenius repetitur. … Similiter Saleius Bassus in carm. ad Pisonem, v. 171: « Et nunc vivaci scrutaris pectora dextra, Nunc latus adversum nec opino percutis ictu ». — Luculentius hunc rimandi et observandi actum describere videtur sane Silius, XIII, 163: « At non idem animus Rutulo; spectatur, et omni Corpore perlustrat, qua sit certissima ferro In vulnus via, nunc vibrat, nunc comprimit hastam, etc. » Ed.
+- … しかし、この動詞が能動態の形でより高名な詩人に見出されるとは到底思えない。だがこれは、とっくに廃れていたこれらの動詞の形態を再び使用へと呼び戻すことが通例であった、後代の証左である。――われわれは別の例、*contemplaverit* を、ネメシアヌスの『鳥刺しについて』断片 3 行（本著作第 I 巻 182 頁）において見た。パリ編者。――なお、*rimabant pectora ferro*（剣で胸を探っていた）という言葉の意味は、敵のどの部分、どの場所に傷を負わせるかを窺い、試みていたということであり、そのことは第 458 行でより明瞭に示され、さらに第 593 行で同じ言回しがより完全に繰り返されている。…サレイウス・バッススも『ピソーへの詩』171 行で同様に述べている: « Et nunc vivaci scrutaris pectora dextra, Nunc latus adversum nec opino percutis ictu »。――シリオスは XIII, 163 で、この探り窺う動作を実に一層見事に描写しているように思われる: « At non idem animus Rutulo; spectatur, et omni Corpore perlustrat, qua sit certissima ferro In vulnus via, nunc vibrat, nunc comprimit hastam, etc. » パリ編者。
 
 [3] 456 Undique rimabant inimico corpora ferro
 
 [4] 456 Undique rimabant inimico corpora ferro,
 
 [6] 456 undique rimabant inimico corpora ferro
-- *Iliad* —
+- 『イーリアス』 —
 
 457 et modo cedebant retro, modo deinde coibant.
 
@@ -5111,7 +5090,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 457 Et modo cedebant retro, modo deinde coibant.
 
 [6] 457 et modo cedebant retro, modo deinde coibant.
-- *Iliad* —
+- 『イーリアス』 —
 
 458 Postquam utrique diu steterant nec uulnera magnus
 
@@ -5122,7 +5101,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 458 Postquam utrique diu steterant ncc vulnera maguus
 
 [6] 458 postquam utrique diu steterant nec vulnera magnus
-- *Iliad* —
+- 『イーリアス』 —
 
 459 qua daret infesto Tydides ense uidebat,
 
@@ -5133,7 +5112,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 459 Qua daret infesto Tydides ense videbat,
 
 [6] 459 qua daret infesto Tydides ense videbat,
-- *Iliad* —
+- 『イーリアス』 —
 
 460 saxum ingens medio quod forte iacebat in agro,
 
@@ -5144,19 +5123,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 460 Saxum ingens. medio quod forte jaeebat in agro,
 
 [6] 460 saxum ingens, medio quod forte iacebat in agro,
-- *Iliad* 5.302
+- 『イーリアス』 5.302
 
 461 bis seni quod uix iuuenes tellure mouerent,
 
 [2] 461 Bisseni quod vix juvenes tellure levarent,
-- … Caeterum et hanc ῥῆσιν fere totam aptavit sibi Noster e Virgilio, Aen. XII, 896 seqq. « Nec plura effatus, saxum circumspicit ingens, Saxum antiquum, ingens, campo quod forte jacebat: Vix illud lecti bis sex cervice subirent ». Homerus multo modestius de magnitudine saxi, quod Diomedes jaciebat, V, 303, saxum fuisse, quod viri duo hodierni aevi non ferrent.
+- … なお、われらの詩人はこのくだり［ῥῆσιν］のほぼ全体をウェルギリウス Aen. XII, 896 以下から自らのものとして翻案した: « Nec plura effatus, saxum circumspicit ingens, Saxum antiquum, ingens, campo quod forte jacebat: Vix illud lecti bis sex cervice subirent »。ホメーロスは、ディオメーデースが投げた岩の大きさについてずっと控えめに、V, 303 で、現代の二人の男でも運べないような岩であったと述べている。
 
 [3] 461 Bis seni quod uix iuuenes tellure mouerent,
 
 [4] 461 F»is seni quod vix juvenes tellure levarent,
 
 [6] 461 bis seni quod vix iuvenes tellure moverent,
-- … cf. Verg. Aen. 12, 899
+- … ウェルギリウス『アエネーイス』12, 899 を参照
 
 462 sustulit et magno conamine misit in hostem.
 
@@ -5187,7 +5166,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 464 Quem Yenus aelhereas genetrix delapsa per auras
 
 [6] 464 quem Venus aethereas genetrix delapsa per auras
-- *Iliad* 5.312
+- 『イーリアス』 5.312
 
 465 accipit et nigra corpus caligine condit.
 
@@ -5198,31 +5177,31 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 465 Excipit, et nigra corpus caligine texit.
 
 [6] 465 accipit et nigra corpus caligine condit.
-- Accipit … at cf. Thes. I 311, 44 …
+- Accipit … だが Thes. I 311, 44 を参照 …
 
 466 Non tulit Oenides animo nebulasque per ipsas
 
 [2] 466 Non tulit OEnidesanimo, nebulasque per ipsas
-- … Ut elegantissimos versus sequentes laudandos censet Barthius, Adv. p. 2770 extr.
+- … バルトは『雑考』p. 2770 末で、続く詩行をきわめて優雅なものとして称賛すべきであると見なしている。
 
 [3] 466 Non tulit Oenides animis nebulasque per ipsas
 
 [4] 466 Non tulil Oenides animis nebulasque per ipsas
 
 [6] 466 non tulit Oenides animis nebulasque per ipsas
-- … animis … cf. Verg. Aen. 8, 256 …
+- … animis … ウェルギリウス『アエネーイス』8, 256 を参照 …
 
 467 fertur et in Venerem flagrantibus irruit armis,
 
 [2] 467 Fertur, etin Venerem flagrantibus irruit armis,
-- Flagrantibus armis. Vid. not. ad versum 394.
+- *Flagrantibus armis*（燃え盛る武具で）。第 394 行への注を見よ。
 
 [3] 467 Fertur et in Uenerem flagrantibus irruit armis
 
 [4] 467 Fertur et in Yenerem tlagrantibus irruit armis
 
 [6] 467 fertur et in Venerem flagrantibus irruit armis
-- *Iliad* 5.330
+- 『イーリアス』 5.330
 
 468 et neque quem demens ferro petat inspicit aruis
 
@@ -5233,19 +5212,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 468 Et neque quem demens ferro petat inspicit ante
 
 [6] 468 et neque quem demens ferro petat inspicit . . . . .
-- *Iliad* —
+- 『イーリアス』 —
 
 469 caelestemque manum mortali uulnerat hasta.
 
 [2] 469 Caelestemque manum mortali vulnerat hasta.
-- … quod Homerus ita tradit, Il. V, 337, … Idem de se fatetur Diomedes apud Virg. Aeneid. XI, vs. 276: « quum ferro caelestia corpora demens Adpetii, et Veneris violavi vulnere dextram ». Et apud Ovid. Met. XV, 769, Venus de se: « Quam modo Tydidae Calydonia vulneret hasta ».
+- … ホメーロスが『イーリアス』V, 337 でそう伝えており…。ウェルギリウス『アエネーイス』XI, 276 でもディオメーデースが自分自身について同様に告白している: « quum ferro caelestia corpora demens Adpetii, et Veneris violavi vulnere dextram »。またオウィディウス Met. XV, 769 でも、ウェヌスが自らについて次のように述べている: « Quam modo Tydidae Calydonia vulneret hasta »。
 
 [3] 469 Caelestemque manum mortali uulnerat hasta.
 
 [4] 469 Caelestemque manum mortali vulnerat hasta.
 
 [6] 469 caelestemque manum mortali vulnerat hasta.
-- *Iliad* 5.336
+- 『イーリアス』 5.336
 
 470 Icta petit caelum terris Cytherea relictis
 
@@ -5260,15 +5239,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 471 atque ibi sidereae queritur sua uulnera matri.
 
 [2] 471 Atque ibi sidereae queritur sua vulnera malri.
-- … Idemque jubet Homerus; qui quidem narrat, Venerem vulneratam a fra-
-- **(cont.)** tre Marte currum et equos petiisse, quibus perveheretur in caelum, ibi vero questam esse apud matrem Dionen, Iliad. V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς. …
+- … ホメーロスも同様のことを命じている。彼は実に、傷ついたウェヌスがその兄-
+- **(cont.)** （前頁からの続き）［兄］マールスに戦車と馬を求めて天へと運ばれ、そこで母ディオネーに訴え出たと語っている（Iliad. V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς）。…
 
 [3] 471 Atque ibi sidereae queritur sua uulnera matri.
 
 [4] 471 Atque ibi sidereae queritur sua vulnera matri.
 
 [6] 471 atque ibi sidereae queritur sua vulnera matri.
-- *Iliad* 5.370
+- 『イーリアス』 5.370
 
 472 Dardanium Aenean seruat Troianus Apollo
 
@@ -5279,7 +5258,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 472 Dardanium Aenean servat Trojanus Apollo
 
 [6] 472 Dardanium Aenean servat Troianus Apollo
-- *Iliad* 5.344
+- 『イーリアス』 5.344
 
 473 accenditque animos iterumque ad bella reducit.
 
@@ -5290,20 +5269,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 473 Accenditque animos iterumque ad bella reducit.
 
 [6] 473 accenditque animos iterumque ad bella reducit.
-- *Iliad* 5.513
+- 『イーリアス』 5.513
 
 474 Vndique consurgunt acies et puluere caelum
 
 [2] 474 Undique consurgunt acies, et pulvere caelum
 
 [3] 474 Undique consurgunt acies et puluere caelum
-- **474—482** habent Gesta Bereng. I 195—202
+- **474—482** 『ベレンガリウス事績録』I 195–202 が有する
 
 [4] 474 Undique consurgunt acies et pulvere caelum
 
 [6] 474 undique consurgunt acies et pulvere caelum
-- *Iliad* —
-- **474—481** (testimonia) = Gesta Ber. 1, 195—202 (476 in aequore cursu)
+- 『イーリアス』 —
+- **474—481** （証言） = 『ベレンガリウスの事績』1, 195–202 (476 *in aequore cursu*)
 
 475 conditur horrendisque sonat clamoribus aether.
 
@@ -5314,7 +5293,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 475 Conditur horrendisque sonat clamoribus aether.
 
 [6] 475 conditur horrendisque sonat clamoribus aether.
-- *Iliad* —
+- 『イーリアス』 —
 
 476 Hic alius rapido deiectus in aequora curru
 
@@ -5325,19 +5304,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 476 Ilic alius rapido dejcctus in aequora curru
 
 [6] 476 hic alius rapido deiectus in aequora curru
-- *Iliad* —
+- 『イーリアス』 —
 
 477 proteritur pedibusque simul calcatur equorum
 
 [2] 477 Proteritur, pedibusque simul calcatur equorum;
-- … Similiter Virgilii Aen. XII, 329: « Semineces volvit multos, aut agmina curru Proterit ».
+- … 同様に Virgilii Aen. XII, 329: « Semineces volvit multos, aut agmina curru Proterit »。
 
 [3] 477 Proteritur pedibusque simul calcatur equorum;
 
 [4] 477 Proteritur pedibusque simul calcatur equorum;
 
 [6] 477 proteritur pedibusque simul calcatur equorum
-- *Iliad* —
+- 『イーリアス』 —
 
 478 atque alius uolucri traiectus corpora telo
 
@@ -5348,19 +5327,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 478 Atque alius volucri trajectus pectora telo
 
 [6] 478 atque alius volucri traiectus tempora telo
-- *Iliad* —
+- 『イーリアス』 —
 
 479 quadrupedis tergo pronus ruit; illius ense
 
 [2] 479 Quadrupedis tergo pronus ruit : illius ense
-- Quadrupedis tergo. Si equitantem intelligit auctor ob vulnus equo delabentem, scripsit contra sensum Homeri, et contra morem scriptorum belli Trojani, qui equites in bello ignorant, et heroes de curribus pugnantes produnt. Talis error etiam infra occurrit versu 496, ubi Agamemnon sublimis equo volat agmina circum. Potest quidem pro equitatione adduci locus Homeri, Il. X, 513; sed quia ἵππων ἐπεβήσατο dicit, videntur equi curru juncti commode posse intelligi. Wernsdorf. in Addendis.
+- *Quadrupedis tergo*（四足獣の背から）。もし作者が、傷のために馬から転落する騎馬の兵士を意味しているのだとすれば、彼はホメーロスの趣意に反し、また戦場における騎兵を知らず、英雄たちが戦車から戦うものと伝えるトロイア戦争の著述家たちの慣習に反して書いたことになる。同様の誤りは下の 496 行でも生じており、そこではアガメムノーンが *sublimis equo volat agmina circum*（馬上に高く陣列の周りを馳せ巡る）とある。確かに騎乗を支持するものとしてホメーロスの箇所 Il. X, 513 を引くことはできるが、ホメーロスは ἵππων ἐπεβήσατο（馬に乗った）と言っているため、戦車に繋がれた馬と解するのが自然であろう。ヴェルンスドルフ、補遺にて。
 
 [3] 479 Quadrupedis tergo pronus ruit; illius ense
 
 [4] 479 Quadrupedis tergo pronus rnit; illius ense
 
 [6] 479 cornipedis tergo pronus ruit; illius ense
-- *Iliad* —
+- 『イーリアス』 —
 
 480 deiectum longe caput a ceruice cucurrit;
 
@@ -5371,19 +5350,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 480 Dejectum longe caput a cervice cucurrit; hSO
 
 [6] 480 deiectum longe caput a cervice cucurrit;
-- *Iliad* —
+- 『イーリアス』 —
 
 481 hic iacet exanimis fuso super arma cerebro:
 
 [2] 481 Hic jacet exanimis fuso super arma cerebro.
-- … Similiter Virg. Aen. IX, 753: « Collapsos artus atque arma cruenta cerebro Sternit humi moriens ».
+- … 同様に Virg. Aen. IX, 753: « Collapsos artus atque arma cruenta cerebro Sternit humi moriens »。
 
 [3] 481 Hic iacet exanimis fuso super arma cerebro:
 
 [4] 481 Hic jacet exanimis fuso super arma cerebro :
 
 [6] 481 hic iacet exanimis fuso super arma cerebro:
-- *Iliad* —
+- 『イーリアス』 —
 
 482 sanguine manat humus, campi sudore madescunt.
 
@@ -5394,8 +5373,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 482 Sanguine manat liumus, campi sudorc madescunt.
 
 [6] 482 sanguine manat humus, campi sudore madescunt.
-- *Iliad* —
-- (testimonia) = Gesta Ber. 1, 204 s.
+- 『イーリアス』 —
+- （証言） = 『ベレンガリウスの事績』1, 204 以下
 
 483 Emicat interea Veneris pulcherrima proles
 
@@ -5406,7 +5385,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 483 Emicat interea Veneris pulcherrima proles
 
 [6] 483 emicat interea Veneris pulcherrima proles
-- *Iliad* 5.514
+- 『イーリアス』 5.514
 
 484 densaque Graiorum premit agmina nudaque late
 
@@ -5421,7 +5400,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 485 terga metit gladio funestaque proelia miscet.
 
 [2] 485 Terga metit gladio, funestaque praelia miscet.
-- **(cont.)** … fortasse animo ejus obversatum est hemistichium Virgilii, Aen. X, 513: « Proxima quaeque metit gladio ».
+- **(cont.)** … おそらくウェルギリウスの半行 Aen. X, 513: « Proxima quaeque metit gladio »（剣で手当たり次第に薙ぎ払う）が彼の念頭にあったのかもしれない。
 
 [3] 485 Terga metit gladio funestaque praelia miscet.
 
@@ -5432,14 +5411,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 486 Nec cessat spes una Phrygum fortissimus Hector
 
 [2] 486 Nec cessat spes una PhryguiTi , fortissimus Hector,
-- Spes una Phrygum, frequens elogium Hectoris. Pentadius in tumulo Hectoris: Occubuere simul spesque salusque Phrygum; atque infra Noster, v. 944: « Unus, tota salus in quo Trojana manebat, Hector adest ». — Et inprimis Virgil. Aen. II, 281: « O lux Dardaniae! spes o fidissima Teucrum! » Ed. — Caeterum haec et sequentia Barth. Adv. p. 2771, admirabiliter scripta esse profitetur.
+- *Spes una Phrygum*（フリュギア人たちの唯一の希望）。ヘクトールに対して頻出する賛辞である。ペンタディウスの「ヘクトールの墓碑銘」に *Occubuere simul spesque salusque Phrygum*（フリュギア人の希望と救いとが同時に倒れた）とあり、また以下の 944 行でわれらの詩人は « Unus, tota salus in quo Trojana manebat, Hector adest » と述べている。――とりわけ Virgil. Aen. II, 281: « O lux Dardaniae! spes o fidissima Teucrum! »。パリ編者。――なおバルトは Adv. p. 2771 で、これおよび後続の箇所が実に見事に書かれていると明言している。
 
 [3] 486 Nec cessat spes una Phrygum fortissimus Hector
 
 [4] 486 Nec cessat spes una Phrygum fortissimus Hector
 
 [6] 486 nec cessat spes una Phrygum fortissimus Hector
-- *Iliad* 5.494
+- 『イーリアス』 5.494
 
 487 sternere caede uiros atque agmina uertere Graium.
 
@@ -5454,40 +5433,40 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 488 Vt lupus in campis pecudes cum uidit apertis
 
 [2] 488 Ut lupus in campis pecudes quum vidit apertis,
-- … Omnino tersa et ἐνεργὴς haec descriptio est lupi in greges irruentis, maxime propter extrema verba. Mallem tamen leonem pro lupo posuisset. Hujus enim non tam intrepida et custodum secura vis est, qualis hoc loco describitur, quam leonis, et scite insidiosum magis, quam fortem, lupum describit Virgil. Aen. XI, 810 seqq. Placuit sibi aliquantum auctor hac comparatione, judice Barthio, pag. 2771, ut paullo post similem repeteret leonis. In quo perperam fecisse ille, nimisque luxuriatus videri potest, nisi hoc ex ipsius Homeri imitatione fecit, qui duobus locis parum disjunctis Diomedem cum leone pecudes irruente comparat, Iliad. V, 136 et 161. Virgilio ista comparatio, ut Homero ipsi, frequens est. Vid. Aen. IX, 339 seqq. et X, 723 seq. Conf. Tigris apud Ovid. Metam. V, 164 seq.
+- … 群れに襲いかかる狼のこの描写は、とりわけ結びの言葉によって、全体として引き締まり生き生きとした（ἐνεργὴς）ものである。しかし私としては、狼の代わりにライオンを置いてほしかった。狼の力は、ここで描写されているほど恐れを知らず番人を意に介さないものではなく、それはむしろライオンのものであって、ウェルギリウスも Aen. XI, 810 以下で狼を勇敢というよりは狡猾なものとして巧みに描いているからである。バルトの判定（2771 頁）によれば、作者はこの直喩を少なからず気に入り、少し後にライオンの同様の直喩を繰り返した。この点において作者は誤りを犯し、過度に筆を弄したように見えるかもしれないが、それはホメーロス自身の模倣からなされたものであろう。ホメーロスも近接した二箇所（Iliad. V, 136 および 161）でディオメーデースを家畜に襲いかかるライオンになぞらえている。その比喩はホメーロス自身と同様、ウェルギリウスにも頻出する（Aen. IX, 339 以下、X, 723 以下を参照）。Ovid. Metam. V, 164 以下の虎の比喩と比較せよ。
 
 [3] 488 Ut lupus in campis pecudes cum uidit apertis,
 
 [4] 488 Ut lupus in campis pecudes cum vidit apertis,
 
 [6] 488 ut lupus in campis pecudes cum vidit apertis
-- *Iliad* —
-- **488—490** (testimonia) canum = Gesta Ber. 2, 163—5
+- 『イーリアス』 —
+- **488—490** （証言） *canum* = 『ベレンガリウスの事績』2, 163–5
 
 489 (non actor gregis ipse, comes non horrida terret
 
 [2] 489 Non ductor gregis ipse comes , non horrida terret
 
 [3] 489 Non actor gregis ipse comes, non horrida terret
-- **489—91** canum habent Gesta Bereng. II 163—65
+- **489—91** canum を『ベレンガリウス事績録』II 163–65 が有する
 
 [4] 489 Non actor gregis ipse comes, non horrida terret
 
 [6] 489 (non actor gregis ipse, comes non horrida terret
-- *Iliad* —
-- … distinxi post ipse; solent post comes
+- 『イーリアス』 —
+- … 私は ipse の後に句読点を打った。通常は comes の後に打たれる
 
 490 turba canum), fremit esuriens et neglegit omnes
 
 [2] 490 Turba canum , premit esuriens et negligit omnes ,
-- … — Caeterum his similia loquitur Val. Flaccus, VI, 615: « nec caede moratur in una Turbidus, inque omnes pariter furit ». Ed.
+- … ――なお、Val. Flaccus, VI, 615 にこれと類似の表現がある: « nec caede moratur in una Turbidus, inque omnes pariter furit »。パリ編者。
 
 [3] 490 Turba canum; fremit esuriens et neglegit omnes
 
 [4] 490 Turba canum; fremit esuriens et neglegit omnes
 
 [6] 490 turba canum), fremit esuriens et neglegit omnes
-- *Iliad* —
+- 『イーリアス』 —
 
 491 in mediosque greges auidus ruit, haut secus Hector
 
@@ -5498,7 +5477,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 491 In mediosque greges avidus ruit : liaut secus Hector
 
 [6] 491 in mediosque greges avidus ruit: haut secus Hector
-- *Iliad* —
+- 『イーリアス』 —
 
 492 inuadit Danaos et territat ense cruento.
 
@@ -5519,19 +5498,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 493 Deficiunt Grajorum acies, Phryges acrius instant
 
 [6] 493 deficiunt Graiorum acies, Phryges acrius instant
-- *Iliad* —
+- 『イーリアス』 —
 
 494 attolluntque animos: geminat uictoria uires.
 
 [2] 494 A.dtoUuntque animos : geminat victoria vires.
-- Adtolluntque animos e Virgilio, ut praecedens Deficiunt, est, Aen. XII, 2, 4. — Geminat victoria vires, graviter dictum, quod repetit versu 768.
+- *Adtolluntque animos*（そして気力を奮い立たせる）は、先行する *Deficiunt*（気落ちする）と同様、ウェルギリウスの Aen. XII, 2, 4 に由来する。――*Geminat victoria vires*（勝利が力を倍加させる）は重みのある表現であり、768 行でも繰り返されている。
 
 [3] 494 Adtolluntque animos: geminat uictoria uires.
 
 [4] 494 Attolluntque animos : geminat victoria vires.
 
 [6] 494 attolluntque animos: geminat victoria vires.
-- *Iliad* —
+- 『イーリアス』 —
 
 495 Vt uidit socios infesto cedere Marte,
 
@@ -5552,7 +5531,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 496 Rex Danaum, sublimis equo volat agmina circum
 
 [6] 496 rex Danaum, sublimis equo volat agmina circum
-- *Iliad* 5.528
+- 『イーリアス』 5.528
 
 497 hortaturque duces animosque in proelia firmat.
 
@@ -5589,13 +5568,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 500 Ut Libycus quum forte leo procul agmina vidit
 
 [3] 500 Ut Libycus cum forte leo procul agmina uidit
-- **500—504** : cf. Gesta Bereng. I 207—210
+- **500—504** : 『ベレンガリウス事績録』I 207–210 参照
 
 [4] 500 Ut Libycus cum forte leo procul agmina vidit
 
 [6] 500 ut Libycus cum forte leo procul agmina vidit
-- *Iliad* 5.161
-- **500—508** (testimonia) fere = Gesta Ber. 1, 208—10 (500 cernit, 502 Attollens)
+- 『イーリアス』 5.161
+- **500—508** （証言） ほぼ = 『ベレンガリウスの事績』1, 208–10 (500 *cernit*, 502 *Attollens*)
 
 501 laeta boum passim uirides errare per herbas,
 
@@ -5610,7 +5589,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 502 attollit ceruice iubas sitiensque cruoris
 
 [2] 502 Adtollit cervice jubas, sitiensque cruoris
-- Adtollit cervice jubas. Virgil. Aen. X, 726, de leone: « Gaudet hians immane, comasque arrexit ». Lucanus, I, 209: « Erexitque jubam ». Similiter Olympius Nemesian. Laud. Hercul. 93: « Excussis movet arma toris ».
+- *Adtollit cervice jubas*（首のたてがみを逆立てる）。Virgil. Aen. X, 726、ライオンについて: « Gaudet hians immane, comasque arrexit »。Lucanus, I, 209: « Erexitque jubam »。同様にオリュンピウス・ネメシアヌスの Laud. Hercul. 93: « Excussis movet arma toris »。
 
 [3] 502 Adtollit ceruice iubas sitiensque cruoris
 
@@ -5637,7 +5616,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 504 Sic ferus Atrides adversos fertur in hostes
 
 [6] 504 sic ferus Atrides adversos fertur in hostes
-- *Iliad* 5.533
+- 『イーリアス』 5.533
 
 505 infestasque Phrygum proturbat cuspide turmas.
 
@@ -5662,7 +5641,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 507 et spes exacuit languentia militis arma:
 
 [2] 507 Et spes exacuit languentia militis arma.
-- Et spes exacuit. Virg. Aen. X, 263: « spes addita suscitat iras: Tela manu jaciunt ».
+- *Et spes exacuit*（そして希望が研ぎ澄ます）。Virg. Aen. X, 263: « spes addita suscitat iras: Tela manu jaciunt »。
 
 [3] 507 Et spes exacuit languentia militis arma:
 
@@ -5683,7 +5662,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 509 Tandem hic Aenean immisso tendere curru
 
 [2] 509 Tandem hic ,neam immisso contendere curru
-- … Virg. Aeneid. XI, 889: « immissis pars caeca et concita frenis Arietat in portas ». Ovid. Met. I, 280: « Fluminibus vestris totas immittite habenas ».
+- … Virg. Aeneid. XI, 889: « immissis pars caeca et concita frenis Arietat in portas »。Ovid. Met. I, 280: « Fluminibus vestris totas immittite habenas »。
 
 [3] 509 Tandem hic Aenean inmisso tendere curru
 
@@ -5700,7 +5679,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 510 Conspicit Atrides strictoque occurrere ferro
 
 [6] 510 conspicit Atrides: stricto concurrere ferro
-- *Iliad* 5.561
+- 『イーリアス』 5.561
 
 511 comparat et iaculum, quantum furor ipse mouebat,
 
@@ -5711,45 +5690,45 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 511 Comparat et jaculum, quantas furor ipse movebat,
 
 [6] 511 comparat et iaculum, quantas furor ipse movebat,
-- *Iliad* —
+- 『イーリアス』 —
 
 512 uiribus intorquet, quod detulit error ab illo
 
 [2] 512 Viribus intorquet, quod depulit error ab illo
-- Depulit error. Ovid. Metam. XII, 83: « quamquam certa nullus fuit error in hasta ».
+- *Depulit error*（手元が狂って逸らした）。Ovid. Metam. XII, 83: « quamquam certa nullus fuit error in hasta »。
 
 [3] 512 Uiribus intorquet, quod detulit error ab illo
 
 [4] 512 Viribus intorquet, quod detulit error ab illo
 
 [6] 512 viribus intorquet, quod detulit error ab illo
-- *Iliad* —
-- detulit Schrader ex Ov. met. 5, 90 …
+- 『イーリアス』 —
+- detulit シュラーダー(オウィディウス『変身物語』5, 90 より) …
 
 513 pectus in aurigae stomachoque infigitur alto;
 
 [2] 513 Pectus in aurigse, stomachoque infigitur alto.
-- Stomachoque infigitur. Virgil. Aen. IX, 698: « volat Itala cornus Aera per tenerum, stomachoque infixa sub altum Pectus abit ».
+- *Stomachoque infigitur*（そして胃に突き刺さる）。Virgil. Aen. IX, 698: « volat Itala cornus Aera per tenerum, stomachoque infixa sub altum Pectus abit »。
 
 [3] 513 Pectus in aurigae stomachoque infigitur alto:
 
 [4] 513 Pectus in aurigae stomachoque infigitur alto :
 
 [6] 513 pectus in aurigae stomachoque infigitur alto:
-- *Iliad* 8.119
-- alto … at cf. Verg. Aen. 9, 699
+- 『イーリアス』 8.119
+- alto … だがウェルギリウス『アエネーイス』9, 699 を参照
 
 514 ille ruens ictu media inter lora rotasque
 
 [2] 514 Ille ruens ictu medla inter lora rotasque
-- Media inter lora. Virg. Aen. XII, 468: « Aurigam Turni media inter lora Metiscum Excutit ».
+- *Media inter lora*（手綱のただ中に）。Virg. Aen. XII, 468: « Aurigam Turni media inter lora Metiscum Excutit »。
 
 [3] 514 Ille ruens ictu media inter lora rotasque
 
 [4] 514 Ille ruens ictu media inter lora rotasque
 
 [6] 514 ille ruens ictu media inter lora rotasque
-- *Iliad* —
+- 『イーリアス』 —
 
 515 uoluitur et uitam calido cum sanguine fundit.
 
@@ -5760,7 +5739,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 515 Yolvitur et vitam calido cum sanguine fundit.
 
 [6] 515 voluitur et vitam calido cum sanguine fundit.
-- *Iliad* —
+- 『イーリアス』 —
 
 516 Ingemit Aeneas curruque animosus ab alto
 
@@ -5771,33 +5750,33 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 516 Ingemit Acneas curruque animosus ab alto
 
 [6] 516 ingemit Aeneas curruque animosus ab alto
-- *Iliad* —
+- 『イーリアス』 —
 
 517 desilit et ualido Crethona<que> comminus ictu
 
 [2] 517 Desilit, et valido Crethonem cominus ictu
-- … Ex Hom. Il. V, 542, legendum Crethona, quod quum metri ratio respueret, latinum casum Crethonem reposui.
+- … Hom. Il. V, 542 から *Crethona* と読まれるべきであるが、韻律の都合がこれを拒むため、私はラテン語の格語尾 *Crethonem* を復元した。
 
 [3] 517 Desilit et ualido Crethonaque cominus ictu
 
 [4] 517 Desilit et valido Cretlionaqne coniinus ictn
-- Crethona … (Iliad. V, 541 sqq.).
+- Crethona …（『イーリアス』V, 541 以下）。
 
 [6] 517 desilit et valido Crethona\<que> comminus ictu
-- *Iliad* 5.542
+- 『イーリアス』 5.542
 
 518 Orsilochumque ferit, quorum post funera uictus
 
 [2] 518 Orsilochumque ferit : quorum post fiinera victus
-- Orsilochum postulat Homerus l. c. …
+- ホメーロスの前掲箇所は *Orsilochum* を要求している。…
 
 [3] 518 Orsilochumque ferit, quorum post funera uictus
 
 [4] 518 Orsilochumque ferit, quorum post funera victus
-- **518, 520** Orsilochum, Antilochique Mydon … (Iliad. ibid. et 580).
+- **518, 520** Orsilochum, Antilochique Mydon …（『イーリアス』同所および 580）。
 
 [6] 518 Orsilochumque ferit, quorum post funera victor
-- … Aeneas evitavit Menelaum et Antilochon (E 571 ss.)
+- … アエネーアースはメネラーオスとアンティロコスを避けた (E 571 以下)
 
 519 Paphlagonum ductor Menelai concidit armis,
 
@@ -5808,19 +5787,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 519 Paphlagonum ductor Menelai concidit armis,
 
 [6] 519 Paphlagonum ductor Menelai concidit armis,
-- *Iliad* 5.577
+- 『イーリアス』 5.577
 
 520 Antilochique Mydon. Post hos Iouis inclita proles
 
 [2] 520 Antilochique Mydon : post hos Jovis inclyta proles
-- Antilochique Mydon: sic legendum esse ex Homero Bondamius monstravit. …
+- *Antilochique Mydon*。ホメーロスに基づいてこのように読まれるべきであることをボンダムが示した。…
 
 [3] 520 Antilochique Mydon; post hos Iouis inclita proles
 
 [4] 520 Antilochique Mydon ; post hos Jovis inclita proles
 
 [6] 520 Antilochique Mydon; post hos Iovis inclita proles
-- *Iliad* 5.580
+- 『イーリアス』 5.580
 
 521 Sarpedon bellum funestaque proelia miscet.
 
@@ -5845,15 +5824,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 523 Tlepolemus magno satus Hercule, sed neque uires
 
 [2] 523 Tlepolemus, magno satus Hercule; sed neque vires
-- Tlepolemus legendum esse ex Hom. Il. V, 628, apparet, …
+- Hom. Il. V, 628 から *Tlepolemus*（トレーポレモス）と読むべきであることは明らかであり、…
 
 [3] 523 Tlepolemus magno satus Hercule, sed neque uires
 
 [4] 523 Tlepolemus magno satus Hercule, sed neque vires
-- Tlepolemus … (Iliad. V, 628).
+- Tlepolemus …（『イーリアス』V, 628）。
 
 [6] 523 Tlepolomus magno satus Hercule, sed neque vires
-- *Iliad* 5.628
+- 『イーリアス』 5.628
 
 524 hunc seruare patris nec tot potuere labores,
 
@@ -5868,8 +5847,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 525 quin caderet tenuemque daret de corpore uitam.
 
 [2] 525 Quin caderet, tenuemque daret de corpore vitam.
-- Tenuemque daret de corpore vitam, i. e. redderet spiritum. Tenuem vitam vocat ex mente eorum, quos Virgilius laudat Georg. IV, 223, qui animas quasque animantium particulas esse animae mundi dicebant, eoque redire per mortem. « Hinc, inquit l. c. Quemque sibi te-
-- **(cont.)** nues nascentem arcessere vitas. » Et Aen. IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit ».
+- *Tenuemque daret de corpore vitam*（肉体から微かな命を差し出した）、すなわち息を引き取ったということ。彼が *tenuem vitam*（微かな命）と呼ぶのは、ウェルギリウスが Georg. IV, 223 で讃えている人々、すなわち生き物の個々の魂は世界霊魂（anima mundi）の微粒子であり、死を通じてそこへと還っていくと説いた人々の考えに即している。ウェルギリウスは前掲箇所で「ここから、生まれるときに各人が自分自身のためにかす-
+- **(cont.)** （前頁からの続き）-かな命を引き寄せる［« Quemque sibi tenues nascentem arcessere vitas »］」と述べている。また Aen. IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit »（熱気はことごとく去り、命は風の中へと退いた）。
 
 [3] 525 Quin caderet tenuemque daret de corpore uitam.
 
@@ -5886,43 +5865,43 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 526 Saucius egreditur medio certamine belli
 
 [6] 526 saucius egreditur medio certamine belli
-- *Iliad* 5.663
+- 『イーリアス』 5.663
 
 527 Sarpedon fraudisque subit commentor Vlixes
 
 [2] 527 Sarpedon, fraudisque subit cotnmentor Ulysses,
-- Fraudis commentor Ulysses dicitur, veluti hoc ejus fuerit artificium, inquit Barthius, Adv. LIX, 15, quale ab Homero aliisque Veteribus ei perpetuo tribuitur. Virgil. Aen. II, 164: « scelerumque inventor Ulysses »: idemque repetit Noster infra, v. 579. Similiter Ovidius de eo, Met. XIII, 31: « quid sanguine cretus Sisyphio, furtisque et fraude simillimus illi », cujus et commenta mox notat vs. 38. Hinc etiam, notante Dussenio ad Nostri versum 65, Ulysses in ara Dosiadae secunda φὼρ appellatur, ut pluribus ostendit Salmasius in notis, p. 156.
+- ユリシーズは *fraudis commentor*（詐術の考案者）と呼ばれているが、それはあたかもこれが彼の特技であるかのようであり、ホメーロスや他の古代人によって常に彼に帰せられている性質である、とバルトは Adv. LIX, 15 で述べている。Virgil. Aen. II, 164: « scelerumque inventor Ulysses »（悪謀の考案者ユリシーズ）。われらの詩人も下の 579 行で同じ表現を繰り返している。同様にオウィディウスも彼について Met. XIII, 31 で « quid sanguine cretus Sisyphio, furtisque et fraude simillimus illi » と述べており、すぐ後の 38 行でもその偽り言（*commenta*）を指摘している。ここからまた、ファン・デル・デュッセンがわれらの詩人の 65 行への注で指摘しているように、ドーシアダースの第二の『祭壇』においてユリシーズは φὼρ（盗人）と呼ばれており、サルマシウス（Salmasius）が注釈 156 頁で詳述している通りである。
 
 [3] 527 Sarpedon, fraudisque subit commentor Ulixes
 
 [4] 527 Sarpedon, fraudisque subit commentor Ulixes
 
 [6] 527 Sarpedon, fraudisque subit commentor Vlixes
-- *Iliad* 5.669
+- 『イーリアス』 5.669
 
 528 et septem iuuenum fortissima corpora fundit.
 
 [2] 528 'Et septem juvenum pulcherrima corpora fundit.
-- Et septem juvenum, Lyciorum, quos enumerat Homerus, Il. V, 677, Coeranum, Alastora, Chromium, Alcandrum, Halium, Noemona, Prytanim.
+- *Et septem juvenum*（そして七人の若者の）。ホメーロスが Il. V, 677 で列挙しているリュキア人たち、すなわちコイラノス、アラストール、クロミオス、アルカンドロス、ハリオス、ノエーモーン、プリュタニスのことである。
 
 [3] 528 Et septem iuuenum pulcherrima corpora fundit.
 
 [4] 528 Et septem juvenum fortissima corpora fundit.
 
 [6] 528 et septem iuvenum pulcherrima corpora fundit.
-- *Iliad* 5.677
+- 『イーリアス』 5.677
 
 529 Hinc pugnat patriae columen Mauortius Hector,
 
 [2] 529 Hinc pugnat patriae culmen, Mavortius Hector,
-- Guelf. 2 aliter verba ordinat: Hinc patriae culmen pugnat. Dussenius mavult columen legere, p. 29; quod sane maxime aptum Hectori, atque alteri elogio, quod ei supra tribuebat Noster, v. 486, spes una Phrygum, convenientissimum est. Similiter Seneca in Troad. vs. 126, de Hectore: « Columen patriae, mora fatorum, Tu praesidium Phrygibus fessis, Tu murus eras ». — « Graium murus Achilles », Ovid. Met. XIII, 281. Lucan. VI, 201, de Scaeva: « stat non fragilis pro Caesare murus, Pompeiumque tenet ». Caeterum quod addit Seneca l. c. « Tecum cecidit, summusque dies Hectoris idem patriaeque fuit », imitatus videtur Noster, infra vs. 1061. Vide notata a nobis ad Pentadii tumulum Hect. huj. op. t. II, p. 329. Ed. — Verum tamen nolim vocabulum in ipso contextu mutare, quum culmen adeo non disconveniat Hectori, ut saltem summam ejus dignitatem indicet. Ita plane Cornel. Severus Ciceronem vocat « Egregium semper patriae caput », supra pag. 211 hujus tomi.
+- ヴォルフェンビュッテル第2写本（G. 2）は語順を異にして *Hinc patriae culmen pugnat* とする。ファン・デル・デュッセンは 29 頁で *columen*（大黒柱／支柱）と読む方を好んでおり、それは実にヘクトールに極めて適しており、上にわれらの詩人が 486 行で彼に与えたもう一つの賛辞 *spes una Phrygum*（フリュギア人の唯一の希望）にも最もよく合致している。同様にセネカの Troad. 126 行で、ヘクトールについて次のようにある: « Columen patriae, mora fatorum, Tu praesidium Phrygibus fessis, Tu murus eras »。――« Graium murus Achilles »（ギリシア人の防壁アキッレウス）、Ovid. Met. XIII, 281。スカーエワについて Lucan. VI, 201: « stat non fragilis pro Caesare murus, Pompeiumque tenet »。なおセネカが前掲箇所で付け加えている « Tecum cecidit, summusque dies Hectoris idem patriaeque fuit » を、われらの詩人は下の 1061 行で模倣したように思われる。本著作第2巻329頁のペンタディウスの「ヘクトールの墓碑銘」に対するわれわれの注を参照。パリ編者。――とはいえ、本文自体の語を変更したいとは思わない。なぜなら *culmen*（頂／頂点）もヘクトールに不適切ではなく、少なくとも彼の最高の尊厳を示しているからである。まさしく同様にコルネリウス・セウェルスはキケローを « Egregium semper patriae caput »（常に祖国の卓越した首領）と呼んでいる（本巻の上の211頁）。
 
 [3] 529 Hinc pugnat patriae columen Mauortius Hector,
 
 [4] 529 Hinc pugnat patriae columen Mavortius Hector,
 
 [6] 529 hinc pugnat patriae columen Mavortius Hector,
-- *Iliad* 5.680
+- 『イーリアス』 5.680
 
 530 illinc Tydides: sternuntur utrimque uirorum
 
@@ -5933,7 +5912,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 530 Illinc Tydides : sternuntur utrimque virorum
 
 [6] 530 illinc Tydides: sternuntur utrimque virorum
-- *Iliad* 5.793
+- 『イーリアス』 5.793
 
 531 corpora per campos et sanguine prata rigantur.
 
@@ -5954,12 +5933,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 532 Pugnat bellipotens casta cum Pallade Mavors
 
 [6] 532 pugnat bellipotens casta cum Pallade Mavors
-- *Iliad* 5.846
+- 『イーリアス』 5.846
 
 533 ingentemque mouet clipeum, quem sancta uirago
 
 [2] 533 Ingentemque movet clypeum, quem sancta virago
-- … Virago frequens et fere proprium de Pallade. Flava virago Nasoni dicitur Met. VI, 130, « sancta virago », judice Barthio l. c. p. 2806, castam simul innuit et Martiam seu bellicosam.
+- … *Virago*（女傑／男勝りの乙女）はパッラスに関して頻出する語であり、ほぼ彼女固有の呼称である。オウィディウスは Met. VI, 130 で *flava virago*（金髪の女傑）と呼び、バルトの判断（前掲書 2806 頁）によれば、*sancta virago*（聖なる女傑）は純潔であると同時にマールス的、すなわち好戦的であることを示唆している。
 
 [3] 533 Ingentemque mouet clipeum, quem sancta uirago
 
@@ -5970,7 +5949,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 534 egit et extrema percussum cuspide caedit
 
 [2] 534 Aegide et extrema percussum cuspide caedit,
-- **(cont.)** … Et quamquam Homerus, qui haec narrat, Iliad. V, 841, nullam aegidis mentionem injicit, Noster tamen, qui Homero raro adhaeret, et poetas latinos saepe sequitur, hoc loco fortasse Horatium respexit, qui Palladem hoc ipso in certamine ait aegidem adhibuisse, Carm. I, 15, 11: « Jam galeam Pallas et aegida Currusque et rabiem parat ». — Et Ovidius, Met. V, 47: « Bellica Pallas adest, et protegit aegide fratrem ». Ed.
+- **(cont.)** … そしてこの出来事を語るホメーロス（Iliad. V, 841）はアイギスについて全く言及していないものの、ホメーロスに忠実に従うことは稀でラテン詩人たちに追随することの多いわれらの詩人は、おそらくこの箇所でホラーティウスを念頭に置いていたのであろう。ホラーティウスは Carm. I, 15, 11 で、パッラスがまさにこの戦いでアイギスを用いたと述べている: « Jam galeam Pallas et aegida Currusque et rabiem parat »。――またオウィディウスも Met. V, 47 で次のように述べている: « Bellica Pallas adest, et protegit aegide fratrem »。パリ編者。
 
 [3] 534 Egit et extrema percussum cuspide caedit
 
@@ -5987,12 +5966,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 535 Attonitumque simul caelum petere ipsa coegit;
 
 [6] 535 attonitumque simul caelum petere ipsa coegit;
-- *Iliad* 5.867
+- 『イーリアス』 5.867
 
 536 Hic ille aetherio queritur sua uulnera regi
 
 [2] 536 Hic ille aethereo queritur sua vulnera regi
-- … Repetit versum, quem supra pari de re adhibuit v. 471.
+- … 詩人は同様の事柄について上で用いた 471 行を繰り返している。
 
 [3] 536 Hic ille aethereo queritur sua uulnera regi
 
@@ -6003,40 +5982,40 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 537 saucius et magni genitoris iurgia suffert.
 
 [2] 537 Saucius , et magni genitoris jurgia suffert.
-- Jurg. suffert. Vid. v. 61 et 104.
+- *Jurg. suffert*（叱責を甘受する）。61 行および 104 行を参照。
 
 [3] 537 Saucius et magni genitoris iurgia suffert.
 
 [4] 537 Saucius et magni genitoris jurgia suffert.
 
 [6] 537 saucius et magni genitoris iurgia suffert.
-- *Iliad* 5.888
+- 『イーリアス』 5.888
 
 ## Book 6
 
 538 Interea magnis Acamantem uiribus Aiax
 
 [2] 538 VI. Interea magnis Acamantem viribus Ajax
-- Acamantem legunt Bondamius et Dussen. ll. cc. ex Homeri VI, 8. …
+- ボンダムおよびファン・デル・デュッセンは前掲箇所で、ホメーロスの VI, 8 に基づいて *Acamantem*（アカマースを）と読んでいる。…
 
 [3] 538 Interea magnis Acamantem uiribus Aiax
 
 [4] 538 Interea magnis Acamantem viribus Ajax
 
 [6] 538 interea magnis Acamantem viribus Aiax
-- *Iliad* 6.8
+- 『イーリアス』 6.8
 
 539 interimit uastumque capit Menelaus Adrastum
 
 [2] 539 Interimit, vastumque capit Menelaus Adrastum,
-- … propter narrationem Homeri, Iliad. VI, 37 seqq. qui refert, Adrastum equis pavore attonitis excussum, vivumque a Menelao prope adstante captum suppliciter hunc orasse, ut vitae suae parceret; atque hoc prius impetrasse, mox ab Agamemnone accurrente, et Menelaum objurgante, graviter vulneratum esse. … E qua intelligas, auctorem non hic miseras preces Adrasti respexisse, sed tantum casum ejus et captivitatem exprimere voluisse. …
+- … ホメーロス（Iliad. VI, 37 以下）の記述のゆえである。ホメーロスは、アドラーストスが恐怖で取り乱した馬から投げ出され、近くに立っていたメネラーオスに生け捕りにされて命乞いをし、はじめはそれを許されたものの、駆けつけてメネラーオスを叱責したアガメムノーンによって重傷を負わされたと伝えているからである。…この読みから、作者がここでアドラーストスの哀れな命乞いを考慮したのではなく、ただ彼の転落と捕縛を表現しようとしたにすぎないことが理解されるであろう。…
 
 [3] 539 Interimit, uastumque capit Menelaus Adrastum
 
 [4] 539 Interimit, vastumque capit Menelaus Adrastum
 
 [6] 539 interimit, vastumque capit Menelaus Adrastum
-- *Iliad* 6.37
+- 『イーリアス』 6.37
 
 540 et rapit ad classes manibus post terga reuinctis,
 
@@ -6047,20 +6026,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 540 Et rapit ad classes manibus post terga revinctis,
 
 [6] 540 et rapit ad classes manibus post terga revinctis,
-- *Iliad* —
-- (testimonia) manibus — revinctis = Gesta Ber. 3, 115
+- 『イーリアス』 —
+- （証言） *manibus — revinctis* = 『ベレンガリウスの事績』3, 115
 
 541 ut ui deducat laetos ex hoste triumphos.
 
 [2] 541 Ut vivo ducat laetos ex hoste triumphos.
-- … Caeterum truncavit hic auctor narrationem Homeri nimia brevitate. Nam quod Adrastus captus est, et ad naves deduci jussus, id solum narrat; reticuit autem, quod gravissimum erat, Adrastum ab Agamemnone, Menelai clementiam incusante, occisum.
+- … なお作者はここで、過度の簡潔さによってホメーロスの叙述を切り縮めてしまった。なぜなら、アドラーストスが捕らえられ船へと連行されるよう命じられたことだけを語り、最も重大な点、すなわちメネラーオスの寛容さを非難したアガメムノーンによってアドラーストスが殺害されたことを沈黙してしまったからである。
 
 [3] 541 Ut uiuo ducat laetos ex hoste triumphos.
 
 [4] 541 Ut vivo ducat laetos ex hoste triumphos.
 
 [6] 541 ut vivo ducat laetos ex hoste triumphos.
-- *Iliad* —
+- 『イーリアス』 —
 
 542 Incumbunt Danai, cedit Troiana iuuentus
 
@@ -6071,12 +6050,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 542 Incumbunt Danai, cedit Trojana juventus
 
 [6] 542 incumbunt Danai, cedit Troiana iuventus
-- *Iliad* 6.73
+- 『イーリアス』 6.73
 
 543 tergaque nuda tegit. Sensit Mauortius Hector
 
 [2] 543 Tergaque nuda tegit : seusit Mavortius Hector
-- Tergaque nuda tegit, clypeis puto, ne impune caedantur. Virg. Aen. XI, 630: « Bis rejecti armis respectant terga tegentes ».
+- *Tergaque nuda tegit*（そして無防備な背を覆う）。盾によってであろう、彼らがみすみす討ち取られぬように。Virg. Aen. XI, 630: « Bis rejecti armis respectant terga tegentes »（二度退けられ、武器で背を覆いつつ後方を振り返る）。
 
 [3] 543 Tergaque nuda tegit; sensit Mauortius Hector,
 
@@ -6123,12 +6102,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 547 Imperat et divae placari numina suadet.
 
 [6] 547 imperat et divae placari numina suadet.
-- *Iliad* 6.240
+- 『イーリアス』 6.240
 
 548 Protinus armatas innuptae Palladis arces
 
 [2] 548 Protinus armatas innuptse Palladis arces
-- … — Innuptae Minervae Virgil. Aen. II, 31.
+- … ――*Innuptae Minervae*（純潔のミネルウァの）は Virgil. Aen. II, 31。
 
 [3] 548 Protinus elatas innuptae Palladis arces
 
@@ -6139,7 +6118,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 549 Iliades subeunt: festis altaria sertis
 
 [2] 549 Iliades subeunt, festisque altaria sertis
-- Altaria sertis. Placandis scilicet numinibus, inquit Barthius l. c. Veteres non tantum victimas adhibebant, sed etiam coronas, aris cingendis, addo etiam delubris. Virg. Aen. II, 249: « Nos delubra Deum ... festa velamus fronde per urbem »; et IV, 202: « variis florentia limina sertis »; idem, Georg. IV, 276, « Saepe Deum nexis ornatae torquibus arae ».
+- *Altaria sertis*（祭壇を花輪で）。言うまでもなく神々を宥めるためである、とバルトは前掲の箇所で述べている。古代人は犠牲獣を用いるだけでなく、祭壇を、そして付け加えるなら神殿を取り巻くために花冠をも用いた。Virg. Aen. II, 249: « Nos delubra Deum ... festa velamus fronde per urbem »；同 IV, 202: « variis florentia limina sertis »；同 Georg. IV, 276: « Saepe Deum nexis ornatae torquibus arae »。
 
 [3] 549 Iliades subeunt: festis altaria sertis
 
@@ -6166,7 +6145,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 551 Dumque preces Hecuhe supplex ad templa Minervae
 
 [6] 551 dumque preces Hecabe supplex ad templa Minervae
-- *Iliad* 6.286
+- 『イーリアス』 6.286
 
 552 pro caris genetrix natis et coniuge fundit,
 
@@ -6187,7 +6166,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 553 Interea Glaucus stricto decernere ferro
 
 [6] 553 interea Glaucus stricto decernere ferro
-- *Iliad* 6.119
+- 『イーリアス』 6.119
 
 554 cum Diomede parat nomenque genusque roganti
 
@@ -6202,7 +6181,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 555 qui sit et unde ferat, magnis cum uiribus hastam
 
 [2] 555 Quis sit, et unde ferat, magnis cum viribus hastam
-- Et unde ferat, scilicet arma: …
+- *Et unde ferat*（そしてどこから携えてきたのか）、すなわち武器を。…
 
 [3] 555 Qui sit et unde, ferus magnis cum uiribus hastam
 
@@ -6223,7 +6202,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 557 "Quo ruis?" - exclamat - "quae te, scelerate, furentem
 
 [2] 557 cc Quo ruis! exclamat; quae te, scelerate, furentem
-- Te, scelerate: hoc profecto durius est, quam pro blanda oratione Diomedis, quae est apud Homerum, Iliad. VI, 123 seqq. … — Sed sceleratum saepe pro molesto et impio adhiberi monet Barthius, Adv. XXV, 15; ut Virgilius quidem « sceleratum frigus » dixit, et Rutilius: « Obruerint citius scelerata oblivia solem ». Ed.
+- *Te, scelerate*（汝、悪漢よ）: これはホメーロスの Iliad. VI, 123 以下のディオメーデースの穏やかな弁舌に比して確かに厳しすぎる。…――しかしバルトは Adv. XXV, 15 で、*sceleratus* はしばしば「厄介な、過酷な（molestus）」や「不敬な」の意で用いられると注意を促している。実際ウェルギリウスも « sceleratum frigus »（酷い寒さ）と言い、ルティリウスも « Obruerint citius scelerata oblivia solem »（忌まわしき忘却のほうが早く太陽を覆い尽くそう）と述べている。パリ編者。
 
 [3] 557 'Quo ruis?' exclamat, 'quae te, scelerate, furentem
 
@@ -6244,8 +6223,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 559 Hospitis arma uides, Veneris qui uulnere dextram
 
 [2] 559 Hospitis arma vides, Veneris qui vulnere dextram
-- Veneris quae vulnere dex-
-- **(cont.)** tram omnes dant. Barthius, Advers. p. 2807 hic docet iterandam esse vocem dextram hoc modo: Vides dextram, quae Veneris dextram vulneravit; et esse figuram poetis usitatam, qua, ubi vox quaedam eodem positu duabus rebus convenire possit, semel eam tantum ponant, sic tamen ut ambobus locis debeat aptari. …
+- *Veneris quae vulnere dex-*
+- **(cont.)** （前頁からの続き）-*tram* をすべての本が与えている。バルトは Adv. p. 2807 で、*dextram*（右手）という語を次のように反復して解すべきであると説いている: *Vides dextram, quae Veneris dextram vulneravit*（汝は見ている、ウェヌスの右手を傷つけた右手を）。そして、ある語が同じ格配置で二つの事柄に適合し得るとき、それを一度だけ置き、しかも両方の箇所に適用されねばならないようにする、詩人たちに慣用の修辞法であるとする。…
 
 [3] 559 Hospitis arma uides, Ueneris qui uulnere dextram
 
@@ -6256,7 +6235,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 560 perculit et summo pupugit certamine Martem.
 
 [2] 560 Perculit, et summo repulit certamine Martem.
-- … — Sed hoc, ut alia similiter composita, repulit, recidit, apud bonos poetas prima longa adhiberi solet. …
+- … ――しかしこの語は、同様の複合語 *repulit*, *recidit* と同じく、優れた詩人たちにおいては第一音節を長くして用いられるのが通例である。…
 
 [3] 560 Perculit et summo pupugit certamine Martem.
 
@@ -6293,7 +6272,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 563 Commutant clipeos inimicaque proelia lincunt.
 
 [6] 563 commutant clipeos inimicaque proelia linquunt.
-- *Iliad* 6.233
+- 『イーリアス』 6.233
 
 ## Book 7
 
@@ -6306,12 +6285,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 564 Colloquium petit interea fidissima conjunx
 
 [6] 564 colloquium petit interea fidissima coniunx
-- *Iliad* 6.394
+- 『イーリアス』 6.394
 
 565 Hectoris Andromache paruumque ad pectora natum
 
 [2] 565 Hectoris Andromache, parvumque ad pectora natum
-- Ad pectora natum tenet. Virg. Aen. VII, 318: « Et trepidae matres pressere ad pectora natos ».
+- *Ad pectora natum tenet*（子を胸に抱き寄せる）。Virg. Aen. VII, 318: « Et trepidae matres pressere ad pectora natos »。
 
 [3] 565 Hectoris Andromache paruumque ad pectora natum
 
@@ -6352,19 +6331,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 569 terribilemque fugit galeam cristamque comantem.
 
 [2] 569 Terribilemque fugit galeam , cristamque micantem.
-- … Nam micare poetis saepe idem est ac vibrari et tremere. Crista vero galeae eo maxime terrebat infantem, quod valde micabat nutabatque adversus ora ipsius. Manus jactare micantes vidimus in Calp. Ecl. II, 26. Ovid. Her. V, 37: « Attoniti micuere sinus ». Idem, Met. IX, 37: « Et modo cervicem, modo crura micantia captat ».
+- … 詩人たちにおいて *micare* はしばしば「震える、揺らめく」と同じ意味だからである。実際、兜の前立が幼子を何よりも怖がらせたのは、それが幼子の顔の前で激しく揺れ動き、頷くように揺れたからであった。Calp. Ecl. II, 26 に *manus jactare micantes*（素早く動く両手を振る）とあるのを見た。Ovid. Her. V, 37: « Attoniti micuere sinus »；同 Met. IX, 37: « Et modo cervicem, modo crura micantia captat »。
 
 [3] 569 Terribilemque fugit galeam cristasque comantes.
 
 [4] 569 Terribilemque fugit galeam cristamque micantem.
 
 [6] 569 terribilemque fugit galeam cristamque comantem.
-- *Iliad* 6.469
+- 『イーリアス』 6.469
 
 570 Vtque caput iuuenis posito detexerat aere,
 
 [2] 570 Utque caput juvenis posito detexerat aere ,
-- Juvenis, de quovis bellatore dicitur; hic de Hectore. — Posito aere, deposita galea aerea.
+- *Juvenis*（若者）はいかなる戦士についても言われるが、ここではヘクトールを指す。――*Posito aere*（青銅を脱ぎ置いて）は、青銅の兜を脱ぎ置いて。
 
 [3] 570 Utque caput iuuenis posito detexerat aere,
 
@@ -6391,7 +6370,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 572 Attollensque manus « Precor, o pater optime » dixit,
 
 [6] 572 attollensque manus 'precor, o pater optime' dixit,
-- *Iliad* 6.476
+- 『イーリアス』 6.476
 
 573 "ut meus hic, pro quo tua numina, natus, adoro,
 
@@ -6406,7 +6385,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 574 uirtutes patrias primis imitetur ab annis."
 
 [2] 574 Virtutes patrias primis imitetur ab annis».
-- … Ego vero magis aptum personae Hectoris patris, de filio loquentis, verbum puto imitetur, quam si dixisset miretur. Jactantius id verbum, ubi pater de semetipso loquitur. Ut vero imitetur se filius, id dignum patre monitum. Praeterea necessarium est verbum imitetur, quod addit patrias virtutes. Has imitari decet, mirari magis personam propter virtutes. Magis respicere scriptor illud dictum Virgilianum potuit, quo Aeneas filium hortatur, Aen. XII, 435: « Disce, puer, virtutem ex me, verumque laborem, Fortunam ex aliis ». …
+- … しかし私は、息子について語る父ヘクトールの人物像には、*miretur* と言った場合よりも *imitetur* という語のほうが適していると考える。父が自らについて語る際に称賛を求めるのはあまりに自慢たらしく響く。だが息子が己を見習うように求めることこそは、父にふさわしい訓戒である。さらに彼が *patrias virtutes*（父の美徳）を付け加えている以上、*imitetur* という語は必須である。美徳は見習うべきものであり、美徳のゆえに称賛されるのはむしろ人格である。作者はむしろ、アイネイアースが息子を励ますウェルギリウスの格言（Aen. XII, 435: « Disce, puer, virtutem ex me, verumque laborem, Fortunam ex aliis »［子よ、美徳と真の労苦を余より学べ、幸運は他者より学べ］）を念頭に置いていた可能性が高い。…
 
 [3] 574 Uirtutes patrias primis imitetur ab annis'.
 
@@ -6423,7 +6402,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 575 Haec ait, et portis acies petit acer apertis;
 
 [6] 575 haec ait et portis acies petit acer apertis;
-- *Iliad* 7.1
+- 『イーリアス』 7.1
 
 576 una deinde Paris. Postquam in certamina uentumst,
 
@@ -6454,19 +6433,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 578 Grajorumque duces invictis provocat armis.
 
 [6] 578 Graiorumque duces invictis provocat armis.
-- *Iliad* 7.55
+- 『イーリアス』 7.55
 
 579 Nec mora: continuo fraudis commentor Vlixes
 
 [2] 579 Nec mora, continuo fraudis commentor Ulysses,
-- Fraudis commentor. Homerico more ex versu 527 repetiit.
+- *Fraudis commentor*（詐術の考案者）。ホメーロス風の手法で 527 行から繰り返した。
 
 [3] 579 Nec mora: continuo fraudis commentor Ulixes
 
 [4] 579 Nec mora : continuo fraudis commentor Ulixes
 
 [6] 579 nec mora: continuo fraudis commentor Vlixes
-- *Iliad* 7.161
+- 『イーリアス』 7.161
 
 580 et ferus Idomeneus et notus gente paterna
 
@@ -6527,19 +6506,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 585 Procedunt; aberat nam Troum terror Achilles
 
 [6] 585 procedunt; aberat nam Troum terror Achilles
-- *Iliad* 7.229
+- 『イーリアス』 7.229
 
 586 et cithara dulci durum lenibat amorem.
 
 [2] 586 Et dulci cithara dirum lenibat amorem.
-- … Nam ipse Noster, supra, v. 25 ferum amorem dicebat, atque infra, v. 641 eadem fere dictione utitur: Praedaque, quae duros Menelai mulceat ignes. Hic vero imitatus videtur Maronem, qui Georg. IV, 464, de Orpheo: « Ipse cava solans aegrum testudine amorem ».
+- … というのも、われらの詩人自身が上掲の 25 行で *ferum amorem*（野蛮な愛）と述べており、下掲の 641 行でもほぼ同様の言回しを用いているからである: *Praedaque, quae duros Menelai mulceat ignes*（メネラーオスの激しき情火を和らげる戦利品）。そしてここでは、ウェルギリウスが Georg. IV, 464 でオルペウスについて « Ipse cava solans aegrum testudine amorem »（彼自ら中空の亀甲（竪琴）にて病める愛を慰めつつ）と述べたのを模倣したように思われる。
 
 [3] 586 Et cithara dulci durum lenibat amorem.
 
 [4] 586 Et citbara dulci durum lenibat amorem.
 
 [6] 586 et cithara dulci † divum lenibat amores.
-- *Iliad* 9.186
+- 『イーリアス』 9.186
 
 586a
 
@@ -6554,14 +6533,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 587 Ergo ubi deiectis auratam regis Atridae
 
 [2] 588 Ergo ubi dejectis auratam regis Atridae
-- Ergo ubi dejectis. Sumpsit a Virgilio, Aen. V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea ».
+- *Ergo ubi dejectis*（それゆえ投げ入れられた［籤］において……）。Virg. Aen. V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea »（男たちは集い、投げ入れられた籤を青銅の兜が受けた）から取られた。
 
 [3] 587 Ergo ubi deiectis auratam regis Atridae
 
 [4] 587 Ergo ubi dejectis auratam regis Atridae
 
 [6] 587 ergo ubi deiectis auratam regis Atridae
-- *Iliad* 7.181
+- 『イーリアス』 7.181
 
 588 sortibus in galeam magnus processerat Aiax,
 
@@ -6592,7 +6571,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 589 Principio jactis commidunt proelia telis,
 
 [6] 589 principio iactis committunt proelia telis:
-- *Iliad* 7.244
+- 『イーリアス』 7.244
 
 590 mox rigidos stringunt enses et fortibus armis
 
@@ -6603,19 +6582,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 590 Mox rigidos slringunt enses et forlibus armis
 
 [6] 590 mox rigidos stringunt enses et fortibus armis
-- *Iliad* —
+- 『イーリアス』 —
 
 591 decernunt partesque oculis rimantur apertas
 
 [2] 593 Decernunt, partesque oculis rimantur apertas;
-- … Ipse Noster sensum hujus versus declarat infra, vs. 605: « quaque patebat Nuda viri cervix, fulgentem dirigit ensem ». Simili sententia Virgil. Aeneid. XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis ». — Respicit eum ritum pugnantium Cicero, in Verr. VII, 71: « Si ullum locum aperuerimus suspicioni aut crimini, accipiendum est statim vulnus ». Ed.
+- … われらの詩人自身がこの行の意味を下掲の 605 行で明らかにしている: « quaque patebat Nuda viri cervix, fulgentem dirigit ensem »（そして男のむき出しの首筋が露出していた箇所へ、輝く剣を向ける）。同様の趣旨で Virgil. Aeneid. XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis »。――キケローは『ウェッレース弾劾演説』V (VII), 71 で、戦う者たちのこの習慣に言及している: « Si ullum locum aperuerimus suspicioni aut crimini, accipiendum est statim vulnus »（もし疑念や告発に少しでも隙を見せるなら、直ちに傷を受けねばならない）。パリ編者。
 
 [3] 591 Decernunt partesque oculis rimantur apertas
 
 [4] 591 Decernunt partesque oculis rimantur apertas
 
 [6] 591 decernunt partesque oculis rimantur apertas
-- *Iliad* —
+- 『イーリアス』 —
 
 592 et modo terga petunt, duros modo fortibus ictus
 
@@ -6626,7 +6605,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 592 Et modo terga petunt, duros modo forlibus ictus
 
 [6] 592 et modo terga petunt, duros modo fortibus ictus
-- *Iliad* —
+- 『イーリアス』 —
 
 593 depellunt clipeis; ingens ad sidera clamor
 
@@ -6637,7 +6616,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 593 Depellunt clipeis; ingens ad sidera clamor
 
 [6] 593 depellunt clipeis; ingens ad sidera clamor
-- *Iliad* —
+- 『イーリアス』 —
 
 594 tollitur et uastis impletur uocibus aer.
 
@@ -6648,7 +6627,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 594 Tollitur et vastis impletur vocibus aellier.
 
 [6] 594 tollitur et vastis impletur vocibus aer.
-- *Iliad* —
+- 『イーリアス』 —
 
 595 Non sic saetigeri exacuunt feruoribus iras
 
@@ -6659,7 +6638,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 595 Non sic setigeri exacuunt fervoribus iras
 
 [6] 595 non sic saetigeri exacuunt fervoribus iras
-- *Iliad* 7.257
+- 『イーリアス』 7.257
 
 596 pectoribusque petunt uastis, modo dentibus uncis
 
@@ -6670,7 +6649,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 596 Pectoribusque fremunt vastis, mox dentibus uncis
 
 [6] 596 pectoribusque petunt vastis, modo dentibus uncis
-- *Iliad* —
+- 『イーリアス』 —
 
 597 alterni librant gladios et uulnera miscent.
 
@@ -6681,31 +6660,31 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 597 below Alterni librant gladios et vulnera miscent
 
 [6] 597 alterni librant gladios et vulnera miscent.
-- *Iliad* —
+- 『イーリアス』 —
 
 598 fortia terga premunt spumantque per ora uicissim;
 
 [2] 600 Fortia terga petunt, spumantque per ora vicissim :
-- … Nam cur dura dicantur apri terga, explicat Virg. Georg. III, 256: « fricat arbore costas, Atque hinc atque illinc humeros ad vulnera durat ». Hinc ab Olympio, Laud. Hercul. 110, aper vocatur « duratus armos scopulis ».
+- … 野猪の背がなぜ *dura* と呼ばれるのかは、Virg. Georg. III, 256 が説明している: « fricat arbore costas, Atque hinc atque illinc humeros ad vulnera durat »（木に肋骨をこすりつけ、傷口に対抗してあちこち肩を硬く鍛える）。これゆえオリュンピウス［ネメシアヌス］の Laud. Hercul. 110 において、猪は « duratus armos scopulis »（岩で肩を硬く鍛えた）と呼ばれている。
 
 [3] 598 Fortia terga tremunt spumantque fera ora uicissim,
 
 [4] 598 Fortia terga petunt spumantque per ora vicissim,
 
 [6] 598 fortia terga premunt spumantque per ora vicissim
-- *Iliad* —
+- 『イーリアス』 —
 
 599 fumiferae nubes concretaque fulgura et ignes
 
 [2] 601 Fumiferse nubes, concretaque fulgura, et ignes
-- … « Fumiferos ignes » vocat Virg. Aen. IX, 522; « fumificos mugitus » Ovid. Metam. VII, 114. … Barthius vero l. c. adnotat, crasse hoc dictum ab auctore, quum fulgura et ignes ab apris exspirari dicat. Solent quidem ignes equis et tauris tribui a poetis (vid. Nemes. Cyneg. 255, et Petronii carm. de saga, vs. 11), fulmen etiam apro, sed hoc tamen illi moderatius faciunt, quam Noster. Ovidius, Met. VIII, 289, de apro Calydonio: « Fulmen ab ore venit, frondes adflatibus ardent »; et X, 550, « Fulmen habent acres in aduncis dentibus apri ».
+- … ウェルギリウスは Aen. IX, 522 で « Fumiferos ignes » と呼び、オウィディウスは Metam. VII, 114 で « fumificos mugitus » と呼んでいる。…しかしバルトは前掲の箇所で、作者が野猪から稲妻と火が吐き出されると述べているのは粗野な表現であると注記している。確かに詩人たちによって馬や雄牛に火が帰せられることは通例であり（Nemes. Cyneg. 255 およびペトロニウスの妖術師についての詩 11 行を参照）、野猪にも稲妻が帰せられるが、彼らはわれらの詩人よりも節度をもってそれを行っている。Ovidius, Met. VIII, 289、カリュドーンの猪について: « Fulmen ab ore venit, frondes adflatibus ardent »（口より稲妻が出で、その息吹で木の葉が燃え上がる）；同 X, 550: « Fulmen habent acres in aduncis dentibus apri »（獰猛なる猪は鉤形の牙に稲妻を宿す）。
 
 [3] 599 Fumiferae nubes concrescunt, fulgura et ignes
 
 [4] 599 Fumiferae nubes et crebri fulminis ignes
 
 [6] 599 fumiferae nubes concretaque fulgura et ignes
-- *Iliad* —
+- 『イーリアス』 —
 
 600 iactantur magnoque implentur murmure siluae.
 
@@ -6716,7 +6695,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 600 Jactantnr magnoque implentur murmure silvae.
 
 [6] 600 iactantur magnoque implentur murmure silvae:
-- *Iliad* —
+- 『イーリアス』 —
 
 601 Tales Priamides ardorque Aiacis in armis
 
@@ -6727,7 +6706,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 601 below Talis Priamides similisque Aeacides armis
 
 [6] 601 tales Priamides ardorque Aiacis in armis
-- *Iliad* —
+- 『イーリアス』 —
 
 602 Tandem animis teloque furens Telamonius Aiax
 
@@ -6768,7 +6747,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 605 Ille ictum celeri praevidit callidus astu
 
 [6] 605 ille ictum celeri praevidit callidus astu
-- *Iliad* 7.254
+- 『イーリアス』 7.254
 
 606 tergaque summisit ferrumque umbone repellit.
 
@@ -6799,7 +6778,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 608 Guspis et exiguo cervicem vulnere libat.
 
 [6] 608 ensis et exiguo cervicem vulnere libat.
-- *Iliad* 7.262
+- 『イーリアス』 7.262
 
 609 Acrius impugnans rursus consurgit in hostem
 
@@ -6830,12 +6809,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 611 Sed magno saxi jactu petit; at ferus Ajax
 
 [6] 611 sed magno saxi iactu petit; at ferus Aiax
-- *Iliad* 7.264
+- 『イーリアス』 7.264
 
 612 ingentem clipeo septemplice reppulit ictum
 
 [2] 614 Ingentem clypeo septemplice depulit ictum ,
-- … Clypeo septemplice secundum Ovidium, qui Met. XIII, 2 ait, « clypei dominus septemplicis Ajax »; et ejusdem libri, v. 346: « frustra Telamone creatus Gestasset laeva taurorum tergora septem ». Virgilius, XII, 925, de Turno: « orasque recludit Loricae, et clypei extremos septemplicis orbes ».
+- … *Clypeo septemplice*（七重の盾で）はオウィディウスに倣ったものであり、彼は Met. XIII, 2 で « clypei dominus septemplicis Ajax »（七重の盾の主アイアース）といい、また同書 346 行で « frustra Telamone creatus Gestasset laeva taurorum tergora septem »（テラモーンの子は無駄に左手に七重の牛革を帯びていたことになろう）と述べている。ウェルギリウスは Aen. XII, 925 でトゥルヌスについてこう述べている: « orasque recludit Loricae, et clypei extremos septemplicis orbes »（胸甲の縁を切り開き、七重の盾の最外周の輪を貫く）。
 
 [3] 612 Ingentem clipeo septemplice reppulit ictum
 
@@ -6862,12 +6841,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 614 Quem levat exceptum Grais inimicus Apollo,
 
 [6] 614 quem levat exceptum Grais inimicus Apollo
-- *Iliad* 7.272
+- 『イーリアス』 7.272
 
 615 integratque animum; iam rursus ad arma coibant
 
 [2] 617 Integratque animum : jam rursus ad arma coibant,
-- **(cont.)** Integrare, monente Barthio, Adv. p. 2807, pulchre est restituere in integrum, reficere; quemadmodum supra, v. 101, dixit: « Et Troum renovare velis in praelia vires ». Statius, Theb. VIII, 657: « bellum integrabat Enyo ». Seneca, Medea, v. 672: « semet dolor Accendit ipse, vimque praeteritam integrat ».
+- **(cont.)** （前頁からの続き）*Integrare*（新たにする）は、バルトの指摘（*Adv.* p. 2807）によれば、元の完全な状態に戻すこと（*in integrum*）、更新することを実に見事に意味している。上の 101 行で彼が « Et Troum renovare velis in praelia vires »（そして戦いへ向けてトロイア勢の力を一新させようと欲する）と言ったのと同様である。Statius, *Theb.* VIII, 657: « bellum integrabat Enyo »。Seneca, *Medea*, v. 672: « semet dolor Accendit ipse, vimque praeteritam integrat »。
 
 [3] 615 Integrat atque animum; iam rursus ad arma coibant
 
@@ -6894,7 +6873,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 617 Coeperat igniferos Titan immergere currus
 
 [6] 617 coeperat igniferos Titan immergere currus
-- *Iliad* 7.282
+- 『イーリアス』 7.282
 
 618 noxque subire polum: iuxta mittuntur, utrosque
 
@@ -6905,7 +6884,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 618 Noxque subire polum : juxta mittuntur utrimque
 
 [6] 618 noxque subire polum: iuxta mittuntur, utrosque
-- *Iliad* 7.274
+- 『イーリアス』 7.274
 
 619 qui dirimant a caede uiros, nec segnius illi
 
@@ -6926,19 +6905,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 620 Deponunt animos. Tum bello maximus Hector
 
 [6] 620 deponunt animos. tum bello maximus Hector
-- *Iliad* 7.287
+- 『イーリアス』 7.287
 
 621 "Quae te terra uirum, qui te genuere parentes?
 
 [2] 623 «Quae te terra virum, qui te genuere parentes?
-- … Virg. Aen. I, 606: « qui tanti talem genuere parentes ».
+- … Virg. *Aen.* I, 606: « qui tanti talem genuere parentes »。
 
 [3] [621] ['Quae te terra uirum, qui te genuere parentes?
 
 [4] 621 below « Quae te terra virum, qui te genuere parentes?
 
 [6] 621 'quae te terra virum, qui te genuere parentes?
-- *Iliad* —
+- 『イーリアス』 —
 
 622 Viribus es proles generosa atque inclita" - dixit.
 
@@ -6949,7 +6928,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 622 below Viribus es proles generosa atque inclita » dixit.
 
 [6] 622 viribus es proles generosa atque inclita' dixit.
-- *Iliad* —
+- 『イーリアス』 —
 
 623 At contra se ferre parat Telamonius Aiax:
 
@@ -6960,8 +6939,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 623 below At eontra referre parat Telamonius Ajax :
 
 [6] 623 at contra se ferre parat Telamonius Aiax:
-- *Iliad* —
-- … cf. Verg. Aen. 5, 372
+- 『イーリアス』 —
+- … ウェルギリウス『アエネーイス』5, 372 を参照
 
 624 "Hesiona de matre uides Telamone creatum,
 
@@ -6972,7 +6951,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 624 below « Hesione de malre vides Telamone creatum;
 
 [6] 624 'Hesiona de matre vides Telamone creatum,
-- *Iliad* —
+- 『イーリアス』 —
 
 625 nobilis est domus et fama generosa propago."
 
@@ -6983,19 +6962,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 625 below Nobilis est domus et fama generosa propago ».
 
 [6] 625 nobilis est domus et fama generosa propago'.
-- *Iliad* —
+- 『イーリアス』 —
 
 626 Hector, ut Hesionae nomen casusque recordans:
 
 [2] 628 Hector ut Hesjpnae nomen casusque recordat,
-- … et recordat dignum est hoc poetastro, quem antiquatas verborum formas subinde usurpare, ex pluribus exemplis novimus. — Videantur quae supra adnotata sunt ad versum 456, et ad Nemesiani fragment. de Aucupio. Ed. — Caeterum Hesione, cujus hic mentio, Laomedontis Trojae regis filia fuit, quam Hercules ceto expositam liberavit; postea Troja capta Telamoni, qui primus murum conscenderat, uxorem dedit. Ovid. Metam. XI, 216 sqq.
+- … また *recordat*［能動態］は、古風な動詞の形式を時折用いることが多くの用例から知られているこの三流詩人にふさわしいからである。――上の 456 行の注、およびネメシアヌスの『鳥刺し考』(*De Aucupio*) 断片への注を参照されたい。パリ編者。――なお、ここで言及されているヘーシオネーは、トロイア王ラーオメドーンの娘であり、海獣に差し出されていたところをヘーラクレースによって救出された。その後トロイアが陥落した際、ヘーラクレースは最初に城壁をよじ登ったテラモーンに彼女を妻として与えた。Ovid. *Metam.* XI, 216 以下。
 
 [3] 626 Hector ut Hesionae nomen casusque recordat]
 
 [4] 626 below Hector ut Hesionae nomen casusque recordat :
 
 [6] 626 Hector, ut Hesionae nomen casusque recordans,
-- *Iliad* —
+- 『イーリアス』 —
 
 627 "Absistamus" - ait - "sanguis communis utriquest",
 
@@ -7006,7 +6985,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 627 « Absistamus » ait, «nam vis communis utrique »;
 
 [6] 627 'absistamus' ait, 'sanguis communis utrique est'
-- *Iliad* —
+- 『イーリアス』 —
 
 628 et prior Aeaciden aurato munerat ense
 
@@ -7017,7 +6996,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 628 Et prior Ajacem fulgenti munerat ense
 
 [6] 628 et prior Aeaciden aurato munerat ense
-- *Iliad* 7.303
+- 『イーリアス』 7.303
 
 629 inque uicem, quo se bellator cinxerat Aiax,
 
@@ -7032,7 +7011,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 630 accipit insignem uario caelamine balteum.
 
 [2] 632 Accipit insignem vario caelamine balteum.
-- **(cont.)** … Balteum dissyllabum fecit exemplo Virgilii, Aen. X, 496: « rapiens immania pondera baltei ». Caelamina clypei dicit Ovid. Met. XIII, 291.
+- **(cont.)** … 作者は Virg. *Aen.* X, 496: « rapiens immania pondera baltei » の例に倣って *balteum* を2音節［連形］とした。Ovid. *Met.* XIII, 291 は *caelamina clypei*（盾の彫刻）と言っている。
 
 [3] 630 Accipit insignem uario caelamine balteum.
 
@@ -7069,7 +7048,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 633 Implentur dapibus largis Bacchique liquore
 
 [6] 633 implentur dapibus largis Bacchique liquore
-- *Iliad* 7.320
+- 『イーリアス』 7.320
 
 634 atque auidi placido tradunt sua corpora somno.
 
@@ -7080,21 +7059,21 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 634 Atque avidi placido tradunt sua corpora somno.
 
 [6] 634 atque avidi placido tradunt sua corpora somno.
-- *Iliad* —
+- 『イーリアス』 —
 
 635 Postera cum primum stellas Aurora fugarat,
 
 [2] 637 Postera quum primum stellas Aurora fugarat ,
-- … Bondamius aeque putat Ovidium hoc versu ab auctore expressum, Met. XV, 665: « Postera sidereos Aurora fugaverat ignes »; et Met. IV, 81: « Postera nocturnos Aurora removerat ignes ». — Et poterat advocari Virgilii locus, Aeneid. III, 521: « Jamque rubescebat stellis Aurora fugatis ». Ed. — Ego vero Virgilii potius locum hic usurpatum video Aen. V, 42: « Postera quum primo stellas Oriente fugarat Clara dies, socios in coetum litore ab omni Advocat Aeneas ». …
+- … ボンダムは、作者がこの行で同様にオウィディウスに倣ったと考えている。*Met.* XV, 665: « Postera sidereos Aurora fugaverat ignes »、および *Met.* IV, 81: « Postera nocturnos Aurora removerat ignes »。――またウェルギリウスの箇所 *Aeneid* III, 521 も援用できよう: « Jamque rubescebat stellis Aurora fugatis »。パリ編者。――しかし私としては、むしろウェルギリウスの *Aen.* V, 42: « Postera quum primo stellas Oriente fugarat Clara dies, socios in coetum litore ab omni Advocat Aeneas » がここで採用されたと見る。…
 
 [3] 635 Postera cum primum stellas Aurora fugarat,
-- : cf. Gesta Bereng. III 90
+- : 『ベレンガリウス事績録』III 90 参照
 
 [4] 635 Postera cum primum stellas Aurora fugarat,
 
 [6] 635 postera cum primum stellas Aurora fugarat,
-- *Iliad* —
-- (testimonia) = Gesta Ber. 3, 90 (fugaret)
+- 『イーリアス』 —
+- （証言） = 『ベレンガリウスの事績』3, 90 (*fugaret*)
 
 636 in coetum uenere Phryges. Tunc maximus Hector
 
@@ -7105,7 +7084,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 636 In coetum venere Phryges; tum maximus Hector
 
 [6] 636 in coetum venere Phryges; tunc maximus Hector
-- *Iliad* 7.345
+- 『イーリアス』 7.345
 
 637 cum sociis memorans hesternae funera caedis
 
@@ -7156,7 +7135,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 641 Pertulit Idaeus Troum mandata, neque ille
 
 [6] 641 pertulit Idaeus Troum mandata; neque ille
-- *Iliad* 7.381
+- 『イーリアス』 7.381
 
 642 aut animum praedae aut dictis accommodat aures,
 
@@ -7177,7 +7156,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 643 Ultro etiam castris Idaeum cxcedere jussit.
 
 [6] 643 ultro etiam castris Idaeum excedere iussit.
-- *Iliad* —
+- 『イーリアス』 —
 
 644 Paruit is monitis iterumque ad castra reuersus
 
@@ -7188,32 +7167,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 644 Paruit is monilis iterumque ad castra reversus
 
 [6] 644 paruit is monitis iterumque ad castra reversus
-- *Iliad* 7.413
+- 『イーリアス』 7.413
 
 645 Troiae contemptum duro se reddit ab hoste.
 
 [2] 647 Trojae, contemptum duro se reddit ab hoste.
-- … Neque offendere debet se reddit, quod jam adfuit iterum reversus. Talis enim pleonasmus frequens est bonis scriptoribus. Suetonius in Jul. cap. 2: « intra paucos rursus dies repetita Bithynia ». Plautus in Poenuli Prol. 79: « Revertor rursus denuo Carthaginem ».
+- … また、すでに再び引き返してそこに居るのだから *se reddit*（身を戻す）はおかしい、と不審に思うべきではない。そのような冗語（プレオナスムス）は優れた作家にも頻出するからである。Suetonius, *Jul.* 2: « intra paucos rursus dies repetita Bithynia »。Plautus, *Poenulus* 序幕 79: « Revertor rursus denuo Carthaginem »。
 
 [3] 645 Troica contemptum duro se reddit ab hoste.
 
 [4] 645 Troica contemptum duro se reddit ab hoste.
 
 [6] 645 Troiae contemptum duro se reddit ab hoste.
-- *Iliad* —
+- 『イーリアス』 —
 
 646 Interea Danai confusi caede suorum
 
 [2] 648 Interea Danai conflisi caede suorum
-- … Confundi dicunt sequioris latinitatis scriptores pro perturbari animo. Sic Juvenal. Sat. III, vs. 1: « Quamvis digressu veteris confusus amici ». Plinius, Epist. V, 5, 1: « qui nuntius gravi me dolore confudit ». Idem, Paneg. c. 86: « Quam ego audio confusionem tuam fuisse, quum digredientem prosequereris ». Infra, v. 681, dicit Noster: « Danai turbati caede suorum ».
+- … 後代ラテン語の著述家たちは、心を取り乱すこと（*perturbari animo*）の意で *confundi* と言う。Juvenal. *Sat.* III, 1: « Quamvis digressu veteris confusus amici »。Plinius, *Epist.* V, 5, 1: « qui nuntius gravi me dolore confudit »。同 *Paneg.* 86: « Quam ego audio confusionem tuam fuisse, quum digredientem prosequereris »。以下の 681 行で、われらの詩人は « Danai turbati caede suorum » と述べている。
 
 [3] 646 Interea Danai confusa caede suorum
 
 [4] 646 Interea Danai confusa caede suorurn
 
 [6] 646 interea Danai confusi caede suorum
-- *Iliad* 7.433
-- confusi … at cf. v. 679 et H 426; confusi est 'maesti'
+- 『イーリアス』 7.433
+- confusi … だが 679行および H 426 を参照; confusi は「悲嘆にくれた」の意
 
 647 ingentes struxere pyras collectaque passim
 
@@ -7238,21 +7217,21 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 649 Tum renouant fossas et uallum robore cingunt.
 
 [2] 651 Tjjm renovant fossas, et vallum robore cingunt.
-- … Robur, notante Barthio, designat ligneam sepem, roboreum cinctum. Talis autem roborei valli saepe Noster meminit, ut v. 683 et 764.
+- … バルトの注記によれば、*robur*（オーク材・堅木）は木の柵、オークの囲壁を指す。そしてわれらの詩人は、683 行や 764 行のように、しばしばこのようなオーク材の堡塁（vallum）に言及している。
 
 [3] 649 Tum renouant fossas et uallum robore cingunt.
 
 [4] 649 Tum rcnovant fossas et vallum robore cingunt.
 
 [6] 649 tum renovant vires et vallum robore cingunt.
-- *Iliad* 7.441
+- 『イーリアス』 7.441
 
 ## Book 8
 
 650 Vt nitidum Titan radiis patefecerat orbem,
 
 [2] 652 VIII. Ut nitidum Titan radiis patefecerat orbem ,
-- … Hunc versum Bondamius l. c. monet ex hoc Ovidii effictum esse, Met. IX, 796: « Postera lux radiis totum patefecerat orbem ». Sic et Virg. Aen. IV, 118: « ubi ortus Extulerit Titan radiisque retexerit orbem ».
+- … ボンダムは前掲書で、この行が Ovid. *Met.* IX, 796: « Postera lux radiis totum patefecerat orbem » から形作られたと指摘している。Virg. *Aen.* IV, 118: « ubi ortus Extulerit Titan radiisque retexerit orbem » も同様である。
 
 [3] 650 Ut nitidum Titan radiis patefecerat orbem,
 
@@ -7269,7 +7248,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 651 Convocat in coetum superos Jovis et monet omnes,
 
 [6] 651 convocat in coetum superos Iovis et monet, armis
-- *Iliad* 8.2
+- 『イーリアス』 8.2
 
 652 ne contra sua dicta uelint contendere diui.
 
@@ -7310,7 +7289,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 655 Inde acies videt Iliacas dextraque potenti
 
 [6] 655 inde acies videt Iliacas dextraque potenti
-- *Iliad* 8.52
+- 『イーリアス』 8.52
 
 656 sustinet auratas aequato pondere lances
 
@@ -7321,7 +7300,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 656 Sustinet auratas aequato pondere lances
 
 [6] 656 sustinet auratas aequato pondere lances
-- *Iliad* 8.69
+- 『イーリアス』 8.69
 
 657 fataque dura Phrygum casusque expendit Achiuum
 
@@ -7360,11 +7339,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 660 Priamides agit et totis grauis imminet aruis,
 
 [4] 660 Priamides agit et gradiens supereminet omnes,
-- gradiens supereminet omnes ego (Cf. Aeneid. I, 501) … [armis capiendum videtur de umeris... Totis armis Samtenius accipiebat pro « toti exercitui » KOOTEN] …
+- gradiens supereminet omnes 筆者（『アエネーイス』I, 501 を参照）…［armis は両肩について解されるべきと思われる……サンテンは Totis armis を「全軍」の意味に解した、クーテン］…
 
 [6] 660 Priamides agit et totis gravis imminet armis,
-- *Iliad* 8.216
-- … armis … i. copiis; cf. ex. gr. Ov. met. 7, 865
+- 『イーリアス』 8.216
+- … armis … すなわち軍勢; 例えばオウィディウス『変身物語』7, 865 を参照
 
 661 unum quippe decus Phrygiae. Turbantur Achiui
 
@@ -7395,7 +7374,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 663 Hortatur socios muris inclusus Atrides
 
 [6] 663 hortatur socios murisque inclusus Atrides
-- *Iliad* 8.227
+- 『イーリアス』 8.227
 
 664 languentesque animos iuuenum in certamina firmat.
 
@@ -7410,14 +7389,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 665 Princeps Tydides fulgens ardentibus armis
 
 [2] 667 Princeps Tydides ardentibus emicat armis,
-- Ardentibus armis, ut supra v. 394, flagrantia arma dixit. Ed.
+- *Ardentibus armis*。上の 394 行で *flagrantia arma* と言ったのと同様である。パリ編者。
 
 [3] 665 Princeps Tydides ardentibus emicat armis,
 
 [4] 665 Princops Tydidcs ardentibus emicat armis,
 
 [6] 665 princeps Tydides ardentibus emicat armis
-- *Iliad* 8.254
+- 『イーリアス』 8.254
 
 666 per medios hostes immani pondere fertur.
 
@@ -7432,12 +7411,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 667 Hic illi occurrit fatis Agelaus iniquis,
 
 [2] 669 Hic illi occurrit fatis Agelaus iniquis
-- … hoc loco ponendus est Agelaus Phradmonides, quem hasta per tergum et pectus a Diomede trajectum Homerus memorat, Iliad. VIII, 258.
+- … この箇所にはフラドモーンの子アゲラーオス（Agelaus Phradmonides）が置かれるべきである。ホメーロス（*Iliad* VIII, 258）は、彼がディオメーデースによって槍で背中から胸へと刺し通されたと伝えている。
 
 [3] 667 Hic illi occurrit fatis Agelaus iniquis,
 
 [4] 667 Hic illi occurrit fatis Agelaus iniquis,
-- **667, 672** Agelaus, Gorgythiona … (Iliad. VIII, 257 et 302).
+- **667, 672** Agelaus, Gorgythiona …（『イーリアス』VIII, 257 および 302）。
 
 [6] 667 hic illi occurrit fatis Agelaus iniquis,
 
@@ -7454,7 +7433,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 669 occupat et duro medium transuerberat ense.
 
 [2] 671 Occupat , et duro medium transverberat ense.
-- … Pro ense hic dicendum erat hasta, secundum Homerum, …
+- … ホメーロスに従えば、ここでは *ense*（剣）ではなく *hasta*（槍）と言われるべきであり、…
 
 [3] 669 Occupat et duro medium transuerberat ense.
 
@@ -7465,7 +7444,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 670 Hinc Phrygas Aiacis uastis protectus in armis
 
 [2] 672 Hinc Phrygas Ajacis vastis protectus in armis
-- … qui tradit, Teucrum Ajacis scuto protectum multos Trojanos sagittis interfecisse, Iliad. VIII, vs. 266: Τεῦκρος δ᾽ εἴνατος ἦλθε, παλίντονα τόξα τιταίνων. Στῆ δ᾽ ἄρ᾽ ὑπ᾽ Αἴαντος σάκεϊ Τελαμωνιάδαο· et v. 272: ὁ δέ μιν σάκεϊ κρύπτασκε φαεινῷ. …
+- … テウクロスがアイアースの盾に守られながら多くのトロイア勢を矢で射殺したと伝えている（*Iliad* VIII, 266: Τεῦκρος δ᾽ εἴνατος ἦλθε, παλίντονα τόξα τιταίνων. Στῆ δ᾽ ἄρ᾽ ὑπ᾽ Αἴαντος σάκεϊ Τελαμωνιάδαο；および 272 行: ὁ δέ μιν σάκεϊ κρύπτασκε φαεινῷ）。…
 
 [3] 670 Hinc Phrygas Aiacis uastis protectus in armis
 
@@ -7482,19 +7461,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 671 Teucer agit spargitque leves in terga sagittas.
 
 [6] 671 Teucer agit spargitque leves in terga sagittas.
-- *Iliad* 8.266
+- 『イーリアス』 8.266
 
 672 Gorgythiona ferum letali uulnere fundit;
 
 [2] 674 Gorgythiona ferum letali vulnere fundit.
-- … Gorgythiona legendum ex Hom. Iliad. VIII, 302, …
+- … Hom. *Iliad* VIII, 302 に基づいて *Gorgythiona*（ゴルギュティオーン）と読まれるべきである …
 
 [3] 672 Gorgythiona ferum letali uulnere fundit,
 
 [4] 672 Gorgythiona ferum lelali vulnere fundit,
 
 [6] 672 Gorgythiona ferum letali vulnere fundit,
-- *Iliad* 8.302
+- 『イーリアス』 8.302
 
 673 mox alias acies petit aurigamque superbi
 
@@ -7505,12 +7484,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 673 Mox alias acies petit aurigamque superhi
 
 [6] 673 mox alias acies petit aurigamque superbi
-- *Iliad* 8.312
+- 『イーリアス』 8.312
 
 674 Hectoris obtruncat, quem saxo Troius heros
 
 [2] 676 Hectoris obtruncat, quem saxo Troius heros
-- Quem, scil. Teucrum. Ed.
+- *Quem*（彼を）、すなわちテウクロス。パリ編者。
 
 [3] 674 Hectoris obtruncat. quem saxo Troius heros
 
@@ -7521,26 +7500,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 675 occupat excussoque incautum proterit arcu.
 
 [2] 677 Occupat, excussoque incautum proterit arcu.
-- … excusso arcu significatur, arcum manibus Teucri excussum esse ictu lapidis ab Hectore conjecti.
+- … *excusso arcu*（弓を打ち落とされて）によって、ヘクトールが投じた石の打撃でテウクロスの手から弓が叩き落とされたことが意味されている。
 
 [3] 675 Occupat excussoque extentum proterit arcu:
 
 [4] 675 Occupat excussoque incautum proterit arcu :
 
 [6] 675 occupat excussoque incautum proterit arcu:
-- *Iliad* 8.327
+- 『イーリアス』 8.327
 
 676 Ast illum fidi rapiunt de caede sodales
 
 [2] 678 Ast illum fidi rapiunt de caede sodales,
-- … Phrasin illam habet Ovidius, Her. VI, 135: « Prodidit illa patrem: rapui de caede Thoanta ».
+- … オウィディウスにその言い回しがある（*Her.* VI, 135: « Prodidit illa patrem: rapui de caede Thoanta »）。
 
 [3] 676 Ast illum fidi rapiunt de caede sodales
 
 [4] 676 Ast illum fidi rapiunt de caede sodales
 
 [6] 676 ast illum fidi rapiunt de caede sodales
-- *Iliad* 8.332
+- 『イーリアス』 8.332
 
 677 prostratumque leuant. Ruit undique turbidus Hector
 
@@ -7551,7 +7530,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 677 Prostratumque levant. Ruit undiquc turhidus Hector
 
 [6] 677 prostratumque levant. ruit undique turbidus Hector
-- *Iliad* 8.337
+- 『イーリアス』 8.337
 
 678 aduersasque acies infesta cuspide terret.
 
@@ -7572,7 +7551,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 679 Sic rursus Danai turbati caede suorum
 
 [6] 679 se rursus Danai turbati caede suorum
-- *Iliad* 8.342
+- 『イーリアス』 8.342
 
 680 conuertunt iterumque leues in castra cateruae
 
@@ -7587,14 +7566,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 681 confugiunt portasque obiecto robore firmant.
 
 [2] 683 Confugiunt , portasque objecto robore firmant.
-- Objecto robore, pessulo roboreo objecto. Totus versus infra recurrit vs. 935. Conferatur etiam versus 762.
+- *Objecto robore*（オークの横木を差し渡して）、すなわちオーク材のかんぬき（pessulus）を差し渡して。この行全体が以下の 935 行で再び現れる。762 行も比較されたい。
 
 [3] 681 Confugiunt portasque obiecto robore firmant.
 
 [4] 681 Confugiunt portasque objecto robore firmant.
 
 [6] 681 confugiunt portasque obiecto robore firmant.
-- *Iliad* —
+- 『イーリアス』 —
 
 682 At Phryges obsidunt inclusos aggere Graios
 
@@ -7605,19 +7584,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 682 At Phryges obsidunt inclusos aggere Grajos
 
 [6] 682 at Phryges obsidunt inclusos aggere Graios
-- *Iliad* 8.509
+- 『イーリアス』 8.509
 
 683 excubituque premunt muros flammisque coronant.
 
 [2] 685 Excubiisque premunt muros, flammisque coronant.
-- … Nam Virgilius, Aen. IX, 160: « Interea vigilum excubiis obsidere portas Cura datur Messapo, et moenia cingere flammis », nempe vigiliarum; et ibid. 380: « omnemque aditum custode coronant ».
+- … というのもウェルギリウスの *Aen.* IX, 160 に « Interea vigilum excubiis obsidere portas Cura datur Messapo, et moenia cingere flammis »（すなわち見張りの篝火で）、また同 380 行に « omnemque aditum custode coronant » とあるからである。
 
 [3] 683 Excubituque premunt muros flammisque coronant.
 
 [4] 683 Excubituque premunt muros flammisque coronant.
 
 [6] 683 excubituque premunt muros flammisque coronant.
-- *Iliad* 8.561
+- 『イーリアス』 8.561
 
 684 Cetera per campos sternunt sua corpora pubes
 
@@ -7650,7 +7629,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 686 Attoniti Danaum proceres discrimine tanto
 
 [6] 686 attoniti Danaum proceres discrimine tanto
-- *Iliad* 9.2
+- 『イーリアス』 9.2
 
 687 nec dapibus releuant animos nec corpora curant,
 
@@ -7671,24 +7650,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 688 Sed miseri sua fata gemunt. Jam, nocte recepti,
 
 [6] 688 sed miseri sua fata gemunt. mox † hoste repulso
-- *Iliad* 9.94
+- 『イーリアス』 9.94
 
 689 legatos mittunt dextramque hortantur Achillis,
 
 [2] 691 Legatos mittunt, dextramque hortantur Achillis,
-- Dextramque hortantur Achillis. Dextram hoc loco fidem designare observat Barthius, p. 2807, qui praeterea multis locis Veterum adductis probat, dextram invicem datam esse in amicitiae signum, favoris et clementiae; item praebitione dextrae promissiones mutuas factas, pacem compositam et foedera icta. Quae omnia, satis nota, hic repetere longum est. Unum et alterum affero. Valer. Flacc. II, 639, de Cyzico: « Ut videt, ipse ultro primus procurrit ad undas, Miraturque viros, dextraque amplexus et haerens Incipit ». Idem libro III, 14: « manibusque datis junxere nepotes », h. e. perpetuum foedus in omnem posteritatem fecerunt (sed ibi Gronovius vult penates). Prosper libro de Ingrat. « An dextram, pacis palmam, dare te pudet hosti ». Hoc nostri Homeristae loco per dextram, ut mea quidem fert opinio, non modo fides et amicitia Achillis, sed et fortitudo et vis bellica notatur.
+- *Dextramque hortantur Achillis*（そしてアキレウスの右手を促す／求める）。バルトは 2807 頁で、この箇所において「右手」（*dextram*）が信義（*fides*）を意味していると指摘し、さらに古代人の多くの箇所を引いて、友情、好意、および寛容の証として右手がお互いに交わされたこと、同様に右手を差し出すことによって相互の約束が取り交わされ、和平が成立し、同盟が結ばれたことを論証している。これらはすべて周知の事柄であり、ここで繰り返すには長すぎる。一、二の例を挙げておこう。Valer. Flacc. II, 639（キュジコスについて）: « Ut videt, ipse ultro primus procurrit ad undas, Miraturque viros, dextraque amplexus et haerens Incipit »。同書第3巻 14: « manibusque datis junxere nepotes »、すなわちすべての子孫にわたる永久の同盟を結んだ（ただしグロノウィウスはそこで *penates* を採ろうとしている）。プロスペル『恩知らずについて』(*De Ingratis*): « An dextram, pacis palmam, dare te pudet hosti »。われらのホメーロス模倣者のこの箇所においては、私の意見の趣くところでは、右手によってアキレウスの信義や友情だけでなく、彼の武勇や軍事的武力も示されている。
 
 [3] 689 Legatos mittunt dextramque hortantur Achillis,
 
 [4] 689 Legatos mitlunt dextramque hortantur Achillis,
 
 [6] 689 legatos mittunt dextramque hortantur Achillis,
-- *Iliad* 9.174
+- 『イーリアス』 9.174
 
 690 ut ferat auxilium miseris. Thetideius heros
 
 [2] 692 Ut ferat auxilium miseris. Thetideius heros
-- … Thetideius, nempe Thetidis filius, legendum esse vidit Dussenius, pag. 36, idque aliis locis Nostri recte ponitur, ut vs. 897, 943 et 962. …
+- … ファン・デル・デュッセンは 36 頁で *Thetideius*（すなわちテティスの子）と読まれるべきであると見抜き、それはわれらの詩人の他の箇所（897、943、962 行など）でも正しく置かれている。…
 
 [3] 690 Ut ferat auxilium miseris. Thetideius heros
 
@@ -7705,7 +7684,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 691 Nec Danaum capit aure preces nec munera regis
 
 [6] 691 nec Danaum capit aure preces nec munera regis
-- *Iliad* 9.307
+- 『イーリアス』 9.307
 
 692 ulla referre cupit; non illum redditus ignis
 
@@ -7736,7 +7715,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 694 Irrita legati rcferunt responsa Pelasgis.
 
 [6] 694 irrita legati referunt responsa Pelasgis
-- *Iliad* 9.657
+- 『イーリアス』 9.657
 
 695 et dapibus curant animos lenique sopore.
 
@@ -7747,15 +7726,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 695 below Et dapibus curant animos lenique sopore
 
 [6] 695 et dapibus curant animos lenique sopore.
-- *Iliad* 9.712
+- 『イーリアス』 9.712
 
 ## Book 10
 
 696 Alterius tenebrae tarde labentibus astris
 
 [2] 698 X. Altera transierat tarde labentibus astris.
-- … Quoniam hic novae rei, non altera quidem, sed eadem nocte gestae, ut ex Homero apparet, nar-
-- **(cont.)** ratio incipit, et sequente versu pars tertia noctis additur, non potest alterius noctis, quod vulgatae videntur cum praecedente lenique sopore conjungere, hic locum habere, sed auctor alteram partem ejus noctis, qua superius dicta evenerant, et cui mox tertiam subjicit, significare voluit. …
+- … ここでは、ホメーロスから明らかなように、別の夜ではなくまさに同じ夜に行われた新たな出来事の叙-
+- **(cont.)** （前頁からの続き）―が始まり、後続の行で *pars tertia noctis*（夜の第三の部分）が付け加えられているからには、流布本が直前の *lenique sopore* と結びつけているように見える *alterius noctis*（別の夜の）は、ここに位置を占めることができない。むしろ作者は、上に述べられた事柄が起きたその夜の、まもなく第三の部分を付け加えることになる第二の部分（もうひとつの部分）を意味しようとしたのである。…
 
 [3] 696 Ulterius tenebrae tarde labentibus astris
 
@@ -7766,14 +7745,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 697 restabatque super tacitae pars tertia noctis,
 
 [2] 699 Restabatque super tacitae pars tertia noctis;
-- … idque confirmant Homeri versus, e quibus ista translata sunt, Iliad. X, 252: Ἄστρα δὲ δὴ προβέβηκε· παρῴχηκεν δὲ πλέων νὺξ Τῶν δύο μοιράων, τριτάτη δ᾽ ἔτι μοῖρα λέλειπται.
+- … これが翻訳元のホメーロスの詩行（*Iliad* X, 252: Ἄστρα δὲ δὴ προβέβηκε· παρῴχηκεν δὲ πλέων νὺξ Τῶν δύο μοιράων, τριτάτη δ᾽ ἔτι μοῖρα λέλειπται）によっても裏づけられている。
 
 [3] 697 Restabatque super tacitae pars tertia noctis,
 
 [4] 697 Restabatque super tacitae pars tertia noetis,
 
 [6] 697 restabatque super tacitae pars tertia noctis,
-- *Iliad* 10.253
+- 『イーリアス』 10.253
 
 698 cum Danaum iussu castris Aetolius heros
 
@@ -7798,14 +7777,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 700 qui secum tacitae sublustri noctis in umbra
 
 [2] 702 Qui secum tacito sublustri noctis in umbra
-- … Virg. Aen. IX, 373: « sublustri noctis in umbra ».
+- … Virg. Aen. IX, 373: « sublustri noctis in umbra »。
 
 [3] 700 Qui secum tutae sublustri noctis in umbra
 
 [4] 700 Qui secum tacitae sublustri noctis in umbra
 
 [6] 700 qui secum tacitae sublustri noctis in umbra
-- sublustri … (cf. Verg. Aen. 9, 373) …
+- sublustri … (ウェルギリウス『アエネーイス』9, 373 を参照) …
 
 701 scrutetur studio quae sit fiducia Troum
 
@@ -7846,7 +7825,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 704 Carpebant, venit ecce Dolon, quem Troia pubes
 
 [6] 704 carpebant, venit ecce Dolon, quem Troia pubes
-- *Iliad* 10.314
+- 『イーリアス』 10.314
 
 705 miserat, ut Danaum sollerti pectore uires
 
@@ -7861,7 +7840,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 706 perspiceret sensusque ducum plebisque referret.
 
 [2] 708 Perspicerel, sensusque ducum plebisque referret.
-- … — Sensus, notante Barthio, p. 2808, sunt consilia, judicium. Sic frequenter Claudianus, ut de III Cons. Honor. 187: « non corrumpentia sensus Dona valent ». Idem de IV Cons. Hon. 300: « nec sic inflectere sensus Humanos edicta valent, ut vita regentis ». Idem, de Laud. Stilich. III, 10: « magnanimum pectus, quo frena reguntur Imperii, cujus libratur sensibus orbis ».
+- … ――バルトの注記（2808 頁）によれば、*sensus* とは計画・思慮（*consilia*）、判断力（*judicium*）のことである。クラウディアヌスにおいてもしばしば同様であり、例えば de III Cons. Honor. 187: « non corrumpentia sensus Dona valent »。同 de IV Cons. Hon. 300: « nec sic inflectere sensus Humanos edicta valent, ut vita regentis ». 同 de Laud. Stilich. III, 10: « magnanimum pectus, quo frena reguntur Imperii, cujus libratur sensibus orbis »。
 
 [3] 706 Perspiceret sensusque ducum plebisque referret.
 
@@ -7878,7 +7857,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 707 Quem procul ut vidit socius Diomedis Ulixes,
 
 [6] 707 quem procul ut vidit socius Diomedis Vlixes,
-- *Iliad* 10.340
+- 『イーリアス』 10.340
 
 708 abdiderant occultantes sua corpora furtim
 
@@ -7893,7 +7872,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 709 post densos frutices, dum spe percussus inani
 
 [2] 711 Post densos frutices, durn spe percussus inani
-- … Aptissimum est, quod in vulgatis et in G. 2 exstat, spe percussus inani. Pariter Cicero, Tusc. V, 11: « quodcumque nostros animos probabilitate percussit, id dicimus ». — Sed mihi vix aliquem spe percuti dici posse videtur. Ed.
+- … 最も適切なのは、流布本および G. 2 に見出される *spe percussus inani*（空しい希望に打たれて）である。キケローも同様に述べている（Tusc. V, 11: « quodcumque nostros animos probabilitate percussit, id dicimus »）。――しかし私には、人が希望に打たれる（*spe percuti*）と言われうるとはほとんど思われない。パリ編者。
 
 [3] 709 Post densos frutices, dum spe percussus inani
 
@@ -7904,12 +7883,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 710 Tros Eumediades cursu praecederet illos,
 
 [2] 712 Tros Eumedides cursu praecederet illos,
-- … quod Dolonem Eumedis filium significat, et ex Hom. Il. X, 314, et e Virg. Aen. XII, 346, sumptum est. …
+- … これはエウメーデースの子ドローンを指し、Hom. Il. X, 314 および Virg. Aen. XII, 346 の双方から取られたものである。…
 
 [3] 710 Tros Eumediades cursu praecederet illos,
 
 [4] 710 Tros Eumediades cursu praecederet illos,
-- … Eumedides Schrader (Iliad. X, 314).
+- … Eumedides シュラーダー（『イーリアス』X, 314）。
 
 [6] 710 Tros Eumediades cursu praecederet illos,
 
@@ -7926,15 +7905,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 712 Post, ubi transierat fidens animoque manuque,
 
 [2] 714 Post ubi transierat fidens animoque mauuque,
-- Fidens animo, Virgilianum Aen. II, 61.
+- *Fidens animo*（心に確信を抱いて）。ウェルギリウスの表現、Aen. II, 61。
 
 [3] 712 Post ubi transierat fidens animoque manuque,
 
 [4] 712 Post ubi transierat Pidens animoqne manuque,
 
 [6] 712 post ubi transierat fidens animoque manuque,
-- *Iliad* 10.350
-- fidens … cf. Verg. Aen. 2, 61
+- 『イーリアス』 10.350
+- fidens … ウェルギリウス『アエネーイス』2, 61 を参照
 
 713 prosiluere uiri iuuenemque euadere cursu
 
@@ -7965,12 +7944,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 715 Ille, timore pavens, « Yitam concedite » dixit
 
 [6] 715 ille timore pavens 'vitam concedite' dixit,
-- *Iliad* 10.376
+- 『イーリアス』 10.376
 
 716 "hoc unum satis est; quodsi perstatis in ira,
 
 [2] 718 Hoc unum satis est : quod si perstatis in ira,
-- Perstatis in ira. Ovidius, Pont. I, 4, 44: « Perstiterit laesi si gravis ira Dei ».
+- *Perstatis in ira*（汝らは怒りに固執する）。Ovidius, Pont. I, 4, 44: « Perstiterit laesi si gravis ira Dei »。
 
 [3] 716 'Hoc unum satis est; quodsin perstatis in ira,
 
@@ -8001,14 +7980,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 719 maxima Troia mihi currum promisit Achillis
 
 [2] 721 Maxima Troja mihi currum promisit Achillis,
-- … Hoc ipse Dolon Ulyssi narrat apud Homer. Iliad. X, 392. Virg. Aen. XII, 349 de Dolone: « Qui quondam, castra ut Danaum speculator adiret, Ausus Pelidae pretium sibi poscere currus ». Ovid. in Ib. 629: « Qualis equos pacto, quos fortis agebat Achilles, Acta Phrygi timido est, nox tibi talis eat ». Epigramma de Dolone in Anthol. Lat. I, 95: « Praemia magna Dolon, currum dum poscit Achillis, Prodidit ipse cadens munera magna Dolon ».
+- … このことをドローン自身がホメーロスの Iliad. X, 392 でオデュッセウスに語っている。Virg. Aen. XII, 349 にドローンについて次のようにある: « Qui quondam, castra ut Danaum speculator adiret, Ausus Pelidae pretium sibi poscere currus »。Ovid. in Ib. 629: « Qualis equos pacto, quos fortis agebat Achilles, Acta Phrygi timido est, nox tibi talis eat »。『ラテン詩選』(*Anthol. Lat.*) I, 95 のドローンに関するエピグラム: « Praemia magna Dolon, currum dum poscit Achillis, Prodidit ipse cadens munera magna Dolon »。
 
 [3] 719 Maxima Troia mihi currum promisit Achillis,
 
 [4] 719 Maxima Troja mihi currum promisit Achillis,
 
 [6] 719 maxima Troia mihi currum promisit Achillis,
-- *Iliad* 10.392
+- 『イーリアス』 10.392
 
 720 si uestras cepisset opes. Haec dona secutus
 
@@ -8043,7 +8022,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 723 per mare, per Ditis fluctus obtestor opaci,
 
 [2] 725 Per mare, per Ditis fluctus obtestor opaci,
-- Per Ditis fluctus, per Styga, vel per flumina infera, ut jurat, apud Ovidium, Met. I, 187, Jupiter. « Lacus Ditis opacos » dicit Virg. Cul. 371. Obtestandi haec formula est, qualis jurandi apud Ovid. Trist. II, 53: « Per mare, per terras, per tertia numina juro ».
+- *Per Ditis fluctus*（ディースの波にかけて）、ステュクスにかけて、あるいは冥府の河川にかけて。オウィディウスの Met. I, 187 でユピテルが誓っているのと同様である。Virg. Cul. 371 では « Lacus Ditis opacos » と言われている。これは嘆願の定型句であり、Ovid. Trist. II, 53 の誓約の句 « Per mare, per terras, per tertia numina juro » と同類のものである。
 
 [3] 723 Per mare, per Ditis fluctus obtestor opaci,
 
@@ -8054,7 +8033,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 724 ne rapere hanc animam crudeli caede uelitis.
 
 [2] 726 Ne rapere hanc animam crudeli caede velitis.
-- Ne rapere hanc. Ovidius « eripere animam », Met. VI, 540.
+- *Ne rapere hanc*（これを奪い去らぬように）。オウィディウスは Met. VI, 540 で « eripere animam »（命を奪う）と言っている。
 
 [3] 724 Ne rapere hanc animam crudeli caede uelitis.
 
@@ -8085,7 +8064,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 727 expediam Phrygiae." Postquam quid Troia pararet
 
 [2] 729 Expediam Phrygiae ». Postquam quid Troja pararet
-- … Barthius Adv. LVIII, 14, p. 2752, putat Trojam pro Trojanis proceribus non satis pulchre dictam esse. Atqui verba haec sunt ab Ovidio mutuata, Met. XIII, 244, ubi Ulysses eamdem rem enarrat: « Ausum eadem, quae nos, Phrygia de gente Dolona Interimo; non ante tamen, quam cuncta coegi Prodere, et edidici, quid perfida Troja pararet. Omnia cognoram ».
+- … バルトは『雑考』(*Adv.*) LVIII, 14, p. 2752 で、トロイアの首領たちの代わりに *Troja* と言うのはあまり美しくないと述べている。しかしながら、これらの語はオウィディウスの Met. XIII, 244 から借用されたものであり、そこではオデュッセウスが同じ出来事を次のように詳述している: « Ausum eadem, quae nos, Phrygia de gente Dolona Interimo; non ante tamen, quam cuncta coegi Prodere, et edidici, quid perfida Troja pararet. Omnia cognoram »。
 
 [3] 727 Expediam Phrygiae'. postquam quid Troia pararet
 
@@ -8096,20 +8075,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 728 cognouere uiri, fauces mucrone recluso
 
 [2] 730 G)gnovere viri, fauces mucrone reclusas
-- … Nam existimo phrasin fauces mucrone reclusas vel revulsas Detrudunt significare caput Dolonis, rescissis faucibus, dejectum corpore esse, quo modo eum obtruncatum esse memorat Homerus, Iliad. X, 455 seq. — Sic jugulos aperire dixit Juvenalis, Sat. IV. Et Horat. Epod. XVII, 71: « Modo ense pectus Norico recludere ». Ed. …
+- … というのも、私は *fauces mucrone reclusas*（あるいは *revulsas*）*detrudunt* という言い回しが、ドローンの首が喉を切り裂かれて胴体から切り落とされたことを意味すると考えるからである。ホメーロスが彼が斬首された次第を伝えている通りである（Iliad. X, 455 以下）。――同様にユウェナーリスは Sat. IV で *jugulos aperire*（喉を切り開く）と言った。また Horat. Epod. XVII, 71: « Modo ense pectus Norico recludere »。パリ編者。…
 
 [3] 728 Cognouere uiri, fauces mucrone recluso
 
 [4] 728 Cogoovere viri, fauees mucrone recluso
 
 [6] 728 cognovere viri, fauces mucrone recluso
-- *Iliad* 10.455
+- 『イーリアス』 10.455
 
 729 detrudunt iuuenis. Post haec tentoria Rhesi
 
 [2] 731 Detrudunt juvenis. Post haec tentoria Rhesi
-- … — Et verbum Detrudunt repetitum videtur e Virg. Aen. IX, 496: « tuo-
-- **(cont.)** que Invisum hoc detrude caput sub Tartara telo ». Ed. …
+- … ――また動詞 *Detrudunt* は Virg. Aen. IX, 496 から繰り返されたものと思われる: « tuo-
+- **(cont.)** （前頁からの続き）-que Invisum hoc detrude caput sub Tartara telo »。パリ編者。…
 
 [3] 729 Pertundunt iuueni: post haec tentoria Rhesi
 
@@ -8126,7 +8105,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 730 Intrant atque ipsum somno vinoque sepultum
 
 [6] 730 intrant atque ipsum somno vinoque sepultum
-- *Iliad* 10.470
+- 『イーリアス』 10.470
 
 731 obtruncant spoliantque uirum fusosque per herbam
 
@@ -8141,7 +8120,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 732 exanimant socios. Tum tristi caede peracta
 
 [2] 734 Exaniinant socios : tam tristi caede peracta
-- Exanimant, pro caedunt ferro et interficiunt, activa forma, rarius puto apud meliores scriptores inveniri. …
+- *Exanimant* が能動態の形で、刃物で切り殺す・殺害するという意味で用いられるのは、より優れた著述家たちの間では極めて稀であると私は考える。…
 
 [3] 732 Exanimant socios; tum tristi caede peracta
 
@@ -8152,7 +8131,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 733 praeda umeros onerant, multo et candore nitentes
 
 [2] 735 Praeda humeros onerant, multo candore nitentes
-- Candore nitentes. Similiter Virg. Aen. XII, 84: « Qui candore nives anteirent, cursibus auras ».
+- *Candore nitentes*（白さに輝く）。同様に Virg. Aen. XII, 84: « Qui candore nives anteirent, cursibus auras »。
 
 [3] 733 Praeda umeros onerant, multo candore nitentes
 
@@ -8173,20 +8152,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 734 Thracas equos rapiunt, quos nec praecederet Eurus
 
 [2] 737 Thracis equos rapiunt, quos nec prsecederet Eurus,
-- … quia poetae solent cursum velocem cum Euro inprimis comparare. Vid. Virg. Aen. VIII, 223, et Horat. Carm. II, 16, 24; et docti viri apud Virg. I, 317, pro Hebro ponere Eurum volunt. …
+- … 詩人たちは俊足をとりわけ東風（エウロス）に比べるのが常だからである。Virg. Aen. VIII, 223 および Horat. Carm. II, 16, 24 を見よ。また学者たちは Virg. I, 317 において *Hebrus* の代わりに *Eurus* を置くことを欲している。…
 
 [3] 734 Thracas equos rapiunt, quos nec praecederet Eurus
 
 [4] 734 Thracas equos rapiunt, quos nec praecederet Eurus
 
 [6] 734 Thraecis equos rapiunt, quos nec praecederet Eurus
-- *Iliad* 10.437
-- … cf. Ov. met. 9, 194 …
+- 『イーリアス』 10.437
+- … オウィディウス『変身物語』9, 194 を参照 …
 
 735 nec posset uolucri cursu superare sagitta.
 
 [2] 738 Nec posset volucri cursu superare sagitta.
-- … Similiter Virgilius, Aen. V, 242: « illa Noto citius volucrique sagitta Ad terram fugit ».
+- … 同様に Virgilius, Aen. V, 242: « illa Noto citius volucrique sagitta Ad terram fugit »。
 
 [3] 735 Nec posset uolucri cursu superare sagitta.
 
@@ -8207,16 +8186,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 737 ad classes redeunt, quos Nestoris accipit aetas
 
 [2] 740 Ad classes redeunt, quos Nestoris accipit setas,
-- Nestoris accipit aetas, hoc est, Nestor senex primus eos sentit advenire, et laetus accipit, quod ex Homero, X, 532, intelligi potest. Alio loco, v. 131, utitur Noster abstracto prudentia Nestoris, ubi de consilio dando sermo est; hic vocabulo aetas Nestoris, senectutem tantum respiciens, quia senes inprimis juvenum virtutes et bene
-- **(cont.)** gesta observare et collaudare decet.
+- *Nestoris accipit aetas*（ネストールの齢が受け入れる）、すなわち、老いたネストールが彼らの到着を真っ先に察知し、喜んで迎えるということである。これはホメーロス X, 532 から理解できる。別の箇所、131 行において、われらの詩人は助言を与えることが話題となっている文脈で抽象表現 *prudentia Nestoris*（ネストールの思慮）を用いているが、ここでは老齢そのもののみを考慮して *aetas Nestoris*（ネストールの齢）という言葉を用いている。なぜなら、若者たちの徳と善-
+- **(cont.)** （前頁からの続き）-行を見守り、称賛することは、とりわけ老人たちに相応しいからである。
 
 [3] 737 Ad classes redeunt, quos Nestoris excipit aetas
 
 [4] 737 Ad classes redeunt, quos Nestoris excipit aetas
 
 [6] 737 ad classes redeunt; quos Nestoris accipit aetas
-- *Iliad* 10.532
-- accipit (i. audit) …
+- 『イーリアス』 10.532
+- accipit (すなわち聞く) …
 
 738 ac recipit portis. Postquam sua castra tenebant,
 
@@ -8237,7 +8216,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 739 Facla duci referunl : laudat Pelopeius heros,
 
 [6] 739 facta duci referunt: laudat Pelopeius heros,
-- *Iliad* —
+- 『イーリアス』 —
 
 740 fessaque iucundae tradunt sua membra quieti.
 
@@ -8248,7 +8227,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 740 Fessaque jocundae tradunt sua membra quieti.
 
 [6] 740 fessaque iucundae tradunt sua membra quieti.
-- *Iliad* —
+- 『イーリアス』 —
 
 ## Book 11
 
@@ -8275,26 +8254,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 743 Dardanidum Danaumque duces: uolat undique nubes
 
 [2] 746 Dardanidum Danaumque duces : volat undique nubes
-- … — Nubem telorum, si recte memini, Maro non dixit, nisi ex comparatione antecedente, Aen. XI, 808: « sic obrutus undique telis Aeneas nubem belli, dum detonet, omnem Sustinet ». — Sed densam telorum nubem dicit Marius Victor in carm. ad Salmon. v. 16. Vid. huj. Op. t. II, …
+- … ――*Nubem telorum*（投槍の雲）という表現は、私の記憶が正しければ、マロー（ウェルギリウス）は事前の直喩による場合（Aen. XI［正しくは X］, 808: « sic obrutus undique telis Aeneas nubem belli, dum detonet, omnem Sustinet »）を除いて用いていない。――しかしマリウス・ウィクトルは carm. ad Salmon. 16 行で *densam telorum nubem* と言っている。本著作集第2巻…を見よ。
 
 [3] 743 Dardanidum Danaumque duces: uolat undique nubes
 
 [4] 743 Dardanidum Danaumque duces : volat undique nubes
 
 [6] 743 Dardanidum Danaumque duces: volat undique nubes
-- *Iliad* 11.15, 11.55
+- 『イーリアス』 11.15, 11.55
 
 744 telorum et ferro ferrum sonat, undique mixtis
 
 [2] 747 Telorum , et ferro ferrum sonat : undique mixtis
 
 [3] 744 Telorum et ferro ferrum sonat, undique flictu
-- … uerba et ferrum — 746 acies habent gesta Bereng. II 272—74 …
+- … et ferrum から 746 の acies までの語句を『ベレンガリウス事績録』II 272–74 が有する …
 
 [4] 744 Telorum, ferro ferrum sonat, undique mixtis
 
 [6] 744 telorum et ferro ferrum sonat, undique mixtis
-- (testimonia) ferrum — 746 acies = Gesta Ber. 2, 272—4 (745 stridunt)
+- （証言） *ferrum* — 746 *acies* = 『ベレンガリウスの事績』2, 272–4 (745 *stridunt*)
 
 745 inter se strident mucronibus: instat utrimque
 
@@ -8329,45 +8308,45 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 748 Antiphon ingenti prostratum uulnere fundit
 
 [2] 751 Antiphonem iagenti prostratum vulnere fundit,
-- … In Homero, Il. XI, 101, Antiphum et Isum, filios Priami, lego ab Agamemnone interfectos. Hunc nominare voluerit Homerista, an alium, adhuc dubito. …
+- … ホメーロス（Il. XI, 101）では、プリアモスの息子たちであるアンティポスとイーソスがアガメムノーンによって討ち取られたと私は読んでいる。われらのホメーロス詩人が彼を指そうとしたのか、それとも別人なのか、私には依然として疑わしい。…
 
 [3] 748 Antiphon ingenti prostratum uulnere fudit
 
 [4] 748 Antipbon ingenti prostratum vulnere fudit
 
 [6] 748 Antiphon ingenti prostratum vulnere fudit
-- *Iliad* 11.101
+- 『イーリアス』 11.101
 
 749 Pisandrumque simul fratremque ad bella ruentem
 
 [2] 752 Pisandrumque simul , fratremque ad bella ruentem
-- … Pisandrum et Hippolochum ex Homero, Iliad. XI, vs. 122, adparet, …
+- … ホメーロスの Iliad. XI, 122 行に基づき *Pisandrum* および *Hippolochum* を置くべきであることは明白であり、…
 
 [3] 749 Pisandrumque simul fratremque ad bella ruentem
 
 [4] 749 Pisandrumque simul fratremque ad bella ruentem
-- **749, 750** Pisandrum, Hippolochum … (Iliad. XI, 122).
+- **749, 750** Pisandrum, Hippolochum …（『イーリアス』XI, 122）。
 
 [6] 749 Pisandrumque simul fratremque ad bella ruentem
-- *Iliad* 11.122
+- 『イーリアス』 11.122
 
 750 Hippolochum; post hos gladio petit Iphidamanta.
 
 [2] 753 Hippolochum , post hos gladio petit Iphidamanta :
-- … Nam Iphidamanta, Antenoris filium, hic restituendum ex Homeri Iliad. XI, 221, …
+- … ホメーロスの Iliad. XI, 221 に基づき、アンテーノールの息子 *Iphidamanta* をここに復元すべきである…。
 
 [3] 750 Hippolochum; post hos gladio petit Iphidamanta.
 
 [4] 750 Hippolochum ; post lios gladio petit Iphidamanta.
 
 [6] 750 Hippolochum; post hos gladio petit Iphidamanta.
-- *Iliad* 11.221
+- 『イーリアス』 11.221
 
 751 Hic frater dextram iaculo ferit; ille dolore
 
 [2] 754 Hinc frater regis dextram ferit , ille dolore
-- … Ex Homeri narratione, Iliad. XI, 231 seqq. res ita
-- **(cont.)** se habuit. Postquam Agamemnon Iphidamanta interfecerat, frater ejus Coon natu major, mortem fratris valde dolens, et forte adstans Agamemnoni, brachium ejus medium hasta percutit: at illum fratris corpus abstrahentem mox Agamemnon interficit. … nam adpositum gladio supervacuum et contra Homerum est, qui hasta percussisse scribit.
+- … ホメーロスの記述（Iliad. XI, 231 以下）によれば、事の次第は次のよう
+- **(cont.)** （前頁からの続き）―であった。アガメムノーンがイーピダマースを討ち取った後、その兄コオーンは弟の死を激しく悲しみ、折しもアガメムノーンの傍らに立っていたが、槍でアガメムノーンの腕の真ん中を突いた。しかし弟の遺体を引きずり出そうとしていたコオーンを、間もなくアガメムノーンは討ち取った。…というのも、付け加えられた *gladio*（剣で）は余計であり、槍で突いたと記すホメーロスに反しているからである。
 
 [3] 751 Hic regis dextram frater ferit; ille dolore
 
@@ -8378,7 +8357,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 752 acrior accepto fugientem Antenore natum
 
 [2] 755 Acrior acoepto fugientem Antenore natum
-- Antenore natum, nempe Coonem, fratrem Iphidamantis.
+- *Antenore natum*（アンテーノールの子）。すなわちイーピダマースの兄コオーンのこと。
 
 [3] 752 Acrior accepto fugientem Antenore natum
 
@@ -8389,7 +8368,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 753 persequitur traxitque ferox cum uulnere poenas.
 
 [2] 756 Persequitur, traxitque ferox cum vulnere pccnas.
-- Traxitque ferox cum vulnere poenas, h. e. Agamemnon vulneratus licet, ferox poenas continuavit, vel exercere perrexit, in Coone. Traxit ... graves cum sanguine poenas Helmst. Phrasin petiisse videtur ex hoc Virgilii, Aen. V, 785: « Non media de gente Phrygum exedisse nefandis Urbem odiis satis est, poenam traxisse per omnes Relliquias ».
+- *Traxitque ferox cum vulnere poenas*。すなわち、アガメムノーンは傷を負っていたにもかかわらず、猛々しくコオーンに対する復讐を続け、あるいは科し進めたということである。ヘルムシュテット写本（H.）は *Traxit ... graves cum sanguine poenas* とする。彼はこの言い回しをウェルギリウスの Aen. V, 785: « Non media de gente Phrygum exedisse nefandis Urbem odiis satis est, poenam traxisse per omnes Relliquias » から取ったと思われる。
 
 [3] 753 Persequitur traxitque ferox cum uulnere poenas.
 
@@ -8406,7 +8385,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 754 Hector tum pugnae subit acri concitus ira
 
 [6] 754 Hector tum pugnae subit acri concitus ira
-- *Iliad* 11.284
+- 『イーリアス』 11.284
 
 755 Priamides et percussos agit undique Graios;
 
@@ -8427,7 +8406,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 756 Nec Paris hostiles cessat prosternere turmas
 
 [6] 756 nec Paris hostiles cessat prosternere turmas
-- *Iliad* 11.369
+- 『イーリアス』 11.369
 
 757 Eurypylique femur contento uulnerat arcu.
 
@@ -8438,7 +8417,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 757 Eurypylique femur contento vulnerat arcu.
 
 [6] 757 Eurypylique femur contento vulnerat arcu.
-- *Iliad* 11.583
+- 『イーリアス』 11.583
 
 ## Book 12
 
@@ -8455,7 +8434,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 759 uiribus exhaustis et uastis undique firmant
 
 [2] 762 Yiribus exhaustis, et vastis undique firmant
-- Firmant Obicibus. Ut supra, versu 683, « portas objecto robore firmant ».
+- *Firmant Obicibus*（閂で固める）。上の 683 行の « portas objecto robore firmant » と同様。
 
 [3] 759 Uiribus exhaustis et uastis undique firmant
 
@@ -8466,14 +8445,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 760 obicibus muros. Tum saxo Martius Hector
 
 [2] 763 Obicibus muros ; tum saxo Martius Hector
-- … Barthius ad primum versum Thebaidos in hoc et sequente versu observat auctorem literis a et r frequenter junctis asperitatem soni in re horrida quaesisse.
+- … バルトは『テーバイド』第1行への注記において、この行と次の行で、作者が文字 a と r を頻繁に結びつけることによって、恐ろしい事象にふさわしい音の粗々しさを意図したと指摘している。
 
 [3] 760 Obicibus muros, tum saxo Martius Hector
 
 [4] 760 Obicibus muros. Tum saxo Martius Hector
 
 [6] 760 obicibus muros; tum saxo Martius Hector
-- *Iliad* 12.453
+- 『イーリアス』 12.453
 
 761 perfringit portas ferrataque robora laxat.
 
@@ -8494,7 +8473,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 762 Irrumpunt aditus Phryges atque in limine primo
 
 [6] 762 inrumpunt aditus Phryges atque in limine primo
-- *Iliad* 12.468
+- 『イーリアス』 12.468
 
 763 restantes sternunt Graios ualloque cateruas
 
@@ -8539,15 +8518,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 767 Saxa uolant, subeunt acta testudine Troes
 
 [2] 770 Saxa volant; subeunt acta testudine Troes,
-- … Nempe hoc etiam Virgiliana imitatio subjicit, Aen. II, 441: « obsessumque acta testudine limen »; et IX, 505, « Accelerant acta pariter testudine Volsci ».
+- … 実にウェルギリウスの模倣もこれを示唆している。Aen. II, 441: « obsessumque acta testudine limen »；また IX, 505: « Accelerant acta pariter testudine Volsci »。
 
 [3] 767 Saxa uolant, subeunt acta testudine Troes
 
 [4] 767 Saxa volant, subeunt acta testudine Troes
 
 [6] 767 saxa volant, subeunt acta testudine Troes
-- *Iliad* 12.287
-- acta … ex Verg. Aen. 2, 441. 9, 505 …
+- 『イーリアス』 12.287
+- acta … (ウェルギリウス『アエネーイス』2, 441; 9, 505 より) …
 
 768 ascenduntque aditus et portis uiribus instant.
 
@@ -8558,7 +8537,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 768 Ascenduntque aditus et totis viribus instant.
 
 [6] 768 ascenduntque aditus et postes viribus intrant.
-- *Iliad* 12.469
+- 『イーリアス』 12.469
 
 769 Turbati fugiunt omnes iam castra Pelasgi
 
@@ -8579,7 +8558,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 770 Et scandunt puppes ; urguet Trojana juventus
 
 [6] 770 et scandunt puppes; instat Troiana iuventus
-- *Iliad* 12.470
+- 『イーリアス』 12.470
 
 771 telaque crebra iacit: resonat clamoribus aether.
 
@@ -8602,7 +8581,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 772 Neptunus vires Danais animumque ministrat.
 
 [6] 772 Neptunus vires Danais animumque ministrat:
-- *Iliad* 13.43
+- 『イーリアス』 13.43
 
 773 pugna ingens oritur, furit istinc hostis et illinc.
 
@@ -8617,14 +8596,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 774 Idomenei dextra cadit Asius; Hector atrocem
 
 [2] 777 Idoraenei dextra cadit Asius; Hector atrocem
-- … Certe, qui hic prior Asius, et ante Amphimachum ab Hectore occisum, nominatur, eum Homerus multo post Amphimachum dicit interfectum, Iliad. XIII, 384. Neque vero Idomenei facinus in hac acie reticet Noster, et proxime Alcathoum, Anchisae generum, ab eo occisum memorat, quae caedes memorabilior fuit, quam ista Asii. …
+- … 確かに、ここでアシオスが最初に、ヘクトールによって討たれるアムピマコスよりも前に名指されているが、ホメーロスによれば彼が討たれたのはアムピマコスよりずっと後のことである（Iliad. XIII, 384）。また、われらの詩人はこの戦列におけるイドメネウスの武勲を黙殺しているわけではなく、すぐ後にアンキーセースの娘婿アルカトオスが彼によって討たれたことを記しており、この討ち取りはアシオスのそれよりも記憶されるべきものであった。…
 
 [3] 774 Dextraque Idomenei cadit Asius; Hector atrocem
 
 [4] 774 Idomenei dextra cadit Asius; Hector atrocem
 
 [6] 774 Idomenei dextra cadit Asius; Hector atrocem
-- *Iliad* 13.387
+- 『イーリアス』 13.387
 
 775 Amphimachum obtruncat nec non occumbit in armis
 
@@ -8635,24 +8614,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 775 Amphimachum obtruncat, nec non occumbit in armis
 
 [6] 775 Amphimachum obtruncat nec non occumbit in armis
-- *Iliad* 13.185
+- 『イーリアス』 13.185
 
 776 Anchisae gener Alcathous, quem fuderat ense
 
 [2] 779 Anchisae gener Alcathous, quem fnderat ense
-- … pro quo Alcathous ex Homero recte reponunt Dorpius et Dussenius: …
+- … ドルピウスとファン・デル・デュッセンはホメーロスに基づいてこれに代えて正しく *Alcathous*（アルカトオス）を復元している。…
 
 [3] 776 Anchisae gener Alcathous, quem fuderat ense
 
 [4] 776 Anchisae gener Alcathous, quem fuderat ense
 
 [6] 776 Anchisae gener Alcathous, quem fuderat ense
-- *Iliad* 13.428
+- 『イーリアス』 13.428
 
 777 magnanimus ductor Rhytieus. Tunc feruidus hasta
 
 [2] 780 Magnanimus dactor Cretum; tunc fervidas hasta
-- … et tamen Idomeneus, qui Alcathoum occidit, ductor Cretum vocatur ab Homero, Il. XIII, 221, 259, 274, aliisque in locis. …
+- … アルカトオスを討ったイドメネウスは、ホメーロスによってクレータ人の指導者と呼ばれている（Il. XIII, 221, 259, 274、その他）。…
 
 [3] 777 Magnanimus ductor Rhythieus; tum feruidus hasta
 
@@ -8669,7 +8648,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 778 Deiphobus ferit Ascalaphum mergitque sub umbras.
 
 [6] 778 Deiphobus ferit Ascalaphum mergitque sub umbras.
-- *Iliad* 13.518
+- 『イーリアス』 13.518
 
 ## Book 14
 
@@ -8682,7 +8661,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 779 Hector ubique ferox violento pectore saevit,
 
 [6] 779 Hector ubique ferox violento pectore saevit,
-- *Iliad* 14.388
+- 『イーリアス』 14.388
 
 780 quem saxo ingenti percussum maximus Aiax
 
@@ -8693,7 +8672,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 780 Quem saxo ingenti percussum maximus Ajax
 
 [6] 780 quem saxo ingenti percussum maximus Aiax
-- *Iliad* 14.412
+- 『イーリアス』 14.412
 
 781 depulit et toto prostratum corpore fudit.
 
@@ -8714,7 +8693,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 782 Concurrit Trojana manus juvenemque vomentem
 
 [6] 782 concurrit Troiana manus iuvenemque vomentem
-- *Iliad* 14.425, 15.11
+- 『イーリアス』 14.425, 15.11
 
 783 sanguineos fluctus Xanthi lauere fluentis.
 
@@ -8725,8 +8704,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 783 Sanguineos fluctus Xanthi lavere fluento.
 
 [6] 783 sanguineos fluctus Xanthi lavere fluentis.
-- *Iliad* 15.434
-- … cf. Verg. Aen. 4, 143
+- 『イーリアス』 15.434
+- … ウェルギリウス『アエネーイス』4, 143 を参照
 
 784 Inde iterum ad pugnam redeunt; fit maxima caedes
 
@@ -8757,7 +8736,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 786 Polydamas valido Prothoenora percutit ictu,
 
 [6] 786 Polydamas valido Prothoënora percutit ictu,
-- *Iliad* 15.450
+- 『イーリアス』 15.450
 
 787 Archelochumque Antenoriden Telamonius Aiax,
 
@@ -8766,10 +8745,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [3] 787 Archilochumque Antenoriden Telamonius Aiax,
 
 [4] 787 Archilochumque Antenoriden Telamonius Ajax,
-- Archilocum … (Iliad. XIV, 462 sqq.).
+- Archilocum …（『イーリアス』XIV, 462 以下）。
 
 [6] 787 Archelochumque Antenoriden Telamonius Aiax,
-- *Iliad* 14.465
+- 『イーリアス』 14.465
 
 788 Boeotumque Acamas Promachum, quem sternit atrocis
 
@@ -8780,7 +8759,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 788 Boeotumque Acamas Promachum, quem sternit atrocis
 
 [6] 788 Boeotumque Acamas Promachum, quem sternit atrocis
-- *Iliad* 14.476
+- 『イーリアス』 14.476
 
 789 Penelei dextra; inde cadit Priameia pubes
 
@@ -8791,19 +8770,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 789 Penelei dextra ; inde cadit Priameia pubes.
 
 [6] 789 Penelei dextra; inde cadit Priameia pubes
-- *Iliad* 14.488
+- 『イーリアス』 14.488
 
 790 acrius insurgunt Troes ad Achaica bella
 
 [2] 793 XV. Acrins insurgunt Troes ad Achaica bella,
-- … Per nimiam brevitatem scriptoris jejunamque in narrando exilitatem fit, ut hoc loco perspici nequeat, unde tam repentina conversio rerum facta sit, ut Trojani paullo ante caesi fugatique, nunc acrius insurgant, et Graecos adeo ad naves suas, multa caede facta, compellant. Nimirum brevius saltem attingi debebant caussae, quas Homerus fingit, Jovem expergefactum Trojanis virtutem reddidisse, Neptunumque dehortatum, ne Graecos amplius juvaret, Hectoremque ab Apolline excitatum et novis viribus instructum, ut pugnam integraret. Haec commenta Homeri si diligentius retulisset auctor, quam pugnas et caedes, impetus et fugas, magis servasset amoenitatem poematis, nec meram historiam narrasset.
+- … 作者の過度の簡潔さと叙述における貧弱な薄弱さのせいで、少し前には討たれ潰走していたトロイア勢が、なぜ今やより激しく立ち上がり、夥しい殺戮を行ってギリシア勢を自らの陣船へと追い詰めるのか、事態の急激な逆転がどこから生じたのかがこの箇所では理解できなくなっている。言うまでもなく、ホメーロスが創作している諸原因、すなわち目を覚ましたユピテルがトロイア勢に勇気を取り戻させ、ネプトゥーヌスにギリシア勢をもはや助けぬよう諫め、ヘクトールがアポッローンによって奮い立たされ、戦いを再開すべく新たな力を授けられたという事情を、少なくとも手短にでも触れるべきであった。もし作者が戦いや殺戮、突撃や潰走よりも、ホメーロスのこれら詩的虚構をより注意深く伝えていたならば、詩としての魅力をより多く保ち、単なる実録（年代記）を語るだけに終わることはなかったであろう。
 
 [3] 790 Acrius adsurgunt Troes; at Achaica turba
 
 [4] 790 Acrius assurgunt Troes ; at Achaica turba
 
 [6] 790 acrius insurgunt Troes ad Achaica bella,
-- *Iliad* 15.306
+- 『イーリアス』 15.306
 
 791 <>
 
@@ -8826,7 +8805,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 792 Pulsa metu vallumque et muros aggere saeptos
 
 [6] 792 pulsa metu vallumque et muros aggere saeptos
-- *Iliad* 15.1
+- 『イーリアス』 15.1
 
 793 transiliunt, alii fossas uoluuntur in ipsas.
 
@@ -8847,7 +8826,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 794 Advolat interea Danaum metus impiger Hector.
 
 [6] 794 advolat interea Danaum metus impiger Hector:
-- *Iliad* 15.279
+- 『イーリアス』 15.279
 
 795 confugiunt iterum ad classes Agamemnonis alae
 
@@ -8858,7 +8837,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 795 Confugiunt iterum ad classes Agamemnonis alae
 
 [6] 795 confugiunt iterum ad classes Agamemnonis alae
-- *Iliad* 15.343
+- 『イーリアス』 15.343
 
 796 atque inde aduersis propellunt uiribus hostem.
 
@@ -8869,7 +8848,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 796 Atque inde adversis propellunt viribus hostem.
 
 [6] 796 atque inde adversis propellunt viribus hostem.
-- *Iliad* 15.406
+- 『イーリアス』 15.406
 
 797 Fit pugna ante rates, saeuit Mauortius Hector
 
@@ -8900,12 +8879,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 799 Apparat; huic validis obsistit viribus Ajax,
 
 [6] 799 apparat; huic validis obsistit viribus Aiax,
-- *Iliad* 15.416
+- 『イーリアス』 15.416
 
 800 stans prima in puppi, clipeoque incendia saeua
 
 [2] 803 Stans prima in puppi , clypeoque incendia sseva
-- … — Incendia saeva Sustinet. Sic Ovidius, Ajacem loquentem inducens, Met. XIII, 7: « non Hectoreis dubitavit cedere flammis Quas ego sustinui ». Ed.
+- … ――*Incendia saeva Sustinet*（激しい火炎に耐える）。オウィディウスがアイアースの語り手を導入して次のように述べているのと同様である（Met. XIII, 7）: « non Hectoreis dubitavit cedere flammis Quas ego sustinui »。パリ編者。
 
 [3] 800 Stans prima in puppi, clipeoque incendia saeua
 
@@ -8916,7 +8895,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 801 sustinet et solus defendit mille carinas.
 
 [2] 804 Sustinet, et solus defendit mille carinas.
-- Defendit mille carinas. Apud Ovid. loco cit. « Nempe ego mille meo protexi pectore puppes ».
+- *Defendit mille carinas*（千隻の軍船を守る）。オウィディウスの前掲箇所において: « Nempe ego mille meo protexi pectore puppes »。
 
 [3] 801 Sustinet et solus defendit mille carinas.
 
@@ -8943,7 +8922,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 803 Illinc ardentes taedas Phryges undique jactant :
 
 [6] 803 illinc ardentes taedas Phryges undique iactant:
-- *Iliad* 15.743
+- 『イーリアス』 15.743
 
 804 per uastos sudor pugnantum defluit artus.
 
@@ -8966,7 +8945,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 805 Non valet ulterius cladem spectare suorum
 
 [6] 805 non valet ulterius cladem spectare suorum
-- *Iliad* 16.2
+- 『イーリアス』 16.2
 
 806 Patroclus subitoque armis munitus Achillis
 
@@ -8977,7 +8956,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 806 Patroclus subitoque armis munitus Achillis
 
 [6] 806 Patroclus subitoque armis munitus Achillis
-- *Iliad* 16.130
+- 『イーリアス』 16.130
 
 807 prouolat et falsa conterret imagine Troas.
 
@@ -8988,7 +8967,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 807 Provolat et falsa conterret imagine Troas.
 
 [6] 807 provolat et falsa conterret imagine Troas.
-- *Iliad* 16.280
+- 『イーリアス』 16.280
 
 808 Qui modo turbabant Danaos animoque fremebant,
 
@@ -9029,19 +9008,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 811 Saevit et ingenti Sarpedona vulnere fundit
 
 [6] 811 sternit et ingenti Sarpedona vulnere fundit
-- *Iliad* 16.481
+- 『イーリアス』 16.481
 
 812 et nunc hos cursu nunc illos praeterit ardens
 
 [2] 815 Et nunc hos cursu y nunc illos praeterit ardens,
-- … Quo versu respexisse Maronem videtur Aen. IV, 157: « jamque hos cursu, jam praeterit illos ».
+- … この行において作者はウェルギリウス Aen. IV, 157: « jamque hos cursu, jam praeterit illos » を念頭に置いていたと思われる。
 
 [3] 812 Et nunc hos cursu nunc illos praeterit ardens
 
 [4] 812 Et nunc hos curru, nunc illos praeterit ardens
 
 [6] 812 et nunc hos cursu nunc illos praeterit ardens
-- *Iliad* 16.684
+- 『イーリアス』 16.684
 
 813 proeliaque horrendi sub imagine uersat Achillis.
 
@@ -9072,7 +9051,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 815 Turbantemque acies respexit fervidus Hector,
 
 [6] 815 turbantemque acies respexit fervidus Hector,
-- *Iliad* 16.727
+- 『イーリアス』 16.727
 
 816 tollit atrox animos uastisque immanis in armis
 
@@ -9103,7 +9082,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 818 « Huc age nunc converte gradum, fortissime Achilles :
 
 [6] 818 'huc age nunc converte gradum, fortissime Achilles:
-- *Iliad* —
+- 『イーリアス』 —
 
 819 iam nosces ultrix quid Troica dextera possit
 
@@ -9114,7 +9093,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 819 Jam nosces, ultrix quid Troica dextera possit
 
 [6] 819 iam nosces, ultrix quid Troica dextera possit
-- *Iliad* —
+- 『イーリアス』 —
 
 820 et quantum bello ualeat fortissimus Hector.
 
@@ -9125,19 +9104,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 820 Et quantum in bello valeat fortissimus Hector.
 
 [6] 820 et quantum bello valeat fortissimus Hector.
-- *Iliad* —
+- 『イーリアス』 —
 
 821 Nam licet ipse suis Mauors te protegat armis,
 
 [2] 824 Nam licet ipse suis Mavors te protegat armis,
-- Nam licet ipse. Pulcherrimos hos versus praedicat Barthius, Adv. LIX, 15, p. 2808. At vero eos auctor non suo, sed Ovidii ingenio debet, quem paene ad verbum exscripsit, Metam. VIII, 394: « Ipsa suis licet hunc Latonia protegat armis, Hunc tamen invita perimet mea dextra Diana ».
+- *Nam licet ipse*。バルトはこれらの行をきわめて美しいと称賛している（Adv. LIX, 15, p. 2808）。しかし実際のところ作者は、それらを自らの才能ではなく、ほとんど一語一語書き写したオウィディウスの才気に負っている（Metam. VIII, 394）: « Ipsa suis licet hunc Latonia protegat armis, Hunc tamen invita perimet mea dextra Diana »。
 
 [3] 821 Nam licet ipse suis Mauors te protegat armis,
 
 [4] 821 Nam licet ipse suis Mavors te protegat armis,
 
 [6] 821 nam licet ipse suis Mavors te protegat armis,
-- *Iliad* —
+- 『イーリアス』 —
 
 822 inuito tamen haec perimet te dextera Marte."
 
@@ -9148,7 +9127,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 822 Invito tamen haec perimet te dextera Marte ».
 
 [6] 822 invito tamen haec perimet te dextera Marte'.
-- *Iliad* —
+- 『イーリアス』 —
 
 823 Ille silet spernitque minas animosaque dicta,
 
@@ -9159,7 +9138,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 823 Ille silet spernitque minas animosaque dicta,
 
 [6] 823 ille silet spernitque minas animosaque dicta,
-- *Iliad* —
+- 『イーリアス』 —
 
 824 ut quem mentitur uerus credatur Achilles.
 
@@ -9170,7 +9149,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 824 Ut quem mentitur verus credatur Achilles.
 
 [6] 824 ut quem mentitur verus credatur Achilles.
-- *Iliad* —
+- 『イーリアス』 —
 
 825 Tunc prior intorquet collectis uiribus hastam
 
@@ -9181,7 +9160,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 825 Tunc prior intorquet collectis viribus hastam
 
 [6] 825 tunc prior intorquet collectis viribus hastam
-- *Iliad* —
+- 『イーリアス』 —
 
 826 Dardanides, quam prolapsam celeri excipit ictu
 
@@ -9192,20 +9171,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 826 Dardanides, lapsam celeri quam decipit astu
 
 [6] 826 Dardanides, quam prolapsam celeri excipit ictu
-- *Iliad* —
+- 『イーリアス』 —
 
 827 Patroclus redditque uices et, mutua dona,
 
 [2] 830 Patroclus, redditque vices et mutua dona.
-- Et mutua dona. Ad haec verba Barthius, Advers. LVIII, 14, p. 2752, notat idiotismum auctoris esse, quod ictum vocet donum. At vero sic Virgilius etiam loquutus est, Aen. X, v. 881: « Desine, jam venio moriturus, et haec tibi porto Dona prius ». — Sic Catullus in epigr. ad Calvum: « Ac te his suppliciis remunerabor »; et Val. Flaccus, V, 550: « Qui gemitus, irasque pares, et mutua Graiis dona ferant ». Jam hoc monuit Jo. Schraderus, Observ. I, cap. 3, pag. 35.
-- **(cont.)** Sic et gratiam referre in malam partem pro ultione aut talione dicitur. Terent. Eun. V, 3, 2: « qui referam illi sacrilego gratiam ». Ed.
+- *Et mutua dona*（そして返礼の贈り物を）。これらの言葉についてバルトは Advers. LVIII, 14, p. 2752 で、打撃を贈り物と呼ぶのは作者特有の語法（idiotismus）であると指摘している。しかし実際にはウェルギリウスも同様に語っている（Aen. X, v. 881）: « Desine, jam venio moriturus, et haec tibi porto Dona prius »。――カトゥッルスがカルウォゥスへの諷刺詩［第 14 歌 20 行］で « Ac te his suppliciis remunerabor » と言い、ウァレリウス・フラックスが V, 550 で « Qui gemitus, irasque pares, et mutua Graiis dona ferant » と言っているのも同様である。すでにヨハンネス・シュラーダーが Observ. I, cap. 3, 35 頁でこのことを指摘していた。
+- **(cont.)** （前頁からの続き）同様に、*gratiam referre*（恩を返す）も悪い意味で復讐あるいは報復の意で用いられる。テレンティウス『宦官』V, 3, 2: « qui referam illi sacrilego gratiam »。パリ編者。
 
 [3] 827 Patroclus redditque uices et mutua dona;
 
 [4] 827 Patroclus redditque vices et mutua dona ;
 
 [6] 827 Patroclus redditque vices et mutua dona
-- *Iliad* —
+- 『イーリアス』 —
 
 827a
 
@@ -9226,7 +9205,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 828 Quod clipeo excussum viridi tellure resedit.
 
 [6] 828 quod clipeo excussum viridi tellure resedit.
-- *Iliad* —
+- 『イーリアス』 —
 
 829 Tunc rigidos stringunt enses et comminus armis
 
@@ -9237,7 +9216,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 829 Tunc rigidos stringunt enses et cominus arma
 
 [6] 829 tunc rigidos stringunt enses et comminus armis
-- *Iliad* —
+- 『イーリアス』 —
 
 830 inter se miscent, donec Troianus Apollo
 
@@ -9258,7 +9237,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 831 Mentitos vultus simulati pandit Achillis
 
 [6] 831 mentitos vultus simulati pandit Achillis
-- *Iliad* 16.793
+- 『イーリアス』 16.793
 
 832 denudatque uirum, quem bello maximus Hector
 
@@ -9283,14 +9262,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 834 irruit et iuuenem nudato pectore ferro
 
 [2] 838 Irruit, et juvenem , nudato pectore , ferro
-- … Nempe juvenem ferro trajicit, postquam ejus pectus nudatum erat ab Apolline, ut dixit versu 836. Etenim Homerus narrat, arma Patroclo detracta ab Apolline: Homerista, eum deserens, detracta dicit ab Hectore.
+- … すなわち、836 行で述べたように、アポッローンによって胸を剥き出しにされた後に、彼はその若者を剣で突き刺すのである。実際、ホメーロスは武具がアポッローンによってパトロクロスから剥ぎ取られたと語るが、ホメーロス受容者（われらの詩人）はホメーロスを離れて、武具はヘクトールによって剥ぎ取られたと述べている。
 
 [3] 834 Irruit et iuuenem nudato pectore ferro
 
 [4] 834 Irruit et juvenem nudato pectore ferro
 
 [6] 834 irruit et iuvenem nudato pectore ferro
-- *Iliad* 16.820
+- 『イーリアス』 16.820
 
 835 traicit et uictor Vulcania detrahit arma.
 
@@ -9301,7 +9280,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 835 Traicit et victo Vulcania detrahit arma.
 
 [6] 835 traicit et victor Vulcania detrahit arma.
-- *Iliad* 17.125
+- 『イーリアス』 17.125
 
 ## Book 17
 
@@ -9314,7 +9293,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 836 Vindicat exstincti corpus Telamonius Ajax
 
 [6] 836 vindicat extincti corpus Telamonius Aiax
-- *Iliad* 17.132
+- 『イーリアス』 17.132
 
 837 oppositoque tegit clipeo. Priameia pubes
 
@@ -9347,12 +9326,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 839 Interea juvenis tristi cum pube suorum
 
 [6] 839 interea iuvenis tristi cum pube suorum
-- *Iliad* 18.2
+- 『イーリアス』 18.2
 
 840 Nestorides in castra ferunt miserabile corpus.
 
 [2] 844 Nestorides in castra refert miserabile corpus.
-- … Caeterum et hic diverse ab Homero narrat auctor. Nam secundum eum Menelaus et Meriones corpus Patrocli retulerunt in castra, Antilochus tantum nuntium de morte ejus pertulit ad Achillem.
+- … なお、ここでも作者はホメーロスとは異なって物語っている。というのも、ホメーロスによればメネラーオスとメリオネースがパトロクロスの遺体を陣営へと運び帰り、アンティロコスはその死の知らせをアキレウスのもとへ届けたにすぎないからである。
 
 [3] 840 Nestorides in castra ferunt miserabile corpus.
 
@@ -9363,14 +9342,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 841 Tunc ut Pelidae aures diuerberat horror,
 
 [2] 845 XVIII. Tunc ut Pelidae rumor deverberataures,
-- **(cont.)** … Barthius, Advers. p. 2752, diverberare aures rumorem pro idiotismo Nostri habet. Sed tamen alii similibus utuntur verbis. Apud Plaut. Amphitr. I, 1, 177: « vox aures verberat »; et Lucan. VII, 25, « tuba verberat aures ». — In fragmento Petronii, quod retulimus t. II, hujus op. p. 128: « subitis rumoribus oppida pulsat ». Ed. — Id. Satyr. cap. 68: « nullus sonus unquam acidior percussit aures meas ».
+- **(cont.)** … バルトは『雑考』(*Advers.*) 2752 頁で、*diverberare aures rumorem*（噂が耳を打つ）をわれらの詩人特有の語法（イディオティスムス）と見なしている。しかしながら、他の作家たちも同様の表現を用いている。プラウトゥス『アンピトリュオ』I, 1, 177 において: « vox aures verberat »；またルーカーヌス VII, 25: « tuba verberat aures »。――本著作第2巻128頁でわれわれが引いたペトロニウスの断片において: « subitis rumoribus oppida pulsat »。パリ編者。――同人『サテュリコン』第68章: « nullus sonus unquam acidior percussit aures meas »。
 
 [3] 841 Hic Pelidae aures ut dirus uerberat horror,
 
 [4] 841 Hic ut Pelidae devenerat horror ad aures
 
 [6] 841 tunc † ut Pelidis aures diverberat horror;
-- *Iliad* 18.22
+- 『イーリアス』 18.22
 
 842 palluit infelix iuuenis, calor ossa reliquit;
 
@@ -9385,19 +9364,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 843 membra simul lacrimans materno innectit amictu,
 
 [2] 847 Membra siimil lacrymans materno tersit amictu
-- … Sed materno amictu, i. e. a matre accepto, quod dicit Noster, id habet sine dubio ex aliorum poetarum locis, qui matres, dicunt, filiis suis, in bellum euntibus, vestes texuisse, ut de Lauso Virgil. Aen. XI, 818; de Atye Statius, Theb. VIII, 566, et de Parthenopaeo, Atalantae filio; idem, IX, 691, et fortasse de Achille idem alicubi dictum est. Sed hoc loco tamen maternae vestis non meminit Homerus.
+- … しかし「母の衣をもって（*materno amictu*）」、すなわち「母から授かった［衣をもって］」とわれらの詩人が言うのは、母親が出征する息子たちのために衣を織ったと述べる他の詩人たちの箇所に疑いなく由来している。例えばラウススについて Virgil. Aen. XI, 818；アテュスについて Statius, Theb. VIII, 566；アタランテーの子パルテノパイオスについて同 IX, 691 に見られ、おそらくアキッレウスについてもどこかで同様のことが言われているのであろう。しかしこの箇所においてホメーロスは母の衣に言及していない。
 
 [3] [843] [Membra simul lacrimans materno nectit amictu
 
 [4] 843 below Membra simul lacrimans materno nectit amictu
 
 [6] 843 membra simul lacrimans materno † nectit amictu,
-- *Iliad* —
+- 『イーリアス』 —
 
 844 deflens Aeacides tristi de caede sodalis;
 
 [2] 848 Deflens Aeacides tristi de caede sodatis,
-- … Nescio, an prorsus adsentiendum sit Barthio l. c. qui deflere de caede pro idiotismo auctoris, et pro insolente adeo phrasi habet. Deflere eo sensu accipiendum, ut sit abunde flere, flendoque adimplere dolorem, quemadmodum declamare, defatigare, detonare et similia dicuntur; de caede autem ponitur pro ob vel propter caedem. …
+- … 前掲箇所のバルトが *deflere de caede* を作者特有の語法、それどころか極めて異例な言いまわしと見なしているのに対し、全面的に同意すべきかどうか私には分からない。*deflere* は、*declamare*（大声で演説する）、*defatigare*（疲れ果てさせる）、*detonare*（雷鳴を轟かせ尽くす）などが言われるのと同様に、おびただしく泣き、泣くことによって悲しみを満たすという意味で解されるべきである。また *de caede* は *ob* または *propter caedem*（殺戮のゆえに）の代わりに置かれている。…
 
 [3] 844 Deflens Aeacides tristi de caede sodalis.]
 
@@ -9408,21 +9387,21 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 845 unguibus ora secat comptosque in puluere crines
 
 [2] 849 Unguibns ora seeat, comptos in pulvere crines
-- … Morem pulvere se conspergendi in luctu non Judaeis solum, quod ex sacris literis notum, sed et Graecis Romanisque usitatum, quamquam rara ejus exempla, notat Bernartius ad Stat. Theb. III, 50, qui eum saepius tangit, praesertim Theb. VI, 30: « sed et ipse exsutus honore Vittarum nexu genitor, squallentiaque ora Sparsus, et incultam ferali pulvere barbam ». — Et conferatur Catullus in Epithal. Pel. p. 183, ed. Voss. « Canitiem terra atque infuso pulvere foedans ». Ed. — Verbo deformat etiam utitur Noster ad consuetudinem Veterum, qui informes maxime vocare solent ita pulvere conspersos. Statius l. c. « haustaque informis arena Questibus implet agros ». Et Cornelius Severus, de morte Ciceronis, v. 16: « Informes vultus sparsamque cruore nefando Canitiem ».
+- … 喪に服して自らに塵を振りかける習俗は、聖書から知られるようにユダヤ人だけでなく、実例は稀であるとはいえギリシア人やローマ人にも行われていたことを、ベルナルティウスが Stat. Theb. III, 50 への注で指摘している。スタティウスはしばしばこれに触れており、とりわけ Theb. VI, 30: « sed et ipse exsutus honore Vittarum nexu genitor, squallentiaque ora Sparsus, et incultam ferali pulvere barbam »。――またフォス版の Catullus in Epithal. Pel. 183 頁を参照せよ: « Canitiem terra atque infuso pulvere foedans »。パリ編者。――われらの詩人はまた、古代人の慣習に従って動詞 *deformat*（姿を損なう、汚す）を用いている。古代人はこのように塵を浴びた者を好んで *informes*（無残な姿の、醜悪な）と呼んだからである。スタティウスの前掲箇所: « haustaque informis arena Questibus implet agros »。そしてコルネリウス・セウェルス「キケローの死について」16 行: « Informes vultus sparsamque cruore nefando Canitiem »。
 
 [3] 845 Unguibus ora secat, comptos dein puluere crines
 
 [4] 845 Unguibus ora secat, comptos in pulvere crines
 
 [6] 845 unguibus ora secat comptosque in pulvere crines
-- *Iliad* 18.23
-- … cf. Verg. Aen. 12, 99 …
+- 『イーリアス』 18.23
+- … ウェルギリウス『アエネーイス』12, 99 を参照 …
 
 846 deformat, scindit firmo de pectore uestes
 
 [2] 850 Deformat, scindit filrmas de pectore vestes,
-- Scindit de pectore vestes. Hunc morem omnium gentium scin-
-- **(cont.)** dendi vestes in luctu Barthius multis locis commentariorum suorum, maximeque ad hunc locum Statii probavit, Theb. IX, 353: « Exsiliit furibunda comis, ac verbere crebro Oraque, pectoraque, et viridem scidit horrida vestem ». Conferantur ejusdem adnotata ad Stat. Silv. II, 1, 171. Addere est Sil. Ital. XIII, 389: « Pulsato lacerat violenter pectore amictus ».
+- *Scindit de pectore vestes*（胸から衣服を引き裂く）。喪において衣服を裂-
+- **(cont.)** （前頁からの続き）-くという万民共通のこの習俗を、バルトは注釈の多くの箇所で、とりわけスタティウスの次の箇所（Theb. IX, 353）への注で論証した: « Exsiliit furibunda comis, ac verbere crebro Oraque, pectoraque, et viridem scidit horrida vestem »。同人の Stat. Silv. II, 1, 171 への注記と比較せよ。また Sil. Ital. XIII, 389 を付け加えることができる: « Pulsato lacerat violenter pectore amictus »。
 
 [3] 846 Deformat scinditque suas de pectore uestes
 
@@ -9439,7 +9418,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 847 Et super exstincti prostratus membra sodalis
 
 [6] 847 et super extincti prostratus membra sodalis
-- *Iliad* 18.317
+- 『イーリアス』 18.317
 
 848 crudeles fundit questus atque oscula figit.
 
@@ -9480,19 +9459,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 850 « Non impune mei laetabere caede sodalis,
 
 [6] 850 'non impune mei laetabere caede sodalis,
-- *Iliad* —
+- 『イーリアス』 —
 
 851 Hector" - ait - "magnoque meo, uiolente, dolori
 
 [2] 856 Hector , ait, magnasque meo, violente, dolori
-- … Caeterum Barthius, Adv. p. 2753, putat auctorem violentum convicii et criminis loco voluisse accipi, eoque videri eo saeculo scripsisse, quo talia secius atque par erat usurpari consueverunt. Ego vero frustra hic quaeri convicium et crimen existimo; sed tamquam violentus increpatur, qui audax et temerarius est, et viribus suis male utitur. Certe non aliter Ovidius, quem et hic sequutus scriptor videtur, Met. IX, 121: « Quo te fiducia, clamat, Vana pedum, violente, rapit ». — Nec aliter de ipso Marte Tibullus, IV, 2, 3: « at tu, violente, caveto Ne tibi miranti turpiter arma cadant ». Et Ovidius, in Ibin, v. 20: « At tibi, calcasti qui me, violente, jacentem ». Ed.
+- … なお、バルトは Adv. 2753 頁で、作者は *violentus*（狂暴な男）を罵詈や非難の意で受け取らせようとしたのであり、それゆえそのような語が本来あるべき適切さを欠いて濫用されるようになった時代に書いたように見える、と考えている。しかし私は、ここで罵詈や非難を探し求めるのは無駄であると考える。むしろ大胆不敵で無謀であり、己の力を悪用する者が *violentus* として叱責されているのである。確かに、ここで作者が追随したと思われるオウィディウスも Met. IX, 121 で同様に述べている: « Quo te fiducia, clamat, Vana pedum, violente, rapit »。――ティブルスもマールス自身について IV, 2, 3 で同様に述べている: « at tu, violente, caveto Ne tibi miranti turpiter arma cadant »。そしてオウィディウス『イービス』20 行: « At tibi, calcasti qui me, violente, jacentem »。パリ編者。
 
 [3] 851 Hector' ait, 'magnoque meo, uiolente, dolori
 
 [4] 851 Hector, » ait « magnasque meo, violente, dolori
 
 [6] 851 Hector' ait, 'magnoque meo, violente, dolori
-- *Iliad* —
+- 『イーリアス』 —
 
 852 persolues poenas atque istis uictor in armis,
 
@@ -9503,8 +9482,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 852 Persolves poenas atque istis victor in armis,
 
 [6] 852 persolves poenas atque istis, victor, in armis,
-- *Iliad* —
-- … hyperbaton virgulis indicavi
+- 『イーリアス』 —
+- … 私は倒置法(ヒュペルバトン)をコンマで示した
 
 853 in quibus exsultas, fuso moriere cruore."
 
@@ -9515,19 +9494,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 853 In quibus exsultas, fuso moriere cruore ».
 
 [6] 853 in quibus exultas, fuso moriere cruore.'
-- *Iliad* —
+- 『イーリアス』 —
 
 854 Post haec accensus furiis decurrit ad aequor
 
 [2] 859 Post haec accensus furiis decurrit ad aequor.
-- … Accensus furiis Virgil. Aen. XII, 946.
+- … *Accensus furiis*（狂乱に燃え上がり）は Virgil. Aen. XII, 946。
 
 [3] 854 Post haec accensus furiis decurrit ad aequor
 
 [4] 854 Post haec accensus furiis decurrit ad aequor
 
 [6] 854 post haec accensus furiis decurrit ad aequor
-- *Iliad* —
+- 『イーリアス』 —
 
 855 fortiaque arma Thetin supplex rogat: illa relictis
 
@@ -9538,7 +9517,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 855 Fortiaque arma Thetin supplex rogat : illa relictis
 
 [6] 855 fortiaque arma Thetin supplex rogat: illa relictis
-- *Iliad* —
+- 『イーリアス』 —
 
 856 fluctibus auxilium Vulcani protinus orat.
 
@@ -9549,19 +9528,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 856 Fluctibus auxilium Vulcani protinus orat.
 
 [6] 856 fluctibus auxilium Vulcani protinus orat.
-- *Iliad* 18.148, 18.369
+- 『イーリアス』 18.148, 18.369
 
 857 Excitat Aetnaeos calidis fornacibus ignes
 
 [2] 862 Excitat Aetnaeos calidis fornacibus ignes
-- Aetnaeos ignes hic nominat Homerista Virgilium imitans, Aen. VIII, v. 419 seqq. non Homerum, qui Aetnam flagrantem et Vulcani in ea officinam ignorat. Sic apud Reposianum de Concub. Martis et Veneris, v. 163, Vulcanus, ut vincula illigandis adulteris fabricet, « Antra furens Aetnaea petit ».
+- ここでラテン・ホメーロス作者は、エトナの火炎やその中にあるウゥルカーヌスの鍛冶場を知らないホメーロスではなく、ウェルギリウス（Aen. VIII, 419 以下）を模倣して *Aetnaeos ignes*（エトナの業火）と名指している。同様にレポシアヌス『マールスとウェヌスの情事』163 行で、ウゥルカーヌスは密通者を縛り上げる鎖を鍛えるために « Antra furens Aetnaea petit »（怒りに狂いてエトナの洞窟へと向かう）。
 
 [3] 857 Excitat Aetnaeos calidis fornacibus ignes
 
 [4] 857 Excitat Aetnaeos calidis fornacibus ignes
 
 [6] 857 excitat Aetnaeos calidis fornacibus ignes
-- *Iliad* 18.468
+- 『イーリアス』 18.468
 
 858 Mulciber et ualidis fuluum domat ictibus aurum.
 
@@ -9582,12 +9561,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 859 Mox effecta refert divinis artibus arma
 
 [6] 859 mox effecta refert divinis artibus arma,
-- *Iliad* 19.3
+- 『イーリアス』 19.3
 
 860 Euolat inde Thetis; quae postquam magnus Achilles
 
 [2] 865 Et donat Thetidi : quae postquam magnus Achilles
-- … Evolat ad Thetidem, quod minime aptum est Vulcano, qui claudus describitur ab Homero. — Et propterea tardipes Deus vocatur a Catullo, Carm. 31. Ed. …
+- … *Evolat ad Thetidem*（テティスのもとへ飛び去る）とするが、これはホメーロスによって足萎えと描かれているウゥルカーヌスには全くそぐわない。――そしてそれゆえに彼はカトゥッルス（Carm. 31）によって「鈍足の神（*tardipes Deus*）」と呼ばれている。パリ編者。…
 
 [3] 860 Euolat inde Thetis. quae postquam magnus Achilles
 
@@ -9606,19 +9585,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 861 Induit, in clipeum vultus convertit atroces.
 
 [6] 861 induit, in clipeum vultus convertit atroces.
-- *Iliad* —
+- 『イーリアス』 —
 
 862 Illic Ignipotens mundi caelauerat arcem
 
 [2] 867 Iliic Ignipotens mundi caeiaverat axem,
-- Illic Ignipotens, i. e. Vulcanus. Vid. quae diximus ad vers. 105. … Videtur respicere Ovid. Metam. XIII, 110: « Nec clypeus vasti caelatus imagine mundi ». …
+- *Illic Ignipotens*、すなわちウゥルカーヌス。105 行への注で述べたところを見よ。…作者は Ovid. Metam. XIII, 110: « Nec clypeus vasti caelatus imagine mundi » を念頭に置いているように思われる。…
 
 [3] 862 Illic Ignipotens mundi caelauerat arcem
 
 [4] 862 Illic Ignipotens mundi caelaverat arcem
 
 [6] 862 illic Ignipotens mundi caelaverat arcem
-- *Iliad* 18.483
+- 『イーリアス』 18.483
 
 863 sideraque et liquidis redimitas undique nymphis
 
@@ -9633,28 +9612,28 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 864 Oceani terras et cinctum Nerea circum
 
 [2] 870 Oceanum ] terras , et euntem Nerea circum ,
-- … Sic Ovid. Met. II, 6, quem Noster sine dubio respexit: « Aequora caelarat medias cingentia terras ». Priscianus, initio Perieges. « Oceanum, tellus quo cingitur aequore tota ». Et conf. quae diximus ad Lucilii Aetnam, v. 93. … Potest tamen cinctus circum mutato sensu ab auctore positum esse pro circumductus vel circumfusus, atque adeo τῷ cinctum
-- **(cont.)** forte substitui ductum vel fusum. Ovid. Met. I, 12: « Et circumfuso pendebat in aere tellus ». — Videtur subinde cingere usurpari a poetis pro circumducere, circum adponere vel adjungere. Sic Silius, VIII, 617: « Non totidem Ilva viros, sed lectos cingere ferrum »; quamquam ibi legere malunt gignere ferrum, vel stringere. Sed plane ut Noster τὸ cingere usurpavisse videtur Mela, lib. III, cap. 1: « Restat ille circuitus, quem, ut initio diximus, cingit Oceanus », id est, circumducit. …
+- … われらの詩人が疑いなく念頭に置いたオウィディウスの Met. II, 6 に次のようにあるのと同様である: « Aequora caelarat medias cingentia terras »。プリスキアヌス『周航記』の冒頭: « Oceanum, tellus quo cingitur aequore tota »。またわれわれがルキリウスの『エトナ』93 行への注で述べたところと比較せよ。…しかしながら *cinctus circum* は作者によって意味を変えて *circumductus*（巡らされた）あるいは *circumfusus*（周りに注がれた）の代わりに置かれた可能性もあり、したがって *cinctum* に
+- **(cont.)** （前頁からの続き）おそらく *ductum* や *fusum* を代入することもできよう。Ovid. Met. I, 12: « Et circumfuso pendebat in aere tellus »。――動詞 *cingere* は詩人たちによって、*circumducere*（巡らす）、*circum adponere*（周囲に配する）あるいは *adjungere*（周囲に添える）の意で時折用いられるようである。シリウス VIII, 617: « Non totidem Ilva viros, sed lectos cingere ferrum »；もっともそこでは *gignere ferrum* あるいは *stringere* と読むのを好む者もいる。しかしポムポニウス・メラはまさにわれらの詩人と同じように *cingere* を用いたように見受けられる（第3巻第1章）: « Restat ille circuitus, quem, ut initio diximus, cingit Oceanus »、すなわち「巡らしている（*circumducit*）」。…
 
 [3] 864 Omnes et terras et cinctum Nerea circum;
 
 [4] 864 below Oceanum terris et cinctum Nerea circum.
 
 [6] 864 Oceanum terris et cinctum Nerea circum
-- *Iliad* 18.607
+- 『イーリアス』 18.607
 
 865 astrorumque uices dimensaque tempora noctis,
 
 [2] 871 Annorumque vices, dimensaque tempora noclis,
 
 [3] 865 Astrorumque uices dimensaque tempora noctis,
-- **865—67** habent Gesta Bereng. I 108—110
+- **865—67** 『ベレンガリウス事績録』I 108–110 が有する
 
 [4] 865 Astrorumque vices dimensaque tempora noctis,
 
 [6] 865 annorumque vices dimensaque tempora noctis,
-- *Iliad* —
-- **865—867** (testimonia) = Gesta Ber. 1, 108—110
+- 『イーリアス』 —
+- **865—867** （証言） = 『ベレンガリウスの事績』1, 108–110
 
 866 quattuor et mundi partes, quantum Arctos ab Austro
 
@@ -9675,24 +9654,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 867 Et quantum occasus roseo distaret ab ortu,
 
 [6] 867 et quantum occasus roseo distaret ab ortu,
-- *Iliad* —
+- 『イーリアス』 —
 
 868 Lucifer unde suis, unde Hesperus unus uterque
 
 [2] 874 Lucifer unde suis, unde Hesperus, unus uterque,
-- … Nam poetae Luciferum et Hesperum nominibus quidem distinguunt, sed unam stellam agnoscunt. — Vid. quae ad Eleg. in obit. Maec. in Excursu diximus, vs. 129-132, huj. op. t. II, p. 232 et sqq. Ed. — Clare hoc indicat Seneca in Hippol. 750: « Qualis est primas referens tenebras Nuntius noctis, modo lotus undis Hesperus, pulsis iterum tenebris Lucifer idem ». Quod eumdem esse significant, propterea eum desultorio vel mutato equo uti dicunt, quando alius procedit. Diserte Statius, Theb. VI, 237: « Roscida jam novies caelo dimiserat astra Lucifer, et totidem Lunae praevenerat ignes Mutato nocturnus equo; nec conscia fallit Sidera, et alterno deprenditur unus in ortu ». Quoniam igitur mutatis equis discernuntur Lucifer et Hesperus, hinc Noster utrumque suis equis exoriri dicit, quamvis alii, et in his Lips. et G. 2 aquis scribant, idque praeferre velit cl. Anton. de Rooy, p. 99. Caeterum observavi in Lucilii Aetna legi versus, ad quos adludere hic Noster videatur. Nam ille v. 168: « Hinc furtim Borea atque Noto, nunc unus uterque »; et v. 239, « Lucifer unde micet, quave Hesperus, unde Bootes ». Alium similem Lucilii ad versum sequentem adducimus. Facile possis inde argumentum ducere lecti ab auctore nostro Lucilii.
+- … 詩人たちはルキフェル（明けの明星）とヘスペルス（宵の明星）を名前の上では区別するが、同一の星と認めているからである。――本著作第2巻232頁以下の『マエケーナース哀歌』補論、129-132行に対するわれわれの注を参照せよ。パリ編者。――セネカは『ヒッポリュトス』750行でこれを明瞭に示している: « Qualis est primas referens tenebras Nuntius noctis, modo lotus undis Hesperus, pulsis iterum tenebris Lucifer idem »。同一の星であることを示すため、別のものとして現れるときには早馬を乗り換える（または軽業師のように馬を乗り移る）のだと詩人たちは言う。スタティウスは Theb. VI, 237 で雄弁に語っている: « Roscida jam novies caelo dimiserat astra Lucifer, et totidem Lunae praevenerat ignes Mutato nocturnus equo; nec conscia fallit Sidera, et alterno deprenditur unus in ortu »。したがって、ルキフェルとヘスペルスは乗り換えた馬によって見分けられるため、われらの詩人は両者がそれぞれの馬で昇る（*suis equis*）と述べているのである。もっとも他の諸本、とりわけライプツィヒ版や G. 2 は *aquis*（水から）と書いており、高名なアントン・デ・ローイ（99頁）もそれを好んでいるが。なお、私はルキリウスの『エトナ』の中に、われらの詩人がここで暗示していると思われる詩行が読まれることに気づいた。なぜならその 168 行に: « Hinc furtim Borea atque Noto, nunc unus uterque »；また 239 行に: « Lucifer unde micet, quave Hesperus, unde Bootes » とあるからである。ルキリウスのもう一つの類似の箇所を次の行の注で挙げる。ここから、われらの作者がルキリウスを読んでいたという論拠を容易に引き出すことができよう。
 
 [3] 868 Lucifer unde suis, unde Hesperus unus uterque
 
 [4] 868 Lucifer unde suis, unde Hesperus unus uterque
 
 [6] 868 Lucifer unde suis, unde Hesperus unus uterque
-- *Iliad* —
+- 『イーリアス』 —
 
 869 exoreretur equis, et quantum in orbe mearet
 
 [2] 875 Exoreretur equis ; quantus Sol orbe mearet ,
-- **(cont.)** … Nam Lucifero et Hespero, deinde Luna, nominatis, cur Solem tacet, qui praecipue nominandus erat, et cum Luna, ut in Lucilii adductis versibus, in ipsoque Homero, Il. XVIII, 484, quem hoc loco exprimit auctor, factum est, conjungendus? …
+- **(cont.)** … というのも、ルキフェルとヘスペルス、次いで月が名指されながら、なぜ特に名指されるべきであり、引用したルキリウスの詩行や、作者がこの箇所で忠実に表現しているホメーロス自身（Il. XVIII, 484）においてなされているように月と結合されるべき太陽について沈黙しているのか。…
 
 [3] 869 Exoreretur equis, et quantus in orbe mearet
 
@@ -9729,7 +9708,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 871 Addideratque fretis sua numina, Nerea magnum
 
 [6] 871 addideratque fretis sua numina: Nerea magnum
-- *Iliad* —
+- 『イーリアス』 —
 
 872 Oceanumque senem nec eundem Protea semper,
 
@@ -9740,19 +9719,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 872 Oceanumque senem nec eundem Protea semper,
 
 [6] 872 Oceanumque senem nec eundem Protea semper,
-- *Iliad* —
+- 『イーリアス』 —
 
 873 Tritonasque feros et amantem Dorida fluctus;
 
 [2] 879 Tritonesque feros, et amantem Dorida fluctus.
-- Tritonesque feros. Feri nominantur, quia ex parte belluam referunt, et pisces pro pedibus habent. Sic ferum et semiferum Tritona appellat Claud. de Nupt. Hon. 138 et 145. …
+- *Tritonesque feros*（そして野性的なトリートーンたち）。彼らが *feri*（野獣のような）と呼ばれるのは、体の一部が怪獣のようであり、足の代わりに魚の尾を持っているからである。クラウディアヌスも『ホノリウスの婚礼』138 および 145 行でトリートーンを *ferus* および *semifer*（半獣の）と呼んでいる。…
 
 [3] 874 Tritonesque feros et amantem Dorida fluctus;
 
 [4] 873 Tritonesque feros et amantem Dorida fluctus;
 
 [6] 873 Tritonasque feros et amantem Dorida fluctus;
-- *Iliad* —
+- 『イーリアス』 —
 
 874 fecerat et liquidas mira Nereidas arte.
 
@@ -9767,19 +9746,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [6] [874] [fecerat et mire liquidas Nereidos arces]
 
 [6] 874 fecerat et liquidas mira Nereidas arte.
-- *Iliad* —
+- 『イーリアス』 —
 
 875 Terra gerit siluas horrendaque monstra ferarum
 
 [2] 880 Terra gerit sihras, horrendaque monstra ferarum,
-- Terra gerit silvas. Hoc et sequente versu respexisse et paene expressisse hos Ovidii videtur, Met. II, 15: « Terra viros, urbesque gerit, silvasque, ferasque, Fluminaque, et Nymphas, et caetera numina ruris ».
+- *Terra gerit silvas*（大地は森を宿す）。この行および次の行において、作者はオウィディウスの次の詩行（Met. II, 15）を念頭に置き、ほぼそのまま表現したように見受けられる: « Terra viros, urbesque gerit, silvasque, ferasque, Fluminaque, et Nymphas, et caetera numina ruris »。
 
 [3] 875 Terra gerit siluas horrendaque monstra ferarum
 
 [4] 875 Terra gerit silvas horrendaque monstra ferarum
 
 [6] 875 terra gerit silvas horrendaque monstra ferarum
-- *Iliad* —
+- 『イーリアス』 —
 
 876 fluminaque et montes cumque altis oppida muris,
 
@@ -9790,12 +9769,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 876 Fluminaque et montes cumque altis oppida muris,
 
 [6] 876 fluminaque et montes cumque altis oppida muris,
-- *Iliad* 18.490
+- 『イーリアス』 18.490
 
 877 in quibus exercent leges annosaque iura
 
 [2] 882 In quibus exercent leges animosaque jura
-- Animosaque jura. Hoc scitissime dictum putat Barthius, Adv. p. 2809, quia vitiis longe potentioribus opponunt sese.
+- *Animosaque jura*（そして気脈あふれる法）。バルトは Adv. 2809 頁で、これが極めて巧みに言われていると考えている。法ははるかに強大な悪徳に立ち向かうものだからである。
 
 [3] 877 In quibus exercent leges annosaque iura
 
@@ -9806,14 +9785,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 878 certantes populi; sedet illic aequus utrisque
 
 [2] 883 Certantes populi : sedet illic sequus utrique
-- … In edd. est utrique, nempe in unaquaque caussa actori et reo.
+- … 諸刊本では *utrique* であり、すなわち個々の訴訟における原告と被告の双方に対して、ということである。
 
 [3] 878 Certantes populi; sedet illic aequus utrisque
 
 [4] 878 Certantes populi; sedet illic aequus utrisque
 
 [6] 878 certantes populi; sedet illic aequus utrisque
-- *Iliad* 18.506
+- 『イーリアス』 18.506
 
 879 iudex et litem discernit fronte serena.
 
@@ -9830,13 +9809,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [2] 885 Parte alia castae resonant Paeana puellae ,
 
 [3] 880 Parte alia resonant castae paeana puellae
-- **880—83** , 85, 88 habent Gesta Bereng. I 64—69 (880 inmutatum)
+- **880—83** , 85, 88 『ベレンガリウス事績録』I 64–69 が有する（880 は変更なし）
 
 [4] 880 Parte alia resonant castae paeana puellae
 
 [6] 880 parte alia castae resonant Paeana puellae
-- *Iliad* 18.593
-- (testimonia) puellae — 883 recepta in Gesta Berengarii 1, 64—67
+- 『イーリアス』 18.593
+- （証言） *puellae* — 883 『ベレンガリウスの事績』1, 64–67 に採録
 
 881 dantque choros molles et tympana dextera pulsat;
 
@@ -9871,14 +9850,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 884 carmina componunt mundi resonantia motum.
 
 [2] 889 Carmina componunt mundi resonantia motum :
-- … Tangit Veterum opinionem de siderum harmonia, de qua egimus ad principium carminis Licentii ad August.
+- … 作者は天体の調和（ハーモニー）に関する古代人の見解に触れており、これについてはアウグスティヌスに宛てたリケンティウスの詩の冒頭で論じた。
 
 [3] 884 Stamina compositum mundi resonantia motum.
 
 [4] 884 Stamina compositum mundi resonantia motum.
 
 [6] 884 carmina componunt mundi resonantia motum.
-- *Iliad* —
+- 『イーリアス』 —
 
 885 Rura colunt alii, sulcant grauia arua iuuenci
 
@@ -9889,8 +9868,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 885 Rura colunt alii, sulcant gravia arva juvenci
 
 [6] 885 rura colunt alii, sulcant gravia arva iuvenci
-- *Iliad* 18.542
-- (testimonia) = Gesta Ber. 1, 68
+- 『イーリアス』 18.542
+- （証言） = 『ベレンガリウスの事績』1, 68
 
 886 maturasque metit robustus messor aristas
 
@@ -9901,7 +9880,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 886 Maturasque metit robustus messor aristas
 
 [6] 886 maturasque metit robustus messor aristas
-- *Iliad* 18.551
+- 『イーリアス』 18.551
 
 887 et gaudet pressis immundus uinitor uuis;
 
@@ -9912,7 +9891,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 887 Et gaudet pressis immundus vinitor uvis;
 
 [6] 887 et gaudet pressis immundus vinitor uvis;
-- *Iliad* 18.561
+- 『イーリアス』 18.561
 
 888 tondent prata greges, pendent in rupe capellae.
 
@@ -9923,21 +9902,21 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 888 Tondent prata greges, pendent in rupe capellae.
 
 [6] 888 tondent prata greges, pendent in rupe capellae.
-- *Iliad* 18.587
-- (testimonia) = Gesta Ber. 1, 69 (pendentque)
+- 『イーリアス』 18.587
+- （証言） = 『ベレンガリウスの事績』1, 69 (*pendentque*)
 
 889 Haec inter mediis stabat Mars aureus armis,
 
 [2] 894 Hic intermedius stabat Mars aureus armis,
-- … De ipsa imagine his versibus exposita vid. Excursus tertius ad hujus carminis calcem.
+- … これらの行で提示されている図像それ自体については、本篇末尾の第三補論（Excursus III）を見よ。
 
 [3] 889 Haec inter mediis stabat Mars aureus armis,
 
 [4] 889 Haec inter nitidis stabat Mars aureus armis,
 
 [6] 889 haec inter mediis stabat Mars aureus armis,
-- *Iliad* —
-- … armis Ω i. in clipeo
+- 『イーリアス』 —
+- … armis Ω すなわち盾の上に
 
 890 quem diua poesis reliquae* circaque sedebant
 
@@ -9948,20 +9927,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 890 Post quem diva potens belli; circaque sedebant
 
 [6] 890 quem diva † poesis † reliquae circaque sedebant
-- *Iliad* —
+- 『イーリアス』 —
 
 891 anguineis maestae Clotho Lachesisque capillis.
 
 [2] 896 Sanguineis moestae Clotho Lachesisque capiUis.
-- … Adlusisse
-- **(cont.)** videtur hemistichium Virgilii, Aen. III, 64: « Caeruleis maestae vittis ». — Et de Parcis Catullus, in Epithal. Pel. p. 186 Voss. « At roseae niveo residebant vertice vittae ». Ed.
+- … ［作者が］暗示（仄めかし）をした［と思われるのは］―
+- **(cont.)** （前頁からの続き）ウェルギリウスの半行（*Aen.* III, 64: « Caeruleis maestae vittis »）をほのめかしているように思われる。――また運命の女神たち（パルカたち）について、カトゥッルスは『ペーレウスの祝婚歌』(*Epithal. Pel.*) p. 186 Voss. で次のように述べている: « At roseae niveo residebant vertice vittae »。パリ編者。
 
 [3] 891 Sanguineis maestae Clotho Lachesisque quasillis.
 
 [4] 891 Sanguineis maestae Clotho Lachesisque quasillis.
 
 [6] 891 anguineis maestae Clotho Lachesisque capillis.
-- *Iliad* —
+- 『イーリアス』 —
 
 ## Book 19
 
@@ -9974,7 +9953,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 892 Talibus ornatus donis Thetideius heros
 
 [6] 892 talibus ornatus donis Thetideius heros
-- *Iliad* 19.364
+- 『イーリアス』 19.364
 
 893 in medias acies immani turbine fertur,
 
@@ -9995,7 +9974,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 894 Cui vires praebet casta cum Pallade Juno
 
 [6] 894 cui vires praebet casta cum Pallade Iuno
-- *Iliad* 19.353
+- 『イーリアス』 19.353
 
 895 dantque animos iuueni. Vidit Cythereius heros
 
@@ -10006,12 +9985,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 895 Dantque animos juveni ; contra Cythereius heros
 
 [6] 895 dantque animos iuveni: vidit Cythereius heros
-- *Iliad* 20.79
+- 『イーリアス』 20.79
 
 896 occurritque uiro, sed non cum uiribus aequis
 
 [2] 901 Occurritque viro, sed non cum viribus aequis,
-- … Sic apud Maronem, Aen. V, 809, Neptunus dicit, « Pelidae forti Congressum Aeneam, nec Dis, nec viribus aequis ».
+- … 同様にマロー（ウェルギリウス）の Aen. V, 809 で、ネプトゥーヌスが次のように述べている: « Pelidae forti Congressum Aeneam, nec Dis, nec viribus aequis »。
 
 [3] 896 Occurrit feruens; sed enim non uiribus aequis,
 
@@ -10022,7 +10001,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 897 Aeacidae nec compar erat, tamen ira coegit
 
 [2] 902 Aeacidae nec compar erat; tamen ira coegit
-- … Sed observat ad hunc locum Barthius, Adv. p. 2809, auctorem corripuisse syllabam in compar, pro more sequioris latinitatis, quomodo Prudentius in Romano, « Meatus unus impar ad laudes Dei ». Et Avianus duobus locis similiter hanc corripuit, fab. XI, 5, « Dispar erat fragili et solidae concordia motus »; et fab. XVIII, 10: « Tantorum solus viribus impar erat ».
+- … だがバルトはこの箇所について『雑考』(*Adv.*) p. 2809 で、作者が後代のラテン語の慣習に従って *compar* の音節を短縮したのだと指摘している。プルデンティウスが『ロマヌス歌』で « Meatus unus impar ad laudes Dei » としているのと同様である。アウィアヌスも二箇所で同様にこの音節を短縮している。すなわち寓話第 11 篇 5 行: « Dispar erat fragili et solidae concordia motus »、および寓話第 18 篇 10 行: « Tantorum solus viribus impar erat »。
 
 [3] 897 Aeacidae nec erat conpar; tamen ira coegit
 
@@ -10043,50 +10022,50 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 899 Quem nisi seruasset magnarum rector aquarum,
 
 [2] 904 Quem nisi servasset magnarum rector aquarum,
-- Rector aquarum, Neptunus, a quo servatum, et pugnae ereptum esse Aeneam, cum Achille congressum, refert Hom. XX, 325 seqq. et ipse Neptunus gloriatur apud Virg. Aen. V, 804 seqq.
+- *Rector aquarum*（水の支配者）、すなわちネプトゥーヌス。アエネーアースがアキレウスと交戦した際に、彼によって救われ戦いから救出されたことは、ホメーロスが『イーリアス』XX, 325 以下で語り、ウェルギリウスの Aen. V, 804 以下でもネプトゥーヌス自身が誇らしげに語っている。
 
 [3] 899 Quem nisi seruasset magnarum rector aquarum,
 
 [4] 899 Quem nisi servasset magnarum rector aquarum,
 
 [6] 899 quem nisi servasset magnarum rector aquarum,
-- *Iliad* 20.291
+- 『イーリアス』 20.291
 
 900 ut profugus laetis Troiam repararet in aruis
 
 [2] 905 Ut profugus Latiis Trojam repararet in arvis,
-- … Sic et saepius loquitur Virgilius, quando Trojam illatam Latio dicit Aeneid. I, 6. Trojam in Italia restituendam Aen. III, 504, Ilium in Italiam portari Aen. I, 68. Et Ovidius, plane ut Noster, Fast. IV, 251: « Quum Trojam Aeneas Italos portaret in agros ». — Vide editionem nostram Ovidii, vol. VI, p. 251. Ed.
+- … ウェルギリウスも、トロイアがラティウムにもたらされた（Aeneid. I, 6）、トロイアがイタリアで再建されるべきである（Aen. III, 504）、イーリオンがイタリアへ運ばれる（Aen. I, 68）と言う際に、このようにしばしば述べている。そしてオウィディウスも、まったくわれらの詩人と同様に、Fast. IV, 251 で歌っている: « Quum Trojam Aeneas Italos portaret in agros »。――われらのオウィディウス版第 6 巻 p. 251 を参照。パリ編者。
 
 [3] 900 Ut profugus laetis Troiam repararet in aruis
 
 [4] 900 Ut profugus Latiis Trojam repararet in arvis
 
 [6] 900 ut profugus Latiis Troiam repararet in arvis
-- *Iliad* —
+- 『イーリアス』 —
 
 901 Augustumque genus claris submitteret astris,
 
 [2] 906 Augustumque genus cseli submitteret astris , '
-- … Submitteret astris explicari potest hinc mitteret in astra, vel inferret astris fama et gloria; sed tamen malim sic interpretari, ut significet, genus Augustum faceret venire in vitam et sub caelum, quemadmodum Virgilius de genere Augusto loquitur Aeneid. VI, 790: « Hic Caesar et omnis Iuli Progenies, magnum caeli ventura sub axem ». … Caeterum Barthius l. c. ex hoc versu non temere colligit, poema istud ab Romano homine, et Roma adhuc sub Augustis imperantibus florente, scriptum esse. — Hanc opinionem Barthii in prooemio de Epitome Iliados, init. Wernsd. retulit. Ed.
+- … *Submitteret astris* は、ここから「星々へと送り出す」、あるいは「名声と栄光によって星々へと導く」と解釈することもできるが、私はむしろ、アウグストゥスの血統を生命の中へ、天の下へと生み出すことを意味すると解釈したい。ウェルギリウスが Aeneid. VI, 790 でアウグストゥスの血統について次のように述べているのと同様である: « Hic Caesar et omnis Iuli Progenies, magnum caeli ventura sub axem »。…なお、バルトは前掲箇所でこの詩行から、この詩がローマ人によって、そしてローマが君臨するアウグストゥスたちの下でなお繁栄していた時代に書かれたものであると、正当にも推論している。――バルトのこの見解は、ヴェルンスドルフが『イーリアス梗概』序論（*Prooemium*）の冒頭で報告している。パリ編者。
 
 [3] 901 Augustumque genus claris submitteret astris,
 
 [4] 901 Augustumque genus claris submitteret astris,
 
 [6] 901 Augustumque genus claris submitteret astris,
-- *Iliad* —
+- 『イーリアス』 —
 
 902 non clarae gentis nobis mansisset origo.
 
 [2] 907 Non clarae gentis nobis mansisset origo.
-- … Clara autem κατ᾽ ἐξοχὴν dicebatur gens Julia, quod apparente Julio sidere, vel Dionaeo astro, quod Horatius et Virgilius dicunt, praecipue declarata putabatur. — Originem Iulae gentis Noster Aeneam dicit ad modum Virgilii, qui Aeneid. XII, vs. 166: « Hinc pater Aeneas Romanae stirpis origo »; et Aen. I, 286: « Nascetur pulchra Trojanus origine Caesar Julius, a magno demissum nomen Iulo ».
+- … なお、ユリウス氏族が卓越して（κατ᾽ ἐξοχὴν）*clara*（輝かしい）と呼ばれたのは、ホラーティウスやウェルギリウスが言う「ユリウスの星（カエサルの彗星）」あるいは「ディオネーの星」の出現によって、ひときわ明示されたと考えられていたからである。――われらの詩人は、ウェルギリウスの流儀に倣ってアエネーアースをユリウス氏族の始祖と呼んでいる。ウェルギリウスは Aeneid. XII, v. 166 で « Hinc pater Aeneas Romanae stirpis origo » と歌い、また Aen. I, 286 では « Nascetur pulchra Trojanus origine Caesar Julius, a magno demissum nomen Iulo » と歌っている。
 
 [3] 902 Non carae gentis nobis mansisset origo.
 
 [4] 902 Non pulcrae gentis nobis mansisset origo.
 
 [6] 902 non clarae gentis nobis mansisset origo.
-- *Iliad* —
+- 『イーリアス』 —
 
 903 Inde agit Aeacides infesta cuspide Teucros
 
@@ -10097,12 +10076,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 903 Inde agit Aeacides infesta cuspide Teucros
 
 [6] 903 inde agit Aeacides infesta cuspide Teucros
-- *Iliad* 20.381
+- 『イーリアス』 20.381
 
 904 ingentemque modum prosternit caede uirorum,
 
 [2] 909 Ingentemque manum prosternit caede virorum,
-- … et modus subinde dicitur pro quavis magnitudine vel mensura, ut ab Horatio, Sat. II, 2, 36: « Scilicet illis Majorem natura modum dedit »; et II, 6, 1: « modus agri non ita magnus ».
+- … *modus* はしばしばいかなる大きさや尺度に対しても用いられる語であり、ホラーティウスが Sat. II, 2, 36 で « Scilicet illis Majorem natura modum dedit »、同 II, 6, 1 で « modus agri non ita magnus » としているのと同様である。
 
 [3] 904 Ingentemque modum prosternit caede uirorum,
 
@@ -10129,7 +10108,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 906 Confugit ad Xanthi rapidos perterrita fluctus
 
 [6] 906 confugit ad Xanthi rapidos perterrita fluctus
-- *Iliad* 21.1
+- 『イーリアス』 21.1
 
 907 auxiliumque petit diuini fluminis; ille
 
@@ -10150,7 +10129,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 908 Instat et in mediis bellatur gurgitis undis.
 
 [6] 908 instat et in mediis bellatur gurgitis undis.
-- *Iliad* 21.233
+- 『イーリアス』 21.233
 
 909 Ira dabat uires; stringuntur sanguine ripae
 
@@ -10161,7 +10140,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 909 Ira dabat vires; stringuntur sanguine ripae
 
 [6] 909 ira dabat vires; stringuntur sanguine ripae
-- … stringuntur … cf. Verg. Aen. 8, 62
+- … stringuntur … ウェルギリウス『アエネーイス』8, 62 を参照
 
 910 sparsaque per totos uoluuntur corpora fluctus.
 
@@ -10184,7 +10163,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 911 At Venus et Phrygiae gentis tutator Apollo
 
 [6] 911 at Venus et Phrygiae gentis tutator Apollo
-- *Iliad* 21.234
+- 『イーリアス』 21.234
 
 912 cogunt in Danaos Xanthi consurgere fluctus,
 
@@ -10225,8 +10204,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 915 Exspatiatur aquis et vasto gurgite praeceps
 
 [6] 915 expatiatur aquis et vasto gurgite praeceps
-- *Iliad* 21.24?
-- Expatiatur … (cf. Ov. met. 1, 285) …
+- 『イーリアス』 21.24?
+- Expatiatur … (オウィディウス『変身物語』1, 285 を参照) …
 
 916 uoluitur atque uirum torrentibus impedit undis
 
@@ -10241,7 +10220,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 917 praetardatque gradus. Ille omni corpore saeuas
 
 [2] 922 Praetardatque gradus : ille omni corpore saevas
-- … Statius, Thebaid. II, 671: « Tardatique gradus ». At verbum praetardo abesse video a lexicis.
+- … スタティウス『テーバイス』II, 671: « Tardatique gradus »。もっとも、動詞 *praetardo* は辞書に見当たらないようである。
 
 [3] 917 Praetardatque gradus; ille omni corpore saeuas
 
@@ -10278,33 +10257,33 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 920 Propellit fluctus. Quem longe provida Juno
 
 [6] 920 propellit fluctus. quem longe provida Iuno
-- *Iliad* 21.328
+- 『イーリアス』 21.328
 
 921 asseruit, rapidae quia cederet, ignibus, undae,
 
 [2] 926 Adseruit, rapidae ne cederet ictibus undae:
-- … i. e. sustentavit, confirmavit. Imbribus, ignibus, fluctibus undae G. 2. Juvit autem Juno Achillem, quod Vulcanum ejus in auxilium excitavit, ut fluvii ripas campumque incenderet.
+- … すなわち、支えた、力づけたということである。G. 2 は *Imbribus*, *ignibus*, *fluctibus undae* を掲げる。なおユーノーがアキレウスを助けたのは、彼の救援のためにウュルカーヌスを奮起させ、河の堤と平野を焼き払わせたことによる。
 
 [3] 921 Asseruit, rabidae qua cederet ictibus undae.
 
 [4] 921 Asseruit, rabidaene cederet ignibus undae.
-- … ignibus, Kootenio auctore, retinui : cf. enim Iliad. XXI, 342, 356, 361, 365. …
+- … 筆者としてはクーテンの提案に従って ignibus を保持した。『イーリアス』XXI, 342, 356, 361, 365 を参照。…
 
 [6] 921 asseruit, rapidae quia cederet, ignibus, undae,
-- *Iliad* 21.330
-- … ignibus iungendum cum asseruit (cf. Thesaurus II p. 864); ad hyperbaton cf. natus v. 573, uictor 852
+- 『イーリアス』 21.330
+- … ignibus は asseruit と結びつけるべし (Thesaurus II p. 864 を参照)。倒置法については 573行 natus, 852行 uictor を参照
 
 922 sanctaque pugnarunt inter se numina diuum.
 
 [2] 927 Sanctaque pugnarunt inter se numina Divum.
-- … Hoc versu auctor sane nimium breviter attingit rixas et praelia, quibus Dii Deaeque depugnant super Trojanis, Mars cum Minerva, Neptunus cum Apolline, Juno cum Diana apud Homerum, Iliad. XXI, v. 385-515.
+- … この詩行において作者は、ホメーロスの『イーリアス』XXI, vv. 385–515 で神々と女神たちがトロイア勢を巡って戦う争いや戦闘――マールスとミネルウァ、ネプトゥーヌスとアポッローン、ユーノーとディアーナ――について、いかにもあまりに簡潔にしか触れていない。
 
 [3] 922 Sanctaque pugnarunt inter se numina diuum.
 
 [4] 922 Sanctaque pugnarunt inter se numina divum.
 
 [6] 922 sanctaque pugnarunt inter se numina divum.
-- *Iliad* 21.391
+- 『イーリアス』 21.391
 
 923 Rursus agit Phrygias ingenti caede cateruas
 
@@ -10325,7 +10304,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 924 Horridus Aeacides bellique ardore resumpto
 
 [6] 924 horridus Aeacides bellique ardore resumpto
-- *Iliad* 21.520
+- 『イーリアス』 21.520
 
 925 funereas acies horrendaque proelia miscet.
 
@@ -10350,7 +10329,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 927 pectora bellando; uires successus adauget.
 
 [2] 932 Pectora pugnando; vires successus adauget.
-- … Vires successus adauget idem est, ac quod supra 494 et 768 dixit geminat victoria vires.
+- … *Vires successus adauget*（成功が力を増す）は、作者が上の 494 行および 768 行で *geminat victoria vires*（勝利が力を倍加させる）と述べたのと同じことである。
 
 [3] 927 Pectora pugnando; uires successus adauget.
 
@@ -10367,12 +10346,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 928 Percussi dubitant trepida formidine Troes
 
 [6] 928 percussi dubitant trepida formidine Troes
-- *Iliad* 21.528
+- 『イーリアス』 21.528
 
 929 atque intra muros exhausta paene salute
 
 [2] 934 Atque intra muros exhausta paene salute
-- … — Exhausta paene salute, h. e. quum paene periissent, et spes fere omnis salutis evanuisset. Virgilio dicitur « absumpta salus », Aen. I, 555.
+- … ――*Exhausta paene salute*（安全［救い］がほとんど尽き果てて）、すなわち、彼らがほとんど滅びかけ、安全への希望のほぼすべてが消え失せていたとき。ウェルギリウスでは « absumpta salus »（奪い去られた救い、Aen. I, 555）と言われている。
 
 [3] 929 Aut intra muros exhausta paene salute
 
@@ -10383,14 +10362,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 930 confugiunt portasque obiecto robore firmant.
 
 [2] 935 Confugiunt, portasque objecto robore firmant.
-- Vid. vers. 683. Ed.
+- 683 行を見よ。パリ編者。
 
 [3] 930 Defugiunt portasque obiecto robore firmant.
 
 [4] 930 Confugiunt portasque objecto robore firmant.
 
 [6] 930 confugiunt portasque obiecto robore firmant.
-- *Iliad* 21.607
+- 『イーリアス』 21.607
 
 ## Book 21
 
@@ -10403,7 +10382,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 931 Unus tota salus in quo Trojana manebat
 
 [6] 931 unus tota salus in quo Troiana manebat
-- *Iliad* 22.35
+- 『イーリアス』 22.35
 
 932 Hector adest, quem non durae timor undique mortis,
 
@@ -10424,7 +10403,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 933 Nec patriae tenuere preces, quin obvius iret
 
 [6] 933 non patriae tenuere preces, quin obvius iret
-- *Iliad* 22.38
+- 『イーリアス』 22.38
 
 934 et contra magnum contendere uellet Achillem.
 
@@ -10439,8 +10418,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 935 Quem procul ut uidit tectum caelestibus armis,
 
 [2] 941 Quem procul ut vidit tectum caelestibus armis,
-- … Hinc in caelestibus armis intelligenda Achillis arma a Vulcano fabricata, quemadmodum Maro, Aen. XII, 167, de Aenea: « Sidereo flagrans clypeo et caelestibus armis ». Et Hectorem
-- **(cont.)** timuisse conspecto Achille armis fulgente, refert Hom. XXII, 136.
+- … したがって *in caelestibus armis*（天上の武具を身にまとって）はウュルカーヌスによって鍛造されたアキレウスの武具と理解すべきであり、マロー（ウェルギリウス）が Aen. XII, 167 でアエネーアースについて « Sidereo flagrans clypeo et caelestibus armis » と述べているのと同様である。そしてヘクトールが
+- **(cont.)** （前頁からの続き）武具に輝くアキレウスを見て恐怖を抱いたことは、ホメーロスが『イーリアス』XXII, 136 で伝えている。
 
 [3] 935 Quem procul ut uidit tectum caelestibus armis,
 
@@ -10451,7 +10430,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 936 ante oculos subito uisa est Tritonia Pallas
 
 [2] [940] [Ante oculos subito visa est Tritonia Pallas]
-- … Et verum esse, quod adfirmat ille, facile Homero inspecto intelligitur, qui non aliam Palladis apparitionem tradit, quam quae ab auctore versu 952 relata est. …
+- … そして彼の主張が正しいことは、ホメーロスを調べれば容易に理解される。ホメーロスは、作者が 952 行で伝えているもの以外のパラスの顕現を伝えていないからである。…
 
 [3] [936] [Ante oculos subito uisa est Tritonia Pallas]
 
@@ -10468,12 +10447,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 937 Praemetuit clausisque fugit sua moenia circum
 
 [6] 937 pertimuit clausisque fugit sua moenia circum
-- *Iliad* 22.136
+- 『イーリアス』 22.136
 
 938 infelix portis, sequitur Nereius heros:
 
 [2] 943 Infelix portis : sequitur Nereius heros.
-- … Infra, v. 980, idem Nereius dicitur: et Saleius, Carm. in Pis. v. 164, eo nomine utitur. …
+- … 下の 980 行でも彼は同様に *Nereius* と呼ばれており、サレイウス［・バッスス］も『ピーソーへの詩』(*Carm. in Pis.*) 164 行でその名を用いている。…
 
 [3] 938 Infelix portis; sequitur Nereius heros.
 
@@ -10484,14 +10463,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 939 in somnis ueluti, cum pectora terruit ira,
 
 [2] 944 In somnis veluti , quum pectora terruit ira ,
-- … Hic versus aliter, ac edd. habent, distinguendus et cum sequentibus conjungendus, comparationem continet, ab Homero, Iliad. XXII, 199 seqq. et Virgilio, Aen. XII, 908, usurpatam, cum somniantibus, qui sibi videntur alterum currendo vel consequi, vel fugere, nec tamen sopore pressi et languidi quidquam proficiunt. Videtur Noster utriusque locum respexisse, et partim imitari voluisse, sed non adsequutus est.
+- … この詩行は、諸刊本にあるのとは異なって句読点を打ち、後続の行と結びつけられるべきものであり、夢を見ている者たちとの比喩を含んでいる。これはホメーロス（『イーリアス』XXII, 199 以下）およびウェルギリウス（Aen. XII, 908）が用いたもので、走って他者に追いつくか、あるいは他者から逃げているように思えるのに、眠りに圧迫されて気だるく何も果たせない夢想者のことである。われらの詩人は両者の箇所を念頭に置き、一部を模倣しようとしたように思われるが、成功していない。
 
 [3] 939 In somnis ueluti, cum pectora terret imago,
 
 [4] 939 In somnis veluti, cum pectora terruit ira,
 
 [6] 939 in somnis veluti, cum pectora terruit ira,
-- *Iliad* 22.199
+- 『イーリアス』 22.199
 
 940 hic cursu super insequitur, fugere ille uidetur,
 
@@ -10506,7 +10485,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 941 festinantque ambo, gressum labor ipse moratur,
 
 [2] 946 Festinantque ambo; gressum labor ipse moratur.
-- … Videtur auctor exprimere voluisse sententiam Maronis in eadem comparatione, Aeneid. XII, 909: « nequidquam avidos extendere cursus Velle videmur, et in mediis conatibus aegri Succidimus ».
+- … 作者は同じ比喩におけるマロー（ウェルギリウス）の思想（Aeneid. XII, 909: « nequidquam avidos extendere cursus Velle videmur, et in mediis conatibus aegri Succidimus »）を表現しようとしたものと思われる。
 
 [3] 941 Festinantque ambo; gressum labor ipse moratur:
 
@@ -10517,20 +10496,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 942 alternis poterant insistere coepta periclis,
 
 [2] 947 Alternis poterant insistere coepta periciis,
-- … Insistere coepta hic significat fugam persequi, instare cursu, ut Virg. viam insistere dixit Georg. III, 164. …
+- … *Insistere coepta* はここでは逃走を追撃すること、走って追いつめようとすることを意味し、ウェルギリウスが Georg. III, 164 で *viam insistere*（道を進む）と言ったのと同様である。…
 
 [3] 942 Alternis poterant insistere coepta periclis,
 
 [4] 942 below Alternis poterant insistere coepta periclis
 
 [6] 942 alternis poterant insistere coepta periclis,
-- … intellego: et Hector et Achilles de vita periclitabantur
+- … 私は次のように解する: ヘクトールもアキレウスも命の危機に瀕していた
 
 943 nec requies aderat, timor undique concitat iras.
 
 [2] 948 Nec requies aderat, timor undique concitat iras.
-- … Nempe dum heroes utrique timent, ne alter ab altero superetur, hic timor in iis iram acuit et contentionem auget. … Et fortasse respexit Noster fugam Daphnes, Apolline persequente, ab Ovidio descriptam, Metam. I, 539: « Sic Deus et virgo
-- **(cont.)** est: hic spe celer, illa timore. Qui tamen insequitur, pennis adjutus amoris Ocior est, requiemque negat, tergoque fugacis Imminet ».
+- … というのも、双方の英雄が相手に打ち負かされるのを恐れるあまり、この恐れが彼らの怒りを研ぎ澄まし、抗争を高めるからである。…そしておそらくわれらの詩人は、オウィディウスが Metam. I, 539 で描写した、アポッローンに追われるダプネーの逃走を念頭に置いていたのであろう: « Sic Deus et virgo
+- **(cont.)** （前頁からの続き）est: hic spe celer, illa timore. Qui tamen insequitur, pennis adjutus amoris Ocior est, requiemque negat, tergoque fugacis Imminet »。
 
 [3] 943 Nec requies aderat: timor hinc, hinc concitat ira.
 
@@ -10549,7 +10528,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 944 Spectant de muris miseri sua fata parentes
 
 [6] 944 spectant de muris miseri sua fata parentes
-- *Iliad* —
+- 『イーリアス』 —
 
 945 pallentemque uident supremo tempore natum
 
@@ -10560,12 +10539,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 945 Pallentemque vident extremo tempore natum,
 
 [6] 945 pallentemque vident supremo tempore natum
-- *Iliad* —
+- 『イーリアス』 —
 
 946 quem iam summa dies suprema luce premebat.
 
 [2] 951 Quem jam summa dies extrema luce premebat.
-- … Sed hoc ταυτολόγως et parum eleganter dictum est, praesertim voce suprema bis posita: …
+- … しかしこれは同語反復的（ταυτολόγως）であり、あまり優雅ではない。とりわけ *suprema* という語が二度置かれている点においてである。…
 
 [3] 946 Quem iam summa dies suprema luce premebat.
 
@@ -10582,7 +10561,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 947 Huic subito ante oculos similis Tritonia fratri
 
 [6] 947 huic subito ante oculos similis Tritonia fratri
-- *Iliad* 22.226
+- 『イーリアス』 22.226
 
 948 occurrens iuuenem simulato decipit ore;
 
@@ -10613,7 +10592,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 950 Transtulit ad Danaos iterum sua numina Pallas.
 
 [6] 950 transtulit ad Danaos iterum sua numina Pallas.
-- *Iliad* —
+- 『イーリアス』 —
 
 951 Concurrunt iactis inter se comminus hastis
 
@@ -10624,12 +10603,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 951 Concurrunt jactis inter se cominus hastis
 
 [6] 951 concurrunt iactis inter se comminus hastis
-- *Iliad* 22.273
+- 『イーリアス』 22.273
 
 952 inuicti iuuenes: hic uastis intonat armis,
 
 [2] 957 Invicti juvenes : hic vastis intonat armis;
-- Intonat armis dictio Virgiliana, Aen. XII, 700.
+- *Intonat armis*（武具を轟かせる）はウェルギリウスの表現である（Aen. XII, 700）。
 
 [3] 952 Inuicti iuuenes: hic uastis intonat armis,
 
@@ -10640,7 +10619,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 953 ille hostem ualidum nequiquam umbone repellit
 
 [2] 958 Ille hostem validum nequidquam umbone repellit,
-- Nequidquam umbone repellit, ut Virg. Aeneid. II, 545: « rauco quod protinus aere repulsum, Et summo clypei nequidquam umbone pependit ».
+- *Nequidquam umbone repellit*（盾の突起で空しく押し返す）。Virg. Aeneid. II, 545: « rauco quod protinus aere repulsum, Et summo clypei nequidquam umbone pependit » と同様である。
 
 [3] 953 Ille hostem ualidum nequicquam umbone repellit;
 
@@ -10651,38 +10630,38 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 954 alternisque ferox mutat congressibus ictus.
 
 [2] 959 Altemisque ferox mutat congressibus ictus.
-- Mutat congressibus ictus, i. e. congrediens ictus aliter atque aliter infert. Alterni congressus sunt, quos significat Naso, Metam. IX, 42: « Digredimur paullum, rursumque ad bella coimus ». …
+- *Mutat congressibus ictus*（組み打ちにおいて打撃を変化させる）、すなわち、組み合いながら打撃をあれこれと違った仕方で繰り出す。これはナソー（オウィディウス）が Metam. IX, 42 で次のように述べている交互の組み打ちのことである: « Digredimur paullum, rursumque ad bella coimus »。…
 
 [3] 954 Alternisque feros uitant congressibus ictus.
 
 [4] 954 Alternisque feros mutant congressibus ictus.
 
 [6] 954 alternisque ferox mutat congressibus ictus.
-- *Iliad* —
+- 『イーリアス』 —
 
 955 Sudor agit riuos, ensem terit horridus ensis
 
 [2] 960 Sudor agit rivos, ensem terit horridus ensis,
-- Sudor agit rivos. Virgil. Aen. V, 200, « sudor fluit undique rivis », et vid. vs. 807.
+- *Sudor agit rivos*（汗が川をなす）。Virgil. Aen. V, 200: « sudor fluit undique rivis »、および 807 行を見よ。
 
 [3] 955 Sudor agit riuos, ensem terit horridus ensis,
 
 [4] 955 Sudor agit rivos, ensem terit horridus ensis,
 
 [6] 955 sudor agit rivos, ensem terit horridus ensis.
-- *Iliad* —
+- 『イーリアス』 —
 
 956 collatusque haeret pede pes et dextera dextrae.
 
 [2] 961 Collatusque haeret pede pes, et dextera dextrae.
-- Collatusque haeret. Virg. Aen. X, 361: « Concurrunt, haeret pede pes, densusque viro vir ». Magis tamen respexit Ovidium, Metam. IX, 44: « eratque Cum pede pes junctus: totoque ego pectore pronus Et digitos digitis, et frontem fronte premebam ». …
+- *Collatusque haeret*（身を寄せ合って離れない）。Virg. Aen. X, 361: « Concurrunt, haeret pede pes, densusque viro vir »。しかし詩人はむしろオウィディウスの Metam. IX, 44 を念頭に置いていた: « eratque Cum pede pes junctus: totoque ego pectore pronus Et digitos digitis, et frontem fronte premebam »。…
 
 [3] 956 Conlatusque haeret pede pes et dextera dextrae.
 
 [4] 956 Collatusque haeret pede pes et dextera dextrae.
 
 [6] 956 collatusque haeret pede pes et dextera dextrae.
-- *Iliad* —
+- 『イーリアス』 —
 
 956a
 
@@ -10723,7 +10702,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 959 Quam praeterlapsam vitavit callidus Hector.
 
 [6] 959 quam praeterlapsam vitavit callidus Hector.
-- *Iliad* 22.274
+- 『イーリアス』 22.274
 
 960 Exclamant Danai. Contra Priameius heros
 
@@ -10734,7 +10713,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 960 Exclamant Danai. Contra Priameius heros
 
 [6] 960 exclamant Danai. contra Priameius heros
-- *Iliad* 22.289
+- 『イーリアス』 22.289
 
 961 uibratum iaculum Vulcania torquet in arma.
 
@@ -10749,7 +10728,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 962 Nec successus adest: nam duro inflectitur auro
 
 [2] 967 Nec successus adest, nam duro inflectitur auro :
-- … Nam sermo est de armis Vulcaniis, quae ex auro fabricata esse, Noster supra v. 863 dixit. Neque heroibus veteribus infrequens est clypeos auro caelatos gestare. Ovid. Metam. VIII, vs. 26: « Seu sumpserat auro Fulgentem clypeum, clypeum sumpsisse decebat ».
+- … なぜならここではウルカヌス作の武具のことが論じられており、それが黄金で鍛造されたと、われらの詩人は上の 863 行で述べているからである。また古代の英雄たちが黄金を彫り施した盾を携えることも稀ではない。Ovid. Metam. VIII, vs. 26: « Seu sumpserat auro Fulgentem clypeum, clypeum sumpsisse decebat »。
 
 [3] 962 Nec successus adest; nam duro inflectitur auro
 
@@ -10760,7 +10739,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 963 dissiluitque mucro. Gemuerunt agmina Troum.
 
 [2] 968 Dissiluit mucro : gemuerunt agmina Troum.
-- … Paullo abruptum hoc videtur, ut fere suspicer, versum aliquem excidisse. Nam ante de jaculo vibrato sermo fuit, nunc de mucrone, i. e. ense. Et in Dissiluit exprimere quidem auctor videtur, quod Turno apud Virg. Aen. XII, 739, accidit: « postquam arma Dei ad Vulcania ventum est, Mortalis mucro, glacies ceu futilis, ictu Dissiluit ». At hic mucro, qui inflectitur auro, h. e. obtunditur, vel avertitur, non dici potest dissiluisse sc. in frusta, sed decidisse. …
+- … これは幾分唐突に見え、何か行が脱落したのではないかと疑われるほどである。というのも、直前では投げられた槍のことが語られていたのに、ここでは *mucro*、すなわち剣の切先のことが語られているからである。そして *Dissiluit* において作者は、Virg. Aen. XII, 739 でトゥルヌスに起こったこと、すなわち « postquam arma Dei ad Vulcania ventum est, Mortalis mucro, glacies ceu futilis, ictu Dissiluit » を表現しているかのように見える。しかしここで、黄金によって曲げられた（すなわち、刃こぼれした、あるいは逸らされた）切先は、砕け散った（粉々に散った）とは言えず、むしろ落ちた（*decidisse*）と言うべきである。…
 
 [3] 963 Desiliitque mucro; gemuerunt agmina Troum.
 
@@ -10777,20 +10756,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 964 Concurrunt iterum collatis fortiter armis
 
 [6] 964 concurrunt iterum collatis fortiter armis
-- *Iliad* —
+- 『イーリアス』 —
 
 965 inque uicem duros euitant comminus enses.
 
 [2] 970 Inque vicem duros evitant cominus enses.
-- … et interpretor concurrentes ensibus diu ita digladiantur, ut ictus evitent invicem, nec vulnera accipiant. Post enim rursus cedit Hector et fugit. …
-- **(cont.)** … — Mutare ictus vel commutare enses eadem ratione dici videtur, qua apud Claudian. de Nupt. Hon. et Mar. v. 86, « permutare radios », nempe mutuos et transversos ictus vibrare et reddere. Enses et radii aeque stringunt se et stringuntur invicem, vibrant et repercutiunt, adeoque permutantur. Ed.
+- … これを「剣を手に対峙した両者は、互いに一撃を躱し合い傷を負わないよう、長い間激しく切り結ぶ」と解釈する。実際、その後ヘクトールは再び退却して逃亡するからである。…
+- **(cont.)** … ――*Mutare ictus*（打撃を交わす）または *commutare enses*（剣を交わす）という表現は、クラウディアヌスの『ホノリウスとマリアの婚礼について』(*de Nupt. Hon. et Mar.*) 86行における « permutare radios »（光線を交わす）と同様の理路で言われていると思われる。すなわち、互いに交錯する一撃を繰り出し、また打ち返すということである。剣も光線も同様に互いを掠め、また掠められ、閃いては打ち返し合い、それゆえに「交換される」のである。パリ編者。
 
 [3] 965 Inque uicem duros euitant cominus enses.
 
 [4] 965 Inque vicem duros evitant cominus enses.
 
 [6] 965 inque vicem duros evitant comminus enses.
-- *Iliad* —
+- 『イーリアス』 —
 
 966 Nec sufferre ualet ultra sortemque supremam
 
@@ -10821,7 +10800,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 968 Dumque retrocedit fraternaque rebus in artis
 
 [6] 968 dumque retro cedit fraternaque rebus in artis
-- *Iliad* 22.294
+- 『イーリアス』 22.294
 
 969 respicit auxilia et nullam uidet esse salutem,
 
@@ -10836,14 +10815,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 970 sensit adesse dolos. Quid agat? quae numina supplex
 
 [2] 975 Sensit adesse dolos : quid agat?qu» numina supplex
-- … — De formula quid agat? conferenda sunt quae notata sunt hujus op. t. II, El. XII, v. 37, p. 301. Et quemadmodum hic dicitur quae numina supplex Invocet? Sic supra Reposianus, v. 145: « Quod numen poscat? » Ed.
+- … ――*quid agat?*（彼はいかにすべきか？）という定型表現については、本著作第2巻、哀歌第12歌37行、301頁の注記を参照すべきである。そして、ここで *quae numina supplex Invocet?*（伏して願うにいかなる神々に祈るべきか？）と言われているのと同様に、上掲のレポシアヌス145行でも « Quod numen poscat? » とある。パリ編者。
 
 [3] 970 Sensit adesse dolos: quid agat? quae numina supplex
 
 [4] 970 Sensit adesse dolos : quid agat? quae numina supplex
 
 [6] 970 sensit adesse dolos: quid agat? quae numina supplex
-- *Iliad* —
+- 『イーリアス』 —
 
 971 inuocet? et toto languescunt corpore uires
 
@@ -10854,7 +10833,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 971 Invocet? en toto languescunt corpore vires
 
 [6] 971 invocet? et toto languescunt corpore vires
-- *Iliad* —
+- 『イーリアス』 —
 
 972 auxiliumque negant; retinet uix dextera ferrum,
 
@@ -10865,7 +10844,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 972 Auxiliumque negant; retinet vix dextera ferrum.
 
 [6] 972 auxiliumque negant; retinet vix dextera ferrum,
-- *Iliad* —
+- 『イーリアス』 —
 
 973 nox oculos inimica tegit nec subuenit ullum
 
@@ -10876,7 +10855,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 973 Nox oculos inimica tegit nec subvenit ullum
 
 [6] 973 nox oculos inimica tegit nec subvenit ullum
-- *Iliad* —
+- 『イーリアス』 —
 
 974 defesso auxilium; pugnat moriturus et alto
 
@@ -10887,8 +10866,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 974 Defesso auxilium; pugnat moriturus et alto
 
 [6] 974 defesso auxilium; pugnat moriturus et alto
-- *Iliad* —
-- … alto … cf. Verg. Aen. 10, 464
+- 『イーリアス』 —
+- … alto … ウェルギリウス『アエネーイス』10, 464 を参照
 
 975 corde premit gemitus. Instat Nereius heros
 
@@ -10903,7 +10882,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 976 turbatumque premit procul undique; tunc iacit hastam
 
 [2] 981 Turbatumqueprocul premit undique; tunc jacit hastam,
-- … turbatum procul hic dicit, quem alias proturbatum.
+- … ここでは、他所なら *proturbatum*（遠くへ追い立てられた）と言うべきところを *turbatum procul*（混乱のうちに遠くへ追いやられた）と述べている。
 
 [3] 976 Turbatumque premit procul undique, tum iacit hastam
 
@@ -10920,7 +10899,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 977 Et medias rigida transfixit cuspide fauces.
 
 [6] 977 et medias rigida transfixit cuspide fauces.
-- *Iliad* 22.327
+- 『イーリアス』 22.327
 
 978 Exsultant Danai, Troes sua uulnera deflent.
 
@@ -10931,7 +10910,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 978 Exsultant Danai, Troes sua funera maerent.
 
 [6] 978 exultant Danai, Troes sua vulnera deflent.
-- *Iliad* —
+- 『イーリアス』 —
 
 979 Tunc sic amissis infelix uiribus Hector:
 
@@ -10952,7 +10931,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 980 « En concede meos miseris genitoribus artus,
 
 [6] 980 'en concede meos miseris genitoribus artus,
-- *Iliad* 22.338
+- 『イーリアス』 22.338
 
 981 quos pater infelix multo mercabitur auro:
 
@@ -10967,7 +10946,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 982 dona feres uictor. Priami nunc filius orat,
 
 [2] 987 Dona feres victor. Priami nunc filius orat,
-- … ut simul referatur ad sequentia Te Priamus, quae bella est gradatio.
+- … 後続の *Te Priamus* にも同時に係ることになって、見事な漸層法（グラダーティオー）をなしている。
 
 [3] 982 Dona feres uictor. Priami nunc filius orat
 
@@ -10984,7 +10963,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 983 Te Priami, dux ille ducum, quem Graecia solum
 
 [6] 983 te primum, dux ille ducum, quem Graecia solum
-- *Iliad* —
+- 『イーリアス』 —
 
 984 pertimuit: si, nec precibus nec munere uictus,
 
@@ -10995,7 +10974,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 984 Pertimuit : si nec precibus nec vulnere victi
 
 [6] 984 pertimuit: si, nec precibus nec munere victus,
-- *Iliad* —
+- 『イーリアス』 —
 
 985 nec lacrimis miseri nec clara gente moueris,
 
@@ -11006,7 +10985,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 985 Nec lacrimis miseri nec clara gente moveris,
 
 [6] 985 nec lacrimis miseri nec clara gente moveris,
-- *Iliad* —
+- 『イーリアス』 —
 
 986 afflicti miserere patris: moueat tua Peleus
 
@@ -11021,7 +11000,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 987 pectora pro Priamo, pro nostro corpore Pyrrhus."
 
 [2] 992 Pectora pro Priamo , pro nostro corpore Pyrrhus ».
-- … Nam corpus pro filio ponere solet Noster; vid. vs. 89.
+- … というのも、われらの詩人は子の代わりに *corpus* を置くのを常としているからである。89行を見よ。
 
 [3] 987 Pectora pro Priamo, pro nostro corpore Pyrrhus.'
 
@@ -11038,7 +11017,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 988 Talia Priamides; contra quem durus Achilles :
 
 [6] 988 talia Priamides; quem contra durus Achilles
-- *Iliad* 22.344
+- 『イーリアス』 22.344
 
 989 "Quid mea supplicibus temptas inflectere dictis
 
@@ -11053,8 +11032,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 990 pectora, quem possem direptum more ferarum,
 
 [2] 995 PectoraPquem possem discerptum more ferarum,
-- … atque hoc verbis Homeri congruum putat Iliad. XXII, 346. Ad exemplum Tydei, caput et cerebrum Menalippi mordentis, quod refert Sta-
-- **(cont.)** tius, Theb. VIII, 755 seq. plura hujus infandae immanitatis exempla ex historia congessit Barthius l. c. …
+- … これがホメーロスの言葉 Iliad. XXII, 346 に合致すると考えている。メラニッポスの頭部と脳を噛み砕いたテューデウスの例（スタ-
+- **(cont.)** （前頁からの続き）-ティウスが Theb. VIII, 755 以下で伝えている）に倣って、バルトは前掲箇所でこの言語に絶する残虐行為の事例を歴史から数多く集めている。…
 
 [3] 990 Pectora, quem possem discerptum more ferarum,
 
@@ -11085,7 +11064,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 993 diripient, auidosque canes tua uiscera pascent.
 
 [2] 998 Diripient , avidique canes tua viscera pascent.
-- … Et sane τὸ pascere activa significatione pro vorare apud bonos scriptores vix occurrit, compositum tamen depascere occurrit apud Colum. VII, 5, et in scriptore, qualis hic est, verba omnia ad meliorem usum vix possunt exigi. Igitur hic ampliandum censeo.
+- … そして確かに、*pascere* が能動の意味で *vorare*（貪り食う）の意に用いられる例は優れた作家においては滅多に見出されないが、複合動詞 *depascere* は Colum. VII, 5 に見出され、また本作のような作家においては、すべての語を最善の語法に厳格に合わせることは到底できない。したがって、ここでは判断を保留すべきである（*ampliandum*）と考える。
 
 [3] 993 Diripient, auidosque canes tua uiscera pascent.
 
@@ -11102,19 +11081,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 994 Haec ex te capient Patrocli gaudia manes,
 
 [6] 994 haec ex te capient Patrocli gaudia manes,
-- *Iliad* —
+- 『イーリアス』 —
 
 995 si sapiunt umbrae." Dum talia magnus Achilles
 
 [2] 1000 Si capiunt umbrae». Dum talia magnus Achilles
-- … Forte hoc adumbratum ex illo Virg. Georg. IV, 489: « Ignoscenda quidem, scirent si ignoscere Manes ». Calpurn. VIII, 38: « Si sentire datur post fata quietis ».
+- … おそらくこれはウェルギリウスの Georg. IV, 489 のあの句から模取されたものであろう：« Ignoscenda quidem, scirent si ignoscere Manes »。またカルプルニウス VIII, 38：« Si sentire datur post fata quietis »。
 
 [3] 995 Si capiunt umbrae.' dum talia magnus Achilles
 
 [4] 995 Si capiunt umbrae ». Dum talia magnus Achilles
 
 [6] 995 si capiunt umbrae.' dum talia magnus Achilles
-- *Iliad* —
+- 『イーリアス』 —
 
 996 ore truci iactat, uitam miserabilis Hector
 
@@ -11125,12 +11104,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 996 Ore truci jactat, vitam miserabilis Hector
 
 [6] 996 ore truci iactat, vitam miserabilis Hector
-- *Iliad* 22.361
+- 『イーリアス』 22.361
 
 997 reddidit. Hunc animi nondum satiatus Achilles
 
 [2] 1002 Reddidit : hunc animo nondum satiatus Achilles
-- … Ad verba nondum satiatus recordor epigrammatis, quod exstat Anthol. Lat. lib. I, 94, et de tractu Hectoris inscribitur: « Funere turbat equos necdum satiatus Achilles, Hector et exanimis funere turbat equos ». In quo epigrammate offendor voce turbat, quod falso dictum putabit, si quis nostrum epitomatorem conferat. Nam hic non turbatos vel consternatos equos Achillis, sed potius superbius altiusque incessisse ob Hectoris funus dicit v. 1005. Hinc fortasse pro turbat legendum tardat exemplo Statii in Achill. I, 88: « modo crassa exire vetabit (Achilles) Flamina, et Hectoreo tardabit funere currus ».
+- … *nondum satiatus*（いまだ満ち足りず）という言葉に接して、私は Anthol. Lat. 第1巻94に収められ、『ヘクトールの引きずりについて』と題されたエピグラムを思い起こす：« Funere turbat equos necdum satiatus Achilles, Hector et exanimis funere turbat equos »。このエピグラムにおいて私は *turbat*（かき乱す／怯えさせる）という語に違和感を覚えるが、われらの要約者（エピトマートル）と照らし合わせるならば、誰もがこれが誤って用いられていると考えるであろう。なぜならわれらの詩人は1005行で、アキレウスの馬たちが取り乱したり怯えたりしたのではなく、むしろヘクトールの遺骸によってより誇らしげに、より高く歩みを進めたと述べているからである。それゆえおそらく *turbat* の代わりに、Statius, Achill. I, 88: « modo crassa exire vetabit (Achilles) Flamina, et Hectoreo tardabit funere currus » の例に倣って、*tardat*（遅らせる）と読むべきかもしれない。
 
 [3] 997 Reddidit. hunc animi nondum satiatus Achilles
 
@@ -11147,32 +11126,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 998 Deligat ad currum pedibusque exsanguia membra
 
 [6] 998 deligat ad currum pedibusque exsanguia membra
-- *Iliad* 22.396
+- 『イーリアス』 22.396
 
 999 ter circum muros uictor trahit; altius ipsos
 
 [2] 1004 Ter circum ihuros victor trahit : altius ipsos
-- Ter circum muros victor trahit. Hic Noster iterum Homerum non ex Homero, sed ex Virgilio reddidit, qui Aen. I, 483, ait: « Ter circum Iliacos raptaverat Hectora muros »; sed Homerus ipse ad currum adligatum ter circa Patrocli tumulum, non Trojae moenia, tractum ab Achille scribit. Alii poetae veteres Graeci et Latini raptum circa moenia tradunt, sed de numero ternario silent. Vid. Ovid. Metam. XII, 591, et in Ib. 336. Solum poetarum, qui hoc tradat post Virgilium, esse auctorem Iliados latinae observat Baylius, Diction. article
-- **(cont.)** Achille, n. H. idemque fecisse addit Ausonium in Periocha libri XXII Iliad. Hom. propterea reprehensum a Mariangelo. Hic consensus Ausonii et Homeristae nostri in re singulari talis est, ut auctorem Epitomes si non ipsum Ausonium, certe eumdem ac Periocharum esse, opinari possimus, quum non ita certo Periochae Ausonio tribuantur.
+- *Ter circum muros victor trahit*（勝者は三度城壁の周りを引きずり回す）。ここでわれらの作者は再び、ホメーロスその人からではなく、Aen. I, 483 で « Ter circum Iliacos raptaverat Hectora muros » と述べたウェルギリウスに依拠してホメーロスを再現している。しかしホメーロス自身は、戦車に結びつけられたヘクトールがアキレウスによって引きずり回されたのは、トローイアの城壁の周りではなく、パトロクロスの塚の周りを三度であったと記している。他の古代ギリシアおよびラテンの詩人たちも城壁の周りを引きずられたと伝えているが、「3度」という数については沈黙している。Ovid. Metam. XII, 591 および in Ib. 336 を見よ。ピエール・ベールは『歴史批評辞典』(*Diction.*) の項目
+- **(cont.)** （前頁からの続き）「アキレウス」（*Achille*）、注 H において、ウェルギリウス以後の詩人の中でこれを伝えているのは唯一『イリアス・ラティーナ』の作者のみであると指摘し、さらにアウソニウスもホメーロス『イリアス』第22巻の要約（ペリオカ）で同じことを行っており、そのためにマリアンジェロ［・アックルシオ］から非難されたと付言している。このような特異な点におけるアウソニウスとわれらのホメーロス詩人との一致は、仮にこの要約詩（エピトメー）の作者がアウソニウス自身でないとしても、少なくとも『ペリオカ』の作者と同一人物であると推測させ得るほどのものである（もっとも『ペリオカ』がアウソニウスに帰属されること自体、それほど確実というわけではないが）。
 
 [3] 999 Ter circum muros uictor trahit: altior ipsos
 
 [4] 999 Ter circum muros victor trahit : altior ipsos
 
 [6] 999 ter circum muros victor trahit: altius ipsos
-- *Iliad* —
+- 『イーリアス』 —
 
 1000 fert domini successus equos. Tum maximus heros
 
 [2] 1005 Fert domini successus equos : tunc maximus heros
-- Fert domini successus equos. Hoc egregie et Homerice dictum putat Barthius, Adv. p. 2809. Nam equos heroum quosdam augures futurorum faciunt poetae. Paria idem notavit ad Stat. Theb. I, 275, et ad vers. ult. lib. I de Raptu Proserp. Similis dictio in hoc Claudiani de Cons. Olybr. v. 4: « Blandius elato surgant temone jugales ». …
+- *Fert domini successus equos*（主人の成功が馬たちを高揚させる）。バルトは『雑考』(*Adv.*) 2809 頁で、これは見事に、またホメーロス風に表現されていると考えている。というのも詩人たちは英雄の馬たちを、ある種の未来の予兆を知るものとするからである。バルトは Stat. Theb. I, 275、および『プロセルピナの略奪』(*de Raptu Proserp.*) 第1巻の最終行への注でも同様のことを記している。クラウディアヌスの de Cons. Olybr. 4行の次の句にも同様の言いまわしが見られる：« Blandius elato surgant temone jugales »。…
 
 [3] 1000 Fert domini successus equos. tum maximus heros
 
 [4] 1000 Fert domini successus equos. Tum maximus heros
 
 [6] 1000 fert domini successus equos. tum maximus heros
-- *Iliad* —
+- 『イーリアス』 —
 
 1001 detulit ad Danaos foedatum puluere corpus.
 
@@ -11193,7 +11172,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1002 Laetantur Danai, plangunt sua funera Troes.
 
 [6] 1002 laetantur Danai, plangunt sua funera Troes
-- *Iliad* 22.405
+- 『イーリアス』 22.405
 
 1003 et pariter captos deflent cum funere muros.
 
@@ -11216,31 +11195,31 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1004 Interea victor defleti corpus amici
 
 [6] 1004 interea victor defleti corpus amici
-- *Iliad* 23.110
+- 『イーリアス』 23.110
 
 1005 funerat Aeacides pompasque ad funera ducit.
 
 [2] 1010 Funerat Aeacides, pompasque ad funera ducit.
-- Pompasque ad funera ducit. Virg. G. III, 22: « solennes ducere pompas Ad delubra juvat ».
+- *Pompasque ad funera ducit*（葬礼へと行列を導く）。Virg. Georg. III, 22: « solennes ducere pompas Ad delubra juvat »。
 
 [3] 1005 Funerat Aeacides pompasque ac munera ducit.
 
 [4] 1005 Funerat Aeacides pompasque ac munera ducit.
 
 [6] 1005 funerat Aeacides pompasque ad funera ducit.
-- ad funera … cf. Verg. georg. 3, 22
+- ad funera … ウェルギリウス『農耕詩』3, 22 を参照
 
 1006 Tum circa tumulum miseros rapit Hectoris artus
 
 [2] 1011 Ter circa tumulum miseros rapit Hectoris artus,
-- Hic quidem vulgata lectio ter circa tumulum Patrocli artus Hectoris raptos esse dicit, quomodo Homerus ipse, Iliad. XXIV, 16; … quia probabile est, poetas recentiores, Virgilium sequutos, e terna raptatione Hectoris circa tumulum Patrocli, quam Homerus tradit, fecisse totidem circa muros Trojae. Quas quum Noster supra jam significaverit, hoc loco eas indicasse non videtur.
+- ここでは確かに、流布本の読異はヘクトールの四肢がパトロクロスの塚の周りを三度引きずり回されたと述べており、ホメーロス自身も Iliad. XXIV, 16 でそう述べている。…なぜなら、後代の詩人たちがウェルギリウスに従って、ホメーロスの伝えるパトロクロスの塚の周りの3度の引きずり回しから、トローイアの城壁の周りの同数の引きずり回しを作り出した可能性が高いからである。われらの詩人は上にすでにそれを述べている以上、この箇所で再びそれを示したとは考えられないからである。
 
 [3] 1006 Ter circa tumulum miseros rapit Hectoris artus
 
 [4] 1006 Ter circa tumulum miseros rapit Hectoris artus
 
 [6] 1006 ter circa tumulum miseros rapit Hectoris artus
-- *Iliad* 24.16
+- 『イーリアス』 24.16
 
 1007 et uapido cineri ludorum indicit honores.
 
@@ -11251,19 +11230,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1007 Et varios cineri ludorum indicit honores.
 
 [6] 1007 et vapido cineri ludorum indicit honores.
-- *Iliad* 23.258
+- 『イーリアス』 23.258
 
 1008 Tydides *tyrsin* cursu pedibusque ferocem
 
 [2] 1013 Tydides circi cursu, pedibusque ferorum
-- **(cont.)** … Agitur de certamine equorum, quo Diomedes vicit Merionem, qui hic absurde dicitur pedibus ferox, vel velox, … — Circum de hippodromis poni a poetis monet Schraderus, Emend. cap. 8, p. 160. Ed. — Ferorum dixit pro equorum, exemplo Virgilii, Aen. II, 51, V, 818; Manilii lib. V, 76, ubi de ipso auriga circi: « Aut quum laxato fregerunt cardine claustra, Exagitare feros, pronumque anteire volantes »: adde Petronii cap. 89, in Trojae halosi, v. 12, et Ausonii, qui Diomedis feros, i. e. equos dicit Epist. 24, 17. …
+- **(cont.)** … ここで論じられているのは戦車競走（競馬）のことであり、そこではディオメーデースがメリオネースを破ったのだが、ここではメリオネースが足において獰猛（*pedibus ferox*）、あるいは…敏捷（*velox*）と不条理にも言われている。…――詩人たちによって競馬場（ヒッポドロモス）について *circus* が用いられることは、シュラーダーが『校訂考』(*Emend.*) 第8章 160 頁で指摘している。パリ編者。――*equorum*（馬たちの）の代わりに *ferorum*（野獣たちの／猛獣たちの）と言ったのは、Virg. Aen. II, 51、V, 818；Manilius 第5巻 76行（競技場の御者自身について：« Aut quum laxato fregerunt cardine claustra, Exagitare feros, pronumque anteire volantes »）の例に倣ったものである。さらにペトロニウス 89章『トローイアの陥落』(*Trojae halosis*) 12行、およびディオメーデースの *feros*、すなわち馬たちと述べているアウソニウスの Epist. 24, 17 を加えよ。…
 
 [3] 1008 Tydides cunctos curru pedibusque feroces
 
 [4] 1008 Tydides cunctos curru pedibusque ferorum
 
 [6] 1008 Tydides † tyrsin cursu pedibusque ferocem
-- *Iliad* 23.538
+- 『イーリアス』 23.538
 
 1009 Merionem superat; luctando uincitur Aiax
 
@@ -11284,31 +11263,31 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1010 Cujus decepit vires Laertius astu;
 
 [6] 1010 cuius decepit vires Laertius astus;
-- *Iliad* 23.725
+- 『イーリアス』 23.725
 
 1011 caestibus aduersis cunctos superauit Epeos
 
 [2] 1016 Caestibus adversis cunctos superavit Epeus ,
-- Superavit Epeus: sic emendarunt Dorpius et Dussenius, et sic Homerus docet, Iliad. XXIII, 665. …
+- *Superavit Epeus*（エペイオスが打ち勝った）：ドルプとファン・デル・デュッセンはこのように校訂しており、ホメーロスも Iliad. XXIII, 665 でそう教えている。…
 
 [3] 1011 Caestibus aduersos cunctos superauit Epeos
 
 [4] 1011 Caestibus adversos cunctos superavit Epeus
 
 [6] 1011 caestibus adversos cunctos superavit Epeos
-- *Iliad* 23.665
+- 『イーリアス』 23.665
 
 1012 et disco forti Polypoetes depulit omnes
 
 [2] 1017 Et disco fortis Polypoetes depulit omnes ,
-- Fortis Polypoetes: sic scribendum ex Homero, Iliad. XXIII, 836. …
+- *Fortis Polypoetes*（勇敢なるポリュポイテース）：ホメーロス Iliad. XXIII, 836 に拠ってこのように書くべきである。…
 
 [3] 1012 Et disco fortis Polypoetes depulit omnes
 
 [4] 1012 Et disco fortis Polypoetes depulit omnes
 
 [6] 1012 et disco forti Polypoetes depulit omnes
-- *Iliad* 23.844
+- 『イーリアス』 23.844
 
 1013 Merionesque arcu. Tandem certamine misso
 
@@ -11319,7 +11298,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1013 Merionesque arcu ; tandem certamine misso
 
 [6] 1013 Merionesque arcu; tandem certamine misso
-- *Iliad* 23.882
+- 『イーリアス』 23.882
 
 1014 in sua castra redit turbis comitatus Achilles.
 
@@ -11330,7 +11309,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1014 In sua castra redit turbis comitatus Achilles.
 
 [6] 1014 in sua castra redit turbis comitatus Achilles.
-- *Iliad* 24.1
+- 『イーリアス』 24.1
 
 ## Book 24
 
@@ -11343,12 +11322,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1015 Flent miseri amissum Phryges Hectora, totaque maesto
 
 [6] 1015 flent miseri amissum Phryges Hectora, totaque maesto
-- *Iliad* 22.405
+- 『イーリアス』 22.405
 
 1016 Troia sonat planctu; fundit miseranda querelas
 
 [2] 1021 Troja sonat planctu; fundit miseranda querelas i«at
-- Miseranda querelas Infelix. Geminare epitheta Noster solet, ubi alterum adverbialiter exponendum, velut hic miseranda, i. e. miserandum in modum; idemque recurrit versu 1026.
+- *Miseranda querelas Infelix*（哀れにも悲嘆に暮れる不幸な女）。われらの詩人は、一方が副詞的に解釈されるべき場合に形容語句（エピテトン）を重ねるのを常としており、ここでの *miseranda* はすなわち *miserandum in modum*（哀れを誘うように）の意である。同様の用法は1026行でも再び現れる。
 
 [3] 1016 Troia sonat planctu; fundit miseranda querellas
 
@@ -11365,24 +11344,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1017 Infelix Hecube saevisque arat unguibus ora;
 
 [6] 1017 infelix Hecabe saevisque arat unguibus ora
-- *Iliad* 22.430
+- 『イーリアス』 22.430
 
 1018 Andromacheque suas scindit de pectore uestes,
 
 [2] 1023 Andromacheque suas scindit de pectore vestes,
-- De pectore vestes. Videatur versus 850.
+- *De pectore vestes*（胸から衣服を）。850行を見よ。
 
 [3] 1018 Andromacheque suas scindit de pectore uestes,
 
 [4] 1018 Andromacheque suas scindit de pectore vestes,
 
 [6] 1018 Andromacheque suas scindit de pectore vestes,
-- *Iliad* 22.466
+- 『イーリアス』 22.466
 
 1019 heu tanto spoliata uiro. Ruit omnis in uno
 
 [2] 1024 Heu! tanto spoliata viro:ruit omnis in uno
-- Tanto spoliata viro; ut Ovid. Met. XIV, 839: « Praecipuum matrona decus, dignissima tanti Ante fuisse viri conjux ».
+- *Tanto spoliata viro*（これほど偉大な夫を奪われ）。Ovid. Met. XIV, 839: « Praecipuum matrona decus, dignissima tanti Ante fuisse viri conjux » とあるのと同様である。
 
 [3] 1019 Heu tanto spoliata uiro! ruit omnis in uno
 
@@ -11393,14 +11372,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1020 Hectore causa Phrygum, ruit hoc defensa senectus
 
 [2] 1025 Hectore caussa Phrygum, cecidit defessa senectus
-- In uno Hectore caussa Phrygum: ut Pentadius in tumulo Hect. « Occubuere simul spesque salusque Phrygum »; et Ausonius, Epitaph. Her. XIV: « Hectoris hic tumulus, cum quo sua Troja sepulta est. Conduntur pariter, qui periere simul ». Cf. v. 1045 et 1059. …
+- *In uno Hectore caussa Phrygum*（ヘクトール一人のうちにフリュギア人の大義／命運がある）：ペンタディウスの『ヘクトールの塚にて』(*in tumulo Hect.*) に « Occubuere simul spesque salusque Phrygum » とあり、またアウソニウスの『英雄たちの墓碑銘』(*Epitaph. Her.*) XIV に « Hectoris hic tumulus, cum quo sua Troja sepulta est. Conduntur pariter, qui periere simul » とあるのと同様である。1045行および1059行を参照。…
 
 [3] 1020 Hectore causa Phrygum, ruit et defessa senectus
 
 [4] 1020 Hectore causa Phrygum, ruit et defessa senectus
 
 [6] 1020 Hectore causa Phrygum, ruit hoc defensa senectus
-- *Iliad* —
+- 『イーリアス』 —
 
 1021 afflicti miseranda patris, quem nec sua coniunx
 
@@ -11411,7 +11390,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1021 Afflicti miseranda patris, quem nec sua conjunx
 
 [6] 1021 afflicti miseranda patris. quem nec sua coniunx
-- *Iliad* —
+- 『イーリアス』 —
 
 1022 turbaque natorum nec magni gloria regni
 
@@ -11422,12 +11401,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1022 Turbaque natorum nec magni gloria regni
 
 [6] 1022 turbaque natorum nec magni gloria regni
-- *Iliad* 24.189
+- 『イーリアス』 24.189
 
 1023 oblitum tenuit uitae, quin iret inermis
 
 [2] 1028 Oblitum tenuit vitae, quin iret inermis,
-- … Eadem constructione supra usus est auctor versu 938.
+- … 作者は上の 938 行でも同一の構文を用いている。
 
 [3] 1023 Oblitum tenuit uitae, quin iret inermis
 
@@ -11454,7 +11433,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1025 Mirantur Danaum proceres, miratur et ipse
 
 [6] 1025 mirantur Danaum proceres, miratur et ipse
-- *Iliad* 24.483
+- 『イーリアス』 24.483
 
 1026 Aeacides animum miseri senis; ille trementes
 
@@ -11475,19 +11454,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1027 Affusus genibus tendens ad sidera palmas
 
 [6] 1027 affusus genibus tendens ad sidera palmas
-- *Iliad* 24.478
+- 『イーリアス』 24.478
 
 1028 haec ait: "O Graiae gentis fortissime Achilles,
 
 [2] 1033 Haec ait : «O Graiae gentis fortissime Achilles,
-- … Apud Homerum, Iliad. XXIV, 486 seqq. plane alia Priami oratio est, atque haec apud Homeristam latinum, qui hoc loco, ut in aliis, ipse poetam agere voluit. At puto, inferior est divino illo Homeri Μνῆσαι πατρὸς σοῖο.
+- … ホメーロスにおいて（Iliad. XXIV, 486 以下）、プリアモスの演説はラテン語ホメーリストにおけるこの演説とはまったく異なっており、ラテン語詩人はこの箇所でも他の箇所と同様に自ら詩人たらんとしたのである。しかし私の考えでは、ホメーロスのあの神的な Μνῆσαι πατρὸς σοῖο（汝の父を思い起こされよ）には遠く及ばない。
 
 [3] 1028 Haec ait 'o Graiae gentis fortissime Achilles,
 
 [4] 1028 Haec ait : « Grajae gentis fortissime Achilles,
 
 [6] 1028 haec ait 'o Graiae gentis fortissime Achilles,
-- *Iliad* 24.486
+- 『イーリアス』 24.486
 
 1029 o regnis inimice meis, te Dardana solum
 
@@ -11518,12 +11497,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1031 Crudelem nimium : nunc sis mihi mitior, oro,
 
 [6] 1031 crudelem nimium: nunc sis mitissimus, oro,
-- … mitissimus … at cf. Ov. met. 14, 587
+- … mitissimus … だがオウィディウス『変身物語』14, 587 を参照
 
 1032 et patris afflicti genibus miserere precantis
 
 [2] 1037 Et patris adflicti genibus miserere precantis,
-- … Ego nihil mutandum censeo, et cum Barthio, comm. ad Statium, t. III, p. 394, adflicti genibus explico adpulsi tuis genibus, adfixi velut vi quadam. Sic apud Sueton. legitur, Jul. 20, « ad genua accidere ».
+- … 私は何も改めるべきではないと考え、バルト（スタティウス註釈、第3巻394頁）とともに、*adflicti genibus* を「あなたの膝元に打ちつけられた、あたかも何らかの力で押しつけられた」と説明する。スエトニウスの Jul. 20 に « ad genua accidere »（膝元に倒れ伏す）と読まれるのと同様である。
 
 [3] 1032 Et patris afflicti genibus miserere precantis
 
@@ -11550,7 +11529,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1034 Accipias ; si nec precibus nec flecteris auro,
 
 [6] 1034 accipias; si nec precibus nec flecteris auro,
-- *Iliad* —
+- 『イーリアス』 —
 
 1035 in senis extremis tua dextera saeuiat annis:
 
@@ -11561,7 +11540,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1035 In senis extremis tua dextera saeviat annis :
 
 [6] 1035 in senis extremis tua dextera saeviat annis:
-- *Iliad* —
+- 『イーリアス』 —
 
 1036 saltem saeua pater comitabor funera nati!
 
@@ -11572,43 +11551,43 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1036 Saltim saeva pater comitabor funera nati.
 
 [6] 1036 saltem saeva pater comitabor funera nati.
-- *Iliad* —
+- 『イーリアス』 —
 
 1037 Nec uitam mihi nec magnos *concedere* honores,
 
 [2] 1042 Non vitam mihi, nec magnos concedere honores.
-- **(cont.)** … Finxisse haec auctor videtur ex iis, quae occisi Pallantis pater dicit apud Virg. Aeneid. XI, 180: « Non vitae gaudia quaero, Nec fas, sed nato Manes perferre sub imos ».
+- **(cont.)** … 作者は、殺されたパッラスの父が Virg. Aeneid. XI, 180 で語る言葉からこれを創作したように思われる: « Non vitae gaudia quaero, Nec fas, sed nato Manes perferre sub imos »。
 
 [3] 1037 Non uitam mihi nec magnos concede fauores,
 
 [4] 1037 Non vitam mihi nec magnos concedere honores,
 
 [6] 1037 nec vitam mihi nec magnos concedere honores
-- *Iliad* —
+- 『イーリアス』 —
 
 1038 sed funus crudele meum! Miserere parentis
 
 [2] 1043 Sed funus crudele peto : miserere parentis ,
-- … Cui similis sententia Ovidii est, Met. IX, 179: « diris cruciatibus aegram Invisamque animam, natamque laboribus aufer, Mors mihi munus erit ». …
+- … オウィディウスの Met. IX, 179 にも類似の思想がある: « diris cruciatibus aegram Invisamque animam, natamque laboribus aufer, Mors mihi munus erit »。…
 
 [3] 1038 Sed funus crudele mei: miserere parentis
 
 [4] 1038 Sed funus crudele peto : miserere parentis
 
 [6] 1038 sed funus crudele meum: miserere parentis
-- *Iliad* —
+- 『イーリアス』 —
 
 1039 et pater esse meo mitis de corpore disce.
 
 [2] 1044 Et pater esse meo mitis de funere disce.
-- … Barth. Adv. p. 2810 inhaeret vulgatae de funere, et putat Priamum se ipsum appellare funus post interemptum filium, ut cadaver Virgilius in Ciri anum quampiam. …
+- … バルトは『雑考』(*Adv.*) 2810 頁で流布本の *de funere* に固執し、プリアモスが息子の殺害後に自らを屍（*funus*）と呼んでいると考え、それはウェルギリウスが『キリス』(*Ciris*) においてある老女を骸（*cadaver*）と呼んだのと同様であるとする。…
 
 [3] 1039 Et pater esse meo mitis de uulnere disce.
 
 [4] 1039 Et pater esse meo mitis de vulnere disce.
 
 [6] 1039 et pater esse meo mitis de corpore disce.
-- *Iliad* —
+- 『イーリアス』 —
 
 1040 Hectoris interitu uicisti Dardana regna,
 
@@ -11619,19 +11598,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1040 Hectoris interitu vicisti Dardana regna,
 
 [6] 1040 Hectoris interitu vicisti Dardana regna,
-- *Iliad* —
+- 『イーリアス』 —
 
 1041 uicisti Priamum: sortis reminiscere uictor
 
 [2] 1046 Yicisti Priamum : sortis reminiscere victor
-- Sortis reminiscere victor Humanae. Haud obscurum est, sententiam hanc adludere, ut alia multa auctoris nostri, ad verba Ovidii, Trist. III, 11, 67: « Humanaeque memor sortis, quae tollit eosdem, Et premit, incertas ipse verere vices ». Eadem verba ex Ovidio translata Ausonius in Periocha XXIV Iliados usurpat: Jupiter Thetidem mittit ad filium, cum mandatis ejusmodi, ut in defunctum saevire desistat, fatique hominum in exanimo hoste vereatur, ubi extrema verba, quae mendosa aut hiulca videntur, optime corrigi supplendo ex Ovidii verbis possunt, fatique hominum vices ... vereatur. Enimvero talis sententia, qualem hic auctor noster et Ausonius proferunt, nulla apud Homerum legitur, uti ad Ausonium dudum notarunt Mariangelus et Vinetus. Quae utriusque conspiratio quum in discessu ab Homero, tum in usurpanda sententia Ovidiana, utique memorabilis est, et fortasse unum utriusque scripti auctorem esse suspicari sinit.
+- *Sortis reminiscere victor Humanae*（勝者よ、人の身の運命を思い起こせ）。この思想が、われらの作者の他の多くの箇所と同様に、オウィディウスの Trist. III, 11, 67 の言葉をほのめかしていることは明白である: « Humanaeque memor sortis, quae tollit eosdem, Et premit, incertas ipse verere vices »。オウィディウスから借用されたこの同じ言葉を、アウソニウスが『イーリアス摘要』第24巻で用いている。ユピテルはテティスを息子のもとへ遣わし、死者に対して荒れ狂うのをやめ、息絶えた敵において人間の運命を畏れよという指示を与える。この末尾の語句は誤脱または不完全に見えるが、オウィディウスの言葉から補って *fatique hominum vices ... vereatur* と校訂するのが最善である。実に、われらの作者とアウソニウスがここで提示しているような思想は、マリアンゲルスとウィネトゥスがかつてアウソニウス註釈で指摘したように、ホメーロスにはまったく見られない。ホメーロスからの離脱においても、オウィディウスの思想の採用においても、両者の一致は実に注目に値し、おそらく両作品の作者が同一人物ではないかという疑いを抱かせるに足るものである。
 
 [3] 1041 Uicisti Priamum: sortis reminiscere uictor
 
 [4] 1041 Vicisti Priamum : sortis reminiscere victor
 
 [6] 1041 vicisti Priamum: sortis reminiscere victor
-- *Iliad* —
+- 『イーリアス』 —
 
 1042 humanae uariosque ducum tu respice casus."
 
@@ -11642,7 +11621,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1042 Humanae variosque ducum tu respice casus ».
 
 [6] 1042 humanae variosque ducum tu respice casus'.
-- *Iliad* —
+- 『イーリアス』 —
 
 1043 His tandem precibus grandaeuum motus Achilles
 
@@ -11653,7 +11632,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1043 His tandem precibus grandaevum motus Achilles
 
 [6] 1043 his tandem precibus grandaevum motus Achilles
-- *Iliad* 24.515
+- 『イーリアス』 24.515
 
 1044 alleuat a terra corpusque exsangue parenti
 
@@ -11668,14 +11647,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 1045 reddidit Hectoreum. Post haec sua dona reportat
 
 [2] 1050 Reddidit Hectoreuin : post haec sua dona reportat
-- Post haec sua dona reportat. Barthius ad Stat. l. c. dubitat, an haec sana sint. Minime enim Achillem apud Homerum dona advecta reddidisse Priamo, sed aperte testari munerum ergo ei reddere cadaver Hectoris; atque hinc scribere vult: sua dona reportat Achilles, It patriam Priamus. Ego vero in ea re non haerendum censeo, et per dona ipsum corpus Hectoris, donatum Priamo, puto intelligi.
+- *Post haec sua dona reportat*（こののちプリアモスは自らの賜物を持ち帰る）。バルトはスタティウス註釈の前掲箇所で、この語句が健全であるか疑っている。というのも、ホメーロスにおいてアキッレウスが運ばれてきた贈り物をプリアモスに返還したなどということは決してなく、それどころか贈り物ゆえにヘクトールの遺体を返還するのだと公言しているからである。そこでバルトは *sua dona reportat Achilles, It patriam Priamus*（アキッレウスは自らの贈り物を持ち去り、プリアモスは祖国へと向かう）と書くことを欲している。しかし私は、その点にこだわる必要はないと考え、*dona*（賜物）によって、プリアモスに与えられたヘクトールの遺体そのものが意味されていると解する。
 
 [3] 1045 Reddidit Hectoreum, post haec sua dona reportat.
 
 [4] 1045 Reddidit Hectoreum, post haec sua dona reportat.
 
 [6] 1045 reddidit Hectoreum. post haec sua dona reportat
-- … dona i. corpus Hectoris
+- … dona すなわちヘクトールの遺体
 
 1046 in patriam Priamus tristesque ex more suorum
 
@@ -11686,7 +11665,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1046 Jamque redit Priamus tristesque ex more suorum
 
 [6] 1046 in patriam Priamus tristesque ex more suorum
-- *Iliad* 24.690
+- 『イーリアス』 24.690
 
 1047 apparat exsequias extremaque funera ducit.
 
@@ -11697,34 +11676,34 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1047 Comparat exsequias supremumque funera ducit.
 
 [6] 1047 apparat exequias supremaque funera ducit.
-- *Iliad* 24.777
+- 『イーリアス』 24.777
 
 1048 Tum pyra construitur, qua bis sex corpora Graium
 
 [2] 1053 Tunc pyra construitur, quo bis sex corpora Graium
-- … Barthius tamen ad Statium, t. III, p. 395, Lutatii lectionem sollicitat, et Troum omnino corpora, non Graecorum, cum Hectore cremata esse contendit. Magna religione putat cautum fuisse antiquis, ne hostes uni busto inferrentur: cadavera Graecorum non adfuisse Priamo, quum constet Graecos sua studiosissime ad sepulturam recuperasse; viva autem corpora adhiberi non potuisse sine magno iracundiae Achillis in Priamum ingratum periculo. Et sane auctor ea in re relationem Homeri de funeratione Hectoris egressus est, et narrationem suam ad aliam Homeri de Patrocli rogo Il. XXIII, 171, aut ad illam Maronis de inferiis Pallanti datis Aen. XI, 80 seq. composuisse videtur. Interim lectio ea corpora Graium, quae optimis codicibus confirmatur, minime repudianda a Barthio erat, et si quid in ea falsi est, ipsius auctoris error, non librariorum est: neque Barthii rationes, ob quas Troum legendum censet, omnes probare possum. — Lectio corpora Graium etiam a Schradero defenditur, Observationum lib. I, c. 5, pag. 61. Ed.
+- … しかしバルトはスタティウス註釈、第3巻395頁でルタティウスの読異に異議を唱え、ヘクトールとともに火葬されたのは断じてトロイア人の遺体であって、ギリシア人のものではないと主張している。彼が考えるには、古代人においては敵が同一の火葬塚に葬られることのないよう厳重な宗教的配慮がなされていたこと、ギリシア人が埋葬のために自軍の遺体をきわめて熱心に回収したことは明白であるからプリアモスの手元にギリシア人の遺体は存在しなかったこと、さらに生きた虜囚を犠牲にすることは恩知らずのプリアモスに対するアキッレウスの激しい怒りを招く大きな危険なしにはあり得なかったこと、がその理由である。そして実に、作者はこの件においてヘクトールの葬儀に関するホメーロスの記述から離脱しており、パトロクロスの火葬塚に関するホメーロスの別の記述（Il. XXIII, 171）や、パッラスに捧げられた追悼供儀に関するマローの記述（Aen. XI, 80 以下）に合わせて自らの物語を構成したように思われる。しかしながら、最善の諸写本によって裏づけられている *corpora Graium* という読みは、バルトによって決して退けられるべきではなく、もしそこに何らかの誤りがあるとしても、それは写字生たちの誤りではなく作者自身の過誤である。またバルトが *Troum* と読むべきだとする論拠のすべてに私が賛同できるわけでもない。――*corpora Graium* という読みは、シュラーダーによっても擁護されている（『考察集』第1巻第5章61頁）。パリ編者。
 
 [3] 1048 Tum pyra construitur, quo bis sex corpora Graium
-- **1048—51** adfert Lactantius ad Statii Theb. VI 121 (Homerus in funere Hectoris dicit)
+- **1048—51** Lactantius が Statius Theb. VI 121 への注で引用（「ホメーロスはヘクトールの葬儀において言う」）
 
 [4] 1048 Tum pyra construitur, quo bis sex corpora Grajum
 
 [6] 1048 tum pyra construitur, qua bis sex corpora Graium
-- *Iliad* 24.784
-- **1048/50** (testimonia) ob rem affert Lactant. ad Stati Theb. 6, 121 …
+- 『イーリアス』 24.784
+- **1048/50** （証言） この事柄についてラクタンティウスがスタティウス『テーバイデ』6, 121 の註解で引用 …
 
 1049 quadrupedesque adduntur equi currusque tubaeque
 
 [2] 1054 Quadrupedesque adduntur equi, currusque, tubaeque.
-- … — Quod addit currusque tubasque esse addita in pyram, id plane alienum ab Homero videtur, et fortasse e Virgilio intempestive tra-
-- **(cont.)** ductum, qui Aen. VI, 232, de sepulcro Miseni: « Imponit suaque arma viro, remumque, tubamque ». Sed adnotavit Victor, de Orig. gent. Rom. cap. 9, eum locum Virgilii adlegans, auctore Homero, tubae usum Trojanis temporibus ignoratum fuisse.
+- … ――火葬塚に戦車やラッパが加えられたと付け加えている点については、ホメーロスにはまったく見られないものであり、おそらくウェルギリウスから不適切に借-
+- **(cont.)** （前頁からの続き）-用されたものであろう。ウェルギリウスはミーセーヌスの墓について Aen. VI, 232 で次のように述べている: « Imponit suaque arma viro, remumque, tubamque »。しかしウィクトルは『ローマ民族起源論』第9章において、ウェルギリウスのその箇所を引用しつつ、ホメーロスによればトロイア時代にはラッパの使用は知られていなかったと指摘している。
 
 [3] 1049 Quadrupedesque adduntur equi currusque tubaeque
 
 [4] 1049 Quadrupedesque adduntur equi currusque tubaeque
 
 [6] 1049 quadrupedesque adduntur equi currusque tubaeque
-- *Iliad* —
+- 『イーリアス』 —
 
 1050 et clipei galeaeque cauae argutaque tela.
 
@@ -11735,7 +11714,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1050 Et clipei galeaeque cavae Argivaque tela.
 
 [6] 1050 cumque cavis galeis clipeique Argivaque tela.
-- *Iliad* —
+- 『イーリアス』 —
 
 1051 Haec super ingenti gemitu componitur Hector:
 
@@ -11746,19 +11725,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1051 Haec super ingenti gemitu componitur Hector :
 
 [6] 1051 haec super ingenti gemitu componitur Hector:
-- *Iliad* 24.787
+- 『イーリアス』 24.787
 
 1052 stant circum Iliades matres manibusque decoros
 
 [2] 1057 Stant circum Uiades matres, manibusque decoros
-- Stant circum Iliades. Eum morem Virgilius in funere Polydori et Pallantis, Aen. III, 65, et XI, 35, observatum hoc versu indicat: Stant circum Iliades crinem de more solutae. Igitur abrumpere crines, quod Noster usurpat, idem est ac Virgilii solvere crines.
+- *Stant circum Iliades*（トロイアの女たちが周りに立つ）。ウェルギリウスはポリュドーロスとパッラスの葬儀においてこの慣習が遵守されたことを、Aen. III, 65 および XI, 35 の次の行で示している: *Stant circum Iliades crinem de more solutae*。したがって、われらの詩人が用いる *abrumpere crines*（髪を引きちぎる）は、ウェルギリウスの *solvere crines*（髪を解く）と同じ意味である。
 
 [3] 1052 Stant circum Iliades matres manibusque decoros
 
 [4] 1052 Stant circum Iliades matres manibusque decoros
 
 [6] 1052 stant circum Iliades matres manibusque decoros
-- *Iliad* —
+- 『イーリアス』 —
 
 1053 abrumpunt crines laniataque pectora plangunt:
 
@@ -11769,7 +11748,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1053 Abscindunt crines laniataque pectora plangunt.
 
 [6] 1053 abrumpunt crines laniataque pectora plangunt:
-- *Iliad* —
+- 『イーリアス』 —
 
 1054 illo namque rogo natorum funera cernunt.
 
@@ -11780,7 +11759,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1054 below Illo namque rogo natorum funera cernunt
 
 [6] 1054 illo namque rogo natorum funera cernunt.
-- *Iliad* —
+- 『イーリアス』 —
 
 1055 Tollitur et iuuenum magno cum murmure clamor
 
@@ -11791,19 +11770,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1055 Tollitur et juvenum magno cum murmure clamor
 
 [6] 1055 tollitur et iuvenum magno cum murmure clamor
-- *Iliad* —
+- 『イーリアス』 —
 
 1056 flebilis: ardebat flamma namque Ilion illa.
 
 [2] 1061 Flebilis , ardebat fiamma namque Ilion illa.
-- Flamma namque Ilion illa. Vid. vers. 338.
+- *Flamma namque Ilion illa*（実にイリオスはその炎によって燃えていた）。338 行を参照。
 
 [3] 1056 Flebilis: ardebat flamma namque Ilion illa.
 
 [4] 1056 Flebilis : ardebat flamma namque Ilion illa.
 
 [6] 1056 flebilis: ardebat flamma namque Ilion illa.
-- *Iliad* —
+- 『イーリアス』 —
 
 1057 Inter quos gemitus laniato pectore coniunx
 
@@ -11814,7 +11793,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1057 Inter quos gemitus laniato corpore conjunx
 
 [6] 1057 inter quos gemitus laniato pectore coniunx
-- *Iliad* —
+- 『イーリアス』 —
 
 1058 prouolat Andromache mediosque immittere in ignes
 
@@ -11825,7 +11804,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1058 Provolat Andromache mediosque immittere in ignes
 
 [6] 1058 provolat Andromache mediosque inmittere in ignes
-- *Iliad* —
+- 『イーリアス』 —
 
 1059 se cupit Astyanacta tenens, quam iussa suarum
 
@@ -11836,7 +11815,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1059 Se cupit Astyanacta tenens, quam maesta suarum
 
 [6] 1059 se cupit Astyanacta tenens, quam iussa suorum
-- *Iliad* —
+- 『イーリアス』 —
 
 1060 turba rapit. Contra tamen omnibus usque resistit,
 
@@ -11847,19 +11826,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1060 Turba rapit; contra tantum tamen illa resistit,
 
 [6] 1060 turba rapit; contra tamen omnibus usque resistit,
-- *Iliad* —
+- 『イーリアス』 —
 
 1061 donec collapsae ceciderunt robora flammae
 
 [2] 1066 Donec collapsae ceciderunt robora flammae,
-- … Virg. Aen. VI, 226: « Postquam collapsi cineres, et flamma quievit »: quae Noster robora flammae, nescio an alius quis dixerit: sed possunt etiam robora de lignis in pyram structis intelligi, quae igne consumpta in cinerem ceciderunt: ut de pyra Miseni etiam refert Maro, Aen. VI, 213: « pinguem taedis et robore secto Ingentem struxere pyram ».
+- … Virg. Aen. VI, 226: « Postquam collapsi cineres, et flamma quievit »。われらの詩人が *robora flammae*（炎の威力／樫材）と呼んでいる表現を、他の誰かが用いたかどうか私は知らない。しかし *robora* は、火葬塚に組み上げられ、火によって焼き尽くされて灰へと崩れ落ちた樫材のことと理解することもできる。マローがミーセーヌスの火葬塚について Aen. VI, 213 で次のように述べているのと同様である: « pinguem taedis et robore secto Ingentem struxere pyram »。
 
 [3] 1061 Donec conlapsae ceciderunt robora flammae
 
 [4] 1061 Donec collapsae ceciderunt robora flammae
 
 [6] 1061 donec conlapsae ceciderunt robora flammae
-- *Iliad* —
+- 『イーリアス』 —
 
 1062 inque leues abiit tantus dux ille fauillas.
 
@@ -11870,101 +11849,101 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 [4] 1062 Inque leves abiit tantus dux ille favillas.
 
 [6] 1062 inque leves abiit tantus dux ille favillas.
-- *Iliad* —
+- 『イーリアス』 —
 
 1063 Sed iam siste gradum finemque impone labori,
 
 [2] 1068 Sed jam siste gradum, (inemque impone iabori,
-- … — Et pariter cecinit Sidonius Apollinaris, Carm. 2: « Siste, Camena, modos tenues, portumque petenti Jam placido sedeat mihi carminis anchora fundo ». Ed.
+- … ――シドニウス・アポリナリスも同様に歌っている（Carm. 2）: « Siste, Camena, modos tenues, portumque petenti Jam placido sedeat mihi carminis anchora fundo »。パリ編者。
 
 [3] 1063 Sed iam siste gradum finemque inpone labori,
 
 [4] 1063 Sed jam siste gradum finemque impone labori,
 
 [6] 1063 Sed iam siste gradum finemque inpone labori,
-- *Iliad* —
+- 『イーリアス』 —
 
 1064 Calliope, uatisque tui moderare carinam,
 
 [2] 1069 Calliope, vatisque tui moderare cariDatn,
-- Calliope. Quod auctor hic Musam adloquitur pro se et extra carmen Homericum, eo videtur velle indicare, se in Iliade Homeri latine contrahenda et proprio ingenio et officio poetae usum esse: quod negare illi totum nolim. — Moderare carinam. Solenne quidem poetis est, opera sua cum navigatione, sicut etiam curru et quadrigis comparare, ut a Statio, Silv. IV, 4, 99; Nemesiano, Cyneg. 59, et Claud. in praef. ad I de Rapt. Pros. factum est; sed quae allegoria navigationis hic totum fere epilogum occupat, haud parum efficit verisimile, auctorem hujusce poematis eumdem esse, qui epigrammatis de navigatione, quod in Anthol. Lat. lib. III, epigr. 62 exstat, et inter testimonia de hoc poemate a nobis relatum est, ubi auctor ait, se in villa maritima Iliadem seu bellum Trojanum descripsisse, simulque pericula maris cum securitate ruris comparat. Qua de re plura diximus in prooemio.
+- *Calliope*。作者がここでホメーロスの詩行の外側において自らのためにムーサに語りかけていることは、彼がホメーロスの『イーリアス』をラテン語に要約するにあたり、自身の才知と詩人としての務めの双方を発揮したことを示そうとしているように思われる。私はそのことを彼から全面的に否定しようとは思わない。――*Moderare carinam*（船の舵を取れ）。詩人たちが自らの作品を航海になぞらえ、あるいは戦車や四頭立ての二輪戦車になぞらえるのは、実に通例のことであり、スタティウス（Silv. IV, 4, 99）、ネメシアヌス（Cyneg. 59）、クラウディアヌス（『プロセルピナ略奪』第1巻序文）などによってもなされている。しかし、ここでエピローグのほぼ全体を占めている航海の寓意は、この詩の作者が、『ラテン詩文選』(*Anthol. Lat.*) 第3巻エピグラム62に収められ、われわれがこの詩に関する証言集（『テスティモニア』）にも収録した、あの航海に関するエピグラムの作者と同一人物である可能性を少なからず高めている。そのエピグラムにおいて作者は、海辺の別荘で『イーリアス』すなわちトロイア戦争を描き記したと述べ、同時に海の危険と田園の平穏とを対比しているのである。この問題については、われわれは序論（『プロエミウム』）においてさらに詳述した。
 
 [3] 1064 Calliope, uatisque tui moderare carinam,
 
 [4] 1064 Calliope, vatisque tui moderare carinam,
 
 [6] 1064 Calliope, vatisque tui moderare carinam,
-- *Iliad* —
+- 『イーリアス』 —
 
 1065 Remis quem cernis stringentem litora paucis,
 
 [2] 1070 Quem cernis paucis stringentem litora remis.
-- … — Paucis remis est parva navi, quae paucis remis utitur. Olympius, Cyneg. 59: « Dum non magna ratis vicinis sueta moveri Litoribus, tutosque sinus percurrere remis ». — Et Claud. l. c. (edit. nost. vol. II, p. 182 sq. Ed.) « Qui dubiis ausus committere flatibus alnum, Quas natura negat, praebuit arte vias, Tranquillis primum trepidus se credidit undis, Litora securo tramite summa legens ». Ed.
+- … ――*Paucis remis*（わずかな櫂で）とは、少数の櫂を用いる小さな小舟で、の意である。オリュンピウス『狩猟詩』(*Cyneg.*) 59: « Dum non magna ratis vicinis sueta moveri Litoribus, tutosque sinus percurrere remis »。――またクラウディアヌス前掲箇所（本叢書版第2巻182頁以下、パリ編者）: « Qui dubiis ausus committere flatibus alnum, Quas natura negat, praebuit arte vias, Tranquillis primum trepidus se credidit undis, Litora securo tramite summa legens »。パリ編者。
 
 [3] 1065 Remis quam cernis stringentem litora paucis.
 
 [4] 1065 Raris quam cernis stringentem litora remis,
 
 [6] 1065 Remis quem cernis stringentem litora paucis.
-- *Iliad* —
+- 『イーリアス』 —
 
 1066 Iamque tenet portum metamque potentis Homeri.
 
 [2] 1071 Jamque tenens portum metamque patentis Homeri ,
-- … Vult enim, se magnum opus Homeri, tamquam patens mare, nunc emensum esse. Horatius, Carm. II, 16, 1: in patenti Prensus Aegaeo. — Et verbum patefecit alio et notando sensu occurrit apud Saleium Bassum, Carm. ad Pisonem, vs. 230: « Ausoniamque chelyn gracilis patefecit Horati »; ubi si recte verbum patefacere potuimus interpretari clarum facere, famae ostendere, nunc non immerito patentis Homeri exponi possit illustris, inclyti vatis, cujus omnibus fama innotuit. Videantur adnotata nostra ad loc. citatum hujus tomi, pag. 265 seqq. Hanc vero observationem quasi de superfluo addo, nec ideo deserendam Wernsd. explicationem puto. Ed.
+- … というのも、詩人はホメーロスの大作を広漠たる外海のように今や測り終えた、と言おうとしているからである。ホラティウスの Carm. II, 16, 1: *in patenti Prensus Aegaeo*（広大なるエーゲ海で捕らえられし者）。――また動詞 *patefecit* は、サレイウス・バッスス『ピソーへの詩』(*Carm. ad Pisonem*) 230 行において、別の注目すべき意味で現れている: « Ausoniamque chelyn gracilis patefecit Horati »。そこで動詞 *patefacere* を「高名にする、世の名声に示す」と正しく解釈できたとすれば、ここでは *patentis Homeri* を「名声が万人にあまねく知れ渡った名高い、誉れ高き詩人の」と解釈することもあながち不当ではあるまい。本巻の前掲箇所註釈（265頁以下）を参照されたい。もっとも私はこの所見をいわば余剰のものとして付け加えるのであり、そのためにヴェルンスドルフの解釈を捨てるべきだとは考えていない。パリ編者。
 
 [3] 1066 Iamque tenens portum metamque potentis Homeri,
 
 [4] 1066 Iamque tenens portum metamque potentis Homeri,
 
 [6] 1066 Iamque tenet portum metamque potentis Homeri:
-- *Iliad* —
+- 『イーリアス』 —
 
 1067 Pieridum comitata cohors, summitte rudentes
 
 [2] 1072 Pieridum comitata cohors , submitte rudentes;
-- Submitte rudentes, trahe et demitte vela. Est idem quod Virg. significavit Georg. IV, 116: « extremo ni jam sub fine laborum Vela traham, et terris festinem advertere proram ». Et Statius, Silv. IV, 4, 89 de Thebaide finita: « Jam Sidonios emensa labores Thebais optato collegit carbasa portu ».
+- *Submitte rudentes*（索具を降ろせ）：帆を縮めて降ろせ、の意。ウェルギリウスが Georg. IV, 116 で次のように述べたのと同じである: « extremo ni jam sub fine laborum Vela traham, et terris festinem advertere proram »。またスタティウスが『テーバイス』の完成について Silv. IV, 4, 89 で述べているのと同様である: « Jam Sidonios emensa labores Thebais optato collegit carbasa portu »。
 
 [3] 1067 Pieridem comitata cohors, summitte rudentes;
 
 [4] 1067 Pieridum comitata cohors, summitte rudentes;
 
 [6] 1067 Pieridum comitata cohors, summitte rudentes
-- *Iliad* —
+- 『イーリアス』 —
 
 1068 Sanctaque uirgineos lauro redimita capillos
 
 [2] 1073 Sanetaque virgineos lauro redimita capillos
-- Sanctaque virgineos lauro redimita. Pro more suo auctor duplici epitheto Musarum cohortem ornat. — Videantur adnotata ad vs. 1021 et 1026. Ed.
+- *Sanctaque virgineos lauro redimita*（月桂樹で乙女の髪を飾られた聖なる者よ）。いつもの習いとして、作者はムーサたちの隊伍を二重の修飾辞で飾っている。――1021 行および 1026 行の注を参照。パリ編者。
 
 [3] 1068 Sanctaque uirgineos lauro redimita capillos,
 
 [4] 1068 Sanctaque virgineos lauro redimita capillos,
 
 [6] 1068 Sanctaque virgineos lauro redimita capillos
-- *Iliad* —
+- 『イーリアス』 —
 
 1069 Ipsa tuas depone lyras. Ades, inclita Pallas,
 
 [2] 1074 Ipsa tuas depone lyras : ades, inclyta Pallas,
-- Quod lyras multitudinis numero dixit Noster, id non latinum esse pronuntiat Barth. Adv. LVIII, 14, p. 2753. Hoc equidem decidere non ausim. Illud potius adnoto, lyram vel chelyn non semper de lyrica poesi, sed et de alia, praesertim de epica, dici, ut a Statio, Silv. II, 2, 114: « Seu nostram quatit ille chelyn, seu dissona nectit Carmina »: heroicos et elegos versus significat. — Ades, inclyta Pallas, pro adsis. Ed.
+- われらの詩人が複数形で *lyras*（リラ琴）と言ったことについて、バルトは『雑考』(*Adv.*) LVIII, 14, 2753 頁で、これは正統なラテン語ではないと断定している。私としてはこれをにわかに断定することは控えたい。むしろ次の点に注意を促したい。すなわち *lyra* や *chelys* は常に抒情詩についてのみ用いられるわけではなく、他の詩、とりわけ叙事詩についても言われるということである。スタティウスの Silv. II, 2, 114 に見られる通りである: « Seu nostram quatit ille chelyn, seu dissona nectit Carmina »（彼は叙事詩のヘクサメトロスとエレゲイアの詩行を意味している）。――*adsis* の代わりに *Ades, inclyta Pallas*。パリ編者。
 
 [3] 1069 Ipsa, tuas depone lyras, ades, inclita Pallas,
-- Ipsa (= era, scil. Calliope) …
+- Ipsa（= era、すなわち Calliope）…
 
 [4] 1069 Ipsa, tuas depone lyras, ades, inclita Pallas,
 
 [6] 1069 Ipsa tuas depone lyras. ades, inclita Pallas,
-- *Iliad* —
+- 『イーリアス』 —
 
 1070 Tuque faue cursu uatis iam, Phoebe, peracto.
 
 [2] 1075 Tuque fave, cursu vatis jam, Phoebe, peracto.
-- Jam, Phoebe, peracto. His respicere videtur ad vers. 164, quo Phoebum invocaverat. Ed.
+- *Jam, Phoebe, peracto*（ポエブスよ、今や詩人の航海が終わりて）。これらの言葉によって、作者はポエブスを祈願した 164 行を振り返っているように思われる。パリ編者。
 
 [3] 1070 Tuque faue cursu uatis iam, Phoebe, peracto.
 
 [4] 1070 Tuque fave vati, cursu jam, Phoebe, peracto.
 
 [6] 1070 Tuque fave cursu vatis iam, Phoebe, peracto.
-- *Iliad* —
+- 『イーリアス』 —

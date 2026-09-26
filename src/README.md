@@ -8,7 +8,8 @@ vollmer`, `make baehrens`, `make plessis` and `make lemaire`, which
 write `../texts/6-vollmer/`, `../texts/3-baehrens/`, `../texts/4-plessis/`
 and `../texts/2-lemaire/` once, `make concordance`, which writes
 `../texts/concordance.md` once, and `make commentary`, which writes
-`../texts/COMMENTARY.md` again whenever its sources change.
+`../texts/COMMENTARY.md` and its translations `COMMENTARY-en.md` and
+`COMMENTARY-ja.md` again whenever their sources change.
 
 ## Usage
 
@@ -23,7 +24,7 @@ make baehrens       # extract Baehrens's edition once (../texts/3-baehrens/)
 make plessis        # extract Plessis's edition once (../texts/4-plessis/)
 make lemaire        # extract Lemaire's edition once (../texts/2-lemaire/)
 make concordance    # build the verse concordance once (../texts/concordance.md)
-make commentary     # put the verses and commentaries side by side (../texts/COMMENTARY.md)
+make commentary     # put the verses and commentaries side by side (../texts/COMMENTARY.md, -en, -ja)
 ```
 
 To process the Portuguese edition, put the PDF anywhere (for example in
@@ -48,7 +49,7 @@ make parts PDF="tmp/book.pdf"   # split the whole book into sections
 | `plessis` | `../texts/4-plessis/*.md` — Plessis's edition by page (downloads the scan to `tmp/`) | `plessis.py` |
 | `lemaire` | `../texts/2-lemaire/*.md` — Lemaire's edition by page (downloads the OCR of the scan to `tmp/`) | `lemaire.py` |
 | `concordance` | `../texts/concordance.md` — the verses of the four editions keyed to The Latin Library; `concordance_check.txt` — the rows to check | `concordance.py` |
-| `commentary` | `../texts/COMMENTARY.md` — the verses of The Latin Library and of the four editions with the items of their commentaries | `commentary.py` |
+| `commentary` | `../texts/COMMENTARY.md` — the verses of The Latin Library and of the four editions with the items of their commentaries; `COMMENTARY-en.md` and `COMMENTARY-ja.md` with the items of the editions' translations | `commentary.py` |
 | `pt` | `ilias_pt.txt` — Portuguese translation, `LABEL TEXT` per verse | `extract_pt.py` |
 | | `ilias_la_pt.txt` — Latin and Portuguese interleaved | `parallel.py` |
 | `parts` | `parts/NN_name.txt` — the book split at its section headings | `split_pt.py` |
@@ -65,6 +66,7 @@ uv run python plessis.py tmp/4-italiciiliaslati00plesuoft.pdf tmp/ilias.txt ../t
 uv run python lemaire.py tmp/2-poetaelatinimin00unkngoog_hocr.html tmp/ilias.txt ../texts/2-lemaire
 uv run python concordance.py ../texts ../texts/concordance.md tmp/concordance_check.txt
 uv run python commentary.py ../texts ../texts/COMMENTARY.md
+uv run python commentary.py ../texts ../texts/COMMENTARY-en.md en
 uv run python extract_pt.py [-v] BOOK.pdf tmp/ilias_pt.txt
 uv run python parallel.py tmp/ilias.txt tmp/ilias_pt.txt tmp/ilias_la_pt.txt
 uv run python split_pt.py BOOK.pdf tmp/parts
