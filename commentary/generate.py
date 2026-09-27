@@ -16,7 +16,9 @@ section of a book has instead the summary of the previous book in
 of the book once all its sections are there.  The first section of
 book 1 has none.  Existing files are skipped, so an interrupted run
 resumes where it left off.  For testing, --verse generates only the
-section of a verse, with what context there is, and no summary.
+section of a verse, with what context there is, and no summary;
+--verse next generates only the first thing missing from the start,
+a section or the summary of a book.
 """
 
 import argparse
@@ -220,6 +222,18 @@ def context(sections: list[Section], i: int) -> str | None:
     return None
 
 
+def next_missing(sections: list[Section]) -> int | Section | None:
+    """The first section missing from the start, or the book whose
+    summary is missing once all its sections are there; None if all are."""
+    for book in sorted({sec.book for sec in sections}):
+        for sec in sections:
+            if sec.book == book and not sec.path.exists():
+                return sec
+        if not (ROOT / f"{book:02d}" / "README.md").exists():
+            return book
+    return None
+
+
 def run(client: Client, book: int, sections: list[Section], rounds: int) -> bool:
     """Generate the missing sections of a book and then its summary."""
     for i, sec in enumerate(sections):
@@ -247,8 +261,8 @@ def main():
     )
     group.add_argument(
         "--verse",
-        type=int,
-        help="Generate only the section of this verse, for testing",
+        help='Generate only the section of this verse, for testing, '
+             'or with "next" the first thing missing from the start',
     )
     parser.add_argument(
         "-m", "--model",
@@ -277,13 +291,21 @@ def main():
         parser.error(f"{GREEK} not found: run `make greek` in src/")
     sections = read_sections(GREEK)
     books = sorted({sec.book for sec in sections})
-    if args.verse:
-        found = [i for i, sec in enumerate(sections) if args.verse in dict(sec.verses)]
+    target = None
+    if args.verse and args.verse.lower() == "next":
+        if (target := next_missing(sections)) is None:
+            print("Nothing to generate: all sections and summaries exist")
+            return
+    elif args.verse:
+        if not args.verse.isdigit():
+            parser.error(f'--verse must be a number or "next": {args.verse}')
+        verse = int(args.verse)
+        found = [sec for sec in sections if verse in dict(sec.verses)]
         if not found:
-            parser.error(f"verse {args.verse} not found")
-        i = found[0]
-        if sections[i].path.exists():
-            parser.error(f"{sections[i].path} already exists")
+            parser.error(f"verse {verse} not found")
+        target = found[0]
+        if target.path.exists():
+            parser.error(f"{target.path} already exists")
 
     if args.model.startswith(("openai:", "gpt-")) or args.save_usage:
         USAGE_PATH = find_usage_file()
@@ -298,11 +320,13 @@ def main():
 
     ok = True
     try:
-        if args.verse:
-            if (ctx := context(sections, i)) is None:
+        if isinstance(target, int):
+            summarize(client, target, [s for s in sections if s.book == target])
+        elif target:
+            if (ctx := context(sections, sections.index(target))) is None:
                 print("No context: the previous section or summary is not there yet")
                 ctx = ""
-            ok = generate(client, sections[i], ctx, args.rounds)
+            ok = generate(client, target, ctx, args.rounds)
         else:
             for book in select_books(args.books, books):
                 if not (ok := run(client, book, [s for s in sections if s.book == book], args.rounds)):
