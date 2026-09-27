@@ -39,7 +39,7 @@ are done, deploying the translation as a website is to be considered.
   for a book; a line of the *Ilias Latina* is a verse, a line of the
   *Iliad* a line.
 - The Latin Library (LL, texts/ilias.txt) stays the base text, with its
-  numbering and book divisions (src/books.py is not changed).  Arranging
+  numbering and book divisions (texts/books.tsv is not changed).  Arranging
   the editions into a text of our own would make a new edition; their
   differences go into the notes.
 - The Portuguese translation is not in the public domain: it is only a

@@ -56,9 +56,9 @@ tmp/greek.md: greek.py tmp/iliad-grc.xml ../texts/ilias.txt ../texts/iliad.md ..
 tmp/ilias.txt: tmp/ilias.html extract.py
 	uv run python extract.py $< $@
 
-../texts/ilias.txt: tmp/ilias.txt books.py
+../texts/ilias.txt: tmp/ilias.txt ../texts/books.tsv books.py
 	mkdir -p ../texts
-	uv run python books.py $< $@
+	uv run python books.py $< ../texts/books.tsv $@
 
 tmp/6-$(VOLLMER).pdf:
 	mkdir -p tmp
