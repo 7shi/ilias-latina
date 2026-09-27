@@ -79,8 +79,8 @@ translation, differs in three places:
   numbering goes from 790 to 792, and book 15 begins at 792.  Here book
   15 begins at 790 instead, as in the editions of Vollmer, Baehrens,
   Plessis and Wernsdorf: 790 already renders *Iliad* 15 (15.306–307;
-  see [texts/alignment.tsv](texts/alignment.tsv)).  The gap therefore
-  falls in book 15.
+  see [commentary/alignment.tsv](commentary/alignment.tsv)).  The gap
+  therefore falls in book 15.
   According to Vollmer's apparatus, the verse is *Instaurantque manus,
   cedit Pelopeia uirtus*; it is absent from most manuscripts and stands
   in the text of Munich lat. 5594 and of the edition Vollmer calls X,
@@ -210,8 +210,8 @@ Latin Library, the notes of the editions that apply to it and the
   text of the *Iliad* in the TEI encoding of the
   [Perseus Digital Library](https://github.com/PerseusDL/canonical-greekLit)
   (CC BY-SA 4.0).  Its line numbers are used in
-  [texts/alignment.tsv](texts/alignment.tsv); the Greek text itself is
-  not part of this repository.
+  [commentary/alignment.tsv](commentary/alignment.tsv); the Greek text
+  itself is not part of this repository.
 
 ### Internet Archive
 

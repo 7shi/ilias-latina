@@ -72,7 +72,7 @@ are done, deploying the translation as a website is to be considered.
   images.  Page images are a last resort: `src/tmp/<number>-<id>/NNN.jpg`
   (150 dpi, NNN = PDF page; Vollmer p. 1 = PDF 159), or render with
   `pdftoppm -r 300..600` and crop with Pillow.
-- texts/alignment.tsv was reviewed book by book against the Greek
+- commentary/alignment.tsv was reviewed book by book against the Greek
   (2026-09-27).  The Greek is downloaded by
   `make homer` and not committed; `make greek` in src/ builds
   src/tmp/greek.md, the input of commentary/generate.py.

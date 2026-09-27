@@ -60,6 +60,32 @@ what context there is, and no summary.
   it is asked again (`-r`, 3 times by default).  Existing files are
   skipped, so an interrupted run resumes where it left off.
 
+## Alignment
+
+[alignment.tsv](alignment.tsv) gives the lines of the *Iliad* that each
+verse of The Latin Library renders, found by reading the verse against
+the Greek.  Vollmer's margin gives only where the correspondences
+begin; this gives them verse by verse.  It is made and corrected by
+hand, and is data for scripts rather than for reading: it is meant to
+be read together with the Greek, as `make greek` in
+[src/](../src/README.md) does.  It has been reviewed book by book
+against the Greek.
+
+- Columns: `verse` (The Latin Library), `iliad`, `note`.
+- `iliad`: book.line, ranges with "–", separate places with ", ", in
+  the order of the verse; "—" for a verse with no Homeric counterpart,
+  "?" after a correspondence that is uncertain.  A verse without a
+  counterpart, or with only part of one, has here the lines it draws
+  on or recalls elsewhere, so that their Greek is printed beside it.
+  The line numbers are those of Monro and Allen, *Homeri Opera*, 3rd
+  ed. (Oxford, 1908–1920), as downloaded by `make homer` in
+  [src/](../src/README.md).
+- `note`: only where the Latin differs from the Greek it renders
+  (persons, numbers, who does what), where the alignment differs from
+  Vollmer's margin.  Observations made in aligning, not taken from
+  the editions.
+- Only the Greek line numbers are kept here, not the Greek text.
+
 ## Notes
 
 The notes of the editions belong to their own texts, which in places
