@@ -35,7 +35,7 @@ PDF page 215.
 - Anchisae gener Alcathous 776
 - [Alcinous] v. Arsinous
 - pulcher Alexander 282. -er 332. -drum 340. v. Paris
-- *Amaryncīden 337: v. Diores
+- *Amaryncīden {{377}}: v. Diores
 - [Amphibione] v. Anthemio
 - 1. Amphimachus . . . ferox et Thalpius, Elide nati 212: duces Epeorum: Hector atrocem -um obtruncat 775
 - 2. Amphimachus Nastesque 241: Carum duces
@@ -119,7 +119,7 @@ PDF page 217.
 - Diva 1: Musa. divae 547: Minervae
 - *Dolon 704; v. Eumediades
 - Doricus ensis 324. -ca . . . castra 662. v. Graecus
-- amantem Dorida fluctus 874. -de nata 99. v. Thetis
+- amantem Dorida fluctus {{873}}. -de nata 99. v. Thetis
 - Dulichius . . . Meges 201
 - Echemmona 447: Priami filium
 - Echepolus] v. Thalysiades
@@ -269,7 +269,7 @@ PDF page 221.
 - (Philoctetes) v. Poeas
 - [Phineus] v. Guneus
 - Phoebeia templa 27
-- infesti . . . numina Phoebi 55. 69. Phoebĕ 1070
+- infesti . . . numina Phoebi 55. {{68}}. Phoebĕ 1070
 - Phorcus 247: Phrygum dux
 - Phryges 401. 493. 636. 682. 762. 803. miseri . . . -es 1015. -gum . . . populus 268. spes una -um 486. -um . . . turmas 505. fata . . . -um 657. causa -um 1020. pulsos -as (-es trad.) 342. -as (-es trad.) . . . Teucer agit 670
 - unum . . . decus Phrygiae Hector: 661

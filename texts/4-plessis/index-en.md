@@ -24,7 +24,7 @@ PDF page 153.
 - Aeacides: fierce, makes for Agamemnon with drawn sword 74; [Aeacides 601]; — [mourns the slaughter of Patroclus 844]; — drives the Trojans with his spear 903; — dreadful, drives the Trojans again 924; — holds the funeral of Patroclus's body, 1005; — wonders at the spirit of the wretched Priam 1026.
 - Aeacidae: Aeneas was no match for Aeacides 897.
 - Aeaciden: that Xanthus may overwhelm Aeacides 914.
-- Nereius heros: pursues Hector in his fear 937; — presses Hector 975.
+- Nereius heros: pursues Hector in his fear {{938}}; — presses Hector 975.
 - Pelides: invokes the divinity of his mother 81.
 - Pelidae: the wrath of the proud son of Peleus 1; — the horror (the slaughter of Patroclus) had come to his ears 841.
 - Thetideius heros: spurns the prayers of the
@@ -146,7 +146,7 @@ PDF page 156.
 - Chrysen: Agamemnon orders Chryses to leave the camp 24.
 - CLONIUS, a Boeotian, makes for Troy with Prothoenor 168–9.
 - CLOTHO (on the shield of Achilles) 891.
-- COROEBUS, sprung from a famous land 250.
+- COROEBUS, sprung from a famous land {{249}}.
 - CRETAEUS uterque: both Cretans (Idomeneus and Meriones) 208.
 - CRETHON Crethona: Aeneas kills him 517.
 - CYGNEIS cf. Helena.

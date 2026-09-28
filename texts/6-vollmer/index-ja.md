@@ -38,7 +38,7 @@ PDF page 215.
 - Anchisae gener Alcathous 776
 - [Alcinous] Arsinous を参照
 - pulcher Alexander 282. -er 332. -drum 340. Paris を参照
-- *Amaryncīden 337:Diores を参照
+- *Amaryncīden {{377}}:Diores を参照
 - [Amphibione] Anthemio を参照
 - 1. Amphimachus . . . ferox et Thalpius, Elide nati 212:エペイオイ人の将たち:Hector atrocem -um obtruncat 775
 - 2. Amphimachus Nastesque 241:カーリア人の将たち
@@ -122,7 +122,7 @@ PDF page 217.
 - Diva 1:ムーサ。divae 547:ミネルウァ
 - *Dolon 704;Eumediades を参照
 - Doricus ensis 324. -ca . . . castra 662. Graecus を参照
-- amantem Dorida fluctus 874. -de nata 99. Thetis を参照
+- amantem Dorida fluctus {{873}}. -de nata 99. Thetis を参照
 - Dulichius . . . Meges 201
 - Echemmona 447:プリアモスの子
 - Echepolus] Thalysiades を参照
@@ -272,7 +272,7 @@ PDF page 221.
 - (Philoctetes) Poeas を参照
 - [Phineus] Guneus を参照
 - Phoebeia templa 27
-- infesti . . . numina Phoebi 55. 69. Phoebĕ 1070
+- infesti . . . numina Phoebi 55. {{68}}. Phoebĕ 1070
 - Phorcus 247:プリュギア人の将
 - Phryges 401. 493. 636. 682. 762. 803. miseri . . . -es 1015. -gum . . . populus 268. spes una -um 486. -um . . . turmas 505. fata . . . -um 657. causa -um 1020. pulsos -as (-es trad.) 342. -as (-es trad.) . . . Teucer agit 670
 - unum . . . decus Phrygiae、ヘクトール:661

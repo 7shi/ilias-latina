@@ -106,19 +106,20 @@ header row and four columns:
   it is in the headword.  A remark after a colon (": Diomedes") stays
   with the phrase it follows.
 
-The one misprint of the index is corrected in double braces, in
-index.md, its translations and the row copied from it: "saevi duo
-{{robora}} belli" (Epistrophus 1, printed "rubora").
+The misprints of the index are corrected in double braces in index.md
+and its translations: "saevi duo {{robora}} belli" (Epistrophus 1,
+printed "rubora"), and three verses that do not have the word,
+Amaryncides {{377}} (printed 337), Doris {{873}} (874) and Phoebus
+{{68}} (69).  The rows of INDEX.tsv and its translations give the
+corrections without braces, in the verse and the description.
 
 The verses are Vollmer's own numbers.  They are those of The Latin
 Library except at 957 and 958, which he prints in the other order and
 numbers in his order: 958 is *saevus . . . Achilles*, where ilias.md,
-numbered by The Latin Library, has 957.  The index also cites some
-verses that do not have the word, kept as printed with the form taken
-from the verse meant: Amaryncides 337 (in 377), Doris 874 (in 873),
-Phoebus 69 (in 68), and the phrases that run on into the next verse,
-Agamemnon 10 (*regi* in 11), Priamides 754 (in 755), Tydides 415
-(in 416), and occasus and ortus 866 (in 867).  At 645 the index reads *Troica* with *Troiae* as a variant,
+numbered by The Latin Library, has 957.  The index also cites phrases
+that run on into the next verse, kept as printed with the form taken
+from that verse: Agamemnon 10 (*regi* in 11), Priamides 754 (in 755),
+Tydides 415 (in 416), and occasus and ortus 866 (in 867).  At 645 the index reads *Troica* with *Troiae* as a variant,
 but the text prints *Troiae*, which is given as the form.
 
 The table was drafted once by [index.py](index.py), which splits each

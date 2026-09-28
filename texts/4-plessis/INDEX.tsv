@@ -41,7 +41,7 @@ ACHILLES	1005	Aeacides	— Patrocli corpus funerat
 ACHILLES	1026	Aeacides	— Priami miseri animum miratur
 ACHILLES	897	Aeacidae	Aeacidae non erat compar Aeneas
 ACHILLES	914	Aeaciden	Aeaciden ut Xanthus obruat
-ACHILLES	937	Nereius	Nereius heros Hectorem metuentem persequitur
+ACHILLES	938	Nereius	Nereius heros Hectorem metuentem persequitur
 ACHILLES	975	Nereius	— Hectori instat
 ACHILLES	81	Pelides	Pelides matris numina invocat
 ACHILLES	1	Pelidae	Pelidae superbi ira
@@ -193,7 +193,7 @@ CHRYSES	13	Chryses	filiam raptam deflet
 CHRYSES	24	Chrysen	Chrysen castris excedere jubet Agamemno
 CLONIUS	168-169	Clonius	Boeotus cum Prothoenore Trojam petit
 CLOTHO	891	Clotho	(in clipeo Achillis)
-COROEBUS	250	Coroebus	clara satus tellure
+COROEBUS	249	Coroebus	clara satus tellure
 CRETAEUS	208	Cretaeus	uterque (Idomeneus et Meriones)
 CRETHON	517	Crethona	Crethona occidit Aeneas
 CYGNEIS			cf. Helena.
@@ -244,7 +244,7 @@ DORIS			Doride nata cf. Thetis.
 DULICHIUS			cf. Meges.
 ECHEMON	447	Echemona	Echemona Diomedes caedit
 ELEPHENOR	200	Elephenor	Euboeae < longis > finibus ortus
-ELIS	212	Elide	Elide nati {{Amphimachus}} et Thalpius
+ELIS	212	Elide	Elide nati Amphimachus et Thalpius
 ENNOMUS	246-247	Ennomus	vir florens aetate inter Trojanorum socios
 EPEUS	1011	Epeus	caestibus cunctos superat
 EPISTROPHUS Halizonum dux	242	Epistrophus	— ingens, dux magnanimus
@@ -530,7 +530,7 @@ NEREIDES	863bis	Nereidas	[—]
 NEREIUS			Cf. Achilles.
 NEREUS	864	Nerea	[Nerea in clipeo Achillis Vulcanius fecerat]
 NEREUS	871	Nerea	— in eodem, magnum
-NESTOR	176-177	Nestor	fidus sollerti pectore, consilioque potens {{naves}} cum filiis in Trojam ducit nonaginta
+NESTOR	176-177	Nestor	fidus sollerti pectore, consilioque potens naves cum filiis in Trojam ducit nonaginta
 NESTOR	144	Nestoris	Nestoris prudentia aevo sollerti turbam sedat
 NESTOR	154	Nestoris	— aetas laudatur
 NESTOR	737	Nestoris	— aetas Diomedem et Ulixem, qui, Dolone trucidato, repetunt castra, excipit
@@ -579,7 +579,7 @@ PELOPEA			[PELOPEA] cf. Grai.
 PENELEUS	167	Peneleus	cum ceteris Graecorum ducibus Trojam petit
 PENELEUS	789	Penelei	Penelei atrocis dextra Acamantem Antenoris filium sternit
 PERGAMA			cf. Troja.
-PHAESTUS	430	Phaestum	Phaestum Maeoniden {{Idomeneus}} ferit
+PHAESTUS	430	Phaestum	Phaestum Maeoniden Idomeneus ferit
 PHEGEUS	405	Phegeus	hastam in Diomedem emittit
 PHEGEUS	405	Phegea	Phegea videt in agmine Diomedes
 PHERECLUS	432	Phereclum	Phereclum Meriones occidit
@@ -751,7 +751,7 @@ ULIXES	527	Ulixes	— fraudis commentor Trojanos septem juvenes occidit
 ULIXES	579	Ulixes	— fraudis commentor, Hectore duces Graecorum provocante armis, cum aliis procedit
 ULIXES	707	Ulixes	— Dolonem adspicit
 ULIXES	699	Ulixem	Ulixem socium sibi delegit Diomedes
-ULIXES	204	Ithaci	{{Ithacus}} Ithaci sollertia naves duodecim in Trojam ducit
+ULIXES	204	Ithaci	Ithacus Ithaci sollertia naves duodecim in Trojam ducit
 ULIXES	1010	Laertius	Laertius Ajacem luctando in ludis funebribus vincit
 VENUS	315	Venus	Paridem Menelao eripit
 VENUS	464	Venus	— Aeneam Diomedi

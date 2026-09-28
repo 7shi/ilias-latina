@@ -22,7 +22,7 @@ PDF page 153.
 - Aeacides ferus nudato ense in Agamemnonem tendit 74; [Aeacides 601]; — [Patrocli caedem luget 844]; — Trojanos agit cuspide 903; — horridus Trojanos rursus agit 924; — Patrocli corpus funerat, 1005; — Priami miseri animum miratur 1026.
 - Aeacidae non erat compar Aeneas 897.
 - Aeaciden ut Xanthus obruat 914.
-- Nereius heros Hectorem metuentem persequitur 937; — Hectori instat 975.
+- Nereius heros Hectorem metuentem persequitur {{938}}; — Hectori instat 975.
 - Pelides matris numina invocat 81.
 - Pelidae superbi ira 1; — ad aures devenerat horror (Patrocli caedes) 841.
 - Thetideius heros Graecorum pre-
@@ -144,7 +144,7 @@ PDF page 156.
 - Chrysen castris excedere jubet Agamemno 24.
 - CLONIUS Boeotus cum Prothoenore Trojam petit 168-9.
 - CLOTHO (in clipeo Achillis) 891.
-- COROEBUS clara satus tellure 250.
+- COROEBUS clara satus tellure {{249}}.
 - CRETAEUS uterque (Idomeneus et Meriones) 208.
 - CRETHON Crethona occidit Aeneas 517.
 - CYGNEIS cf. Helena.

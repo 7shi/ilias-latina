@@ -102,20 +102,19 @@ header row and four columns:
   for the form last named, as in the index.  Brackets are closed within
   the row: [ ] marks a verse Plessis rejects, < > a supplement.
 
-The misprints of the index are corrected in double braces, in index.md
-and in the rows copied from it: {{Amphimachus}} (ELIS, printed
-"Amphimacus"), {{MESTHLES}} ("MESTHLFS"), {{naves}} (NESTOR, "navec"),
-{{Idomeneus}} (PHAESTUS, "Idemeneus") and {{Ithacus}} (ULIXES,
-"Itachus").  The headword column has MESTHLES without braces.  The
-translations keep the braces only where they quote the Latin.
+The misprints of the index are corrected in double braces in index.md:
+{{Amphimachus}} (ELIS, printed "Amphimacus"), {{MESTHLES}}
+("MESTHLFS"), {{naves}} (NESTOR, "navec"), {{Idomeneus}} (PHAESTUS,
+"Idemeneus") and {{Ithacus}} (ULIXES, "Itachus"), and two verses,
+{{938}} (ACHILLES, printed 937; *Nereius* is in 938) and {{249}}
+(COROEBUS, printed 250).  The translations keep the braces where they
+quote the Latin, and around the verses.  The rows of INDEX.tsv and its
+translations give the corrections without braces.
 
 The verses are Plessis's own numbers.  They are those of The Latin
 Library except at 873 and 874, which he prints in the other order and
 numbers in his order: 873 is *Nereidas* and 874 *Tritones … Dorida*,
-where ilias.md, numbered by The Latin Library, has 874 and 873.  The
-index misprints two verses, kept as printed with the form taken from
-the verse meant: ACHILLES 937 (*Nereius* is in 938) and COROEBUS 250
-(in 249).
+where ilias.md, numbered by The Latin Library, has 874 and 873.
 
 The table was drafted once by [index.py](index.py), and the form added
 by [index_forms.py](index_forms.py), which matches the first letters of
@@ -145,9 +144,8 @@ headword a column is added, and the description is translated:
   named are kept.  Ranges and punctuation are those of the translation.
   ARCTUS and LUCIFER, empty in INDEX.tsv, are empty here too.
 
-Following the translations, the braces of the misprints are kept where
-the Latin is quoted ("{{Ithacus}} Ithaci") and dropped in translated
-text.
+The braces of the misprints are dropped, as in INDEX.tsv ("Ithacus
+Ithaci").
 
 The files were drafted once by [../index_translations.py](../index_translations.py),
 which uses the verse numbers of each entry, the same in index.md and

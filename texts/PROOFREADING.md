@@ -196,6 +196,17 @@ of `INDEX.tsv`.  Each description was then looked up in `index.md`
 with the pages joined; those not found verbatim are the rows whose
 brackets are closed within the row, as the READMEs describe.
 
+### 9. The misprinted verses of the indexes corrected (Claude Opus 5.5, 2026-09-29)
+
+The verses that the indexes misprint, kept as printed until now
+(steps 5 and 7), are corrected in double braces in `index.md` and its
+translations: Plessis's ACHILLES {{938}} (printed 937) and COROEBUS
+{{249}} (250), and Vollmer's Amaryncides {{377}} (337), Doris {{873}}
+(874) and Phoebus {{68}} (69).  The phrases that run on into the next
+verse (Agamemnon 10) are not misprints and stay as printed.  The rows
+of `INDEX.tsv` and its translations now give all the corrections of
+the indexes, the words of step 8 too, without braces.
+
 ## Status
 
 | File | Proofread by | Translated by |

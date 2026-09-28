@@ -39,7 +39,7 @@ PDF page 215.
 - Anchisae gener Alcathous 776
 - [Alcinous] see Arsinous
 - pulcher Alexander 282. -er 332. -drum 340. See Paris
-- *Amaryncīden 337: see Diores
+- *Amaryncīden {{377}}: see Diores
 - [Amphibione] see Anthemio
 - 1. Amphimachus . . . ferox et Thalpius, Elide nati 212: leaders of the Epeans: Hector atrocem -um obtruncat 775
 - 2. Amphimachus Nastesque 241: leaders of the Carians
@@ -123,7 +123,7 @@ PDF page 217.
 - Diva 1: the Muse. divae 547: Minerva
 - *Dolon 704; see Eumediades
 - Doricus ensis 324. -ca . . . castra 662. See Graecus
-- amantem Dorida fluctus 874. -de nata 99. See Thetis
+- amantem Dorida fluctus {{873}}. -de nata 99. See Thetis
 - Dulichius . . . Meges 201
 - Echemmona 447: son of Priam
 - Echepolus] see Thalysiades
@@ -273,7 +273,7 @@ PDF page 221.
 - (Philoctetes) see Poeas
 - [Phineus] see Guneus
 - Phoebeia templa 27
-- infesti . . . numina Phoebi 55. 69. Phoebĕ 1070
+- infesti . . . numina Phoebi 55. {{68}}. Phoebĕ 1070
 - Phorcus 247: leader of the Phrygians
 - Phryges 401. 493. 636. 682. 762. 803. miseri . . . -es 1015. -gum . . . populus 268. spes una -um 486. -um . . . turmas 505. fata . . . -um 657. causa -um 1020. pulsos -as (-es trad.) 342. -as (-es trad.) . . . Teucer agit 670
 - unum . . . decus Phrygiae, Hector: 661
