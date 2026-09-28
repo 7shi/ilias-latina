@@ -19,6 +19,7 @@ book, with the page of the PDF for looking up the page image.
 | [COMMENTARY.md](COMMENTARY.md) ([en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md)) | The references to the *Iliad* and the Latin parallels in the notes of ilias.md, without the readings and conjectures | 3–74 |
 | [index.md](index.md) ([en](index-en.md), [ja](index-ja.md)) | Index of names and subjects (*index nominum et rerum*), one entry per line | 87–98 |
 | [INDEX.tsv](INDEX.tsv) | The index as a table of headword, verse, form and description, one row per place cited (see [below](#indextsv)) | 87–98 |
+| [INDEX-en.tsv](INDEX-en.tsv), [INDEX-ja.tsv](INDEX-ja.tsv) | INDEX.tsv with the description in English and Japanese, cut from index-en.md and index-ja.md, and the headword translated (see [below](#index-entsv-and-index-jatsv)) | 87–98 |
 
 ## ilias.md
 
@@ -120,6 +121,38 @@ The table was drafted once by [index.py](index.py), and the form added
 by [index_forms.py](index_forms.py), which matches the first letters of
 the headword, the description or the form of the row before against the
 words of the verse; both drafts were then checked row by row and
+corrected by hand.
+
+### INDEX-en.tsv and INDEX-ja.tsv
+
+INDEX.tsv in English and Japanese: the same rows in the same order,
+with headword, verse and form in Latin as in INDEX.tsv.  After the
+headword a column is added, and the description is translated:
+
+- **headword-en**, **headword-ja**: the headword in the language of the
+  file.  The Japanese is the reading given in brackets after the
+  headword in index-ja.md ("ABAS(アバース)" gives アバース), and for
+  homonyms the description of the heading ("アカマース、アンテーノールの子");
+  the English of homonyms is taken from the heading of index-en.md
+  ("Acamas, son of Antenor").  The other English headwords, which
+  index-en.md leaves in Latin, were added by hand, following the names
+  used in the translations.
+- **description**: the translation of the row, cut from index-en.md or
+  index-ja.md at the same verses where INDEX.tsv cuts index.md, not
+  translated anew.  Like the Latin it leaves out the verse and the
+  headword that begins the entry; the Latin forms that the translations
+  keep ("Abanta: Diomedes kills him") and the dash (—) for the form last
+  named are kept.  Ranges and punctuation are those of the translation.
+  ARCTUS and LUCIFER, empty in INDEX.tsv, are empty here too.
+
+Following the translations, the braces of the misprints are kept where
+the Latin is quoted ("{{Ithacus}} Ithaci") and dropped in translated
+text.
+
+The files were drafted once by [../index_translations.py](../index_translations.py),
+which uses the verse numbers of each entry, the same in index.md and
+its translations, as anchors, and repeats the cut on index.md to check
+it against INDEX.tsv; the drafts were then checked row by row and
 corrected by hand.
 
 ## Sigla

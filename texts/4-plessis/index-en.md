@@ -552,4 +552,4 @@ PDF page 164.
 - XANTHUS, son of Phaenops.
 - Xanthum: Diomedes kills Xanthus, known in war 446.
 - XANTHUS, the river.
-- Xanthi: the Trojans wash the wounded Hector in the waves of Xanthus 783; the Trojans flee to the waves of Xanthus 906; Apollo and Venus raise the waves of Xanthus against the Greeks 912.
+- Xanthi: the Trojans wash the wounded Hector in the waves of Xanthus 783; the Trojans flee to the waves of Xanthus 906; — Apollo and Venus raise the waves of Xanthus against the Greeks 912.

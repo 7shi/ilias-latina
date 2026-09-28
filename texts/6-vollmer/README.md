@@ -18,6 +18,7 @@ the page of the PDF for looking up the page image.
 | [COMMENTARY.md](COMMENTARY.md) ([en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md)) | The testimonia, and the glosses and parallels of the apparatus, without the readings and conjectures | 1–54 |
 | [index.md](index.md) ([en](index-en.md), [ja](index-ja.md)) | Index of names (*index nominum*), one entry per line | 56–65 |
 | [INDEX.tsv](INDEX.tsv) | The index as a table of headword, verse, form and description, one row per place cited (see [below](#indextsv)) | 56–65 |
+| [INDEX-en.tsv](INDEX-en.tsv), [INDEX-ja.tsv](INDEX-ja.tsv) | INDEX.tsv with the description in English and Japanese, cut from index-en.md and index-ja.md, and the headword translated (see [below](#index-entsv-and-index-jatsv)) | 56–65 |
 
 ## ilias.md
 
@@ -125,3 +126,29 @@ entry at its verse numbers and matches the first letters of the
 headword or the phrase against the words of the verse; the draft was
 then checked row by row and corrected by hand.
 
+### INDEX-en.tsv and INDEX-ja.tsv
+
+INDEX.tsv in English and Japanese: the same rows in the same order,
+with headword, verse and form in Latin as in INDEX.tsv.  After the
+headword a column is added, and the description is translated:
+
+- **headword-en**, **headword-ja**: the headword translated, with the
+  homonym number and the bracket of INDEX.tsv ("Acamas 1",
+  "descendant of Aeacus (Achilles)", 「アイアコスの末裔(アキレウス)」).
+  The translations of the index have no headwords, so these were added
+  by hand, following the names used in the translations and in
+  Plessis's INDEX-{en,ja}.tsv.
+- **description**: the translation of the row, cut from index-en.md or
+  index-ja.md at the same verses where INDEX.tsv cuts index.md, not
+  translated anew.  The translations keep Vollmer's phrases in Latin
+  and translate his notes, so the description keeps the verse numbers
+  and marks as in INDEX.tsv, with "v." as "see" or 「を参照」 and "f."
+  as "son of" or 「の子」.  In Japanese 「を参照」 follows the places
+  it refers to ("patri 23. patrem 42. … vatis 44 を参照"); it is put
+  on the row that has "v." or "cf." in the Latin.
+
+The files were drafted once by [../index_translations.py](../index_translations.py),
+which uses the verse numbers of each entry, the same in index.md and
+its translations, as anchors, and repeats the cut on index.md to check
+it against INDEX.tsv; the drafts were then checked row by row and
+corrected by hand.

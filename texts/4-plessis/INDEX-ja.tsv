@@ -116,7 +116,7 @@ ALCATHOUS	アルカトオス	776	Alcathous	アンキーセースの婿、殺さ�
 ALCINOUS	アルキノオス	246	Alcinoo	Alcinoo sati:アルキノオスの子クロミオスとエンノモス
 ALEXANDER	アレクサンドロス			Paris を参照
 AMARYNCIDES	アマリュンケウスの子			Diores を参照
-AMPHIMACHUS princeps Carum	アンピマコス、カーリア人の将、トロイア人の他の同盟者たちとともに際立つ 241	241	Amphimachus	カーリア人の将、トロイア人の他の同盟者たちとともに際立つ
+AMPHIMACHUS princeps Carum	アンピマコス、カーリア人の将	241	Amphimachus	トロイア人の他の同盟者たちとともに際立つ
 AMPHIMACHUS princeps Epeorum	アンピマコス、エペイオイ人の将	212	Amphimachus	— 猛き者、エーリス生まれ
 AMPHIMACHUS princeps Epeorum	アンピマコス、エペイオイ人の将	774-775	Amphimachum	Amphimachum:ヘクトールが猛きアンピマコスを斬り倒す
 AMPHIUS	アンピオス	240	Amphius	トロイア人の同盟者
@@ -136,7 +136,7 @@ ANTILOCHUS	アンティロコス	840	Nestorides	Nestorides:パトロクロスの
 ANTIPHUS Maeonum ductor	アンティポス、マイオネス人の指揮者	244	Antiphus	— トロイア人に助けをもたらす
 ANTIPHUS Priami filius	アンティポス、プリアモスの子	366	Antiphus	— アイアースに向けて槍を投げる
 ANTIPHUS Priami filius	アンティポス、プリアモスの子	748	Antiphon	Antiphon:アガメムノーンが彼を傷つける
-ANTIPHUS [Thessalicus] Thessali filius	アンティポス、 [テッサリアの]、テッサロスの子	193	Antiphus	— ペイディッポスとともに三十隻を率いる
+ANTIPHUS [Thessalicus] Thessali filius	アンティポス [テッサリアの]、テッサロスの子	193	Antiphus	— ペイディッポスとともに三十隻を率いる
 APOLLO	アポッロー	165	Apollo	われらの詩人の守り手とならんことを
 APOLLO	アポッロー	472	Apollo	— トロイアの[アポッロー]がアエネーアースを救う
 APOLLO	アポッロー	614	Apollo	— ギリシア人に敵意を抱き、アイアースがヘクトールを打つ石を軽くする
@@ -151,7 +151,7 @@ APOLLO	アポッロー	10	proles	Proles Jovis et Latonae:ユッピテルとラ�
 ARCESILAUS	アルケシラーオス	168	Arcesilaus	猛き者、トロイアに来る
 ARCHILOCHUS	アルキロコス	237	Archilochus	アンテーノールから生まれた者、トロイア人の他の将たちとともに
 ARCHILOCHUS	アルキロコス	787	Archilochum	Archilochum:テラモーンの子アイアースがアンテーノールの子アルキロコスを殺す
-ARCTUS	大熊座	866	Arctus	ARCTUS(大熊座)
+ARCTUS	大熊座	866	Arctus	
 ARGIVUS	アルゴスの	1050	Argiva	Argivaque tela(主格)
 ARGOLICUS	アルゴスの	115	Argolici	Argolici ducis
 ARGOLICUS	アルゴスの			(Agamemno を参照)
@@ -168,7 +168,7 @@ ASTYANAX	アステュアナクス	1059	Astyanacta	— 彼を抱くアンドロ�
 ASTYNOUS	アステュノオス	443	Astynoum	Astynoum:ディオメーデースが彼を殺す
 ATHENAEUS	アテーナイ人			Menestheus を参照
 ATRIDES	アトレウスの子			Agamemno と Menelaus を参照
-AUGUSTUM		901	Augustum	genus(アウグストゥスの一族)
+AUGUSTUM	アウグストゥスの	901	Augustum	genus(一族)
 AULIS	アウリス	147	Aulide	in Aulide:アウリスで(大蛇が見られた)
 AURORA	曙	635	Aurora	星々を追い払う
 AUSTER	南風	866	Austro	ab Austro:大熊座は南から遠く離れている
@@ -194,7 +194,7 @@ CHRYSES	クリューセース	24	Chrysen	Chrysen:アガメムノーンはクリ�
 CLONIUS	クロニオス	168-169	Clonius	ボイオーティア人、プロトエーノールとともにトロイアを目指す
 CLOTHO	クロートー	891	Clotho	(アキレウスの盾の上に)
 COROEBUS	コロイボス	250	Coroebus	名高い土地から生まれた者
-CRETAEUS		208	Cretaeus	uterque(クレータ人の両者)(イードメネウスとメーリオネース)
+CRETAEUS	クレータの	208	Cretaeus	uterque(両者とも)(イードメネウスとメーリオネース)
 CRETHON	クレートーン	517	Crethona	Crethona:アエネーアースが彼を殺す
 CYGNEIS	白鳥の娘			Helena を参照
 CYTHEREA	キュテーラの女神			Venus を参照
@@ -401,8 +401,8 @@ HELENA	ヘレネー	638	Helene	Helene:ヘクトールは、ヘレネーをギリ
 HELENA	ヘレネー	337	Cygneidos	Cygneis Cygneidos:パリスは白鳥の娘の肢体の上に横たわる
 HELENUS	ヘレノス	235	Helenus	トロイア人の将たちの中に
 HERCULES	ヘーラクレース	523	Hercule	Hercule magno:偉大なヘーラクレースの子トレーポレモス
-HESIONA	ヘーシオネー	626	Hesionae	[HESIONA(ヘーシオネー):ヘーシオネーの名
-HESIONA	ヘーシオネー	624	Hesione	Hesione 奪格:母ヘーシオネーから生まれたテラモーンの子]
+HESIONA	ヘーシオネー	626	Hesionae	[ヘーシオネーの名]
+HESIONA	ヘーシオネー	624	Hesione	[Hesione 奪格:母ヘーシオネーから生まれたテラモーンの子]
 HESPERUS	宵の明星	868	Hesperus	昇る
 HIPPOLOCHUS	ヒッポロコス	749-750	Hippolochum	Hippolochum:アガメムノーンは戦いへ突進するヒッポロコスを斬り殺す
 HIPPOTHOUS	ヒッポトオス	244-245	Hippothous	武器に優れた者、トロイア人の同盟者の中に
@@ -434,7 +434,7 @@ IMBRASIDES	インブラソスの子			Pirous を参照
 IPHIDAMAS	イーピダマース	750	Iphidamanta	Iphidamanta:アガメムノーンがイーピダマースを殺す
 IRIS	イーリス	223	Irim	Irin:ユッピテルがイーリスをプリアモスのもとへ送る
 ITHACUS	イタケーの人			Ulixes を参照
-JOVIS				主格、Juppiter を参照
+JOVIS	ユッピテル			主格、Juppiter を参照
 JUNO	ユーノー	98	Juno	気を損ねて
 JUNO	ユーノー	894	Juno	— ミネルウァとともにアキレウスに力を与える
 JUNO	ユーノー	920	Juno	— 遠くまで見通す者、クサントスの波と戦うアキレウスを守る
@@ -459,7 +459,7 @@ LEONTEUS	レオンテウス	182	Leonteus	とポリュポイテース、トロイ
 LEUCUS	レウコス	369	Leucus	アンティポスがアイアースに向けて投げた槍に打たれる
 LIBYCUS	リビアの	500	Libycus	ut Libycus leo:リビアの獅子のように(アガメムノーン)
 LOCRI	ロクリス人	189	Locrum	Locrum:ロクリス人の最も勇敢な者アイアース
-LUCIFER	明けの明星	868	Lucifer	LUCIFER(明けの明星)
+LUCIFER	明けの明星	868	Lucifer	
 LYCAON	リュカーオーン			Pandarus を参照
 MACHAON	マカーオーン	218	Machaon	ギリシアの将たちの中に
 MAEONIDES	マイオネス人			Phaestus を参照
@@ -500,7 +500,7 @@ MERIONES	メーリオネース	208	Meriones	とイードメネウス、二人と
 MERIONES	メーリオネース	432	Meriones	— ペレクロスを斬り殺す
 MERIONES	メーリオネース	580-581	Meriones	— 父祖の家柄で知られ、他の者たちとともに戦いに進み出る
 MERIONES	メーリオネース	1013	Meriones	— 葬送競技で弓においてすべての者に勝つ
-MESTHLES		244	Mesthles	トロイア人の援軍の中に
+MESTHLES	メストレース	244	Mesthles	トロイア人の援軍の中に
 MINERVA	ミネルウァ	551	Minervae	Minervae:ヘカベーは嘆願者としてミネルウァの神殿に来る
 MINERVA	ミネルウァ	78	Pallas	Pallas 主格:貞潔な女神は、アキレウスが剣でアガメムノーンに向かわぬよう手で押さえる
 MINERVA	ミネルウァ	394	Pallas	— 戦の女神は戦いでディオメーデースに付き添う
@@ -575,7 +575,7 @@ PELASGI	ペラスゴイ人			Grai を参照
 PELEUS	ペーレウス	986	Peleus	プリアモスのためにペーレウスがアキレウスを動かさんことを(ヘクトールが死に際して呼びかける)
 PELIDES	ペーレウスの子			Achilles を参照
 PELOPEIUS	ペロプスの末裔			Agamemno を参照
-PELOPEA	ペロプスの			[PELOPEA](ペロプスの) Grai を参照
+PELOPEA	ペロプスの			[PELOPEA] Grai を参照
 PENELEUS	ペーネレオース	167	Peneleus	ギリシアの他の将たちとともにトロイアを目指す
 PENELEUS	ペーネレオース	789	Penelei	Penelei:猛きペーネレオースの右手がアンテーノールの子アカマースを打ち倒す
 PERGAMA	ペルガマ			Troja を参照
@@ -625,7 +625,7 @@ PROTEUS	プローテウス	872	Protea	Protea:常に同じ姿ではないプロ�
 PROTHOENOR	プロトエーノール	168-169	Prothoenor	ボイオーティア人、ギリシアの将たちの中に
 PROTHOENOR	プロトエーノール	786	Prothoenora	Prothoenora:ポリュダマースがプロトエーノールを殺す
 PROTHOUS	プロトオス	199	Prothous	マグネーシア人、テントレードーンの子、ギリシアの将たちの中に
-PYLAEMEN	ピュライメネース	245bis	Pylaemenis	PYLAEMEN(ピュライメネース) < Pylaemenis animi>
+PYLAEMEN	ピュライメネース	245bis	Pylaemenis	< Pylaemenis animi >
 PYLAEMEN	ピュライメネース	519	Paphlagonum	Paphlagonum ductor:パプラゴニア人の指揮者がメネラーオスに殺される
 PYLAEUS	ピュライオス	240	Pylaeus	トロイア人の将たちの中に
 PYRAECHMES	ピュライクメース	243	Pyraechmes	年齢で名高い者、トロイア人の同盟者の中に
@@ -771,4 +771,4 @@ VULCANUS	ウルカーヌス	858	Mulciber	Mulciber:アエトナの火を掻き立
 XANTHUS Phaenopis filius	クサントス、パイノプスの子	446	Xanthum	Xanthum:ディオメーデースが戦で知られたクサントスを殺す
 XANTHUS fluvius	クサントス、河	783	Xanthi	Xanthi:トロイア人は傷ついたヘクトールをクサントスの波で洗う
 XANTHUS fluvius	クサントス、河	906	Xanthi	トロイア人はクサントスの波へ逃げる
-XANTHUS fluvius	クサントス、河	912	Xanthi	アポッローとウェヌスがギリシア人に向けてクサントスの波を立ち上がらせる
+XANTHUS fluvius	クサントス、河	912	Xanthi	— アポッローとウェヌスがギリシア人に向けてクサントスの波を立ち上がらせる
