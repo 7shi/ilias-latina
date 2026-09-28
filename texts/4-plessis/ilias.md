@@ -1275,7 +1275,7 @@ PDF page 99.
 | 437 | Tydidenque oculis immensa per agmina quaerit. |  |
 | 438 | Quem postquam Troum sternentem corpora vidit, |  |
 | 439 | Horrida contento derexit spicula cornu |  |
-| 440 | Et summas umeri destrinxit acumine partes. |  |
+| 440 | Et summas umeri destrinxit acumine partes. | 440 |
 | 441 | Tum vero ardescit juvenis Calydonius ira, |  |
 | 442 | In mediasque acies animosi more leonis |  |
 | 443 | Fertur et Astynoum magnumque in Hypirona tendit : |  |
@@ -1401,7 +1401,7 @@ PDF page 102.
 | 477 | Proteritur pedibusque simul calcatur equorum; |  |
 | 478 | Atque alius volucri trajectus pectora telo |  |
 | 479 | Quadrupedis tergo pronus ruit; illius ense |  |
-| 480 | Dejectum longe caput a cervice cucurrit; |  |
+| 480 | Dejectum longe caput a cervice cucurrit; | 480 |
 | 481 | Hic jacet exanimis fuso super arma cerebro : |  |
 | 482 | Sanguine manat humus, campi sudore madescunt. |  |
 | 483 | Emicat interea Veneris pulcherrima proles |  |
