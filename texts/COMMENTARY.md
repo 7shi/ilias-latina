@@ -1,11 +1,12 @@
 # Commentary
 
 The verses of the four editions organized in this directory and the
-items of their commentaries, verse by verse in the order of The Latin
-Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in
-this directory ([commentary.py](commentary.py)) from
-[concordance.md](concordance.md), the editions' `ilias.md` and their
-`COMMENTARY.md`, and rebuilt from them; do not correct it by hand.
+items of their commentaries and indexes, verse by verse in the order
+of The Latin Library ([ilias.txt](ilias.txt)).  Built by
+`make commentary` in this directory ([commentary.py](commentary.py))
+from [concordance.md](concordance.md), the editions' `ilias.md`, their
+`COMMENTARY.md` and `INDEX.tsv`, and rebuilt from them; do not correct
+it by hand.
 Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 
 - Each verse begins with its number and text in The Latin Library
@@ -21,8 +22,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   is given at the first of them, or Lemaire's "(cont.)", a note
   continued from the previous page.  Vollmer's testimonia are marked
   "(testimonia)".
+- Under [4] Plessis and [6] Vollmer, after the items, the rows of
+  the edition's INDEX.tsv that cite the verse, in its order, as
+  "form (headword): description": the form of the word in the
+  verse ("—" where the verse does not have it), the headword and
+  the description.  A row citing a range of verses is given at the
+  first of them; one citing several verses at each of them, but only
+  at the first of consecutive ones.  Cross-references, without a
+  verse, are left out.
 - The texts and the items are quoted as they stand in the files;
-  see each edition's COMMENTARY.md for what is kept and left out.
+  see each edition's COMMENTARY.md and README.md for what is kept
+  and left out.
 
 ## Book 1
 
@@ -30,20 +40,28 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 1 Iram pande mihi Pelidae, Diva, superbi,
 - [3] 1 Iram pande mihi Pelidae, Diua, superbi,
 - [4] 1 Iram pande mihi Pelidae, Diva, superbi,
+  - Pelidae (ACHILLES): Pelidae superbi ira
+  - Diva (DIVA): (scilicet Musa)
 - [6] 1 Iram pande mihi Pelidae, Diva, superbi,
+  - — (Baebius): et acrostichon v. 1—8
+  - Diva (Diva): Diva 1: Musa
+  - Pelidae (Pelides): -dae . . . superbi 1
 
 2 Tristia quae miseris iniecit funera Grais
 - [2] 2 Tristia quae miseris injecit funera Graiis ,
   - Injecit funera. Antiquiores dicunt immittere vel dare funera. Virg. Aen. X, 13: « Quum fera Carthago Romanis arcibus olim Exitium magnum atque Alpes immittet apertas »; Val. Flaccus, III, 681, « nec enim solis dare funera Colchis Sit satis ». — Plautus tamen objicere funera dixit, Amphitr. I, 1, 35: « Qui multa Thebano populo objecit funera ». Ed.
 - [3] 2 Tristia quae miseris iniecit funera Grais
 - [4] 2 Tristia quae miseris injecit funera Grais
+  - Grais (GRAI): Grais miseris funera injecit Achillis ira
 - [6] 2 Tristia quae miseris iniecit funera Grais
+  - Grais (Graius): Grais 2. 277. 614
 
 3 Atque animas fortes heroum tradidit Orco
 - [2] 3 Atque animas fortes heroum tradidit Orco,
 - [3] 3 Atque animas fortes heroum tradidit orco,
 - [4] 3 Atque animas fortes heroum tradidit orco,
 - [6] 3 Atque animas fortes heroum tradidit Orco
+  - Orco (Orcus): animas . . . tradidit Orco 3
 
 4 Latrantumque dedit rostris uolucrumque trahendos
 - [2] 4 Latrantumque dedit rostris volucrumque trahendos
@@ -66,6 +84,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 6 Confiebat enim summi sententia regis,
 - [4] 6 Confiebat enim summi sententia regis,
 - [6] 6 Confiebat enim summi sententia regis,
+  - regis (Iuppiter): summi . . . regis 6. 105
 
 7 protulerant* ex quo discordia pectora pugnas,
 - [2] 7 Ex quo contulerant discordi pectore pugnas
@@ -79,7 +98,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 8 Sceptriger Atrides, et bello clarus Achilles.
 - [3] 8 Sceptriger Atrides et bello clarus Achilles.
 - [4] 8 Sceptriger Atrides et bello clarus Achilles.
+  - Achilles (ACHILLES): nominativ. subjectus bello clarus Agamemnoni irascitur
+  - Atrides (AGAMEMNON): Atrides sceptriger Achilli iratus
 - [6] 8 Sceptriger Atrides et bello clarus Achilles.
+  - Achilles (Achilles): bello clarus -es 8
+  - Atrides (Atrides (Agamemno)): sceptriger -es 8
 
 9 Quis deus hos ira tristi contendere iussit?
 - [2] 9 Quis Deus hos ira tristi contendere jussit?
@@ -92,7 +115,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 10 Latonae et magni proles Jovis. Ille Pelasgum
 - [3] 10 Latonae et magni proles Iouis. ille Pelasgum
 - [4] 10 Latonae et magni proles Jovis. Ille Pelasgum
+  - proles (APOLLO): Proles Jovis et Latonae
+  - Pelasgum (GRAI): Pelasgum regi Apollo infestus
+  - Jovis (JUPPITER): Jovis genitiv. magni proles (Apollo)
+  - Latonae (LATONA): Latonae et Jovis proles
 - [6] 10 Latonae et magni proles Iovis. ille Pelasgum
+  - regi (Agamemnon): Pelasgum . . . regi 10
+  - Iovis (Iuppiter): gen.: magni proles . . . Iovis 10: Apollo
+  - Latonae (Latona): Latonae et magni proles Iovis 10: Apollo
+  - Pelasgum (Pelasgi): -um . . . regi 10
 
 11 infestam regi pestem in praecordia misit
 - [2] 11 Infestus regi pestem in praecordia misit,
@@ -108,20 +139,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Implicuit morbo. Sane ineleganter dictum, et magis offendit quod fere statim vs. 14 recurrit implicitus. Ed.
 - [3] 12 Inplicuitque graui Danaorum corpora morbo.
 - [4] 12 Implicuitque gravi Danaorum corpora morbo.
+  - Danaorum (GRAI): Danaorum corpora morbo implicuit Apollo
 - [6] 12 implicuitque gravi Danaorum corpora morbo.
+  - Danaorum (Danai): -orum 12
 
 13 Nam quondam Chryses, sollemni tempora uitta
 - [2] 13 Nam quondam Chryses solenni tempora vitta
   - … Vittam nominat insigne sacerdotii capiti innexum, quo solenniter utendum erat in sacrificiis et ministeriis Apollinis, sicut Cereris sacerdos apud Ovid. Met. V, 110, dicitur « albenti velatus tempora vitta ». …
 - [3] 13 Nam quondam Chryses, sollemni tempora uitta
 - [4] 13 Nam Chryses quondam, sollemni tempora vitta
+  - Chryses (CHRYSES): filiam raptam deflet
 - [6] 13 nam quondam Chryses, sollemni tempora vitta
+  - Chryses (Chryses): Chryses 13
 
 14 implicitus, raptae fleuit solacia natae
 - [2] 14 Implicitus, raptae flevit solatia natae,
 - [3] 14 Inplicitus, raptae fleuit solatia natae
 - [4] 14 Implicitus, raptae flevit solacia natae
 - [6] 14 implicitus, raptae flevit solacia natae
+  - natae (Chryseis): cf. raptae . . . natae 14
 
 15 inuisosque dies inuisaque tempora noctis
 - [2] 15 Invisosque dies invisaque tempora noctis
@@ -149,12 +185,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 18 Nullaque lenibant patrios solatia fletus,
 - [4] 18 Nullaque lenibant patrios solacia fletus,
 - [6] 18 nullaque lenibant patrios solacia fletus,
+  - fletus (Chryses): patrios . . . fletus 18
 
 19 castra petit Danaum genibusque affusus Atridae
 - [2] 19 Castra petit Danaum, genibusque adfusus Atridae,
 - [3] 19 Castra petit Danaum genibusque affusus Atridae
 - [4] 19 Castra petit Danaum genibusque affusus Atridae
+  - Atridae (AGAMEMNON): Atridae genitiv. genibus Chryses affusus
+  - Danaum (GRAI): Danaum castra Chryses petit
 - [6] 19 castra petit Danaum genibusque affusus Atridae
+  - Atridae (Atrides (Agamemno)): -dae gen.: 19
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 20 per superos regnique decus miserabilis orat,
 - [2] 20 Per Superos regnique decus miserabilis orat,
@@ -168,6 +209,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 21 Ut sibi causa suae reddatur nata salutis.
 - [4] 21 Ut sibi causa suae reddatur nata salutis.
 - [6] 21 ut sibi causa suae reddatur nata salutis.
+  - nata (Chryseis): nata 21. 42
 
 22 Dona simul praefert. Vincuntur fletibus eius
 - [2] 22 Dona simul profert : vincuntur fletibus ejus
@@ -180,13 +222,22 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Myrmidones. Barthius l. cit. non satis circumspecte ab hoc auctore ait Myrmidones pro omnibus Graecis dici, quamquam Maro Danaos, Argivos, Pelasgos pro iisdem habet; hoc vero, quia novum, non posse placere; praeterea Myrmidonum aliam rationem esse, qui nomine praeferant originem gentis prorsus peculiarem, quam ad reliquas extendere, praeferat speciem historiae ignari.
 - [3] 23 Myrmidones reddique patri Chryseida censent.
 - [4] 23 Myrmidones reddique patri Chryseida censent.
+  - Chryseida (CHRYSEIS): Chryseida patri reddendam esse Myrmidones censent
+  - Myrmidones (MYRMIDONES): Chrysae fletibus vincuntur filiamque reddi censent
 - [6] 23 Myrmidones reddique patri Chryseida censent.
+  - Chryseida (Chryseis): -da 23. 56. 64
+  - patri (Chryses): cf. patri 23
+  - Myrmidones (Myrmidones): Myrmidones (i. Graeci) 23
 
 24 Sed negat Atrides Chrysenque excedere castris
 - [2] 24 Sed negat Atrides, Chrysenque excedere castris
 - [3] 24 Sed negat Atrides Chrysenque excedere castris
 - [4] 24 Sed negat Atrides Chrysenque excedere castris
+  - Atrides (AGAMEMNON): — Chryseida reddi negat
+  - Chrysen (CHRYSES): Chrysen castris excedere jubet Agamemno
 - [6] 24 sed negat Atrides Chrysenque excedere castris
+  - Atrides (Atrides (Agamemno)): -es 24. 510(?) 663
+  - Chrysen (Chryses): -en 24
 
 25 despecta pietate iubet: ferus ossibus imis
 - [2] 25 Despecta pietate jubet : ferus ossibus imis
@@ -205,7 +256,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 27 Contemptus repetit Phoebeia templa sacerdos,-
 - [3] 27 Contemptus repetit Phoebeia templa sacerdos
 - [4] 27 Contemptus repetit Phoebeia templa sacerdos
+  - Phoebeia (PHOEBEIUS): Phoebeia templa
 - [6] 27 contemptus repetit Phoebeia templa sacerdos
+  - sacerdos (Chryses): sacerdos 27. 35
+  - Phoebeia (Phoebeius): Phoebeia templa 27
 
 28 squalidaque infestis maerens secat unguibus ora
 - [2] 28 Squalidaque infestis moerens secat unguibus ora,
@@ -233,13 +287,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Solet Noster Deos suos solo munerum nomine designare, ut Jovem regis, Vulcanum ignipotentis, Minervam armigerae. Fatidici autem nomen deberi Apollini, quod oracula edit, et futura praedivinando fatur, vulgatum est. Diserte sic Phoebum appellat Ovidius, Fast. II, 262, et V, 626. Et auguris nomen, quod Apollini Horatius, Carm. I, 2, 32, tribuit, eodem spectat. … Nam preces ad aures sacras, Principum vel Deorum, ferre, vulgaris formula est, sequiore praesertim latinitatis aevo. Vid. quae notavimus ad Calpurn. I, vers. ult. et Apollini peculiariter tribuuntur aures precantibus faciles. Unde in precibus ad Apollinem fusis inprimis frequens est exclamatio, ut hic apud Homerum Κλῦθί μευ, ita apud Latinos Audi Apollo. Vid. Horat. Carm. Saec. v. 34. Quin apud Lacedaemonios Apollinem dictum esse τετράωτον, ejusque simulacrum cum quatuor auribus fictum esse, adnotavit Gyraldus, Histor. Deor. Syntagm. VII, sub init.
 - [3] 31 Fatidici sacras compellat uocibus aras:
 - [4] 31 Fatidici sacras compellat vocibus aures :
+  - Fatidici (APOLLO): Fatidicus Fatidici aures vocibus compellat Chryses
 - [6] 31 Fatidici his sacras compellat vocibus aures:
+  - Fatidici (Fatidicus): Fatidici . . . aures 31: Apollinis
 
 32 "Quid coluisse mihi tua numina, Delphice, prodest
 - [2] 32 « Quid coluisse mihi tua numina, Delphice , prodest ,
 - [3] 32 'Quid coluisse mihi tua numina, Delphice, prodest
 - [4] 32 « Quid coluisse mihi tua numina, Delphice, prodest
+  - Delphice (APOLLO): Delphicus Delphice (de filia rapta Chryses queritur)
 - [6] 32 'quid coluisse mihi tua, Delphice, numina prodest
+  - Delphice (Delphicus): Delphice 32: o Apollo
 
 33 aut castam uitam multos duxisse per annos?
 - [2] 33 Aut castam vitam multos duxisse per annos?
@@ -258,6 +316,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 35 Si tuus externo iam spernor ab hoste sacerdos?
 - [4] 35 Si tuus externo jam spernor ab hoste sacerdos ?
 - [6] 35 si tuus externo iam spernor ab hoste sacerdos?
+  - sacerdos (Chryses): sacerdos 27. 35
 
 36 En, haec desertae redduntur dona senectae?
 - [2] 36 En haec desertae redduntur dona senectae.
@@ -265,6 +324,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 36 En, haec desertae redduntur dona senectae?
 - [4] 36 En, haec desertae redduntur dona senectae?
 - [6] 36 en, haec desertae redduntur dona senectae?
+  - senectae (Chryses): desertae . . . senectae 36
 
 37 Si gratus tibi sum, sim te sub uindice tutus.
 - [2] 37 Si gratus tibi sum, sim te sub judice tutus,
@@ -303,6 +363,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 42 Fige patrem: cur nata luit peccata parentis
 - [4] 42 Fige patrem : cur nata luit peccata parentis
 - [6] 42 fige patrem: cur nata luit peccata parentis
+  - nata (Chryseis): nata 21. 42
+  - patrem (Chryses): patrem 42
 
 43 atque hostis duri patitur miseranda cubile?."
 - [2] 43 Atque hostis duri patitur miseranda cubile?»
@@ -310,26 +372,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 43 Atque hostis duri patitur miseranda cubile?'
 - [4] 43 Atque hostis duri patitur miseranda cubile ? »
 - [6] 43 atque hostis duri patitur miseranda cubile?'
+  - hostis (Agamemnon): hostis duri 43
 
 44 Dixerat. Ille sui uatis prece motus acerbis
 - [2] 44 Dixerat. Ille sui vatis prece motus, acerbis
 - [3] 44 Dixit; at ille sui uatis prece motus acerbis
 - [4] 44 Dixit; at ille sui vatis prece motus acerbis
 - [6] 44 dixerat. ille sui motus prece vatis acerbis
+  - vatis (Chryses): vatis 44
 
 45 luctibus infestat Danaos pestemque per omnes
 - [2] 45 Luctibus infestat Danaos , pestemque per omnes
   - Luctibus infestat Danaos, i. e. vexat, desolatur. Saepe etiam infestare pro infestum facere dicitur; Sil. Ital. II, 277: « Ductorem infestans odiis ». Ed.
 - [3] 45 Luctibus infestat Danaos pestemque per omnes
 - [4] 45 Luctibus infestat Danaos pestemque per omnes
+  - Danaos (GRAI): Danaos Apollo luctibus infestat
 - [6] 45 luctibus infestat Danaos pestemque per omnes
+  - Danaos (Danai): -os 45. 492. 659. 808. 912. 950. 1001
 
 46 immittit populos: uulgus ruit undique Graium
 - [2] 46 Immittit populos : vulgus ruit undique Graium,
   - Vulgus ruit undique, hoc est, cadit, occumbit moriens; ut Seneca, Oedipi v. 53: « sed omnis aetas pariter et sexus ruit ». Poeticam et argutam esse hanc descriptionem stragis fatetur Barthius l. c. Sed deberi eam Ovidio Bondamius et Dussenius, cum eodem Barthio, agnoscunt. Sic enim Ovid. Metam. VII, 611: « Qui lacryment, desunt, indefletaeque vagantur Natarum matrumque animae, juvenesque senesque. Nec locus in tumulos, nec sufficit arbor in ignes ». Addi potest Manilius, de pestilentia Attica loquens, lib. I, 883 seqq. et Seneca in Oedipo de strage Thebana, act. I, v. 37 seqq. qui et Ovidiano loco admodum similis est.
 - [3] 46 Inmittit populos: uulgus ruit undique Graium,
 - [4] 46 Immittit populos : vulgus ruit undique Grajum,
+  - Grajum (GRAI): Grajum volgus ruit undique
 - [6] 46 immittit populos: vulgus ruit undique Graium
+  - Graium (Graius): vulgus . . . Graium 46
 
 47 uixque rogis superest tellus, uix ignibus aer,
 - [2] 47 Vixque rogis superest tellus, vix ignibus arbor:
@@ -356,7 +424,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 50 Tunc Danaum proceres in coetum clarus Achilles
 - [3] 50 Cum Danaum proceres in coetum clarus Achilles
 - [4] 50 Cum Danaum proceres in coetum clarus Achilles
+  - Achilles (ACHILLES): — clarus Graecorum duces, ut Calchas causas pestis significet, convocat
+  - Danaum (GRAI): — proceres in coetum Achilles convocat
 - [6] 50 cum Danaum proceres in coetum clarus Achilles
+  - Achilles (Achilles): clarus -es 50
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 51 conuocat et causas hortatur pestis iniquae
 - [2] 51 Convocat, et caussas hortatur pestis iniquae
@@ -368,7 +440,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 52 Edere Thestoridem. Tunc Calchas numina Divum
 - [3] 52 Edere Thestoriden. tunc Calchas numina diuum
 - [4] 52 Edere Thestoriden. Tunc Calchas numina divum
+  - Calchas (CALCHAS): deorum numina consulit
+  - Thestoriden (CALCHAS): Thestorides Thestoriden edere causas pestis Achilles hortatur
 - [6] 52 edere Thestoriden. tunc Calchas numina divum
+  - Calchas (Calchas): Calchas vates: 52. 152
+  - Thestoriden (Thestorides): Thestoriden 52. 59: Calchanta
 
 53 consulit et causam pariter finemque malorum
 - [2] 53 Consulit,et caussas pariter finemque malorum
@@ -380,19 +456,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 54 Invenit, effarique verens , ope tutus Achillis
 - [3] 54 Inuenit; effarique uerens ope tutus Achillis
 - [4] 54 Invenit, effarique verens ope tutus Achillis
+  - Achillis (ACHILLES): Achillis ope tutus, Calchas causas pestis aperit
 - [6] 54 invenit effarique verens ope tutus Achillis
+  - Achillis (Achilles): -is 54. 689. 719. 806
 
 55 haec ait: "Infesti placemus numina Phoebi
 - [2] 55 Haec ait : « Infesti placetnus numina Phoebi ,
 - [3] 55 Haec ait: 'infesti placemus numina Phoebi
 - [4] 55 Haec ait : « Infesti placemus numina Phoebi
+  - Phoebi (APOLLO): Phoebi infesti placemus numina (Calchas loquitur)
 - [6] 55 haec ait 'infesti placemus numina Phoebi
+  - Phoebi (Phoebus): infesti . . . numina Phoebi 55. 68
 
 56 reddamusque pio castam Chryseida patri,
 - [2] 56 Reddamusque pio castam Chryseida patri,
 - [3] 56 Reddamusque pio castam Chryseida patri,
 - [4] 56 Reddamusque pio castam Chryseida patri,
+  - Chryseida (CHRYSEIS): — castam reddamus patri (Calchas loquitur)
 - [6] 56 reddamusque pio castam Chryseida patri,
+  - Chryseida (Chryseis): -da 23. 56. 64
+  - patri (Chryses): pio . . . patri 56. 64
 
 57 si uolumus, Danai, portus intrare salutis."
 - [2] 57 Si volumus Danai portus intrare salutis ».
@@ -400,25 +483,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** phrasin adhibuerit auctor, de eo non disceptabo, phrasis ipsa defendi potest. Intrare portum satis bonum et usitatum esse, nemo negaverit, et Virgilius Ovidiusque usurparunt. Et portus salutis ab eodem Ovidio est, qui Rem. amoris, v. 610: « Inque suae portu poene salutis erat ».
 - [3] 57 Si uolumus Danai portus intrare salutis'.
 - [4] 57 Si volumus Danai portus intrare salutis ».
+  - Danai (DANAUS): adjectiv. Danai salutis
 - [6] 57 si volumus, Danai, portus intrare salutis'.
+  - Danai (Danai): voc.: 57
 
 58 Dixerat. Exarsit subito uiolentia regis:
 - [2] 58 Dixerat, exarsit subito violentia regis.
 - [3] 58 Dixerat; exarsit subito uiolentia regis:
 - [4] 58 Dixerat; exarsit subito violentia regis;
 - [6] 58 dixerat; exarsit subito violentia regis:
+  - regis (Agamemnon): rex 58. 134. 691
 
 59 Thestoriden dictis primum compellat amaris
 - [2] 59 Thestoridem dictis primum compellat amaris,
 - [3] 59 Thestoriden dictis primum compellat amaris
 - [4] 59 Thestoriden dictis primum compellat amaris
+  - Thestoriden (CALCHAS): — dictis amaris Agamemno compellat
 - [6] 59 Thestoriden dictis primum compellat amaris
+  - Thestoriden (Thestorides): Thestoriden 52. 59: Calchanta
 
 60 mendacemque uocat. Tum magnum incusat Achillem
 - [2] 60 Mendacemque vocat, magnumque incusat Achillem,
 - [3] 60 Mendacemque uocat; tum magnum incusat Achillem
 - [4] 60 Mendacemque vocat; tum magnum incusat Achillem
+  - Achillem (ACHILLES): Achillem magnum Agamemno incusat
 - [6] 60 mendacemque vocat; tum magnum incusat Achillem
+  - Achillem (Achilles): magnum . . . -em 60. 72. 934
 
 61 inque uicem ducis inuicti conuicia suffert.
 - [2] 61 Inque vicem ducis invicti convicia sufFert.
@@ -426,6 +516,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 61 Inque uicem ducis inuicti conuicia suffert.
 - [4] 61 Inque vicem ducis invicti convicia suffert.
 - [6] 61 inque vicem ducis invicti convicia suffert.
+  - ducis (Achilles): ducis invicti 61
 
 62 Confremuere omnes. Tandem clamore represso
 - [2] 62 Confremuere omnes : tandem clamore represso
@@ -441,62 +532,84 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 63 Cogitur invictos aeger dimittere amores
 - [6] 63 cogitur invitos aeger dimittere amores
   - inuitos … intellege: quae regem non amabat; amores ipsam Chryseida denotat
+  - amores (Chryseis): invitos . . . amores 63
 
 64 intactamque pio reddit Chryseida patri
 - [2] 64 Intactamque pio reddit Chryseida patri ,
 - [3] 64 Intactamque pio reddit Chryseida patri,
 - [4] 64 Intactamque pio reddit Chryseida patri,
+  - Chryseida (CHRYSEIS): — intactam Agamemno patri reddit
 - [6] 64 intactamque pio reddit Chryseida patri
+  - Chryseida (Chryseis): -da 23. 56. 64
+  - patri (Chryses): pio . . . patri 56. 64
 
 65 multaque dona super. Quam cunctis notus Vlixes
 - [2] 65 Multaque dona super : quam cunctis notus Ulysses
   - … — Cunctis notus Ulysses. … In graeco πολύμητις dicitur Ulysses. Hoc vocabulum auctor Epitomes intellexisse videtur, quasi esset πολύμυθος vel πολύμνητος, de eo, qui multorum in ore est, vel de quo multae narrantur fabulae, quod adeo interpretari potuit cunctis notus.
 - [3] 65 Multaque dona super; quam cunctis notus Ulixes
 - [4] 65 Multaque dona super; quam cunctis notus Ulixes
+  - Ulixes (ULIXES): cunctis notus Chryseida ad patriam revehit
 - [6] 65 multaque dona super; quam cunctis notus Vlixes
+  - Vlixes (Vlixes): cunctis notus -es 65
 
 66 impositam puppi patrias deuexit ad arces
 - [2] 66 Impositam puppi patrias devexit ad arces,
 - [3] 66 Inpositam puppi patrias deuexit ad arces
 - [4] 66 Impositam puppi patrias devexit ad arces
 - [6] 66 impositam puppi patrias devexit ad arces
+  - arces (Chryse): (Chryse urbs) patrias ad arces 66
 
 67 atque iterum ad classes Danaum sua uela retorsit.
 - [2] 67 Atque iterum ad classes Danaum sua vela retorsit.
   - Sua vela retorsit. Ovid. Trist. I, 1, 84: « Semper ab Euboicis vela retorquet aquis ».
 - [3] 67 Atque iterum ad Danaum classes sua uela retorsit.
 - [4] 67 Atque iterum ad Danaum classes sua vela retorsit.
+  - Danaum (GRAI): — classes, Chryseide patri reddita, Ulixes repetit
 - [6] 67 atque iterum ad Danaum classes sua vela retorsit.
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 68 Protinus infesti placantur numina Phoebi
 - [2] 68 Protinus infesti placantur numina Phoebi,
 - [3] 68 Protinus infesti placantur numina Phoebi.
 - [4] 68 Protinus infesti placantur numina Phoebi.
+  - Phoebi (APOLLO): — placantur numina, Chryseide patri reddita
 - [6] 68 protinus infesti placantur numina Phoebi
+  - Phoebi (Phoebus): infesti . . . numina Phoebi 55. 68
 
 69 et prope consumptae uires redduntur Achiuis.
 - [2] 69 Et prope consumptae vires redduntur Achivis.
 - [3] —
 - [4] 69 below Et prope consumptae vires redduntur Achivis
+  - Achivis (GRAI): Achivis [vires redduntur]
 - [6] 69 et prope consumptae vires redduntur Achivis.
+  - Achivis (Achivi): -is 69. 387
 
 70 Non tamen Atridae Chryseidis excidit ardor:
 - [2] 70 Non tamen Atridae Chryseidis excidit ardor :
 - [3] 69 Non tamen Atridae Chryseidis excidit ardor:
 - [4] 70 Non tamen Atridae Chryseidis excidit ardor
+  - Atridae (AGAMEMNON): Atridae dativ. ardor Chryseidis non excidit
+  - Chryseidis (CHRYSEIS): Chryseidis ardor Agamemnoni non excidit
 - [6] 70 non tamen Atridae Chryseidos excidit ardor:
+  - Atridae (Atrides (Agamemno)): -dae dat.: (-di pars codd.) 70
+  - Chryseidos (Chryseis): -dos (-dis trad.) . . . ardor 70
 
 71 maeret et amissos deceptus luget amores.
 - [2] 71 Moeret , et amissos deceptus luget amores.
 - [3] 70 Maeret et amissos deceptus luget amores.
 - [4] 71 Maeret, et amissos deceptus luget amores.
 - [6] 71 maeret et amissos deceptus luget amores.
+  - amores (Chryseis): amissos . . . amores 71
 
 72 Mox rapta magnum Briseide priuat Achillem
 - [2] 72 Mox rapta magnum Briseide privat Achillem ,
 - [3] 71 Mox rapta magnum Briseide priuat Achillem
 - [4] 72 Mox rapta magnum Briseide privat Achillem
+  - Achillem (ACHILLES): — magnum idem privat Briseide
+  - Briseide (BRISEIS): Briseide Agamemno Achillem privat
 - [6] 72 mox rapta magnum Briseide privat Achillem
+  - Achillem (Achilles): magnum . . . -em 60. 72. 934
+  - Briseide (Briseis): -ide privat Achillem 72
 
 73 solaturque suos alienis ignibus ignes.
 - [2] 73 Solaturque suos alienis ignibus ignes.
@@ -509,13 +622,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 74 At ferus Aeacides nudato protinus ense
 - [3] 73 At ferus Aeacides nudato protinus ense
 - [4] 74 At ferus Aeacides nudato protinus ense
+  - Aeacides (ACHILLES): Aeacides ferus nudato ense in Agamemnonem tendit
 - [6] 74 at ferus Aeacides nudato protinus ense
+  - Aeacides (Aeacides (Achilles)): ferus -es 74. [844]
 
 75 tendit in Atriden et, ni sibi reddat honestae
 - [2] 75 Tendit in Atriden , cui , ni sibi reddat honestae
 - [3] 74 Tendit in Atriden et, ni sibi reddat honestae
 - [4] 75 Tendit in Atriden et, ni sibi reddat honestae
+  - Atriden (AGAMEMNON): In Atriden Achilles tendit
 - [6] 75 tendit in Atriden et, ni sibi reddat honestae
+  - Atriden (Atrides (Agamemno)): -dēn 75
 
 76 munera militiae, letum crudele minatur,
 - [2] 76 Munera militiae , letum crudele minatur.
@@ -523,6 +640,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 75 Munera militiae, letum crudele minatur;
 - [4] 76 Munera militiae, letum crudele minatur;
 - [6] 76 munera militiae, letum crudele minatur
+  - munera (Briseis): v. munera militiae 76
 
 77 nec minus ille parat contra defendere se ense.
 - [2] 77 Nec minus ille parat contra defendere sese,
@@ -535,7 +653,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Et nisi casta manu. Auctor Epitomes ordinem et narrationem rerum paullum mutat ab Homero observatam. Homerus Achillem narrat ensem voluisse stringere in Agamemnonem, et a Minerva cohibitum esse, antequam Briseis Achilli auferretur. Noster de ea contentione, quasi post ablatam Briseidem facta, loquitur.
 - [3] 77 Quod nisi casta manu Pallas tenuisset Achillem,
 - [4] 78 Quod nisi casta manu Pallas tenuisset Achillem.
+  - Achillem (ACHILLES): — manu Pallas tenet ne Agamemnonem gladio petat
+  - Pallas (MINERVA): Pallas nominativ. casta Achillem manu tenet ne in Agamemnonem gladio ille tendat
 - [6] 78 quod nisi casta manu Pallas tenuisset Achillem,
+  - Achillem (Achilles): -em 78
+  - Pallas (Pallas): casta . . . -as 78
 
 79 turpem caecus amor famam liquisset in aeuum
 - [2] 79 Turpem caecus amor famam liquisset in aevum
@@ -549,7 +671,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … h. e. Achilles contentus voce, conviciis et minis decertasse cum Agamemnone, non manibus et ferro (hoc enim ei praeceperat Minerva), ultionem injuriae sibi illatae petit a matre.
 - [3] 79 Gentibus Argolicis. contempta uoce minisque
 - [4] 80 Gentibus Argolicis. Contenta voce minisque
+  - Argolicis (ARGOLICUS): Argolicis gentibus
+  - Argolicis (GRAI): Argolicae gentes gentibus Argolicis Achillis amor famam turpem liquisset
 - [6] 80 gentibus Argolicis. contenta voce minisque
+  - Argolicis (Argolicus): gentibus -is 80
 
 80a
 - [2] —
@@ -561,7 +686,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 81 Invocat aequorese Pelides numina matris ,
 - [3] 81 Inuocat aequoreae Pelides numina matris,
 - [4] 81 Invocat aequoreae Pelides numina matris,
+  - Pelides (ACHILLES): Pelides matris numina invocat
 - [6] 81 invocat aequoreae Pelides numina matris,
+  - Pelides (Pelides): Pelides 81
+  - numina (Thetis): cf. aequoreae . . . numina matris 81
 
 82 ne se Plistheniden contra patiatur inultum.
 - [2] 82 Ne se plus contra Atridem patiatur inultum.
@@ -574,13 +702,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 83 At Thetis, audita nati prece, deserit undas,
 - [3] 83 At Thetis audita nati prece deserit undas
 - [4] 83 At Thetis audita nati prece deserit undas
+  - Thetis (THETIS): Achillis audit preces
 - [6] 83 at Thetis audita nati prece deserit undas
+  - nati (Achilles): nati 83. 88. 95
+  - Thetis (Thetis): Thetis 83. 860
 
 84 castraque Myrmidonum iuxta petit et monet armis
 - [2] 84 Castraque Myrmidonum praetervolat, inde per auras
 - [3] 84 Castraque Myrmidonum iuxta petit et monet, armis
 - [4] 84 Castraque Myrmidonum juxta petit et monet, armis
+  - Myrmidonum (MYRMIDONES): Myrmidonum castra Thetis petit
 - [6] 84 castraque Myrmidonum iuxta petit et monet, armis
+  - Myrmidonum (Myrmidones): -um 84
 
 85 abstineat dextram ac congressibus; inde per auras
 - [2] —
@@ -600,6 +733,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 87 Tunc genibus regis sparsis affusa capillis
 - [4] 87 Tunc genibus regis sparsis affusa capillis :
 - [6] 87 tunc genibus regis sparsis affusa capillis
+  - regis (Iuppiter): regis 87
 
 88 "Pro nato ueni genetrix en ad tua supplex
 - [2] 87 c( Pro nato veni genitrix en ad tua supplex
@@ -607,25 +741,33 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 88 « Pro nato venio genetrix, en, ad tua supplex
   - … cf. Aeneid. VIII, 382 et Metam. V, 514).
 - [6] 88 'pro nato veni genetrix en ad tua supplex
+  - nato (Achilles): nati 83. 88. 95
+  - genetrix (Thetis): genetrix 88
 
 89 numina, summe parens; ulciscere meque meumque
 - [2] 88 Numina , suiome parens : ulciscere meque meumque
 - [3] 89 Numina, summe parens! ulciscere meque meumque
 - [4] 89 Numina, summe parens! ulciscere meque meumque
 - [6] 89 numina, summe parens: ulciscere meque meumque
+  - parens (Iuppiter): summe parens 89
 
 90 corpus ab Atrida, quodsi permittitur illi
 - [2] 89 Corpus ab Atride : quod si permittitur illi ,
   - … Notante Barthio l. c. corpus suum Thetis dicit Achillem filium, atque hoc noviter dictum ab auctore, neque in aliis poetis facile reperiundum puto: nam viscera, sanguinem parentum liberos dici, vulgare est.
 - [3] 90 Pignus ab Atrida. quodsi permittitur illi,
 - [4] 90 Pignus ab Atrida; quodsi permittitur illi,
+  - Atrida (AGAMEMNON): Ab Atrida se filiumque suum Juppiter ulciscatur, precibus Thetis orat
 - [6] 90 pignus ab Atrida. quodsi permittitur illi,
+  - pignus (Achilles): meum . . . pignus 90
+  - Atrida (Atrides (Agamemno)): -dā abl.: 90
 
 91 ut flammas impune mei uiolarit Achillis,
 - [2] 90 Ut flammas impune mei violarit Achillis,
 - [3] 91 Ut flammas inpune mei uiolarit Achillis,
 - [4] 91 Ut flammas impune mei violarit Achillis,
+  - Achillis (ACHILLES): — ut amor ab Agamemnone non impune violatus sit, Thetis Jovem precatur
 - [6] 91 ut flammas inpune mei violarit Achillis,
+  - Achillis (Achilles): mei -is (loq. Thetis) 91
 
 92 turpiter occiderit superata libidine uirtus."
 - [2] 91 Turpiter occiderit superata libidine virtus».
@@ -639,20 +781,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 92 Jupiter huic contra : « Tristes depone querelas ,
 - [3] 93 Iuppiter huic contra 'tristis depone querellas,
 - [4] 93 Juppiter huic contra : « Tristes depone querellas,
+  - Juppiter (JUPPITER): Juppiter Thetidi respondet
 - [6] 93 Iuppiter haec contra 'tristes depone querelas,
+  - Iuppiter (Iuppiter): Iuppiter 93
 
 94 magni diua maris, mecum labor iste manebit.
 - [2] 93 Magni Diva maris , mecum labor iste manebit :
   - … h. e. hanc rem diligenter assidueque curabo. Homer. v. 523: ἐμοὶ δέ κε ταῦτα μελήσεται, ὄφρα τελέσσω. — Expressit Noster Virgilii Aeneid. IV, 115: « Mecum erit iste labor »; et videtur simul respexisse verba Jovis ad Venerem apud Virg. Aen. I, 256: « Parce metu, Cytherea: manent immota tuorum Fata tibi »; aut quod Aeolus ad Junonem, Aen. I, 76, « tuus, o regina, quid optes, Explorare labor, mihi jussa capessere fas est ». Contrarium verbis Nostri est illud Virgilii, Aen. II, 595: « quonam nostri tibi cura recessit ».
 - [3] 94 Magni diua maris, mecum labor iste manebit.
 - [4] 94 Magni diva maris, mecum labor iste manebit.
+  - diva (THETIS): Adde huc quod verbis « magni diva maris » Juppiter, Thetidem adloquens, utitur
 - [6] 94 magni diva maris, mecum labor iste manebit.
+  - diva (Thetis): magni diva maris 94
 
 95 Tu solare tui maerentia pectora nati."
 - [2] 94 Tu solare tui moerehtia pectora nati».
 - [3] 95 Tu solare tui maerentia pectora nati'.
 - [4] 95 Tu solare tui maerentia pectora nati »
 - [6] 95 tu solare tui maerentia pectora nati'.
+  - nati (Achilles): nati 83. 88. 95
 
 96 Dixit. At illa leues caeli delapsa per auras
 - [2] 95 Dixit ; at illa leves caeli delapsa per auras
@@ -666,19 +813,27 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 97 Litus adit patrium gratasque sororibus undas.
 - [4] 97 Litus adit patrium gratasque sororibus undas.
 - [6] 97 litus adit patrium gratasque sororibus undas.
+  - sororibus (Nereis): v. sororibus 97
 
 98 Offensa est Iuno: "Tantum"que ait, "optime coniunx,
 - [2] 97 Ofiensa est Juno, aTantumque, ait, optime conjux,
 - [3] 98 Offensa est Iuno 'tantum'que ait, 'optime coniunx,
 - [4] 98 Offensa est Juno : « Tantumque » ait « optime conjunx,
+  - Juno (JUNO): offensa
 - [6] 98 offensa est Iuno 'tantum'que ait, 'optime coniunx,
+  - Iuno (Iuno): Iuno 98. 894
+  - coniunx (Iuppiter): optime coniunx 98
 
 99 Doride nata ualet, tantum debetur Achilli,
 - [2] 98 Doride nata valet, tantum debetur Achilli,
   - … Propertius ab Ant. de Rooy citatur, lib. I, 18, 25: « At vos aequoreae formosa Doride natae, Candida felici solvite vela choro ». Doride natae sunt Oceanitides, ut vocantur Virgilio, Georg. IV, 341. Sic autem, inquit Barthius in Adv. p. 2753, inepte vocat per convicium Juno Thetidem, immemor, se quoque Oceani filiam esse, ex quo Iliade, lib. XXIII, scripsit Homerus: Ὠκεανόν τε θεῶν γένεσιν καὶ μητέρα Τηθύν.
 - [3] 99 Doride nata ualet, tantum debetur Achilli,
 - [4] 99 Doride nata valet, tantum debetur Achilli,
+  - Achilli (ACHILLES): Achilli tantum debetur (Juno adloq.)
+  - Doride (THETIS): Doride nata tantum valet (Juno Jovem adloq.)
 - [6] 99 Doride nata valet, tantum debetur Achilli,
+  - Achilli (Achilles): -i 99
+  - Doride (Doris): -de nata 99
 
 100 ut mihi quae coniunx dicor tua quaeque sororis
 - [2] 99 Ut mihi, quse conjux dicor tua , quaeque sororis
@@ -686,18 +841,23 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 100 Ut mihi, quae coniunx dicor tua quaeque sororis
 - [4] 100 Ut mihi, quae conjunx dicor tua quaeque sororis
 - [6] 100 ut mihi, quae coniunx dicor tua quaeque sororis
+  - coniunx (Iuno): cf. coniunx tua 100
 
 101 dulce fero nomen, dilectos fundere Achiuos
 - [2] 100 Dulce fero nomen, dilectos fundere Achivos,
 - [3] 101 Dulce fero nomen, dilectos fundere Achiuos
 - [4] 101 Dulce fero nomen, dilectos fundere Achivos
+  - Achivos (GRAI): Achivos dilectos (Juno irata Jovem incusat dictis)
 - [6] 101 dulce fero nomen, dilectos fundere Achivos
+  - Achivos (Achivi): -os 101
 
 102 et Troum renouare uelis in proelia uires?
 - [2] 101 Et Troum renovare velis in praelia vires?
 - [3] 102 Et Troum renouare uelis in praelia uires?
 - [4] 102 Et Troum renovare velis in proelia vires ?
+  - Troum (TROJANI): Troum vires velis renovare in proelia (Jovem Juno adloq.)
 - [6] 102 et Troum renovare velis in proelia vires?
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 103 Haec ita dona refers nobis? sic diligor a te?"
 - [2] 102 Haec ita dona refers nobis? sic diligor a te? »
@@ -711,32 +871,44 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Talibus incusat: e Virgilio, Aen. I, 410.
 - [3] 104 Talibus incusat dictis irata Tonantem
 - [4] 104 Talibus incusat dictis irata Tonantem
+  - Tonantem (JUPPITER): Tonantem verbis incusat Juno irata
 - [6] 104 talibus incusat dictis irata Tonantem
+  - Tonantem (Tonans): -tem 104
 
 105 inque uicem summi patitur conuicia regis.
 - [2] 104 Inque vicem summi patitur convicia regis.
 - [3] 105 Inque uicem summi patitur conuicia regis.
 - [4] 105 Inque vicem summi patitur convicia regis.
 - [6] 105 inque vicem summi patitur convicia regis.
+  - regis (Iuppiter): summi . . . regis 6. 105
 
 106 Tandem interposito lis Ignipotente resedit
 - [2] 105 Tandem interposito lis Ignipotente resedit,
   - … et Vulcanum intelligi. Hic enim intervenit Jovi et Junoni rixanti, et hortatu multisque poculis invitans parentes placavit, ad hilaritatemque convertit. Sic Hom. Iliad. I, 571: Τοῖσιν δ᾽ Ἥφαιστος κλυτοτέχνης ἦρχ᾽ ἀγορεύειν. Vulcanus autem a nostro auctore aliisque poetis vocatur Ignipotens. Infra, vs. 867: « Illic Ignipotens mundi caelaverat axem »; et Virgil. Aen. VIII, 414, « Haud secus Ignipotens, nec tempore segnior illo »: addendum illud Aen. X, 243: « clypeum cape quem dedit ipse Invictum Ignipotens, etc. » Ed.
 - [3] 106 Tandem interposito lis Ignipotente resedit,
 - [4] 106 Tandem interposito lis Ignipotente resedit,
+  - Ignipotente (VULCANUS): Ignipotente interposito, Junonis et Jovis certamen residit
 - [6] 106 tandem interposito lis Ignipotente resedit
+  - Ignipotente (Ignipotens): *-nte (omnipot- trad.) 106: Vulcanus
 
 107 conciliumque simul genitor dimittit Olympi.
 - [2] 106 Conciliumque simul genitor dimittir ab aula.
 - [3] 107 Conciliumque simul genitor dimittit ab aula;
 - [4] 107 Conciliumque simul genitor dimittit [Olympo];
+  - genitor (JUPPITER): Genitor concilium dimittit
+  - Olympo (OLYMPUS): [—]
 - [6] 107 conciliumque simul genitor dimittit Olympi
+  - genitor (Iuppiter): genitor . . . Olympi 107
+  - Olympi (Olympus): genitor . . . Olympi 107
 
 108 Interea sol emenso decedit Olympo
 - [2] 107 Interea sol immenso decedit Olympo,
 - [3] 108 Interea sol emenso decedit Olympo,
 - [4] 108 Interea sol emenso decedit Olympo.
+  - Olympo (OLYMPUS): Olympo emenso decedit sol
 - [6] 108 interea sol emenso decedit Olympo:
+  - Olympo (Olympus): sol emenso decedit -po 108
+  - sol (Sol): Sol . . . decedit Olympo 108
 
 109 et dapibus diui curant sua corpora largis;
 - [2] 108 Et dapibus largis curant sua corpora Divi ,
@@ -772,7 +944,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 112 Tunc pater omnipotens Somnum vocat,atque ita fatur :
 - [3] 113 Cum pater omnipotens somnum uocat atque ita fatur:
 - [4] 113 Cum pater omnipotens somnum vocat atque ita fatur :
+  - pater (JUPPITER): Pater nominativ. omnipotens Somnum vocat
 - [6] 113 cum pater omnipotens Somnum vocat atque ita fatur:
+  - pater (Iuppiter): pater omnipotens 113
+  - Somnum (Somnus): -um 113
 
 114 "Vade age per tenues auras, lenissime diuum,
 - [2] 113 « Vade, age, per tenues auras, lenissime Divum ,
@@ -780,12 +955,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 114 'Vade age per tenues auras, lenissime diuum,
 - [4] 114 « Vade age per tenues auras, lenissime divum,
 - [6] 114 'vade age per tenues auras, lenissime divum,
+  - divum (Somnus): cf. lenissime divum 114
 
 115 Argolicique ducis celeri pete castra uolatu
 - [2] 114 Argolicique ducis celeri pete castra volatu,
 - [3] 115 Argolicique ducis celeri pete castra uolatu;
 - [4] 115 Argolicique ducis celeri pete castra volatu;
+  - Argolici (AGAMEMNON): Argolicus dux « Argolici ducis castra pete volatu » (Somnum adloquitur Juppiter)
+  - Argolici (ARGOLICUS): Argolici ducis
 - [6] 115 Argolicique ducis celeri pete castra volatu
+  - Argolici (Argolicus): Argolici . . . ducis 115: Agamemnonis
 
 116 dumque tuo premitur sopitus pondere dulci,
 - [2] 115 Dumque tuo premitur sopitus pondere dulci,
@@ -804,7 +983,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 117 Extulerit Titana dies, noctemque fugarit,
 - [3] 118 Extulerit Titana dies noctemque fugarit,
 - [4] 118 Extulerit Titana dies noctemque fugarit,
+  - Titana (TITAN): Titana cum dies extulerit
 - [6] 118 extulerit Titana dies noctemque fugarit,
+  - Titana (Titan): cum crastina . . . extulerit -ana dies 118
 
 119 cogat in arma uiros incautumque occupet hostem."
 - [2] 118 Cogat in arma viros , incautumque occupet hostem ».
@@ -818,12 +999,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 120 Nec mora: somnus abit leuibusque per aera pennis
 - [4] 120 Nec mora : somnus abit levibusque per aera pennis
 - [6] 120 nec mora, Somnus abit levibusque per aera pennis
+  - Somnus (Somnus): Somnus 120
 
 121 deuolat in thalamos Agamemnonis: ille sopore
 - [2] 120 Devolat in thalamos Agamemnonis : ille sopore
 - [3] 121 Deuolat in thalamos Agamemnonis: ille sopore
 - [4] 121 Devolat in thalamos Agamemnonis : ille sopore
+  - Agamemnonis (AGAMEMNON): Agamemnonis in thalamos Somnus, a Jove missus, devolat
 - [6] 121 devolat in thalamos Agamemnonis: ille sopore
+  - Agamemnonis (Agamemnon): -onis 121. 795
 
 122 corpus inundatum leni prostratus habebat.
 - [2] 121 Corpus inundatum leni prostratus habebat.
@@ -838,12 +1022,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 123 Ad quem sic loquitur curarum operumque leuator:
 - [4] 123 Ad quem sic loquitur curarum operumque levator :
 - [6] 123 ad quem sic loquitur curarum operumque levator:
+  - levator (Somnus): curarum operumque levator 123
 
 124 "Rex Danaum, Atrida, uigila et mandata Tonantis
 - [2] 123 «RexDanaum, Atrida, vigila, et mandata Tonantis,
 - [3] 124 'Rex Danaum Atride, uigila et mandata Tonantis,
 - [4] 124 « Rex Danaum Atride, vigila et mandata Tonantis,
+  - Atride (AGAMEMNON): Atride rex Danaum (Somnus, a Jove missus, loquitur)
+  - Danaum (GRAI): — rex (Agamemno)
+  - Tonantis (JUPPITER): Tonans Tonantis mandata accipe (Somnus Agamemnonem adloquitur)
 - [6] 124 'rex Danaum Atrida, vigila et mandata Tonantis,
+  - rex (Agamemnon): et cf. rex Danaum 124. 496
+  - Atrida (Atrides (Agamemno)): voc.: rex Danaum -da (-de al.) 124
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
+  - Tonantis (Tonans): mandata Tonantis 124
 
 125 quae tibi iussa simul delatus ab aethere porto,
 - [2] 124 Quae tibi missa simul delapsus ab aethere porto ,
@@ -855,8 +1047,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 125 Accipe : quum primum Titan emerserit undis,
 - [3] 126 Accipe: cum primum Titan emerserit undis,
 - [4] 126 Accipe : cum primum Titan se emerserit undis,
+  - Titan (TITAN): cum undis se emerserit
 - [6] 126 accipe: cum primum Titan se emerserit undis,
   - se emerserit … cf. Manil. 5, 198. Avien. periheg. 126 …
+  - Titan (Titan): cum . . . Titan se emerserit undis 126
 
 127 fortibus arma iube socios aptare lacertis
 - [2] 126 Fortibus arma jube socios aptare lacertis,
@@ -871,8 +1065,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Et petere Iliacos. Repetit hunc versum auctor infra v. 159, quod saepius facit ille Homeri ipsius, quem contrahit, exemplo.
 - [3] 128 Et petere Iliacos instructo milite campos.'
 - [4] 128 Et petere Iliacos instructo milite campos. »
+  - Iliacos (ILIACUS): Iliacos campos petere instructo milite
 - [6] 128 et petere Iliacos instructo milite campos.'
   - (testimonia) cf. Gesta Ber. 3, 37
+  - Iliacos (Iliacus): -cos . . . campos 128. 160
 
 129 Dixit, et has repetit per quas modo uenerat auras.
 - [2] 128 Dixity et has repetit, per quas modo venerat, auras.
@@ -886,13 +1082,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 130 Interea lucem terris dedit ignea lampas.
 - [4] 130 Interea lucem terris dedit ignea lampas.
 - [6] 130 interea lucem terris dedit ignea lampas.
+  - lampas (Sol): v. ignea lampas 130
 
 131 Conuocat attonitus iussis Pelopeius heros
 - [2] 130 Convocat attonitus jussis Pelopeius heros
 - [3] 131 Conuocat adtonitus uisis Pelopeius heros
 - [4] 131 Convocat attonitus visis Pelopeius heros
+  - Pelopeius (AGAMEMNON): Pelopeius heros duces convocat
 - [6] 131 convocat attonitus iussis Pelopeius heros
   - iussis … cf. Verg. Aen. 3, 172
+  - Pelopeius (Pelopeius): Pelopeius heros 131. 739: Agamemno
 
 132 in coetum proceres remque omnibus ordine pandit:
 - [2] 131 In coetum proceres, remque omnibus ordine pandit
@@ -913,6 +1112,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 134 Hortanturque ducem ; quorum rex fortia dictis
 - [6] 134 hortanturque ducem; quorum rex fortia dictis
   - ducem Ω: Agamemnona etiam incitant
+  - rex (Agamemnon): rex 58. 134. 691
+  - ducem (Agamemnon): dux 134. 156. 739
 
 135 pectora collaudans grates agit omnibus aequas.
 - [2] 134 Pectora collaudat , grates agit omnibus sequas.
@@ -924,26 +1125,33 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 135 Hic tum Thersites, quo non deformior alter
 - [3] 136 Hic tum Thersites, quo non deformior alter
 - [4] 136 Hic tum Thersites, quo non deformior alter
+  - Thersites (THERSITES): quo non deformior alter linguave protervior, negat bella ultra gerenda esse
 - [6] 136 hic tunc Thersites, quo non deformior alter
+  - Thersites (Thersites): Thersites, quo non deformior alter venerat ad Troiam nec lingua protervior ulli 136
 
 137 uenerat ad Troiam nec lingua proteruior ulli,
 - [2] 136 Venerat ad Trojam , linguaque protervior alter,
 - [3] 137 Venerat ad Troiam linguaue proteruior, ultra
 - [4] 137 Venerat ad Trojam linguave protervior, ultra
+  - Trojam (TROJA): Trojam nemo venerat deformior quam Thersites
 - [6] 137 venerat ad Troiam nec lingua protervior ulli,
+  - Troiam (Troia): venerat ad -iam 137
 
 138 bella gerenda negat patriasque hortatur ad oras
 - [2] 137 Bella gerenda negat, patriasque hortatur ad oras
 - [3] 138 Bella gerenda negat patriasque hortatur ad oras
 - [4] 138 Bella gerenda negat patriasque hortatur ad oras
 - [6] 138 bella gerenda negat patrias hortatus ad oras
+  - oras (Graecia): v. patrias . . . ad oras 138
 
 139 uertere iter, quem consiliis illustris Vlixes
 - [2] 138 Vertere iter : quem consiliis illustris Ulysses
   - Consiliis illustris Ulysses. Laudat hoc Barthius l. c. p. 2754, et pulchre non unum Homeri epitheton exprimere ait, quale est πολύμητις et πολυμήχανος, δῖος.
 - [3] 139 Vertere iter; quem consiliis inlustris Ulixes
 - [4] 139 Vertere iter; quem consiliis illustris Ulixes
+  - Ulixes (ULIXES): — consiliis illustris Thersitem sceptro percutit
 - [6] 139 vertere iter; quem consiliis inlustris Vlixes
+  - Vlixes (Vlixes): consiliis illustris -es 139
 
 140 correptum dictis sceptro percussit eburno.
 - [2] 139 Correptum dictis sceptro percussit eburno.
@@ -976,7 +1184,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** suos signare, exemplo Homeri et aliorum: quale est alio loco Nestoris aetas, pro ipso Nestore, Menelai ardor, Ithaci solertia, et virtus Catonis apud Horatium.
 - [3] 144 Tandem sollertis prudentia Nestoris aeuo
 - [4] 144 Tandem sollerti prudentia Nestoris aevo
+  - Nestoris (NESTOR): Nestoris prudentia aevo sollerti turbam sedat
 - [6] 144 tandem sollertis prudentia Nestoris aevo
+  - Nestoris (Nestor): sollertis prudentia -oris aevo 144
 
 145 compressam miti sedauit pectore turbam
 - [2] 144 Compressam miti sedavit pectore turbam ,
@@ -996,7 +1206,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 146 Temporis illius, quo visus in Aulide serpens
 - [3] 147 Temporis illius, quo uisus in Aulide serpens
 - [4] 147 Temporis illius, quo visus in Aulide serpens
+  - Aulide (AULIS): in Aulide (serpens visus est)
 - [6] 147 temporis illius, quo visus in Aulide serpens
+  - Aulide (Aulis): visus in Aulide serpens 147
 
 148 consumpsit uolucrum bis quattuor arbore fetus
 - [2] 147 Consumpsit volucrum bis quatuor arbore fetus,
@@ -1022,7 +1234,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Iliad. II, 331, ubi Ulysses monet: Ἀλλ᾽ ἄγε, μίμνετε πάντες ἐϋκνήμιδες Ἀχαιοί. Scilicet apud Homerum Ulyssis oratio est, quam Noster Nestori tribuit.
 - [3] 151 Tum sic deinde: 'senex remoror, remoramini, Achiui:
 - [4] 151 Tum sic deinde senex : « Moneo, remanete, Pelasgi;
+  - — (GRAI): [vocativ. vulgo : Nestor loquitur]
+  - Pelasgi (GRAI): <vocativ. — remanete>
 - [6] 151 tunc 'sic deinde' senex 'moneo remoneboque, Achivi:
+  - Achivi (Achivi): voc.: 151
+  - senex (Nestor): cf. senex 151
 
 152 in decimo labor est, Calchas quem dixerat, anno,
 - [2] 151 In decimo labor est, quem Calchas dixerat, anno,
@@ -1030,20 +1246,28 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** decimo demum anno nobis praedictus et constitutus labor est, quo Ilion capiamus. Fere tamen malim legere In decimum annum usque labor, i. e. laborandum nobis est. Vult enim in eum annum retardatum iri bellum, donec Ilion capiatur. Sic loqui solet Virgilius, ut Aen. IX, 155, « decimum quos distulit Hector in annum »; et XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum ».
 - [3] 152 In decimo labor est, Calchas quem dixerat, anno,
 - [4] 152 In decimo labor est, Calchas quem dixerat, anno,
+  - Calchas (CALCHAS): — annum dixerat quo Troja caderet
 - [6] 152 in decimo labor est, Calchas quem dixerat, anno,
+  - Calchas (Calchas): Calchas vates: 52. 152
 
 153 quo caderet Danaum uictricibus Ilion armis."
 - [2] 152 Quo caderet Danaum victricibus Ilion armis».
 - [3] 153 Quo cadet ec Danaum uictricibus Ilion armis.'
 - [4] 153 Quo caderet Danaum victricibus Ilion armis. »
+  - Danaum (GRAI): — armis victricibus Troja caderet
+  - Ilion (TROJA): Ilion dies quo caderet
 - [6] 153 quo caderet Danaum victricibus Ilion armis
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
+  - Ilion (Ilion): Ilĭŏn 153. 1056
 
 154 Assensere omnes, laudatur Nestoris aetas
 - [2] 153 Adsensere omnes, laudatur Nestoris aetas:
   - Nestoris aetas, i. e. senilis prudentia, vel Nestor senex.
 - [3] 154 Assensere omnes, laudatur Nestoris aetas,
 - [4] 154 Assensere omnes, laudatur Nestoris aetas,
+  - Nestoris (NESTOR): — aetas laudatur
 - [6] 154 assensere omnes, laudatur Nestoris aetas
+  - Nestoris (Nestor): -oris aetas 154. 737
 
 155 conciliumque simul dimittitur. Arma parari
 - [2] 154 €k)nciliuinque simul dimittitur; arma parari
@@ -1057,6 +1281,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 156 Dux omnis iubet atque aptari corpora pugnae.
 - [4] 156 Dux jubet atque animos, aptari et corpora pugnae.
 - [6] 156 dux iubet atque animos aptare et corpora pugnae.
+  - dux (Agamemnon): dux 134. 156. 739
 
 157 Postera lux tacitas ut primum dispulit umbras
 - [2] 156 Postera lux tacitas ut primum depulit umbras ,
@@ -1068,27 +1293,35 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 157 Et nitidum Titan radiis caput extulit undis,
 - [3] 158 Et nitidum Titan radiis caput extulit undis,
 - [4] 158 Et nitidum Titan radiis caput extulit undis,
+  - Titan (TITAN): — radiis nitidum caput undis extulit
 - [6] 158 et nitidum Titan radiis caput extulit undis,
+  - Titan (Titan): nitidum -an radiis caput extulit undis 158
 
 159 protinus armari socios iubet acer Atrides
 - [2] 158 Protinus armari socios jubet acer Atrides,
 - [3] 159 Protinus armari socios iubet acer Atrides
 - [4] 159 Protinus armari socios jubet acer Atrides
+  - Atrides (AGAMEMNON): — acer socios armari jubet
 - [6] 159 protinus armari socios iubet acer Atrides
+  - Atrides (Atrides (Agamemno)): acer -es 159
 
 160 et petere Iliacos instructo milite campos.
 - [2] 159 Et petere Iliacos instructo milite campos.
   - … Repetitur versus 127. …
 - [3] 160 Et petere Iliacos instructo milite campos.
 - [4] 160 Et petere Iliacos instructo milite campos.
+  - Iliacos (ILIACUS): — id.
 - [6] 160 et petere Iliacos instructo milite campos.
+  - Iliacos (Iliacus): -cos . . . campos 128. 160
 
 161 Vos mihi nunc, Musae - quid enim non ordine nostis? -,
 - [2] 160 Vos mihi nunc, Musae, quid enim non ordine nostis?
   - Quid enim non ordine nostis? Similiter Maro, Aen. VII, 645, et IX, 529, « Et meministis enim, Divae, et memorare potestis ».
 - [3] 161 Vos mihi nunc, Musae (quid enim non ordine nostis?),
 - [4] 161 Vos mihi nunc, Musae (quid enim non ordine nostis ?),
+  - Musae (MUSAE): vocativ.
 - [6] 161 vos mihi nunc, Musae (quid enim non ordine nostis?),
+  - Musae (Musa): Musae voc. 161
 
 162 nomina clara ducum clarosque referte parentes
 - [2] 161 Nomina clara ducum clarosque referte parentes,
@@ -1106,13 +1339,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 163 Dicamus, quot quisque rates ad Pergama duxit,
 - [3] 164 Dicamus, quot quisque rates ad Pergama duxit,
 - [4] 164 Dicamus quot quisque rates ad Pergama duxit,
+  - Pergama (TROJA): Pergama ad — quot Graecorum dux quisque naves egit
 - [6] 164 dicamus, quot quisque rates ad Pergama duxit,
+  - Pergama (Pergama): ad Pergama 164
 
 165 et coeptum peragamus opus, sitque auctor Apollo
 - [2] 164 Et cceptum peragamus opus, sitque auctor Apollo,
 - [3] 165 Et coeptum peragamus opus, sitque auctor Apollo
 - [4] 165 Et coeptum peragamus opus, sitque auctor Apollo
+  - Apollo (APOLLO): sit auctor poetae nostro
 - [6] 165 et coeptum peragamus opus, sitque auctor Apollo
+  - Apollo (Apollo): Apollo 165
 
 166 aspiretque libens operi per singula nostro.
 - [2] 165 Adspiretque libens operi per singula nostro.
@@ -1127,13 +1364,23 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 167 Peneleus princeps et bello Leitus acer
 - [4] 167 Peneleus princeps et bello Leitus acer
   - Leitus … (cf. Iliad. II, 494).
+  - Leitus (LEITUS): acer bello, inter Graecorum duces
+  - Peneleus (PENELEUS): cum ceteris Graecorum ducibus Trojam petit
 - [6] 167 Peneleus princeps et bello Leïtus acer
+  - Leïtus (Leitus): bello *Leitus (lertius trad.) acer 167: Alectryonis f., dux Boeotorum
+  - Peneleus (Peneleos): Peneleos (-leus trad.) princeps 167
 
 168 Arcesilaus atrox Prothoenorque Cloniusque
 - [2] 167 Arcesilaus atrox, Prothoenorque, Cloniusque
 - [3] 168 Arcesilaus atrox Prothoenorque Cloniusque
 - [4] 168 Arcesilaus atrox Prothoenorque Cloniusque
+  - Arcesilaus (ARCESILAUS): atrox ad Trojam venit
+  - Clonius (CLONIUS): Boeotus cum Prothoenore Trojam petit
+  - Prothoenor (PROTHOENOR): Boeotus inter duces Graecorum
 - [6] 168 Arcesilaus atrox Prothoënorque Cloniusque
+  - Arcesilaus (Arcesilaus): Arcesilaus atrox 168: Boeotus
+  - Clonius (Clonius): Prothoenorque Cloniusque Boeoti 168
+  - Prothoënor (Prothoenor): *Prothoënor Boeotus: 168
 
 169 Boeoti decies quinas egere carinas
 - [2] 168 Boeotas decies quinas duxere carinas,
@@ -1141,7 +1388,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 169 Boeoti decies quinas egere carinas
 - [4] 169 Boeoti decies quinas egere carinas
   - Boeoti (ibid., 495 et 509). …
+  - Boeoti (BOEOTUS): — Boeoti (Prothoenor et Clonius)
 - [6] 169 Boeoti decies quinas egere carinas
+  - Boeoti (Boeotus): plur. Boeoti (-tes trad.) 169
 
 170 et tumidos ualido pulsarunt remige fluctus.
 - [2] 169 Et tumidos valido pulsarunt remige fluctus.
@@ -1153,13 +1402,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 170 Inde Mycenaels Agamemnon finibus ortus,
 - [3] 171 Inde Mycenaeis Agamemnon moenibus ortus,
 - [4] 171 Inde Mycenaeis Agamemnon moenibus ortus,
+  - Agamemnon (AGAMEMNON): centum naves ducit
+  - Mycenaeis (MYCENAEUS): Mycenaeis moenibus Agamemnon ortus
 - [6] 171 inde Mycenaeis Agamemnon moenibus ortus,
+  - Agamemnon (Agamemnon): Mycenaeis -on moenibus ortus 171
+  - Mycenaeis (Mycenaeus): Mycenaeis . . . moenibus 171
 
 172 quem sibi bellatrix delegit Graecia regem,
 - [2] 171 Quem sibi delegit bellatrix Graecia regem,
 - [3] 172 Quem sibi delegit bellatrix Graecia regem,
 - [4] 172 Quem sibi delegit bellatrix Graecia regem,
+  - Graecia (GRAECIA): bellatrix regem sibi Agamemnonem delegerat
 - [6] 172 quem sibi bellatrix delegit Graecia regem,
+  - Graecia (Graecia): bellatrix . . . Graecia 172
 
 173 centum egit plenas armato milite puppes;
 - [2] 172 Centum egit plenas armato milite puppes :
@@ -1172,19 +1427,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Menelai ardor, id est, ardens Menelaus.
 - [3] 174 Et bis tricenis Menelai nauibus ardor
 - [4] 174 Et bis tricenis Menelai navibus ardor
+  - Menelai (MENELAUS): Menelai ardor sexaginta navibus Trojam petiit
 - [6] 174 et bis tricenis Menelai navibus ardor
+  - Menelai (Menelaus): -lai . . . ardor 174
 
 175 insequitur totidemque ferox Agapenoris ira;
 - [2] 174 Insequitur, totidemque ferox Agapenoris ira.
 - [3] 175 Insequitur totidemque ferox Agapenoris ira.
 - [4] 175 Insequitur totidemque ferox Agapenoris ira.
+  - Agapenoris (AGAPENOR): Agapenoris ferox ira
 - [6] 175 insequitur totidemque ferox Agapenoris ira.
+  - Agapenoris (Agapenor): ferox Agapenoris ira 175: Arcas Ancaei f.
 
 176 quos iuxta fidus sollerti pectore Nestor
 - [2] 175 Quos juxta fidus solerti pectore Nestor,
 - [3] 176 Quos iuxta fidus sollerti pectore Nestor
 - [4] 176 Quos juxta fidus sollerti pectore Nestor
+  - Nestor (NESTOR): fidus sollerti pectore, consilioque potens naves cum filiis in Trojam ducit nonaginta
 - [6] 176 quos iuxta fidus sollerti pectore Nestor
+  - Nestor (Nestor): fidus sollerti pectore Nestor consilioque potens 176
 
 177 consilioque potens gemina cum prole suorum
 - [2] 176 Consilioque potens, gemina cum prole suorum
@@ -1192,6 +1453,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 177 Consilioque potens gemina cum prole suorum
 - [4] 177 Consilioque potens gemina cum prole suorum
 - [6] 177 consilioque potens gemina cum prole suorum
+  - prole (Antilochus): et 177 gemina cum prole
+  - prole (Thrasymedes): (Thrasymedes, Nestoris f.). v. 177: gemina cum prole
 
 178 it ter tricenis munitus in arma carinis.
 - [2] 177 It ter tricenis munitus in arma carinis.
@@ -1205,13 +1468,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Legendum ex Homero, II, 517, At Schedius virtute potens et Epistrophus.
 - [3] 179 At Schedius uirtute potens et Epistrophus ingens
 - [4] 179 At Schedius virtute potens et Epistrophus ingens
+  - Epistrophus (EPISTROPHUS Iphiti filius): — ingens, gloria Myrmidonum, saevi robur belli
+  - Schedius (SCHEDIUS): virtute potens, saevi robur belli, inter Graecorum duces
 - [6] 179 at Schedius virtute potens et Epistrophus ingens,
+  - Epistrophus (Epistrophus 1): Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo robora belli 179
+  - Schedius (Schedius): Schedius virtute potens et Epistrophus ingens, gloria Myrmidonum 179
 
 180 gloria Myrmidonum, saeui duo robora belli,
 - [2] 179 Gloria Myrmidonum, saevi duo robora belli,
 - [3] 180 Gloria Myrmidonum, saeui duo robora belli,
 - [4] 180 Gloria Myrmidonum, saevi duo robora belli,
+  - Myrmidonum (MYRMIDONES): — gloria Epistrophus
 - [6] 180 gloria Myrmidonum, saevi duo robora belli,
+  - Myrmidonum (Myrmidones): Epistrophus . . . gloria -um 180
 
 181 longa quaterdenis pulsarunt aequora proris
 - [2] 180 Longa quater denis pulsarunt aequora proris.
@@ -1226,7 +1495,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** legendum esse patet ex Homeri Iliad. II, 740 et 745. …
 - [3] 182 Et bis uicenas Polypoetes atque Leonteus
 - [4] 182 Et bis vicenas Polypoetes atque Leonteus
+  - Leonteus (LEONTEUS): et Polypoetes naves in Trojano ducunt quadraginta
+  - Polypoetes (POLYPOETES): et Leonteus in Trojam viginti naves instruxerunt
 - [6] 182 et bis vicenas Polypoetes atque Leonteus
+  - Leonteus (Leonteus): Leonteus 182: Coroni f.
+  - Polypoetes (Polypoetes): *Polypoetes 182. 1012: Hippodamiae f.
 
 183 instruxere rates ornatas milite forti.
 - [2] 182 Instruxere rates omatas milite forti.
@@ -1240,13 +1513,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 184 Euryalus Sthenelusque . . . . et fortis in armis
 - [4] 184 Euryalus Sthenelusque duces et fortis in armis
   - Euryalus … — duces Kooten jure retinuit: cf. enim Iliad. II, 563 sqq. ἡγεμόνευε, et quem optime laudat Weytingh, Aeneid. II versum 261 « Thessandrus Sthenelusque duces » …
+  - Tydides (DIOMEDES): Tydides fortis in armis
+  - Euryalus (EURYALUS): Mecistei filius, dux sub Diomede
+  - Sthenelus (STHENELUS): inter Graecorum duces
 - [6] 184 Euryalus Sthenelique decus et fortis in armis
+  - Euryalus (Euryalus): Euryalus 184: Mecistei f., Diomedis sodalis
+  - Stheneli (Sthenelus): Stheneli (-us trad.) . . . decus 184: Capanei f.
 
 185 Tydides ualido pulsarunt remige pontum:
 - [2] 184 Tydides, valido pulsarunt remige pontum,
 - [3] 185 Tydides ualido pulsantes remige fluctus
 - [4] 185 Tydides valido pulsarunt remige fluctus
 - [6] 185 Tydides valido pulsarunt remige pontum:
+  - Tydides (Tydides): fortis in armis -des 185
 
 186 bis quadragenas onerarunt milite puppes;
 - [2] 185 Bisque quadragenas onerarunt milite puppes:
@@ -1260,7 +1539,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … ex Homero, Iliad. II, 512, qui hunc Ascalapho apponit. …
 - [3] 187 Ascalaphusque potens et Ialmenus, acer uterque,
 - [4] 187 Ascalaphusque potens et Ialmenus, acer uterque,
+  - Ascalaphus (ASCALAPHUS): potens Ialmenusque, uterque acer, triginta naves agunt
+  - Ialmenus (IALMENUS): et Ascalaphus, uterque acer, triginta naves in Trojam agunt
 - [6] 187 Ascalaphusque potens et Ialmenus, acer uterque,
+  - Ascalaphus (Ascalaphus): Ascalaphus . . . potens 187: Martis f., dux Minyum
+  - Ialmenus (Ialmenus): Ascalaphus . . . et *Ialmenus, acer uterque 187: Martis f., Boeotorum dux
 
 188 ter denas ualido complerunt remige naues
 - [2] 187 Ter denas valido complerunt milite naves.
@@ -1272,7 +1555,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 188 At bis vicenas equitum fortissimus Ajax
 - [3] 189 Et bis uicenas Locrum fortissimus Aiax
 - [4] 189 Et bis vicenas Locrum fortissimus Ajax
+  - Ajax (AJAX Oilei filius): — Locrum fortissimus quadraginta naves in Trojam instruxit
+  - Locrum (LOCRI): Locrum fortissimus Ajax
 - [6] 189 et bis vicenas Locrum fortissimus Aiax
+  - Aiax (Aiax (Locrus)): Locrum fortissimus Aiax 189
+  - Locrum (Locrus): Locrum fortissimus Aiax 189
 
 190 instruxit puppes totidemque Euhaemone natus,
 - [2] 189 Instruxit puppes , totidemque Evaemone natus ;
@@ -1280,27 +1567,39 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 190 Instruxit puppes totidemque Euhaemone natus.
 - [4] 190 Instruxit puppes totidemque Euhaemone natus.
   - Euaemone … (cf. Iliad. II, 736).
+  - Euhaemone (EUHAEMO): Euhaemone
+  - Euhaemone (EURYPYLUS): Euhaemone natus quadraginta naves instruxit
 - [6] 190 instruxit puppes totidemque Euhaemone natus.
+  - Euhaemone (Euhaemon): Euhaemone natus 190: Eurypylus
 
 191 quos iuxta Graium murus comitatur Achilles
 - [2] 190 Quos juxta Graium ductor comitatur Achilles ,
   - Graium ductor praecipuum bello, supremum fortitudine explicat Barthius, Advers. p. 2754. …
 - [3] 191 Quos iuxta Graium murus comitatur Achilles,
 - [4] 191 Quos juxta Danaum murus comitatur Achilles,
+  - Achilles (ACHILLES): — Danaum murus cum ceteris Graecorum ducibus Trojam petiit
+  - Danaum (GRAI): — murus, Achilles
 - [6] 191 quos iuxta Graium durus comitator Achilles
+  - Achilles (Achilles): Graium durus comitator -es 191
 
 192 cum quinquaginta materna per aequora uectus.
 - [2] 191 Cum quinquaginta materna per aequora vectus.
 - [3] 192 Cum quinquaginta materna per aequora uectus.
 - [4] 192 Cum quinquaginta materna per aequora vectus.
 - [6] 192 cum quinquaginta materna per aequora vectus
+  - materna (Thetis): materna per aequora 192
 
 193 Thessalici iuuenes Phidippus et Antiphus ibant
 - [2] 192 Thessalici juvenes Phidippus et Antiphus ibant,
   - Phidippus et Antiphus scripsi ex Homeri Iliad. II, 678, …
 - [3] 193 Thessalici iuuenes Phidippus et Antiphus ibant
 - [4] 193 Thessalici juvenes Phidippus et Antiphus ibant
+  - Antiphus (ANTIPHUS [Thessalicus] Thessali filius): — cum Phidippo triginta ducit naves
+  - Phidippus (PHIDIPPUS): et Antiphus, Thessalici juvenes, naves in Trojam ducunt triginta
 - [6] 193 Thessalici iuvenes Phidippus et Antiphus ibant
+  - Antiphus (Antiphus 1): Thessalici iuvenes, Phidippus et Antiphus 193: Thessali f.
+  - Phidippus (Phidippus): Thessalici iuvenes *Phidippus (ped- trad.) et Antiphus 193
+  - Thessalici (Thessalicus): Thessalici iuvenes, Phidippus et Antiphus 193
 
 194 altaque ter denis pulsarunt aequora proris
 - [2] 193 Altaque ter denis sulcarunt aequora proris:
@@ -1314,7 +1613,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 195 Et tribus assumptis ratibus secat aequora Nireus,
 - [4] 195 Et tribus ab Sume ratibus secat aequora Nireus,
   - … Nireus Bondam, Higt (Iliad. II, 671 sqq.)
+  - Nireus (NIREUS): cum tribus navibus Trojam petit
+  - Sume (SUME): ab Sume
 - [6] 195 et tribus † assumptis ratibus secat aequora Nireus,
+  - Nireus (Nireus): *Nireus (teucer trad.) 195: Aglaiae et Charopi f.
+  - — (Syme): ab Syme (Σύμηθεν) 195 (assumptis trad.) ?
+  - Nireus (Teucer): [195 trad.]
 
 196 Tlepolemusque nouem Rhodius, quos uiribus acer
 - [2] 195 Tlepolemusque novem Rhodius, quos viribus acer
@@ -1322,7 +1626,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 196 Tlepolemusque nouem Rhodius, quos uiribus acer
 - [4] 196 Tlepolemusque novem Rhodius, quos viribus acer
   - Tlepolemus … (cf. Iliad. II, 653).
+  - Eumelus (EUMELUS): viribus acer navem minus unam quam Telamonius ducit
+  - Tlepolemus (TLEPOLEMUS): Rhodius naves in Trojam ducit novem
 - [6] 196 Tlepolomusque novem Rhodius, quos viribus acer
+  - Rhodius (Rhodius): Tlepolemus . . . Rhodius 196
+  - Tlepolomus (Tlepolomus): *Tlepolomus . . . Rhodius 196
 
 197 Eumelus sequitur, minus una naue profectus
 - [2] 196 Eumelus sequitur, minus una nave profectus.
@@ -1332,12 +1640,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 197 Eumelus sequitur, minus una nave profectus
 - [6] 197 Eumelus sequitur, minus una nave profectus
   - … minus una scil. undecim …
+  - Eumelus (Eumelus): viribus acer *Eumelus 197: Admeti f.
 
 198 quam duxit Telamone satus Salaminius Aiax.
 - [2] [197] [Quam duxit Telamone satus Salaminius Ajax.]
 - [3] 198 Quam duxit Telamone satus Salaminius Aiax.
 - [4] 198 Quam duxit Telamone satus Salaminius Ajax.
+  - Ajax (AJAX Telamonis filius): — Telamone satus Salaminius navem unam plus quam Eumelus ducit
 - [6] 198 quam duxit Telamone satus Salaminius Aiax.
+  - Aiax (Aiax (Telamonius)): Telamone satus Salaminius Aiax 198
+  - Salaminius (Salaminius): Telamone satus Salaminius Aiax 198
+  - Telamone (Telamon): Telamone satus . . . Aiax 198
 
 199 Ast Prothous Magnes Tenthredone natus et una
 - [2] 198 At Prothous Magnes , Tenthredone natus , et una
@@ -1345,27 +1658,44 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 199 At Prothous Magnes Tenthredone natus et una
 - [4] 199 At Prothous Magnes Tenthredone natus et una
   - At Prothous … (ibid. 756). … Magnes … (ibid.). …
+  - Prothous (PROTHOUS): Magnes Tenthredone natus inter Graecorum duces
 - [6] 199 ast Prothous Magnes Tenthredone natus et una
+  - Magnes (Magnes): Prothous *Magnes 199
+  - Prothous (Prothous): *Prothous Magnes Tenthredone natus 199
+  - Tenthredone (Tenthredon): Prothous Magnes *Tenthredone natus 199
 
 200 Euboeae magnis Elephenor finibus ortus
 - [2] 199 Eubceae magnis Elephenor finibus ortus,
   - … Ovidio, Trist. III, memoratur idem fortasse Elpenor, unus ex Ulyssis comitibus, qui, quum in porcum a Circe mutatus esset, dein humanae formae restitutus ad Ulyssem incauto fugiendi studio properaret, ex edito loco decidens periit. Ed.
 - [3] 200 Euboeae magnis Elephenor finibus ortus
 - [4] 200 Euboeae longis Elephenor finibus ortus
+  - Elephenor (ELEPHENOR): Euboeae < longis > finibus ortus
+  - Euboeae (EUBOEA): Euboeae
 - [6] 200 Euboeae a † magnis Elephenor finibus ortus
+  - Elephenor (Elephenor): Euboeae . . . *Elephenor finibus ortus 200
+  - Euboeae (Euboea): Euboeae . . . finibus 200
 
 201 Dulichiusque Meges, animisque insignis et armis,
 - [2] 200 Dulichiusque Meges, auimisque insignis et armis
 - [3] 201 Dulichiusque Meges, animisque insignis et armis,
 - [4] 201 Dulichiusque Meges, animisque insignis et armis,
+  - Meges (MEGES): Dulichius inter Graecorum duces
+  - Thoas (THOAS): animis et armis insignis, de gente Aetola Andraemone natus inter Graecorum duces
 - [6] 201 Dulichiusque Meges, animisque insignis et armis,
+  - Dulichius (Dulichius): Dulichius . . . Meges 201
+  - Meges (Meges): Dulichius . . . Meges 201
 
 202 Aetola de gente Thoas Andraemone natus,
 - [2] 201 Aetola de gente Thoas Andraemone natus,
   - … ex Homeri II, 638: …
 - [3] 202 Aetola de gente Thoas Andraemone natus,
 - [4] 202 Aetola de gente Thoas Andraemone natus,
+  - Aetola (AETOLUS): de gente Aetola
+  - Andraemone (ANDRAEMO): Andraemone natus Thoas
 - [6] 202 Aetola de gente Thoas Andraemone natus,
+  - Aetola (Aetolus): Aetola de gente Thoas 202
+  - Andraemone (Andraemon): Thoas Andraemone natus 202. 583
+  - Thoas (Thoas): Aetola de gente Thoas Andraemone natus 202
 
 203 hi quadragenas omnes duxere carinas;
 - [2] 202 Hi quadragenas omnes duxere carinas :
@@ -1377,13 +1707,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 203 Et bis sex Ithaci naves solertia duxit,
 - [3] 204 Et bis sex Ithaci naues sollertia duxit;
 - [4] 204 Et bis sex Ithaci naves sollertia duxit;
+  - Ithaci (ULIXES): Ithacus Ithaci sollertia naves duodecim in Trojam ducit
 - [6] 204 et bis sex Ithaci naves sollertia duxit;
+  - Ithaci (Ithacus): Ithaci . . . sollertia 204: Vlixes
 
 205 quem sequitur totidem ratibus Telamonius Aiax,
 - [2] 204 Quam sequitur totidem ratibus Telamonius Ajax ,
 - [3] 205 Quem sequitur totidem ratibus Telamonius Aiax,
 - [4] 205 Quem sequitur totidem ratibus Telamonius Ajax,
+  - Ajax (AJAX Telamonis filius): — Telamonius egregia virtute potens duodecim navibus Trojam petit
 - [6] 205 quem sequitur totidem ratibus Telamonius Aiax,
+  - Aiax (Aiax (Telamonius)): Telamonius -ax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 206 egregia uirtute potens; simul horrida Guneus
 - [2] 205 Egregia virtute poLens : simul ordine Guneus
@@ -1391,7 +1726,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 206 Egregia uirtute potens; simul horrida Guneus
 - [4] 206 Egregia virtute potens; simul horrida Gunei
   - **206-207** Gunei Ira … Iliad. II, 748).
+  - Gunei (GUNEUS): Gunei horrida ira duas et viginti naves ducit
 - [6] 206 egregia virtute potens; simul horrida Guneus
+  - Guneus (Guneus): *Guneus 206: Acarnanum dux
 
 207 ire bis undenis temptabat in arma carinis.
 - [2] 206 Ire bis undenis tentabat in arma carinis.
@@ -1403,7 +1740,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 207 Idomeneus et Meriones, Cretaeus uterque
 - [3] 208 Idomeneus et Meriones, Cretaeus uterque,
 - [4] 208 Idomeneus et Meriones, Cretaeus uterque,
+  - Cretaeus (CRETAEUS): uterque (Idomeneus et Meriones)
+  - Idomeneus (IDOMENEUS): Cretaeus cum Merione naves octoginta in Trojam ducit
+  - Meriones (MERIONES): et Idomeneus, uterque Cretaeus, naves octoginta ducunt
 - [6] 208 Idomeneus et Meriones, Cretaeus uterque,
+  - Cretaeus (Cretaeus): Idomeneus et Meriones, Cretaeus uterque 208
+  - Idomeneus (Idomeneus): Idomeneus et Meriones, Cretaeus uterque 208
+  - Meriones (Meriones): Idomeneus et Meriones, Cretaeus uterque 208
 
 209 bis quadragenis muniti nauibus ibant;
 - [2] 208 Bis quadragenis muniti navibus ibant;
@@ -1417,14 +1760,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 210 Et totidem puppes clara de gente Menestheus
 - [4] 210 Et totidem puppes clara de gente Menestheus
   - Menestheus … (ibid. 552).
+  - Menestheus (MENESTHEUS): clara de gente, Athenaeus, naves quinquaginta ducit
 - [6] 210 et totidem puppes clara de gente Menestheus
+  - Menestheus (Menestheus): *Menestheus . . . Athenaeus 210
 
 211 duxit Athenaeus, quot uiribus ambit Achilles;
 - [2] 210 Duxit Athenaeus, quot viribus ambit Achilles:
   - Athenaeus, quia dux Atheniensium. … Vult enim, Menestheum tot naves habuisse, quot Achilles ducebat, nempe quinquaginta; vid. vers. 191. …
 - [3] 211 Duxit Athenaeus, quot uiribus addit Achilles.
 - [4] 211 Duxit Athenaeus, quot viribus addit Achilles.
+  - Achilles (ACHILLES): — quinquaginta naves ducebat
 - [6] 211 duxit Athenaeus, quot viribus ambit Achilles.
+  - Achilles (Achilles): -es 211. 988. 997. 1014. 1043
+  - Athenaeus (Athenaeus): Menestheus . . . Athenaeus 211
 
 212 Amphimachusque ferox et Thalpius, Elide nati,
 - [2] 211 Amphimachusque ferox etThalpius, Elide nati,
@@ -1432,14 +1780,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 212 Amphimachusque ferox et Thalpius, Elide nati,
 - [4] 212 Amphimachusque ferox et Thalpius, Elide nati,
   - Thalpius … (ibid. 620).
+  - Amphimachus (AMPHIMACHUS princeps Epeorum): — ferox, Elide natus
+  - Elide (ELIS): Elide nati Amphimachus et Thalpius
+  - Thalpius (THALPIUS): Elide natus inter Graecorum duces
 - [6] 212 Amphimachusque ferox et Thalpius, Elide nati,
+  - Amphimachus (Amphimachus 1): Amphimachus . . . ferox et Thalpius, Elide nati 212: duces Epeorum
+  - Elide (Elis): Amphimachus . . . et Thalpius, Elide nati 212
+  - Thalpius (Thalpius): Amphimachus . . . et *Thalpius (alpinus trad.), Elide nati 212
 
 213 et clara uirtute Polyxenus atque Diores,
 - [2] 212 Et clari virtute Polyxenus atque Diores,
   - … Hos cum Amphimacho et Thalpio ex Elide conjungit Homerus, sicut et Dictys, I, 17.
 - [3] 213 Et clara uirtute Polyxenus atque Diores.
 - [4] 213 Et clara virtute Polyxenus atque Diores.
+  - Diores (DIORES): cum ceteris Graecorum principibus
+  - Polyxenus (POLYXENUS): clara virtute inter Graecorum duces
 - [6] 213 et clara virtute Polyxenus atque Diores,
+  - Diores (Diores): Diores 213: Epeorum dux
+  - Polyxenus (Polyxenus): clara virtute Polyxenus 213: Eliensis, Agasthenis f.
 
 214 hi bis uicenas onerarunt milite puppes.
 - [2] 213 Hi bis vicenas onerarunt milite naves :
@@ -1452,27 +1810,40 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Podarces et Protesilaus ex Phylaca, et aliis, quibus praeerant, locis naves XL adduxerunt. Homerus, II, 704, et Dictys l. c. …
 - [3] 215 Protesilaus agit totidem fortisque Podarces
 - [4] 215 Protesilaus agit totidem fortisque Podarces
+  - Podarces (PODARCES): fortis inter Graecorum duces
+  - Protesilaus (PROTESILAUS): in Trojam naves agit quadraginta
 - [6] 215 Protesilaus agit totidem fortisque Podarces
+  - Podarces (Podarces): fortis . . . Podarces 215: Protesilai frater, Iphicli f.
+  - Protesilaus (Protesilaus): Protesilaus 215
 
 216 instructas puppes, quot duxit Oileos Aiax;
 - [2] [215] [Instructas puppes, quas duxit Oileus Ajax].
 - [3] 216 Iustructas puppes, quot duxit Oileos Aiax.
 - [4] 216 Instructas puppes, quot duxit Oileos Ajax.
+  - Ajax (AJAX Oilei filius): — Oileos totidem quot ille naves Protesilaus et Podarces instruxerunt
 - [6] 216 instructas puppes, quot duxit Oileos Aiax.
+  - Aiax (Aiax (Locrus)): Oileos (-us trad.) -ax 216
+  - Oileos (Oileus): Oileos (-us trad.) Aiax 216
 
 217 et septem Poeante satus tulit arma carinis,
 - [2] 216 At septem Poeante satus tulit arma cariBis,
   - … i. e. Philoctetes, quem Homerus, II, 719, septem navibus praefuisse scribit. …
 - [3] 217 Et septem Poeante satus dat in arma carinas.
 - [4] 217 Et septem Poeante satus dat in arma carinas.
+  - Poeante (POEAS): Poeante satus (Philoctetes)
 - [6] 217 et septem Poeante satus tulit arma carinis.
+  - Poeante (Poeas): *Poeante (phetonte trad.) satus 217: Philoctetes
 
 218 quem sequitur iuxta Podalirius atque Machaon,
 - [2] 217 Quem sequitur juxta Podalirius atque Machaon,
   - … Medici ambo erant, ambo Esculapio nati. Et Machaon memoratur Virg. Aen. II, 263. Ed.
 - [3] 218 Quem sequitur iuxta Podalirius atque Machaon,
 - [4] 218 Quem sequitur juxta Podalirius atque Machaon,
+  - Machaon (MACHAON): inter Graecorum duces
+  - Podalirius (PODALIRIUS): inter Graecorum duces
 - [6] 218 quem sequitur iuxta Podalirius atque Machaon,
+  - Machaon (Machaon): Machaon 218: Aesculapii f.
+  - Podalirius (Podalirius): Podalirius *218
 
 219 altaque ter denis sulcarunt aequora proris.
 - [2] 218 Altaque ter denis sulcarunt aequora proris.
@@ -1485,7 +1856,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 219 His ducibus Graiae Trojana ad litora puppes
 - [3] 220 His ducibus Graiae Troiana ad litora puppes
 - [4] 220 His ducibus Grajae Trojana ad litora puppes
+  - Grajae (GRAJUS): Grajae puppes
+  - Trojana (TROJANUS): ad Trojana litora
 - [6] 220 his ducibus Graiae Troiana ad litora puppes
+  - Graiae (Graius): -ae . . . puppes 220
+  - Troiana (Troianus): -na ad litora 220
 
 221 bis septem uenere minus quam mille ducentae.
 - [2] 220 Bis septem venere minus, quam mille ducentae.
@@ -1500,31 +1875,46 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 222 below Jamque citam appulerant classem camposque tenebant
 - [6] 222 iamque citae appulerant classes camposque tenebant,
   - … auctor licentia poetica abutitur
+  - campos (Troia): cf. et campos 222
 
 223 cum pater ad Priamum mittit Saturnius Irim,
 - [2] 222 Tunc pater ad Priamum misit Saturnius Irim,
 - [3] 223 Cum pater ad Priamum mittit Saturnius Irim,
 - [4] 223 Tum pater ad Priamum mittit Saturnius Irim
+  - Irim (IRIS): Irin ad Priamum mittit Juppiter
+  - pater (JUPPITER): — Saturnius Irim ad Priamum mittit
+  - Priamum (PRIAMUS): Ad Priamum Juppiter Irin mittit
 - [6] 223 cum pater ad Priamum mittit Saturnius Irin,
+  - Irin (Iris): Irin 223
+  - pater (Iuppiter): pater . . . Saturnius 223
+  - Priamum (Priamus): ad -mum 223
+  - Saturnius (Saturnius): pater . . . Saturnius 223: Iuppiter
 
 224 quae doceat fortes uenisse ad bella Pelasgos.
 - [2] 223 Quae doceat, fortes venisse ad bella Pelasgos.
 - [3] 224 Quae doceat fortes uenisse ad bella Pelasgos.
 - [4] 224 Quae doceat fortes venisse ad bella Pelasgos.
+  - Pelasgos (GRAI): Pelasgos in Trojam venisse Iris, Jove jubente, Trojanis nuntiat
 - [6] 224 quae doceat fortes venisse ad bella Pelasgos.
+  - Pelasgos (Pelasgi): fortes . . . -os 224. 353
 
 225 Nec mora: continuo iussu capit arma parentis
 - [2] 224 Nec mora, continuo jussu capit arma parentis
 - [3] 225 Nec mora: continuo iussu capit arma parentis
 - [4] 225 Nec mora : continuo jussu capit arma parentis
 - [6] 225 nec mora, continuo iussu capit arma parentis
+  - parentis (Priamus): parentis 225. 1038. 1044
 
 226 Priamides Hector totamque in proelia pubem
 - [2] 225 Priamides Hector, totamque in praelia pubem
   - Totamque in praelia pubem. Virgil. Aen. VII, 429: « armari pubem, portisque moveri Laetus in arma para ».
 - [3] 226 Priamides Hector totamque in praelia pubem
 - [4] 226 Priamides Hector totamque in proelia pubem
+  - Hector (HECTOR): nominativ. Priamides patris jussu arma capit
 - [6] 226 Priamides Hector totamque in proelia pubem
+  - Hector (Hector): Priamides -or 226
+  - Priamides (Priamides): -es Hector 226
+  - pubem (Troianus): 226 pubem
 
 227 festinare iubet portisque agit agmen apertis.
 - [2] 226 Festinare jubet, portisque agit agmen apertis.
@@ -1532,6 +1922,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 227 Festinare iubet portisque agit agmen apertis.
 - [4] 227 Festinare jubet portisque agit agmen apertis.
 - [6] 227 festinare iubet portisque agit agmen apertis.
+  - portis (Troia): portis 227. 575
 
 228 Cui fulgens auro cassis iuuenile tegebat
 - [2] 227 Cui fulgens auro cassis juvenile tegebat
@@ -1562,7 +1953,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Quales decet Hectoris esse. Formula Ovidiana, Met. II, 14: « facies non omnibus una, Non diversa tamen: qualem decet esse sororum ». Hunc et sequentes versus de Paride Barthius l. c. tamquam praeclaros et graves et omnem rem necessariam breviter complexos laudandos censet.
 - [3] 232 Crura tegunt ocreae, quales decet Hectoris esse.
 - [4] 232 Crura tegunt ocreae, quales decet Hectoris esse.
+  - Hectoris (HECTOR): Hectoris crura ocreae nitentes, quales decet esse, tegunt
 - [6] 232 crura tegunt ocreae, quales decet Hectoris esse.
+  - Hectoris (Hector): -oris 232. 565. 1006. 1040
 
 233 Hunc sequitur forma melior, tunc fortis in armis,
 - [2] 232 Hunc sequitur forma melior, non fortis in armis,
@@ -1574,40 +1967,63 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 233 Belli caussa Paris, patriaa funesta ruina,
 - [3] 234 Belli causa Paris, patriae funesta ruina;
 - [4] 234 Belli causa Paris, patriae funesta ruina
+  - Paris (PARIS): nominativ. belli causa, patriae funesta ruina, arma, cum ceteris Trojanorum ducibus, capit
 - [6] 234 belli causa Paris, patriae funesta ruina,
+  - Paris (Paris): tunc fortis in armis belli causa Paris, patriae funesta ruina 234
 
 235 Deiphobusque Helenusque simul fortisque Polites
 - [2] 234 Deiphobusque , Helenusque simul, fortisque Polites,
   - … Polites, ut apud Homerum, II, 701: …
 - [3] 235 Deiphobusque Helenusque simul fortisque Polites,
 - [4] 235 Deiphobusque Helenusque simul fortisque Polites,
+  - Deiphobus (DEIPHOBUS): cum ceteris Trojanorum principibus
+  - Helenus (HELENUS): inter principes Trojanorum
+  - Polites (POLITES Priami filius): fortis inter Trojanorum principes
 - [6] 235 Deiphobusque Helenusque simul fortisque Polites,
+  - Deiphobus (Deiphobus): Deiphobus 235
+  - Helenus (Helenus): Helenus 235
+  - Polites (Polites): fortis . . . Polites 235: Priami f.
 
 236 et sacer Aeneas, Veneris certissima proles,
 - [2] 235 Et sacer Aeneas, Veneris certissima proles,
 - [3] 236 Et sacer Aeneas, Veneris certissima proles,
 - [4] 236 Et sacer Aeneas, Veneris certissima proles,
+  - Aeneas (AENEAS): sacer, Veneris certissima proles (Trojanorum principes enumerat noster)
+  - Veneris (VENUS): Veneris proles Aeneas
 - [6] 236 et sacer Aeneas, Veneris certissima proles,
+  - Aeneas (Aeneas): sacer -as, Veneris certissima proles 236
+  - Veneris (Venus): Aeneas, -eris . . . proles 236. 483
 
 237 Archelochusque Acamasque ferox Antenore creti;
 - [2] 236 Archilochusque, Acamasque ferox, Antenore nati:
   - Acamasque. Hom. II, 823; …
 - [3] 237 Archilochusque Acamasque ferox Antenore creti.
 - [4] 237 Archilochusque Acamasque ferox Antenore creti.
+  - Acamas (ACAMAS Antenoris filius): — ferox Antenore cretus
+  - Antenore (ANTENOR): Antenore creti Archilochus Acamasque
+  - Archilochus (ARCHILOCHUS): Antenore cretus cum ceteris Trojanorum ducibus
 - [6] 237 Archelochusque Acamasque ferox Antenore creti.
+  - Acamas (Acamas 1): Acamas Antenoris filius, Tros 237
+  - Antenore (Antenor 1): Archelochusque Acamasque ferox Antenore creti 237: Troiano
+  - Archelochus (Archelochus): Archelochusq. Acamasque . . . Antenore creti 237
 
 238 nec non et proles generosa Lycaonis ibat
 - [2] 237 Nec non et proles generosa Lycaonis ibat
 - [3] 238 Nec non et proles generosa Lycaonis ibat
 - [4] 238 Nec non et proles generosa Lycaonis ibat
+  - Pandarus (PANDARUS): Lycaonis proles generosa inter Trojanorum auxilia
 - [6] 238 nec non et proles generosa Lycaonis ibat
+  - Lycaonis (Lycaon): proles generosa Lycaonis . . . Pandarus 238
 
 239 Pandarus et magnae Glaucus uirtutis in armis
 - [2] 238 Pandarus , et magn» virtutis Glaucus in armis ,
   - Glaucus in armis. Hunc Homerus, II extr. cum Sarpedone Lyciorum duce conjungit, de quo Noster, infra v. 248.
 - [3] 239 Pandarus et magnae Glaucus uirtutis in armis;
 - [4] 239 Pandarus et magnae Glaucus virtutis in armis;
+  - Glaucus (GLAUCUS Lyciorum dux): — magnae virtutis in armis, inter auxilia Trojanorum
 - [6] 239 Pandarus et magnae Glaucus virtutis in armis;
+  - Glaucus (Glaucus): magnae Glaucus virtutis in armis 239
+  - Pandarus (Pandarus): proles generosa Lycaonis . . . Pandarus 239
 
 240 Amphiusque et Adrastus et Asius atque Pylaeus.
 - [2] 239 Amphionque, Adrastus, et Asius, atque Pylaeus.
@@ -1615,7 +2031,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
 - [4] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
   - Amphius … (Iliad. II, 830). … Pylaeus … (ibid. 842).
+  - Adrastus (ADRASTUS): inter Trojanorum principes
+  - Amphius (AMPHIUS): Trojanorum socius
+  - Asius (ASIUS Hyrtaci filius): — cum ceteris Trojanorum sociis
+  - Pylaeus (PYLAEUS): inter Trojanorum principes
 - [6] 240 Amphiusque et Adrastus et Asius atque Pylaeus.
+  - Adrastus (Adrastus): Amphiusque et Adrastus Meropis filii 240
+  - Amphius (Amphius): Amphīus 240
+  - Asius (Asius): Asius 240. 774: Hyrtaci f., a parte Troum
+  - Pylaeus (Pylaeus): *Pylaeus (ephialtes trad.) 240: Lethi f., Pelasgus
 
 241 Ibat et Amphimachus Nastesque, insignis uterque,
 - [2] 240 Ibat et Amphimachus, Nastesque, insignis uterque,
@@ -1623,7 +2047,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 241 Ibat et Amphimachus Nastesque, insignis uterque,
 - [4] 241 Ibat et Amphimachus Nastesque, insignis uterque,
   - Nastes … (ibid. 870).
+  - Amphimachus (AMPHIMACHUS princeps Carum): insignis cum ceteris Trojanorum sociis
+  - Nastes (NASTES): insignis, inter Trojanorum socios
 - [6] 241 ibat et Amphimachus Nastesque, insignis uterque,
+  - Amphimachus (Amphimachus 2): Amphimachus Nastesque 241: Carum duces
+  - Nastes (Nastes): Amphimachus *Nastesque, insignis uterque 241: Carum duces
 
 242 magnanimique duces Odiusque et Epistrophus ingens
 - [2] 241 Magnanimique duces Hodius et Epistrophus ingens,
@@ -1631,21 +2059,34 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 242 Magnanimique duces Hodiusque et Epistrophus ingens
 - [4] 242 Magnanimique duces Hodiusque et Epistrophus ingens
   - **242, 243, 244** Hodius, Pyraechmes, Mesthles … (ibid. 856, 848. 864).
+  - Epistrophus (EPISTROPHUS Halizonum dux): — ingens, dux magnanimus
+  - Hodius (HODIUS): dux magnanimus inter Trojanorum auxilia
 - [6] 242 magnanimique duces Odiusque et Epistrophus ingens
+  - Epistrophus (Epistrophus 2): Epistrophus ingens 242: Halizonum dux a partibus Troum
+  - Odius (Odius): Odius . . . et Epistrophus 242: Halizonum duces
 
 243 Euphemusque ferox clarusque aetate Pyraechmes,
 - [2] 242 Euphemusque ferox, clarusque aetate Pyraechmes,
   - … Euphemus Ciconum dux, et Pyraechmes Paeonum, memorantur ab Homero, v. 846 et 848: …
 - [3] 243 Euphemusque ferox clarusque aetate Pyraechmes;
 - [4] 243 Euphemusque ferox clarusque aetate Pyraechmes;
+  - Euphemus (EUPHEMUS): ferox
+  - Pyraechmes (PYRAECHMES): clarus aetate inter Trojanorum socios
 - [6] 243 Euphemusque ferox clarusque aetate Pyraechmes;
+  - Euphemus (Euphemus): Euphemus . . . ferox 243: Ciconum dux a partibus Troum
+  - Pyraechmes (Pyraechmes): clarus . . . aetate *Pyraechmes 243: Paeonum dux
 
 244 cum quibus et Mesthles atque Antiphus et bonus armis
 - [2] 243 Cum quibus etMesthlesatque Antiphus, et bonusarmis
   - Et Mesthles atque Antiphus, Maeonii. Hom. v. 864. …
 - [3] 244 Cum quibus et Mesthles atque Antiphus et bonus armis
 - [4] 244 Cum quibus et Mesthles atque Antiphus et bonus armis
+  - Antiphus (ANTIPHUS Maeonum ductor): — Trojanis fert auxilium
+  - Hippothous (HIPPOTHOUS): bonus armis inter Trojanorum socios
+  - Mesthles (MESTHLES): inter Trojanorum auxilia
 - [6] 244 cum quibus et Mesthles atque Antiphus et bonus armis
+  - Antiphus (Antiphus 2): Antiphus 244: Talaemenei f., dux Maeonum a parte Troum
+  - Mesthles (Mesthles): *Mesthles 244: Talaemenei f., Antiphi frater, dux Maeonum
 
 245 Hippothous uenere Acamasque et Pirous una,
 - [2] 244 Hippdthus atque Acamas venere, et Pirous una,
@@ -1653,12 +2094,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 245 Hippothousque Acamasque iuere et Pirous una,
 - [4] 245 Hippothous venere Acamasque et Pirous, \< ense
   - Hippothous … (ibid. 840) …
+  - Acamas (ACAMAS dux Thracum): — inter Trojanorum socios
+  - Pirous (PIROUS): < ense et virtute potens > inter auxilia Trojanorum
 - [6] 245 Hippothous † atque Acamas † venere Pirous una,
+  - Acamas (Acamas 2): Acamas (ath- trad.) Thrax 245
+  - Hippothous (Hippothous): bonus armis *Hippothous 245: Lethi f.
+  - Pirous (Pirous): *Pirous (pierius trad.) 245: Thracum dux
 
 245a
 - [2] —
 - [3] —
 - [4] 245 bis Et virtute potens, animique Pylaemenis > una,
+  - Pylaemenis (PYLAEMEN): < Pylaemenis animi >
 - [6] —
 
 246 Arsinooque sati Chromiusque atque Ennomus, ambo
@@ -1666,22 +2113,35 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Et ipse vir doctissimus ex Ausonii Epitaphiis her. epigr. 22, adlegat, ubi Ennomi et Chromii pater Alcinus vocatur. … Apud Homerum non exstat pater, qui Chromin et Ennomum Mysis praefuisse dicit v. 858. Sed Noster plura ex aliis haurire solet.
 - [3] 246 Alcinooque sati Chromiusque atque Ennomus, ambo
 - [4] 246 Alcinooque sati Chromiusque atque Ennomus, ambo
+  - Alcinoo (ALCINOUS): Alcinoo sati Chromius et Ennomus
+  - Chromius (CHROMIUS dux Mysorum): Vir florens aetate inter Trojanorum socios
+  - Ennomus (ENNOMUS): vir florens aetate inter Trojanorum socios
 - [6] 246 Arsinooque sati Chromiusque atque Ennomus, ambo
   - Arsinooque … (ex Apollod. epit. 3, 35 p. 199 Wagner) …
+  - Arsinoo (Arsinous): *Arsinooque sati Chromiusque atque Ennomus 246
+  - Chromius (Chromius 1): Arsinooque sati Chromiusque atque Ennomus, ambo florentes aetate viri 246: Mysorum duces a partibus Troum (Χρόμις Hom.)
+  - Ennomus (Ennomus): *Ennomus 246
 
 247 florentes aetate uiri, quos Phorcus et ingens
 - [2] 246 Florentes aetate viri , quos Phorcis et ingens
   - … auctore Homero, qui v. 862 Phorcyn et Ascanium Phrygum duces conjungit. … Ascanius hic discernendus a filio Aeneae, qui tum puer admodum erat.
 - [3] 247 Florentes aetate uiri, quos Phorcus et ingens
 - [4] 247 Florentes aetate viri, quos Phorcus et ingens
+  - Ascanius (ASCANIUS Hippotionis filius): — ingens, socius Trojanorum
+  - Phorcus (PHORCUS): inter Trojanorum principes
 - [6] 247 florentes aetate viri, quos Phorcus et ingens
+  - Phorcus (Phorcus): Phorcus 247: Phrygum dux
 
 248 Ascanius sequitur, simul et Iouis inclita proles
 - [2] 247 Ascanius sequitur, simul et Jovis inciyta proles
   - Jovis inclyta proles. Ovidius, Met. IX, 229.
 - [3] 248 Ascanius sequitur, simul et Iouis inclita proles
 - [4] 248 Ascanius sequitur, simul et Jovis inclita proles
+  - Jovis (JUPPITER): — proles (Sarpedon)
+  - Sarpedon (SARPEDON): Jovis proles inclita, inter Trojanorum socios
 - [6] 248 Ascanius sequitur, simul et Iovis inclita proles
+  - Ascanius (Ascanius): ingens Ascanius 248: Phrygum dux
+  - Iovis (Iuppiter): Iovis inclita proles Sarpedon 248. 520
 
 249 Sarpedon claraque satus tellure Coroebus.
 - [2] 248 Sarpedon, claraque satus tellure Coroebus.
@@ -1690,20 +2150,30 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Coroebus … sed neque hic ab Homero commemoratur et Pylaemenes iam solus restat non nominatus; inuexere illum librarii ex Vergilio; …
 - [4] 249 Sarpedon claraque satus tellure Coroebus.
   - Coroebus … (cf. Aen. II, 342); …
+  - Coroebus (COROEBUS): clara satus tellure
 - [6] 249 Sarpedon claraque satus tellure Coroebus.
+  - Coroebus (Coroebus): clara . . . satus tellure Coroebus 249: non nominatur apud Homerum
+  - — (Pylaemenes): cf. et v. 249
+  - Sarpedon (Sarpedon): Iovis inclita proles Sarpedon 249. 521
 
 250 His se defendit ducibus Neptunia Troia
 - [2] 249 His se defendit ducibus Meptunia Troja,
   - Neptunia Troja: e Virgilii Aen. II, 625, et III, 3.
 - [3] 250 His se defendit ducibus Neptunia Troia,
 - [4] 250 His se defendit ducibus Neptunia Troja,
+  - Neptunia (NEPTUNIUS): Neptunia Troja
+  - Troja (TROJA): Neptunia his ducibus (quos noster jam enumeravit) se defendit
 - [6] 250 his se defendit ducibus Neptunia Troia,
+  - Neptunia (Neptunius): Neptunia Troia 250
+  - Troia (Troia): Neptunia -ia 250
 
 251 uicissetque dolos Danaum, ni fata fuissent.
 - [2] 250 Vicissetque doios Danauin , nisi fata vetassent.
 - [3] 251 Uicissetque dolos Danaum, ni fata fuissent.
 - [4] 251 Vicissetque dolos Danaum, ni fata fuissent.
+  - Danaum (GRAI): — dolos vicisset Troja, ni fata fuissent
 - [6] 251 vicissetque dolos Danaum, ni fata fuissent.
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 ## Book 3
 
@@ -1718,13 +2188,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Barthius ad hunc locum observat, Advers. LIX, cap. 1, optimorum scriptorum morem esse, funestarum cladium auctores clades ipsas nominare. Juvenalis de Domitiano: « si peste et clade sub illa Saevitiam damnare, et honestum afferre liceret Consilium ». Auctor declamationis in Catilinam: « vigent enim in illa clade res diversissimae pariter, continentia et libido ». Lampridius in Elagabalo: « mirum fortasse cuipiam videatur, quod haec clades, quam retuli, loco principis fuerit ». Seneca de Medea: « Abolere ferro pessimam propera luem ». Claudianus de Rufino, lib. I: « quo tanta lues eruperit ortu ». Barth. — Et ideo praesertim flamma servandum est, quod aptius conveniat cum fabula de Hecuba Paridis genetrice, taedam se peperisse somniante, qua Troas Asiaque omnis incendio vastarentur. Ed.
 - [3] 253 Cum Paris, exitium Troiae funestaque flamma,
 - [4] 253 Cum Paris, exitium Trojae funestaque flamma,
+  - Paris (PARIS): — Trojae exitium funestaque flamma, armatum Menelaum cernit
+  - Trojae (TROJA): Trojae exitium (Paris)
 - [6] 253 cum Paris, exitium Troiae funestaque flamma,
+  - Paris (Paris): Paris, exitium Troiae funestaque flamma 253
+  - Troiae (Troia): Paris exitium -iae 253
 
 254 armatum aduerso Menelaum ex agmine cernit
 - [2] 253 t Armatum adverso Menelaum ex agmine vidit,
 - [3] 254 Armatum aduerso Menelaum ex agmine cernit
 - [4] 254 Armatum adverso Menelaum ex agmine cernit
+  - Menelaum (MENELAUS): Menelaum armatum cernit Paris
 - [6] 254 armatum adverso Menelaum ex agmine cernit
+  - Menelaum (Menelaus): -laum ex 254
 
 255 seque uelut uiso perterritus angue recepit
 - [2] 254 Seque velut viso perterritus angue recepit
@@ -1737,13 +2213,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 255 Ad socios amens : quem postquam turpiter Hector
 - [3] 256 Ad socios amens; quem postquam turpiter Hector
 - [4] 256 Ad socios amens; quem postquam turpiter Hector
+  - Hector (HECTOR): — Paridem, confusum terrore, adloquitur
 - [6] 256 ad socios amens; quem postquam turpiter Hector
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 257 confusum terrore uidet: "O dedecus - inquit -
 - [2] 256 Confusum terrore videt, «Proh! dedeciis, inquit,
 - [3] 257 Confusum terrore uidet, 'o dedecus' inquit
 - [4] 257 Confusum terrore videt : « O dedecus » inquit
+  - — (PARIS): (Adde huc quod Paridem Hector ita praedicat : « Dedecus... Aeternum patriae generisque infamia nostri »)
 - [6] 257 confusum terrore videt, 'o dedecus' inquit
+  - dedecus (Paris): cf. Hectoris verba 257: o dedecus . . . aeternum patriae generisque infamia nostri
 
 258 "aeternum patriae generisque infamia nostri,
 - [2] 257 Aeternum patriae, generisque infamia nostri,
@@ -1757,6 +2237,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 259 Terga refers? at non dubitabas hospitis olim
 - [4] 259 Terga refers? at non dubitabas hospitis olim
 - [6] 259 terga refers? at non dubitabas hospitis olim
+  - hospitis (Menelaus): hospitis 259
 
 260 expugnare toros, cuius nunc defugis arma
 - [2] 259 Expugnare toros, cujus nunc defugis arma,
@@ -1791,7 +2272,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Duro Mars milite gaudet. Helena ad Paridem l. c. v. 253: « Apta magis Veneri, quam sint tua corpora Marti ».
 - [3] 264 Nobilitas formae: duro Mars milite gaudet.
 - [4] 264 Nobilitas formae : duro Mars milite gaudet.
+  - Mars (MARS): duro milite gaudet
 - [6] 264 nobilitas formae: duro Mars milite gaudet.
+  - Mars (Mars): duro Mars milite gaudet 264
 
 265 Dum iaceas in amore tuo, nos bella geremus
 - [2] 264 Dum jaceas in amore tuo, nos beila geremus
@@ -1817,7 +2300,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 267 Impiger Atrides : spectet Danaumque Phrygumque
 - [3] 268 Impiger Atrides: spectet Danaumque Phrygumque
 - [4] 268 Impiger Atrides : spectet Danaumque Phrygumque
+  - Danaum (GRAI): — populus
+  - Atrides (MENELAUS): Atrides impiger cum Paride in armis concurrat
+  - Phrygum (TROJANI): Phrygum populus
 - [6] 268 impiger Atrides: spectet Danaumque Phrygumque
+  - Atrides (Atrides (Menelaus)): impiger -des 268
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
+  - Phrygum (Phryges): -gum . . . populus 268
 
 269 depositis populus telis. Vos, foedere iuncto,
 - [2] 268 Depositis telis populus, vos foedere juncto
@@ -1843,7 +2332,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 271 Dixit, quae contra paucis Priameias heros,
 - [3] 271 Dixit. quem contra paucis Priameius heros
 - [4] 271 Dixit ; quem contra paucis Priameius heros
+  - Priameius (PARIS): Priameius heros pauca Hectori respondet
 - [6] 271 dixit. quem contra paucis Priameius heros
+  - Priameius (Priameius): Priameius heros Paris 271, Hector 960
 
 272 "Quid nimis indignis" - inquit - "me uocibus urges,
 - [2] 272 «Quid nimis indignis, inquit, me vocibus urges,
@@ -1856,6 +2347,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 273 O patriae, germane, decus? nam nec mihi coniunx
 - [4] 273 O patriae, germane, decus? nam nec mihi conjunx
 - [6] 273 o patriae, germane, decus? nam nec mihi coniunx
+  - decus (Hector): o patriae, germane, decus 273
+  - coniunx (Helene): coniunx 273. 276. 285. 301
 
 274 prauaque luxuria est potior uirtutis honore
 - [2] 274 Pronaque luxuria est potior virtutis Iionore,
@@ -1870,25 +2363,33 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 275 Nec uires temptare uiri dextramque recuso,
 - [4] 275 Nec vires temptare viri dextramque recuso,
 - [6] 275 nec vires temptare viri dextramque recuso,
+  - viri (Menelaus): viri 275. 288. 329
 
 276 dummodo uictorem coniunx cum pace sequatur."
 - [2] 276 Dummodo victorem conjux cum pace sequatur ».
 - [3] 276 Dummodo uictorem coniunx cum pace sequatur.'
 - [4] 276 Dummodo victorem conjunx cum pace sequatur. »
 - [6] 276 dummodo victorem coniunx cum pace sequatur.'
+  - coniunx (Helene): coniunx 273. 276. 285. 301
 
 277 Dicta refert Hector: placuit sententia Grais.
 - [2] 277 Dicta refert Hector:placuit sententia Graiis.
 - [3] 277 Dicta refert Hector; placuit sententia Grais.
 - [4] 277 Dicta refert Hector; placuit sententia Grais.
+  - Grais (GRAI): — placet Hectoris sententia
+  - Hector (HECTOR): — Paridis verba refert
 - [6] 277 dicta refert Hector; placuit sententia Grais.
   - (testimonia) cf. Gesta Ber. 2, 3
+  - Grais (Graius): Grais 2. 277. 614
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 278 Protinus accitur Priamus sacrisque peractis
 - [2] 278 Protinus accitur Priamus, sacrisque peractis
 - [3] 278 Protinus accitur Priamus, sacrisque peractis
 - [4] 278 Protinus accitur Priamus, sacrisque peractis
+  - Priamus (PRIAMUS): accitur ad foedera cum Graecis jungenda
 - [6] 278 protinus accitur Priamus sacrisque peractis
+  - Priamus (Priamus): Priamus 278 [983] 1046
 
 279 foedera iunguntur. Post haec discedit uterque
 - [2] 279 Foedera junguntur : post haec discedit uterque
@@ -1908,19 +2409,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 281 Interea toto procedit ab agmine Troum
 - [3] 281 Interea toto procedit ab agmine Troum
 - [4] 281 Interea toto procedit ab agmine Troum
+  - Troum (TROJANI): — ab agmine Paris procedit
 - [6] 281 interea toto procedit ab agmine Troum
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 282 pulcher Alexander, clipeoque insignis et hasta.
 - [2] 282 Pulcher Alexander, clypeoque insignis et hasta,
 - [3] 282 Pulcher Alexander, clipeoque insignis et hasta.
 - [4] 282 Pulcher Alexander, clipeoque insignis et hasta.
+  - Alexander (PARIS): Alexander pulcher, clipeo et hasta insignis contra Menelaum procedit
 - [6] 282 pulcher Alexander, clipeoque insignis et hasta.
+  - Alexander (Alexander): pulcher Alexander 282
 
 283 Quem contra paribus fulgens Menelaus in armis
 - [2] 283 Quem contra paribus fulgens Menelaus in armis
 - [3] 283 Quem contra paribus fulgens Menelaus in armis
 - [4] 283 Quem contra paribus fulgens Menelaus in armis
+  - Menelaus (MENELAUS): fulgens in armis contra Paridem constitit
 - [6] 283 quem contra paribus fulgens Menelaus in armis
+  - Menelaus (Menelaus): Menelaus 283. 312. 339. 539
 
 284 constitit et: "Tecum mihi sint certamina - dixit -
 - [2] 284 Constitit, et, «Tecum mihi sunt certamina, dixit,
@@ -1934,13 +2441,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 285 'Nec longum nostra laetabere coniuge, quae te
 - [4] 285 « Nec longum nostra laetabere conjuge, quam te
 - [6] 285 'nec longum nostra laetabere coniuge, quae te
+  - coniuge (Helene): coniunx 273. 276. 285. 301
 
 286 mox raptum ire gemet, tantummodo Iuppiter adsit."
 - [2] 286 Mox rapuit regem , tantummodo Jupiter adsit ».
   - **(cont.)** … In Homero auctore est, victorem omnia habiturum. … nec Homero stricte adhaeret semper hic scriptor, nec in eo quidquam tale; sed Jovem ipsum pugnam seu duellum iniens adloquitur Menelaus. …
 - [3] 286 Mox raptum ire gemet, tantummodo Iuppiter adsit.'
 - [4] 286 Mox rapuisse gemes, tantummodo Juppiter adsit. »
+  - Juppiter (JUPPITER): — tantummodo adsit (Menelaus loquitur)
 - [6] 286 mox raptum regemet, tantummodo Iuppiter adsit.'
+  - Iuppiter (Iuppiter): tantummodo -er adsit 286
 
 287 Dixit et aduersum se concitat acer in hostem.
 - [2] 287 Dixit, et adversum se concitat acer in hostem.
@@ -1954,6 +2464,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 288 Ille virum forti venientem reppulit ictu
 - [6] 288 ille virum forti venientem reppulit ictu
   - forti uenientem … cf. 434. Verg. Aen. 12, 510 al.
+  - virum (Menelaus): viri 275. 288. 329
 
 289 seque gradu celeri recipit longeque frementem
 - [2] 289 Seque gradu celeri recipit, longeque frementem
@@ -1967,7 +2478,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Secundum Homerum, Il. III, 360, Paris Atridae hastam, non Atrides Paridis, declinavit. Et plura hujus pugnae diverse narrat Noster.
 - [3] 290 Hastam deinde iacit, quam deuitauit Atrides.
 - [4] 290 Hastam deinde jacit, quam devitavit Atrides.
+  - Atrides (MENELAUS): — hastam Paridis devitat
 - [6] 290 hastam deinde iacit; quam devitavit Atrides
+  - Atrides (Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
 
 291 inque uicem misso fixisset corpora telo
 - [2] 291 Inque vicemi misso fixisset pectora telo
@@ -1980,7 +2493,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Praedonis Phrygii. Frequens praedonis convicium in adulteros et raptores puellarum, sigillatim in Paridem, propter raptum Helenae, ut apud Stat. Achill. I, 45, et in Aeneam, propter Laviniam, apud Virg. Aeneid. VII, 362: « Perfidus alta petens, abducta virgine, praedo »; et Aen. XI, 484, ubi « Phrygius praedo » audit. Pluto ob raptum Proserpinae sic dicitur apud Ovid. Met. V, 521; Fast. IV, 591. …
 - [3] 292 Praedonis Phrygii, ni uastum ferrea pectus
 - [4] 292 Praedonis Phrygii, ni vastum ferrea pectus
+  - Praedonis (PARIS): Praedo Phrygius praedonis Phrygii corpus, ni ferrea lorica texisset, Menelai vulnerasset telum
+  - Phrygii (PHRYGIUS): Phrygii praedonis
 - [6] 292 praedonis Phrygii, ni vastum ferrea pectus
+  - Phrygii (Phrygius): praedonis Phrygii 292
 
 293 texisset lorica uiri septemplice tergo.
 - [2] 293 Texisset lorica viri septemplice tergo.
@@ -2040,14 +2556,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 301 Tunc memor Atrides raptae sibi conjugis instat,
 - [3] 301 Tum memor Atrides raptae sibi coniugis instat
 - [4] 301 Cum memor Atrides raptae sibi conjugis instat
+  - Atrides (MENELAUS): — memor raptae conjugis instat
 - [6] 301 cum memor Atrides raptae sibi coniugis instat
+  - Atrides (Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
+  - coniugis (Helene): coniunx 273. 276. 285. 301
 
 302 Dardaniumque premit iuuenem. Mox ense rigente
 - [2] 302 Dardaniumque premit juvenem mox ense rigenti ,
 - [3] 302 Dardaniumque premit iuuenem mox ense rigente;
 - [4] 302 Dardaniumque premit juvenem mox ense rigente ;
+  - Dardanium (PARIS): Dardanius juvenis Dardanium juvenem Menelaus premit ense
 - [6] 302 Dardaniumque premit iuvenem. mox ense rigente
   - male post iuvenem non distinguebant editiones recentes
+  - Dardanium (Dardanius): -um . . . iuvenem 302: Parin
 
 303 cedentem retro dum desuper appetit hostem,
 - [2] 303 Cedentemque retro dum desuper adpetit hostem ,
@@ -2066,8 +2587,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … et ipse Noster infra integro versu 968 repetit, habetque ex imitatione Virgilii, qui eumdem casum Turni memorans, Aen. XII, 741: « Mortalis mucro, glacies seu futilis, ictu Dissiluit »; et Ovid. Metam. V, 171 seq. « Non circumspectis exactum viribus ensem Fregit, et extrema percussae parte columnae Lamina dissiluit; dominique in gutture fixa est ».
 - [3] 305 Dissiluit mucro; gemuerunt agmina Graium.
 - [4] 305 Dissiluit mucro; gemuerunt agmina Grajum.
+  - Grajum (GRAI): — agmina, Paride vulnerato, gemuerunt
 - [6] 305 dissiluit mucro; gemuerunt agmina Graium.
   - Dis(s)iluit … cf. Verg. Aen. 12, 741
+  - Graium (Graius): agmina -um 305. 487
 
 306 Tum uero ardescit, quamuis manus ense carebat,
 - [2] 306 Tunc vero ardescit, quamvis manus ense careret,
@@ -2080,6 +2603,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 307 Et iuuenem arrepta prosternit casside uictor
 - [4] 307 Et juvenem arrepta prosternit casside victor
 - [6] 307 et iuvenem arrepta prosternit casside victor
+  - victor (Menelaus): victor 307. 352
+  - iuvenem (Paris): iuvenem 307
 
 308 ad socios traheretque, et, ni caligine caeca
 - [2] 308 Ad socios traheretque , nisi caligine csca
@@ -2092,7 +2617,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 309 Texisset Cytherea virum , subjectaque mento
 - [3] 309 Texisset Cytherea uirum subiectaque mento
 - [4] 309 Texisset Cytherea virum subjectaque mento
+  - Cytherea (VENUS): Cytherea Paridem, cum Menelao pugnantem, tegit caligine
 - [6] 309 texisset Cytherea virum subiectaque mento
+  - Cytherea (Cytherea): Cythereă 309. 335. 470: Venus
+  - virum (Paris): virum 309
 
 310 fortia rupisset laxatis uincula nodis,
 - [2] 310 Fortia rupisset iaxatis vincula nodis,
@@ -2104,13 +2632,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 311 Ultimus ilie dies Paridi foret : abstrahit auro
 - [3] 311 Ultimus ille dies Paridi foret. abstrahit auro
 - [4] 311 Ultimus ille dies Paridi foret. Abstrahit auro
+  - Paridi (PARIS): Paridi ultimus dies foret, ni Venus eum texisset
 - [6] 311 ultimus ille dies Paridi foret. abstrahit auro
+  - Paridi (Paris): Paridī 311
 
 312 fulgentem galeam secum Menelaus et ardens
 - [2] 312 Fuigentem galeam secum Mehelaus, et ardens
 - [3] 312 Fulgentem galeam secum Menelaus et ardens
 - [4] 312 Fulgentem galeam secum Menelaus et ardens
+  - Menelaus (MENELAUS): — galeam Paridis abstrahit, in eundem ardens recurrit
 - [6] 312 fulgentem galeam secum Menelaus et ardens
+  - Menelaus (Menelaus): Menelaus 283. 312. 339. 539
 
 313 in medios mittit proceres rursumque recurrit
 - [2] 313 In medios mittit proceres, rursumque recurrit,
@@ -2130,7 +2662,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Sua quem Venus. Erat enim assiduus ejus cultor Alexander, unde suam appellavit. Sic sua numina aequori addita ait v. 877: « Addideratque freto sua numina, Nerea magnum ». Venus autem ipsa sibi addictum Paridem commendat Helenae apud Homerum, postquam manibus Menelai eripuit. Barth. Adv. LIX, 1. Pronomine suus saepe faventem, aptum et utilem significari, neminem fugit in lectione Romanorum scriptorum versatum, ut hoc pluribus exemplis docere superfluum sit. Horat. Epod. 9, 30, « Cretam ventis iturus non suis ».
 - [3] 315 In cladem Phrygii, sua quem Uenus eripit hosti
 - [4] 315 In cladem Phrygii, sua quem Venus eripit hosti
+  - Phrygii (PARIS): Phrygius in Phrygii cladem Menelaus hastam torquet
+  - Phrygii (PHRYGIUS): Phrygii
+  - Venus (VENUS): Paridem Menelao eripit
 - [6] 315 in cladem Phrygii, sua quem Venus eripit hosti
+  - Phrygii (Phrygius): Phrygii i. Paridis 315
+  - Venus (Venus): Venus 315. 464. 911
 
 316 et secum in thalamos defert testudine cultos.
 - [2] 316 Et secum in thalamos defert testudine cultos :
@@ -2145,13 +2682,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 317 Ipsa dehinc Helenam muris arcessit ab aitis,
 - [3] 317 Ipsa dehinc Helenam muris arcessit ab altis
 - [4] 317 Ipsa dehinc Helenam muris arcessit ab altis
+  - Helenam (HELENA): Helenam Paridi Venus deducit
 - [6] 317 ipsa dehinc Helenam muris accersit ab altis
+  - Helenam (Helene): Helenam 317. 343
 
 318 Dardanioque suos Paridi deducit amores.
 - [2] 318 Dardanioque suos Paridi deducit amores.
 - [3] 318 Dardanioque suos Paridi deducit amores.
 - [4] 318 Dardanioque suos Paridi deducit amores.
+  - Paridi (PARIS): — Dardanio Venus Helenam deducit
 - [6] 318 Dardanioque suos Paridi deducit amores.
+  - Dardanio (Dardanius): Dardanio . . . Paridi 318
+  - Paridi (Paris): Dardanio . . . dī 318
 
 319 Quem tali postquam conspexit uoce locutast:
 - [2] 319 Quam taii postquam conspexit voce loquuta est
@@ -2163,7 +2705,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 320 ttVenisti, mea flamma, Paris superatus ab armis
 - [3] 320 'Uenisti, mea flamma, Paris, superatus ab armis
 - [4] 320 « Venisti, mea flamma, Paris, superatus ab armis
+  - Paris (PARIS): vocativ. « mea flamma » (Helena adloq.)
 - [6] 320 'venisti, mea flamma, Paris, superatus ab armis
+  - Paris (Paris): voc.: mea flamma, Paris (loq. Helena) 320
 
 321 coniugis antiqui? Vidi puduitque uidere,
 - [2] 321 Conjugis antiqui : vidi, puduilque videre,
@@ -2171,25 +2715,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 321 Coniugis antiqui? uidi puduitque uidere,
 - [4] 321 Conjugis antiqui? vidi puduitque videre,
 - [6] 321 coniugis antiqui? vidi puduitque videre,
+  - coniugis (Menelaus): coniugis antiqui 321
 
 322 arreptum cum te traheret uiolentus Atrides
 - [2] 322 Arreptum quum te tralieret violientus Atrides,
 - [3] 322 Arreptum cum te traheret uiolentus Atrides
 - [4] 322 Arreptum cum te traheret violentus Atrides
+  - Atrides (MENELAUS): — violentus (Helena Paridem ad loq.)
 - [6] 322 arreptum cum te traheret violentus Atrides
+  - Atrides (Atrides (Menelaus)): violentus -es 322
 
 323 Iliacoque tuos foedaret puluere crines.
 - [2] 323 Iliacoque tuos foedaret pulvere crines :
   - Pulvere crines. Virg. Aeneid. XII, 99; Ovid. Metam. VIII, 529.
 - [3] 323 Iliacoque tuos foedaret puluere crines.
 - [4] 323 Iliacoque tuos foedaret pulvere crines.
+  - Iliaco (ILIACUS): Iliaco pulvere cum Paridis crines Menelaus foedaret, Helena timebat
 - [6] 323 Iliacoque tuos foedaret pulvere crines.
+  - Iliaco (Iliacus): Iliaco . . . pulvere 323
 
 324 Nostraque - me miseram! - timui ne Doricus ensis
 - [2] 324 Nostraque ( me miseram ! ) timui ne Doricus ensis
 - [3] 324 Nostraque (me miseram!) timui ne Doricus ensis
 - [4] 324 Nostraque, me miseram! timui ne Doricus ensis
+  - Doricus (DORICUS): Doricus ensis
 - [6] 324 nostraque (me miseram) timui ne Doricus ensis
+  - Doricus (Doricus): Doricus ensis 324
 
 325 oscula discuteret; totus mihi, mente reuincta,
 - [2] 325 Oscula discuteret : totus mihi mente relicta
@@ -2209,7 +2760,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 327 Quis te cum saevo contendere jussit Atrida?
 - [3] 327 Quis tibi cum saeuo contendere suasit Atrida?
 - [4] 327 Quis tibi cum saevo suasit contendere Atrida?
+  - Atrida (MENELAUS): Cum Atrida saevo quis tibi suasit contendere? (Paridi Helena adloq.)
 - [6] 327 quis te cum saevo contendere suasit Atrida?
+  - Atrida (Atrides (Menelaus)): cum saevo . . . -da 327
 
 328 An nondum uaga fama tuas peruenit ad aures
 - [2] 328 An nondum vaga fama tuas pervenit ad aures
@@ -2223,6 +2776,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 329 De uirtute uiri? moneo, ne rursus inique
 - [4] 329 De virtute viri? moneo, ne rursus iniquae
 - [6] 329 de virtute viri? moneo, ne rursus inique
+  - viri (Menelaus): viri 275. 288. 329
 
 330 illius tua fata uelis committere dextrae."
 - [2] 330 Illius tua fata velis committere dextrae ».
@@ -2240,13 +2794,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 332 Tristis Aiexander, «Non me superavit Atrides,
 - [3] 332 Tristis Alexander 'non me superauit Atrides,
 - [4] 332 Tristis Alexander « Non me superavit Atrides,
+  - Atrides (MENELAUS): — non me superavit (Helenam Paris adloq.)
+  - Alexander (PARIS): — tristis Helenae respondet
 - [6] 332 tristis Alexander 'non me superavit Atrides,
+  - Alexander (Alexander): -er 332
+  - Atrides (Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
 
 333 o meus ardor" - ait - "sed castae Palladis ira.
 - [2] 333 O meus ardor, ait, sed castae Palladis ira.
 - [3] 333 O meus ardor' ait, 'sed castae Palladis ira.
 - [4] 333 O meus ardor! » ait, « sed castae Palladis ira.
+  - Palladis (MINERVA): Palladis castae ira Paridem superavit
 - [6] 333 o meus ardor' ait, 'sed castae Pallados ira.
+  - ardor (Helene): o meus ardor 333
+  - Pallados (Pallas): castae -dos ira 333
 
 334 Mox illum nostris succumbere turpiter armis
 - [2] 334 Mox illum Dostris succumbere turpiter armis
@@ -2258,7 +2819,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 335 Adspicies, aderitque meo Cytherea labori.»
 - [3] 335 Aspicies, aderitque meo Cytherea labori.'
 - [4] 335 Aspicies, aderitque meo Cytherea labori. »
+  - Cytherea (VENUS): — aderit meo labori (Paris loq.)
 - [6] 335 aspicies aderitque meo Cytherea labori.'
+  - Cytherea (Cytherea): Cythereă 309. 335. 470: Venus
 
 336 Post haec amplexus per mutua corpora iunctis
 - [2] 336 Post haec ampiexu per mutua corpora juncto
@@ -2272,44 +2835,59 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Cygneis autem Helena nuncupatur, quod filia Jovis in cygnum conversi credebatur: illud nomen nescio, an alius poeta usurpaverit, quamquam « cygneo edita Tyndaris ovo » dicitur a Virg. Eleg. ad Messal. 27, et ipsa Helena apud Ovid. Her. XVII, 55: « Dat mihi Leda Jovem, cygno decepta, parentem ».
 - [3] 337 Incubuit membris Cygneidos; illa soluto
 - [4] 337 Incubuit membris Cygneidos; illa soluto
+  - Cygneidos (HELENA): Cygneis Cygneidos membris Paris incubat
 - [6] 337 incubuit membris Cygneidos; illa soluto
+  - Cygneidos (Cygneis): Cygneidos (-dus pars codd.) 337: Helenae
 
 338 accepit flammas gremio Troiaeque suasque.
 - [2] 338 Accepit flammas gremio Trojaeque, suasque.
   - Flammas Trojaeque suasque. Acute de Paride, cujus amor in Helenam exitium Trojae futurus erat. Videtur et hoc dictum eo loco epistolae Paridis apud Ovidium niti, Heroid. XVI, 45 seq. quo Paris somnium matris suae, quae ante diem partus visa erat facem ardentem parere, de ardore animi sui Trojae exitioso interpretatur: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei ».
 - [3] 338 Accepit flammas gremio Troiaeque suasque.
 - [4] 338 Accepit flammas gremio Trojaeque suasque.
+  - Trojae (TROJA): flammas — suasque gremio Helena accipit (scilicet Paridem)
 - [6] 338 accepit flammas gremio Troiaeque suasque.
+  - Troiae (Troia): flammas . . . -iaeque suasque Parin 338
 
 339 Interea toto Menelaus in agmine Troum
 - [2] 339 Interea toto Meneiaus in agmine Troum
 - [3] 339 Interea toto Menelaus in agmine Troum
 - [4] 339 Interea toto Menelaus in agmine Troum
+  - Menelaus (MENELAUS): — in toto agmine Paridem quaerit
+  - Troum (TROJANI): — in agmine Paridem Menelaus quaerit
 - [6] 339 interea toto Menelaus in agmine Troum
+  - Menelaus (Menelaus): Menelaus 283. 312. 339. 539
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 340 quaerit Alexandrum uictorque huc fertur et illuc.
 - [2] 340 Quaerit Alexandrum, victorque huc fertur et illuc.
 - [3] 340 Quaerit Alexandrum uictorque huc fertur et illuc.
 - [4] 340 Quaerit Alexandrum victorque huc fertur et illuc.
+  - Alexandrum (PARIS): Alexandrum Menelaus quaerit
 - [6] 340 quaerit Alexandrum victorque huc fertur et illuc.
+  - Alexandrum (Alexander): -drum 340
 
 341 Quem frater socias acuens in bella cateruas
 - [2] 341 Quem frater socias acuens in bella catervas
 - [3] 341 Quem frater socias acuens in bella cateruas
 - [4] 341 Quem frater socias acuens in bella catervas
 - [6] 341 quem frater socias acuens in bella catervas
+  - frater (Hector): frater 341
 
 342 adiuuat et forti pulsos Phrygas increpat ore
 - [2] 342 Adjuvat, et forti pulsos Phrygas increpat ore,
 - [3] 342 Adiuuat et forti pulsos Phrygas increpat ore
 - [4] 342 Adjuvat et forti pulsos Phrygas increpat ore
+  - Phrygas (TROJANI): Phrygas pulsos Agamemno ore increpat
 - [6] 342 adiuvat et forti pulsos Phrygas increpat ore
+  - Phrygas (Phryges): pulsos -as (-es trad.) 342
 
 343 seruarique iubet leges Helenamque reposcit.
 - [2] 343 Servarique jubet leges, Heienamque reposcit.
 - [3] 343 Seruarique iubet leges Helenamque reposcit.
 - [4] 343 Servarique jubet leges Helenamque reposcit.
+  - Helenam (HELENA): — reposcit Menelaus
 - [6] 343 servarique iubet leges Helenamque reposcit.
+  - Helenam (Helene): Helenam 317. 343
 
 ## Book 4
 
@@ -2325,21 +2903,29 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 345 Conriiium omnipotens liabuit regnator Olympi;
 - [3] 345 Concilium omnipotens habuit regnator Olympi,
 - [4] 345 Concilium omnipotens habuit regnator Olympi,
+  - regnator (JUPPITER): Regnator Olympi omnipotens concilium habet
+  - Olympi (OLYMPUS): Olympi regnator (Juppiter)
 - [6] 345 concilium omnipotens habuit regnator Olympi
+  - regnator (Iuppiter): omnipotens . . . regnator Olympi 345
+  - Olympi (Olympus): regnator -pi 345: Iuppiter
 
 346 foederaque intento turbauit Pandarus arcu,
 - [2] 346 Foedcraque intento turbavit Pandarus arcu,
   - … exhibet. Virgilius verbo confundere usus est, Homericum συγχέειν aptius exprimens, Aen. V, 496: « Pandare, qui quondam jussus confundere foedus, In medios telum torsisti primus Achivos ».
 - [3] 346 Foederaque intento turbauit Pandarus arcu,
 - [4] 346 Foederaque intento turbavit Pandarus arcu,
+  - Pandarus (PANDARUS): — arcu turbat foedera
 - [6] 346 foederaque intento turbavit Pandarus arcu,
+  - Pandarus (Pandarus): -us 346. 436
 
 347 te, Menelae, petens; laterique uolatile telum
 - [2] 347 Te, Menelae, petens, laterique volatile telum
   - Volatile telum ex Virg. Aen. IV, 71, et Ovid. Metam. VII, 841. …
 - [3] 347 Te, Menelae, petens; laterique uolatile telum
 - [4] 347 Te, Menelae, petens; laterique volatile telum
+  - Menelae (MENELAUS): Menelae, Pandarus te petit
 - [6] 347 te, Menelae, petens; laterique volatile telum
+  - Menelae (Menelaus): te, Menelae 347
 
 348 incidit et tunicam ferro squamisque rigentem
 - [2] 348 Incidit, et tunicam ferro squamisque rigeotem
@@ -2352,20 +2938,27 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Verbum dissecare hac in re minus usitatum aliis poetis, qui rumpere et lacerare solent adhibere. Vid. Virg. Aeneid. XII, 98; Ovid. Met. XII, 117.
 - [3] 349 Dissecat: excedit pugna tremebundus Atrides
 - [4] 349 Dissecat : excedit pugna gemebundus Atrides
+  - Atrides (MENELAUS): — gemebundus, quoniam Pandari tela foedatus est, pugna excidit
 - [6] 349 dissecat: excedit pugna gemebundus Atrides
+  - Atrides (Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
 
 350 castraque tuta petit, quem doctus ab arte paterna
 - [2] 350 Castraque tuta petit; quem doctus ab arte paterna
 - [3] 350 Castraque tuta petit; quem doctus ab arte paterna
 - [4] 350 Castraque tuta petit. Quem doctus ab arte paterna
 - [6] 350 castraque tuta petit; quem doctus ab arte paterna
+  - arte (Aesculapius): v. arte paterna 350
 
 351 Paeoniis curat iuuenis Podalirius herbis,
 - [2] 351 Paeoniis curat juvenis Podalirius herbis,
   - … — Paeoniis herbis ex Virgilii Aen. VII, 769. Podalirium hic nominat Noster curantem vulnus Menelai, sed Homerus Machaonem, IV, 193. — Podalirii mentio supra videatur, v. 217. Ed.
 - [3] 351 Paeoniis curat iuuenis Podalirius herbis;
 - [4] 351 Paeoniis curat juvenis Podalirius herbis
+  - Paeoniis (PAEONIUS): Paeoniis herbis Podalirius Menelaum curat
+  - Podalirius (PODALIRIUS): — Menelaum, a Pandaro vulneratum curat
 - [6] 351 Paeoniis curat iuvenis Podalirius herbis
+  - Paeoniis (Paeonius): Paeoniis . . . herbis 351
+  - Podalirius (Podalirius): iuvenis -ius 351: Aesculapii f.
 
 352 itque iterum in caedes horrendaque proelia uictor.
 - [2] 352 Atque iterum in caedes horrendaque praelia niittit.
@@ -2373,12 +2966,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 352 Atque iterum in caedes horrendaque praelia uisit.
 - [4] 352 Atque iterum in caedes horrendaque proelia mittit.
 - [6] 352 itque iterum in caedes horrendaque proelia victor.
+  - victor (Menelaus): victor 307. 352
 
 353 Armauit fortes Agamemnonis ira Pelasgos
 - [2] 353 Armavit fortes Agamemnonis ira Pelasgos,
 - [3] 353 Armauit fortes Agamemnonis ira Pelasgos,
 - [4] 353 Armavit fortes Agamemnonis ira Pelasgos,
+  - Agamemnonis (AGAMEMNON): — ira Graecos armat in caedes, postquam Menelaum Pandarus vulneravit
+  - Pelasgos (GRAI): — fortes ira Agamemnonis armat
 - [6] 353 armavit fortes Agamemnonis ira Pelasgos
+  - Agamemnonis (Agamemnon): -onis ira 353
+  - Pelasgos (Pelasgi): fortes . . . -os 224. 353
 
 354 et dolor in pugnam cunctos communis agebat.
 - [2] 354 Et dolor in pugnam cunctos comnuinis agebat.
@@ -2406,13 +3004,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 357 Inque vicem Troumque cadunt Danaumque catervae :
 - [3] 357 Inque uicem Troumque cadunt Danaumque cateruae.
 - [4] 357 Inque vicem Troumque cadunt Danaumque catervae.
+  - Danaum (GRAI): — catervae cadunt
+  - Troum (TROJANI): — catervae cadunt
 - [6] 357 inque vicem Troumque cadunt Danaumque catervae.
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 358 nec requies datur ulla uiris: sonat undique Mauors
 - [2] 358 Nec requies datur ulla viris, sonat undique Mavors, ,
 - [3] 358 Nec requies datur ulla uiris; sonat undique Mauors,
 - [4] 358 Nec requies datur ulla viris; sonat undique Mavors,
+  - Mavors (MARS): Mavors sonat undique
 - [6] 358 nec requies datur ulla viris; sonat undique Mavors
+  - Mavors (Mavors): sonat undique Mavors i. proelium 358
 
 359 telorumque uolant cunctis e partibus imbres.
 - [2] 359 Telorumque volat cunctis de partibus imber.
@@ -2426,7 +3030,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Caeterum Antilochus vitiosum sit necesse est, quia e Graecis Antilochus, et hoc loco de Trojanorum caede sermo est. Recte igitur censuit Bondamius, pag. 154 emendans: « Occidit Antilochi rigido demersus in umbra Ense Thalysiades »; nempe Echepolus, ex Homeri Iliad. IV, 458. Idque confirmat cod. H. qui scribit Ense Thalacides. G. 2 Chalestiades.
 - [3] 360 Occidit Antilochi rigido demersus ad umbras
 - [4] 360 Occidit Antilochi rigido demissus ad umbras
+  - Antilochi (ANTILOCHUS): Antilochi ense interficitur Thalysiades (Echepolus)
+  - Thalysiades (THALYSIADES): (Echepolus) ab Antilocho occiditur
 - [6] 360 occidit Antilochi rigido demersus in umbras
+  - Antilochi (Antilochus): Antilochi . . . -ense 360
 
 361 ense Thalysiades optataque lumina linquit.
 - [2] 361 Ense Thalysiades, optataque lumina Hnquit.
@@ -2434,12 +3041,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 361 Ense Thalysiades optataque lumina linquit.
   - Thalysiades … (Iliad. IV, 458).
 - [6] 361 ense Thalysiades optataque lumina linquit.
+  - Thalysiades (Thalysiades): *Thalysiades (tales(t)- trad.) 361: Echepolus
 
 362 Inde manu forti Graiorum terga prementem
 - [2] 362 Inde manu forti Graiorum terga prementem
 - [3] 362 Inde manu forti Graiorum terga prementem
 - [4] 362 Inde manu forti Grajorum terga prementem
+  - Grajorum (GRAI): Grajorum terga premens Simoisius
 - [6] 362 inde manu forti Graiorum terga prementem
+  - Graiorum (Graius): subst.: Graiorum terga 362
 
 363 occupat Anthemione satum Telamonius Aiax
 - [2] 363 Occupat Anthemione satum Telamonius Ajax ,
@@ -2447,7 +3057,12 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 363 Occupat Anthemione satum Telamonius Aiax
 - [4] 363 Occupat Anthemione satum Telamonius Ajax
   - Anthemione … (ibid., 473).
+  - Ajax (AJAX Telamonis filius): — Telamonius Anthemionis filium occupat
+  - Anthemione (ANTHEMIO): Anthemione satum (Simoisium) Ajax Telamonius interficit
 - [6] 363 occupat Anthemione satum Telamonius Aiax
+  - Aiax (Aiax (Telamonius)): Telamonius -ax 205. 363. 602. 623. 787. 836
+  - Anthemione (Anthemion): *Anthemione satum 363: Simoision Troa
+  - Telamonius (Telamonius): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 364 et praedurato transfixit pectora telo:
 - [2] 364 Et praedurato transfigit pectora telo.
@@ -2468,7 +3083,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 366 Ora rigat moriens : tunc maximus Antiphus hastam
 - [3] 366 Ora rigat moriens. tum magnis Antiphus hastam
 - [4] 366 Arma rigat moriens. Tum magnis Antiphus hastam
+  - Antiphus (ANTIPHUS Priami filius): — in Ajacem hastam torquet
 - [6] 366 ora rigat moriens. tum magnis Antiphus hastam
+  - Antiphus (Antiphus 3): Antiphus 366
 
 367 uiribus aduersum conatus corpore toto
 - [2] 367 Viribus adversum, conatus corpore toto,
@@ -2483,14 +3100,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 368 Torquet in Ajacem, telumque erravit ab hoste,
 - [3] 368 Torquet in Aiacem: telum derrauit ab hoste
 - [4] 368 Torquet in Ajacem : telumque erravit ab hoste
+  - Ajacem (AJAX Telamonis filius): In Ajacem hastam torquet Antiphus
 - [6] 368 torquet in Aeaciden: telumque erravit ab hoste
+  - Aeaciden (Aeacides (Aiax Telamonius)): -den 368
+  - Aeaciden (Aiax (Telamonius)): -acem v. Aeaciden 368. 628
 
 369 inque hostem cecidit, transfixit et inguina Leucon:
 - [2] 369 Inque liostem cecidit; nam flxit in inguine Leucon.
   - … Nam de quo hic sermo est, apud Homerum IV, 491, Leucos dicitur, non Leucon.
 - [3] 369 Inque hostem cecidit transfixitque inguine Leucon:
 - [4] 369 Inque hostem cecidit, namque ictus in inguine Leucus.
+  - Leucus (LEUCUS): ictus hasta quam in Ajacem Antiphus torquebat
 - [6] 369 inque hostem cecidit, transfixit et inguine Leucon:
+  - Leucon (Leucus): Leucon acc. 369: Vlixis sodalem
 
 370 concidit infelix prostratus uulnere forti
 - [2] 370 Concidit infelix prostratus vulnere forti,
@@ -2513,14 +3135,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 372 Impiger Atrides casu commotus amici
   - Atridae loco cum Vlixem nominet Homerus, …
 - [4] 372 Impiger Atrides casu commotus amici
+  - Atrides (AGAMEMNON): — impiger Democoonta petit
 - [6] 372 † impiger † Atrides casu concussus amici
+  - Atrides (Atrides (Agamemno)): [impiger -es 372]
+  - Atrides (Laertiades): *Laertiades (atrides trad.) 372: Vlixes
 
 373 Democoonta petit teloque aduersa trabali
 - [2] 373 Democoonta petit , teloque adversa trabali
 - [3] 373 Democoonta petit teloque aduersa trabali
 - [4] 373 Democoonta petit teloque adversa trabali
   - Democoonta … (Iliad. IV, 499).
+  - Democoonta (DEMOCOON): Democoonta Agamemno petit
 - [6] 373 Democoonta petit teloque adversa trabali
+  - Democoonta (Democoon): *Democoonta 373: Priami nothum
 
 374 tempora transadigit uaginaque horridus ensem
 - [2] 374 Tempora transadigit, vaginaque horridus ensem
@@ -2550,14 +3177,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 377 Iamque Amarynciden saxi deiecerat ictu
 - [4] 377 Jamque Amarynciden saxi dejecerat ictu
   - Jamque Amarynciden … (Iliad. IV, 517).
+  - Amarynciden (DIORES): Amaryncides Amarynciden occidit Pirous
 - [6] 377 iamque Amarynciden saxi deiecerat ictu
+  - Amarynciden (Amaryncides): *Amaryncīden 377
 
 378 Pirous Imbrasides dederatque silentibus umbris;
 - [2] 378 Impiger Imbrasides, dederatque silentibus umbris;
 - [3] 378 Pirous Imbrasides dederatque silentibus umbris;
 - [4] 378 Pirous Imbrasides dederatque silentibus umbris;
   - Pirous … (ibid. 520).
+  - Pirous (PIROUS): — Imbrasides Diorem, Amarynci filium, occidit
 - [6] 378 impiger Imbrasides dederatque silentibus umbris:
+  - Imbrasides (Imbrasides): impiger *Imbrasides (umbr- trad.) 378: Piros
 
 379 dumque auidus praedae iuuenem spoliare parabat,
 - [2] 379 Dum cupidus praedae juvenem spoliare parabat,
@@ -2569,7 +3200,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 380 Desuper hasta venit dextra vibrata Thoantis,
 - [3] 380 Desuper hasta uenit dextra librata Thoantis,
 - [4] 380 Desuper hasta venit dextra librata Thoantis,
+  - Thoantis (THOAS): Thoantis dextra Piroum librata hasta petit
 - [6] 380 desuper hasta venit dextra librata Thoantis
+  - Thoantis (Thoas): dextrā . . . Thoantis 380
 
 381 perque uiri scapulas animosaque pectora transit;
 - [2] 381 Perque viri scapulas annosaque pectora transit.
@@ -2596,13 +3229,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 384 Sanguine Dardanii manabant undique campi ,
 - [3] 384 Sanguine Dardanii manabant undique campi,
 - [4] 384 Sanguine Dardanii manabant undique campi,
+  - Dardanii (DARDANIUS): Dardanii campi manant sanguine
 - [6] 384 sanguine Dardanii manabant undique campi,
+  - Dardanii (Dardanius): -ii . . . campi 384: Troiae
 
 385 manabant amnes passim. Pugnabat ubique
 - [2] 385 Manabant amnes passim , puguabat ubique
 - [3] 385 Manabant amnes passim; pugnatur ubique
 - [4] 385 Manabant amnes passim ; pugnatur ubique,
 - [6] 385 manabant amnes passim; pugnatur ubique
+  - amnes (Xanthus (fluvius)): amnes 385
 
 386 immixtis ardens amborum exercitus armis
 - [2] 386 Immixtis ardens amborum exercitus armis ,
@@ -2614,7 +3250,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 387 Et modoTrojanis virtus, modo crescit Achivis ,
 - [3] 387 Et modo Troianis uirtus, modo crescit Achiuis,
 - [4] 387 Et modo Trojanis virtus, modo crescit Achivis,
+  - Achivis (GRAI): — virtus crescit
+  - Trojanis (TROJANI): Trojanis crescit virtus
 - [6] 387 et modo Troianis, modo virtus crescit Achivis
+  - Achivis (Achivi): -is 69. 387
+  - Troianis (Troianus): Troianis . . . virtus crescit 387
 
 388 laetaque per uarios petitur uictoria casus.
 - [2] 388 Lsetaque per varios petitur victoria casus.
@@ -2628,14 +3268,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 389 V. Sed postquam Danaum longe cedentia vidit
 - [3] 389 Hic postquam Danaum longe cedentia uidit
 - [4] 389 Hic postquam Danaum longe cedentia vidit
+  - Danaum (GRAI): — agmina cedentia
 - [6] 389 hic postquam Danaum longe cedentia vidit
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 390 agmina Tydides tumidumque increscere Martem,
 - [2] 390 Agmina Tydides, tumidumque increscere Martem,
   - Tumidumque increscere Martem: formatum fortasse ex hoc Maronis, Aen. IX, 687: « Tum magis increscunt animis discordibus irae ».
 - [3] 390 Agmina Tydides tumidumque increscere Martem,
 - [4] 390 Agmina Tydides tumidumque increscere Martem.
+  - Tydides (DIOMEDES): — Danaos cedentes videt
+  - Martem (MARS): Martem tumidum increscere Diomedes videt
 - [6] 390 agmina Tydides tumidumque increscere Martem,
+  - Martem (Mars): tumidumque increscere Martem i. bellum 390
+  - Tydides (Tydides): Tydides 390. 408. 530. 665. 1008
 
 391 in medias acies, qua plurimus imminet hostis,
 - [2] 391 In medias acies, qua plurimus imminet hostis,
@@ -2660,13 +3306,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Bellica Pallas adest. Haec sumpta ex Ovidio, Met. V, 47: « Bellica Pallas adest, et protegit aegide fratrem, Datque animos ». — Flagrantia ignibus arma dat Diomedi ex Homero, V, 4, qui Palladem dicit ignem assiduum in ejus galea et clypeo radiare fecisse: Δαῖέ οἱ ἐκ κόρυθός τε καὶ ἀσπίδος ἀκάματον πῦρ. Et inf. v. 467, Noster de Diomede: flagrantibus irruit armis.
 - [3] 394 Bellica Pallas adest flagrantiaque ignibus arma
 - [4] 394 Bellica Pallas adest flagrantiaque ignibus arma
+  - Pallas (MINERVA): — bellica Diomedi in proelio adest
 - [6] 394 bellica Pallas adest flagrantiaque ignibus arma
+  - Pallas (Pallas): bellica -as 394
 
 395 adiuuat atque animos iuueni uiresque ministrat.
 - [2] 395 Adjuvat, atque animos juveni viresque ministrat
 - [3] 395 Adiuuat atque animos iuueni uiresque ministrat.
 - [4] 395 Adjuvat atque animos juveni viresque ministrat.
 - [6] 395 adiuvat atque animos iuveni viresque ministrat.
+  - iuveni (Diomedes): 395 iuveni
 
 396 Ille, boum ueluti uiso grege saeua leaena,
 - [2] 396 lile, boum veiuti viso grege saeva leasna,
@@ -2692,20 +3341,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 399 Sic ruit in medios hostes Calydonius heros,
 - [3] 399 Sic ruit in medios hostes Calydonius heros,
 - [4] 399 Sic ruit in medios hostes Calydonius heros,
+  - Calydonius (DIOMEDES): Calydonius heros medios in hostes ruit
 - [6] 399 sic ruit in medios hostes Calydonius heros,
+  - Calydonius (Calydonius): Calydonius heros 399. 454
 
 400 uirginis armigerae monitis et numine tutus.
 - [2] 400 Virginis armigerse monitis et numine tutus.
   - Virginis armigerae, Palladis. … Armipotens a Virgilio, Aen. II, 425, et XII, 483.
 - [3] 400 Virginis armigerae monitis et numine tutus.
 - [4] 400 Virginis armigerae monitis et numine tutus.
+  - Virginis (MINERVA): Virgo armigera Virginis armigerae monita et numen
 - [6] 400 virginis armigerae monitis et numine tutus.
+  - armigerae (armigera): virginis armigerae 400. 545: Minervae
 
 401 Conuersi dant terga Phryges, fugientibus ille
 - [2] 401 Conversi dant terga Phryges ; fugientibus iile
 - [3] 401 Conuersi dant terga Phryges; fugientibus ille
 - [4] 401 Conversi dant terga Phryges; fugientibus ille
+  - Phryges (TROJANI): Phryges fugiunt
 - [6] 401 conversi dant terga Phryges; fugientibus ille
+  - Phryges (Phryges): Phryges 401. 493. 636. 682. 762. 803
 
 402 instat et exstructos morientum calcat aceruos.
 - [2] 402 Instat, et exstructos morientum calcat acervos.
@@ -2719,7 +3374,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … immo furit eo melius est, quod quasi proprium illud de Diomede usurpat Hor. Carm. I, 15, 27: « Ecce furit te reperire atrox Tydides, melior patre ». … Daretis legendum esse, quem Phegei et Idaei patrem nominat Homerus, V, 10, …
 - [3] 403 Dumque furit sternitque uiros, uidet ecce Daretis
 - [4] 403 Dumque ferit sternitque viros, videt ecce Daretis
+  - Daretis (DARES): Daretis filios in adverso agmine conspicit Diomedes
 - [6] 403 dumque ferit sternitque viros, videt ecce Daretis
+  - Daretis (Dares): *Daretis . . . natos, Phegeaque Idaeumque 403. Volcani inter Troas antistitis
 
 404 aduerso stantes furibundus in agmine natos,
 - [2] 404 Adverso stantes furibundus in agmine natos,
@@ -2732,7 +3389,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
 - [4] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
   - Phegeaque … (Iliad. V, 9 sqq.). …
+  - Idaeum (IDAEUS Daretis filius): Idaeum cum fratre in agmine conspicit Diomedes
+  - Phegeus (PHEGEUS): hastam in Diomedem emittit
+  - Phegea (PHEGEUS): Phegea videt in agmine Diomedes
 - [6] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
+  - Idaeum (Idaeus 1): Daretis . . . natos, Phegeaque Idaeumque 405
+  - Phegeus (Phegeus): *Phegeus 405
+  - Phegea (Phegeus): Daretis natos . . . *Phegeaque Idaeumque 405
 
 406 occupat ante graui, sed uulnera depulit umbo
 - [2] 406 Occupat ille gravi, sed vulnera depulit umbo,
@@ -2752,7 +3415,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Ingentem torquet, etc. sunt ipsa verba Virgilii, Aeneidos loco citato.
 - [3] 408 Ingentem torquet Tydides uiribus hastam
 - [4] 408 Ingentem torquet Tydides viribus hastam
+  - Tydides (DIOMEDES): — Phegea interficit
 - [6] 408 ingentem torquet Tydides viribus hastam
+  - Tydides (Tydides): Tydides 390. 408. 530. 665. 1008
 
 409 transadigitque uiri pectus: pars cuspidis ante
 - [2] 409 Transadigitque viri pectus : pars cuspidis ante
@@ -2760,6 +3425,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 409 Transadigitque uiri pectus; pars cuspidis ante
 - [4] 409 Transadigitque viri pectus ; pars cuspidis ante
 - [6] 409 transadigitque viri pectus; pars cuspidis ante
+  - viri (Phegeus): v. viri 409
 
 410 eminet et prodit scapulis pars altera fossis.
 - [2] 410 Eininet, et prodit scapulis pars altera fossis.
@@ -2786,6 +3452,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 413 Conspexit frater, stricto celer aduolat ense
 - [4] 413 Conspexit frater, stricto celer advolat ense
 - [6] 413 conspexit frater, stricto celer advolat ense
+  - frater (Idaeus 1): v. frater 413
 
 414 germanique cupit fatorum exsistere uindex.
 - [2] 414 Germanique cupit fatorum exsistere vindex.
@@ -2793,17 +3460,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 414 Germanique cupit fatorum existere uindex.
 - [4] 414 Germanique cupit fatorum existere vindex.
 - [6] 414 germanique cupit fatorum existere vindex.
+  - germani (Phegeus): germani 414. 421
 
 415 Sed neque uim saeui nec fortia sustinet arma
 - [2] 415 Sed neque vim saevi , nec fortia sustinet arma
 - [3] 415 Sed neque uim saeui nec fortia sustinet arma
 - [4] 415 Sed neque vim saevi nec fortia sustinet arma
 - [6] 415 sed neque vim saevi nec fortia sustinet arma
+  - Tydidae (Tydides): saevi . . . -dae 415
 
 416 Tydidae contraque tamen defendere temptat.
 - [2] 416 Tydidae , contraque tamen defendere tentat.
 - [3] 416 Tydidae contraque tamen defendere temptat.
 - [4] 416 Tydidae contraque tamen defendere temptat.
+  - Tydidae (DIOMEDES): Tydidae saevi arma fortia non sustinet Idaeus
 - [6] 416 Tydidae contraque tamen defendere temptat.
 
 417 Vt uolucris, discerpta sui cum corpora nati
@@ -2834,13 +3504,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 421 Sic hostem Idaeus germani caede superbum
 - [3] 421 Sic hostem Idaeus germani caede superbum
 - [4] 421 Sic hostem Idaeus germani caede superbum
+  - Idaeus (IDAEUS Daretis filius): — fratri, quem Diomedes vulneravit, non potest succurrere
 - [6] 421 sic hostem Idaeus germani caede superbum
+  - Idaeus (Idaeus 1): -us 421
+  - germani (Phegeus): germani 414. 421
 
 422 spectat atrox miseroque nequit succurrere fratri
 - [2] 422 Spectat atrox, miseroque nequit succurrere fratri.
 - [3] 422 Spectat atrox miseroque nequit succurrere fratri;
 - [4] 422 Spectat atrox miseroque nequit succurrere fratri;
 - [6] 422 spectat atrox miseroque nequit succurrere fratri
+  - fratri (Phegeus): fratri 422
 
 423 et, nisi cessisset, dextra cecidisset eadem.
 - [2] 423 Et nisi cessisset, dextra cecidisset eadem.
@@ -2852,7 +3526,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 424 Nec minus in Teucros armis furit acer Atrides ,
 - [3] 424 Nec minus in Teucros armis furit alter Atrides
 - [4] 424 Nec minus in Teucros armis furit alter Atrides
+  - Atrides (AGAMEMNON): — in Trojanos armis furit
+  - Teucros (TROJANI): In Teucros Agamemno furit
 - [6] 424 nec minus in Teucros armis furit † alter Atrides
+  - Atrides (Atrides (Agamemno)): alter(?) -es 424
+  - Teucros (Teucri): -os 424. 903
 
 425 insequiturque acies et ferro funera miscet.
 - [2] 425 Insequiturque acies, et ferro vulnera miscet.
@@ -2872,7 +3550,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 427 Infelix Hodius, quem uastae cuspidis ictu
 - [4] 427 Infelix Hodius, quem jactae cuspidis ictu
   - Hodius … (Iliad. V, 39). …
+  - Hodius (HODIUS): — infelix ab Agamemnone sternitur
 - [6] 427 infelix Odius, quem vastae cuspidis ictu
+  - Odius (Odius): infelix -us 427
 
 428 sternit et ingenti scapulas transuerberat hasta.
 - [2] 428 Sternit, et ingenti scapulas transverberat hasta.
@@ -2885,14 +3565,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Et hoc plenius exprimit versum Homeri, V, 43: Ἰδομενεὺς δ᾽ ἄρα Φαῖστον ἐνήρατο Μῄονος υἱόν. …
 - [3] 429 Hinc ferit Idomeneus aduersa parte ruentem
 - [4] 429 Hinc petit Idomeneus adversa ex parte ruentem
+  - Idomeneus (IDOMENEUS): — Phaestum caedit
 - [6] 429 hinc petit Idomeneus adversa parte ruentem
+  - Idomeneus (Idomeneus): -eus 429
 
 430 Maeoniden Phaestum, cuius post funera laetus
 - [2] 430 Maeoniden Phaestum, cujus postfunera Atrides
 - [3] 430 Maeoniden Phaestum; cuius post funera Atrides
 - [4] 430 Maeoniden Phaestum; cujus post funera laetus
   - Maeoniden Phaestum … (Iliad. V, 43). …
+  - Phaestum (PHAESTUS): Phaestum Maeoniden Idomeneus ferit
 - [6] 430 Maeoniden Phaestum; cuius post funera laetus
+  - Maeoniden (Maeonides): *Maeoniden Phaestum 430
+  - Phaestum (Phaestus): Maeoniden *Phaestum 430: Μήονος υἱὸν Βώρου ἐκ Τάρνης
 
 431 et Strophio genitum Stygias demittit ad umbras.
 - [2] 431 Et Strophio genitum Stygias demittit ad umbras.
@@ -2900,20 +3585,33 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 431 E Strophio genitum Stygias demittit ad umbras.
 - [4] 431 E Strophio genitum Stygias demittit ad umbras.
   - … Strophio … (Iliad. V, 49).
+  - Strophio (STROPHIUS): e Strophio genitum (silicet Scamandrium) Idomeneus caedit
+  - Stygias (STYGIUS): ad Stygias undas
 - [6] 431 et Strophio genitum Stygias demittit ad umbras.
+  - Strophio (Strophius): Strophio genitum 431: Scamandrium
+  - Stygias (Stygius): Stygias . . . ad umbras 431
 
 432 Meriones Phereclum librata percutit hasta
 - [2] 432 Meriones Phereclum vibrata percutit hasta,
 - [3] 432 Meriones Phereclum uibrata perculit hasta,
 - [4] 432 Meriones Phereclum vibrata perculit hasta,
   - **432-433** Meriones Phereclum (Iliad. V, 59), vibrata perculit, Pedaeumque Meges (Iliad. V, 69), …
+  - Meriones (MERIONES): — Phereclum caedit
+  - Phereclum (PHERECLUS): Phereclum Meriones occidit
 - [6] 432 Meriones Phereclum librata percutit hasta,
+  - Meriones (Meriones): -nes *432. 1013
+  - Phereclum (Phereclus): *Phereclum 432: Τέκτονος υἱὸν Ἁρμονίδεω
 
 433 Pedaeumque Meges. Tum uastis horridus armis
 - [2] 433 Pedaeumque Meges , vastisque horrendus in armis
 - [3] 433 Pedaeumque Meges; tum uastis horridus armis
 - [4] 433 Pedaeumque Meges ; tum vastis horridus armis
+  - Eurypylus (EURYPYLUS): vastis horridus armis, Hypsenora occidit
+  - Meges (MEGES): — Pedaeum caedit
+  - Pedaeum (PEDAEUS): Pedaeum Meges occidit
 - [6] 433 Pedaeumque Meges; tum vastis horridus armis
+  - Meges (Meges): *Meges 433. Phylei f., a partibus Graecorum
+  - Pedaeum (Pedaeus): *Pedaeum 433: sp. Antenoris
 
 434 Eurypylus gladio uenientem Hypsenora fundit
 - [2] 434 Eurypyius gladio venieutem Hypsenora fundit,
@@ -2921,7 +3619,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 434 Eurypylus gladio metuentem Hypsenora fundit
 - [4] 434 Eurypylus gladio venientem Hypsenora fundit
   - … Hypsenora … (Iliad. V, 76 sqq.).
+  - Hypsenora (HYPSENOR): Hypsenora venientem Eurypylus caedit
 - [6] 434 Eurypylus gladio venientem Hypsenora fundit
+  - Eurypylus (Eurypylus): vastis horridus armis Eurypylus 434
+  - Hypsenora (Hypsenor): *Hypsenoră 434: Dolopionis f.
 
 435 et pariter uita iuuenem spoliauit et armis.
 - [2] 435 Et pariter juvenem vita spoliavit et arnris.
@@ -2933,19 +3634,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 436 Parte alia volitat sinuoso Pandarus arcu,
 - [3] 436 Parte alia uolitat sinuoso Pandarus arcu
 - [4] 436 Parte alia volitat sinuoso Pandarus arcu
+  - Pandarus (PANDARUS): — in agmine volitat
 - [6] 436 parte alia volitat sinuoso Pandarus arcu
+  - Pandarus (Pandarus): -us 346. 436
 
 437 Tydidenque oculis immensa per agmina quaerit;
 - [2] 437 Tydidemque oculis immensa per agmina quaerit :
 - [3] 437 Tydidenque oculis inmensa per agmina quaerit.
 - [4] 437 Tydidenque oculis immensa per agmina quaerit.
+  - Tydiden (DIOMEDES): Tydiden quaerit Pandarus
 - [6] 437 Tydidenque oculis inmensa per agmina quaerit.
+  - Tydiden (Tydides): -den 437: Diomedes
 
 438 quem postquam Troum sternentem corpora uidit,
 - [2] 438 Quem postquam vidit sternentem corpora Troum ,
 - [3] 438 Quem postquam Troum sternentem corpora uidit,
 - [4] 438 Quem postquam Troum sternentem corpora vidit,
+  - Troum (TROJANI): — corpora Diomedem sternentem Pandarus videt
 - [6] 438 quem postquam Troum sternentem corpora vidit,
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 439 horrida contento derexit spicula cornu
 - [2] 439 Horrida direxit contento spicula cornu ,
@@ -2963,7 +3670,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 441 Tunc vero ardescit juvenis Calydonius ira,
 - [3] 441 Tum uero ardescit iuuenis Calydonius ira
 - [4] 441 Tum vero ardescit juvenis Calydonius ira,
+  - Calydonius (DIOMEDES): Calydonius juvenis ira ardescit
 - [6] 441 tum vero ardescit iuvenis Calydonius ira
+  - Calydonius (Calydonius): iuvenis -us 441: Diomedes
 
 442 in mediasque acies animosi more leonis
 - [2] 442 In medias acies animosi more leonis
@@ -2977,7 +3686,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 443 Fertur et Astynoum magnumque in Hypirona tendit:
 - [4] 443 Fertur et Astynoum magnumque in Hypirona tendit :
   - Astynoum, Hypirona … (Iliad. V, 144). …
+  - Astynoum (ASTYNOUS): Astynoum Diomedes occidit
+  - Hypirona (HYPIRON): Hypirona magnum invadit Diomedes
 - [6] 443 fertur et Astynoum magnumque † Hyperona fundit:
+  - Astynoum (Astynous): *Astynoum 443
+  - Hyperona (Hyperon): magnum . . . *Hyperonă 443
 
 444 comminus hunc gladio, iaculo ferit eminus illum;
 - [2] 444 Cominus hunc gladio, jaculo ferit eminus illum.
@@ -2990,32 +3703,50 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 445 Inde premit Polyidon Abantaque cuspide forti
 - [4] 445 Inde premit Polyidon Abantaque cuspide forti
   - **445-446** Polyidon, Thoonem … (Iliad. V, 148, 152).
+  - Abanta (ABAS): Abanta Diomedes occidit
+  - Polyidon (POLYIDOS Eurydamantis filius): Polyidon Diomedes interficit
 - [6] 445 inde premit Polyïdon Abantaque cuspide forti
+  - Abanta (Abas): Abanta Eurydamantis filium, Polyidi fratrem, Troa interfecit Diomedes 445
+  - Polyïdon (Polyidos): *Polyïdŏn (polidona trad.) 445: Eurydamantis f.
 
 446 et notum bello Xanthum uastumque Thoonem.
 - [2] 446 Et notum bello Xanthum , vastumque Thoonem.
 - [3] 446 Et notum bello Xanthum uastumque Thoonem.
 - [4] 446 Et notum bello Xanthum vastumque Thoonem.
+  - Thoonem (THOON Phaenopis filius): Thoonem vastum Diomedes occidit
+  - Xanthum (XANTHUS Phaenopis filius): Xanthum notum bello Diomedes interficit
 - [6] 446 et notum bello Xanthum vastumque Thoonem.
+  - Thoonem (Thoon): vastum . . . *Thoonem 446: Phaenopis f.
+  - Xanthum (Xanthus (Phaenopis f.)): notum bello Xanthum 446: Phaenopis f., Thoonis fratrem
 
 447 Post hos infestus Chromiumque et Echemmona telo
 - [2] 447 Post hos infestus Chromiumque et Echemona telo
 - [3] 447 Post hos infestos Chromiumque et Echemona telo
 - [4] 447 Post hos infestus Chromiumque et Echemona telo
   - … Chromium, Echemona … (Iliad. V, 159-160).
+  - Chromium (CHROMIUS Priami filius): Chromium Diomedes caedit
+  - Echemona (ECHEMON): Echemona Diomedes caedit
 - [6] 447 post hos infestos Chromiumque et Echemmona telo
+  - Chromium (Chromius 2): Chromiumque et Echemmona 447: filios Priami
+  - Echemmona (Echemmon): Echemmona 447: Priami filium
 
 448 proturbat celeri pariterque ad Tartara mittit.
 - [2] 448 Proturbat celeri, pariterque ad Tartara mittit.
 - [3] 448 Proturbat celeri pariterque ad Tartara mittit.
 - [4] 448 Proturbat celeri pariterque ad Tartara mittit.
+  - Tartara (TARTARA): ad Tartara Echemona Diomedes mittit
 - [6] 448 proturbat celeri pariterque ad Tartara mittit.
+  - Tartara (Tartara): ad Tartara mittit 448
 
 449 Tu quoque Tydidae prostratus, Pandare, dextra
 - [2] 449 Tu quoque Tydidae prostratus, Pandare, dextra
 - [3] 449 Tu quoque Tydidae prostratus, Pandare, dextra
 - [4] 449 Tu quoque Tydidae prostratus, Pandare, dextra
+  - Tydidae (DIOMEDES): — dextra prostratus Pandarus
+  - Pandare (PANDARUS): Pandare, occidis Diomedis manu
 - [6] 449 tu quoque Tydidae prostratus, Pandare, dextra
+  - Pandare (Pandarus): -re 449
+  - Tydidae (Tydides): -dae . . . dextra 449
 
 450 occidis, infelix, accepto uulnere tristi,
 - [2] 450 Occidis infelix, accepto vulnere" tristi,
@@ -3040,13 +3771,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 453 Ossaque confossi spargit Tydideus ensis.
 - [3] 453 Ossaque confossi spargit Tydeius ensis.
 - [4] 453 Ossaque confossi spargit Tydeius ensis.
+  - Tydeius (TYDEIUS): (Diomedis) ensis
 - [6] 453 ossaque confossa spargit Tydeius ensis.
+  - Tydeius (Tydeius): Tydeius ensis Diomedis: 453
 
 454 Iamque manum Aeneas simul et Calydonius heros
 - [2] 454 Jamque manum Aeneas simul et Calydonius heros
 - [3] 454 Iamque manum Aeneas simul et Calydonius heros
 - [4] 454 Jamque manum Aeneas simul et Calydonius heros
+  - Aeneas (AENEAS): — contra Diomedem congreditur
+  - Calydonius (DIOMEDES): — cum Aenea pugnat
 - [6] 454 iamque manum Aeneas simul et Calydonius heros
+  - Aeneas (Aeneas): -as 454. 516
+  - Calydonius (Calydonius): Calydonius heros 399. 454
 
 455 contulerant, iactis inter se comminus hastis;
 - [2] 455 Contulerant jactis inter se cominus hastis ,
@@ -3071,6 +3808,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 458 Postquani utrique diu steterant, nec vulnera magnus
 - [3] 458 Postquam utrique diu steterant nec uulnera magnus
 - [4] 458 Postquam utrique diu steterant nec vulnera magnus
+  - Tydides (DIOMEDES): — magnus, qua Aeneam vulneret, non videt
 - [6] 458 postquam utrique diu steterant nec vulnera magnus
 
 459 qua daret infesto Tydides ense uidebat,
@@ -3078,6 +3816,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 459 Qua daret infesto Tydides ense uidebat,
 - [4] 459 Qua daret infesto Tydides ense videbat,
 - [6] 459 qua daret infesto Tydides ense videbat,
+  - Tydides (Tydides): magnus . . . -des 459
 
 460 saxum ingens medio quod forte iacebat in agro,
 - [2] 460 Saxuin ingens, medio quod forte jacebat in agro,
@@ -3109,7 +3848,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 464 Quem Yenus aethereas genitrix delapsa per auras
 - [3] 464 Quem Uenus aethereas genetrix delapsa per auras
 - [4] 464 Quem Venus aethereas genetrix delapsa per auras
+  - Venus (VENUS): — Aeneam Diomedi
 - [6] 464 quem Venus aethereas genetrix delapsa per auras
+  - Venus (Venus): Venus 315. 464. 911
 
 465 accipit et nigra corpus caligine condit.
 - [2] 465 Accipit, et nigra corpus caligine condit
@@ -3123,15 +3864,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Ut elegantissimos versus sequentes laudandos censet Barthius, Adv. p. 2770 extr.
 - [3] 466 Non tulit Oenides animis nebulasque per ipsas
 - [4] 466 Non tulit Oenides animis nebulasque per ipsas
+  - Oenides (DIOMEDES): Oenides Veneris manum vulnerat
 - [6] 466 non tulit Oenides animis nebulasque per ipsas
   - … animis … cf. Verg. Aen. 8, 256 …
+  - Oenides (Oenides): *Oenides 466: Diomedes
 
 467 fertur et in Venerem flagrantibus irruit armis,
 - [2] 467 Fertur, etin Venerem flagrantibus irruit armis,
   - Flagrantibus armis. Vid. not. ad versum 394.
 - [3] 467 Fertur et in Uenerem flagrantibus irruit armis
 - [4] 467 Fertur et in Venerem flagrantibus irruit armis
+  - Venerem (VENUS): In Venerem armis Diomedes irruit
 - [6] 467 fertur et in Venerem flagrantibus irruit armis
+  - Venerem (Venus): in -rem 467
 
 468 et neque quem demens ferro petat inspicit aruis
 - [2] 468 Et neque, quem demens ferro petat, inspicit ante,
@@ -3150,7 +3895,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 470 Icta petit caelum terris Cytherea relictis,
 - [3] 470 Icta petit caelum terris Cytherea relictis
 - [4] 470 Icta petit caelum terris Cytherea relictis
+  - Cytherea (VENUS): — icta Diomedis hasta, petit caelum
 - [6] 470 icta petit caelum terris Cytherea relictis
+  - Cytherea (Cytherea): Cythereă 309. 335. 470: Venus
 
 471 atque ibi sidereae queritur sua uulnera matri.
 - [2] 471 Atque ibi sidereae queritur sua vulnera malri.
@@ -3159,12 +3906,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 471 Atque ibi sidereae queritur sua uulnera matri.
 - [4] 471 Atque ibi sidereae queritur sua vulnera matri.
 - [6] 471 atque ibi sidereae queritur sua vulnera matri.
+  - matri (Dione): (Dione) Veneris mater: sidereae . . . matri 471
 
 472 Dardanium Aenean seruat Troianus Apollo
 - [2] 472 Dardanium Aenean servat Trojanus Apollo ,
 - [3] 472 Dardanium Aenean seruat Troianus Apollo
 - [4] 472 Dardanium Aenean servat Trojanus Apollo
+  - Aenean (AENEAS): Aenean Dardanium Trojanus Apollo servat
+  - Apollo (APOLLO): — Trojanus Aeneam servat
 - [6] 472 Dardanium Aenean servat Troianus Apollo
+  - Aenean (Aeneas): Dardanium -an 472
+  - Apollo (Apollo): Troianus -o 472. 830
+  - Dardanium (Dardanius): -um Aenean 472
 
 473 accenditque animos iterumque ad bella reducit.
 - [2] 473 Accenditque aniinos, iterumque ad bella reducit.
@@ -3236,13 +3989,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 483 Emicat interea Veneris pulcherrima proles,
 - [3] 483 Emicat interea Ueneris pulcherrima proles
 - [4] 483 Emicat interea Veneris pulcherrima proles
+  - Veneris (AENEAS): Veneris proles pulcherrima emicat in agmine
+  - Veneris (VENUS): Veneris proles Aeneas
 - [6] 483 emicat interea Veneris pulcherrima proles
+  - proles (Aeneas): et Venus 483
+  - Veneris (Venus): Aeneas, -eris . . . proles 236. 483
 
 484 densaque Graiorum premit agmina nudaque late
 - [2] 484 Densaque Graiorum premit agmina, nudaque late
 - [3] 484 Densaque Graiorum premit agmina nudaque late
 - [4] 484 Densaque Grajorum premit agmina nudaque late
+  - Grajorum (GRAI): — agmina Aeneas premit
 - [6] 484 densaque Graiorum premit agmina nudaque late
+  - Graiorum (Graius): -orum . . . agmina 484
 
 485 terga metit gladio funestaque proelia miscet.
 - [2] 485 Terga metit gladio, funestaque praelia miscet.
@@ -3256,13 +4015,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Spes una Phrygum, frequens elogium Hectoris. Pentadius in tumulo Hectoris: Occubuere simul spesque salusque Phrygum; atque infra Noster, v. 944: « Unus, tota salus in quo Trojana manebat, Hector adest ». — Et inprimis Virgil. Aen. II, 281: « O lux Dardaniae! spes o fidissima Teucrum! » Ed. — Caeterum haec et sequentia Barth. Adv. p. 2771, admirabiliter scripta esse profitetur.
 - [3] 486 Nec cessat spes una Phrygum fortissimus Hector
 - [4] 486 Nec cessat spes una Phrygum fortissimus Hector
+  - Hector (HECTOR): — fortissimus Graecos sternit caede
+  - Phrygum (TROJANI): — spes una Hector
 - [6] 486 nec cessat spes una Phrygum fortissimus Hector
+  - Hector (Hector): fortissimus -or 486. 820
+  - Phrygum (Phryges): spes una -um 486
 
 487 sternere caede uiros atque agmina uertere Graium.
 - [2] 487 Sternere caede viros atque agmina vertere Graium.
 - [3] 487 Sternere caede uiros atque agmina uertere Graium.
 - [4] 487 Sternere caede viros atque agmina vertere Grajum.
+  - Grajum (GRAI): — agmina Hector vertit
 - [6] 487 sternere caede viros atque agmina vertere Graium.
+  - Graium (Graius): agmina -um 305. 487
 
 488 Vt lupus in campis pecudes cum uidit apertis
 - [2] 488 Ut lupus in campis pecudes quum vidit apertis,
@@ -3291,19 +4056,27 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 491 In mediosque greges avidus ruit; haud secus Hector
 - [3] 491 In mediosque greges auidus ruit: haut secus Hector
 - [4] 491 In mediosque greges avidus ruit : haut secus Hector
+  - Hector (HECTOR): — Graecos invadit, haud secus ac lupus
 - [6] 491 in mediosque greges avidus ruit: haut secus Hector
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 492 inuadit Danaos et territat ense cruento.
 - [2] 492 Invadit Danaos et territat ense cruento.
 - [3] 492 Inuadit Danaos et territat ense cruento.
 - [4] 492 Invadit Danaos et territat ense cruento.
+  - Danaos (GRAI): — Hector invadit
 - [6] 492 invadit Danaos et territat ense cruento.
+  - Danaos (Danai): -os 45. 492. 659. 808. 912. 950. 1001
 
 493 Deficiunt Graiorum acies, Phryges acrius instant
 - [2] 493 Deficiunt Graiorum acies, Phryges acrius instant,
 - [3] 493 Deficiunt Graiorum acies, Phryges acrius instant
 - [4] 493 Deficiunt Grajorum acies, Phryges acrius instant
+  - Grajorum (GRAI): — acies deficiunt
+  - Phryges (TROJANI): — acrius instant
 - [6] 493 deficiunt Graiorum acies, Phryges acrius instant
+  - Graiorum (Graius): -orum acies 493
+  - Phryges (Phryges): Phryges 401. 493. 636. 682. 762. 803
 
 494 attolluntque animos: geminat uictoria uires.
 - [2] 494 A.dtoUuntque animos : geminat victoria vires.
@@ -3316,13 +4089,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 495 Ut vidit socios infesto cedere Marti
 - [3] 495 Ut uidit socios infesto cedere Marti
 - [4] 495 Ut vidit socios infesto cedere Marti
+  - Marti (MARS): Marti infesto cedunt Graeci
 - [6] 495 ut vidit socios infesto cedere marte
+  - marte (Mars): infesto Marte 495
 
 496 rex Danaum sublimis equo uolat agmina circum
 - [2] 496 Rex Danaum, sublimis equo volat agmina circum,
 - [3] 496 Rex Danaum, sublimis equo uolat agmina circum
 - [4] 496 Rex Danaum, sublimis equo volat agmina circum
+  - Danaum (AGAMEMNON): Danaum rex Marti infesto socios cedere videt
+  - Danaum (GRAI): — rex (Agamemno)
 - [6] 496 rex Danaum, sublimis equo volat agmina circum
+  - rex (Agamemnon): et cf. rex Danaum 124. 496
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 497 hortaturque duces animosque in proelia firmat.
 - [2] 497 Hortaturque duces , animosque in praelia iBrmat.
@@ -3347,8 +4126,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 500 Ut Libycus cum forte leo procul agmina uidit
   - **500—504** : cf. Gesta Bereng. I 207—210
 - [4] 500 Ut Libycus cum forte leo procul agmina vidit
+  - Libycus (LIBYCUS): ut Libycus leo (Agamemno)
 - [6] 500 ut Libycus cum forte leo procul agmina vidit
   - **500—508** (testimonia) fere = Gesta Ber. 1, 208—10 (500 cernit, 502 Attollens)
+  - Libycus (Libycus): Libycus . . . leo 500
 
 501 laeta boum passim uirides errare per herbas,
 - [2] 501 Lseta boum passim virides errare per berbas,
@@ -3373,19 +4154,25 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 504 Sic ferus Atrides adversos fertur in hostes,
 - [3] 504 Sic ferus Atrides aduersos fertur in hostes
 - [4] 504 Sic ferus Atrides adversos fertur in hostes
+  - Atrides (AGAMEMNON): — ferus in hostes, ut libycus leo, ruit
 - [6] 504 sic ferus Atrides adversos fertur in hostes
+  - Atrides (Atrides (Agamemno)): ferus -es 504
 
 505 infestasque Phrygum proturbat cuspide turmas.
 - [2] 505 Infestasque Phrygum proturbat cuspide turmas.
 - [3] 505 Infestasque Phrygum proturbat cuspide turmas.
 - [4] 505 Infestasque Phrygum proturbat cuspide turmas.
+  - Phrygum (TROJANI): — turmas proturbat Agamemno
 - [6] 505 infestaque Phrygum proturbat cuspide turmas.
+  - Phrygum (Phryges): -um . . . turmas 505
 
 506 Virtus clara ducis uires accendit Achiuum
 - [2] 506 Virtus clara ducis vires accendit Achivum,
 - [3] 506 Uirtus clara ducis uires accendit Achiuum,
 - [4] 506 Virtus clara ducis vires ascendit Achivum,
+  - Achivum (GRAI): Achivum vires accendit Agamemnonis virtus
 - [6] 506 virtus clara ducis vires accendit Achivum
+  - Achivum (Achivi): -um 506. 657
 
 507 et spes exacuit languentia militis arma:
 - [2] 507 Et spes exacuit languentia militis arma.
@@ -3398,20 +4185,29 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 508 Funduntur Teucri , Danai laetantur ovantes.
 - [3] 508 Funduntur Teucri, Danai laetantur ouantes.
 - [4] 508 Funduntur Teucri, Danai laetantur ovantes.
+  - Danai (GRAI): Danai laetantur
+  - Teucri (TROJANI): Teucri funduntur
 - [6] 508 funduntur Teucri, Danai laetantur ovantes.
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
+  - Teucri (Teucri): Teucri 508
 
 509 Tandem hic Aenean immisso tendere curru
 - [2] 509 Tandem hic ,neam immisso contendere curru
   - … Virg. Aeneid. XI, 889: « immissis pars caeca et concita frenis Arietat in portas ». Ovid. Met. I, 280: « Fluminibus vestris totas immittite habenas ».
 - [3] 509 Tandem hic Aenean inmisso tendere curru
 - [4] 509 Tandem hic Aenean immisso tendere curru
+  - Aenean (AENEAS): — curru tendentem Agamemno conspicit
 - [6] 509 tandem hic Aenean immisso tendere curru
+  - Aenean (Aeneas): -ān 509
 
 510 conspicit Atrides: stricto concurrere ferro
 - [2] 510 Conspicit Atrides, strictoque occurrere ferro
 - [3] 510 Conspicit Atrides strictoque occurrere ferro
 - [4] 510 Conspicit Atrides strictoque occurrere ferro
+  - Atrides (AGAMEMNON): — Aeneam curru tendentem conspicit
 - [6] 510 conspicit Atrides: stricto concurrere ferro
+  - Atrides (Atrides (Agamemno)): -es 24. 510(?) 663
+  - Atrides (Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
 
 511 comparat et iaculum, quantum furor ipse mouebat,
 - [2] 511 Apparat , et jaculum , quantum furor ipse movebat ,
@@ -3434,6 +4230,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 513 Pectus in aurigae stomachoque infigitur alto :
 - [6] 513 pectus in aurigae stomachoque infigitur alto:
   - alto … at cf. Verg. Aen. 9, 699
+  - — (Aeneae auriga): Aeneae auriga non nominatus 513
 
 514 ille ruens ictu media inter lora rotasque
 - [2] 514 Ille ruens ictu medla inter lora rotasque
@@ -3452,7 +4249,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 516 Ingemit Aeneas, curruque animosus ab alto
 - [3] 516 Ingemit Aeneas curruque animosus ab alto
 - [4] 516 Ingemit Aeneas curruque animosus ab alto
+  - Aeneas (AENEAS): — auriga ab Agamemnone interfecto, ingemit animosusque de curru desilit
 - [6] 516 ingemit Aeneas curruque animosus ab alto
+  - Aeneas (Aeneas): -as 454. 516
 
 517 desilit et ualido Crethona<que> comminus ictu
 - [2] 517 Desilit, et valido Crethonem cominus ictu
@@ -3460,7 +4259,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 517 Desilit et ualido Crethonaque cominus ictu
 - [4] 517 Desilit et valido Crethonaque cominus ictu
   - Crethona … (Iliad. V, 541 sqq.).
+  - Crethona (CRETHON): Crethona occidit Aeneas
 - [6] 517 desilit et valido Crethona\<que> comminus ictu
+  - Crethona (Crethon): Crethona 517: Dioclis f., Pheraeum
 
 518 Orsilochumque ferit, quorum post funera uictus
 - [2] 518 Orsilochumque ferit : quorum post fiinera victus
@@ -3468,27 +4269,41 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 518 Orsilochumque ferit, quorum post funera uictus
 - [4] 518 Orsilochumque ferit, quorum post funera victus
   - **518, 520** Orsilochum, Antilochique Mydon … (Iliad. ibid. et 580).
+  - Orsilochum (ORSILOCHUS): Orsilochum Aeneas caedit
 - [6] 518 Orsilochumque ferit, quorum post funera victor
   - … Aeneas evitavit Menelaum et Antilochon (E 571 ss.)
+  - Orsilochum (Orsilochus): *Orsilochum 518: Dioclis f., Pheraeum
 
 519 Paphlagonum ductor Menelai concidit armis,
 - [2] 519 Paphlagonum ductor Menelai concidit armis,
 - [3] 519 Paphlagonum ductor Menelai concidit armis,
 - [4] 519 Paphlagonum ductor Menelai concidit armis,
+  - Menelai (MENELAUS): — armis concidit Pylaemenes
+  - Paphlagonum (PYLAEMEN): Paphlagonum ductor a Menelao occiditur
 - [6] 519 Paphlagonum ductor Menelai concidit armis,
+  - Menelai (Menelaus): -lai 519. 639
+  - Paphlagonum (Paphlagones): Paphlagonum ductor 519: Pylaemenes
 
 520 Antilochique Mydon. Post hos Iouis inclita proles
 - [2] 520 Antilochique Mydon : post hos Jovis inclyta proles
   - Antilochique Mydon: sic legendum esse ex Homero Bondamius monstravit. …
 - [3] 520 Antilochique Mydon; post hos Iouis inclita proles
 - [4] 520 Antilochique Mydon ; post hos Jovis inclita proles
+  - Antilochi (ANTILOCHUS): — armis concidit Mydon
+  - Jovis (JUPPITER): — proles (Sarpedon)
+  - Mydon (MYDON): Antilochi armis concidit
+  - Sarpedon (SARPEDON): — Jovis proles inclita pugnat
 - [6] 520 Antilochique Mydon; post hos Iovis inclita proles
+  - Antilochi (Antilochus): armis . . . -i 520: Nestoris f.
+  - Iovis (Iuppiter): Iovis inclita proles Sarpedon 248. 520
+  - Mydon (Mydon): *Mydon 520: auriga Pylaemenis, Atymniades
 
 521 Sarpedon bellum funestaque proelia miscet.
 - [2] 521 Sarpedon sequitur, funestaque praelia miscet.
 - [3] 521 Sarpedon subiit funestaque praelia miscet.
 - [4] 521 Sarpedon subiit funestaque proelia miscet.
 - [6] 521 Sarpedon bellum funestaque proelia miscet.
+  - Sarpedon (Sarpedon): Iovis inclita proles Sarpedon 249. 521
 
 522 Quem contra infelix non aequis dimicat armis
 - [2] 522 Quem contra infehx non aequis dimicat arrais
@@ -3502,13 +4317,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 523 Tlepolemus magno satus Hercule, sed neque uires
 - [4] 523 Tlepolemus magno satus Hercule, sed neque vires
   - Tlepolemus … (Iliad. V, 628).
+  - Hercule (HERCULES): Hercule magno Tlepolemus satus
+  - Tlepolemus (TLEPOLEMUS): — satus magno Hercule, a Sarpedone occiditur
 - [6] 523 Tlepolomus magno satus Hercule, sed neque vires
+  - Hercule (Hercules): Tlepolomus magno satus Hercule 523
+  - Tlepolomus (Tlepolomus): *-us magno satus Hercule 523
 
 524 hunc seruare patris nec tot potuere labores,
 - [2] 524 Hunc servare patris, nec tot potuere labores,
 - [3] 524 Hunc seruare patris nec tot potuere labores,
 - [4] 524 Hunc servare patris nec tot potuere labores,
 - [6] 524 hunc servare patris nec tot potuere labores,
+  - labores (Hercules): v. patris . . . labores 524
 
 525 quin caderet tenuemque daret de corpore uitam.
 - [2] 525 Quin caderet, tenuemque daret de corpore vitam.
@@ -3529,7 +4349,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Fraudis commentor Ulysses dicitur, veluti hoc ejus fuerit artificium, inquit Barthius, Adv. LIX, 15, quale ab Homero aliisque Veteribus ei perpetuo tribuitur. Virgil. Aen. II, 164: « scelerumque inventor Ulysses »: idemque repetit Noster infra, v. 579. Similiter Ovidius de eo, Met. XIII, 31: « quid sanguine cretus Sisyphio, furtisque et fraude simillimus illi », cujus et commenta mox notat vs. 38. Hinc etiam, notante Dussenio ad Nostri versum 65, Ulysses in ara Dosiadae secunda φὼρ appellatur, ut pluribus ostendit Salmasius in notis, p. 156.
 - [3] 527 Sarpedon, fraudisque subit commentor Ulixes
 - [4] 527 Sarpedon, fraudisque subit commentor Ulixes
+  - Sarpedon (SARPEDON): — saucius egreditur certamine
+  - Ulixes (ULIXES): — fraudis commentor Trojanos septem juvenes occidit
 - [6] 527 Sarpedon, fraudisque subit commentor Vlixes
+  - Sarpedon (Sarpedon): -don 527
+  - Vlixes (Vlixes): fraudis . . . commentor -es 527. 579
 
 528 et septem iuuenum fortissima corpora fundit.
 - [2] 528 'Et septem juvenum pulcherrima corpora fundit.
@@ -3543,13 +4367,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Guelf. 2 aliter verba ordinat: Hinc patriae culmen pugnat. Dussenius mavult columen legere, p. 29; quod sane maxime aptum Hectori, atque alteri elogio, quod ei supra tribuebat Noster, v. 486, spes una Phrygum, convenientissimum est. Similiter Seneca in Troad. vs. 126, de Hectore: « Columen patriae, mora fatorum, Tu praesidium Phrygibus fessis, Tu murus eras ». — « Graium murus Achilles », Ovid. Met. XIII, 281. Lucan. VI, 201, de Scaeva: « stat non fragilis pro Caesare murus, Pompeiumque tenet ». Caeterum quod addit Seneca l. c. « Tecum cecidit, summusque dies Hectoris idem patriaeque fuit », imitatus videtur Noster, infra vs. 1061. Vide notata a nobis ad Pentadii tumulum Hect. huj. op. t. II, p. 329. Ed. — Verum tamen nolim vocabulum in ipso contextu mutare, quum culmen adeo non disconveniat Hectori, ut saltem summam ejus dignitatem indicet. Ita plane Cornel. Severus Ciceronem vocat « Egregium semper patriae caput », supra pag. 211 hujus tomi.
 - [3] 529 Hinc pugnat patriae columen Mauortius Hector,
 - [4] 529 Hinc pugnat patriae columen Mavortius Hector,
+  - Hector (HECTOR): — patriae columen, Mavortius pugnat
 - [6] 529 hinc pugnat patriae columen Mavortius Hector,
+  - Hector (Hector): patriae columen Mavortius -or 529
 
 530 illinc Tydides: sternuntur utrimque uirorum
 - [2] 530 lUinc Tydides : stemuntur utrimque virorum
 - [3] 530 Illinc Tydides: sternuntur utrimque uirorum
 - [4] 530 Illinc Tydides : sternuntur utrimque virorum
+  - Tydides (DIOMEDES): — pugnat
 - [6] 530 illinc Tydides: sternuntur utrimque virorum
+  - Tydides (Tydides): Tydides 390. 408. 530. 665. 1008
 
 531 corpora per campos et sanguine prata rigantur.
 - [2] 531 Corpora per campos, et sanguine prata rigantur.
@@ -3561,14 +4389,21 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 532 Pugnat bellipotens casta cum Pallade Mavors ,
 - [3] 532 Pugnat bellipotens casta cum Pallade Mauors
 - [4] 532 Pugnat bellipotens casta cum Pallade Mavors
+  - Mavors (MARS): — bellipotens pugnat cum Pallade
+  - Pallade (MINERVA): Cum Pallade casta Mars pugnat
 - [6] 532 pugnat bellipotens casta cum Pallade Mavors
+  - bellipotens (bellipotens): bellipotens . . . Mavors 532
+  - Mavors (Mavors): bellipotens . . . Mavors 532
+  - Pallade (Pallas): casta cum -de 532. 894
 
 533 ingentemque mouet clipeum, quem sancta uirago
 - [2] 533 Ingentemque movet clypeum, quem sancta virago
   - … Virago frequens et fere proprium de Pallade. Flava virago Nasoni dicitur Met. VI, 130, « sancta virago », judice Barthio l. c. p. 2806, castam simul innuit et Martiam seu bellicosam.
 - [3] 533 Ingentemque mouet clipeum, quem sancta uirago
 - [4] [533] Ingentemque movet clipeum; quem sancta virago
+  - virago (MINERVA): sancta virago Martem vulnerat
 - [6] 533 ingentemque movet clipeum; quem sancta virago
+  - virago (virago): sancta virago 533: Minerva
 
 534 egit et extrema percussum cuspide caedit
 - [2] 534 Aegide et extrema percussum cuspide caedit,
@@ -3589,6 +4424,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 536 Hic ille aethereo queritur sua uulnera regi
 - [4] 536 Hic ille aethereo queritur sua vulnera regi
 - [6] 536 hic ille aethereo queritur sua vulnera regi
+  - regi (Iuppiter): aethereo . . . regi 536
 
 537 saucius et magni genitoris iurgia suffert.
 - [2] 537 Saucius , et magni genitoris jurgia suffert.
@@ -3596,6 +4432,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 537 Saucius et magni genitoris iurgia suffert.
 - [4] 537 Saucius et magni genitoris jurgia suffert.
 - [6] 537 saucius et magni genitoris iurgia suffert.
+  - genitoris (Iuppiter): magni genitoris 537
 
 ## Book 6
 
@@ -3604,14 +4441,22 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Acamantem legunt Bondamius et Dussen. ll. cc. ex Homeri VI, 8. …
 - [3] 538 Interea magnis Acamantem uiribus Aiax
 - [4] 538 Interea magnis Acamantem viribus Ajax
+  - Acamantem (ACAMAS dux Thracum): Acamantem Ajax Telamonius interficit
+  - Ajax (AJAX Telamonis filius): — Acamantem, Thracum ducem, interficit
 - [6] 538 interea magnis Acamantem viribus Aiax
+  - Acamantem (Acamas 2): -antem . . . Aiax Telamonius interimit 538
+  - Aiax (Aiax (Telamonius)): -ax 538. 799. 1009
 
 539 interimit uastumque capit Menelaus Adrastum
 - [2] 539 Interimit, vastumque capit Menelaus Adrastum,
   - … propter narrationem Homeri, Iliad. VI, 37 seqq. qui refert, Adrastum equis pavore attonitis excussum, vivumque a Menelao prope adstante captum suppliciter hunc orasse, ut vitae suae parceret; atque hoc prius impetrasse, mox ab Agamemnone accurrente, et Menelaum objurgante, graviter vulneratum esse. … E qua intelligas, auctorem non hic miseras preces Adrasti respexisse, sed tantum casum ejus et captivitatem exprimere voluisse. …
 - [3] 539 Interimit, uastumque capit Menelaus Adrastum
 - [4] 539 Interimit, vastumque capit Menelaus Adrastum
+  - Adrastum (ADRASTUS): Adrastum vastum capit Menelaus
+  - Menelaus (MENELAUS): — Adrastum capit
 - [6] 539 interimit, vastumque capit Menelaus Adrastum
+  - Adrastum (Adrastus): vastumque capit Menelaus -um 539
+  - Menelaus (Menelaus): Menelaus 283. 312. 339. 539
 
 540 et rapit ad classes manibus post terga reuinctis,
 - [2] 540 Et rapit ad classes manibus post terga revinctis,
@@ -3631,52 +4476,70 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 542 Incumbunt Danai, cedit Trojana juventus,
 - [3] 542 Incumbunt Danai, cedit Troiana iuuentus
 - [4] 542 Incumbunt Danai, cedit Trojana juventus
+  - Danai (GRAI): — incumbunt
+  - Trojana (TROJANI): Trojana juventus cedit
 - [6] 542 incumbunt Danai, cedit Troiana iuventus
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
+  - Troiana (Troianus): Troiana iuventus 542. 770
 
 543 tergaque nuda tegit. Sensit Mauortius Hector
 - [2] 543 Tergaque nuda tegit : seusit Mavortius Hector
   - Tergaque nuda tegit, clypeis puto, ne impune caedantur. Virg. Aen. XI, 630: « Bis rejecti armis respectant terga tegentes ».
 - [3] 543 Tergaque nuda tegit; sensit Mauortius Hector,
 - [4] 543 Tergaque nuda tegit; sensit Mavortius Hector,
+  - Hector (HECTOR): — Mavortius deos pro Graecis pugnare sentit
 - [6] 543 tergaque nuda tegit; sensit Mavortius Hector
+  - Hector (Hector): Mavortius -or 543. 797
+  - Mavortius (Mavortius): Mavortius Hector 543. 797
 
 544 pro Danais pugnare deos ualidasque suorum
 - [2] 544 Pro Danais pugnare Deos, validasque suorum
 - [3] 544 Pro Danais pugnare deos ualidasque suorum
 - [4] 544 Pro Danais pugnare deos validasque suorum
+  - Danais (GRAI): Pro Danais deos pugnare Hector sentit
 - [6] 544 pro Danais pugnare deos validasque suorum
+  - Danais (Danai): pro -is 544
 
 545 uirginis armigerae subduci numine uires
 - [2] — Virginis armigerae subduci numine vires.
 - [3] 545 Uirginis armigerae subduci numine uires,
 - [4] 545 Virginis armigerae subduci numine vires,
+  - Virginis (MINERVA): numen
 - [6] 545 virginis armigerae subduci numine vires,
+  - armigerae (armigera): virginis armigerae 400. 545: Minervae
 
 546 continuoque petit muros Hecubamque uocari
 - [2] 546 Continuoque petit muros , Hecubamque vocari
 - [3] 546 Continuoque petit muros Hecubamque uocari
 - [4] 546 Continuoque petit muros Hecubamque vocari
+  - Hecubam (HECUBA): Hecubam vocari Hector imperat
 - [6] 546 continuoque petit muros Hecabenque vocari
+  - Hecaben (Hecabe): Hecubam 546
 
 547 imperat et diuae placari numina suadet.
 - [2] 547 Imperat , et Divae placari numina suadet.
 - [3] 547 Imperat et diuae placari numina suadet.
 - [4] 547 Imperat et divae placari numina suadet.
 - [6] 547 imperat et divae placari numina suadet.
+  - divae (Diva): divae 547: Minervae
 
 548 Protinus armatas innuptae Palladis arces
 - [2] 548 Protinus armatas innuptse Palladis arces
   - … — Innuptae Minervae Virgil. Aen. II, 31.
 - [3] 548 Protinus elatas innuptae Palladis arces
 - [4] 548 Protinus auratas innuptae Palladis arces
+  - Palladis (MINERVA): ad innuptae — templum Trojanae mulieres subeunt
 - [6] 548 protinus † armatas innuptae Pallados arces
+  - Pallados (Pallas): innuptae -dos arces 548 (utrubique -dis trad.)
 
 549 Iliades subeunt: festis altaria sertis
 - [2] 549 Iliades subeunt, festisque altaria sertis
   - Altaria sertis. Placandis scilicet numinibus, inquit Barthius l. c. Veteres non tantum victimas adhibebant, sed etiam coronas, aris cingendis, addo etiam delubris. Virg. Aen. II, 249: « Nos delubra Deum ... festa velamus fronde per urbem »; et IV, 202: « variis florentia limina sertis »; idem, Georg. IV, 276, « Saepe Deum nexis ornatae torquibus arae ».
 - [3] 549 Iliades subeunt: festis altaria sertis
 - [4] 549 Iliades subeunt : festis altaria sertis
+  - Iliades (ILIADES): ad templum Minervae subeunt
 - [6] 549 Iliades subeunt: festis altaria sertis
+  - Iliades (Iliades): Iliades 549
 
 550 exornant caeduntque sacras ex more bidentes.
 - [2] 550 Exornant, caeduotque sacras de more bidentes.
@@ -3688,25 +4551,34 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 551 Duroque preces Hecube supplex ad templa Minervae
 - [3] 551 Dumque preces Hecube supplex ad templa Mineruae
 - [4] 551 Dumque preces Hecube supplex ad templa Minervae
+  - Hecube (HECUBA): Hecube supplex ad Minervae templa
+  - Minervae (MINERVA): Minervae ad templum supplex Hecuba venit
 - [6] 551 dumque preces Hecabe supplex ad templa Minervae
+  - Hecabe (Hecabe): Hecabē (-cuba trad.) . . . genetrix 551
+  - Minervae (Minerva): ad templa Minervae 551
 
 552 pro caris genetrix natis et coniuge fundit,
 - [2] 552 Pro charis genitrix natis et conjuge fundit,
 - [3] 552 Pro caris genetrix natis et coniuge fundit,
 - [4] 552 Pro caris genetrix natis et conjuge fundit,
 - [6] 552 pro caris genetrix natis et coniuge fundit,
+  - coniuge (Priamus): v. coniuge 552
 
 553 interea Glaucus stricto decernere ferro
 - [2] 553 Interea Glaucus stricto contendere ferro
 - [3] 553 Interea Glaucus stricto decernere ferro
 - [4] 553 Interea Glaucus stricto decernere ferro
+  - Glaucus (GLAUCUS Lyciorum dux): — cum Diomede pugnaturus
 - [6] 553 interea Glaucus stricto decernere ferro
+  - Glaucus (Glaucus): -us 553: Lyciorum dux inter Troas
 
 554 cum Diomede parat nomenque genusque roganti
 - [2] 554 Cum Diomede parat, nomenque genusque roganti,
 - [3] 554 Cum Diomede parat nomenque genusque roganti,
 - [4] 554 Cum Diomede parat nomenque genusque roganti,
+  - Diomede (DIOMEDES): Cum Diomede Glaucus pugnaturus
 - [6] 554 cum Diomede parat nomenque genusque roganti
+  - Diomede (Diomedes): cum -dĕ 554
 
 555 qui sit et unde ferat, magnis cum uiribus hastam
 - [2] 555 Quis sit, et unde ferat, magnis cum viribus hastam
@@ -3719,7 +4591,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 556 Mittere tentabat ; tentanti Aetolius heros,
 - [3] 556 Mittere temptabat, temptanti Aetolius heros
 - [4] 556 Mittere temptabat, temptanti Aetolius heros
+  - Aetolius (DIOMEDES): Aetolius heros Glaucum adloquitur
 - [6] 556 mittere temptabat; temptanti Aetolius heros
+  - Aetolius (Aetolius): Aetolius heros 556. 698: Diomedes
 
 557 "Quo ruis?" - exclamat - "quae te, scelerate, furentem
 - [2] 557 cc Quo ruis! exclamat; quae te, scelerate, furentem
@@ -3740,14 +4614,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** tram omnes dant. Barthius, Advers. p. 2807 hic docet iterandam esse vocem dextram hoc modo: Vides dextram, quae Veneris dextram vulneravit; et esse figuram poetis usitatam, qua, ubi vox quaedam eodem positu duabus rebus convenire possit, semel eam tantum ponant, sic tamen ut ambobus locis debeat aptari. …
 - [3] 559 Hospitis arma uides, Ueneris qui uulnere dextram
 - [4] 559 Hospitis arma vides, Veneris qui vulnere dextram
+  - Veneris (VENUS): — dextram Diomedes vulnerat
 - [6] 559 hospitis arma vides, Veneris qui vulnere dextram
+  - qui (Diomedes): v. 584: qui . . . manum Veneris violavit (cf. 559)
+  - Veneris (Venus): -eris 559. 584
 
 560 perculit et summo pupugit certamine Martem.
 - [2] 560 Perculit, et summo repulit certamine Martem.
   - … — Sed hoc, ut alia similiter composita, repulit, recidit, apud bonos poetas prima longa adhiberi solet. …
 - [3] 560 Perculit et summo pupugit certamine Martem.
 - [4] 560 Perculit et summo pupugit certamine Martem.
+  - Martem (MARS): — pupugit Diomedes
 - [6] 560 perculit et summo pupugit certamine Martem.
+  - Martem (Mars): Diomedes pupugit . . . Martem 560
 
 561 Pone truces animos infestaque tela coerce."
 - [2] 561 Pone truces animos, infestaque tela coerce».
@@ -3773,6 +4652,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 564 Colloquium petit interea fidissima conjux.
 - [3] 564 Colloquium petit interea fidissima coniunx
 - [4] 564 Colloquium petit interea fidissima conjunx
+  - Andromache (ANDROMACHE): fidissima conjunx Hectoris, ejusdem colloquium petit
 - [6] 564 colloquium petit interea fidissima coniunx
 
 565 Hectoris Andromache paruumque ad pectora natum
@@ -3780,25 +4660,34 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Ad pectora natum tenet. Virg. Aen. VII, 318: « Et trepidae matres pressere ad pectora natos ».
 - [3] 565 Hectoris Andromache paruumque ad pectora natum
 - [4] 565 Hectoris Andromache parvumque ad pectora natum
+  - Astyanacta (ASTYANAX): Astyanacta parvum tenet Andromache
+  - Hectoris (HECTOR): — conjunx Andromache
 - [6] 565 Hectoris Andromache parvumque a pectore natum
+  - Andromache (Andromache): fidissima coniunx . . . Andromachē 565
+  - natum (Astyanax): v. parvum . . . natum 565
+  - Hectoris (Hector): -oris 232. 565. 1006. 1040
 
 566 Astyanacta tenet, cuius dum maximus heros
 - [2] 566 Astyanacta tenet, cujus dum maximus heros
 - [3] 566 Astyanacta tenet; cuius dum maximus heros
 - [4] 566 Astyanacta tenet ; cujus dum maximus heros
 - [6] 566 Astyanacta tenet; cuius dum maximus heros
+  - Astyanacta (Astyanax): Andromache parvum . . . Astyanacta tenet 566
+  - heros (Hector): maximus heros 566
 
 567 oscula parua petit, subito perterritus infans
 - [2] 567 Oscula parva petit, subito perterritus infans •
 - [3] 567 Oscula cara petit, subito perterritus infans
 - [4] 567 Oscula grata petit, subito perterritus infans
 - [6] 567 oscula parva petit, subito perterritus infans
+  - infans (Astyanax): infans 567. 571
 
 568 conuertit timidos materna ad pectora uultus
 - [2] 568 Convertit timidos materna ad pectora vultus,
 - [3] 568 Conuertit timidos materna ad pectora uultus
 - [4] 568 Convertit timidos materna ad pectora vultus
 - [6] 568 convertit timidos materna ad pectora vultus
+  - materna (Andromache): v. materna ad pectora 568
 
 569 terribilemque fugit galeam cristamque comantem.
 - [2] 569 Terribilemque fugit galeam , cristamque micantem.
@@ -3813,24 +4702,29 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 570 Utque caput iuuenis posito detexerat aere,
 - [4] 570 Utque caput juvenis posito detexerat aere,
 - [6] 570 utque caput iuvenis posito detexerat aere,
+  - iuvenis (Hector): iuvenis 570
 
 571 protinus infantem geminis amplectitur ulnis
 - [2] 571 Protinus infantem geminis amplectitur ulnis,
 - [3] 571 Protinus infantem geminis amplectitur ulnis
 - [4] 571 Protinus infantem geminis amplectitur ulnis
 - [6] 571 protinus infantem geminis amplectitur ulnis
+  - infantem (Astyanax): infans 567. 571
 
 572 attollensque manus: "Precor, o pater optime" - dixit -
 - [2] 572 AttoUensque manus : «Precor, o pater optime, dixit.
 - [3] 572 Attollensque manus 'precor, o pater optime' dixit,
 - [4] 572 Attollensque manus « Precor, o pater optime » dixit,
+  - pater (JUPPITER): vocativ. optime (Hector precatur)
 - [6] 572 attollensque manus 'precor, o pater optime' dixit,
+  - pater (Iuppiter): o pater optime 572
 
 573 "ut meus hic, pro quo tua numina, natus, adoro,
 - [2] 573 Ut meus hic, pro quo tua numina, natus, adoro,
 - [3] 573 'Ut meus hic, pro quo tua numina natus adoro,
 - [4] 573 Ut meus hic, pro quo tua numina natus adoro,
 - [6] 573 'ut meus hic, pro quo tua numina, natus, adoro,
+  - natus (Astyanax): meus . . . natus 573
 
 574 uirtutes patrias primis imitetur ab annis."
 - [2] 574 Virtutes patrias primis imitetur ab annis».
@@ -3844,67 +4738,99 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 575 Haec ait et portis acies petit acer apertis;
 - [4] 575 Haec ait, et portis acies petit acer apertis;
 - [6] 575 haec ait et portis acies petit acer apertis;
+  - portis (Troia): portis 227. 575
 
 576 una deinde Paris. Postquam in certamina uentumst,
 - [2] 576 Una deinde Paris: postquam ad certamina ventum est,
 - [3] 576 Una deinde Paris. postquam in certamina uentum est,
 - [4] 576 Una deinde Paris. Postquam ad certamina ventum est,
+  - Paris (PARIS): — una cum Hectore acies petit
 - [6] 576 una deinde Paris. postquam in certamina ventum est,
+  - Paris (Paris): Paris 576. 756
 
 577 protinus in medium procedit maximus Hector
 - [2] 577 Protinus in medium procedit maximus Hector,
 - [3] 577 Protinus in medium procedit maximus Hector
 - [4] 577 Protinus in medium procedit maximus Hector
+  - Hector (HECTOR): — maximus principes Graecorum provocat
 - [6] 577 protinus in medium procedit maximus Hector
+  - Hector (Hector): maximus -or 577. 636
 
 578 Graiorumque duces inuictis prouocat armis.
 - [2] 578 Graiorumque duces invictis provocat armis.
 - [3] 578 Graiorumque duces inuictis prouocat armis.
 - [4] 578 Grajorumque duces invictis provocat armis.
+  - Grajorum (GRAI): — duces Hector provocat
 - [6] 578 Graiorumque duces invictis provocat armis.
+  - Graiorum (Graius): -orum . . . duces 578
 
 579 Nec mora: continuo fraudis commentor Vlixes
 - [2] 579 Nec mora, continuo fraudis commentor Ulysses,
   - Fraudis commentor. Homerico more ex versu 527 repetiit.
 - [3] 579 Nec mora: continuo fraudis commentor Ulixes
 - [4] 579 Nec mora : continuo fraudis commentor Ulixes
+  - Ulixes (ULIXES): — fraudis commentor, Hectore duces Graecorum provocante armis, cum aliis procedit
 - [6] 579 nec mora: continuo fraudis commentor Vlixes
+  - Vlixes (Vlixes): fraudis . . . commentor -es 527. 579
 
 580 et ferus Idomeneus et notus gente paterna
 - [2] 580 Et ferus Idomeneus, et notus gente paterna
 - [3] 580 Et ferus Idomeneus et notus gente paterna
 - [4] 580 Et ferus Idomeneus et notus gente paterna
+  - Idomeneus (IDOMENEUS): — ferus, Hectore Graecorum principes provocante, procedit
+  - Meriones (MERIONES): — notus paterna gente in pugnam procedit cum aliis
 - [6] 580 et ferus Idomeneus et iunctus gente paterna
+  - Idomeneus (Idomeneus): ferus -eus 580
 
 581 Meriones Graiumque simul dux acer Atrides
 - [2] 581 Meriones, Graiumque simul dux acer Atrides,
 - [3] 581 Meriones Graiumque simul dux acer Atrides
 - [4] 581 Meriones Grajumque simul dux acer Atrides
+  - Atrides (AGAMEMNON): — Grajum dux acer, Hectore Graecorum duces armis provocante, incedit
+  - Grajum (GRAI): — dux Agamemnon
 - [6] 581 Meriones Graiumque simul dux acer Atrides
+  - Atrides (Atrides (Agamemno)): Graium . . . dux acer -es 581
+  - Graium (Graius): -um . . . dux 581
+  - Meriones (Meriones): Idomeneus et *iunctus gente paterna -nes 581
 
 582 Aiacesque duo <et> claris speciosus in armis
 - [2] 582 Ajacesque duo clari , speciosus in armis
 - [3] 582 Aiacesque duo clari et speciosus in armis
 - [4] 582 Ajacesque duo, claris speciosus in armis
+  - Ajaces (AJACES): duo
+  - Eurypylus (EURYPYLUS): — claris speciosus in armis, procedit cum aliis
 - [6] 582 Aiacesque duo \<et> claris speciosus in armis
+  - Aiaces (Aiaces): Aiacesque duo 582
 
 583 Eurypylus magnoque Thoas Andraemone natus
 - [2] 583 Eurypylus, magnoque Thoas Andraemone natus,
 - [3] 583 Eurypylus magnoque Thoas Andraemone natus
 - [4] 583 Eurypylus magnoque Thoas Andraemone natus
+  - Andraemone (ANDRAEMO): — magno natus Thoas
+  - Thoas (THOAS): — magno Andraemone natus cum aliis Graecorum ducibus procedit
 - [6] 583 Eurypylus magnoque Thoas Andraemone natus
+  - Andraemone (Andraemon): Thoas Andraemone natus 202. 583
+  - Eurypylus (Eurypylus): claris speciosus in armis -us 583
+  - Thoas (Thoas): magno . . . Thoas Andraemone natus 583
 
 584 quique manum Veneris uiolauit uulnere tristi
 - [2] 584 Quique manum Veneris violavit vulnere tristi,
 - [3] 584 Quique manum Ueneris uiolauit uulnere tristi
 - [4] 584 Quique manum Veneris violavit vulnere tristi
+  - Veneris (VENUS): — manum idem violavit
 - [6] 584 quique manum Veneris violavit vulnere tristi
+  - qui (Diomedes): v. 584: qui . . . manum Veneris violavit (cf. 559)
+  - Veneris (Venus): -eris 559. 584
 
 585 procedunt; aberat nam Troum terror Achilles
 - [2] 585 Procedunt : aberat nam Troum terror Achilles,
 - [3] 585 Procedunt; aberat nam Troum terror Achilles
 - [4] 585 Procedunt; aberat nam Troum terror Achilles
+  - Achilles (ACHILLES): — Troum terror a proeliis abest, amorem cithara lenit
+  - Troum (TROJANI): — terror Achilles
 - [6] 585 procedunt; aberat nam Troum terror Achilles
+  - Achilles (Achilles): Troum terror -es 585
+  - Troum (Tros): Troum terror Achilles 585
 
 586 et cithara dulci durum lenibat amorem.
 - [2] 586 Et dulci cithara dirum lenibat amorem.
@@ -3912,6 +4838,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 586 Et cithara dulci durum lenibat amorem.
 - [4] 586 Et cithara dulci durum lenibat amorem.
 - [6] 586 et cithara dulci † divum lenibat amores.
+  - amores (Briseis): amores 586
 
 586a
 - [2] [587] [Sortes miserunt , quis eonim in bella valeret]
@@ -3924,13 +4851,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Ergo ubi dejectis. Sumpsit a Virgilio, Aen. V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea ».
 - [3] 587 Ergo ubi deiectis auratam regis Atridae
 - [4] 587 Ergo ubi dejectis auratam regis Atridae
+  - Atridae (AGAMEMNON): — regis in galeam deiciuntur sortes
 - [6] 587 ergo ubi deiectis auratam regis Atridae
+  - Atridae (Atrides (Agamemno)): regis -dae 587
 
 588 sortibus in galeam magnus processerat Aiax,
 - [2] 589 Sortibus in galeam , magnus processerat Ajax ,
 - [3] 588 Sortibus in galeam magnus processerat Aiax,
 - [4] 588 Sortibus in galeam magnus processerat Ajax,
+  - Ajax (AJAX Telamonis filius): — magnus, in galeam Agamemnonis, dejectis sortibus, procedit
 - [6] 588 sortibus in galeam magnus processerat Aiax,
+  - Aiax (Aiax (Telamonius)): magnus . . . -ax 588
 
 588a
 - [2] 590 Concurrunt armis Ajax crudelis et Hector.
@@ -4017,19 +4948,28 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] [603] [Talis Priamides, simul Ajax fortis in armis]
 - [3] [601] [Talis Priamides similisque Eacides armis.]
 - [4] 601 below Talis Priamides similisque Aeacides armis
+  - Aeacides (ACHILLES): [Aeacides]
+  - Priamides (HECTOR): Priamides [—]
 - [6] 601 tales Priamides ardorque Aiacis in armis
+  - Aiacis (Aiax (Telamonius)): ardorque -acis 601
+  - Priamides (Priamides): Priamides 601. 610. 660. 988
 
 602 Tandem animis teloque furens Telamonius Aiax
 - [2] 604 Tandem animis armisque furens Telamonius Ajax
 - [3] 602 Tandem animis armisque furens Telamonius Aiax
 - [4] 602 Tandem animis armisque furens Telamonius Ajax
+  - Ajax (AJAX Telamonis filius): — Telamonius animis armisque furens Hectorem petit
 - [6] 602 tandem animis teloque furens Telamonius Aiax
+  - Aiax (Aiax (Telamonius)): Telamonius -ax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 603 insignem bello petit Hectora, quaque patebat
 - [2] 605 Insignem bello petit Hectora, quaque patebat
 - [3] 603 Insignem bello petit Hectora, quaque patescit
 - [4] 603 Insignem bello petit Hectora, quaque patescit
+  - Hectora (HECTOR): Hectora insignem bello Ajax Telamonius petit
 - [6] 603 insignem bello petit Hectora, quaque patebat
+  - Hectora (Hector): insignem bello . . . -ora 603
 
 604 nuda uiri ceruix, fulgentem derigit ensem.
 - [2] 606 Nuda viri cervix , fulgentem dirigit ensem.
@@ -4071,13 +5011,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 612 Priamides, nec jam ferro Telamone creatum,
 - [3] 610 Priamides nec iam ferro Telamone creatum,
 - [4] 610 Priamides nec jam ferro Telamone creatum,
+  - Telamone (AJAX Telamonis filius): Telamone creatus Telamone creatum Hector saxo petit
+  - Priamides (HECTOR): — contra Ajacem pugnat
 - [6] 610 Priamides nec iam ferro Telamone creatum,
+  - Priamides (Priamides): Priamides 601. 610. 660. 988
+  - Telamone (Telamon): -one creatum 610. 624
 
 611 sed magno saxi iactu petit. At ferus Aiax
 - [2] 613 Sed magno saxi jactu petit : at ferus Ajax
 - [3] 611 Sed magno saxi iactu petit; at ferus Aiax
 - [4] 611 Sed magno saxi jactu petit; at ferus Ajax
+  - Ajax (AJAX Telamonis filius): — ferus saxum, ab Hectore projectum, clipeo reppulit
 - [6] 611 sed magno saxi iactu petit; at ferus Aiax
+  - Aiax (Aiax (Telamonius)): ferus -ax 611
 
 612 ingentem clipeo septemplice reppulit ictum
 - [2] 614 Ingentem clypeo septemplice depulit ictum ,
@@ -4096,7 +5042,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 616 Quem levat exceptum Graiis inimicus Apollo,
 - [3] 614 Quem leuat exceptum Grais inimicus Apollo,
 - [4] 614 Quem levat exceptum Grais inimicus Apollo,
+  - Apollo (APOLLO): — Grais inimicus saxum levat quo Hectorem Ajax percutit
+  - Grais (GRAI): — inimicus Apollo
 - [6] 614 quem levat exceptum Grais inimicus Apollo
+  - Apollo (Apollo): Grais inimicus -o 614
+  - Grais (Graius): Grais 2. 277. 614
 
 615 integratque animum; iam rursus ad arma coibant
 - [2] 617 Integratque animum : jam rursus ad arma coibant,
@@ -4109,6 +5059,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 618 Stringebantque iteruni gladios , quum fessus in undas
 - [3] 616 Stringebantque iterum gladios, cum fessus in undas
 - [4] 616 Stringebantque iterum gladios, cum fessus in undas
+  - Titan (TITAN): — cum, fessus, igniferos currus in undas coeperat immergere
 - [6] 616 stringebant iterum gladios, cum fessus in undas
 
 617 coeperat igniferos Titan immergere currus
@@ -4116,6 +5067,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 617 Coeperat igniferos Titan inmergere currus
 - [4] 617 Coeperat igniferos Titan immergere currus
 - [6] 617 coeperat igniferos Titan immergere currus
+  - Titan (Titan): fessus in undas coeperat igniferos -an immergere currus 617
 
 618 noxque subire polum: iuxta mittuntur, utrosque
 - [2] 620 Noxque subire polum : juxta mittuntur, utrosque
@@ -4133,7 +5085,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 622 Deponunt animos : tum bello maximus Hector :
 - [3] 620 Deponunt animos. tum bello maximus Hector
 - [4] 620 Deponunt animos. Tum bello maximus Hector
+  - Hector (HECTOR): — bello maximus Ajacem adloquitur
 - [6] 620 deponunt animos. tum bello maximus Hector
+  - Hector (Hector): bello maximus -or 620. 832
 
 621 "Quae te terra uirum, qui te genuere parentes?
 - [2] 623 «Quae te terra virum, qui te genuere parentes?
@@ -4152,14 +5106,21 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 625 ContrahaBC dicta referre paratTelamoniusAjax:
 - [3] 623 At contra referre parat Telamonius Aiax
 - [4] 623 below At contra referre parat Telamonius Ajax :
+  - Ajax (AJAX Telamonis filius): [— Telamonius Hectori respondet]
 - [6] 623 at contra se ferre parat Telamonius Aiax:
   - … cf. Verg. Aen. 5, 372
+  - Aiax (Aiax (Telamonius)): Telamonius -ax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 624 "Hesiona de matre uides Telamone creatum,
 - [2] 626 «Hesiona de matre vides Telamone creatum,
 - [3] 624 'Hesione de matre uides Telamone creatum;
 - [4] 624 below « Hesione de matre vides Telamone creatum;
+  - Telamone (AJAX Telamonis filius): — [vides (de se loquitur)]
+  - Hesione (HESIONA): [Hesione ablativ. de matre Telamo creatus]
 - [6] 624 'Hesiona de matre vides Telamone creatum,
+  - Hesiona (Hesione): -na de matre . . . Telamone creatum Aiacem 624
+  - Telamone (Telamon): -one creatum 610. 624
 
 625 nobilis est domus et fama generosa propago."
 - [2] 627 Nobilis illa domus fama, et generosa propago».
@@ -4172,7 +5133,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … et recordat dignum est hoc poetastro, quem antiquatas verborum formas subinde usurpare, ex pluribus exemplis novimus. — Videantur quae supra adnotata sunt ad versum 456, et ad Nemesiani fragment. de Aucupio. Ed. — Caeterum Hesione, cujus hic mentio, Laomedontis Trojae regis filia fuit, quam Hercules ceto expositam liberavit; postea Troja capta Telamoni, qui primus murum conscenderat, uxorem dedit. Ovid. Metam. XI, 216 sqq.
 - [3] 626 Hector ut Hesionae nomen casusque recordat]
 - [4] 626 below Hector ut Hesionae nomen casusque recordat :
+  - Hector (HECTOR): [— Ajacem adloquitur]
+  - Hesionae (HESIONA): [Hesionae nomen]
 - [6] 626 Hector, ut Hesionae nomen casusque recordans,
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
+  - Hesionae (Hesione): Hesionae nomen 626
 
 627 "Absistamus" - ait - "sanguis communis utriquest",
 - [2] 629 ff Absistamus, ait, sanguis communis utrique»;
@@ -4184,13 +5149,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 630 Ajacemque prior aurato munerat ense,
 - [3] 628 Et prior Aiacem deaurato munerat ense
 - [4] 628 Et prior Ajacem fulgenti munerat ense
+  - Ajacem (AJAX Telamonis filius): — Ajacem fulgenti ense Hector munerat
 - [6] 628 et prior Aeaciden aurato munerat ense
+  - Aeaciden (Aeacides (Aiax Telamonius)): -dēn *628
+  - Aeaciden (Aiax (Telamonius)): -acem v. Aeaciden 368. 628
 
 629 inque uicem, quo se bellator cinxerat Aiax,
 - [2] 631 Inque vicem , quo se bellator cinxerat Ajax ,
 - [3] 629 Inque uicem, quo se bellator cinxerat Aiax,
 - [4] 629 Inque vicem, quo se bellator cinxerat Ajax,
+  - Ajax (AJAX Telamonis filius): — bellator quo se cinxerat, balteum Hector accipit
 - [6] 629 inque vicem, quo se bellator cinxerat Aiax,
+  - Aiax (Aiax (Telamonius)): bellator . . . -ax 629
 
 630 accipit insignem uario caelamine balteum.
 - [2] 632 Accipit insignem vario caelamine balteum.
@@ -4203,7 +5173,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 633 Post Iioc extemplo Troum Danaumque catervse
 - [3] 631 Post haec extemplo Troum Danaumque cateruae
 - [4] 631 Post haec extemplo Danaum Troumque catervae
+  - Danaum (GRAI): — Troumque discedunt catervae
+  - Troum (TROJANI): — Danaumque catervae discedunt
 - [6] 631 post haec extemplo Troum Danaumque catervae
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 632 discedunt caelumque tegit nox atra tenebris.
 - [2] 634 Discedunt, caeiumque tegit nox atra tenebris.
@@ -4215,7 +5189,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 635 Implentur dapibus largis Bacchique liquore,
 - [3] 633 Inplentur dapibus largis Bacchique liquore
 - [4] 633 Implentur dapibus largis Bacchique liquore
+  - Bacchi (BACCHUS): Bacchi liquor
 - [6] 633 implentur dapibus largis Bacchique liquore
+  - Bacchi (Bacchus): Bacchi . . . liquore 633
 
 634 atque auidi placido tradunt sua corpora somno.
 - [2] 636 Atque avidi placido tradunt sua corpora somno.
@@ -4229,14 +5205,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 635 Postera cum primum stellas Aurora fugarat,
   - : cf. Gesta Bereng. III 90
 - [4] 635 Postera cum primum stellas Aurora fugarat,
+  - Aurora (AURORA): stellas fugat
 - [6] 635 postera cum primum stellas Aurora fugarat,
   - (testimonia) = Gesta Ber. 3, 90 (fugaret)
+  - Aurora (Aurora): stellas Aurora fugarat 635
 
 636 in coetum uenere Phryges. Tunc maximus Hector
 - [2] 638 In coetum venere Phryges, tum maximus Hector
 - [3] 636 In coetum uenere Phryges; tum maximus Hector
 - [4] 636 In coetum venere Phryges; tum maximus Hector
+  - Hector (HECTOR): — maximus cum sociis funera hesterna memorat
+  - Phryges (TROJANI): — in coetum veniunt
 - [6] 636 in coetum venere Phryges; tunc maximus Hector
+  - Hector (Hector): maximus -or 577. 636
+  - Phryges (Phryges): Phryges 401. 493. 636. 682. 762. 803
 
 637 cum sociis memorans hesternae funera caedis
 - [2] 639 Cum sociis, raemorans hesternae funera caedis ,
@@ -4248,25 +5230,37 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 640 Suadet ut invictis Helene reddatur Achivis,
 - [3] 638 Suadet ut inuictis Helene reddatur Achiuis
 - [4] 638 Suadet ut invictis Helene reddatur Achivis
+  - Achivis (GRAI): — invictis ut reddatur Helena Hector suadet
+  - Helene (HELENA): Helene ut Graecis reddatur, Hector suadet
 - [6] 638 suadet ut invictis Helene reddatur Achivis
+  - Achivis (Achivi): invictis . . . -is 638
+  - Helene (Helene): Helenē 638
 
 639 praedaque quae duros Menelai mulceat ignes
 - [2] 641 Praedaque, quae duros Menelai mulceat ignes;
 - [3] 639 Praedaque quae duros Menelai mulceat ignes;
 - [4] 639 Praedaque quae duros Menelai mulceat ignes.
+  - Menelai (MENELAUS): — duros ignes praeda quae mulceat
 - [6] 639 praedaque quae duros Menelai mulceat ignes
+  - Menelai (Menelaus): -lai 519. 639
 
 640 idque placet cunctis. Tunc saeuo missus Atridae
 - [2] 642 Idque placet cunctis ; tum saevo missus Atridae
 - [3] 640 Idque placet cunctis. tum saeuo missus Atridae
 - [4] 640 Idque placet cunctis. Tum saevo missus Atridae
+  - Atridae (MENELAUS): Atridae saevo Idaeus mittitur
 - [6] 640 idque placet cunctis. tum saevo missus Atridae
+  - Atridae (Atrides (Agamemno)): saevo . . . -dae 640
 
 641 pertulit Idaeus Troum mandata; neque ille
 - [2] 643 Pertulit Idaeus Troum mandata, neque ille
 - [3] 641 Pertulit Idaeus Troum mandata; neque ille
 - [4] 641 Pertulit Idaeus Troum mandata, neque ille
+  - Idaeus (IDAEUS Trojanorum praeco): — Trojanorum mandata Agamemnoni perfert
+  - Troum (TROJANI): — mandata Idaeus Agamemnoni perfert
 - [6] 641 pertulit Idaeus Troum mandata; neque ille
+  - Idaeus (Idaeus 2): Idaeus 641
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 642 aut animum praedae aut dictis accommodat aures,
 - [2] 644 Aut animum praedae, aut dictis accommodat aures,
@@ -4278,12 +5272,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 645 Ultro etiam castris Idaeum excedere jussit.
 - [3] 643 Ultro etiam castris Idaeum excedere iussit.
 - [4] 643 Ultro etiam castris Idaeum excedere jussit.
+  - Idaeum (IDAEUS Trojanorum praeco): Idaeum castris excedere Agamemno jubet
 - [6] 643 ultro etiam castris Idaeum excedere iussit.
+  - Idaeum (Idaeus 2): -um 643: Troum praeco
 
 644 Paruit is monitis iterumque ad castra reuersus
 - [2] 646 Paruit hic monitis, iterumque ad castra reversus
 - [3] 644 Paruit is monitis iterumque ad castra reuersus
 - [4] 644 Paruit is monitis iterumque ad castra reversus
+  - Troica (TROICUS): ad Troica castra
 - [6] 644 paruit is monitis iterumque ad castra reversus
 
 645 Troiae contemptum duro se reddit ab hoste.
@@ -4292,14 +5289,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 645 Troica contemptum duro se reddit ab hoste.
 - [4] 645 Troica contemptum duro se reddit ab hoste.
 - [6] 645 Troiae contemptum duro se reddit ab hoste.
+  - Troiae (Troicus): castra . . . Troica (Troiae var. l.) 645
 
 646 Interea Danai confusi caede suorum
 - [2] 648 Interea Danai conflisi caede suorum
   - … Confundi dicunt sequioris latinitatis scriptores pro perturbari animo. Sic Juvenal. Sat. III, vs. 1: « Quamvis digressu veteris confusus amici ». Plinius, Epist. V, 5, 1: « qui nuntius gravi me dolore confudit ». Idem, Paneg. c. 86: « Quam ego audio confusionem tuam fuisse, quum digredientem prosequereris ». Infra, v. 681, dicit Noster: « Danai turbati caede suorum ».
 - [3] 646 Interea Danai confusa caede suorum
 - [4] 646 Interea Danai confusa caede suorum
+  - Danai (GRAI): — rogos struunt
 - [6] 646 interea Danai confusi caede suorum
   - confusi … at cf. v. 679 et H 426; confusi est 'maesti'
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 
 647 ingentes struxere pyras collectaque passim
 - [2] 649 Ingentes struxere pyras, colleetaque passim
@@ -4327,13 +5327,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Hunc versum Bondamius l. c. monet ex hoc Ovidii effictum esse, Met. IX, 796: « Postera lux radiis totum patefecerat orbem ». Sic et Virg. Aen. IV, 118: « ubi ortus Extulerit Titan radiisque retexerit orbem ».
 - [3] 650 Ut nitidum Titan radiis patefecerat orbem,
 - [4] 650 Ut nitidum Titan radiis patefecerat orbem,
+  - Titan (TITAN): — ut radiis nitidum orbem patefecerat
 - [6] 650 ut nitidum Titan radiis patefecerat orbem,
+  - Titan (Titan): nitidum -an radiis patefecerat orbem 650
 
 651 conuocat in coetum superos Iouis et monet, armis
 - [2] 653 Convocat in coetum Superos Jovis, et mouet onmes,
 - [3] 651 Conuocat in coetum superos Iouis et monet omnis,
 - [4] 651 Convocat in coetum superos Jovis et monet omnes,
+  - Jovis (JUPPITER): Jovis nominativ. superos convocat in coetum
 - [6] 651 convocat in coetum superos Iovis et monet, armis
+  - Iovis (Iuppiter): nom.: Iovis 651
 
 652 ne contra sua dicta uelint contendere diui.
 - [2] 654 Ne contra sua dicta velint contendere Divi.
@@ -4351,13 +5355,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 656 Umbrosisque simul consedit montibus Idae :
 - [3] 654 Umbrosisque simul consedit montibus Idae;
 - [4] 654 Umbrosisque simul consedit montibus Idae;
+  - Idae (IDA): Idae montibus umbrosis Juppiter considit
 - [6] 654 umbrosisque simul consedit montibus Idae:
+  - Idae (Ida): umbrosis . . . montibus Idae 654
 
 655 Inde acies uidet Iliacas dextraque potenti
 - [2] 657 Inde acies videt Iliacas, dextraqiie potenti
 - [3] 655 Inde acies uidet Iliacas dextraque potenti
 - [4] 655 Inde acies videt Iliacas dextraque potenti
+  - Iliacas (ILIACUS): Iliacas acies
 - [6] 655 inde acies videt Iliacas dextraque potenti
+  - Iliacas (Iliacus): acies . . . -cas 655
 
 656 sustinet auratas aequato pondere lances
 - [2] 658 Sustinet auratas aequato pondere lances,
@@ -4369,45 +5377,64 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 659 Fataque dura Phryguin , casusque expendit Achivum ,
 - [3] 657 Fataque dura Phrygum casusque expendit Achiuum
 - [4] 657 Fataque dura Phrygum casusque expendit Achivum
+  - Achivum (GRAI): — Phrygumque casus Juppiter expendit
+  - Phrygum (TROJANI): — fata dura Graecorumque casus Juppiter expendit
 - [6] 657 fataque dura Phrygum casusque expendit Achivum
+  - Achivum (Achivi): -um 506. 657
+  - Phrygum (Phryges): fata . . . -um 657
 
 658 et Graium clades grauibus praeponderat armis.
 - [2] 660 Et Graium clades gravibus praeponderat armis.
 - [3] 658 Et Graium clades grauibus praeponderat armis.
 - [4] 658 Et Grajum clades gravibus praeponderat armis.
+  - Grajum (GRAI): — clades, Jove expendente, praeponderat
 - [6] 658 et Graium clades gravibus praeponderat armis.
+  - Graium (Graius): -um clades 658
 
 659 Interea Danaos ingenti concitus ira
 - [2] 661 Interea Danaos ingenti conciius ira
 - [3] 659 Interea Danaos ingenti concitus ira
 - [4] 659 Interea Danaos, ingenti concitus ira,
+  - Danaos (GRAI): — Hector invadit
 - [6] 659 interea Danaos ingenti concitus ira
+  - Danaos (Danai): -os 45. 492. 659. 808. 912. 950. 1001
 
 660 Priamides agit et totis grauis imminet armis
 - [2] 662 Prlamides agit, et totis gravis imminet armis,
 - [3] 660 Priamides agit et totis grauis imminet aruis,
 - [4] 660 Priamides agit et gradiens supereminet omnes,
   - gradiens supereminet omnes ego (Cf. Aeneid. I, 501) … [armis capiendum videtur de umeris... Totis armis Samtenius accipiebat pro « toti exercitui » KOOTEN] …
+  - Priamides (HECTOR): — unum Phrygiae decus, iratus pugnat
 - [6] 660 Priamides agit et totis gravis imminet armis,
   - … armis … i. copiis; cf. ex. gr. Ov. met. 7, 865
+  - Priamides (Priamides): Priamides 601. 610. 660. 988
 
 661 unum quippe decus Phrygiae. Turbantur Achiui
 - [2] 663 Unum quippe decus Phrygiae : turbantur Achivi,
 - [3] 661 Unum quippe decus Phrygiae; turbantur Achiui
 - [4] 661 Unum quippe decus Phrygiae; turbantur Achivi
+  - Achivi (GRAI): Achivi nominativ. turbantur
+  - Phrygiae (PHRYGIA): Phrygiae unum decus (Hector)
 - [6] 661 unum quippe decus Phrygiae; turbantur Achivi
+  - Achivi (Achivi): 661
+  - decus (Hector): unum . . . decus Phrygiae 661
+  - Phrygiae (Phrygia): unum . . . decus Phrygiae Hector: 661
 
 662 Doricaque ingenti complentur castra tumultu.
 - [2] 664 Doricaque ingenti complentur castra tumultu.
 - [3] 662 Doricaque ingenti complentur castra tumultu.
 - [4] 662 Doricaque ingenti complentur castra tumultu.
+  - Dorica (DORICUS): Dorica castra
 - [6] 662 Doricaque ingenti complentur castra tumultu.
+  - Dorica (Doricus): -ca . . . castra 662
 
 663 Hortatur socios muris inclusus Atrides
 - [2] 665 Hortatur socios muris inciusus Atrides,
 - [3] 663 Hortatur socios muris inclusus Atrides
 - [4] 663 Hortatur socios muris inclusus Atrides
+  - Atrides (AGAMEMNON): — hortatur socios
 - [6] 663 hortatur socios murisque inclusus Atrides
+  - Atrides (Atrides (Agamemno)): -es 24. 510(?) 663
 
 664 languentesque animos iuuenum in certamina firmat.
 - [2] 666 Languentesque animos juvenum in certamina firmat.
@@ -4420,7 +5447,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Ardentibus armis, ut supra v. 394, flagrantia arma dixit. Ed.
 - [3] 665 Princeps Tydides ardentibus emicat armis,
 - [4] 665 Princeps Tydides ardentibus emicat armis,
+  - Tydides (DIOMEDES): — princeps armis emicat ardentibus
 - [6] 665 princeps Tydides ardentibus emicat armis
+  - Tydides (Tydides): Tydides 390. 408. 530. 665. 1008
 
 666 per medios hostes immani pondere fertur.
 - [2] 668 Per mediosquc hostes immani turbine fertur.
@@ -4434,13 +5463,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 667 Hic illi occurrit fatis Agelaus iniquis,
 - [4] 667 Hic illi occurrit fatis Agelaus iniquis,
   - **667, 672** Agelaus, Gorgythiona … (Iliad. VIII, 257 et 302).
+  - Agelaus (AGELAUS): occurrit Diomedi
 - [6] 667 hic illi occurrit fatis Agelaus iniquis,
+  - Agelaus (Agelaus): Agelaus 667: Tros Phradmonides
 
 668 telum immane manu quatiens, quem maximus heros
 - [2] 670 Telum immane manu quatiens, quem maximus heros,
 - [3] 668 Telum inmane manu quatiens, quem maximus heros
 - [4] 668 Telum immane manu quatiens, quem maximus heros
 - [6] 668 telum immane manu quatiens, quem maximus heros
+  - heros (Diomedes): 668 maximus heros
 
 669 occupat et duro medium transuerberat ense.
 - [2] 671 Occupat , et duro medium transverberat ense.
@@ -4454,33 +5486,46 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … qui tradit, Teucrum Ajacis scuto protectum multos Trojanos sagittis interfecisse, Iliad. VIII, vs. 266: Τεῦκρος δ᾽ εἴνατος ἦλθε, παλίντονα τόξα τιταίνων. Στῆ δ᾽ ἄρ᾽ ὑπ᾽ Αἴαντος σάκεϊ Τελαμωνιάδαο· et v. 272: ὁ δέ μιν σάκεϊ κρύπτασκε φαεινῷ. …
 - [3] 670 Hinc Phrygas Aiacis uastis protectus in armis
 - [4] 670 Hinc Phrygas Ajacis vastis protectus in armis
+  - Ajacis (AJAX Telamonis filius): In Ajacis armis protectus Teucer Trojanos agit
+  - Teucer (TEUCER): stans sub Ajacis scuto Trojanos agit
+  - Phrygas (TROJANI): — Teucer, stans sub Ajacis scuto, agit
 - [6] 670 hinc Phrygas Aiacis vastis protectus in armis
+  - Aiacis (Aiax (Telamonius)): -acis 670
+  - Phrygas (Phryges): -as (-es trad.) . . . Teucer agit 670
 
 671 Teucer agit spargitque leues in terga sagittas.
 - [2] 673 Teucer agit , spargitque leves in terga sagittas :
 - [3] 671 Teucer agit spargitque leues in terga sagittas.
 - [4] 671 Teucer agit spargitque leves in terga sagittas.
 - [6] 671 Teucer agit spargitque leves in terga sagittas.
+  - Teucer (Teucer): Teucer 671
 
 672 Gorgythiona ferum letali uulnere fundit;
 - [2] 674 Gorgythiona ferum letali vulnere fundit.
   - … Gorgythiona legendum ex Hom. Iliad. VIII, 302, …
 - [3] 672 Gorgythiona ferum letali uulnere fundit,
 - [4] 672 Gorgythiona ferum letali vulnere fundit,
+  - Gorgythiona (GORGYTHION): Gorgythiona ferum Teucer interficit
 - [6] 672 Gorgythiona ferum letali vulnere fundit,
+  - Gorgythiona (Gorgythion): *Gorgythiona ferum 672: Priami f.
 
 673 mox alias acies petit aurigamque superbi
 - [2] 675 Mox alias acies petit, aurigamque superbi
 - [3] 673 Mox alias acies petit aurigamque superbi
 - [4] 673 Mox alias acies petit aurigamque superbi
+  - Hectoris (HECTOR): — superbi aurigam Teucer obtruncat
 - [6] 673 mox alias acies petit aurigamque superbi
+  - aurigam (Archeptolemus): aurigam . . . Hectoris 673
 
 674 Hectoris obtruncat, quem saxo Troius heros
 - [2] 676 Hectoris obtruncat, quem saxo Troius heros
   - Quem, scil. Teucrum. Ed.
 - [3] 674 Hectoris obtruncat. quem saxo Troius heros
 - [4] 674 Hectoris obtruncat. Quem saxo Troius heros
+  - Troius (HECTOR): Troius heros Teucrum saxo occupat
 - [6] 674 Hectoris obtruncat. quem saxo Troius heros
+  - Hectoris (Hector): superbi -oris 674
+  - Troius (Troius): Troius heros Hector: 674
 
 675 occupat excussoque incautum proterit arcu.
 - [2] 677 Occupat, excussoque incautum proterit arcu.
@@ -4500,7 +5545,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 679 Prostratumque levant: ruit undique turbidus Heclor,
 - [3] 677 Prostratumque leuant. ruit undique turbidus Hector
 - [4] 677 Prostratumque levant. Ruit undique turbidus Hector
+  - Hector (HECTOR): — turbidus ruit
 - [6] 677 prostratumque levant. ruit undique turbidus Hector
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 678 aduersasque acies infesta cuspide terret.
 - [2] 680 Adversasque acies infesta cuspide terret.
@@ -4512,7 +5559,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 681 Sed rursus Danai turbati caede suorum
 - [3] 679 Sic rursus Danai turbati caede suorum
 - [4] 679 Sic rursus Danai turbati caede suorum
+  - Danai (GRAI): — confugiunt
 - [6] 679 se rursus Danai turbati caede suorum
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 
 680 conuertunt iterumque leues in castra cateruae
 - [2] 682 Concurrunt , iterumque leves in castra catervae
@@ -4531,7 +5580,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 684 At Phryges obsidunt inclusos aggere Graios,
 - [3] 682 At Phryges obsidunt inclusos aggere Graios
 - [4] 682 At Phryges obsidunt inclusos aggere Grajos
+  - Grajos (GRAI): Grajos, aggere inclusos, obsidunt Trojani
+  - Phryges (TROJANI): — Graecos, aggere inclusos, obsidunt
 - [6] 682 at Phryges obsidunt inclusos aggere Graios
+  - Graios (Graius): Graios 682. 755. 763
+  - Phryges (Phryges): Phryges 401. 493. 636. 682. 762. 803
 
 683 excubituque premunt muros flammisque coronant.
 - [2] 685 Excubiisque premunt muros, flammisque coronant.
@@ -4558,7 +5611,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 688 IX. Atfoniti Danaum proceres discrimine tanto
 - [3] 686 Attoniti Danaum proceres discrimine tanto
 - [4] 686 Attoniti Danaum proceres discrimine tanto
+  - Danaum (GRAI): — proceres
 - [6] 686 attoniti Danaum proceres discrimine tanto
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 687 nec dapibus releuant animos nec corpora curant,
 - [2] 689 Nec dapibus relevant animos, nec corpora curant,
@@ -4577,38 +5632,50 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Dextramque hortantur Achillis. Dextram hoc loco fidem designare observat Barthius, p. 2807, qui praeterea multis locis Veterum adductis probat, dextram invicem datam esse in amicitiae signum, favoris et clementiae; item praebitione dextrae promissiones mutuas factas, pacem compositam et foedera icta. Quae omnia, satis nota, hic repetere longum est. Unum et alterum affero. Valer. Flacc. II, 639, de Cyzico: « Ut videt, ipse ultro primus procurrit ad undas, Miraturque viros, dextraque amplexus et haerens Incipit ». Idem libro III, 14: « manibusque datis junxere nepotes », h. e. perpetuum foedus in omnem posteritatem fecerunt (sed ibi Gronovius vult penates). Prosper libro de Ingrat. « An dextram, pacis palmam, dare te pudet hosti ». Hoc nostri Homeristae loco per dextram, ut mea quidem fert opinio, non modo fides et amicitia Achillis, sed et fortitudo et vis bellica notatur.
 - [3] 689 Legatos mittunt dextramque hortantur Achillis,
 - [4] 689 Legatos mittunt dextramque hortantur Achillis,
+  - Achillis (ACHILLES): — dextram frustra hortantur legati Graecorum ut ferat auxilium
 - [6] 689 legatos mittunt dextramque hortantur Achillis,
+  - Achillis (Achilles): -is 54. 689. 719. 806
 
 690 ut ferat auxilium miseris. Thetideius heros
 - [2] 692 Ut ferat auxilium miseris. Thetideius heros
   - … Thetideius, nempe Thetidis filius, legendum esse vidit Dussenius, pag. 36, idque aliis locis Nostri recte ponitur, ut vs. 897, 943 et 962. …
 - [3] 690 Ut ferat auxilium miseris. Thetideius heros
 - [4] 690 Ut ferat auxilium miseris. Thetideius heros
+  - Thetideius (ACHILLES): Thetideius heros Graecorum preces despuit
 - [6] 690 ut ferat auxilium miseris. Thetideius heros
+  - Thetideius (Thetideius): Thetideius heros 690. 892: Achilles
 
 691 nec Danaum capit aure preces nec munera regis
 - [2] 693 Nec Danaum capit aure preces, nec munera regis
 - [3] 691 Nec Danaum capit aure preces nec munera regis
 - [4] 691 Nec Danaum capit aure preces nec munera regis
+  - Danaum (GRAI): — preces reicit Achilles
 - [6] 691 nec Danaum capit aure preces nec munera regis
+  - regis (Agamemnon): rex 58. 134. 691
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 692 ulla referre cupit; non illum redditus ignis
 - [2] 694 Ulla referre cupit : neque enim illum rcdditus ignis
 - [3] 692 Ulla referre cupit; non illum redditus ignis
 - [4] 692 Ulla referre cupit; non illum redditus ignis
 - [6] 692 ulla referre cupit; non illum redditus ignis
+  - ignis (Briseis): redditus ignis 692
 
 693 aut intacta suo Briseis corpore mouit.
 - [2] 695 Aut infacta suo Briseis corpore movit.
 - [3] 693 Aut intacta suo Briseis corpore mouit:
 - [4] 693 Atque intacta suo Briseis corpore movit:
+  - Briseis (BRISEIS): etiamsi intacta reddatur, Achillem non movet
 - [6] 693 aut intacta suo Briseis corpore movit:
+  - Briseis (Briseis): intacta . . . Briseis 693
 
 694 Irrita legati referunt responsa Pelasgis
 - [2] 696 Irrita lcgati referunt responsa Pelasgis :
 - [3] 694 Irrita legati referunt responsa Pelasgis.
 - [4] 694 Irrita legati referunt responsa Pelasgis.
+  - Pelasgis (GRAI): Pelasgis legati referunt Achillis responsa
 - [6] 694 irrita legati referunt responsa Pelasgis
+  - Pelasgis (Pelasgi): -gis 694
 
 695 et dapibus curant animos lenique sopore.
 - [2] 697 Hinc dapibus curant animos lenique sopore.
@@ -4637,13 +5704,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 700 Quum Danaum jussu castris Aetolius heros
 - [3] 698 Cum Danaum iussu castris Aetolius heros
 - [4] 698 Cum Danaum jussu castris Aetolius heros
+  - Aetolius (DIOMEDES): — egreditur castris cum Ulixe
+  - Danaum (GRAI): — jussu Diomedes cum Ulixe egreditur castris
 - [6] 698 cum Danaum iussu castris Aetolius heros
+  - Aetolius (Aetolius): Aetolius heros 556. 698: Diomedes
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 699 egreditur sociumque sibi delegit Vlixem,
 - [2] 701 Egreditur, sociumque sibi delegit Ulyssem,
 - [3] 699 Egreditur sociumque sibi delegit Ulixem,
 - [4] 699 Egreditur sociumque sibi delegit Ulixem,
+  - Ulixem (ULIXES): Ulixem socium sibi delegit Diomedes
 - [6] 699 egreditur sociumque sibi delegit Vlixem,
+  - Vlixem (Vlixes): -xem 699
 
 700 qui secum tacitae sublustri noctis in umbra
 - [2] 702 Qui secum tacito sublustri noctis in umbra
@@ -4657,7 +5730,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 703 Scrutetur studio, quae sit fiducia Troum,
 - [3] 701 Scrutetur studio, quae sit fiducia Troum
 - [4] 701 Scrutetur studio, quae sit fiducia Troum
+  - Troum (TROJANI): — fiducia quae sit
 - [6] 701 scrutetur studio, quae sit fiducia Troum
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 702 quidue agitent quantasue parent in proelia uires.
 - [2] 704 Quidve agitent, quantasve parent in praelia vires.
@@ -4675,13 +5750,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 706 Carpebant, venit ecce Dolon, quem Troica pubes
 - [3] 704 Carpebant, uenit ecce Dolon, quem Troia pubes
 - [4] 704 Carpebant, venit ecce Dolon, quem Troia pubes
+  - Dolon (DOLON): Diomedi et Ulixi per noctem occurrit
+  - Troia (TROJANI): Troia pubes Dolonem, ut Graecorum vires ille perspiceret, miserat
 - [6] 704 carpebant, venit ecce Dolon, quem Troia pubes
+  - Dolon (Dolon): *Dolon 704
+  - Troia (Troius): Troia pubes 704
 
 705 miserat, ut Danaum sollerti pectore uires
 - [2] 707 Miserat, ut Danaum solerti pectore vires
 - [3] 705 Miserat, ut Danaum sollerti pectore uires
 - [4] 705 Miserat, ut Danaum sollerti pectore vires
+  - Danaum (GRAI): — vires
 - [6] 705 miserat, ut Danaum sollerti pectore vires
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 706 perspiceret sensusque ducum plebisque referret.
 - [2] 708 Perspicerel, sensusque ducum plebisque referret.
@@ -4694,7 +5775,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 709 Quem procul ut vidit socius Diomedis Ulysses,
 - [3] 707 Quem procul ut uidit socius Diomedis Ulixes,
 - [4] 707 Quem procul ut vidit socius Diomedis Ulixes,
+  - Diomedis (DIOMEDES): Diomedis socius, Ulixes
+  - Ulixes (ULIXES): — Dolonem adspicit
 - [6] 707 quem procul ut vidit socius Diomedis Vlixes,
+  - Diomedis (Diomedes): socius Diomedis 707
+  - Vlixes (Vlixes): Vlixes 707
 
 708 abdiderant occultantes sua corpora furtim
 - [2] 710 Abdiderunt occultantcs sua corpora furtim
@@ -4715,7 +5800,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 710 Tros Eumediades cursu praecederet illos,
 - [4] 710 Tros Eumediades cursu praecederet illos,
   - … Eumedides Schrader (Iliad. X, 314).
+  - Eumediades (DOLON): Tros Eumediades eosdem cursu praecedit
 - [6] 710 Tros Eumediades cursu praecederet illos,
+  - Eumediades (Eumediades): Tros *Eumediades 710: Dolon
+  - Tros (Tros): Tros (troius trad.) Eumediades Dolon: 710
 
 711 ne facile oppressus gressum in sua castra referret.
 - [2] 713 Ne facile, oppressus, gressum in sua castra referret
@@ -4773,7 +5861,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Hoc ipse Dolon Ulyssi narrat apud Homer. Iliad. X, 392. Virg. Aen. XII, 349 de Dolone: « Qui quondam, castra ut Danaum speculator adiret, Ausus Pelidae pretium sibi poscere currus ». Ovid. in Ib. 629: « Qualis equos pacto, quos fortis agebat Achilles, Acta Phrygi timido est, nox tibi talis eat ». Epigramma de Dolone in Anthol. Lat. I, 95: « Praemia magna Dolon, currum dum poscit Achillis, Prodidit ipse cadens munera magna Dolon ».
 - [3] 719 Maxima Troia mihi currum promisit Achillis,
 - [4] 719 Maxima Troja mihi currum promisit Achillis,
+  - Achillis (ACHILLES): — currum a Trojanis sibi promissum esse Dolon narrat
+  - Troja (TROJA): — maxima currum Achillis Doloni promiserat
 - [6] 719 maxima Troia mihi currum promisit Achillis,
+  - Achillis (Achilles): -is 54. 689. 719. 806
+  - Troia (Troia): maxima -ia 719
 
 720 si uestras cepisset opes. Haec dona secutus
 - [2] 722 Si vestras cepisset opes : haec dona sequutus
@@ -4798,7 +5890,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Per Ditis fluctus, per Styga, vel per flumina infera, ut jurat, apud Ovidium, Met. I, 187, Jupiter. « Lacus Ditis opacos » dicit Virg. Cul. 371. Obtestandi haec formula est, qualis jurandi apud Ovid. Trist. II, 53: « Per mare, per terras, per tertia numina juro ».
 - [3] 723 Per mare, per Ditis fluctus obtestor opaci,
 - [4] 723 Per mare, per Ditis fluctus obtestor opaci,
+  - Ditis (DIS): per Ditis opaci fluctus (Dolon supplex loquitur)
 - [6] 723 per mare, per Ditis fluctus obtestor opaci,
+  - Ditis (Dis): per Ditis fluctus obtestor opaci 723
 
 724 ne rapere hanc animam crudeli caede uelitis.
 - [2] 726 Ne rapere hanc animam crudeli caede velitis.
@@ -4817,14 +5911,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 728 G)nsilium Priami regis, remque ordine gentis
 - [3] 726 Consilium Priami totam remque ordine gentis
 - [4] 726 Consilium Priami remque omnem ex ordine gentis
+  - Priami (PRIAMUS): Priami consilium expediam (loquitur Dolo)
+  - Phrygiae (TROJANI): Phrygia gens Phrygiae gentis totam rem expediam (loq. Dolo)
 - [6] 726 consilium Priami regis remque ordine gentis
+  - Priami (Priamus): -mi regis 726
 
 727 expediam Phrygiae." Postquam quid Troia pararet
 - [2] 729 Expediam Phrygiae ». Postquam quid Troja pararet
   - … Barthius Adv. LVIII, 14, p. 2752, putat Trojam pro Trojanis proceribus non satis pulchre dictam esse. Atqui verba haec sunt ab Ovidio mutuata, Met. XIII, 244, ubi Ulysses eamdem rem enarrat: « Ausum eadem, quae nos, Phrygia de gente Dolona Interimo; non ante tamen, quam cuncta coegi Prodere, et edidici, quid perfida Troja pararet. Omnia cognoram ».
 - [3] 727 Expediam Phrygiae'. postquam quid Troia pararet
 - [4] 727 Expediam Phrygiae ». Postquam quid Troja pararet
+  - Troja (TROJA): — quid pararet
 - [6] 727 expediam Phrygiae'. postquam quid Troia pararet
+  - Phrygiae (Phrygius): gentis . . . Phrygiae 727
+  - Troia (Troia): Troia 727. 1016
 
 728 cognouere uiri, fauces mucrone recluso
 - [2] 730 G)gnovere viri, fauces mucrone reclusas
@@ -4839,7 +5939,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** que Invisum hoc detrude caput sub Tartara telo ». Ed. …
 - [3] 729 Pertundunt iuueni: post haec tentoria Rhesi
 - [4] 729 Diffindunt juveni : post haec tentoria Rhesi
+  - Rhesi (RHESUS): Rhesi tentoria occupant ipsumque trucidant Ulixes et Diomedes
 - [6] 729 † detrudunt iuvenis: post haec tentoria Rhesi
+  - Rhesi (Rhesus): tentoria Rhesi 729
 
 730 intrant atque ipsum somno uinoque sepultum
 - [2] 732 Intravit , atque ipsum somno vinoque sepultum
@@ -4852,6 +5954,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 731 Obtruncant spoliantque armis fusosque per herbam
 - [4] 731 Obtruncant, spoliantque virum, fusosque per herbam
 - [6] 731 obtruncant spoliantque virum fusosque per herbam
+  - virum (Rhesus): cf. ipsum . . . virum 731
 
 732 exanimant socios. Tum tristi caede peracta
 - [2] 734 Exaniinant socios : tam tristi caede peracta
@@ -4878,8 +5981,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … quia poetae solent cursum velocem cum Euro inprimis comparare. Vid. Virg. Aen. VIII, 223, et Horat. Carm. II, 16, 24; et docti viri apud Virg. I, 317, pro Hebro ponere Eurum volunt. …
 - [3] 734 Thracas equos rapiunt, quos nec praecederet Eurus
 - [4] 734 Thracas equos rapiunt, quos nec praecederet Eurus
+  - Eurus (EURUS): Rhesi equos non praecederet
+  - Thracas (THRAX): adjectiv. Thracas equos
 - [6] 734 Thraecis equos rapiunt, quos nec praecederet Eurus
   - … cf. Ov. met. 9, 194 …
+  - Eurus (Eurus): Eurus 734: ventus
+  - Thraecis (Rhesus): Thraecis 734
+  - Thraecis (Thraex): Thraecis (-es trad.; -ăs coni.) equos 734: Rhesi
 
 735 nec posset uolucri cursu superare sagitta.
 - [2] 738 Nec posset volucri cursu superare sagitta.
@@ -4892,7 +6000,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 739 Inde iterum Argolicas primae sub tempore lucis
 - [3] 736 Inde iterum Argolicas primae sub tempore lucis
 - [4] 736 Inde iterum Argolicas primae sub tempore lucis
+  - Argolicas (ARGOLICUS): Argolicas classes
 - [6] 736 inde iterum Argolicas primae sub tempore lucis
+  - Argolicas (Argolicus): -as . . . classes 736
 
 737 ad classes redeunt, quos Nestoris accipit aetas
 - [2] 740 Ad classes redeunt, quos Nestoris accipit setas,
@@ -4900,8 +6010,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** gesta observare et collaudare decet.
 - [3] 737 Ad classes redeunt, quos Nestoris excipit aetas
 - [4] 737 Ad classes redeunt, quos Nestoris excipit aetas
+  - Nestoris (NESTOR): — aetas Diomedem et Ulixem, qui, Dolone trucidato, repetunt castra, excipit
 - [6] 737 ad classes redeunt; quos Nestoris accipit aetas
   - accipit (i. audit) …
+  - Nestoris (Nestor): -oris aetas 154. 737
 
 738 ac recipit portis. Postquam sua castra tenebant,
 - [2] 741 Ac recipit portis : postquam sua castra tenebant,
@@ -4913,7 +6025,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 742 Facta duci referunt; laudat Pelopeius heros,
 - [3] 739 Facta duci referunt: laudat Pelopeius heros,
 - [4] 739 Facta duci referunt : laudat Pelopeius heros,
+  - Pelopeius (AGAMEMNON): — Ulixis et Diomedis virtutem laudat
 - [6] 739 facta duci referunt: laudat Pelopeius heros,
+  - duci (Agamemnon): dux 134. 156. 739
+  - Pelopeius (Pelopeius): Pelopeius heros 131. 739: Agamemno
 
 740 fessaque iucundae tradunt sua membra quieti.
 - [2] 743 Fessaque jucundae tradunt sua membra quieti.
@@ -4940,7 +6055,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … — Nubem telorum, si recte memini, Maro non dixit, nisi ex comparatione antecedente, Aen. XI, 808: « sic obrutus undique telis Aeneas nubem belli, dum detonet, omnem Sustinet ». — Sed densam telorum nubem dicit Marius Victor in carm. ad Salmon. v. 16. Vid. huj. Op. t. II, …
 - [3] 743 Dardanidum Danaumque duces: uolat undique nubes
 - [4] 743 Dardanidum Danaumque duces : volat undique nubes
+  - Danaum (GRAI): — duces
+  - Dardanidum (TROJANI): Dardanidae Dardanidum duces
 - [6] 743 Dardanidum Danaumque duces: volat undique nubes
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
+  - Dardanidum (Dardanides): -dum . . . duces 743: Troum
 
 744 telorum et ferro ferrum sonat, undique mixtis
 - [2] 747 Telorum , et ferro ferrum sonat : undique mixtis
@@ -4966,14 +6085,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 750 Tandem ferventi Danaum rex concitus ira
 - [3] 747 Tandem feruenti Danaum rex concitus ira
 - [4] 747 Tandem ferventi Danaum rex concitus ira
+  - Danaum (AGAMEMNON): — Antiphon vulnerat
+  - Danaum (GRAI): — rex (Agamemno)
 - [6] 747 tandem ferventi Danaum rex concitus ira
+  - rex (Agamemnon): Danaum rex 747
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 748 Antiphon ingenti prostratum uulnere fundit
 - [2] 751 Antiphonem iagenti prostratum vulnere fundit,
   - … In Homero, Il. XI, 101, Antiphum et Isum, filios Priami, lego ab Agamemnone interfectos. Hunc nominare voluerit Homerista, an alium, adhuc dubito. …
 - [3] 748 Antiphon ingenti prostratum uulnere fudit
 - [4] 748 Antiphon ingenti prostratum vulnere fudit
+  - Antiphon (ANTIPHUS Priami filius): Antiphon Agamemno vulnerat
 - [6] 748 Antiphon ingenti prostratum vulnere fudit
+  - Antiphon (Antiphus 3): -ŏn 748: Priami f.
 
 749 Pisandrumque simul fratremque ad bella ruentem
 - [2] 752 Pisandrumque simul , fratremque ad bella ruentem
@@ -4981,14 +6106,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 749 Pisandrumque simul fratremque ad bella ruentem
 - [4] 749 Pisandrumque simul fratremque ad bella ruentem
   - **749, 750** Pisandrum, Hippolochum … (Iliad. XI, 122).
+  - Hippolochum (HIPPOLOCHUS): Hippolochum ruentem ad bella Agamemno caedit
+  - Pisandrum (PISANDER): Pisandrum Agamemno caedit
 - [6] 749 Pisandrumque simul fratremque ad bella ruentem
+  - Pisandrum (Pisander): *Pisandrum (tess- trad.) 749: Antimachi f.
 
 750 Hippolochum; post hos gladio petit Iphidamanta.
 - [2] 753 Hippolochum , post hos gladio petit Iphidamanta :
   - … Nam Iphidamanta, Antenoris filium, hic restituendum ex Homeri Iliad. XI, 221, …
 - [3] 750 Hippolochum; post hos gladio petit Iphidamanta.
 - [4] 750 Hippolochum ; post hos gladio petit Iphidamanta.
+  - Iphidamanta (IPHIDAMAS): Iphidamanta Agamemno occidit
 - [6] 750 Hippolochum; post hos gladio petit Iphidamanta.
+  - Hippolochum (Hippolochus): Pisandrum . . . fratremque . . . *Hippolochum 750: Antimachi filios
+  - Iphidamanta (Iphidamas): *Iphidamanta (amphi- trad.) 750: Antenoris f.
 
 751 Hic frater dextram iaculo ferit; ille dolore
 - [2] 754 Hinc frater regis dextram ferit , ille dolore
@@ -4997,13 +6128,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 751 Hic regis dextram frater ferit; ille dolore
 - [4] 751 Hic regis dextram frater ferit; ille dolore
 - [6] 751 hic frater dextram iaculo ferit; ille dolore
+  - frater (Coon): (Coon) Antenoris f.: frater 751
 
 752 acrior accepto fugientem Antenore natum
 - [2] 755 Acrior acoepto fugientem Antenore natum
   - Antenore natum, nempe Coonem, fratrem Iphidamantis.
 - [3] 752 Acrior accepto fugientem Antenore natum
 - [4] 752 Acrior accepto fugientem Antenore natum
+  - Antenore (ANTENOR): — natum (Coonem) persequitur vulneratque Agamemno
 - [6] 752 acrior accepto fugientem Antenore natum
+  - Antenore (Antenor 2): Antenore natum 752: Coona Thraca
 
 753 persequitur traxitque ferox cum uulnere poenas.
 - [2] 756 Persequitur, traxitque ferox cum vulnere pccnas.
@@ -5016,25 +6150,34 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 757 Hector tunc pugnae subit acri concitus ira
 - [3] 754 Hector tum pugnae subit acri concitus ira
 - [4] 754 Hector tum pugnae subit acri concitus ira
+  - Hector (HECTOR): — Priamides iratus acri pugna subit
 - [6] 754 Hector tum pugnae subit acri concitus ira
+  - Hector (Hector): -or . . . Priamides 754
+  - Priamides (Priamides): Hector -es 754: Hector
 
 755 Priamides et percussos agit undique Graios;
 - [2] 758 Priamides, mox perculsos agit undique Graios,
 - [3] 755 Priamides et percussos agit undique Graios;
 - [4] 755 Priamides et percussos agit undique Grajos;
+  - Grajos (GRAI): — Hector undique agit
 - [6] 755 Priamides et percussos agit undique Graios;
+  - Graios (Graius): Graios 682. 755. 763
 
 756 nec Paris hostiles cessat prosternere turmas
 - [2] 759 Nec Paris hostiles cessat prosternere turmas,
 - [3] 756 Nec Paris hostiles cessat prosternere turmas
 - [4] 756 Nec Paris hostiles cessat prosternere turmas
+  - Paris (PARIS): — hostiles turmas prosternit
 - [6] 756 nec Paris hostiles cessat prosternere turmas
+  - Paris (Paris): Paris 576. 756
 
 757 Eurypylique femur contento uulnerat arcu.
 - [2] 760 Eurypylique femur contento vulnerat arcu.
 - [3] 757 Eurypylique femur contento uulnerat arcu.
 - [4] 757 Eurypylique femur contento vulnerat arcu.
+  - Eurypyli (EURYPYLUS): Eurypyli femur Paris vulnerat
 - [6] 757 Eurypylique femur contento vulnerat arcu.
+  - Eurypyli (Eurypylus): -li 757
 
 ## Book 12
 
@@ -5042,7 +6185,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 761 XII. Incumbunt Troes, fugiunt in castra Pelasgi
 - [3] 758 Incumbunt Troes, fugiunt in castra Pelasgi
 - [4] 758 Incumbunt Troes, fugiunt in castra Pelasgi
+  - Pelasgi (GRAI): Pelasgi nominativ. in castra fugiunt
+  - Troes (TROJANI): Troes incumbunt, Graeci fugiunt
 - [6] 758 incumbunt Troes, fugiunt in castra Pelasgi
+  - Pelasgi (Pelasgi): Pelasgi 758. 769
+  - Troes (Tros): Troes 758. 767. 928. 978. 1002 ubique ante consonam vel ultima ancipiti
 
 759 uiribus exhaustis et uastis undique firmant
 - [2] 762 Yiribus exhaustis, et vastis undique firmant
@@ -5056,7 +6203,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Barthius ad primum versum Thebaidos in hoc et sequente versu observat auctorem literis a et r frequenter junctis asperitatem soni in re horrida quaesisse.
 - [3] 760 Obicibus muros, tum saxo Martius Hector
 - [4] 760 Obicibus muros. Tum saxo Martius Hector
+  - Hector (HECTOR): — Martius castrorum hostilium portas saxo perfringit
 - [6] 760 obicibus muros; tum saxo Martius Hector
+  - Hector (Hector): Martius -or 760
+  - Martius (Martius): Martius Hector 760
 
 761 perfringit portas ferrataque robora laxat.
 - [2] 764 Perfringit portas, ferrataque robora laxat.
@@ -5068,13 +6218,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 765 Irrumpunt aditus Phryges, atque in limine primo
 - [3] 762 Inrumpunt aditus Phryges atque in limine primo
 - [4] 762 Irrumpunt aditus Phryges atque in limine primo
+  - Phryges (TROJANI): — castrorum hostilium aditus irrumpunt
 - [6] 762 inrumpunt aditus Phryges atque in limine primo
+  - Phryges (Phryges): Phryges 401. 493. 636. 682. 762. 803
 
 763 restantes sternunt Graios ualloque cateruas
 - [2] 766 Restantes sternunt Graios, valloque catervas
 - [3] 763 Restantes sternunt Graios ualloque cateruas
 - [4] 763 Restantes sternunt Grajos valloque catervas
+  - Grajos (GRAI): — Trojani sternunt
 - [6] 763 restantes sternunt Graios valloque catervas
+  - Graios (Graius): Graios 682. 755. 763
 
 764 deturbant, alii scalas in moenia poscunt
 - [2] 767 Deturbant, alii scalas in moenia ponunt,
@@ -5092,15 +6246,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 769 De muris pugnant Danai, turresque per altas
 - [3] 766 De muris pugnant Danai turresque per altas
 - [4] 766 De muris pugnant Danai turresque per altas
+  - Danai (GRAI): — pugnant de muris
 - [6] 766 de muris pugnant Danai † puppesque per altas:
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 
 767 Saxa uolant, subeunt acta testudine Troes
 - [2] 770 Saxa volant; subeunt acta testudine Troes,
   - … Nempe hoc etiam Virgiliana imitatio subjicit, Aen. II, 441: « obsessumque acta testudine limen »; et IX, 505, « Accelerant acta pariter testudine Volsci ».
 - [3] 767 Saxa uolant, subeunt acta testudine Troes
 - [4] 767 Saxa volant, subeunt acta testudine Troes
+  - Troes (TROJANI): — acta testudine subeunt
 - [6] 767 saxa volant, subeunt acta testudine Troes
   - acta … ex Verg. Aen. 2, 441. 9, 505 …
+  - Troes (Tros): Troes 758. 767. 928. 978. 1002 ubique ante consonam vel ultima ancipiti
 
 768 ascenduntque aditus et portis uiribus instant.
 - [2] 771 Ascenduntque aditus , et totis viribus instant.
@@ -5112,13 +6270,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 772 Turbati fugiunt linquentes castra Pelasgi,
 - [3] 769 Turbati fugiunt omnes iam castra Pelasgi
 - [4] 769 Turbati fugiunt omnes, en, castra Pelasgi
+  - Pelasgi (GRAI): — turbati fugiunt omnes
 - [6] 769 turbati fugiunt omnes † in castra Pelasgi
+  - Pelasgi (Pelasgi): Pelasgi 758. 769
 
 770 et scandunt puppes. Vrget Troiana iuuentus
 - [2] 773 Et scandunt puppes; urget Trojana juventus ,
 - [3] 770 Et scandunt puppes; urguet Troiana iuuentus
 - [4] 770 Et scandunt puppes ; urguet Trojana juventus
+  - Trojana (TROJANI): — Graecos urguet
 - [6] 770 et scandunt puppes; instat Troiana iuventus
+  - Troiana (Troianus): Troiana iuventus 542. 770
 
 771 telaque crebra iacit: resonat clamoribus aether.
 - [2] 774 Telaque crebra jacit: resonat clamoribus aether.
@@ -5132,7 +6294,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 775 XIII. Neptunus vires Danais animumque ministrat :
 - [3] 772 Neptunus uires Danais animumque ministrat.
 - [4] 772 Neptunus vires Danais animumque ministrat.
+  - Danais (GRAI): Danais vires Neptunus ministrat
+  - Neptunus (NEPTUNUS): Graecis animum et vires ministrat
 - [6] 772 Neptunus vires Danais animumque ministrat:
+  - Danais (Danai): -is 772
+  - Neptunus (Neptunus): Neptunus 772
 
 773 pugna ingens oritur, furit istinc hostis et illinc.
 - [2] 776 Pugna ingens oritur; furit istinc hostis et illinc,
@@ -5145,33 +6311,50 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Certe, qui hic prior Asius, et ante Amphimachum ab Hectore occisum, nominatur, eum Homerus multo post Amphimachum dicit interfectum, Iliad. XIII, 384. Neque vero Idomenei facinus in hac acie reticet Noster, et proxime Alcathoum, Anchisae generum, ab eo occisum memorat, quae caedes memorabilior fuit, quam ista Asii. …
 - [3] 774 Dextraque Idomenei cadit Asius; Hector atrocem
 - [4] 774 Idomenei dextra cadit Asius; Hector atrocem
+  - Amphimachum (AMPHIMACHUS princeps Epeorum): Amphimachum atrocem obtruncat Hector
+  - Asius (ASIUS Hyrtaci filius): — Idomenei dextra cadit
+  - Hector (HECTOR): — Amphimachum obtruncat
+  - Idomenei (IDOMENEUS): Idomenei dextra Asius cadit
 - [6] 774 Idomenei dextra cadit Asius; Hector atrocem
+  - Asius (Asius): Asius 240. 774: Hyrtaci f., a parte Troum
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
+  - Idomenei (Idomeneus): -nei dextrā 774
 
 775 Amphimachum obtruncat nec non occumbit in armis
 - [2] 778 Amphimachum obtrmrcat; nec non occumbit in armis
 - [3] 775 Amphimachum obtruncat, necnon occumbit in armis
 - [4] 775 Amphimachum obtruncat, nec non occumbit in armis
 - [6] 775 Amphimachum obtruncat nec non occumbit in armis
+  - Amphimachum (Amphimachus 1): Hector atrocem -um obtruncat 775
 
 776 Anchisae gener Alcathous, quem fuderat ense
 - [2] 779 Anchisae gener Alcathous, quem fnderat ense
   - … pro quo Alcathous ex Homero recte reponunt Dorpius et Dussenius: …
 - [3] 776 Anchisae gener Alcathous, quem fuderat ense
 - [4] 776 Anchisae gener Alcathous, quem fuderat ense
+  - Alcathous (ALCATHOUS): Anchisae gener, occiditur
 - [6] 776 Anchisae gener Alcathous, quem fuderat ense
+  - Alcathous (Alcathous): Anchisae gener Alcathous 776
+  - Anchisae (Anchises): Anchisae gener Alcathous 776
 
 777 magnanimus ductor Rhytieus. Tunc feruidus hasta
 - [2] 780 Magnanimus dactor Cretum; tunc fervidas hasta
   - … et tamen Idomeneus, qui Alcathoum occidit, ductor Cretum vocatur ab Homero, Il. XIII, 221, 259, 274, aliisque in locis. …
 - [3] 777 Magnanimus ductor Rhythieus; tum feruidus hasta
 - [4] 777 Magnanimus ductor Rhythieus; tum fervidus hasta
+  - Rhythieus (IDOMENEUS): Ductor Rhythieus magnanimus Alcathoum occidit
 - [6] 777 magnanimus ductor Rhytieus; tum fervidus hasta
+  - Rhytieus (Rhytieus): magnanimus ductor Rhytieus 777: Idomeneus
 
 778 Deiphobus ferit Ascalaphum mergitque sub undas.
 - [2] 781 Deiphobus ferit Ascalaphum , mergitque sub umbras.
 - [3] 778 Deiphobus ferit Ascalaphum mergitque sub umbras.
 - [4] 778 Deiphobus ferit Ascalaphum mergitque sub umbras.
+  - Ascalaphum (ASCALAPHUS): Ascalaphum Deiphobus interficit
+  - Deiphobus (DEIPHOBUS): — Ascalaphum caedit
 - [6] 778 Deiphobus ferit Ascalaphum mergitque sub umbras.
+  - Ascalaphum (Ascalaphus): -um 778
+  - Deiphobus (Deiphobus): fervidus . . . -us 778
 
 ## Book 14
 
@@ -5179,13 +6362,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 782 XIV. Hector ubique ferox violento pectore saevit,
 - [3] 779 Hector ubique ferox uiolento pectore saeuit,
 - [4] 779 Hector ubique ferox violento pectore saevit,
+  - Hector (HECTOR): — ferox violento saevit pectore
 - [6] 779 Hector ubique ferox violento pectore saevit,
+  - Hector (Hector): -or . . . ferox 779
 
 780 quem saxo ingenti percussum maximus Aiax
 - [2] 783 Quem saxo ingenti percussum maximus Ajax
 - [3] 780 Quem saxo ingenti percussum maximus Aiax
 - [4] 780 Quem saxo ingenti percussum maximus Ajax
+  - Ajax (AJAX Telamonis filius): — maximus Hectorem saxo percutit
 - [6] 780 quem saxo ingenti percussum maximus Aiax
+  - Aiax (Aiax (Telamonius)): maximus -ax 780
 
 781 depulit et toto prostratum corpore fudit.
 - [2] 784 Depulit, et toto prostratum corpore fudit.
@@ -5197,14 +6384,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 785 Concurrit Trojana manus , juvenemque vomentem
 - [3] 782 Concurrit Troiana manus iuuenemque uomentem
 - [4] 782 Concurrit Trojana manus juvenemque vomentem
+  - Trojana (TROJANI): Trojana manus concurrit
 - [6] 782 concurrit Troiana manus iuvenemque vomentem
+  - Troiana (Troianus): -na manus 782
 
 783 sanguineos fluctus Xanthi lauere fluentis.
 - [2] 786 Sanguineos flactus Xanthi lavere fluento.
 - [3] 783 Sanguineos fluctus Xanthi lauere fluento.
 - [4] 783 Sanguineos fluctus Xanthi lavere fluento.
+  - Xanthi (XANTHUS fluvius): Xanthi fluctu Hectorem vulneratum Trojani lavant
 - [6] 783 sanguineos fluctus Xanthi lavere fluentis.
   - … cf. Verg. Aen. 4, 143
+  - Xanthi (Xanthus (fluvius)): Xanthi . . . fluentis 783
 
 784 Inde iterum ad pugnam redeunt; fit maxima caedes
 - [2] 787 Inde iterum ad pugnam redeunt, fit maxima caedes
@@ -5222,26 +6413,46 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 789 Polydamas valido Profhoenora percutit ictu,
 - [3] 786 Polydamas ualido Prothoenora percutit ictu,
 - [4] 786 Polydamas valido Prothoenora percutit ictu,
+  - Polydamas (POLYDAMAS): Prothoenora occidit
+  - Prothoenora (PROTHOENOR): Prothoenora occidit Polydamas
 - [6] 786 Polydamas valido Prothoënora percutit ictu,
+  - Polydamas (Polydamas): Polydamas 786: Panthoi f.
+  - Prothoënora (Prothoenor): -ora 786
 
 787 Archelochumque Antenoriden Telamonius Aiax,
 - [2] 790 Archelochumque Antenoriden Teiamonius Ajax,
 - [3] 787 Archilochumque Antenoriden Telamonius Aiax,
 - [4] 787 Archilochumque Antenoriden Telamonius Ajax,
   - Archilocum … (Iliad. XIV, 462 sqq.).
+  - Ajax (AJAX Telamonis filius): — Telamonius Archilochum percutit
+  - Archilochum (ARCHILOCHUS): Archilochum Antenoriden occidit Ajax Telamonius
 - [6] 787 Archelochumque Antenoriden Telamonius Aiax,
+  - Aiax (Aiax (Telamonius)): Telamonius -ax 205. 363. 602. 623. 787. 836
+  - Antenoriden (Antenorides): Archelochum . . . Antenoriden 787
+  - Archelochum (Archelochus): -um . . . Antenoriden 787: Troa
+  - Telamonius (Telamonius): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 788 Boeotumque Acamas Promachum, quem sternit atrocis
 - [2] 791 Bceotumque Acamas Promachum, quem sternit atrocem
 - [3] 788 Boeotumque Acamas Promachum, quem sternit atrocis
 - [4] 788 Boeotumque Acamas Promachum, quem sternit atrocis
+  - Acamas (ACAMAS Antenoris filius): — Promachum vulnerat
+  - Boeotum (BOEOTUS): Boeotum (cf. Promachus)
+  - Promachum (PROMACHUS): Promachum Boeotum vulnerat Acamas, Antenoris filius
 - [6] 788 Boeotumque Acamas Promachum, quem sternit atrocis
+  - Acamas (Acamas 1): -as Promachum occidit, quem sternit atrocis Penelei dextra 788
+  - Boeotum (Boeotus): Boeotum . . . Promachum 788
+  - Promachum (Promachus): Boeotum . . . Promachum 788
 
 789 Penelei dextra; inde cadit Priameia pubes
 - [2] 792 Penelei dextra , inde cadit Priameia pubes.
 - [3] 789 Penelei dextra; inde cadit Priameia pubes.
 - [4] 789 Penelei dextra ; inde cadit Priameia pubes.
+  - Penelei (PENELEUS): Penelei atrocis dextra Acamantem Antenoris filium sternit
+  - Priameia (TROJANI): Priameia pubes cadit
 - [6] 789 Penelei dextra; inde cadit Priameia pubes
+  - Penelei (Peneleos): atrocis -lei 789: dux Boeotum
+  - Priameia (Priameius): -eia pubes 789. 837: Troiani
 
 ## Book 15
 
@@ -5250,13 +6461,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Per nimiam brevitatem scriptoris jejunamque in narrando exilitatem fit, ut hoc loco perspici nequeat, unde tam repentina conversio rerum facta sit, ut Trojani paullo ante caesi fugatique, nunc acrius insurgant, et Graecos adeo ad naves suas, multa caede facta, compellant. Nimirum brevius saltem attingi debebant caussae, quas Homerus fingit, Jovem expergefactum Trojanis virtutem reddidisse, Neptunumque dehortatum, ne Graecos amplius juvaret, Hectoremque ab Apolline excitatum et novis viribus instructum, ut pugnam integraret. Haec commenta Homeri si diligentius retulisset auctor, quam pugnas et caedes, impetus et fugas, magis servasset amoenitatem poematis, nec meram historiam narrasset.
 - [3] 790 Acrius adsurgunt Troes; at Achaica turba
 - [4] 790 Acrius assurgunt Troes ; at Achaica turba
+  - Achaica (GRAI): Achaica turba fugit
+  - Troes (TROJANI): — acrius assurgunt
 - [6] 790 acrius insurgunt Troes ad Achaica bella,
+  - Achaica (Achaicus): insurgunt Troes ad Achaica bella 790
+  - Troes (Tros): Troēs ad 790
 
 791 <>
 - [2] 794 Instaurantque manus ; cedit Pelopeia virtus
 - [3] [791] [Instaurantque manus, cedit Pelopea iuuentus]
 - [4] 791 below Instaurantque manus, cedit Pelopea juventus
+  - Pelopea (GRAI): [Pelopea juventus cedit]
 - [6] —
+  - — (Pelopeus): [Pelopea iuventus 791]: Graeci
 
 792 pulsa metu uallumque et muros aggere saeptos
 - [2] 795 Pulsa metu, vallumque et muros aggere septos
@@ -5274,13 +6491,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 797 Advolat interea Danaum metus, impiger Hector :
 - [3] 794 Aduolat interea Danaum metus impiger Hector.
 - [4] 794 Advolat interea Danaum metus impiger Hector.
+  - Danaum (GRAI): — metus Hector
+  - Hector (HECTOR): — Danaum metus, impiger, advolat Graecosque pellit
 - [6] 794 advolat interea Danaum metus impiger Hector:
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
+  - Hector (Hector): Danaum metus, impiger -or 794
 
 795 confugiunt iterum ad classes Agamemnonis alae
 - [2] 798 Confugiunt iterum ad classes Agamemnonis alae,
 - [3] 795 Confugiunt iterum ad classes Agamemnonis alae
 - [4] 795 Confugiunt iterum ad classes Agamemnonis alae
+  - Agamemnonis (AGAMEMNON): — alae, premente Hectore, ad classes confugiunt
 - [6] 795 confugiunt iterum ad classes Agamemnonis alae
+  - Agamemnonis (Agamemnon): -onis 121. 795
 
 796 atque inde aduersis propellunt uiribus hostem.
 - [2] 799 Atque inde adversis propellunt viribus hosiem.
@@ -5292,7 +6515,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 800 Fit pugna ante rates : SJBvit Mavortius Hector,
 - [3] 797 Fit pugna ante rates; saeuit Mauortius Hector
 - [4] 797 Fit pugna ante rates; saevit Mavortius Hector
+  - Hector (HECTOR): — Mavortius saevit, Graecorum naves incensurus
 - [6] 797 fit pugna ante rates; saevit Mavortius Hector
+  - Hector (Hector): Mavortius -or 543. 797
+  - Mavortius (Mavortius): Mavortius Hector 543. 797
 
 798 et poscit flammas totamque incendere classem
 - [2] 801 Et poscit flammas, totamque incendere classem
@@ -5304,7 +6530,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 802 Adparat : huic validis obsistit viribus Ajax
 - [3] 799 Apparat: huic ualidis obsistere uiribus Aiax,
 - [4] 799 Apparat; huic validis obsistit viribus Ajax,
+  - Ajax (AJAX Telamonis filius): — solus naves defendit
 - [6] 799 apparat; huic validis obsistit viribus Aiax,
+  - Aiax (Aiax (Telamonius)): -ax 538. 799. 1009
 
 800 stans prima in puppi, clipeoque incendia saeua
 - [2] 803 Stans prima in puppi , clypeoque incendia sseva
@@ -5324,13 +6552,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 805 Hinc jaciunt Danai robustae cuspidis hastas,
 - [3] 802 Hinc iaciunt Danai robustae cuspidis hastas,
 - [4] 802 Hinc jaciunt Danai robustae cuspidis hastas,
+  - Danai (GRAI): — hastas cuspidis jaciunt
 - [6] 802 hinc iaciunt Danai robustae cuspidis hastas,
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 
 803 illinc ardentes taedas Phryges undique iactant;
 - [2] 806 Illinc ardentes taedas Phryges undique jactant,
 - [3] 803 Illinc ardentes taedas Phryges undique iactant:
 - [4] 803 Illinc ardentes taedas Phryges undique jactant :
+  - Phryges (TROJANI): — taedas ardentes jactant
 - [6] 803 illinc ardentes taedas Phryges undique iactant:
+  - Phryges (Phryges): Phryges 401. 493. 636. 682. 762. 803
 
 804 per uastos sudor pugnantum defluit artus.
 - [2] 807 Per vastos sudor pugnantum defluit artus.
@@ -5350,25 +6582,34 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 809 Patroclus, subitoque armis munitus Achillis
 - [3] 806 Patroclus subitoque armis munitus Achillis
 - [4] 806 Patroclus subitoque armis munitus Achillis
+  - Achillis (ACHILLES): — armis Patroclus munitus
+  - Patroclus (PATROCLUS): Achillis armis munitus
 - [6] 806 Patroclus subitoque armis munitus Achillis
+  - Achillis (Achilles): -is 54. 689. 719. 806
+  - Patroclus (Patroclus): Patroclus 806. 827
 
 807 prouolat et falsa conterret imagine Troas.
 - [2] 810 Advolat, et falsa conterret imagine Troas.
 - [3] 807 Prouolat et falsa conterret imagine Troas.
 - [4] 807 Provolat et falsa conterret imagine Troas.
+  - Troas (TROJANI): Troas terret Patroclus, Achillis armis munitus
 - [6] 807 provolat et falsa conterret imagine Troas.
+  - Troas (Tros): Troas 807
 
 808 Qui modo turbabant Danaos animoque fremebant,
 - [2] 811 Qui modo turbabant Danaos, animoque fremebant,
 - [3] 808 Qui modo turbabant Danaos animoque fremebant,
 - [4] 808 Qui modo turbabant Danaos animisque fremebant,
+  - Danaos (GRAI): qui — modo turbabant, Trojani nunc fugiunt
 - [6] 808 qui modo turbabant Danaos animoque fremebant,
+  - Danaos (Danai): -os 45. 492. 659. 808. 912. 950. 1001
 
 809 nunc trepidi fugiunt, fugientibus imminet ille
 - [2] 812 Nunc trepidi fugiunt : fugientibus imminet ille,
 - [3] 809 Nunc trepidi fugiunt: fugientibus imminet ille
 - [4] 809 Nunc trepidi fugiunt : fugientibus imminet ille
 - [6] 809 nunc trepidi fugiunt: fugientibus imminet ille
+  - ille (Patroclus): cf. ille 809. 823
 
 810 perturbatque ferox acies uastumque per agmen
 - [2] 813 Perturbatque ferox aciem , vastumque per agmen
@@ -5380,7 +6621,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 814 Fertur, et ingenti Sarpedona vulnere fundit;
 - [3] 811 Saeuit et ingenti Sarpedona uulnere fundit
 - [4] 811 Saevit et ingenti Sarpedona vulnere fundit
+  - Sarpedona (SARPEDON): Sarpedona Patroclus occidit
 - [6] 811 sternit et ingenti Sarpedona vulnere fundit
+  - Sarpedona (Sarpedon): -dona 811
 
 812 et nunc hos cursu nunc illos praeterit ardens
 - [2] 815 Et nunc hos cursu y nunc illos praeterit ardens,
@@ -5393,7 +6636,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 816 Praeliaque horrendi sub imagine versat Achillis.'
 - [3] 813 Praeliaque horrendi sub imagine uersat Achillis.
 - [4] 813 Proeliaque horrendi sub imagine versat Achillis.
+  - Achillis (ACHILLES): — horrendi sub imagine Patroclus pugnat
 - [6] 813 proeliaque horrendi sub imagine versat Achillis.
+  - Achillis (Achilles): horrendi . . . -is 813
 
 814 Quem postquam socias miscentem caede cateruas
 - [2] 817 Quem postquam socias miscentem csede catervas,
@@ -5405,7 +6650,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 818 Turbantemque acies conspexit fervidus Hector,
 - [3] 815 Turbantemque acies respexit feruidus Hector,
 - [4] 815 Turbantemque acies respexit fervidus Hector,
+  - Hector (HECTOR): — fervidus Patroclum, acies sub imagine Achillis turbantem, respicit
 - [6] 815 turbantemque acies respexit fervidus Hector,
+  - Hector (Hector): fervidus -or 815
 
 816 tollit atrox animos uastisque immanis in armis
 - [2] 819 Tollit atrox animos, vastisque immanis in armis
@@ -5423,44 +6670,57 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 821 «Huc, age, nunc converte gradum, fortissime Achilies,
 - [3] 818 'Huc age nunc conuerte gradum, fortissime Achilles:
 - [4] 818 « Huc age nunc converte gradum, fortissime Achilles :
+  - Achilles (ACHILLES): vocativ. fortissime (Hector adloquitur)
 - [6] 818 'huc age nunc converte gradum, fortissime Achilles:
+  - Achilles (Achilles): voc.: fortissime -es 818. 1028
 
 819 iam nosces ultrix quid Troica dextera possit
 - [2] 822 Jam nosces, ultrix quid Troica dextera possit,
 - [3] 819 Iam nosces, ultrix quid Troica dextera possit
 - [4] 819 Jam nosces, ultrix quid Troica dextera possit
+  - Troica (TROICUS): Troica dextera (Hectoris manus)
 - [6] 819 iam nosces, ultrix quid Troica dextera possit
+  - Troica (Troicus): Troica dextera Hectoris 819
 
 820 et quantum bello ualeat fortissimus Hector.
 - [2] 823 Et quantum bello valeat fbrtissimus Hector.
 - [3] 820 Et quantum in bello ualeat fortissimus Hector.
 - [4] 820 Et quantum in bello valeat fortissimus Hector.
+  - Hector (HECTOR): — fortissimus quantum in bello valeat (de se loquitur)
 - [6] 820 et quantum bello valeat fortissimus Hector.
+  - Hector (Hector): fortissimus -or 486. 820
 
 821 Nam licet ipse suis Mauors te protegat armis,
 - [2] 824 Nam licet ipse suis Mavors te protegat armis,
   - Nam licet ipse. Pulcherrimos hos versus praedicat Barthius, Adv. LIX, 15, p. 2808. At vero eos auctor non suo, sed Ovidii ingenio debet, quem paene ad verbum exscripsit, Metam. VIII, 394: « Ipsa suis licet hunc Latonia protegat armis, Hunc tamen invita perimet mea dextra Diana ».
 - [3] 821 Nam licet ipse suis Mauors te protegat armis,
 - [4] 821 Nam licet ipse suis Mavors te protegat armis,
+  - Mavors (MARS): — licet te protegat, morieris (Patroclum Hector adloq.)
 - [6] 821 nam licet ipse suis Mavors te protegat armis,
+  - Mavors (Mavors): ipse . . . Mavors 821
 
 822 inuito tamen haec perimet te dextera Marte."
 - [2] 825 Invito tamen haec perimet te dextera Marte ».
 - [3] 822 Inuito tamen haec perimet te dextera Marte'.
 - [4] 822 Invito tamen haec perimet te dextera Marte ».
+  - Marte (MARS): Marte invito te perimet haec dextra (Patroclum, Achillis armis indutum, Hector adloq.)
 - [6] 822 invito tamen haec perimet te dextera Marte'.
+  - Marte (Mars): invito . . . Marte 822
 
 823 Ille silet spernitque minas animosaque dicta,
 - [2] 826 Ille silet , spernitque minas animosaque dicta ,
 - [3] 823 Ille silet spernitque minas animosaque dicta,
 - [4] 823 Ille silet spernitque minas animosaque dicta,
 - [6] 823 ille silet spernitque minas animosaque dicta,
+  - ille (Patroclus): cf. ille 809. 823
 
 824 ut quem mentitur uerus credatur Achilles.
 - [2] 827 Ut , quem mentitur, verus credatur Achilles.
 - [3] 824 Ut quem mentitur uerus credatur Achilles,
 - [4] 824 Ut quem mentitur verus credatur Achilles.
+  - Achilles (ACHILLES): nominativ. praedicatus Patroclus silet ut verus Achilles ab Hectore credatur
 - [6] 824 ut quem mentitur verus credatur Achilles.
+  - Achilles (Achilles): verus . . . -es 824
 
 825 Tunc prior intorquet collectis uiribus hastam
 - [2] 828 Tunc prior intorquet coliectis viribus hastam
@@ -5472,7 +6732,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 829 Dardanides, quam prolapsam celeri excipit ictu
 - [3] 826 Dardanides, quam prolapsam celere excipit actu
 - [4] 826 Dardanides, lapsam celeri quam decipit astu
+  - Dardanides (HECTOR): Dardanides Patroclum hasta petit
 - [6] 826 Dardanides, quam prolapsam celeri excipit ictu
+  - Dardanides (Dardanides): Dardanides 826: Hector
 
 827 Patroclus redditque uices et, mutua dona,
 - [2] 830 Patroclus, redditque vices et mutua dona.
@@ -5480,7 +6742,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** Sic et gratiam referre in malam partem pro ultione aut talione dicitur. Terent. Eun. V, 3, 2: « qui referam illi sacrilego gratiam ». Ed.
 - [3] 827 Patroclus redditque uices et mutua dona;
 - [4] 827 Patroclus redditque vices et mutua dona ;
+  - Patroclus (PATROCLUS): — hastam Hectoris decipit
 - [6] 827 Patroclus redditque vices et mutua dona
+  - Patroclus (Patroclus): Patroclus 806. 827
 
 827a
 - [2] 831 Objicit et saxum multo cum pondere missum,
@@ -5504,19 +6768,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 834 Inter se miscent, donec Trojanus Apollo
 - [3] 830 Inter se miscent, donec Troianus Apollo
 - [4] 830 Inter se miscent, donec Trojanus Apollo
+  - Apollo (APOLLO): — Trojanus Patroclum, sub imagine Achillis pugnantem, denudat
 - [6] 830 inter se miscent, donec Troianus Apollo
+  - Apollo (Apollo): Troianus -o 472. 830
 
 831 mentitos uultus simulati pandit Achillis
 - [2] 835 Mentitos vultus simulati pandit Acbillts,
 - [3] 831 Mentitos uultus simulati pandit Achillis
 - [4] 831 Mentitos vultus simulati pandit Achillis
+  - Achillis (ACHILLES): — mentitos vultus Apollo pandit
 - [6] 831 mentitos vultus simulati pandit Achillis
+  - Achillis (Achilles): simulati . . . -is (Patrocli) 831
+  - Achillis (Patroclus): simulati . . . Achillis 831
 
 832 denudatque uirum, quem bello maximus Hector
 - [2] 836 Denudafque rirum : quem bello maximus Hector
 - [3] 832 Denudatque uirum; quem bello maximus Hector
 - [4] 832 Denudatque virum; quem bello maximus Hector
+  - Hector (HECTOR): — bello maximus Patroclum falsis in armis deprendit
 - [6] 832 denudatque virum; quem bello maximus Hector
+  - Hector (Hector): bello maximus -or 620. 832
 
 833 pugnantem falsis postquam deprendit in armis,
 - [2] 837 Pugnantem falsis postquam deprendit in armis,
@@ -5530,12 +6801,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 834 Irruit et iuuenem nudato pectore ferro
 - [4] 834 Irruit et juvenem nudato pectore ferro
 - [6] 834 irruit et iuvenem nudato pectore ferro
+  - iuvenem (Patroclus): iuvenem 834
 
 835 traicit et uictor Vulcania detrahit arma.
 - [2] 839 Trajicit, et victo Vulcania detrahit arma.
 - [3] 835 Traicit et uicto Uulcania detrahit arma.
 - [4] 835 Traicit et victo Vulcania detrahit arma.
+  - Vulcania (VULCANIUS): Vulcania arma
 - [6] 835 traicit et victor Vulcania detrahit arma.
+  - Vulcania (Vulcanius): Vulcania . . . arma Achillis 835. 961
 
 ## Book 17
 
@@ -5543,19 +6817,27 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 840 XVII. Vindicat exstincti corpus Telamonius Ajax,
 - [3] 836 Uindicat extincti corpus Telamonius Aiax
 - [4] 836 Vindicat exstincti corpus Telamonius Ajax
+  - Ajax (AJAX Telamonis filius): — Telamonius vindicat Patrocli corpus
 - [6] 836 vindicat extincti corpus Telamonius Aiax
+  - Aiax (Aiax (Telamonius)): Telamonius -ax 205. 363. 602. 623. 787. 836
+  - extincti (Patroclus): extincti 836
+  - Telamonius (Telamonius): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 837 oppositoque tegit clipeo. Priameia pubes
 - [2] 841 Oppositoque tegit clypeo. Priameia pubes
 - [3] 837 Oppositoque tegit clipeo. Priameia pubes
 - [4] 837 Oppositoque tegit clipeo. Priameia pubes
+  - Priameia (TROJANI): — laetitia exsultat
 - [6] 837 oppositoque tegit clipeo. Priameia pubes
+  - Priameia (Priameius): -eia pubes 789. 837: Troiani
 
 838 laetitia exsultat, Danai sua uulnera maerent.
 - [2] 842 Laetitia exsultat; Danai sua funera moerent.
 - [3] 838 Laetitia exultat, Danai sua funera maerent.
 - [4] 838 Laetitia exsultat, Danai sua funera maerent.
+  - Danai (GRAI): — funera sua maerent
 - [6] 838 laetitia exultat, Danai sua funera maerent.
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 
 ## Book 18
 
@@ -5570,14 +6852,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Caeterum et hic diverse ab Homero narrat auctor. Nam secundum eum Menelaus et Meriones corpus Patrocli retulerunt in castra, Antilochus tantum nuntium de morte ejus pertulit ad Achillem.
 - [3] 840 Nestorides in castra ferunt miserabile corpus.
 - [4] 840 Nestorides in castra ferunt miserabile corpus.
+  - Nestorides (ANTILOCHUS): Nestorides Patrocli corpus in castra refert
 - [6] 840 Nestorides in castra ferunt miserabile corpus.
+  - Nestorides (Nestorides): Nestorides 840: Antilochus
+  - corpus (Patroclus): miserabile corpus 840
 
 841 Tunc ut Pelidae aures diuerberat horror,
 - [2] 845 XVIII. Tunc ut Pelidae rumor deverberataures,
   - **(cont.)** … Barthius, Advers. p. 2752, diverberare aures rumorem pro idiotismo Nostri habet. Sed tamen alii similibus utuntur verbis. Apud Plaut. Amphitr. I, 1, 177: « vox aures verberat »; et Lucan. VII, 25, « tuba verberat aures ». — In fragmento Petronii, quod retulimus t. II, hujus op. p. 128: « subitis rumoribus oppida pulsat ». Ed. — Id. Satyr. cap. 68: « nullus sonus unquam acidior percussit aures meas ».
 - [3] 841 Hic Pelidae aures ut dirus uerberat horror,
 - [4] 841 Hic ut Pelidae devenerat horror ad aures
+  - Pelidae (ACHILLES): — ad aures devenerat horror (Patrocli caedes)
 - [6] 841 tunc † ut Pelidis aures diverberat horror;
+  - Pelidis (Pelides): -dae 841
 
 842 palluit infelix iuuenis, calor ossa reliquit;
 - [2] 846 Palluit infelix juvenis, caior ossa reliquit;
@@ -5591,13 +6878,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] [843] [Membra simul lacrimans materno nectit amictu
 - [4] 843 below Membra simul lacrimans materno nectit amictu
 - [6] 843 membra simul lacrimans materno † nectit amictu,
+  - membra (Patroclus): membra 843
+  - materno (Thetis): materno . . . amictu 843
 
 844 deflens Aeacides tristi de caede sodalis;
 - [2] 848 Deflens Aeacides tristi de caede sodatis,
   - … Nescio, an prorsus adsentiendum sit Barthio l. c. qui deflere de caede pro idiotismo auctoris, et pro insolente adeo phrasi habet. Deflere eo sensu accipiendum, ut sit abunde flere, flendoque adimplere dolorem, quemadmodum declamare, defatigare, detonare et similia dicuntur; de caede autem ponitur pro ob vel propter caedem. …
 - [3] 844 Deflens Aeacides tristi de caede sodalis.]
 - [4] 844 below Deflens Aeacides tristi de caede sodalis.
+  - Aeacides (ACHILLES): — [Patrocli caedem luget]
 - [6] [844] [deflens Aeacides tristi de caede sodalis]
+  - Aeacides (Aeacides (Achilles)): ferus -es 74. [844]
+  - sodalis (Patroclus): [sodalis 844]
 
 845 unguibus ora secat comptosque in puluere crines
 - [2] 849 Unguibns ora seeat, comptos in pulvere crines
@@ -5620,6 +6912,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 847 Et super extincti prostratus membra sodalis
 - [4] 847 Et super exstincti prostratus membra sodalis
 - [6] 847 et super extincti prostratus membra sodalis
+  - sodalis (Patroclus): extincti . . . sodalis 847
 
 848 crudeles fundit questus atque oscula figit.
 - [2] 852 Crudeles fundit questus, atque oscula figit.
@@ -5644,13 +6937,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 850 'Non inpune mei laetabere caede sodalis,
 - [4] 850 « Non impune mei laetabere caede sodalis,
 - [6] 850 'non impune mei laetabere caede sodalis,
+  - sodalis (Patroclus): mei sodalis 850
 
 851 Hector" - ait - "magnoque meo, uiolente, dolori
 - [2] 856 Hector , ait, magnasque meo, violente, dolori
   - … Caeterum Barthius, Adv. p. 2753, putat auctorem violentum convicii et criminis loco voluisse accipi, eoque videri eo saeculo scripsisse, quo talia secius atque par erat usurpari consueverunt. Ego vero frustra hic quaeri convicium et crimen existimo; sed tamquam violentus increpatur, qui audax et temerarius est, et viribus suis male utitur. Certe non aliter Ovidius, quem et hic sequutus scriptor videtur, Met. IX, 121: « Quo te fiducia, clamat, Vana pedum, violente, rapit ». — Nec aliter de ipso Marte Tibullus, IV, 2, 3: « at tu, violente, caveto Ne tibi miranti turpiter arma cadant ». Et Ovidius, in Ibin, v. 20: « At tibi, calcasti qui me, violente, jacentem ». Ed.
 - [3] 851 Hector' ait, 'magnoque meo, uiolente, dolori
 - [4] 851 Hector, » ait « magnasque meo, violente, dolori
+  - Hector (HECTOR): vocativ. violente (Achilles de caede Patrocli)
 - [6] 851 Hector' ait, 'magnoque meo, violente, dolori
+  - Hector (Hector): voc.: -or . . . violente 851
 
 852 persolues poenas atque istis uictor in armis,
 - [2] 857 Persolves poenas, atque istis victor in armis,
@@ -5676,25 +6972,32 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 860 Fortiaque arma Thetin supplex rogat : illa relictis
 - [3] 855 Fortiaque arma Thetin supplex rogat: illa relictis
 - [4] 855 Fortiaque arma Thetin supplex rogat : illa relictis
+  - Thetin (THETIS): Thetin fortia arma Achilles rogat
 - [6] 855 fortiaque arma Thetin supplex rogat: illa relictis
+  - Thetin (Thetis): Thetin 855
 
 856 fluctibus auxilium Vulcani protinus orat.
 - [2] 861 Fluctibus, auxiiiuin Vulcani protinus orat,
 - [3] 856 Fluctibus auxilium Uulcani protinus orat.
 - [4] 856 Fluctibus auxilium Vulcani protinus orat.
+  - Vulcani (VULCANUS): Vulcani auxilium Thetis orat
 - [6] 856 fluctibus auxilium Vulcani protinus orat.
+  - Vulcani (Vulcanus): Vulcani 856
 
 857 Excitat Aetnaeos calidis fornacibus ignes
 - [2] 862 Excitat Aetnaeos calidis fornacibus ignes
   - Aetnaeos ignes hic nominat Homerista Virgilium imitans, Aen. VIII, v. 419 seqq. non Homerum, qui Aetnam flagrantem et Vulcani in ea officinam ignorat. Sic apud Reposianum de Concub. Martis et Veneris, v. 163, Vulcanus, ut vincula illigandis adulteris fabricet, « Antra furens Aetnaea petit ».
 - [3] 857 Excitat Aetnaeos calidis fornacibus ignes
 - [4] 857 Excitat Aetnaeos calidis fornacibus ignes
+  - Aetnaeos (AETNAEUS): Aetnaeos ignes
 - [6] 857 excitat Aetnaeos calidis fornacibus ignes
+  - Aetnaeos (Aetnaeus): Aetnaeos . . . ignes Volcani 857
 
 858 Mulciber et ualidis fuluum domat ictibus aurum.
 - [2] 863 Mulciber, et validis fulvum domat ignibus aurum.
 - [3] 858 Mulciber et ualidis fuluum domat ictibus aurum.
 - [4] 858 Mulciber et validis fulvum domat ictibus aurum.
+  - Mulciber (VULCANUS): Mulciber Aetnaeos ignes excitat
 - [6] 858 Mulciber et validis fulvum domat ictibus aurum.
 
 859 Mox effecta refert diuinis artibus arma.
@@ -5702,14 +7005,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 859 Mox effecta refert diuinis artibus arma;
 - [4] 859 Mox effecta refert divinis artibus arma
 - [6] 859 mox effecta refert divinis artibus arma,
+  - artibus (Vulcanus): divinis artibus 859
 
 860 Euolat inde Thetis; quae postquam magnus Achilles
 - [2] 865 Et donat Thetidi : quae postquam magnus Achilles
   - … Evolat ad Thetidem, quod minime aptum est Vulcano, qui claudus describitur ab Homero. — Et propterea tardipes Deus vocatur a Catullo, Carm. 31. Ed. …
 - [3] 860 Euolat inde Thetis. quae postquam magnus Achilles
 - [4] 860 Et donat Thetidi. Quae postquam magnus Achilles
+  - Achilles (ACHILLES): — magnus Vulcania arma induit
+  - Thetidi (THETIS): Thetidi Vulcanus arma donat
 - [6] 860 evolat et Thetis. . . . . . . . . . . . .
 - [6] 860 . . . . . . . quae postquam magnus Achilles
+  - Achilles (Achilles): magnus -es 860. 995
+  - Thetis (Thetis): Thetis 83. 860
 
 861 induit, in clipeum uultus conuertit atroces.
 - [2] 866 Induit, in clypeum vultus convertit atroces.
@@ -5722,13 +7030,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Illic Ignipotens, i. e. Vulcanus. Vid. quae diximus ad vers. 105. … Videtur respicere Ovid. Metam. XIII, 110: « Nec clypeus vasti caelatus imagine mundi ». …
 - [3] 862 Illic Ignipotens mundi caelauerat arcem
 - [4] 862 Illic Ignipotens mundi caelaverat arcem
+  - Ignipotens (VULCANUS): Ignipotens in clipeo mundum caelaverat
 - [6] 862 illic Ignipotens mundi caelaverat arcem
+  - Ignipotens (Ignipotens): Ignipotens 862
 
 863 sideraque et liquidis redimitas undique nymphis
 - [2] 868 Sideraque, et [liquidas redimitas undique Nymphas.
 - [3] 863 Sideraque et liquido redimitum lumine Olympum,
 - [4] 863 below Sideraque et liquidas redimitas undique Nymphas
 - [6] 863 sideraque et liquidis redimitas undique nymphas
+  - nymphas (nympha): nymphas 863(?)
 
 864 Oceani terras et cinctum Nerea circum
 - [2] 870 Oceanum ] terras , et euntem Nerea circum ,
@@ -5736,7 +7047,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** forte substitui ductum vel fusum. Ovid. Met. I, 12: « Et circumfuso pendebat in aere tellus ». — Videtur subinde cingere usurpari a poetis pro circumducere, circum adponere vel adjungere. Sic Silius, VIII, 617: « Non totidem Ilva viros, sed lectos cingere ferrum »; quamquam ibi legere malunt gignere ferrum, vel stringere. Sed plane ut Noster τὸ cingere usurpavisse videtur Mela, lib. III, cap. 1: « Restat ille circuitus, quem, ut initio diximus, cingit Oceanus », id est, circumducit. …
 - [3] 864 Omnes et terras et cinctum Nerea circum;
 - [4] 864 below Oceanum terris et cinctum Nerea circum.
+  - Nerea (NEREUS): [Nerea in clipeo Achillis Vulcanius fecerat]
+  - Oceanum (OCEANUS): [—]
 - [6] 864 Oceanum terris et cinctum Nerea circum
+  - Nerea (Nereus): Nerea 864
+  - Oceanum (Oceanus): Oceanum(?) 864
 
 865 astrorumque uices dimensaque tempora noctis,
 - [2] 871 Annorumque vices, dimensaque tempora noclis,
@@ -5750,7 +7065,13 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 872 Quattuor et mundi partes, quanturo Arctos ab Austro,
 - [3] 866 Quattuor et mundi partes, quantum Arctus ab Austro
 - [4] 866 Quattuor et mundi partes, quantum Arctus ab Austro
+  - Arctus (ARCTUS)
+  - Austro (AUSTER): ab Austro Arctus distat
 - [6] 866 quattuor et mundi partes, quantum Arctos ab Austro
+  - Arctos (Arctos): Arctos 866: caeli regio
+  - Austro (Auster): quantum Arctos ab Austro . . . distaret 866
+  - occasus (occasus): occasus regio: 866
+  - ortu (ortus): ortus regio: 866
 
 867 et quantum occasus roseo distaret ab ortu,
 - [2] 873 Et quantum Occasus roseo distaret ab Ortu:
@@ -5763,7 +7084,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Nam poetae Luciferum et Hesperum nominibus quidem distinguunt, sed unam stellam agnoscunt. — Vid. quae ad Eleg. in obit. Maec. in Excursu diximus, vs. 129-132, huj. op. t. II, p. 232 et sqq. Ed. — Clare hoc indicat Seneca in Hippol. 750: « Qualis est primas referens tenebras Nuntius noctis, modo lotus undis Hesperus, pulsis iterum tenebris Lucifer idem ». Quod eumdem esse significant, propterea eum desultorio vel mutato equo uti dicunt, quando alius procedit. Diserte Statius, Theb. VI, 237: « Roscida jam novies caelo dimiserat astra Lucifer, et totidem Lunae praevenerat ignes Mutato nocturnus equo; nec conscia fallit Sidera, et alterno deprenditur unus in ortu ». Quoniam igitur mutatis equis discernuntur Lucifer et Hesperus, hinc Noster utrumque suis equis exoriri dicit, quamvis alii, et in his Lips. et G. 2 aquis scribant, idque praeferre velit cl. Anton. de Rooy, p. 99. Caeterum observavi in Lucilii Aetna legi versus, ad quos adludere hic Noster videatur. Nam ille v. 168: « Hinc furtim Borea atque Noto, nunc unus uterque »; et v. 239, « Lucifer unde micet, quave Hesperus, unde Bootes ». Alium similem Lucilii ad versum sequentem adducimus. Facile possis inde argumentum ducere lecti ab auctore nostro Lucilii.
 - [3] 868 Lucifer unde suis, unde Hesperus unus uterque
 - [4] 868 Lucifer unde suis, unde Hesperus unus uterque
+  - Hesperus (HESPERUS): exoritur
+  - Lucifer (LUCIFER)
 - [6] 868 Lucifer unde suis, unde Hesperus unus uterque
+  - Hesperus (Hesperus): Lucifer . . . Hesperus, unus uterque 868
+  - Lucifer (Lucifer): Lucifer 868
 
 869 exoreretur equis, et quantum in orbe mearet
 - [2] 875 Exoreretur equis ; quantus Sol orbe mearet ,
@@ -5783,33 +7108,47 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 870 Luna caua et nitida lustraret lampade caelum;
 - [4] 870 Luna cava et nitida lustraret lampade caelum;
 - [6] 870 Luna cava et nitida lustraret lampade caelum;
+  - Luna (Luna): Luna cava 870
 
 871 addideratque fretis sua numina: Nerea magnum
 - [2] 877 Addideratque freto sua numina, Nerea magnum,
 - [3] 871 Addideratque fretis sua numina, Nerea magnum
 - [4] 871 Addideratque fretis sua numina, Nerea magnum
+  - Nerea (NEREUS): — in eodem, magnum
 - [6] 871 addideratque fretis sua numina: Nerea magnum
+  - Nerea (Nereus): -a magnum 871
 
 872 Oceanumque senem nec eundem Protea semper,
 - [2] 878 Oceanumque senem , nec eumdem Protea semper,
 - [3] 872 Oceanumque senem nec eundem Protea semper,
 - [4] 872 Oceanumque senem nec eundem Protea semper,
+  - Oceanum (OCEANUS): Oceanum senem fecerat Vulcanius in Achillis clipeo
+  - Protea (PROTEUS): Protea non eundem semper (fecerat Vulcanius in clipeo Achillis)
 - [6] 872 Oceanumque senem nec eundem Protea semper,
+  - Oceanum (Oceanus): -um . . . senem 872
+  - Protea (Proteus): nec eundem Protea semper 872
 
 873 Tritonasque feros et amantem Dorida fluctus;
 - [2] 879 Tritonesque feros, et amantem Dorida fluctus.
   - Tritonesque feros. Feri nominantur, quia ex parte belluam referunt, et pisces pro pedibus habent. Sic ferum et semiferum Tritona appellat Claud. de Nupt. Hon. 138 et 145. …
 - [3] 874 Tritonesque feros et amantem Dorida fluctus;
 - [4] 873 Tritonesque feros et amantem Dorida fluctus;
+  - Dorida (DORIS): Dorida fluctus amantem
+  - Tritones (TRITONES): Tritones feros fecerat Vulcanius in clipeo
 - [6] 873 Tritonasque feros et amantem Dorida fluctus;
+  - Dorida (Doris): amantem Dorida fluctus 873
+  - Tritonas (Triton): Tritonas (-es trad.) . . . feros 873
 
 874 fecerat et liquidas mira Nereidas arte.
 - [2] 869 Fecerat et mira liquidas Nereidas arte,
 - [3] 873 Fecerat et liquidas mira Nereidas arte
 - [4] 863 bis below Fecerat et mira liquidas Nereidas arte
 - [4] 874 Fecerat et liquidas mira Nereidas arte
+  - Nereidas (NEREIDES): Nereidas in clipeo Achillis Vulcanius fecerat
+  - Nereidas (NEREIDES): [et]
 - [6] [874] [fecerat et mire liquidas Nereidos arces]
 - [6] 874 fecerat et liquidas mira Nereidas arte.
+  - Nereidas (Nereis): liquidas . . . Nereidas 874
 
 875 Terra gerit siluas horrendaque monstra ferarum
 - [2] 880 Terra gerit sihras, horrendaque monstra ferarum,
@@ -5851,6 +7190,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 880 Parte alia resonant castae paeana puellae
 - [6] 880 parte alia castae resonant Paeana puellae
   - (testimonia) puellae — 883 recepta in Gesta Berengarii 1, 64—67
+  - puellae (Musa): castae . . . puellae 880
+  - Paeana (Paean): resonant Paeana puellae 880
 
 881 dantque choros molles et tympana dextera pulsat;
 - [2] 886 Dantque choros molles: haec dextra tympana pulsat,
@@ -5908,8 +7249,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … De ipsa imagine his versibus exposita vid. Excursus tertius ad hujus carminis calcem.
 - [3] 889 Haec inter mediis stabat Mars aureus armis,
 - [4] 889 Haec inter nitidis stabat Mars aureus armis,
+  - Mars (MARS): — aureus in clipeo Achillis stabat
 - [6] 889 haec inter mediis stabat Mars aureus armis,
   - … armis Ω i. in clipeo
+  - Mars (Mars): Mars aureus in medio Achillis clipeo 889
 
 890 quem diua poesis reliquae* circaque sedebant
 - [2] 895 Diva potens Atropos circa, reliquaeque sedebant
@@ -5923,7 +7266,11 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** videtur hemistichium Virgilii, Aen. III, 64: « Caeruleis maestae vittis ». — Et de Parcis Catullus, in Epithal. Pel. p. 186 Voss. « At roseae niveo residebant vertice vittae ». Ed.
 - [3] 891 Sanguineis maestae Clotho Lachesisque quasillis.
 - [4] 891 Sanguineis maestae Clotho Lachesisque quasillis.
+  - Clotho (CLOTHO): (in clipeo Achillis)
+  - Lachesis (LACHESIS): (in clipeo Achillis)
 - [6] 891 anguineis maestae Clotho Lachesisque capillis.
+  - Clotho (Clotho): Clotho 891
+  - Lachesis (Lachesis): Lachesis 891
 
 ## Book 19
 
@@ -5931,7 +7278,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 897 XIX et XX. Talibus ornatus donis Thetideius heros
 - [3] 892 Talibus ornatus donis Thetideius heros
 - [4] 892 Talibus ornatus donis Thetideius heros
+  - Thetideius (ACHILLES): — Vulcaniis armis ornatus
 - [6] 892 talibus ornatus donis Thetideius heros
+  - Thetideius (Thetideius): Thetideius heros 690. 892: Achilles
 
 893 in medias acies immani turbine fertur,
 - [2] 898 In medias acies iminani turbine fertur.
@@ -5943,13 +7292,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 899 Cui vires praebet casta cum Pallade Juno,
 - [3] 894 Cui uires praebet cum casta Pallade Iuno
 - [4] 894 Cui vires praebet casta cum Pallade Juno
+  - Juno (JUNO): — cum Minerva vires Achilli praebet
+  - Pallade (MINERVA): cum casta — Juno vires Achilli praebet
 - [6] 894 cui vires praebet casta cum Pallade Iuno
+  - Iuno (Iuno): Iuno 98. 894
+  - Pallade (Pallas): casta cum -de 532. 894
 
 895 dantque animos iuueni. Vidit Cythereius heros
 - [2] 900 Dantque animos juveni : videt hunc Cytbereiusherosgoo
 - [3] 895 Dantque animos iuueni; contra Cythereius heros
 - [4] 895 Dantque animos juveni ; contra Cythereius heros
+  - Cythereius (AENEAS): Cythereius heros contra Achillem concurrit; a Neptuno servatur
 - [6] 895 dantque animos iuveni: vidit Cythereius heros
+  - Cythereius (Cythereius): Cythereius heros 895: Aeneas
 
 896 occurritque uiro, sed non cum uiribus aequis
 - [2] 901 Occurritque viro, sed non cum viribus aequis,
@@ -5963,7 +7318,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Sed observat ad hunc locum Barthius, Adv. p. 2809, auctorem corripuisse syllabam in compar, pro more sequioris latinitatis, quomodo Prudentius in Romano, « Meatus unus impar ad laudes Dei ». Et Avianus duobus locis similiter hanc corripuit, fab. XI, 5, « Dispar erat fragili et solidae concordia motus »; et fab. XVIII, 10: « Tantorum solus viribus impar erat ».
 - [3] 897 Aeacidae nec erat conpar; tamen ira coegit
 - [4] 897 Aeacidae nec erat compar; tamen ira coegit
+  - Aeacidae (ACHILLES): Aeacidae non erat compar Aeneas
 - [6] 897 Aeacidae nec † corpus erat, tamen ira coegit
+  - Aeacidae (Aeacides (Achilles)): -dae 897
 
 898 conferre inuictis iuuenem cum uiribus arma.
 - [2] 903 Conferre invictis juvenem cum viribus arma.
@@ -5977,20 +7334,28 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 899 Quem nisi seruasset magnarum rector aquarum,
 - [4] 899 Quem nisi servasset magnarum rector aquarum,
 - [6] 899 quem nisi servasset magnarum rector aquarum,
+  - rector (Neptunus): v. magnarum rector aquarum 899
 
 900 ut profugus laetis Troiam repararet in aruis
 - [2] 905 Ut profugus Latiis Trojam repararet in arvis,
   - … Sic et saepius loquitur Virgilius, quando Trojam illatam Latio dicit Aeneid. I, 6. Trojam in Italia restituendam Aen. III, 504, Ilium in Italiam portari Aen. I, 68. Et Ovidius, plane ut Noster, Fast. IV, 251: « Quum Trojam Aeneas Italos portaret in agros ». — Vide editionem nostram Ovidii, vol. VI, p. 251. Ed.
 - [3] 900 Ut profugus laetis Troiam repararet in aruis
 - [4] 900 Ut profugus Latiis Trojam repararet in arvis
+  - Latiis (LATIUS): Latiis in arvis
+  - Trojam (TROJA): — Latiis in arvis reparatam
 - [6] 900 ut profugus Latiis Troiam repararet in arvis
+  - profugus (Aeneas): profugus 900
+  - Latiis (Latius): *Latiis (laetis trad.) . . . in arvis 900
+  - Troiam (Troia): Latiis -iam repararet in arvis 900
 
 901 Augustumque genus claris submitteret astris,
 - [2] 906 Augustumque genus cseli submitteret astris , '
   - … Submitteret astris explicari potest hinc mitteret in astra, vel inferret astris fama et gloria; sed tamen malim sic interpretari, ut significet, genus Augustum faceret venire in vitam et sub caelum, quemadmodum Virgilius de genere Augusto loquitur Aeneid. VI, 790: « Hic Caesar et omnis Iuli Progenies, magnum caeli ventura sub axem ». … Caeterum Barthius l. c. ex hoc versu non temere colligit, poema istud ab Romano homine, et Roma adhuc sub Augustis imperantibus florente, scriptum esse. — Hanc opinionem Barthii in prooemio de Epitome Iliados, init. Wernsd. retulit. Ed.
 - [3] 901 Augustumque genus claris submitteret astris,
 - [4] 901 Augustumque genus claris submitteret astris,
+  - Augustum (AUGUSTUM): genus
 - [6] 901 Augustumque genus claris submitteret astris,
+  - Augustum (Augustus): Augustum . . . genus 901: Iulios
 
 902 non clarae gentis nobis mansisset origo.
 - [2] 907 Non clarae gentis nobis mansisset origo.
@@ -5998,12 +7363,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 902 Non carae gentis nobis mansisset origo.
 - [4] 902 Non pulcrae gentis nobis mansisset origo.
 - [6] 902 non clarae gentis nobis mansisset origo.
+  - gentis (Augustus): v. clarae gentis 902
 
 903 Inde agit Aeacides infesta cuspide Teucros
 - [2] 908 Inde agit Aeacides infesta cuspide Teucros,
 - [3] 903 Inde agit Aeacides infesta cuspide Teucros
 - [4] 903 Inde agit Aeacides infesta cuspide Teucros
+  - Aeacides (ACHILLES): — Trojanos agit cuspide
+  - Teucros (TROJANI): Teucros cuspide Achilles agit
 - [6] 903 inde agit Aeacides infesta cuspide Teucros
+  - Aeacides (Aeacides (Achilles)): -ēs 903
+  - Teucros (Teucri): -os 424. 903
 
 904 ingentemque modum prosternit caede uirorum,
 - [2] 909 Ingentemque manum prosternit caede virorum,
@@ -6016,19 +7386,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 910 Sanguinis Hectorei sitiens : at Dardana pubes
 - [3] 905 Sanguinis Hectorei sitiens; at Dardana pubes
 - [4] 905 Sanguinis Hectorei sitiens; at Dardana pubes
+  - Hectorei (HECTOREUS): Hectorei sanguinis
+  - Dardana (TROJANI): Dardana pubes ad Xanthum confugit
 - [6] 905 sanguinis Hectorei sitiens; at Dardana pubes
+  - Dardana (Dardanus): Dardana pubes 905
+  - Hectorei (Hectoreus): sanguinis Hectorei 905
 
 906 confugit ad Xanthi rapidos perterrita fluctus
 - [2] 911 XXI. Confugit ad Xanthi rapidos perterrita fluctus ,
 - [3] 906 Confugit ad Xanthi rapidos perterrita fluctus
 - [4] 906 Confugit ad Xanthi rapidos perterrita fluctus
+  - Xanthi (XANTHUS fluvius): ad — fluctus fugiunt Trojani
 - [6] 906 confugit ad Xanthi rapidos perterrita fluctus
+  - Xanthi (Xanthus (fluvius)): ad -i fluctus 906
 
 907 auxiliumque petit diuini fluminis; ille
 - [2] 912 Auxiliumque petit divini fluminis : ille
 - [3] 907 Auxiliumque petit diuini fluminis; ille
 - [4] 907 Auxiliumque petit divini fluminis; ille
 - [6] 907 auxiliumque petit divini fluminis; ille
+  - fluminis (Xanthus (fluvius)): v. divini fluminis 907
 
 908 instat et in mediis pugnatur gurgitis undis.
 - [2] 913 Instat, et in mediis pugnatur gurgitis undis;
@@ -6055,13 +7432,23 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 916 At Venus et Phrygiae gentis tutator Apollo
 - [3] 911 At Uenus et Phrygiae gentis tutator Apollo
 - [4] 911 At Venus et Phrygiae gentis tutator Apollo
+  - Apollo (APOLLO): — Phrygiae gentis tutator, simul cum Venere, Xanthi fluctus in Graecos attollit
+  - Phrygiae (TROJANI): — tutator Apollo
+  - Venus (VENUS): — et Apollo Xanthi fluctus in Graecos attollunt
 - [6] 911 at Venus et Phrygiae gentis tutator Apollo
+  - Apollo (Apollo): Phrygiae gentis tutator -o 911
+  - Phrygiae (Phrygius): -iae gentis 911
+  - Venus (Venus): Venus 315. 464. 911
 
 912 cogunt in Danaos Xanthi consurgere fluctus,
 - [2] 917 Cogunt in Danaos Xanthi consurgere fluctus ,
 - [3] 912 Cogunt in Danaos Xanthi consurgere fluctus,
 - [4] 912 Cogunt in Danaos Xanthi consurgere fluctus,
+  - Danaos (GRAI): in — Xanthi fluctus Venus Apolloque attollunt
+  - Xanthi (XANTHUS fluvius): — fluctus in Graecos Apollo et Venus attollunt
 - [6] 912 cogunt in Danaos Xanthi consurgere fluctus,
+  - Danaos (Danai): -os 45. 492. 659. 808. 912. 950. 1001
+  - Xanthi (Xanthus (fluvius)): -i . . . fluctus 912
 
 913 ut fera terribili miscentem proelia dextra
 - [2] 918 Ut fera terribili miscentem praelia dextra
@@ -6073,7 +7460,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 919 Obruat ,acidem, qui protinus undique totis
 - [3] 914 Obruat Aeaciden: qui protinus undique totis
 - [4] 914 Obruat Aeaciden : qui protinus undique totis
+  - Aeaciden (ACHILLES): Aeaciden ut Xanthus obruat
 - [6] 914 obruat Aeaciden: qui protinus undique totis
+  - Aeaciden (Aeacides (Achilles)): -den 914
 
 915 exspatiatur aquis et uasto gurgite praeceps
 - [2] 920 Impediatur aquis : sed vasto gurgite praaceps
@@ -6111,7 +7500,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 925 Propellit fluctus, quem longe provida Juno
 - [3] 920 Propellit fluctus. quem longe prouida Iuno
 - [4] 920 Propellit fluctus. Quem longe provida Juno
+  - Juno (JUNO): — longe provida Achillem, contra Xanthi fluctus pugnantem, tuetur
 - [6] 920 propellit fluctus. quem longe provida Iuno
+  - Iuno (Iuno): longe provida -o 920
 
 921 asseruit, rapidae quia cederet, ignibus, undae,
 - [2] 926 Adseruit, rapidae ne cederet ictibus undae:
@@ -6133,13 +7524,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 928 Rursus agit Phrygias ingenti caede catervas
 - [3] 923 Rursus agit Phrygias ingenti caede cateruas
 - [4] 923 Rursus agit Phrygias ingenti caede catervas
+  - Phrygias (TROJANI): Phrygiae catervae Phrygias catervas Achilles ingenti caede agit
 - [6] 923 rursus agit Phrygias ingenti caede catervas
+  - Phrygias (Phrygius): -ias . . . catervas 923
 
 924 horridus Aeacides bellique ardore resumpto
 - [2] 929 Horridus Aeacides, bellique ardore resumpto
 - [3] 924 Horridus Aeacides bellique ardore resumpto
 - [4] 924 Horridus Aeacides bellique ardore resumpto
+  - Aeacides (ACHILLES): — horridus Trojanos rursus agit
 - [6] 924 horridus Aeacides bellique ardore resumpto
+  - Aeacides (Aeacides (Achilles)): horridus -es 924
 
 925 funereas acies horrendaque proelia miscet.
 - [2] 930 Funereas acies borrendaque praelia miscet.
@@ -6164,7 +7559,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 933 Perculsi dubitant trepida. formidine Troes,
 - [3] 928 Percussi dubitant trepida formidine Troes
 - [4] 928 Percussi dubitant trepida formidine Troes
+  - Troes (TROJANI): — dubitant formidine
 - [6] 928 percussi dubitant trepida formidine Troes
+  - Troes (Tros): Troes 758. 767. 928. 978. 1002 ubique ante consonam vel ultima ancipiti
 
 929 atque intra muros exhausta paene salute
 - [2] 934 Atque intra muros exhausta paene salute
@@ -6186,13 +7583,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 936 XXII. Unus, tota salus in quo Trojana manebat,
 - [3] 931 Unus tota salus in quo Troiana manebat
 - [4] 931 Unus tota salus in quo Trojana manebat
+  - Trojana (TROJANUS): salus Trojana
 - [6] 931 unus tota salus in quo Troiana manebat
+  - Troiana (Troianus): salus -na 931
 
 932 Hector adest, quem non durae timor undique mortis,
 - [2] 937 Hector adest, quem non durae timor undique mortis»,
 - [3] 932 Hector adest, quem non durae timor undique mortis
 - [4] 932 Hector adest, quem non durae timor undique mortis
+  - Hector (HECTOR): — adest, unus in quo Trojana salus manebat
 - [6] 932 Hector adest, quem non durae timor undique mortis,
+  - Hector (Hector): unus tota salus in quo Troiana manebat -or 932
 
 933 non patriae tenuere preces, quin obuius iret
 - [2] 938 Nec patriae tenuere preces, c[uin obvius iret,
@@ -6204,7 +7605,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 939 Et contra magnum contendere vellet Achillem.
 - [3] 934 Et contra magnum contendere uellet Achillem.
 - [4] 934 Et contra magnum vellet contendere Achillem.
+  - Achillem (ACHILLES): contra magnum — Hector vult contendere
 - [6] 934 et contra magnum contendere vellet Achillem.
+  - Achillem (Achilles): magnum . . . -em 60. 72. 934
 
 935 Quem procul ut uidit tectum caelestibus armis,
 - [2] 941 Quem procul ut vidit tectum caelestibus armis,
@@ -6219,7 +7622,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Et verum esse, quod adfirmat ille, facile Homero inspecto intelligitur, qui non aliam Palladis apparitionem tradit, quam quae ab auctore versu 952 relata est. …
 - [3] [936] [Ante oculos subito uisa est Tritonia Pallas]
 - [4] 936 below Ante oculos subito visa est Tritonia Pallas
+  - Pallas (MINERVA): [— Tritonia ante oculos Hectoris subito videtur]
 - [6] [936] [ante oculos subito visa est Tritonia Pallas]
+  - Pallas (Pallas): [Tritonia -as 936]
+  - Tritonia (Tritonia): [-ia Pallas 936]
 
 937 pertimuit clausisque fugit sua moenia circum
 - [2] 942 Pertimuit, clausisque fugit sua moenia circum
@@ -6232,7 +7638,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Infra, v. 980, idem Nereius dicitur: et Saleius, Carm. in Pis. v. 164, eo nomine utitur. …
 - [3] 938 Infelix portis; sequitur Nereius heros.
 - [4] 938 Infelix portis; sequitur Nereius heros.
+  - Nereius (ACHILLES): Nereius heros Hectorem metuentem persequitur
 - [6] 938 infelix portis; sequitur Nereius heros.
+  - Nereius (Nereius): Nereius heros 938. 975: Achilles
 
 939 in somnis ueluti, cum pectora terruit ira,
 - [2] 944 In somnis veluti , quum pectora terruit ira ,
@@ -6277,12 +7685,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 944 Spectant de muris miseri sua fata parentes
 - [4] 944 Spectant de muris miseri sua fata parentes
 - [6] 944 spectant de muris miseri sua fata parentes
+  - parentes (Hecabe): v. parentes 944
+  - parentes (Priamus): parentes 944
 
 945 pallentemque uident supremo tempore natum
 - [2] 950 Pallentemque vident supremo tempore natum,
 - [3] 945 Pallentesque uident tum primum cedere natum,
 - [4] 945 Pallentemque vident extremo tempore natum,
 - [6] 945 pallentemque vident supremo tempore natum
+  - natum (Hector): natum 945. 1033. 1036
 
 946 quem iam summa dies suprema luce premebat.
 - [2] 951 Quem jam summa dies extrema luce premebat.
@@ -6295,7 +7706,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 952 Hinc subito ante oculos similis Tritouia fratri
 - [3] 947 Huic subito ante oculos similis Tritonia fratri
 - [4] 947 Huic subito ante oculos similis Tritonia fratri
+  - Tritonia (MINERVA): Tritonia Deiphobi vultu et armis indutis Hectorem decipit
 - [6] 947 huic subito ante oculos similis Tritonia fratri
+  - fratri (Deiphobus): v. fratri 947
+  - Tritonia (Tritonia): Tritonia 947
 
 948 occurrens iuuenem simulato decipit ore;
 - [2] 953 Occurrens juvenem simulato decipit ore.
@@ -6307,13 +7721,19 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 954 'Ham dum Deiphobi tutum se credidit armis,
 - [3] 949 Nam dum Deiphobi tutum se credidit armis,
 - [4] 949 Nam dum Deiphobi tutum se credidit armis,
+  - Deiphobi (DEIPHOBUS): Deiphobi formam assumit Minerva
 - [6] 949 nam cum Deiphobi tutum se credidit armis,
+  - Deiphobi (Deiphobus): -bi 949: Priami f.
 
 950 transtulit ad Danaos iterum sua numina Pallas.
 - [2] 955 Transtulit ad Danaos iterum sua numina Pallas.
 - [3] 950 Transtulit ad Danaos iterum sua numina Pallas.
 - [4] 950 Transtulit ad Danaos iterum sua numina Pallas.
+  - Danaos (GRAI): ad — numina sua transfert Minerva
+  - Pallas (MINERVA): — ad Graecos numina sua transfert
 - [6] 950 transtulit ad Danaos iterum sua numina Pallas.
+  - Danaos (Danai): -os 45. 492. 659. 808. 912. 950. 1001
+  - Pallas (Pallas): Pallas 950
 
 951 Concurrunt iactis inter se comminus hastis
 - [2] 956 Concurrunt jactis inter se cominus hastis
@@ -6366,7 +7786,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] —
 - [3] 957 Hastam iam manibus saeuus librabat Achilles
 - [4] 957 Hastam jam manibus saevus librabat Achilles
+  - Achilles (ACHILLES): — saevus hastam in Hectorem librat
 - [6] 958 hastam iam manibus saevus librabat Achilles
+  - Achilles (Achilles): saevus . . . -es 958
 
 958 inque uirum magnis emissam uiribus egit,
 - [2] 963 Inque virum magnis emissam viribus egit;
@@ -6378,19 +7800,27 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 964 Quam praeterlapsam vitavit callidus Hector :
 - [3] 959 Quam praeterlapsam uitauit callidus Hector.
 - [4] 959 Quam praeterlapsam vitavit callidus Hector.
+  - Hector (HECTOR): — callidus Achillis hastam vitat
 - [6] 959 quam praeterlapsam vitavit callidus Hector.
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 960 Exclamant Danai. Contra Priameius heros
 - [2] 965 Exclamant Danai. Contra Priameius heros
 - [3] 960 Exclamant Danai. contra Priameius heros
 - [4] 960 Exclamant Danai. Contra Priameius heros
+  - Danai (GRAI): — exclamant, hasta Achillis ab Hectore vitata
+  - Priameius (HECTOR): Priameius heros jaculum in Achillem torquet
 - [6] 960 exclamant Danai. contra Priameius heros
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
+  - Priameius (Priameius): Priameius heros Paris 271, Hector 960
 
 961 uibratum iaculum Vulcania torquet in arma.
 - [2] 966 Vibratum jaculum Vulcania torquet in arma ,
 - [3] 961 Libratum iaculum Uulcania torquet in arma.
 - [4] 961 Libratum jaculum Vulcania torquet in arma.
+  - Vulcania (VULCANIUS): Vulcania arma
 - [6] 961 vibratum iaculum Vulcania torquet in arma.
+  - Vulcania (Vulcanius): Vulcania . . . arma Achillis 835. 961
 
 962 Nec successus adest: nam duro inflectitur auro
 - [2] 967 Nec successus adest, nam duro inflectitur auro :
@@ -6404,7 +7834,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Paullo abruptum hoc videtur, ut fere suspicer, versum aliquem excidisse. Nam ante de jaculo vibrato sermo fuit, nunc de mucrone, i. e. ense. Et in Dissiluit exprimere quidem auctor videtur, quod Turno apud Virg. Aen. XII, 739, accidit: « postquam arma Dei ad Vulcania ventum est, Mortalis mucro, glacies ceu futilis, ictu Dissiluit ». At hic mucro, qui inflectitur auro, h. e. obtunditur, vel avertitur, non dici potest dissiluisse sc. in frusta, sed decidisse. …
 - [3] 963 Desiliitque mucro; gemuerunt agmina Troum.
 - [4] 963 Desiluit mucro; gemuerunt agmina Troum.
+  - Troum (TROJANI): — agmina gemuerunt
 - [6] 963 dissiluit\<que> mucro: gemuerunt agmina Troum.
+  - Troum (Tros): Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 
 964 Concurrunt iterum collatis fortiter armis
 - [2] 969 Concurrunt iterum collatis fortiter armis,
@@ -6430,13 +7862,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 972 Horruit instantem defectis viribus Hector.
 - [3] 967 Instantem Aeacidem defectus uiribus Hector;
 - [4] 967 Horruit instantem defectus viribus Hector;
+  - Hector (HECTOR): — defectus viribus, Achille instante
 - [6] 967 instantem Aeaciden defectis viribus Hector;
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 968 Dumque retro cedit fraternaque rebus in artis
 - [2] 973 Damque retro cedit, fraternaque rebus in arctis
 - [3] 968 Dumque retrocedit fraternaque rebus in artis
 - [4] 968 Dumque retrocedit fraternaque rebus in artis
 - [6] 968 dumque retro cedit fraternaque rebus in artis
+  - fraterna (Deiphobus): fraterna . . . auxilia 968
 
 969 respicit auxilia et nullam uidet esse salutem,
 - [2] 974 Respicit auxilia, et nullam videt esse salutem,
@@ -6480,7 +7915,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 980 Corde premit gemitus : instat Nereius heros,
 - [3] 975 Corde petit gemitus. instat Nereius heros
 - [4] 975 Corde trahit gemitus. Instat Nereius heros
+  - Nereius (ACHILLES): — Hectori instat
 - [6] 975 corde premit gemitus. instat Nereius heros
+  - Nereius (Nereius): Nereius heros 938. 975: Achilles
 
 976 turbatumque premit procul undique; tunc iacit hastam
 - [2] 981 Turbatumqueprocul premit undique; tunc jacit hastam,
@@ -6499,38 +7936,54 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 983 Exsultant Danai, Troes sua funera deflent.
 - [3] 978 Exultant Danai, Troes sua funera maerent.
 - [4] 978 Exsultant Danai, Troes sua funera maerent.
+  - Danai (GRAI): — exsultant, Hectore interfecto
+  - Troes (TROJANI): — funera sua maerent
 - [6] 978 exultant Danai, Troes sua vulnera deflent.
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
+  - Troes (Tros): Troes 758. 767. 928. 978. 1002 ubique ante consonam vel ultima ancipiti
 
 979 Tunc sic amissis infelix uiribus Hector:
 - [2] 984 Tum sic amissis infelix viribus Hector :
 - [3] 979 Tum sic amissis infelix uiribus Hector
 - [4] 979 Tum sic amissis infelix viribus Hector :
+  - Hector (HECTOR): — infelix, amissis viribus, Achillem orat
 - [6] 979 tunc sic amissis infelix viribus Hector
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 980 "En concede meos miseris genitoribus artus,
 - [2] 985 « En concede meos miseris genitoribus artus ,
 - [3] 980 'En concede meos miseris genitoribus artus,
 - [4] 980 « En concede meos miseris genitoribus artus,
 - [6] 980 'en concede meos miseris genitoribus artus,
+  - genitoribus (Hecabe): miseris genitoribus 980
+  - genitoribus (Priamus): miseris genitoribus 980
 
 981 quos pater infelix multo mercabitur auro:
 - [2] 986 Quos pater infelix multo mercabitur auro :
 - [3] 981 Quos pater infelix multo mercabitur auro:
 - [4] 981 Quos pater infelix multo mercabitur auro.
 - [6] 981 quos pater infelix multo mercabitur auro:
+  - pater (Priamus): pater infelix 981
 
 982 dona feres uictor. Priami nunc filius orat,
 - [2] 987 Dona feres victor. Priami nunc filius orat,
   - … ut simul referatur ad sequentia Te Priamus, quae bella est gradatio.
 - [3] 982 Dona feres uictor. Priami nunc filius orat
 - [4] 982 Dona feres victor. Priami nunc filius orat,
+  - Priami (HECTOR): Priami filius dux ille ducum (de se, moriens, loquitur)
+  - Priami (PRIAMUS): — filius
 - [6] 982 dona feres victor. Priami nunc filius orat
+  - filius (Hector): Priami . . . filius . . . dux ille ducum, quem Graecia solum pertimuit 982
+  - Priami (Priamus): -mi . . . filius 982
 
 983 te Priamus, dux ille ducum, quem Graecia solum
 - [2] 988 Te Priamus, dux ille ducum, quem Graecia solum
 - [3] 983 Te primus, dux ille ducum, quem Graecia solum
 - [4] 983 Te Priami, dux ille ducum, quem Graecia solum
+  - Graecia (GRAECIA): — Hectorem solum pertimebat
 - [6] 983 te primum, dux ille ducum, quem Graecia solum
+  - Graecia (Graecia): -a 983
+  - — (Priamus): Priamus 278 [983] 1046
 
 984 pertimuit: si, nec precibus nec munere uictus,
 - [2] 989 Pertimuit : si nec precibus, nec munere victus,
@@ -6548,20 +8001,31 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 991 Adflicti miserere patris : moveat tua Peleus
 - [3] 986 Afflicti miserere patris, moueat tua Peleus
 - [4] 986 Afflicti miserere patris, moveat tua Peleus
+  - Peleus (PELEUS): pro Priamo Achillem moveat (Hector, moriens, adloq.)
 - [6] 986 afflicti miserere patris: moveat tua Peleus
+  - Peleus (Peleus): Peleus 986: Achillis pater
+  - patris (Priamus): afflicti . . . patris 986. 1032
 
 987 pectora pro Priamo, pro nostro corpore Pyrrhus."
 - [2] 992 Pectora pro Priamo , pro nostro corpore Pyrrhus ».
   - … Nam corpus pro filio ponere solet Noster; vid. vs. 89.
 - [3] 987 Pectora pro Priamo, pro nostro corpore Pyrrhus.'
 - [4] 987 Pectora pro Priamo, pro nostro corpore Pyrrhus ».
+  - Priamo (PRIAMUS): Pro Priamo Peleus Achillem moveat (Hector loq.)
+  - Pyrrhus (PYRRHUS): pro Hectore Achillem moveat
 - [6] 987 pectora pro Priamo, pro nostro pignore Pyrrhus.'
+  - Priamo (Priamus): pro -mo 987
+  - Pyrrhus (Pyrrhus): Pyrrhus 987: Achillis f.
 
 988 Talia Priamides. Quem contra durus Achilles:
 - [2] 993 Talia Priamides , contra quem durus Achilles :
 - [3] 988 Talia Priamides; contra quem durus Achilles
 - [4] 988 Talia Priamides; contra quem durus Achilles :
+  - Achilles (ACHILLES): — durus Hectoris preces reicit
+  - Priamides (HECTOR): — talia dixit (Achilli, moriens)
 - [6] 988 talia Priamides; quem contra durus Achilles
+  - Achilles (Achilles): -es 211. 988. 997. 1014. 1043
+  - Priamides (Priamides): Priamides 601. 610. 660. 988
 
 989 "Quid mea supplicibus temptas inflectere dictis
 - [2] 994 a Quid mea supplicibus tentas inflectere dictis
@@ -6600,27 +8064,35 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 999 Haeo ex te capient Patrocli gaudia Manes,
 - [3] 994 Haec ex te capient Patrocli gaudia manes,
 - [4] 994 Haec ex te capient Patrocli gaudia manes,
+  - Patrocli (PATROCLUS): Patrocli manes
 - [6] 994 haec ex te capient Patrocli gaudia manes,
+  - Patrocli (Patroclus): -cli . . . manes 994
 
 995 si sapiunt umbrae." Dum talia magnus Achilles
 - [2] 1000 Si capiunt umbrae». Dum talia magnus Achilles
   - … Forte hoc adumbratum ex illo Virg. Georg. IV, 489: « Ignoscenda quidem, scirent si ignoscere Manes ». Calpurn. VIII, 38: « Si sentire datur post fata quietis ».
 - [3] 995 Si capiunt umbrae.' dum talia magnus Achilles
 - [4] 995 Si capiunt umbrae ». Dum talia magnus Achilles
+  - Achilles (ACHILLES): — magnus dum fatur, animam reddit Hector
 - [6] 995 si capiunt umbrae.' dum talia magnus Achilles
+  - Achilles (Achilles): magnus -es 860. 995
 
 996 ore truci iactat, uitam miserabilis Hector
 - [2] 1001 Ore truci jactat, vitam miserabilis Hector
 - [3] 996 Ore truci iactat, uitam miserabilis Hector
 - [4] 996 Ore truci jactat, vitam miserabilis Hector
+  - Hector (HECTOR): — miserabilis vitam reddit
 - [6] 996 ore truci iactat, vitam miserabilis Hector
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 997 reddidit. Hunc animi nondum satiatus Achilles
 - [2] 1002 Reddidit : hunc animo nondum satiatus Achilles
   - … Ad verba nondum satiatus recordor epigrammatis, quod exstat Anthol. Lat. lib. I, 94, et de tractu Hectoris inscribitur: « Funere turbat equos necdum satiatus Achilles, Hector et exanimis funere turbat equos ». In quo epigrammate offendor voce turbat, quod falso dictum putabit, si quis nostrum epitomatorem conferat. Nam hic non turbatos vel consternatos equos Achillis, sed potius superbius altiusque incessisse ob Hectoris funus dicit v. 1005. Hinc fortasse pro turbat legendum tardat exemplo Statii in Achill. I, 88: « modo crassa exire vetabit (Achilles) Flamina, et Hectoreo tardabit funere currus ».
 - [3] 997 Reddidit. hunc animi nondum satiatus Achilles
 - [4] 997 Reddidit. Hunc animi nondum satiatus Achilles
+  - Achilles (ACHILLES): — nondum satiatus, Hectoris membra ad currum deligat
 - [6] 997 reddidit. hunc animi nondum satiatus Achilles
+  - Achilles (Achilles): -es 211. 988. 997. 1014. 1043
 
 998 deligat ad currum pedibusque exsanguia membra
 - [2] 1003 Deligat ad currum , pedibusque exsanguia membra
@@ -6635,6 +8107,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 999 Ter circum muros uictor trahit: altior ipsos
 - [4] 999 Ter circum muros victor trahit : altior ipsos
 - [6] 999 ter circum muros victor trahit: altius ipsos
+  - muros (Troia): muros 999
 
 1000 fert domini successus equos. Tum maximus heros
 - [2] 1005 Fert domini successus equos : tunc maximus heros
@@ -6642,18 +8115,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1000 Fert domini successus equos. tum maximus heros
 - [4] 1000 Fert domini successus equos. Tum maximus heros
 - [6] 1000 fert domini successus equos. tum maximus heros
+  - heros (Achilles): maximus heros 1000
 
 1001 detulit ad Danaos foedatum puluere corpus.
 - [2] 1006 Detulit ad Danaos foedatum pulvere corpus.
 - [3] 1001 Detulit ad Danaos foedatum puluere corpus.
 - [4] 1001 Detulit ad Danaos foedatum pulvere corpus.
+  - Danaos (GRAI): ad — Hectoris corpus Achilles defert
 - [6] 1001 detulit ad Danaos foedatum pulvere corpus.
+  - Danaos (Danai): -os 45. 492. 659. 808. 912. 950. 1001
+  - corpus (Hector): corpus 1001
 
 1002 Laetantur Danai, plangunt sua uulnera Troes
 - [2] 1007 Laetantur Danai; plangunt sua funera Troes,
 - [3] 1002 Laetantur Danai, plangunt sua uulnera Troes
 - [4] 1002 Laetantur Danai, plangunt sua funera Troes.
+  - Danai (GRAI): — laetantur
+  - Troes (TROJANI): — vulnera sua plangunt
 - [6] 1002 laetantur Danai, plangunt sua funera Troes
+  - Danai (Danai): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
+  - Troes (Tros): Troes 758. 767. 928. 978. 1002 ubique ante consonam vel ultima ancipiti
 
 1003 et pariter captos deflent cum funere muros.
 - [2] 1008 Et pariter captos deflent cum fiinere muros.
@@ -6668,21 +8149,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1004 Interea uictor defleti corpus amici
 - [4] 1004 Interea victor defleti corpus amici
 - [6] 1004 interea victor defleti corpus amici
+  - amici (Patroclus): defleti . . . amici 1004
 
 1005 funerat Aeacides pompasque ad funera ducit.
 - [2] 1010 Funerat Aeacides, pompasque ad funera ducit.
   - Pompasque ad funera ducit. Virg. G. III, 22: « solennes ducere pompas Ad delubra juvat ».
 - [3] 1005 Funerat Aeacides pompasque ac munera ducit.
 - [4] 1005 Funerat Aeacides pompasque ac munera ducit.
+  - Aeacides (ACHILLES): — Patrocli corpus funerat
 - [6] 1005 funerat Aeacides pompasque ad funera ducit.
   - ad funera … cf. Verg. georg. 3, 22
+  - Aeacides (Aeacides (Achilles)): victor . . . -es 1005. 1026
 
 1006 Tum circa tumulum miseros rapit Hectoris artus
 - [2] 1011 Ter circa tumulum miseros rapit Hectoris artus,
   - Hic quidem vulgata lectio ter circa tumulum Patrocli artus Hectoris raptos esse dicit, quomodo Homerus ipse, Iliad. XXIV, 16; … quia probabile est, poetas recentiores, Virgilium sequutos, e terna raptatione Hectoris circa tumulum Patrocli, quam Homerus tradit, fecisse totidem circa muros Trojae. Quas quum Noster supra jam significaverit, hoc loco eas indicasse non videtur.
 - [3] 1006 Ter circa tumulum miseros rapit Hectoris artus
 - [4] 1006 Ter circa tumulum miseros rapit Hectoris artus
+  - Hectoris (HECTOR): — miseros artus ter circa Patrocli tumulum Achilles rapit
 - [6] 1006 ter circa tumulum miseros rapit Hectoris artus
+  - Hectoris (Hector): -oris 232. 565. 1006. 1040
 
 1007 et uapido cineri ludorum indicit honores.
 - [2] 1012 Et varios cineri ludorum indicit honores.
@@ -6695,45 +8181,61 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - **(cont.)** … Agitur de certamine equorum, quo Diomedes vicit Merionem, qui hic absurde dicitur pedibus ferox, vel velox, … — Circum de hippodromis poni a poetis monet Schraderus, Emend. cap. 8, p. 160. Ed. — Ferorum dixit pro equorum, exemplo Virgilii, Aen. II, 51, V, 818; Manilii lib. V, 76, ubi de ipso auriga circi: « Aut quum laxato fregerunt cardine claustra, Exagitare feros, pronumque anteire volantes »: adde Petronii cap. 89, in Trojae halosi, v. 12, et Ausonii, qui Diomedis feros, i. e. equos dicit Epist. 24, 17. …
 - [3] 1008 Tydides cunctos curru pedibusque feroces
 - [4] 1008 Tydides cunctos curru pedibusque ferorum
+  - Tydides (DIOMEDES): — < magnanimus > cunctos curru superat
 - [6] 1008 Tydides † tyrsin cursu pedibusque ferocem
+  - tyrsin (Tros): (Trosin equis? 1008)
+  - Tydides (Tydides): Tydides 390. 408. 530. 665. 1008
 
 1009 Merionem superat; luctando uincitur Aiax
 - [2] 1014 Merionem superat: luctando vincitur Ajax,
 - [3] 1009 Aeolides superat; luctando uincitur Aiax,
 - [4] 1009 Magnanimus superat; luctando vincitur Ajax
+  - Ajax (AJAX Telamonis filius): — luctando vincitur (dum Achilles Patrocli corpus funerat)
 - [6] 1009 Merionem superat; luctando vincitur Aiax,
+  - Aiax (Aiax (Telamonius)): -ax 538. 799. 1009
+  - Merionem (Meriones): -em 1009(?)
 
 1010 cuius decepit uires Laertius astu;
 - [2] 1015 Cujus decepit vires Laertius astu :
 - [3] 1010 Cuius decepit uires Laertius astu;
 - [4] 1010 Cujus decepit vires Laertius astu;
+  - Laertius (ULIXES): Laertius Ajacem luctando in ludis funebribus vincit
 - [6] 1010 cuius decepit vires Laertius astus;
+  - Laertius (Laertius): Laertius astus 1010: Vlixes
 
 1011 caestibus aduersis cunctos superauit Epeos
 - [2] 1016 Caestibus adversis cunctos superavit Epeus ,
   - Superavit Epeus: sic emendarunt Dorpius et Dussenius, et sic Homerus docet, Iliad. XXIII, 665. …
 - [3] 1011 Caestibus aduersos cunctos superauit Epeos
 - [4] 1011 Caestibus adversos cunctos superavit Epeus
+  - Epeus (EPEUS): caestibus cunctos superat
 - [6] 1011 caestibus adversos cunctos superavit Epeos
+  - Epeos (Epeos): caestibus . . . cunctos superavit *Epeos 1011
 
 1012 et disco forti Polypoetes depulit omnes
 - [2] 1017 Et disco fortis Polypoetes depulit omnes ,
   - Fortis Polypoetes: sic scribendum ex Homero, Iliad. XXIII, 836. …
 - [3] 1012 Et disco fortis Polypoetes depulit omnes
 - [4] 1012 Et disco fortis Polypoetes depulit omnes
+  - Polypoetes (POLYPOETES): — omnes vincit disco in ludis funebribus
 - [6] 1012 et disco forti Polypoetes depulit omnes
+  - Polypoetes (Polypoetes): *Polypoetes 182. 1012: Hippodamiae f.
 
 1013 Merionesque arcu. Tandem certamine misso
 - [2] 1018 Merionesque arcu : tandem certamine misso
 - [3] 1013 Merionesque arcu; tandem certamine misso
 - [4] 1013 Merionesque arcu ; tandem certamine misso
+  - Meriones (MERIONES): — arcu vincit omnes in ludis funebribus
 - [6] 1013 Merionesque arcu; tandem certamine misso
+  - Meriones (Meriones): -nes *432. 1013
 
 1014 in sua castra redit turbis comitatus Achilles.
 - [2] 1019 In sua castra redit turbis comitatus Achilles.
 - [3] 1014 In sua castra redit turbis comitatus Achilles.
 - [4] 1014 In sua castra redit turbis comitatus Achilles.
+  - Achilles (ACHILLES): — redit in castra
 - [6] 1014 in sua castra redit turbis comitatus Achilles.
+  - Achilles (Achilles): -es 211. 988. 997. 1014. 1043
 
 ## Book 24
 
@@ -6741,27 +8243,37 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 1020 XXIV. Flent miseri amissum PhrygesHectora,totaque moesto
 - [3] 1015 Flent miseri amissum Phryges Hectora, totaque maesto
 - [4] 1015 Flent miseri amissum Phryges Hectora, totaque maesto
+  - Hectora (HECTOR): — amissum flent Trojani
+  - Phryges (TROJANI): — amissum flent Hectorem
 - [6] 1015 flent miseri amissum Phryges Hectora, totaque maesto
+  - Hectora (Hector): -oră 1015
+  - Phryges (Phryges): miseri . . . -es 1015
 
 1016 Troia sonat planctu; fundit miseranda querelas
 - [2] 1021 Troja sonat planctu; fundit miseranda querelas i«at
   - Miseranda querelas Infelix. Geminare epitheta Noster solet, ubi alterum adverbialiter exponendum, velut hic miseranda, i. e. miserandum in modum; idemque recurrit versu 1026.
 - [3] 1016 Troia sonat planctu; fundit miseranda querellas
 - [4] 1016 Troja sonat planctu; fundit miseranda querellas
+  - Troja (TROJA): — Hectore amisso, planctu sonat
 - [6] 1016 Troia sonat planctu; fundit miseranda querellas
+  - Troia (Troia): Troia 727. 1016
 
 1017 infelix Hecube saeuisque arat unguibus ora
 - [2] 1022 Infelix Hecube, saevisque arat unguibus ora,
 - [3] 1017 Infelix Hecube saeuisque arat unguibus ora;
 - [4] 1017 Infelix Hecube saevisque arat unguibus ora;
+  - Hecube (HECUBA): — infelix Hectore mortuo queritur
 - [6] 1017 infelix Hecabe saevisque arat unguibus ora
+  - Hecabe (Hecabe): infelix -be (-cuba trad.) 1017
 
 1018 Andromacheque suas scindit de pectore uestes,
 - [2] 1023 Andromacheque suas scindit de pectore vestes,
   - De pectore vestes. Videatur versus 850.
 - [3] 1018 Andromacheque suas scindit de pectore uestes,
 - [4] 1018 Andromacheque suas scindit de pectore vestes,
+  - Andromache (ANDROMACHE): — Hectore interfecto, vestes suas scindit
 - [6] 1018 Andromacheque suas scindit de pectore vestes,
+  - Andromache (Andromache): -ē 1018. 1058
 
 1019 heu tanto spoliata uiro. Ruit omnis in uno
 - [2] 1024 Heu! tanto spoliata viro:ruit omnis in uno
@@ -6775,13 +8287,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - In uno Hectore caussa Phrygum: ut Pentadius in tumulo Hect. « Occubuere simul spesque salusque Phrygum »; et Ausonius, Epitaph. Her. XIV: « Hectoris hic tumulus, cum quo sua Troja sepulta est. Conduntur pariter, qui periere simul ». Cf. v. 1045 et 1059. …
 - [3] 1020 Hectore causa Phrygum, ruit et defessa senectus
 - [4] 1020 Hectore causa Phrygum, ruit et defessa senectus
+  - Hectore (HECTOR): In uno Hectore causa Trojae ruit
+  - patris (PRIAMUS): vide etiam defessa senectus Afflicti miseranda patris (Hectore amisso)
+  - Phrygum (TROJANI): — omnis causa in uno Hectore ruit
 - [6] 1020 Hectore causa Phrygum, ruit hoc defensa senectus
+  - Hectore (Hector): ruit omnis in uno -ore causa Phrygum 1020
+  - Phrygum (Phryges): causa -um 1020
 
 1021 afflicti miseranda patris, quem nec sua coniunx
 - [2] 1026 Adflicti miseranda patris, quem nec sua conjux
 - [3] 1021 Afflicti miseranda patris, quem nec sua coniunx
 - [4] 1021 Afflicti miseranda patris, quem nec sua conjunx
 - [6] 1021 afflicti miseranda patris. quem nec sua coniunx
+  - coniunx (Hecabe): coniunx 1021
+  - patris (Priamus): senectus afflicti miseranda patris 1021
 
 1022 turbaque natorum nec magni gloria regni
 - [2] 1027 Turbaque natorum , nec magni gloria regni
@@ -6801,18 +8320,24 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1024 Et solum inuicti castris se redderet hostis.
 - [4] 1024 Et solum invicti castris se redderet hostis.
 - [6] 1024 et solum invicti castris se redderet hostis.
+  - hostis (Achilles): invicti . . . hostis 1024
 
 1025 Mirantur Danaum proceres, miratur et ipse
 - [2] 1030 Mirantur Danaum proceres, miratur et ipse
 - [3] 1025 Mirantur Danaum proceres, miratur et ipse
 - [4] 1025 Mirantur Danaum proceres, miratur et ipse
+  - Danaum (GRAI): — proceres
 - [6] 1025 mirantur Danaum proceres, miratur et ipse
+  - Danaum (Danai): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 1026 Aeacides animum miseri senis; ille trementes
 - [2] 1031 Aeacides animum miseri senis : ille trementes
 - [3] 1026 Aeacides animum miseri senis; ille trementes
 - [4] 1026 Aeacides animum miseri senis; ille trementes
+  - Aeacides (ACHILLES): — Priami miseri animum miratur
 - [6] 1026 Aeacides animum miseri senis; ille trementes
+  - Aeacides (Aeacides (Achilles)): victor . . . -es 1005. 1026
+  - senis (Priamus): miseri senis 1026
 
 1027 affusus genibus tendens ad sidera palmas
 - [2] 1032 Adfusus genibus tendensad sidera palmas,
@@ -6825,19 +8350,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Apud Homerum, Iliad. XXIV, 486 seqq. plane alia Priami oratio est, atque haec apud Homeristam latinum, qui hoc loco, ut in aliis, ipse poetam agere voluit. At puto, inferior est divino illo Homeri Μνῆσαι πατρὸς σοῖο.
 - [3] 1028 Haec ait 'o Graiae gentis fortissime Achilles,
 - [4] 1028 Haec ait : « O Grajae gentis fortissime Achilles,
+  - Achilles (ACHILLES): — Grajae gentis fortissime (Priamus adloq.)
+  - Grajae (GRAI): Graja gens Grajae gentis fortissime Achilles
 - [6] 1028 haec ait 'o Graiae gentis fortissime Achilles,
+  - Achilles (Achilles): voc.: fortissime -es 818. 1028
+  - Graiae (Graius): Graiae gentis 1028
 
 1029 o regnis inimice meis, te Dardana solum
 - [2] 1034 O regnis inimice meis, te Dardana solum
 - [3] 1029 O regnis inimice meis, te Dardana solum
 - [4] 1029 O regnis inimice meis, te Dardana solum
+  - Dardana (TROJANI): — te solum tremit (Achillem Priamus adloq.)
 - [6] 1029 o regnis inimice meis, te Dardana solum
+  - Dardana (Dardanus): -na . . . pubes 1029
 
 1030 uicta tremit pubes, te sensit nostra senectus
 - [2] 1035 Victa tremit pubes, te sensit nostra senectus
 - [3] 1030 Uicta tremit pubes, te sensit nostra senectus
 - [4] 1030 Victa tremit pubes, te sensit nostra senectus
 - [6] 1030 victa tremit pubes, te sensit nostra senectus
+  - senectus (Priamus): nostra senectus 1030
 
 1031 crudelem nimium. Nunc sis mitissimus oro
 - [2] 1036 Crudelem niinium : nunc sis mitissimus oro,
@@ -6852,12 +8384,14 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1032 Et patris afflicti genibus miserere precantis
 - [4] 1032 Et patris afflicti genibus miserere precantis
 - [6] 1032 et patris afflicti genibus miserere precantis
+  - patris (Priamus): afflicti . . . patris 986. 1032
 
 1033 donaque quae porto miseri pro corpore nati
 - [2] 1038 Donaque, quae porto miseri pro corpore nati,
 - [3] 1033 Donaque quae porto miseri pro corpore nati
 - [4] 1033 Donaque quae porto miseri pro corpore nati
 - [6] 1033 donaque quae porto miseri pro corpore nati
+  - nati (Hector): natum 945. 1033. 1036
 
 1034 accipias; si nec precibus nec flecteris auro,
 - [2] 1039 Accipias : sin nec precibus, nec flecteris auro,
@@ -6870,12 +8404,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1035 In senis extremis tua dextera saeuiat annis:
 - [4] 1035 In senis extremis tua dextera saeviat annis :
 - [6] 1035 in senis extremis tua dextera saeviat annis:
+  - senis (Priamus): senis 1035
 
 1036 saltem saeua pater comitabor funera nati!
 - [2] 1041 Saltem saeva pater comitabor funera nati.
 - [3] 1036 Saltim scaeua pater comitabor funera nati.
 - [4] 1036 Saltim saeva pater comitabor funera nati.
 - [6] 1036 saltem saeva pater comitabor funera nati.
+  - nati (Hector): natum 945. 1033. 1036
+  - pater (Priamus): pater 1036
 
 1037 Nec uitam mihi nec magnos *concedere* honores,
 - [2] 1042 Non vitam mihi, nec magnos concedere honores.
@@ -6890,6 +8427,8 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1038 Sed funus crudele mei: miserere parentis
 - [4] 1038 Sed funus crudele peto : miserere parentis
 - [6] 1038 sed funus crudele meum: miserere parentis
+  - funus (Hector): funus 1038
+  - parentis (Priamus): parentis 225. 1038. 1044
 
 1039 et pater esse meo mitis de corpore disce.
 - [2] 1044 Et pater esse meo mitis de funere disce.
@@ -6902,14 +8441,20 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 1045 Hectoris interitu vicisti Dardana regna,
 - [3] 1040 Hectoris interitu uicisti Dardana regna,
 - [4] 1040 Hectoris interitu vicisti Dardana regna,
+  - Dardana (DARDANUS): Dardana regna vicisti (Priamus Achilli)
+  - Hectoris (HECTOR): — interitu Troja victa
 - [6] 1040 Hectoris interitu vicisti Dardana regna,
+  - Dardana (Dardanus): -na regna 1040: Troiana
+  - Hectoris (Hector): -oris 232. 565. 1006. 1040
 
 1041 uicisti Priamum: sortis reminiscere uictor
 - [2] 1046 Yicisti Priamum : sortis reminiscere victor
   - Sortis reminiscere victor Humanae. Haud obscurum est, sententiam hanc adludere, ut alia multa auctoris nostri, ad verba Ovidii, Trist. III, 11, 67: « Humanaeque memor sortis, quae tollit eosdem, Et premit, incertas ipse verere vices ». Eadem verba ex Ovidio translata Ausonius in Periocha XXIV Iliados usurpat: Jupiter Thetidem mittit ad filium, cum mandatis ejusmodi, ut in defunctum saevire desistat, fatique hominum in exanimo hoste vereatur, ubi extrema verba, quae mendosa aut hiulca videntur, optime corrigi supplendo ex Ovidii verbis possunt, fatique hominum vices ... vereatur. Enimvero talis sententia, qualem hic auctor noster et Ausonius proferunt, nulla apud Homerum legitur, uti ad Ausonium dudum notarunt Mariangelus et Vinetus. Quae utriusque conspiratio quum in discessu ab Homero, tum in usurpanda sententia Ovidiana, utique memorabilis est, et fortasse unum utriusque scripti auctorem esse suspicari sinit.
 - [3] 1041 Uicisti Priamum: sortis reminiscere uictor
 - [4] 1041 Vicisti Priamum : sortis reminiscere victor
+  - Priamum (PRIAMUS): Priamum vicisti (de se cum Achille loq.)
 - [6] 1041 vicisti Priamum: sortis reminiscere victor
+  - Priamum (Priamus): vicisti -mum 1041
 
 1042 humanae uariosque ducum tu respice casus."
 - [2] 1047 Humanae, variosque dticum tu respice casus».
@@ -6921,13 +8466,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 1048 His tandem precibus grandaevum motus Achilles
 - [3] 1043 His tandem precibus grandaeuum motus Achilles
 - [4] 1043 His tandem precibus grandaevum motus Achilles
+  - Achilles (ACHILLES): — Priami precibus motus est ut reddat filii corpus
 - [6] 1043 his tandem precibus grandaevum motus Achilles
+  - Achilles (Achilles): -es 211. 988. 997. 1014. 1043
+  - grandaevum (Priamus): grandaevum 1043
 
 1044 alleuat a terra corpusque exsangue parenti
 - [2] 1049 Adlevat a terra , corpusque exsangue parenti
 - [3] 1044 Alleuat a terra corpusque exsangue parenti
 - [4] 1044 Allevat a terra corpusque exsangue parenti
+  - Hectoreum (HECTOREUS): Hectoreum corpus
 - [6] 1044 allevat a terra corpusque exsangue parenti
+  - parenti (Priamus): parentis 225. 1038. 1044
 
 1045 reddidit Hectoreum. Post haec sua dona reportat
 - [2] 1050 Reddidit Hectoreuin : post haec sua dona reportat
@@ -6936,12 +8486,15 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [4] 1045 Reddidit Hectoreum, post haec sua dona reportat.
 - [6] 1045 reddidit Hectoreum. post haec sua dona reportat
   - … dona i. corpus Hectoris
+  - Hectoreum (Hectoreus): corpus . . . -eum 1045
 
 1046 in patriam Priamus tristesque ex more suorum
 - [2] 1051 In patriam Priamus , tristesque ex more suorum
 - [3] 1046 It patriam Priamus tristisque ex more suorum
 - [4] 1046 Jamque redit Priamus tristesque ex more suorum
+  - Priamus (PRIAMUS): — redit in castra, postquam Hectoris corpus Achilles reddidit
 - [6] 1046 in patriam Priamus tristesque ex more suorum
+  - Priamus (Priamus): Priamus 278 [983] 1046
 
 1047 apparat exsequias extremaque funera ducit.
 - [2] 1052 Comparat exsequias , supremaque funera ducit.
@@ -6955,8 +8508,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1048 Tum pyra construitur, quo bis sex corpora Graium
   - **1048—51** adfert Lactantius ad Statii Theb. VI 121 (Homerus in funere Hectoris dicit)
 - [4] 1048 Tum pyra construitur, quo bis sex corpora Grajum
+  - Grajum (GRAI): — sex corpora in Hectoris rogum imponuntur
 - [6] 1048 tum pyra construitur, qua bis sex corpora Graium
   - **1048/50** (testimonia) ob rem affert Lactant. ad Stati Theb. 6, 121 …
+  - Graium (Graius): corpora -um 1048
 
 1049 quadrupedesque adduntur equi currusque tubaeque
 - [2] 1054 Quadrupedesque adduntur equi, currusque, tubaeque.
@@ -6970,20 +8525,26 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 1055 Et clypei, galeaBque.graves, Argivaque tela.
 - [3] 1050 Et clipei galeaeque ocreaeque Argiuaque tela.
 - [4] 1050 Et clipei galeaeque cavae Argivaque tela.
+  - Argiva (ARGIVUS): Argivaque tela (nominat.)
 - [6] 1050 cumque cavis galeis clipeique Argivaque tela.
+  - Argiva (Argivus): Argiva . . . tela 1050
 
 1051 Haec super ingenti gemitu componitur Hector:
 - [2] 1056 Haec super ingenti gemitu componitur Hector.
 - [3] 1051 Haec super ingenti gemitu componitur Hector:
 - [4] 1051 Haec super ingenti gemitu componitur Hector :
+  - Hector (HECTOR): — rogo componitur
 - [6] 1051 haec super ingenti gemitu componitur Hector:
+  - Hector (Hector): Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 
 1052 stant circum Iliades matres manibusque decoros
 - [2] 1057 Stant circum Uiades matres, manibusque decoros
   - Stant circum Iliades. Eum morem Virgilius in funere Polydori et Pallantis, Aen. III, 65, et XI, 35, observatum hoc versu indicat: Stant circum Iliades crinem de more solutae. Igitur abrumpere crines, quod Noster usurpat, idem est ac Virgilii solvere crines.
 - [3] 1052 Stant circum Iliades matres manibusque decoros
 - [4] 1052 Stant circum Iliades matres manibusque decoros
+  - Iliades (ILIADES): — matres stant circum Hectoris corpus
 - [6] 1052 stant circum Iliades matres manibusque decoros
+  - Iliades (Iliades): -des matres 1052
 
 1053 abrumpunt crines laniataque pectora plangunt:
 - [2] 1058 Abrumpunt crines, laniataque pectora tundunt :
@@ -7008,7 +8569,9 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Flamma namque Ilion illa. Vid. vers. 338.
 - [3] 1056 Flebilis: ardebat flamma namque Ilion illa.
 - [4] 1056 Flebilis : ardebat flamma namque Ilion illa.
+  - Ilion (TROJA): — flamma qua Hectoris corpus, ardebat
 - [6] 1056 flebilis: ardebat flamma namque Ilion illa.
+  - Ilion (Ilion): Ilĭŏn 153. 1056
 
 1057 Inter quos gemitus laniato pectore coniunx
 - [2] 1062 Inter quos gemitus laniato corpore conjux
@@ -7020,13 +8583,17 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [2] 1063 Advolat Andromache , mediosque immittere in ignes
 - [3] 1058 Prouolat Andromache mediosque inmittere in ignes
 - [4] 1058 Provolat Andromache mediosque immittere in ignes
+  - Andromache (ANDROMACHE): — laniato Hectoris corpore provolat gemitque
 - [6] 1058 provolat Andromache mediosque inmittere in ignes
+  - Andromache (Andromache): -ē 1018. 1058
 
 1059 se cupit Astyanacta tenens, quam iussa suarum
 - [2] 1064 Se cupit, Astyanacta tenens, quam jussa suorum
 - [3] 1059 Se cupit Astyanacta tenens, quam maesta suarum
 - [4] 1059 Se cupit Astyanacta tenens, quam maesta suarum
+  - Astyanacta (ASTYANAX): — tenens Andromache
 - [6] 1059 se cupit Astyanacta tenens, quam iussa suorum
+  - Astyanacta (Astyanax): Andromache . . . -cta tenens 1059
 
 1060 turba rapit. Contra tamen omnibus usque resistit,
 - [2] 1065 Tristis turba rapit : contra tamen usque resistit,
@@ -7046,6 +8613,7 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1062 Inque leues abiit tantus dux ille fauillas.
 - [4] 1062 Inque leves abiit tantus dux ille favillas.
 - [6] 1062 inque leves abiit tantus dux ille favillas.
+  - dux (Hector): tantus dux 1062
 
 1063 Sed iam siste gradum finemque impone labori,
 - [2] 1068 Sed jam siste gradum, (inemque impone iabori,
@@ -7059,7 +8627,10 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - Calliope. Quod auctor hic Musam adloquitur pro se et extra carmen Homericum, eo videtur velle indicare, se in Iliade Homeri latine contrahenda et proprio ingenio et officio poetae usum esse: quod negare illi totum nolim. — Moderare carinam. Solenne quidem poetis est, opera sua cum navigatione, sicut etiam curru et quadrigis comparare, ut a Statio, Silv. IV, 4, 99; Nemesiano, Cyneg. 59, et Claud. in praef. ad I de Rapt. Pros. factum est; sed quae allegoria navigationis hic totum fere epilogum occupat, haud parum efficit verisimile, auctorem hujusce poematis eumdem esse, qui epigrammatis de navigatione, quod in Anthol. Lat. lib. III, epigr. 62 exstat, et inter testimonia de hoc poemate a nobis relatum est, ubi auctor ait, se in villa maritima Iliadem seu bellum Trojanum descripsisse, simulque pericula maris cum securitate ruris comparat. Qua de re plura diximus in prooemio.
 - [3] 1064 Calliope, uatisque tui moderare carinam,
 - [4] 1064 Calliope, vatisque tui moderare carinam,
+  - Calliope (CALLIOPE): vocativ. (precatur Noster)
 - [6] 1064 Calliope, vatisque tui moderare carinam,
+  - vatis (Baebius): v. vatis 1064. 1070
+  - Calliope (Calliope): Calliope voc. 1064
 
 1065 Remis quem cernis stringentem litora paucis,
 - [2] 1070 Quem cernis paucis stringentem litora remis.
@@ -7073,14 +8644,18 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
   - … Vult enim, se magnum opus Homeri, tamquam patens mare, nunc emensum esse. Horatius, Carm. II, 16, 1: in patenti Prensus Aegaeo. — Et verbum patefecit alio et notando sensu occurrit apud Saleium Bassum, Carm. ad Pisonem, vs. 230: « Ausoniamque chelyn gracilis patefecit Horati »; ubi si recte verbum patefacere potuimus interpretari clarum facere, famae ostendere, nunc non immerito patentis Homeri exponi possit illustris, inclyti vatis, cujus omnibus fama innotuit. Videantur adnotata nostra ad loc. citatum hujus tomi, pag. 265 seqq. Hanc vero observationem quasi de superfluo addo, nec ideo deserendam Wernsd. explicationem puto. Ed.
 - [3] 1066 Iamque tenens portum metamque potentis Homeri,
 - [4] 1066 Iamque tenens portum metamque potentis Homeri,
+  - Homeri (HOMERUS): Homeri potentis metam cum nostro Calliope tenet
 - [6] 1066 Iamque tenet portum metamque potentis Homeri:
+  - Homeri (Homerus): metam . . . potentis Homeri 1066
 
 1067 Pieridum comitata cohors, summitte rudentes
 - [2] 1072 Pieridum comitata cohors , submitte rudentes;
   - Submitte rudentes, trahe et demitte vela. Est idem quod Virg. significavit Georg. IV, 116: « extremo ni jam sub fine laborum Vela traham, et terris festinem advertere proram ». Et Statius, Silv. IV, 4, 89 de Thebaide finita: « Jam Sidonios emensa labores Thebais optato collegit carbasa portu ».
 - [3] 1067 Pieridem comitata cohors, summitte rudentes;
 - [4] 1067 Pieridum comitata cohors, summitte rudentes;
+  - Pieridum (PIERIDES): Pieridum cohors
 - [6] 1067 Pieridum comitata cohors, summitte rudentes
+  - Pieridum (Pieris): Pieridum . . . cohors 1067
 
 1068 Sanctaque uirgineos lauro redimita capillos
 - [2] 1073 Sanetaque virgineos lauro redimita capillos
@@ -7095,11 +8670,16 @@ Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).
 - [3] 1069 Ipsa, tuas depone lyras, ades, inclita Pallas,
   - Ipsa (= era, scil. Calliope) …
 - [4] 1069 Ipsa, tuas depone lyras, ades, inclita Pallas,
+  - Pallas (MINERVA): vocativ. inclita ades (poeta, cur superacto, deam precatur)
 - [6] 1069 Ipsa tuas depone lyras. ades, inclita Pallas,
+  - Pallas (Pallas): voc.: ades, inclita -as 1069
 
 1070 Tuque faue cursu uatis iam, Phoebe, peracto.
 - [2] 1075 Tuque fave, cursu vatis jam, Phoebe, peracto.
   - Jam, Phoebe, peracto. His respicere videtur ad vers. 164, quo Phoebum invocaverat. Ed.
 - [3] 1070 Tuque faue cursu uatis iam, Phoebe, peracto.
 - [4] 1070 Tuque fave vati, cursu jam, Phoebe, peracto.
+  - Phoebe (APOLLO): Phoebus Phoebe (Noster, peracto cursu, deum precatur)
 - [6] 1070 Tuque fave cursu vatis iam, Phoebe, peracto.
+  - vatis (Baebius): v. vatis 1064. 1070
+  - Phoebe (Phoebus): Phoebĕ 1070
