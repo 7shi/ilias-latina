@@ -22,8 +22,15 @@ interpretation of the Latin text.
   the persons, places and background the reader needs.  Verse numbers
   are given only where the reader would otherwise not find what is
   meant.
-- Names of persons and peoples are kept in the translation as the Latin
-  gives them; the commentary explains whom they mean.
+- Each verse is translated on its own line with its own words only,
+  even where a sentence runs over and the English becomes less natural.
+- Names of persons and peoples are given in the translation in their
+  usual English forms from the Latin (*Vlixes* Ulysses, *Aiax* Ajax,
+  *Iuppiter* Jupiter, *Priamus* Priam; *Grai* Greeks, *Danai*
+  Danaans, *Achiui* Achaeans, *Pelasgi* Pelasgians, *Phryges*
+  Phrygians).  Patronymics and names used as they are in English
+  (Atrides, Pelides, Somnus, Pergama, Cytherea) are kept.  The
+  commentary explains whom they mean.
 - Where a note explains what a word or phrase means, the translation
   and the commentary follow it, even against a reading that seems more
   natural.  A parallel from another author, or an opinion that a note

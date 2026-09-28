@@ -18,9 +18,13 @@ then the books are checked and corrected one by one:
    (src/tmp/greek.md): the accuracy of the translation, the glosses
    followed, no uncertain reading stated as fact, and agreement with
    the books before.  Frequent errors so far: a sentence that runs over
-   into the next verse translated twice or garbled; a Latin form left
-   in the English (*Danaum*), or a name in another form than in the
-   books before (*Iuppiter*, *Priamus* for Jupiter, Priam); a claim
+   into the next verse translated twice or garbled, or cut by a full
+   stop and resumed with "and"; words moved to another verse (each
+   verse is translated with its own words only, even if the English is
+   less natural); names in the Latin form (*Vlixes*,
+   *Danai*), which the drafts keep because they were generated before
+   the English forms were adopted (see the policy in
+   commentary/README.md); a claim
    that the Latin omits what comes in the next or the previous section;
    genealogies; *Myrmidones* for the Greeks at large (23, 180), to be
    treated the same way throughout.  The bracketed glosses in the notes

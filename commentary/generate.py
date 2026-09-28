@@ -48,10 +48,15 @@ story rather than the scholarly interpretation of the Latin text.
   `> N Latin` followed by `> (English translation)`, the verses separated by
   a line with `>` alone.  Copy the number and the Latin exactly as given,
   without the bracketed lines of the Iliad.
-- Translate each verse on its own line, faithfully and plainly; words that
-  run over into the next verse may be moved to it.  Keep the names of
-  persons and peoples as the Latin gives them, and explain in the
-  commentary whom they mean.
+- Translate each verse on its own line, faithfully and plainly, with the
+  words of that verse only, even where a sentence runs over and the
+  English becomes less natural; do not move words to another verse.
+  Give the names of persons and peoples in their usual English forms
+  from the Latin (Vlixes Ulysses, Aiax Ajax, Iuppiter Jupiter, Priamus
+  Priam; Grai Greeks, Danai Danaans, Achiui Achaeans, Pelasgi
+  Pelasgians, Phryges Phrygians), keep patronymics and names used as
+  they are in English (Atrides, Pelides, Somnus, Pergama, Cytherea),
+  and explain in the commentary whom they mean.
 - Read every note in <commentary> before translating.  Where a note
   explains what a word or phrase means (e.g. "pestem i.e. amorem
   Chryseidos"), follow it in the translation and the commentary, even if
