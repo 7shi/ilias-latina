@@ -150,7 +150,11 @@ number of `index.md` was compared with the page images of the index
 (pp. 56–65, all of them); all were read correctly.  One word was
 found to differ: "robora" for the misprint "rubora" (Epistrophus 1),
 which the OCR had read as "nibora"; it is restored as printed in
-`index.md` and its translations.  Looking the cited words up in the
+`index.md` and its translations.  The same list as in step 6 of the words
+of the verses not in The Latin Library, run on Vollmer's `ilias.md`,
+has 89 words in 84 verses; all are his spellings and readings
+(*inmensa*, *exultat*, *Tlepolomus*, *Pallados*, *Latiis*), with no
+misreadings among them.  Looking the cited words up in the
 verses showed places where the index itself does not agree with the
 text (Amaryncides 337 for 377, Doris 874 for 873, Phoebus 69 for 68,
 *Troica* at 645 where the text has *Troiae*); they are kept as
@@ -181,16 +185,16 @@ been checked against the images again.
   the same column copied into `ilias-en.md` and `ilias-ja.md`).  The
   words not in The Latin Library were checked against the page images
   in step 6, but misreadings that make words of The Latin Library
-  have not been looked for.  The same check has not been run on the
-  other editions.
+  have not been looked for.  Of the other editions the same check has
+  been run on Vollmer's verses only (step 7).
 - **Plessis's index** (`4-plessis/index.md`).  Its verse numbers were
   all checked against the images in step 5, but the words, dashes and
   brackets were not compared letter by letter; two errors in them were
   found in passing (OLYMPUS, TROICUS), so more may be left.
-- **Plessis's README** (`4-plessis/README.md`, Accuracy) still says
-  that all its files have been proofread against the page images,
-  which is not true of the verses and the index until the items above
-  are done.
+- **Vollmer's index** (`6-vollmer/index.md`).  Its verse numbers
+  were all checked against the images in step 7, and the words were
+  read on the way (one misprint restored), but they were not compared
+  letter by letter.
 
 ## Prompts
 

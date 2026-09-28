@@ -5,12 +5,14 @@ texts/README.md and src/README.md first.
 
 ## Current work
 
-1. The index of proper names in texts/ is being put in order in a
-   separate session (so far texts/4-plessis/INDEX.tsv, Plessis's index
-   as a table of headword, verse, form and description; see
-   texts/4-plessis/README.md).
-2. When it is finished, the proper names in commentary/ are checked
-   with it: each name in the translation and the commentary against
+1. The indexes of proper names in texts/ are in order:
+   texts/4-plessis/INDEX.tsv and texts/6-vollmer/INDEX.tsv, the indexes
+   of Plessis and Vollmer as tables of headword, verse, form and
+   description (see the README of each; Lemaire and Baehrens have no
+   index).  The words of both index.md files are still to be compared
+   letter by letter with the page images (texts/PROOFREADING.md, Open
+   issues), in a separate session.
+2. Next the proper names in commentary/ are checked with them: each name in the translation and the commentary against
    the verse, the English form under the policy in commentary/README.md,
    and the same person or people called the same way throughout
    (e.g. *Myrmidones* for the Greeks at large, 23, 180).
