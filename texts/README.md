@@ -26,10 +26,12 @@ the numbering of The Latin Library (see [Concordance](#concordance)).
 [COMMENTARY.md](COMMENTARY.md) goes through the poem verse by verse in
 the order of The Latin Library, giving the verse of each edition with
 the items of its `COMMENTARY.md` (the notes on the interpretation,
-without the readings and conjectures; see [Commentary](#commentary)).
+without the readings and conjectures; see [Commentary](#commentary))
+and, for Plessis and Vollmer, the rows of its index (`INDEX.tsv`).
 Its translations [COMMENTARY-en.md](COMMENTARY-en.md) and
 [COMMENTARY-ja.md](COMMENTARY-ja.md) are built in the same way from the
-editions' `COMMENTARY-en.md` and `COMMENTARY-ja.md`.
+editions' `COMMENTARY-en.md`, `COMMENTARY-ja.md`, `INDEX-en.tsv` and
+`INDEX-ja.tsv`.
 [../commentary/notes.tsv](../commentary/notes.tsv) selects and adapts
 the English notes to the text of The Latin Library, as context for
 translating it (see [commentary/](../commentary/README.md)).
@@ -174,11 +176,20 @@ following the rows of [concordance.md](concordance.md):
   above it; it is kept for a range of verses (given at the first of
   them) and for Lemaire's "(cont.)", a note continued from the previous
   page.
+- Under [4] Plessis and [6] Vollmer, after the items, come the rows of
+  the edition's index (`INDEX.tsv`) that cite the verse, as
+  "form (headword): description"; the translations add the translated
+  headword ("form (headword; headword-en): description").  A row citing
+  a range of verses is given at the first of them, and one citing
+  several verses at each of them, but only at the first of consecutive
+  ones (Plessis's PRIAMUS "982,983" at 982).  The cross-references,
+  without a verse, are left out.
 
 It is built by `make commentary` in this directory
 ([commentary.py](commentary.py)) from [ilias.txt](ilias.txt),
-[concordance.md](concordance.md), and the verse tables (`ilias.md`)
-and `COMMENTARY.md` of the four editions, and rebuilt whenever they
+[concordance.md](concordance.md), the verse tables (`ilias.md`)
+and `COMMENTARY.md` of the four editions, and the `INDEX.tsv` of
+Plessis and Vollmer, and rebuilt whenever they
 change, so it is not corrected by hand; corrections go into the
 editions' files.
 
@@ -189,6 +200,12 @@ editions' files.
   give the verse of The Latin Library ("(LL n)"), and his "(cont.)" goes
   with the last note of the previous page; the numbers of Baehrens,
   Plessis and Vollmer are looked up in their concordance columns.
+- The verses of the indexes are the editions' own numbers and are
+  looked up in the same way, except Plessis's 873 and 874, which he
+  numbers in his order while his concordance column follows The Latin
+  Library there (see [4-plessis/README.md](4-plessis/README.md)); they
+  are swapped.  Vollmer's 791, which his text does not print, goes to
+  the row of The Latin Library's 791.
 
 ## Iliad
 

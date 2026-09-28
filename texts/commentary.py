@@ -15,9 +15,17 @@ concordance; Lemaire's labels give the verse of The Latin Library
 ("(LL n)"), and "(cont.)" goes with the note continued from the
 previous page.
 
+Under Plessis and Vollmer, the rows of their indexes (INDEX.tsv) that
+cite the verse follow the items: a range of verses at its first verse,
+a list of verses at each of them but only at the first of consecutive
+ones; the cross-references, without a verse, are left out.  The
+indexes give the own numbers of the editions, converted like the
+labels; Plessis's 873 and 874, numbered in his order, are swapped.
+
 With LANG ("en" or "ja"), the items are read from the translations
-COMMENTARY-LANG.md instead, and the heading and the explanation are
-written in that language; the verses stay in Latin.
+COMMENTARY-LANG.md and the rows from INDEX-LANG.tsv instead, and the
+heading and the explanation are written in that language; the verses,
+and the forms and headwords of the indexes, stay in Latin.
 
 The output is derived from the files above and is rebuilt from them;
 it is not corrected by hand.
@@ -34,6 +42,15 @@ EDITIONS = [
     (4, "4-plessis", "Plessis"),
     (6, "6-vollmer", "Vollmer"),
 ]
+
+# The editions with an index (INDEX.tsv), its verses given in their
+# own numbers.
+INDEXED = {4: "4-plessis", 6: "6-vollmer"}
+
+# Plessis numbers 873 and 874 in his order, the other way round from
+# The Latin Library, by which his ilias.md and the concordance number
+# them (4-plessis/README.md).
+OWN = {(4, "873"): "874", (4, "874"): "873"}
 
 CELL = re.compile(r"(?<!\\)\|")
 ENTRY = re.compile(r"(?P<own>.*?)(?P<below> below)? ?\(p\. (?P<page>[^)]+)\)$")
@@ -74,17 +91,19 @@ def read_concordance(path: Path) -> list[tuple[int, dict]]:
 LANGS = {
     "": {
         "commentary": "COMMENTARY.md",
+        "index": "INDEX.tsv",
         "testimonia": "Testimonia",
         "marker": "(testimonia)",
         "header": [
             "# Commentary",
             "",
             "The verses of the four editions organized in this directory and the",
-            "items of their commentaries, verse by verse in the order of The Latin",
-            "Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in",
-            "this directory ([commentary.py](commentary.py)) from",
-            "[concordance.md](concordance.md), the editions' `ilias.md` and their",
-            "`COMMENTARY.md`, and rebuilt from them; do not correct it by hand.",
+            "items of their commentaries and indexes, verse by verse in the order",
+            "of The Latin Library ([ilias.txt](ilias.txt)).  Built by",
+            "`make commentary` in this directory ([commentary.py](commentary.py))",
+            "from [concordance.md](concordance.md), the editions' `ilias.md`, their",
+            "`COMMENTARY.md` and `INDEX.tsv`, and rebuilt from them; do not correct",
+            "it by hand.",
             "Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).",
             "",
             "- Each verse begins with its number and text in The Latin Library",
@@ -100,12 +119,22 @@ LANGS = {
             "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
             "  continued from the previous page.  Vollmer's testimonia are marked",
             "  \"(testimonia)\".",
+            "- Under [4] Plessis and [6] Vollmer, after the items, the rows of",
+            "  the edition's INDEX.tsv that cite the verse, in its order, as",
+            "  \"form (headword): description\": the form of the word in the",
+            "  verse (\"—\" where the verse does not have it), the headword and",
+            "  the description.  A row citing a range of verses is given at the",
+            "  first of them; one citing several verses at each of them, but only",
+            "  at the first of consecutive ones.  Cross-references, without a",
+            "  verse, are left out.",
             "- The texts and the items are quoted as they stand in the files;",
-            "  see each edition's COMMENTARY.md for what is kept and left out.",
+            "  see each edition's COMMENTARY.md and README.md for what is kept",
+            "  and left out.",
         ],
     },
     "en": {
         "commentary": "COMMENTARY-en.md",
+        "index": "INDEX-en.tsv",
         "testimonia": "Testimonia",
         "marker": "(testimonia)",
         "header": [
@@ -113,11 +142,12 @@ LANGS = {
             "",
             "English translation of [COMMENTARY.md](COMMENTARY.md): the verses of",
             "the four editions organized in this directory and the items of their",
-            "commentaries in English, verse by verse in the order of The Latin",
-            "Library ([ilias.txt](ilias.txt)).  Built by `make commentary` in",
-            "this directory ([commentary.py](commentary.py)) from",
-            "[concordance.md](concordance.md), the editions' `ilias.md` and their",
-            "`COMMENTARY-en.md`, and rebuilt from them; do not correct it by hand.",
+            "commentaries and indexes in English, verse by verse in the order of",
+            "The Latin Library ([ilias.txt](ilias.txt)).  Built by",
+            "`make commentary` in this directory ([commentary.py](commentary.py))",
+            "from [concordance.md](concordance.md), the editions' `ilias.md`, their",
+            "`COMMENTARY-en.md` and `INDEX-en.tsv`, and rebuilt from them; do not",
+            "correct it by hand.",
             "",
             "- Each verse begins with its number and text in The Latin Library",
             "  (LL); \"79a\", \"79b\" are verses that The Latin Library does not have,",
@@ -133,23 +163,35 @@ LANGS = {
             "  is given at the first of them, or Lemaire's \"(cont.)\", a note",
             "  continued from the previous page.  Vollmer's testimonia are marked",
             "  \"(testimonia)\".",
+            "- Under [4] Plessis and [6] Vollmer, after the items, the rows of",
+            "  the edition's INDEX-en.tsv that cite the verse, in its order, as",
+            "  \"form (headword; headword in English): description\": the Latin",
+            "  form of the word in the verse (\"—\" where the verse does not have",
+            "  it), the Latin headword, its English and the description in",
+            "  English.  A row citing a range of verses is given at the first of",
+            "  them; one citing several verses at each of them, but only at the",
+            "  first of consecutive ones.  Cross-references, without a verse, are",
+            "  left out.",
             "- The texts and the items are quoted as they stand in the files;",
-            "  see each edition's COMMENTARY-en.md for what is kept and left out.",
+            "  see each edition's COMMENTARY-en.md and README.md for what is kept",
+            "  and left out.",
         ],
     },
     "ja": {
         "commentary": "COMMENTARY-ja.md",
+        "index": "INDEX-ja.tsv",
         "testimonia": "証言",
         "marker": "（証言）",
         "header": [
             "# 注解",
             "",
-            "[COMMENTARY.md](COMMENTARY.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。このディレクトリの `make commentary`（[commentary.py](commentary.py)）が [concordance.md](concordance.md)、各版の `ilias.md` と `COMMENTARY-ja.md` から生成し、それらが変わると作り直す。手で修正しないこと。",
+            "[COMMENTARY.md](COMMENTARY.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目と索引の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。このディレクトリの `make commentary`（[commentary.py](commentary.py)）が [concordance.md](concordance.md)、各版の `ilias.md`、`COMMENTARY-ja.md` と `INDEX-ja.tsv` から生成し、それらが変わると作り直す。手で修正しないこと。",
             "",
             "- 各詩行は The Latin Library（LL）の行番号と本文で始まる。「79a」「79b」は The Latin Library にない詩行で、各版でその前にある詩行の後に置く。",
             "- 続いて各版、[2] Lemaire（ヴェルンスドルフの行番号）、[3] Baehrens、[4] Plessis、[6] Vollmer を箇条書きにし、対照表のとおりにその版の行番号と本文を示す（「[n]」はその版が括弧に入れる詩行、「below」はプレシが本文の下に印刷する詩行、「—」は該当なし）。その下の入れ子にその版の COMMENTARY-ja.md のうち、その詩行の項目を置く。詩行はラテン語のまま。",
             "- 項目のラベルは、上に示した詩行の番号以上の情報がある場合に限って残す。すなわち詩行の範囲（項目はその最初の詩行に置く）と、前の頁から続く Lemaire の注「(cont.)」である。フォルマーの証言には「（証言）」と記す。",
-            "- 本文と項目は各ファイルにあるとおりに引く。何を残し何を省いたかは各版の COMMENTARY-ja.md を参照。",
+            "- [4] Plessis と [6] Vollmer では、項目の後にその版の INDEX-ja.tsv のうちその詩行を挙げる行を、表の順に「語形 (見出し語; 見出し語の日本語): 説明」の形で置く。語形はその詩行にあるラテン語の形（詩行にない場合は「—」）、見出し語はラテン語、説明は日本語訳。詩行の範囲を挙げる行はその最初の詩行に、複数の詩行を挙げる行はそれぞれの詩行に置く。ただし連続する詩行では最初の詩行だけに置く。詩行のない相互参照は省く。",
+            "- 本文と項目は各ファイルにあるとおりに引く。何を残し何を省いたかは各版の COMMENTARY-ja.md と README.md を参照。",
         ],
     },
 }
@@ -185,6 +227,31 @@ def read_commentary(path: Path) -> list[tuple[str, str, str, str]]:
         elif m := re.match(r"- \*\*(.+?)\*\* ?(.*)$", line):
             items.append((page, section, m[1], m[2]))
     return items
+
+
+def read_index(path: Path) -> list[tuple[str, str, str, list[tuple[str, str]]]]:
+    """Return (headword, translated headword or "", description, places)
+    for each row of INDEX.tsv or its translation that has a verse; a
+    place is (verse, form).  A range is placed at its first verse, and a
+    list at the first verse of each run of consecutive verses."""
+    out = []
+    lines = path.read_text().splitlines()
+    header = lines[0].split("\t")
+    for line in lines[1:]:
+        c = dict(zip(header, line.split("\t")))
+        verse = c["verse"]
+        if not verse:
+            continue
+        if "-" in verse:
+            places = [(verse.split("-")[0], c["form"])]
+        else:
+            verses = verse.split(",")
+            forms = c["form"].split(",") if "," in verse else [c["form"]]
+            places = [(v, f) for j, (v, f) in enumerate(zip(verses, forms))
+                      if j == 0 or int(verses[j - 1]) + 1 != int(v)]
+        trans = next((v for k, v in c.items() if k.startswith("headword-")), "")
+        out.append((c["headword"], trans, c["description"], places))
+    return out
 
 
 def last_labels(path: Path) -> dict[str, str]:
@@ -265,6 +332,21 @@ def main() -> None:
             if section == lang["testimonia"]:
                 head.append(lang["marker"])
             notes[i].setdefault(num, []).append(" ".join(["-"] + head + [text]))
+
+    # The rows of the indexes per row and edition, after the items.
+    for num, d in INDEXED.items():
+        for head, trans, desc, places in read_index(texts / d / lang["index"]):
+            for verse, form in places:
+                own = OWN.get((num, verse), verse).replace("bis", " bis")
+                i = own_row.get((num, own))
+                if i is None:
+                    # A verse that the edition does not print (Vollmer 791).
+                    i = ll_row[int(verse)]
+                names = "; ".join(filter(None, [head, trans]))
+                line = f"- {form or '—'} ({names})"
+                if desc:
+                    line += f": {desc}"
+                notes[i].setdefault(num, []).append(line)
 
     lines = list(lang["header"])
     book = last = extra = 0
