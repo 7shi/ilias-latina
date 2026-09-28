@@ -165,7 +165,7 @@ this directory ([commentary.py](commentary.py)) from
 
 21 ut sibi causa suae reddatur nata salutis.
 - [2] 21 Ut sibi caussa suse reddatur nata salutis:
-  - *Ut sibi caussa suae* [That to him as the cause of her own...]. In Ovid, *Met.* VI, 499, Pandion says of his daughter: « Per Superos oro ..... Et mihi sollicitae lenimen dulce senectae Quamprimum (omnis erit nobis mora longa) remittas ».
+  - *Ut sibi caussa suae* [That to him as the cause of his own...]. In Ovid, *Met.* VI, 499, Pandion says of his daughter: « Per Superos oro ..... Et mihi sollicitae lenimen dulce senectae Quamprimum (omnis erit nobis mora longa) remittas ».
 - [3] 21 Ut sibi causa suae reddatur nata salutis.
 - [4] 21 Ut sibi causa suae reddatur nata salutis.
 - [6] 21 ut sibi causa suae reddatur nata salutis.
@@ -683,7 +683,7 @@ this directory ([commentary.py](commentary.py)) from
 
 100 ut mihi quae coniunx dicor tua quaeque sororis
 - [2] 99 Ut mihi, quse conjux dicor tua , quaeque sororis
-  - *Ut mihi, quae conjux* [That to me, who am his wife...]. Similarly Juno in Virgil, *Aen.* I, 46: « Ast ego, quae Divum incedo regina, Jovisque Et soror et conjux ». — And with the same emphasis our eminent poet Racine, *Britann.* act I, sc. 2, v. 29: « Moi, fille, femme, soeur et mère de vos maîtres ». Ed.
+  - *Ut mihi, quae conjux* [That to me, who am your wife...]. Similarly Juno in Virgil, *Aen.* I, 46: « Ast ego, quae Divum incedo regina, Jovisque Et soror et conjux ». — And with the same emphasis our eminent poet Racine, *Britann.* act I, sc. 2, v. 29: « Moi, fille, femme, soeur et mère de vos maîtres ». Ed.
 - [3] 100 Ut mihi, quae coniunx dicor tua quaeque sororis
 - [4] 100 Ut mihi, quae conjunx dicor tua quaeque sororis
 - [6] 100 ut mihi, quae coniunx dicor tua quaeque sororis
@@ -1117,7 +1117,7 @@ this directory ([commentary.py](commentary.py)) from
 
 166 aspiretque libens operi per singula nostro.
 - [2] 165 Adspiretque libens operi per singula nostro.
-  - *Adspiretque libens operi* [And may she breathe favorably upon the work]. Virg. *Aen.* IX, 525: « Vos, o Calliope, precor, adspirate canenti ». Ovid, *Met.* I, 3: « Di coeptis ... adspirate meis ». — For the rest, this enumeration of the armies is practically customary for all epic poets since Homer. One should consult especially his happy imitator and rival, Virg. *Aen.* VII, 641; and among more recent poets, Torquato Tasso, *Gerus. lib.* c. I, st. 36. Ed.
+  - *Adspiretque libens operi* [And may he breathe favorably upon the work]. Virg. *Aen.* IX, 525: « Vos, o Calliope, precor, adspirate canenti ». Ovid, *Met.* I, 3: « Di coeptis ... adspirate meis ». — For the rest, this enumeration of the armies is practically customary for all epic poets since Homer. One should consult especially his happy imitator and rival, Virg. *Aen.* VII, 641; and among more recent poets, Torquato Tasso, *Gerus. lib.* c. I, st. 36. Ed.
 - [3] 166 Aspiretque libens operi per singula nostro.
 - [4] 166 Aspiretque libens operi per singula nostro.
 - [6] 166 aspiretque libens operi per singula nostro.
@@ -1579,7 +1579,7 @@ this directory ([commentary.py](commentary.py)) from
 
 235 Deiphobusque Helenusque simul fortisque Polites
 - [2] 234 Deiphobusque , Helenusque simul, fortisque Polites,
-  - … *Polites*, as in Homer, *Il.* II, 791 [or 701 in Wernsdorf's citation]: …
+  - … *Polites*, as in Homer, *Il.* II, 701 [791]: …
 - [3] 235 Deiphobusque Helenusque simul fortisque Polites,
 - [4] 235 Deiphobusque Helenusque simul fortisque Polites,
 - [6] 235 Deiphobusque Helenusque simul fortisque Polites,

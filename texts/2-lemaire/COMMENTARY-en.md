@@ -41,7 +41,7 @@ conjectures and the arguments for them are left out.
 
 - **(cont.)** (cont.) the author signifies in this passage regarding Chryses, perhaps having imitated Virgil, who says of Orpheus, *Georg.* IV, v. 464: « Ipse cava solans aegrum testudine amorem, Te dulcis conjux, te solo in litore secum, Te veniente die, te decedente canebat ». Homer did not touch upon the duration and perpetuity of the grief; on the contrary, he depicts Chryses walking alone on the shore; what Virgil expressed in Orpheus, our author omitted. Poets, and especially Virgil, are accustomed to describe light or life as hateful (*invisam*) to mourners, as in *Aen.* IV, 631, XII, 177.
 - **17** … Barth, *Advers.* LVIII, 14, asserts that these following five verses were written with remarkable talent and judgment, and admires their sweetness. …
-- **21** *Ut sibi caussa suae* [That to him as the cause of her own...]. In Ovid, *Met.* VI, 499, Pandion says of his daughter: « Per Superos oro ..... Et mihi sollicitae lenimen dulce senectae Quamprimum (omnis erit nobis mora longa) remittas ».
+- **21** *Ut sibi caussa suae* [That to him as the cause of his own...]. In Ovid, *Met.* VI, 499, Pandion says of his daughter: « Per Superos oro ..... Et mihi sollicitae lenimen dulce senectae Quamprimum (omnis erit nobis mora longa) remittas ».
 - **23** *Myrmidones*. Barth *loc. cit.* remarks, not circumspectly enough, that "Myrmidons" is used by this author for all Greeks, although Virgil uses Danai, Argives, Pelasgians for the same; but that this, because novel, cannot please; furthermore, that the case of the Myrmidons is different, since in their name they display an entirely peculiar tribal origin, to extend which to the rest gives the appearance of someone ignorant of history.
 - **26** … To the renowned P. Bondam this seems expressed from Ovid, *Heroid.* IV, 70: « Acer in extremis ossibus haesit amor », who also writes in *Metam.* III, 395: « Sed tamen haeret amor ». — *Damnosa libido* [ruinous lust] is from Horace, *Epist.* II, 1, 107.
 - **28** *Secat unguibus ora* [tears his face with nails]. Bondam thinks this is owed to Ovid, *Her.* V, 72: « Et secui madidas ungue rigente genas »; the same poet used the phrase *squalida ora*
@@ -95,7 +95,7 @@ conjectures and the arguments for them are left out.
 - **(cont.)** [the Greeks,] changing for the better, should render the due honor to her son.
 - **93 (LL 94)** … that is, I shall take care of this matter diligently and constantly. Homer, v. 523: ἐμοὶ δέ κε ταῦτα μελήσεται, ὄφρα τελέσσω. — Our author has reproduced Virgil, *Aeneid* IV, 115: « Mecum erit iste labor »; and he seems at the same time to have looked to the words of Jove to Venus in Virg. *Aen.* I, 256: « Parce metu, Cytherea: manent immota tuorum Fata tibi »; or what Aeolus says to Juno, *Aen.* I, 76: « tuus, o regina, quid optes, Explorare labor, mihi jussa capessere fas est ». The opposite to our author's words is that of Virgil, *Aen.* II, 595: « quonam nostri tibi cura recessit ».
 - **98 (LL 99)** … Propertius is cited by Anton de Rooy, book I, 18, 25: « At vos aequoreae formosa Doride natae, Candida felici solvite vela choro ». The daughters of Doris are the Oceanids, as they are called by Virgil, *Georg.* IV, 341. "Yet in this way," says Barth in *Adv.* p. 2753, "Juno foolishly calls Thetis by way of reproach, unmindful that she too is a daughter of Ocean, concerning whom Homer wrote in *Iliad*, book XXIII: Ὠκεανόν τε θεῶν γένεσιν καὶ μητέρα Τηθύν."
-- **99 (LL 100)** *Ut mihi, quae conjux* [That to me, who am his wife...]. Similarly Juno in Virgil, *Aen.* I, 46: « Ast ego, quae Divum incedo regina, Jovisque Et soror et conjux ». — And with the same emphasis our eminent poet Racine, *Britann.* act I, sc. 2, v. 29: « Moi, fille, femme, soeur et mère de vos maîtres ». Ed.
+- **99 (LL 100)** *Ut mihi, quae conjux* [That to me, who am your wife...]. Similarly Juno in Virgil, *Aen.* I, 46: « Ast ego, quae Divum incedo regina, Jovisque Et soror et conjux ». — And with the same emphasis our eminent poet Racine, *Britann.* act I, sc. 2, v. 29: « Moi, fille, femme, soeur et mère de vos maîtres ». Ed.
 
 ## p. 525
 
@@ -141,7 +141,7 @@ conjectures and the arguments for them are left out.
 - **155 (LL 156)** … the same has *aptare*. Virg. *Aen.* X, 258: « sociis edicit, signa sequantur, Atque animos aptent armis: pugnaeque parent se ».
 - **159 (LL 160)** … Verse 127 is repeated. …
 - **160 (LL 161)** *Quid enim non ordine nostis?* [For what do you not know in order?]. Similarly Maro, *Aen.* VII, 645, and IX, 529: « Et meministis enim, Divae, et memorare potestis ».
-- **165 (LL 166)** *Adspiretque libens operi* [And may she breathe favorably upon the work]. Virg. *Aen.* IX, 525: « Vos, o Calliope, precor, adspirate canenti ». Ovid, *Met.* I, 3: « Di coeptis ... adspirate meis ». — For the rest, this enumeration of the armies is practically customary for all epic poets since Homer. One should consult especially his happy imitator and rival, Virg. *Aen.* VII, 641; and among more recent poets, Torquato Tasso, *Gerus. lib.* c. I, st. 36. Ed.
+- **165 (LL 166)** *Adspiretque libens operi* [And may he breathe favorably upon the work]. Virg. *Aen.* IX, 525: « Vos, o Calliope, precor, adspirate canenti ». Ovid, *Met.* I, 3: « Di coeptis ... adspirate meis ». — For the rest, this enumeration of the armies is practically customary for all epic poets since Homer. One should consult especially his happy imitator and rival, Virg. *Aen.* VII, 641; and among more recent poets, Torquato Tasso, *Gerus. lib.* c. I, st. 36. Ed.
 - **166 (LL 167)** … because by Homer in the Boeotia [Catalogue of Ships], verse 1, Πηνέλεως καὶ Λήϊτος are joined together. From this name the copyists erroneously made the better-known *Laertius*, that is, Ulysses.
 
 ## p. 530
@@ -198,7 +198,7 @@ conjectures and the arguments for them are left out.
 ## p. 536
 
 - **231 (LL 232)** *Quales decet Hectoris esse* [Such as befit Hector's]. An Ovidian formula, *Met.* II, 14: « facies non omnibus una, Non diversa tamen: qualem decet esse sororum ». Barth *loc. cit.* judges that this and the following verses concerning Paris should be commended as outstanding, weighty, and briefly encompassing everything necessary.
-- **234 (LL 235)** … *Polites*, as in Homer, *Il.* II, 791 [or 701 in Wernsdorf's citation]: …
+- **234 (LL 235)** … *Polites*, as in Homer, *Il.* II, 701 [791]: …
 - **236 (LL 237)** *Acamasque* [and Acamas]. Hom. *Il.* II, 823; …
 - **238 (LL 239)** *Glaucus in armis* [Glaucus in arms]. Homer, at the end of *Il.* II, joins him with Sarpedon, leader of the Lycians, concerning whom our author writes below, v. 248.
 - **239 (LL 240)** I write *Amphiusque Adrastus* from Hom. *Il.* II, 830; and *Asius*, *ibid.* 838: … whom Homer joins with Hippothous from Larissa, *Il.* II, 842, and whom I have not seen mentioned by our author anywhere else. …
