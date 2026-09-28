@@ -100,7 +100,7 @@ PDF page 216.
 - Idomeneus et Meriones, Cretaeus uterque 208
 - Crethona 517:ディオクレースの子、ペライの人
 - Cygneidos(一部の写本では -dus)337:ヘレネー
-- Cythereā 309. 335. 470:ウェヌス
+- Cythereă 309. 335. 470:ウェヌス
 - Cythereius heros 895:アエネーアース
 - Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002. 呼格:57. -orum 12. -um(属格):19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025. -is 772. -os 45. 492. 659. 808. 912. 950. 1001. pro -is 544. Graeci を参照
 - Dardanides 826:ヘクトール。-dum . . . duces 743:トロイア人の。
@@ -131,7 +131,7 @@ PDF page 217.
 - *Ennomus 246:Chromius 1 を参照
 - caestibus . . . cunctos superavit *Epeos 1011
 - [Ephialtes] Pylaeus を参照
-- 1. Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo rubora belli 179
+- 1. Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo {{robora}} belli 179
 - 2. Epistrophus ingens 242:トロイア側のハリゾーネス人の将
 - Euboeae . . . finibus 200
 - Euhaemone natus 190:エウリュピュロス
@@ -177,7 +177,7 @@ PDF page 218.
 - Ignipotens 862. *-nte (omnipot- trad.) 106:ウルカーヌス
 - Iliaco . . . pulvere 323. -cos . . . campos 128. 160. acies . . . -cas 655
 - Iliades 549. -des matres 1052
-- Iliŏn 153. 1056. Troia を参照
+- Ilĭŏn 153. 1056. Troia を参照
 - impiger *Imbrasides (umbr- trad.) 378:ペイロオス
 - Iovis Iuppiter を参照
 - *Iphidamanta (amphi- trad.) 750:アンテーノールの子
@@ -319,7 +319,7 @@ PDF page 222.
 - Stheneli (-us trad.) . . . decus 184:カパネウスの子
 - Strophio genitum 431:スカマンドリオス
 - Stygias . . . ad umbras 431
-- ab Syme (Συμηθεν) 195 (assumptis trad.) ?
+- ab Syme (Σύμηθεν) 195 (assumptis trad.) ?
 - ad Tartara mittit 448
 - Telamone satus . . . Aiax 198. -one creatum 610. 624
 - Telamonius Aiax 205. 363. 602. 623. 787. 836

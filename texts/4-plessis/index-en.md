@@ -348,13 +348,13 @@ PDF page 160.
 - Cum Atrida: who persuaded you to contend with the savage son of Atreus? (Helen addresses Paris) 327.
 - MENESTHEUS, of a famous family, the Athenian, leads fifty ships 210–1.
 - MERIONES and Idomeneus, both Cretans, lead eighty ships 208; — slays Phereclus 432; — famous for his father's family, comes forward to the fight with the others 580–1; — beats everyone with the bow in the funeral games 1013.
-- MESTHLES among the auxiliaries of the Trojans 244.
+- {{MESTHLES}} among the auxiliaries of the Trojans 244.
 - MINERVA Minervae: Hecuba comes as a suppliant to the temple of Minerva 551.
 - Pallas nominative: the chaste one holds Achilles by the hand so that he may not make for Agamemnon with the sword 78; — the warlike one stands by Diomedes in battle 394; [ — the Tritonian is suddenly seen before Hector's eyes 936;] — transfers her favour to the Greeks 950.
 - vocative: be present, glorious one (the poet, his course run, prays to the goddess) 1069.
 - Palladis: the anger of chaste Pallas overcame Paris 333; the Trojan women go up to the temple of the unwed Pallas 548.
 - Cum Pallade: Mars fights with chaste Pallas 532; with chaste Pallas Juno gives strength to Achilles 894.
-- Tritonia: having put on the face and arms of Deiphobus, deceives Hector 947.  cf. Pallas.
+- Tritonia: having put on the face and arms of Deiphobus, deceives Hector 947.  Cf. Pallas.
 - sancta virago: the holy warrior-maiden wounds Mars 533.
 - Virgo armigera Virginis armigerae: the warnings and divinity of the armed Maiden 400; divinity 545.
 - MUSAE vocative 161.
@@ -371,7 +371,7 @@ PDF page 161.
 - NEPTUNIUS Neptunia Troja: Neptune's Troy 250.
 - NEPTUNUS supplies courage and strength to the Greeks 772.
 - NEREIDES Nereidas: the Vulcanian had made the Nereids on the shield of Achilles 873 [and 863 bis].
-- NEREIUS cf. Achilles.
+- NEREIUS Cf. Achilles.
 - NEREUS [the Vulcanian had made Nereus on the shield of Achilles 864]; — on the same, great 871.
 - NESTOR, faithful, of skilful heart and mighty in counsel, leads ninety ships to Troy with his sons 176–7.
 - Nestoris: the prudence of Nestor, with the skill of age, calms the crowd 144; — his age is praised 154; — his age receives Diomedes and Ulysses, who, Dolon having been slaughtered, return to the camp 737.
@@ -478,7 +478,7 @@ PDF page 163.
 - TARTARA ad Tartara: Diomedes sends Echemon to Tartarus 448.
 - TELAMO Telamone cf. Ajax son of Telamon.
 - TELAMONIUS cf. the same.
-- TENTHREDO Tenthredone cf. Prothous.
+- TENTHREDO Tenthredone cf. Prothous
 - TEUCER, standing under the shield of Ajax, drives the Trojans 670–1.
 - TEUCRI, name of the people, cf. Trojani.
 - THALPIUS, born in Elis, among the leaders of the Greeks 212.
@@ -529,7 +529,7 @@ PDF page 164.
 - Teucri: are routed 508.
 - In Teucros: Agamemnon rages against the Teucrians 424; Teucros: Achilles drives the Teucrians with his spear 903.
 - Troes: the Trojans press on, the Greeks flee 758; — advance with a tortoise formed 767; — rise up more fiercely 790; — hesitate from fear 928; — mourn their dead 978; — lament their wounds 1002.
-- Troum: may you wish to renew the strength of the Trojans for battle (Juno addresses Jupiter) 102; — Paris comes forward from the line of the Trojans 281; Menelaus seeks Paris in the line of the Trojans 339; — the bands of the Trojans fall 357; — Pandarus sees Diomedes laying low the bodies of the Trojans 438; — the terror of the Trojans, Achilles 585; — the bands of the Trojans and the Danaans withdraw 631; — Idaeus carries the Trojans' message to Agamemnon 641; — what the confidence of the Trojans is 701; — the columns of the Trojans groaned 963.
+- Troum: may you wish to renew the strength of the Trojans for battle (Juno addresses Jupiter) 102; — Paris comes forward from the line of the Trojans 281; — Menelaus seeks Paris in the line of the Trojans 339; — the bands of the Trojans fall 357; — Pandarus sees Diomedes laying low the bodies of the Trojans 438; — the terror of the Trojans, Achilles 585; — the bands of the Trojans and the Danaans withdraw 631; — Idaeus carries the Trojans' message to Agamemnon 641; — what the confidence of the Trojans is 701; — the columns of the Trojans groaned 963.
 - Troas: Patroclus, protected by the arms of Achilles, terrifies the Trojans, 807.
 - Troia pubes: the Trojan youth had sent Dolon to spy out the strength of the Greeks 704.
 - TROJANUS cf. Trojani, Apollo; salus Trojana: the safety of Troy 931; ad Trojana litora: to the Trojan shores 220.
@@ -538,7 +538,7 @@ PDF page 164.
 - TYDIDES cf. Diomedes.
 - ULIXES, known to all, carries Chryseis back to her country 65; — famous for his counsels, strikes Thersites with the sceptre 139; — the contriver of fraud kills seven young Trojans 527; — the contriver of fraud, when Hector challenges the leaders of the Greeks to arms, comes forward with the others 579; — catches sight of Dolon 707.
 - Ulixem: Diomedes chooses Ulysses as his companion 699.
-- Ithacus Ithaci: the skill of the Ithacan leads twelve ships to Troy 204.
+- {{Ithacus}} Ithaci: the skill of the Ithacan leads twelve ships to Troy 204.
 - Laertius: the son of Laertes beats Ajax in wrestling in the funeral games 1010.
 - VENUS snatches Paris from Menelaus 315; — Aeneas from Diomedes 464; — and Apollo raise the waves of Xanthus against the Greeks 911.
 - Veneris: the offspring of Venus, Aeneas 236 and 483; — Diomedes wounds the right hand of Venus 559; — the same violated her hand 584.

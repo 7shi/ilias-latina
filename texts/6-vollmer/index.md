@@ -97,7 +97,7 @@ PDF page 216.
 - Idomeneus et Meriones, Cretaeus uterque 208
 - Crethona 517: Dioclis f., Pheraeum
 - Cygneidos (-dus pars codd.) 337: Helenae
-- Cythereā 309. 335. 470: Venus
+- Cythereă 309. 335. 470: Venus
 - Cythereius heros 895: Aeneas
 - Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002. voc.: 57. -orum 12. -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025. -is 772. -os 45. 492. 659. 808. 912. 950. 1001. pro -is 544. v. Graeci
 - Dardanides 826: Hector. -dum . . . duces 743: Troum.
@@ -128,7 +128,7 @@ PDF page 217.
 - *Ennomus 246: v. Chromius 1
 - caestibus . . . cunctos superavit *Epeos 1011
 - [Ephialtes] v. Pylaeus
-- 1. Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo rubora belli 179
+- 1. Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo {{robora}} belli 179
 - 2. Epistrophus ingens 242: Halizonum dux a partibus Troum
 - Euboeae . . . finibus 200
 - Euhaemone natus 190: Eurypylus
@@ -174,7 +174,7 @@ PDF page 218.
 - Ignipotens 862. *-nte (omnipot- trad.) 106: Vulcanus
 - Iliaco . . . pulvere 323. -cos . . . campos 128. 160. acies . . . -cas 655
 - Iliades 549. -des matres 1052
-- Iliŏn 153. 1056. v. Troia
+- Ilĭŏn 153. 1056. v. Troia
 - impiger *Imbrasides (umbr- trad.) 378: Piros
 - Iovis v. Iuppiter
 - *Iphidamanta (amphi- trad.) 750: Antenoris f.
@@ -316,7 +316,7 @@ PDF page 222.
 - Stheneli (-us trad.) . . . decus 184: Capanei f.
 - Strophio genitum 431: Scamandrium
 - Stygias . . . ad umbras 431
-- ab Syme (Συμηθεν) 195 (assumptis trad.) ?
+- ab Syme (Σύμηθεν) 195 (assumptis trad.) ?
 - ad Tartara mittit 448
 - Telamone satus . . . Aiax 198. -one creatum 610. 624
 - Telamonius Aiax 205. 363. 602. 623. 787. 836

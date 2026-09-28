@@ -9,9 +9,8 @@ texts/README.md and src/README.md first.
    texts/4-plessis/INDEX.tsv and texts/6-vollmer/INDEX.tsv, the indexes
    of Plessis and Vollmer as tables of headword, verse, form and
    description (see the README of each; Lemaire and Baehrens have no
-   index).  The words of both index.md files are still to be compared
-   letter by letter with the page images (texts/PROOFREADING.md, Open
-   issues), in a separate session.
+   index).  Both index.md files have been compared letter by letter
+   with the page images (texts/PROOFREADING.md, step 8).
 2. Next the proper names in commentary/ are checked with them: each name in the translation and the commentary against
    the verse, the English form under the policy in commentary/README.md,
    and the same person or people called the same way throughout

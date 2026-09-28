@@ -105,6 +105,10 @@ header row and four columns:
   it is in the headword.  A remark after a colon (": Diomedes") stays
   with the phrase it follows.
 
+The one misprint of the index is corrected in double braces, in
+index.md, its translations and the row copied from it: "saevi duo
+{{robora}} belli" (Epistrophus 1, printed "rubora").
+
 The verses are Vollmer's own numbers.  They are those of The Latin
 Library except at 957 and 958, which he prints in the other order and
 numbers in his order: 958 is *saevus . . . Achilles*, where ilias.md,

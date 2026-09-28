@@ -101,6 +101,13 @@ header row and four columns:
   for the form last named, as in the index.  Brackets are closed within
   the row: [ ] marks a verse Plessis rejects, < > a supplement.
 
+The misprints of the index are corrected in double braces, in index.md
+and in the rows copied from it: {{Amphimachus}} (ELIS, printed
+"Amphimacus"), {{MESTHLES}} ("MESTHLFS"), {{naves}} (NESTOR, "navec"),
+{{Idomeneus}} (PHAESTUS, "Idemeneus") and {{Ithacus}} (ULIXES,
+"Itachus").  The headword column has MESTHLES without braces.  The
+translations keep the braces only where they quote the Latin.
+
 The verses are Plessis's own numbers.  They are those of The Latin
 Library except at 873 and 874, which he prints in the other order and
 numbers in his order: 873 is *Nereidas* and 874 *Tritones … Dorida*,
@@ -144,15 +151,13 @@ corrected by hand.
 All files in this directory ([preface.md](preface.md),
 [introduction.md](introduction.md), [ilias.md](ilias.md), and
 [index.md](index.md)) have been proofread and corrected against the page
-images of the scan, with two limits (see
-[PROOFREADING.md](../PROOFREADING.md), steps 5 and 6):
-
-- In the verses of ilias.md, the words not in the vocabulary of The
-  Latin Library were checked against the images, but a misreading that
-  makes another Latin word may be left.
-- In index.md, every verse number was checked against the images, but
-  the words, dashes and brackets have not been compared letter by
-  letter.
+images of the scan, with one limit (see
+[PROOFREADING.md](../PROOFREADING.md), steps 5, 6 and 8): in the
+verses of ilias.md, the words not in the vocabulary of The Latin
+Library were checked against the images, but a misreading that makes
+another Latin word may be left.  index.md has been compared letter by
+letter with the images, its verse numbers in step 5 and its words and
+punctuation in step 8.
 
 Misread letters, sigla (such as "IV" or "X" for N, "IVI" for M), numbers,
 Greek quotations, double bars (‖), and index entries have been verified

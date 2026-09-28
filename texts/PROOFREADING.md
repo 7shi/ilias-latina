@@ -160,15 +160,51 @@ text (Amaryncides 337 for 377, Doris 874 for 873, Phoebus 69 for 68,
 *Troica* at 645 where the text has *Troiae*); they are kept as
 printed and listed in the README.
 
+### 8. The words of both indexes against the page images (Claude Opus 5.5, 2026-09-28 – 09-29)
+
+Every page of both indexes was rendered from the PDF (Plessis at 400
+dpi, Vollmer at 600 dpi), cut into the two columns and each column into
+three parts, and read letter by letter against `index.md`: spellings,
+diacritics, italic remarks, dashes, brackets, asterisks and
+punctuation.  Where a mark was doubtful, the place was enlarged; to
+catch what the eye had passed over, the words of `index.md` were also
+aligned with the text layer of the PDF, and every place where only the
+punctuation differed was looked at in the image.  No verse number
+changed.
+
+- Plessis (pp. 87–98): a colon printed where `index.md` had a
+  semicolon after 205-6 (AJAX), 454 (AENEAS), 510 (AGAMEMNON), 532
+  (MINERVA), 556 (DIOMEDES) and 815 (HECTOR), and a comma after 820
+  (HECTOR); "ad loq." at 322 (MENELAUS); "Cf." at NEREIUS and after 947
+  (MINERVA); no period after TENTHREDO's "Prothous"; "amisso, planctu"
+  at 1016 (TROJA); the dash before "in agmine" after 281 (TROJANI).
+- Vollmer (pp. 56–65): *Cythereă* (for *Cythereā*), *Ilĭŏn* (for
+  *Iliŏn*) and *Σύμηθεν* (for *Συμηθεν*).
+- Misprints of the index are now corrected in double braces instead of
+  being kept as printed: Plessis's {{Amphimachus}}, {{MESTHLES}},
+  {{naves}}, {{Idomeneus}} and {{Ithacus}}, and Vollmer's {{robora}}
+  (restored as "rubora" in step 7); see the READMEs.  The dash printed
+  twice across a line break at PIROUS 378 is written once.
+- Left as they stand: a few marks after "inclusos", "hasta",
+  "interposito" and "interfecto" (Plessis) that may be periods or
+  commas with the tail worn away, kept as commas, and the misprinted
+  verse numbers of Vollmer's index listed in step 7.
+
+The corrections are carried into `index-en.md`, `index-ja.md` (where
+they quote the Latin or change the sense) and the description column
+of `INDEX.tsv`.  Each description was then looked up in `index.md`
+with the pages joined; those not found verbatim are the rows whose
+brackets are closed within the row, as the READMEs describe.
+
 ## Status
 
 | File | Proofread by | Translated by |
 |---|---|---|
 | `6-vollmer/ilias.md` | Claude (step 2) | Gemini |
-| `6-vollmer/preface.md`, `index.md` | Claude (step 2); the verse numbers of the index by Claude (step 7) | Claude |
+| `6-vollmer/preface.md`, `index.md` | Claude (step 2); the index against the images by Claude (steps 7 and 8) | Claude |
 | `3-baehrens/ilias.md` | Claude to p. 26, Gemini from p. 27 | Gemini |
 | `3-baehrens/preface.md` | Gemini | Claude |
-| `4-plessis/preface.md`, `index.md` | Gemini; the verse numbers of the index by Claude (step 5) | Claude |
+| `4-plessis/preface.md`, `index.md` | Gemini; the index against the images by Claude (steps 5 and 8) | Claude |
 | `4-plessis/introduction.md` | Gemini, corrected by Claude (`5a6d254`) | Claude |
 | `4-plessis/ilias.md` | Gemini; the Notes corrected by Claude (`830186d`), the verses by Claude (step 5) and Gemini (step 6) | Gemini |
 | `2-lemaire/prooemium.md`, `testimonia.md`, `excursus.md` | Gemini | Claude |
@@ -187,14 +223,6 @@ been checked against the images again.
   in step 6, but misreadings that make words of The Latin Library
   have not been looked for.  Of the other editions the same check has
   been run on Vollmer's verses only (step 7).
-- **Plessis's index** (`4-plessis/index.md`).  Its verse numbers were
-  all checked against the images in step 5, but the words, dashes and
-  brackets were not compared letter by letter; two errors in them were
-  found in passing (OLYMPUS, TROICUS), so more may be left.
-- **Vollmer's index** (`6-vollmer/index.md`).  Its verse numbers
-  were all checked against the images in step 7, and the words were
-  read on the way (one misprint restored), but they were not compared
-  letter by letter.
 
 ## Prompts
 
