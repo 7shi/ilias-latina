@@ -23,23 +23,33 @@ texts/README.md and src/README.md first.
 ### Checking the names
 
 Each section (commentary/NN/VVVV.md) is read verse by verse against the
-index rows of that verse in texts/COMMENTARY-en.md ("form (HEADWORD;
-headword-en): description" under [4] and [6]):
+rows of those verses in commentary/index.tsv (see commentary/README.md,
+Index), which gives the rows of the indexes as texts/COMMENTARY-en.md
+does, without the rest:
 
 1. **The person**: the one the translation and the commentary mean is
    the one the headword gives, above all for patronymics, epithets and
    periphrases (Atrides, Aeacides, *Priami filius*, *Pelopea iuventus*,
    Cytherea) and for homonyms (Acamas 1 and 2, Aiax Locrus and
    Telamonius).
-2. **The English name**: the form follows the policy in
-   commentary/README.md, and the same person or people is called the
-   same way throughout (e.g. *Myrmidones* for the Greeks at large, 23,
-   180).
+2. **The English name**: the name in the translation agrees with the
+   English headword of the row ("Ulysses", "Ajax", "Greeks"), follows
+   the policy in commentary/README.md, and the same person or people is
+   called the same way throughout (e.g. *Myrmidones* for the Greeks at
+   large, 23, 180).  Where the policy keeps a patronymic or a name as it
+   is (Atrides, Pelides, Cytherea) and the headword is the person
+   ("Agamemnon") or a gloss ("son of Peleus"), the translation keeps
+   the Latin and only the person is checked (1).  A difference is
+   reported with which side seems wrong: the translation, or the English
+   headword of INDEX-en.tsv (added by hand, following the translations).
 3. **The word**: the form the row cites is translated in its own verse,
    not moved to another.
 4. **The commentary**: what it says of the person (descent, people,
    who kills whom) agrees with the description.
 
+- index.tsv keeps the rows on readings that The Latin Library does not
+  have (151 *Pelasgi*, 195 *Nireus*) and the rows of a range at its
+  first verse; whether a row applies is judged here.
 - Where Plessis and Vollmer identify a person differently, both are
   listed without deciding between them.
 - A mechanical first pass is allowed (e.g. counting the verses with
@@ -52,7 +62,8 @@ headword-en): description" under [4] and [6]):
   and ilias.md (the page images as a last resort) and reported.  It is
   corrected in the data, not in a script: in double braces in index.md
   and index-{en,ja}.md, without braces in INDEX*.tsv, and then
-  `make commentary` in texts/.
+  `make commentary` in texts/; commentary/index.tsv is corrected by
+  hand in the same way.
 - The translations of the indexes are drafts, not yet reviewed: a
   description whose English differs from the Latin is reported, not
   corrected.

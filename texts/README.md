@@ -34,7 +34,9 @@ editions' `COMMENTARY-en.md`, `COMMENTARY-ja.md`, `INDEX-en.tsv` and
 `INDEX-ja.tsv`.
 [../commentary/notes.tsv](../commentary/notes.tsv) selects and adapts
 the English notes to the text of The Latin Library, as context for
-translating it (see [commentary/](../commentary/README.md)).
+translating it, and [../commentary/index.tsv](../commentary/index.tsv)
+gives the rows of the indexes verse by verse, for checking the names
+(see [commentary/](../commentary/README.md)).
 
 [iliad.md](iliad.md) lists the lines of the *Iliad* that Vollmer prints
 in the left margin of his text, as book.line, with his verses keyed to

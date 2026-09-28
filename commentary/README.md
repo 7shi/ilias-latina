@@ -125,3 +125,29 @@ editions' files change.
   do not always follow his own numbering (at 28 his "v. 1012", *arat
   unguibus ora*, is 1017, his 1022).  References to the *Iliad* and to
   other works are left as they are.
+
+## Index
+
+[index.tsv](index.tsv) gives, verse by verse, the rows of the indexes
+of Plessis and Vollmer (their `INDEX-en.tsv` in texts/), for checking
+the names of the translation and the commentary: whom a name,
+patronymic or periphrasis means, and how the editors describe the
+person.  It was made once from
+[texts/COMMENTARY-en.md](../texts/COMMENTARY-en.md), after the sections
+had been generated and checked, and is corrected by hand from then on;
+it is not rebuilt when the editions' files change.
+
+- Columns: `verse` (The Latin Library; "245a" a verse it does not
+  have), `edition` (4 Plessis, 6 Vollmer), `note`, in the order of
+  COMMENTARY-en.md: "form (HEADWORD; headword in English): description",
+  the form of the word in the edition's verse ("—" where the verse does
+  not have it), the headword in Latin and English, and the description
+  in English.
+- A row citing a range of verses is at the first of them, though the
+  word may be in a later one (184, *Tydides* in 185); a row citing
+  several verses is at each of them, but only at the first of
+  consecutive ones.  Cross-references, without a verse, are left out.
+- Unlike notes.tsv, all the rows are kept, including those on a reading
+  that The Latin Library does not have (151 *Pelasgi* for *Achiui*, 195
+  *Nireus* for *Teucer*): the forms are the editions', and whether a
+  row applies is judged in checking.
