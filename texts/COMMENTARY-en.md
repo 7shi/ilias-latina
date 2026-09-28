@@ -356,7 +356,7 @@ this directory ([commentary.py](commentary.py)) from
 50 cum Danaum proceres in coetum clarus Achilles
 - [2] 50 Tunc Danaum proceres in coetum clarus Achilles
 - [3] 50 Cum Danaum proceres in coetum clarus Achilles
-- [4] 50 Cum Danaum proceres in coctum clarus Acbilles
+- [4] 50 Cum Danaum proceres in coetum clarus Achilles
 - [6] 50 cum Danaum proceres in coetum clarus Achilles
 
 51 conuocat et causas hortatur pestis iniquae
@@ -466,7 +466,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 67 Atque iterum ad classes Danaum sua vela retorsit.
   - *Sua vela retorsit* [Turned back his sails]. Ovid, *Trist.* I, 1, 84: « Semper ab Euboicis vela retorquet aquis ».
 - [3] 67 Atque iterum ad Danaum classes sua uela retorsit.
-- [4] 67 Atque itorum ad Danaum classes sua vela retorsit.
+- [4] 67 Atque iterum ad Danaum classes sua vela retorsit.
 - [6] 67 atque iterum ad Danaum classes sua vela retorsit.
 
 68 Protinus infesti placantur numina Phoebi
@@ -478,7 +478,7 @@ this directory ([commentary.py](commentary.py)) from
 69 et prope consumptae uires redduntur Achiuis.
 - [2] 69 Et prope consumptae vires redduntur Achivis.
 - [3] —
-- [4] 69 below Et prope consumplae vires reddunlur Achivis
+- [4] 69 below Et prope consumptae vires redduntur Achivis
 - [6] 69 et prope consumptae vires redduntur Achivis.
 
 70 Non tamen Atridae Chryseidis excidit ardor:
@@ -515,7 +515,7 @@ this directory ([commentary.py](commentary.py)) from
 75 tendit in Atriden et, ni sibi reddat honestae
 - [2] 75 Tendit in Atriden , cui , ni sibi reddat honestae
 - [3] 74 Tendit in Atriden et, ni sibi reddat honestae
-- [4] 75 Tendit in Alriden et, ni sibi reddat honestae
+- [4] 75 Tendit in Atriden et, ni sibi reddat honestae
 - [6] 75 tendit in Atriden et, ni sibi reddat honestae
 
 76 munera militiae, letum crudele minatur,
@@ -542,7 +542,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 79 Turpem caecus amor famam liquisset in aevum
   - *Turpem caecus amor famam* [Blind love... shameful renown]. This does not seem to be said according to the mind of Homer and the customs of the ancient heroes, who by no means considered it shameful for themselves to be driven into arms by the madness of love on account of a girl. But he seems to have sought the reason for this saying from the words of Achilles, v. 298, in which he asserts—evidently having been warned by Pallas—that he indeed will not fight with his hands for the sake of the girl: Χερσὶ μὲν οὔτι ἔγωγε μαχήσομαι εἵνεκα κούρης.
 - [3] 78 Turpem caecus amor famam liquisset in aeuum
-- [4] 79 Turpcm caecus amor famam liquisset in aevum
+- [4] 79 Turpem caecus amor famam liquisset in aevum
 - [6] 79 turpem caecus amor famam liquisset in aevum
 
 80 gentibus Argolicis. Contempta uoce minisque
@@ -580,7 +580,7 @@ this directory ([commentary.py](commentary.py)) from
 84 castraque Myrmidonum iuxta petit et monet armis
 - [2] 84 Castraque Myrmidonum praetervolat, inde per auras
 - [3] 84 Castraque Myrmidonum iuxta petit et monet, armis
-- [4] 84 Castraque Myrmidonnm juxta pelit et monet, armis
+- [4] 84 Castraque Myrmidonum juxta petit et monet, armis
 - [6] 84 castraque Myrmidonum iuxta petit et monet, armis
 
 85 abstineat dextram ac congressibus; inde per auras
@@ -612,14 +612,14 @@ this directory ([commentary.py](commentary.py)) from
 89 numina, summe parens; ulciscere meque meumque
 - [2] 88 Numina , suiome parens : ulciscere meque meumque
 - [3] 89 Numina, summe parens! ulciscere meque meumque
-- [4] 89 Numina, summc parcns! ulciscere mequc meumque
+- [4] 89 Numina, summe parens! ulciscere meque meumque
 - [6] 89 numina, summe parens: ulciscere meque meumque
 
 90 corpus ab Atrida, quodsi permittitur illi
 - [2] 89 Corpus ab Atride : quod si permittitur illi ,
   - … As Barth notes *loc. cit.*, Thetis calls her son Achilles her *corpus* [body/flesh], and I consider this a novel expression by the author, not easily to be found in other poets; for it is common for children to be called the *viscera* [entrails/flesh] or *sanguis* [blood] of their parents.
 - [3] 90 Pignus ab Atrida. quodsi permittitur illi,
-- [4] 90 Pignus ab Alrida; quodsi permittitur illi,
+- [4] 90 Pignus ab Atrida; quodsi permittitur illi,
 - [6] 90 pignus ab Atrida. quodsi permittitur illi,
 
 91 ut flammas impune mei uiolarit Achillis,
@@ -843,7 +843,7 @@ this directory ([commentary.py](commentary.py)) from
 124 "Rex Danaum, Atrida, uigila et mandata Tonantis
 - [2] 123 «RexDanaum, Atrida, vigila, et mandata Tonantis,
 - [3] 124 'Rex Danaum Atride, uigila et mandata Tonantis,
-- [4] 124 « Rex Danaum Atride, vigila et mandata Tonanlis,
+- [4] 124 « Rex Danaum Atride, vigila et mandata Tonantis,
 - [6] 124 'rex Danaum Atrida, vigila et mandata Tonantis,
 
 125 quae tibi iussa simul delatus ab aethere porto,
@@ -1094,7 +1094,7 @@ this directory ([commentary.py](commentary.py)) from
 162 nomina clara ducum clarosque referte parentes
 - [2] 161 Nomina clara ducum clarosque referte parentes,
 - [3] 162 Nomina clara ducum clarosque referte parentes
-- [4] 162 JXomina clara ducum clarosque referte parentes
+- [4] 162 Nomina clara ducum clarosque referte parentes
 - [6] 162 nomina clara ducum clarosque referte parentes
 
 163 et dulces patrias: nam sunt haec munera uestra.
@@ -1133,7 +1133,7 @@ this directory ([commentary.py](commentary.py)) from
 168 Arcesilaus atrox Prothoenorque Cloniusque
 - [2] 167 Arcesilaus atrox, Prothoenorque, Cloniusque
 - [3] 168 Arcesilaus atrox Prothoenorque Cloniusque
-- [4] 168 Arcesilaus atrox Prothoenorque Gloniusquc
+- [4] 168 Arcesilaus atrox Prothoenorque Cloniusque
 - [6] 168 Arcesilaus atrox Prothoënorque Cloniusque
 
 169 Boeoti decies quinas egere carinas
@@ -1147,7 +1147,7 @@ this directory ([commentary.py](commentary.py)) from
 170 et tumidos ualido pulsarunt remige fluctus.
 - [2] 169 Et tumidos valido pulsarunt remige fluctus.
 - [3] 170 Et tumidos ualido pulsarunt remige fluctus.
-- [4] 170 Et lumidos valido pulsarunt remige fluctus.
+- [4] 170 Et tumidos valido pulsarunt remige fluctus.
 - [6] 170 et tumidos valido pulsarunt remige fluctus.
 
 171 Inde Mycenaeis Agamemnon moenibus ortus,
@@ -1165,7 +1165,7 @@ this directory ([commentary.py](commentary.py)) from
 173 centum egit plenas armato milite puppes;
 - [2] 172 Centum egit plenas armato milite puppes :
 - [3] 173 Centum egit plenas armato milite puppes.
-- [4] 173 Gentum egit plenas armato milite puppes.
+- [4] 173 Centum egit plenas armato milite puppes.
 - [6] 173 centum egit plenas armato milite puppes.
 
 174 et bis tricenis Menelai nauibus ardor
@@ -1226,7 +1226,7 @@ this directory ([commentary.py](commentary.py)) from
   - … But that one must read *Polypoetes atque Leonteus*
   - **(cont.)** [that one must read Polypoetes atque Leonteus] is clear from Homer, *Iliad* II, 740 and 745. …
 - [3] 182 Et bis uicenas Polypoetes atque Leonteus
-- [4] 182 Et bis vicenas Polypoeles atque Leonteus
+- [4] 182 Et bis vicenas Polypoetes atque Leonteus
 - [6] 182 et bis vicenas Polypoetes atque Leonteus
 
 183 instruxere rates ornatas milite forti.
@@ -1287,7 +1287,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 190 Quos juxta Graium ductor comitatur Achilles ,
   - Barth, *Advers.* p. 2754, explains *Graium ductor* [leader of the Greeks] as preeminent in war, supreme in bravery. …
 - [3] 191 Quos iuxta Graium murus comitatur Achilles,
-- [4] 191 Quosjuxta Danaum murus comitatur Achilles,
+- [4] 191 Quos juxta Danaum murus comitatur Achilles,
 - [6] 191 quos iuxta Graium durus comitator Achilles
 
 192 cum quinquaginta materna per aequora uectus.
@@ -1689,7 +1689,7 @@ this directory ([commentary.py](commentary.py)) from
   - … Homer does not name this Coroebus, but Virgil calls him the son of Mygdon, and relates that he came to the aid of the Trojans and was killed by Peneleus, *Aen.* II, 341 and 425. Quintus Smyrnaeus (*Calaber*), XIII, 168 seqq., has him slain by Diomedes. In contrast, Homer names Pylaemenes, leader of the Paphlagonians, among the allies of the Trojans, whom our author, unless I am mistaken, has omitted. For more on Coroebus, see the notes by the distinguished C. G. Heyne, Excursus X to *Aen.* II. — Another Coroebus is mentioned by Statius, *Theb.* I, 650. Ed.
 - [3] 249 Sarpedon claraque satus tellure Pylaemen.
   - … Coroebus … but neither is this man mentioned by Homer, and Pylaemenes now remains alone unnamed; the scribes imported that one from Virgil; …
-- [4] 249 Sarpodon claraque satus tellure Coroebus.
+- [4] 249 Sarpedon claraque satus tellure Coroebus.
   - Coroebus … (cf. Aen. II, 342); …
 - [6] 249 Sarpedon claraque satus tellure Coroebus.
 
@@ -1697,7 +1697,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 249 His se defendit ducibus Meptunia Troja,
   - *Neptunia Troja* [Neptunian Troy]: from Virgil's *Aen.* II, 625, and III, 3.
 - [3] 250 His se defendit ducibus Neptunia Troia,
-- [4] 250 His se defendit dncibus Neptunia Troja,
+- [4] 250 His se defendit ducibus Neptunia Troja,
 - [6] 250 his se defendit ducibus Neptunia Troia,
 
 251 uicissetque dolos Danaum, ni fata fuissent.
@@ -1843,7 +1843,7 @@ this directory ([commentary.py](commentary.py)) from
 271 Dixit. Quem contra paucis Priameius heros:
 - [2] 271 Dixit, quae contra paucis Priameias heros,
 - [3] 271 Dixit. quem contra paucis Priameius heros
-- [4] 271 Dixit ; quem contra paucis Priamcius heros
+- [4] 271 Dixit ; quem contra paucis Priameius heros
 - [6] 271 dixit. quem contra paucis Priameius heros
 
 272 "Quid nimis indignis" - inquit - "me uocibus urges,
@@ -2130,7 +2130,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 315 In ciadem Phrygii; sua quem Yenus eripit hosti,
   - *Sua quem Venus* [Whom his own Venus...]. For Alexander was her devoted worshipper, whence he called her *sua* [his own]. So he says in v. 877 that its own deities were added to the sea: « Addideratque freto sua numina, Nerea magnum ». Moreover, Venus herself commends Paris, devoted to her, to Helen in Homer, after she rescued him from the hands of Menelaus. Barth, Adv. LIX, 1. That the pronoun *suus* often signifies favorable, appropriate, and advantageous escapes no one versed in the reading of Roman writers, so that it is superfluous to demonstrate this with more examples. Horace, Epod. 9, 30: « Cretam ventis iturus non suis ».
 - [3] 315 In cladem Phrygii, sua quem Uenus eripit hosti
-- [4] 315 In cladem Phrygii, sua quem Yenus eripit hosti
+- [4] 315 In cladem Phrygii, sua quem Venus eripit hosti
 - [6] 315 in cladem Phrygii, sua quem Venus eripit hosti
 
 316 et secum in thalamos defert testudine cultos.
@@ -2176,7 +2176,7 @@ this directory ([commentary.py](commentary.py)) from
 322 arreptum cum te traheret uiolentus Atrides
 - [2] 322 Arreptum quum te tralieret violientus Atrides,
 - [3] 322 Arreptum cum te traheret uiolentus Atrides
-- [4] 322 Arreptum cum te traheret violentus Alrides
+- [4] 322 Arreptum cum te traheret violentus Atrides
 - [6] 322 arreptum cum te traheret violentus Atrides
 
 323 Iliacoque tuos foedaret puluere crines.
@@ -2265,39 +2265,39 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 336 Post haec ampiexu per mutua corpora juncto
   - … There is no doubt that in these verses the writer looked to the well-known passage of Maro, *Aeneid* VIII, 405: « Optatos dedit amplexus, placidumque petivit Conjugis infusus gremio per membra soporem ».
 - [3] 336 Post haec amplexu per mutua corpora iuncto
-- [4] 336 Post hacc amplexu pcr mutua corpora juncto
+- [4] 336 Post haec amplexu per mutua corpora juncto
 - [6] 336 post haec amplexus per mutua corpora iunctis
 
 337 incubuit membris Cygneidos; illa soluto
 - [2] 337 Incubuit membris Cygneidos; illa soluto
   - … Now Helen is called *Cygneis* because she was believed to be the daughter of Jove transformed into a swan; I do not know whether any other poet has used that name, although the Tyndarid [Helen] is called « cygneo edita Tyndaris ovo » by Virgil, *Eleg. ad Messal.* 27, and Helen herself says in Ovid, *Her.* XVII, 55: « Dat mihi Leda Jovem, cygno decepta, parentem ».
 - [3] 337 Incubuit membris Cygneidos; illa soluto
-- [4] 337 Incubuit membris Cygncidos; illa soluto
+- [4] 337 Incubuit membris Cygneidos; illa soluto
 - [6] 337 incubuit membris Cygneidos; illa soluto
 
 338 accepit flammas gremio Troiaeque suasque.
 - [2] 338 Accepit flammas gremio Trojaeque, suasque.
   - *Flammas Trojaeque suasque* [Both Troy's flames and her own]. Witty regarding Paris, whose love for Helen was destined to be the ruin of Troy. This expression also seems to rely on that passage of Paris's letter in Ovid, *Heroides* XVI, 45 sq., where Paris interprets the dream of his mother—who before the day of giving birth had seemed to bring forth a burning torch—as referring to the ardour of his own passion that was fatal to Troy: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei ».
 - [3] 338 Accepit flammas gremio Troiaeque suasque.
-- [4] 338 Accepit flammas gremio Trojaeque suasquc.
+- [4] 338 Accepit flammas gremio Trojaeque suasque.
 - [6] 338 accepit flammas gremio Troiaeque suasque.
 
 339 Interea toto Menelaus in agmine Troum
 - [2] 339 Interea toto Meneiaus in agmine Troum
 - [3] 339 Interea toto Menelaus in agmine Troum
-- [4] 339 Interea toto Menelaus in agminc Troum
+- [4] 339 Interea toto Menelaus in agmine Troum
 - [6] 339 interea toto Menelaus in agmine Troum
 
 340 quaerit Alexandrum uictorque huc fertur et illuc.
 - [2] 340 Quaerit Alexandrum, victorque huc fertur et illuc.
 - [3] 340 Quaerit Alexandrum uictorque huc fertur et illuc.
-- [4] 340 Quaerit Alexandrum victorque huc fcrtur et illuc.
+- [4] 340 Quaerit Alexandrum victorque huc fertur et illuc.
 - [6] 340 quaerit Alexandrum victorque huc fertur et illuc.
 
 341 Quem frater socias acuens in bella cateruas
 - [2] 341 Quem frater socias acuens in bella catervas
 - [3] 341 Quem frater socias acuens in bella cateruas
-- [4] 341 Qucm frater socias acuens in bella catervas
+- [4] 341 Quem frater socias acuens in bella catervas
 - [6] 341 quem frater socias acuens in bella catervas
 
 342 adiuuat et forti pulsos Phrygas increpat ore
@@ -2319,13 +2319,13 @@ this directory ([commentary.py](commentary.py)) from
   - *Certamen haberent* [should hold a contest]. The phrase
   - **(cont.)** [The phrase] does not seem worthy enough of poetic style, and what occurs in the following verse, *concilium habuit* [held a council], is an unpleasant repetition. Nor does it seem sufficiently defended by the verse of Naso [Ovid], *Met.* XIII, 159: « Ergo operum quoniam nudum certamen habetur ».
 - [3] 344 Cumque inter sese proceres certamen haberent,
-- [4] 344 Cumquo inter sese proceres certamen haberent,
+- [4] 344 Cumque inter sese proceres certamen haberent,
 - [6] 344 dumque inter sese proceres certamen haberent,
 
 345 concilium omnipotens habuit regnator Olympi
 - [2] 345 Conriiium omnipotens liabuit regnator Olympi;
 - [3] 345 Concilium omnipotens habuit regnator Olympi,
-- [4] 345 Concilium omnipotens habuit regnalor Olympi,
+- [4] 345 Concilium omnipotens habuit regnator Olympi,
 - [6] 345 concilium omnipotens habuit regnator Olympi
 
 346 foederaque intento turbauit Pandarus arcu,
@@ -2569,7 +2569,7 @@ this directory ([commentary.py](commentary.py)) from
 380 desuper hasta uenit dextra librata Thoantis
 - [2] 380 Desuper hasta venit dextra vibrata Thoantis,
 - [3] 380 Desuper hasta uenit dextra librata Thoantis,
-- [4] 380 Desuper hasta venit dextra librata Thoanlis,
+- [4] 380 Desuper hasta venit dextra librata Thoantis,
 - [6] 380 desuper hasta venit dextra librata Thoantis
 
 381 perque uiri scapulas animosaque pectora transit;
@@ -2614,7 +2614,7 @@ this directory ([commentary.py](commentary.py)) from
 387 et modo Troianis uirtus, modo crescit Achiuis
 - [2] 387 Et modoTrojanis virtus, modo crescit Achivis ,
 - [3] 387 Et modo Troianis uirtus, modo crescit Achiuis,
-- [4] 387 Et modo Trojanis virtus, modo crescit Acbivis,
+- [4] 387 Et modo Trojanis virtus, modo crescit Achivis,
 - [6] 387 et modo Troianis, modo virtus crescit Achivis
 
 388 laetaque per uarios petitur uictoria casus.
@@ -2731,7 +2731,7 @@ this directory ([commentary.py](commentary.py)) from
 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
 - [2] 405 Phegeum Idaeumque simul, quem cuspide praeceps
 - [3] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
-- [4] 405 Phegeaqueldaeumque simul; quem cuspide Phegeus
+- [4] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
   - Phegeaque … (Iliad V, 9 ff.). …
 - [6] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
 
@@ -2913,14 +2913,14 @@ this directory ([commentary.py](commentary.py)) from
 433 Pedaeumque Meges. Tum uastis horridus armis
 - [2] 433 Pedaeumque Meges , vastisque horrendus in armis
 - [3] 433 Pedaeumque Meges; tum uastis horridus armis
-- [4] 433 Pedaeuinque Meges ; tum vastis horridus armis
+- [4] 433 Pedaeumque Meges ; tum vastis horridus armis
 - [6] 433 Pedaeumque Meges; tum vastis horridus armis
 
 434 Eurypylus gladio uenientem Hypsenora fundit
 - [2] 434 Eurypyius gladio venieutem Hypsenora fundit,
   - I have written *Hypsenora*, as Bondam also advised, p. 158, from Homer's *Iliad* V, 76. …
 - [3] 434 Eurypylus gladio metuentem Hypsenora fundit
-- [4] 434 Eurypylus gladio venientem llypsenora fnndit
+- [4] 434 Eurypylus gladio venientem Hypsenora fundit
   - … Hypsenora … (Iliad V, 76 ff.).
 - [6] 434 Eurypylus gladio venientem Hypsenora fundit
 
@@ -3109,7 +3109,7 @@ this directory ([commentary.py](commentary.py)) from
 464 quem Venus aetherias genetrix delapsa per auras
 - [2] 464 Quem Yenus aethereas genitrix delapsa per auras
 - [3] 464 Quem Uenus aethereas genetrix delapsa per auras
-- [4] 464 Quem Yenus aelhereas genetrix delapsa per auras
+- [4] 464 Quem Venus aethereas genetrix delapsa per auras
 - [6] 464 quem Venus aethereas genetrix delapsa per auras
 
 465 accipit et nigra corpus caligine condit.
@@ -3123,7 +3123,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 466 Non tulit OEnidesanimo, nebulasque per ipsas
   - … Barth, *Adv.* p. 2770 end, judges that the following verses are to be praised as most elegant.
 - [3] 466 Non tulit Oenides animis nebulasque per ipsas
-- [4] 466 Non tulil Oenides animis nebulasque per ipsas
+- [4] 466 Non tulit Oenides animis nebulasque per ipsas
 - [6] 466 non tulit Oenides animis nebulasque per ipsas
   - … animis … cf. Virgil, Aen. 8, 256 …
 
@@ -3131,7 +3131,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 467 Fertur, etin Venerem flagrantibus irruit armis,
   - *Flagrantibus armis* [With blazing arms]. See the note to verse 394.
 - [3] 467 Fertur et in Uenerem flagrantibus irruit armis
-- [4] 467 Fertur et in Yenerem tlagrantibus irruit armis
+- [4] 467 Fertur et in Venerem flagrantibus irruit armis
 - [6] 467 fertur et in Venerem flagrantibus irruit armis
 
 468 et neque quem demens ferro petat inspicit aruis
@@ -3452,14 +3452,14 @@ this directory ([commentary.py](commentary.py)) from
 516 Ingemit Aeneas curruque animosus ab alto
 - [2] 516 Ingemit Aeneas, curruque animosus ab alto
 - [3] 516 Ingemit Aeneas curruque animosus ab alto
-- [4] 516 Ingemit Acneas curruque animosus ab alto
+- [4] 516 Ingemit Aeneas curruque animosus ab alto
 - [6] 516 ingemit Aeneas curruque animosus ab alto
 
 517 desilit et ualido Crethona<que> comminus ictu
 - [2] 517 Desilit, et valido Crethonem cominus ictu
   - … From Hom. *Il.* V, 542, one should read *Crethona*, but since the metrical scansion rejected this, I restored the Latin case form *Crethonem*.
 - [3] 517 Desilit et ualido Crethonaque cominus ictu
-- [4] 517 Desilit et valido Cretlionaqne coniinus ictn
+- [4] 517 Desilit et valido Crethonaque cominus ictu
   - Crethona … (Iliad V, 541 ff.).
 - [6] 517 desilit et valido Crethona\<que> comminus ictu
 
@@ -3688,7 +3688,7 @@ this directory ([commentary.py](commentary.py)) from
 551 Dumque preces Hecube supplex ad templa Mineruae
 - [2] 551 Duroque preces Hecube supplex ad templa Minervae
 - [3] 551 Dumque preces Hecube supplex ad templa Mineruae
-- [4] 551 Dumque preces Hecuhe supplex ad templa Minervae
+- [4] 551 Dumque preces Hecube supplex ad templa Minervae
 - [6] 551 dumque preces Hecabe supplex ad templa Minervae
 
 552 pro caris genetrix natis et coniuge fundit,
@@ -3780,7 +3780,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 565 Hectoris Andromache, parvumque ad pectora natum
   - *Ad pectora natum tenet* [holds her son to her breast]. Virg. *Aen.* VII, 318: « Et trepidae matres pressere ad pectora natos ».
 - [3] 565 Hectoris Andromache paruumque ad pectora natum
-- [4] 565 Hcctoris Andromaehc parvumque ad pectora natum
+- [4] 565 Hectoris Andromache parvumque ad pectora natum
 - [6] 565 Hectoris Andromache parvumque a pectore natum
 
 566 Astyanacta tenet, cuius dum maximus heros
@@ -4152,14 +4152,14 @@ this directory ([commentary.py](commentary.py)) from
 623 At contra se ferre parat Telamonius Aiax:
 - [2] 625 ContrahaBC dicta referre paratTelamoniusAjax:
 - [3] 623 At contra referre parat Telamonius Aiax
-- [4] 623 below At eontra referre parat Telamonius Ajax :
+- [4] 623 below At contra referre parat Telamonius Ajax :
 - [6] 623 at contra se ferre parat Telamonius Aiax:
   - … cf. Virgil, Aen. 5, 372
 
 624 "Hesiona de matre uides Telamone creatum,
 - [2] 626 «Hesiona de matre vides Telamone creatum,
 - [3] 624 'Hesione de matre uides Telamone creatum;
-- [4] 624 below « Hesione de malre vides Telamone creatum;
+- [4] 624 below « Hesione de matre vides Telamone creatum;
 - [6] 624 'Hesiona de matre vides Telamone creatum,
 
 625 nobilis est domus et fama generosa propago."
@@ -4420,7 +4420,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 667 Princeps Tydides ardentibus emicat armis,
   - *Ardentibus armis*, as above, v. 394, he said *flagrantia arma*. Ed.
 - [3] 665 Princeps Tydides ardentibus emicat armis,
-- [4] 665 Princops Tydidcs ardentibus emicat armis,
+- [4] 665 Princeps Tydides ardentibus emicat armis,
 - [6] 665 princeps Tydides ardentibus emicat armis
 
 666 per medios hostes immani pondere fertur.
@@ -4473,14 +4473,14 @@ this directory ([commentary.py](commentary.py)) from
 673 mox alias acies petit aurigamque superbi
 - [2] 675 Mox alias acies petit, aurigamque superbi
 - [3] 673 Mox alias acies petit aurigamque superbi
-- [4] 673 Mox alias acies petit aurigamque superhi
+- [4] 673 Mox alias acies petit aurigamque superbi
 - [6] 673 mox alias acies petit aurigamque superbi
 
 674 Hectoris obtruncat, quem saxo Troius heros
 - [2] 676 Hectoris obtruncat, quem saxo Troius heros
   - *Quem*, namely Teucer. Ed.
 - [3] 674 Hectoris obtruncat. quem saxo Troius heros
-- [4] 674 Ilectoris obtruncat. Quem saxo Troius lieros
+- [4] 674 Hectoris obtruncat. Quem saxo Troius heros
 - [6] 674 Hectoris obtruncat. quem saxo Troius heros
 
 675 occupat excussoque incautum proterit arcu.
@@ -4584,7 +4584,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 692 Ut ferat auxilium miseris. Thetideius heros
   - … Dussen, page 36, saw that *Thetideius*, namely the son of Thetis, should be read, and that is correctly placed in other passages of our author, as in vv. 897, 943, and 962. …
 - [3] 690 Ut ferat auxilium miseris. Thetideius heros
-- [4] 690 Ut ferat auxilium miseris. Thelideius heros
+- [4] 690 Ut ferat auxilium miseris. Thetideius heros
 - [6] 690 ut ferat auxilium miseris. Thetideius heros
 
 691 nec Danaum capit aure preces nec munera regis
@@ -4728,14 +4728,14 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 714 Post ubi transierat fidens animoque mauuque,
   - *Fidens animo* [confident in spirit], a Virgilian expression, *Aen.* II, 61.
 - [3] 712 Post ubi transierat fidens animoque manuque,
-- [4] 712 Post ubi transierat Pidens animoqne manuque,
+- [4] 712 Post ubi transierat Fidens animoque manuque,
 - [6] 712 post ubi transierat fidens animoque manuque,
   - fidens … cf. Virgil, Aen. 2, 61
 
 713 prosiluere uiri iuuenemque euadere cursu
 - [2] 715 Prosiluere viri, juveuemque evadere cursu
 - [3] 713 Prosiluere uiri iuuenemque euadere cursu
-- [4] 713 Prosiluere viri juvenemqne evadere cursu
+- [4] 713 Prosiluere viri juvenemque evadere cursu
 - [6] 713 prosiluere viri iuvenemque evadere cursu
 
 714 conantem capiunt ferroque manuque minantur.
@@ -4747,7 +4747,7 @@ this directory ([commentary.py](commentary.py)) from
 715 Ille timore pauens: "Vitam concedite" - dixit -,
 - [2] 717 Ille timore pavens, ccYitam concedite, dixit,
 - [3] 715 Ille timore pauens 'uitam concedite' dixit:
-- [4] 715 Ille, timore pavens, « Yitam concedite » dixit
+- [4] 715 Ille, timore pavens, « Vitam concedite » dixit
 - [6] 715 ille timore pavens 'vitam concedite' dixit,
 
 716 "hoc unum satis est; quodsi perstatis in ira,
@@ -4798,7 +4798,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 725 Per mare, per Ditis fluctus obtestor opaci,
   - *Per Ditis fluctus* [by the waves of Dis], by the Styx, or by the infernal rivers, as Jupiter swears in Ovid, *Met.* I, 187. Virgil says *Lacus Ditis opacos* in *Culex* 371. This is a formula of entreaty, like the oath in Ovid, *Trist.* II, 53: « Per mare, per terras, per tertia numina juro ».
 - [3] 723 Per mare, per Ditis fluctus obtestor opaci,
-- [4] 723 Per mare, per Ditis fluctus obteslor opaci,
+- [4] 723 Per mare, per Ditis fluctus obtestor opaci,
 - [6] 723 per mare, per Ditis fluctus obtestor opaci,
 
 724 ne rapere hanc animam crudeli caede uelitis.
@@ -4973,7 +4973,7 @@ this directory ([commentary.py](commentary.py)) from
 - [2] 751 Antiphonem iagenti prostratum vulnere fundit,
   - … In Homer, *Il.* XI, 101, I read that Antiphus and Isus, sons of Priam, were slain by Agamemnon. Whether our Homerist intended to name him or another, I still doubt. …
 - [3] 748 Antiphon ingenti prostratum uulnere fudit
-- [4] 748 Antipbon ingenti prostratum vulnere fudit
+- [4] 748 Antiphon ingenti prostratum vulnere fudit
 - [6] 748 Antiphon ingenti prostratum vulnere fudit
 
 749 Pisandrumque simul fratremque ad bella ruentem

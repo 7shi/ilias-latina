@@ -379,11 +379,11 @@ PDF page 161.
 - OENIDES cf. Diomedes.
 - OILEUS cf. Ajax, Oilei f.
 - OLYMPUS Olympi regnator (Juppiter) 345.
-- Olympo emenso decedit sol 108; [107].
+- Olympo emenso decedit sol 108; [— 107].
 - ORSILOCHUS Orsilochum Aeneas caedit 518.
 - PAEONIUS Paeoniis herbis Podalirius Menelaum curat 351.
 - PALLAS cf. Minerva.
-- PANDARUS Lycaonis proles generosa inter Trojanorum auxilia 238-9; — arcu turbat foedera 340; — in agmine volitat 436.
+- PANDARUS Lycaonis proles generosa inter Trojanorum auxilia 238-9; — arcu turbat foedera 346; — in agmine volitat 436.
 - Pandare, occidis Diomedis manu 449.
 - PAPHLAGONES Paphlagonum dux cf. Pylaemen.
 - PARIS nominativ. belli causa, patriae funesta ruina, arma, cum ceteris Trojanorum ducibus, capit 234; — Trojae exitium funestaque flamma, armatum Menelaum cernit 253; — una cum Hectore acies petit 576; — hostiles turmas prosternit 756.
@@ -501,7 +501,7 @@ PDF page 163.
 - TRITONES Tritones feros fecerat Vulcanius in clipeo 874.
 - TRITONIA cf. Minerva.
 - TROES cf. Trojani.
-- TROICUS Troica dextra (Hectoris manus) 819; ad Troica castra 644-5.
+- TROICUS Troica dextera (Hectoris manus) 819; ad Troica castra 644-5.
 - TROIUS cf. Hector; Troia pubes cf. Trojani.
 - TROJA Neptunia his ducibus (quos noster jam enumeravit) se defendit 250; — maxima currum Achillis Doloni promiserat 719; — quid pararet 727; — Hectore amisso planctu sonat 1016.
 - Trojae exitium (Paris) 253; flammas — suasque gremio Helena accipit (scilicet Paridem) 338.

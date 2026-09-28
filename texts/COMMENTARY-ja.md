@@ -338,7 +338,7 @@
 50 cum Danaum proceres in coetum clarus Achilles
 - [2] 50 Tunc Danaum proceres in coetum clarus Achilles
 - [3] 50 Cum Danaum proceres in coetum clarus Achilles
-- [4] 50 Cum Danaum proceres in coctum clarus Acbilles
+- [4] 50 Cum Danaum proceres in coetum clarus Achilles
 - [6] 50 cum Danaum proceres in coetum clarus Achilles
 
 51 conuocat et causas hortatur pestis iniquae
@@ -448,7 +448,7 @@
 - [2] 67 Atque iterum ad classes Danaum sua vela retorsit.
   - *Sua vela retorsit*（その帆を折り返した）。Ovid. Trist. I, 1, 84: « Semper ab Euboicis vela retorquet aquis »。
 - [3] 67 Atque iterum ad Danaum classes sua uela retorsit.
-- [4] 67 Atque itorum ad Danaum classes sua vela retorsit.
+- [4] 67 Atque iterum ad Danaum classes sua vela retorsit.
 - [6] 67 atque iterum ad Danaum classes sua vela retorsit.
 
 68 Protinus infesti placantur numina Phoebi
@@ -460,7 +460,7 @@
 69 et prope consumptae uires redduntur Achiuis.
 - [2] 69 Et prope consumptae vires redduntur Achivis.
 - [3] —
-- [4] 69 below Et prope consumplae vires reddunlur Achivis
+- [4] 69 below Et prope consumptae vires redduntur Achivis
 - [6] 69 et prope consumptae vires redduntur Achivis.
 
 70 Non tamen Atridae Chryseidis excidit ardor:
@@ -497,7 +497,7 @@
 75 tendit in Atriden et, ni sibi reddat honestae
 - [2] 75 Tendit in Atriden , cui , ni sibi reddat honestae
 - [3] 74 Tendit in Atriden et, ni sibi reddat honestae
-- [4] 75 Tendit in Alriden et, ni sibi reddat honestae
+- [4] 75 Tendit in Atriden et, ni sibi reddat honestae
 - [6] 75 tendit in Atriden et, ni sibi reddat honestae
 
 76 munera militiae, letum crudele minatur,
@@ -524,7 +524,7 @@
 - [2] 79 Turpem caecus amor famam liquisset in aevum
   - *Turpem caecus amor famam*（盲目の愛が…恥ずべき評判を）。これはホメーロスの趣旨や古代の英雄たちの気風に適った発言とは思われない。彼らは少女のゆえに愛の激情によって武器をとることを決して恥ずべきこととは考えなかった。しかし作者は、パラスから警告を受けたアキレウスが、自分は少女のためには決して手ずから戦わないと言明する 298 行の言葉からこの発言の根拠を引き出したように思われる：Χερσὶ μὲν οὔτι ἔγωγε μαχήσομαι εἵνεκα κούρης。
 - [3] 78 Turpem caecus amor famam liquisset in aeuum
-- [4] 79 Turpcm caecus amor famam liquisset in aevum
+- [4] 79 Turpem caecus amor famam liquisset in aevum
 - [6] 79 turpem caecus amor famam liquisset in aevum
 
 80 gentibus Argolicis. Contempta uoce minisque
@@ -562,7 +562,7 @@
 84 castraque Myrmidonum iuxta petit et monet armis
 - [2] 84 Castraque Myrmidonum praetervolat, inde per auras
 - [3] 84 Castraque Myrmidonum iuxta petit et monet, armis
-- [4] 84 Castraque Myrmidonnm juxta pelit et monet, armis
+- [4] 84 Castraque Myrmidonum juxta petit et monet, armis
 - [6] 84 castraque Myrmidonum iuxta petit et monet, armis
 
 85 abstineat dextram ac congressibus; inde per auras
@@ -594,14 +594,14 @@
 89 numina, summe parens; ulciscere meque meumque
 - [2] 88 Numina , suiome parens : ulciscere meque meumque
 - [3] 89 Numina, summe parens! ulciscere meque meumque
-- [4] 89 Numina, summc parcns! ulciscere mequc meumque
+- [4] 89 Numina, summe parens! ulciscere meque meumque
 - [6] 89 numina, summe parens: ulciscere meque meumque
 
 90 corpus ab Atrida, quodsi permittitur illi
 - [2] 89 Corpus ab Atride : quod si permittitur illi ,
   - … バルトが前掲箇所で指摘するように、テティスは息子アキレウスを自身の肉体（*corpus suum*）と呼んでおり、これは作者による斬新な表現であって、他の詩人には容易に見出せないものだと私は考える。子供たちが親の *viscera*（内臓／肉親）や *sanguis*（血）と呼ばれるのは一般的である。
 - [3] 90 Pignus ab Atrida. quodsi permittitur illi,
-- [4] 90 Pignus ab Alrida; quodsi permittitur illi,
+- [4] 90 Pignus ab Atrida; quodsi permittitur illi,
 - [6] 90 pignus ab Atrida. quodsi permittitur illi,
 
 91 ut flammas impune mei uiolarit Achillis,
@@ -825,7 +825,7 @@
 124 "Rex Danaum, Atrida, uigila et mandata Tonantis
 - [2] 123 «RexDanaum, Atrida, vigila, et mandata Tonantis,
 - [3] 124 'Rex Danaum Atride, uigila et mandata Tonantis,
-- [4] 124 « Rex Danaum Atride, vigila et mandata Tonanlis,
+- [4] 124 « Rex Danaum Atride, vigila et mandata Tonantis,
 - [6] 124 'rex Danaum Atrida, vigila et mandata Tonantis,
 
 125 quae tibi iussa simul delatus ab aethere porto,
@@ -1076,7 +1076,7 @@
 162 nomina clara ducum clarosque referte parentes
 - [2] 161 Nomina clara ducum clarosque referte parentes,
 - [3] 162 Nomina clara ducum clarosque referte parentes
-- [4] 162 JXomina clara ducum clarosque referte parentes
+- [4] 162 Nomina clara ducum clarosque referte parentes
 - [6] 162 nomina clara ducum clarosque referte parentes
 
 163 et dulces patrias: nam sunt haec munera uestra.
@@ -1115,7 +1115,7 @@
 168 Arcesilaus atrox Prothoenorque Cloniusque
 - [2] 167 Arcesilaus atrox, Prothoenorque, Cloniusque
 - [3] 168 Arcesilaus atrox Prothoenorque Cloniusque
-- [4] 168 Arcesilaus atrox Prothoenorque Gloniusquc
+- [4] 168 Arcesilaus atrox Prothoenorque Cloniusque
 - [6] 168 Arcesilaus atrox Prothoënorque Cloniusque
 
 169 Boeoti decies quinas egere carinas
@@ -1129,7 +1129,7 @@
 170 et tumidos ualido pulsarunt remige fluctus.
 - [2] 169 Et tumidos valido pulsarunt remige fluctus.
 - [3] 170 Et tumidos ualido pulsarunt remige fluctus.
-- [4] 170 Et lumidos valido pulsarunt remige fluctus.
+- [4] 170 Et tumidos valido pulsarunt remige fluctus.
 - [6] 170 et tumidos valido pulsarunt remige fluctus.
 
 171 Inde Mycenaeis Agamemnon moenibus ortus,
@@ -1147,7 +1147,7 @@
 173 centum egit plenas armato milite puppes;
 - [2] 172 Centum egit plenas armato milite puppes :
 - [3] 173 Centum egit plenas armato milite puppes.
-- [4] 173 Gentum egit plenas armato milite puppes.
+- [4] 173 Centum egit plenas armato milite puppes.
 - [6] 173 centum egit plenas armato milite puppes.
 
 174 et bis tricenis Menelai nauibus ardor
@@ -1208,7 +1208,7 @@
   - … しかし *Polypoetes atque Leonteus* と
   - **(cont.)** （前頁からの続き）読むべきであることは、ホメーロスの『イーリアス』II, 740 および 745 から明らかである。…
 - [3] 182 Et bis uicenas Polypoetes atque Leonteus
-- [4] 182 Et bis vicenas Polypoeles atque Leonteus
+- [4] 182 Et bis vicenas Polypoetes atque Leonteus
 - [6] 182 et bis vicenas Polypoetes atque Leonteus
 
 183 instruxere rates ornatas milite forti.
@@ -1269,7 +1269,7 @@
 - [2] 190 Quos juxta Graium ductor comitatur Achilles ,
   - バルトは『雑考』2754 頁で、*Graium ductor*（ギリシア勢の指揮官）を「戦いにおいて卓越し、武勇において至高である」と解釈している。…
 - [3] 191 Quos iuxta Graium murus comitatur Achilles,
-- [4] 191 Quosjuxta Danaum murus comitatur Achilles,
+- [4] 191 Quos juxta Danaum murus comitatur Achilles,
 - [6] 191 quos iuxta Graium durus comitator Achilles
 
 192 cum quinquaginta materna per aequora uectus.
@@ -1671,7 +1671,7 @@
   - … なおホメーロスはこのコロイボスを挙げていないが、ウェルギリウスは彼をミュグドーンの子と呼び、トロイア軍の救援に駆けつけてペーネレオースに討たれたと伝えている（Aen. II, 341 および 425）。クイントゥス・スミュルナエウス（クイントゥス・カラベル）XIII, 168 以下では、彼はディオメーデースに討たれるとされている。これに対してホメーロスはパプラゴニア人の指導者ピュライメネースをトロイア軍の同盟者の中に挙げているが、われらの詩人は、私の見誤りでなければ、彼を省いている。コロイボスについては、名士ハイネが『アエネーイス』第2巻への補論（Excurs. X）で記した多くの注記を参照されたい。――別のコロイボスがスターティウスの Theb. I, 650 で言及されている。パリ編者。
 - [3] 249 Sarpedon claraque satus tellure Pylaemen.
   - … Coroebus …しかしこの人物はホメーロスにおいて言及されておらず、Pylaemenes だけがいまだ名指されずに残っている。書写者たちがウェルギリウスから彼を持ち込んだのである。…
-- [4] 249 Sarpodon claraque satus tellure Coroebus.
+- [4] 249 Sarpedon claraque satus tellure Coroebus.
   - Coroebus …（『アエネーイス』II, 342 を参照）。…
 - [6] 249 Sarpedon claraque satus tellure Coroebus.
 
@@ -1679,7 +1679,7 @@
 - [2] 249 His se defendit ducibus Meptunia Troja,
   - *Neptunia Troja*（ネプトゥーヌスのトロイア）：Virgilius, Aen. II, 625 および III, 3 より。
 - [3] 250 His se defendit ducibus Neptunia Troia,
-- [4] 250 His se defendit dncibus Neptunia Troja,
+- [4] 250 His se defendit ducibus Neptunia Troja,
 - [6] 250 his se defendit ducibus Neptunia Troia,
 
 251 uicissetque dolos Danaum, ni fata fuissent.
@@ -1825,7 +1825,7 @@
 271 Dixit. Quem contra paucis Priameius heros:
 - [2] 271 Dixit, quae contra paucis Priameias heros,
 - [3] 271 Dixit. quem contra paucis Priameius heros
-- [4] 271 Dixit ; quem contra paucis Priamcius heros
+- [4] 271 Dixit ; quem contra paucis Priameius heros
 - [6] 271 dixit. quem contra paucis Priameius heros
 
 272 "Quid nimis indignis" - inquit - "me uocibus urges,
@@ -2112,7 +2112,7 @@
 - [2] 315 In ciadem Phrygii; sua quem Yenus eripit hosti,
   - *Sua quem Venus*（彼自身のウェヌスが……彼を）。なぜならアレクサンデル（パリス）は彼女の熱心な信奉者であり、それゆえ彼自身の神と呼んだのである。同様に 877 行でも、海自身の神々が海に加えられたとして次のように言っている: « Addideratque freto sua numina, Nerea magnum »。またホメーロスにおいても、ウェヌス自身がパリスをメネラーオスの手から救い出した後、自分に献身する彼をヘレネーに推薦している。バルト『雑考』(Adv.) LIX, 1。代名詞 *suus* が「好意的な、都合のよい、有益な」を意味することがしばしばあるのは、ローマの作家の読書に親しんだ者なら誰もが知るところであり、これをより多くの例引で示すのは余計なことであろう。ホラーティウス『エポードス』9, 30: « Cretam ventis iturus non suis »。
 - [3] 315 In cladem Phrygii, sua quem Uenus eripit hosti
-- [4] 315 In cladem Phrygii, sua quem Yenus eripit hosti
+- [4] 315 In cladem Phrygii, sua quem Venus eripit hosti
 - [6] 315 in cladem Phrygii, sua quem Venus eripit hosti
 
 316 et secum in thalamos defert testudine cultos.
@@ -2158,7 +2158,7 @@
 322 arreptum cum te traheret uiolentus Atrides
 - [2] 322 Arreptum quum te tralieret violientus Atrides,
 - [3] 322 Arreptum cum te traheret uiolentus Atrides
-- [4] 322 Arreptum cum te traheret violentus Alrides
+- [4] 322 Arreptum cum te traheret violentus Atrides
 - [6] 322 arreptum cum te traheret violentus Atrides
 
 323 Iliacoque tuos foedaret puluere crines.
@@ -2247,39 +2247,39 @@
 - [2] 336 Post haec ampiexu per mutua corpora juncto
   - … 作者がこれらの詩行においてマロー（ウェルギリウス）のよく知られた箇所、Aeneid. VIII, 405: « Optatos dedit amplexus, placidumque petivit Conjugis infusus gremio per membra soporem » を念頭に置いていたことは疑いようがない。
 - [3] 336 Post haec amplexu per mutua corpora iuncto
-- [4] 336 Post hacc amplexu pcr mutua corpora juncto
+- [4] 336 Post haec amplexu per mutua corpora juncto
 - [6] 336 post haec amplexus per mutua corpora iunctis
 
 337 incubuit membris Cygneidos; illa soluto
 - [2] 337 Incubuit membris Cygneidos; illa soluto
   - … ところでヘレネーが *Cygneis* と呼ばれるのは、白鳥に変じたユピテルの娘と信じられていたからである。その名前を他の詩人が用いたかどうかは私は知らないが、もっともウェルギリウス（伝）の Eleg. ad Messal. 27 では「白鳥の卵から生まれたティンダレオス家の娘」« cygneo edita Tyndaris ovo » と言われており、オウィディウスの Her. XVII, 55 でもヘレネー自身が « Dat mihi Leda Jovem, cygno decepta, parentem » と述べている。
 - [3] 337 Incubuit membris Cygneidos; illa soluto
-- [4] 337 Incubuit membris Cygncidos; illa soluto
+- [4] 337 Incubuit membris Cygneidos; illa soluto
 - [6] 337 incubuit membris Cygneidos; illa soluto
 
 338 accepit flammas gremio Troiaeque suasque.
 - [2] 338 Accepit flammas gremio Trojaeque, suasque.
   - *Flammas Trojaeque suasque*（トロイアの炎と彼女自身の炎）。ヘレネーへの愛がトロイアの破滅となる運命にあったパリスについて、機知に富んだ表現である。この言辞もまた、オウィディウスの『名婦の書簡』(Heroid.) XVI, 45 以下のパリスの書簡の箇所に基づいているように思われる。そこではパリスが、出産の日を前に燃え盛る松明を産む夢を見た母親の夢を、トロイアに破滅をもたらす自らの胸の熱情と解釈している: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei »。
 - [3] 338 Accepit flammas gremio Troiaeque suasque.
-- [4] 338 Accepit flammas gremio Trojaeque suasquc.
+- [4] 338 Accepit flammas gremio Trojaeque suasque.
 - [6] 338 accepit flammas gremio Troiaeque suasque.
 
 339 Interea toto Menelaus in agmine Troum
 - [2] 339 Interea toto Meneiaus in agmine Troum
 - [3] 339 Interea toto Menelaus in agmine Troum
-- [4] 339 Interea toto Menelaus in agminc Troum
+- [4] 339 Interea toto Menelaus in agmine Troum
 - [6] 339 interea toto Menelaus in agmine Troum
 
 340 quaerit Alexandrum uictorque huc fertur et illuc.
 - [2] 340 Quaerit Alexandrum, victorque huc fertur et illuc.
 - [3] 340 Quaerit Alexandrum uictorque huc fertur et illuc.
-- [4] 340 Quaerit Alexandrum victorque huc fcrtur et illuc.
+- [4] 340 Quaerit Alexandrum victorque huc fertur et illuc.
 - [6] 340 quaerit Alexandrum victorque huc fertur et illuc.
 
 341 Quem frater socias acuens in bella cateruas
 - [2] 341 Quem frater socias acuens in bella catervas
 - [3] 341 Quem frater socias acuens in bella cateruas
-- [4] 341 Qucm frater socias acuens in bella catervas
+- [4] 341 Quem frater socias acuens in bella catervas
 - [6] 341 quem frater socias acuens in bella catervas
 
 342 adiuuat et forti pulsos Phrygas increpat ore
@@ -2301,13 +2301,13 @@
   - *Certamen haberent*（勝負を行うように）。この言い回しは
   - **(cont.)** （前頁からの続き）詩的文体に十分ふさわしいとは思われず、次の詩行に現れる *concilium habuit*（集会を開いた）という表現も不快な重複である。そしてオウィディウスの Met. XIII, 159 の詩行 « Ergo operum quoniam nudum certamen habetur » によっても十分に弁護されるとは思われない。
 - [3] 344 Cumque inter sese proceres certamen haberent,
-- [4] 344 Cumquo inter sese proceres certamen haberent,
+- [4] 344 Cumque inter sese proceres certamen haberent,
 - [6] 344 dumque inter sese proceres certamen haberent,
 
 345 concilium omnipotens habuit regnator Olympi
 - [2] 345 Conriiium omnipotens liabuit regnator Olympi;
 - [3] 345 Concilium omnipotens habuit regnator Olympi,
-- [4] 345 Concilium omnipotens habuit regnalor Olympi,
+- [4] 345 Concilium omnipotens habuit regnator Olympi,
 - [6] 345 concilium omnipotens habuit regnator Olympi
 
 346 foederaque intento turbauit Pandarus arcu,
@@ -2551,7 +2551,7 @@
 380 desuper hasta uenit dextra librata Thoantis
 - [2] 380 Desuper hasta venit dextra vibrata Thoantis,
 - [3] 380 Desuper hasta uenit dextra librata Thoantis,
-- [4] 380 Desuper hasta venit dextra librata Thoanlis,
+- [4] 380 Desuper hasta venit dextra librata Thoantis,
 - [6] 380 desuper hasta venit dextra librata Thoantis
 
 381 perque uiri scapulas animosaque pectora transit;
@@ -2596,7 +2596,7 @@
 387 et modo Troianis uirtus, modo crescit Achiuis
 - [2] 387 Et modoTrojanis virtus, modo crescit Achivis ,
 - [3] 387 Et modo Troianis uirtus, modo crescit Achiuis,
-- [4] 387 Et modo Trojanis virtus, modo crescit Acbivis,
+- [4] 387 Et modo Trojanis virtus, modo crescit Achivis,
 - [6] 387 et modo Troianis, modo virtus crescit Achivis
 
 388 laetaque per uarios petitur uictoria casus.
@@ -2713,7 +2713,7 @@
 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
 - [2] 405 Phegeum Idaeumque simul, quem cuspide praeceps
 - [3] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
-- [4] 405 Phegeaqueldaeumque simul; quem cuspide Phegeus
+- [4] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
   - Phegeaque …（『イーリアス』V, 9 以下）。…
 - [6] 405 Phegeaque Idaeumque simul; quem cuspide Phegeus
 
@@ -2895,14 +2895,14 @@
 433 Pedaeumque Meges. Tum uastis horridus armis
 - [2] 433 Pedaeumque Meges , vastisque horrendus in armis
 - [3] 433 Pedaeumque Meges; tum uastis horridus armis
-- [4] 433 Pedaeuinque Meges ; tum vastis horridus armis
+- [4] 433 Pedaeumque Meges ; tum vastis horridus armis
 - [6] 433 Pedaeumque Meges; tum vastis horridus armis
 
 434 Eurypylus gladio uenientem Hypsenora fundit
 - [2] 434 Eurypyius gladio venieutem Hypsenora fundit,
   - ボンダムの指摘（p. 158）にも従い、ホメーロス『イーリアス』V, 76 に基づいて *Hypsenora*（ヒュプセーノールを）と記した。…
 - [3] 434 Eurypylus gladio metuentem Hypsenora fundit
-- [4] 434 Eurypylus gladio venientem llypsenora fnndit
+- [4] 434 Eurypylus gladio venientem Hypsenora fundit
   - … Hypsenora …（『イーリアス』V, 76 以下）。
 - [6] 434 Eurypylus gladio venientem Hypsenora fundit
 
@@ -3091,7 +3091,7 @@
 464 quem Venus aetherias genetrix delapsa per auras
 - [2] 464 Quem Yenus aethereas genitrix delapsa per auras
 - [3] 464 Quem Uenus aethereas genetrix delapsa per auras
-- [4] 464 Quem Yenus aelhereas genetrix delapsa per auras
+- [4] 464 Quem Venus aethereas genetrix delapsa per auras
 - [6] 464 quem Venus aethereas genetrix delapsa per auras
 
 465 accipit et nigra corpus caligine condit.
@@ -3105,7 +3105,7 @@
 - [2] 466 Non tulit OEnidesanimo, nebulasque per ipsas
   - … バルトは『雑考』p. 2770 末で、続く詩行をきわめて優雅なものとして称賛すべきであると見なしている。
 - [3] 466 Non tulit Oenides animis nebulasque per ipsas
-- [4] 466 Non tulil Oenides animis nebulasque per ipsas
+- [4] 466 Non tulit Oenides animis nebulasque per ipsas
 - [6] 466 non tulit Oenides animis nebulasque per ipsas
   - … animis … ウェルギリウス『アエネーイス』8, 256 を参照 …
 
@@ -3113,7 +3113,7 @@
 - [2] 467 Fertur, etin Venerem flagrantibus irruit armis,
   - *Flagrantibus armis*（燃え盛る武具で）。第 394 行への注を見よ。
 - [3] 467 Fertur et in Uenerem flagrantibus irruit armis
-- [4] 467 Fertur et in Yenerem tlagrantibus irruit armis
+- [4] 467 Fertur et in Venerem flagrantibus irruit armis
 - [6] 467 fertur et in Venerem flagrantibus irruit armis
 
 468 et neque quem demens ferro petat inspicit aruis
@@ -3434,14 +3434,14 @@
 516 Ingemit Aeneas curruque animosus ab alto
 - [2] 516 Ingemit Aeneas, curruque animosus ab alto
 - [3] 516 Ingemit Aeneas curruque animosus ab alto
-- [4] 516 Ingemit Acneas curruque animosus ab alto
+- [4] 516 Ingemit Aeneas curruque animosus ab alto
 - [6] 516 ingemit Aeneas curruque animosus ab alto
 
 517 desilit et ualido Crethona<que> comminus ictu
 - [2] 517 Desilit, et valido Crethonem cominus ictu
   - … Hom. Il. V, 542 から *Crethona* と読まれるべきであるが、韻律の都合がこれを拒むため、私はラテン語の格語尾 *Crethonem* を復元した。
 - [3] 517 Desilit et ualido Crethonaque cominus ictu
-- [4] 517 Desilit et valido Cretlionaqne coniinus ictn
+- [4] 517 Desilit et valido Crethonaque cominus ictu
   - Crethona …（『イーリアス』V, 541 以下）。
 - [6] 517 desilit et valido Crethona\<que> comminus ictu
 
@@ -3670,7 +3670,7 @@
 551 Dumque preces Hecube supplex ad templa Mineruae
 - [2] 551 Duroque preces Hecube supplex ad templa Minervae
 - [3] 551 Dumque preces Hecube supplex ad templa Mineruae
-- [4] 551 Dumque preces Hecuhe supplex ad templa Minervae
+- [4] 551 Dumque preces Hecube supplex ad templa Minervae
 - [6] 551 dumque preces Hecabe supplex ad templa Minervae
 
 552 pro caris genetrix natis et coniuge fundit,
@@ -3762,7 +3762,7 @@
 - [2] 565 Hectoris Andromache, parvumque ad pectora natum
   - *Ad pectora natum tenet*（子を胸に抱き寄せる）。Virg. Aen. VII, 318: « Et trepidae matres pressere ad pectora natos »。
 - [3] 565 Hectoris Andromache paruumque ad pectora natum
-- [4] 565 Hcctoris Andromaehc parvumque ad pectora natum
+- [4] 565 Hectoris Andromache parvumque ad pectora natum
 - [6] 565 Hectoris Andromache parvumque a pectore natum
 
 566 Astyanacta tenet, cuius dum maximus heros
@@ -4134,14 +4134,14 @@
 623 At contra se ferre parat Telamonius Aiax:
 - [2] 625 ContrahaBC dicta referre paratTelamoniusAjax:
 - [3] 623 At contra referre parat Telamonius Aiax
-- [4] 623 below At eontra referre parat Telamonius Ajax :
+- [4] 623 below At contra referre parat Telamonius Ajax :
 - [6] 623 at contra se ferre parat Telamonius Aiax:
   - … ウェルギリウス『アエネーイス』5, 372 を参照
 
 624 "Hesiona de matre uides Telamone creatum,
 - [2] 626 «Hesiona de matre vides Telamone creatum,
 - [3] 624 'Hesione de matre uides Telamone creatum;
-- [4] 624 below « Hesione de malre vides Telamone creatum;
+- [4] 624 below « Hesione de matre vides Telamone creatum;
 - [6] 624 'Hesiona de matre vides Telamone creatum,
 
 625 nobilis est domus et fama generosa propago."
@@ -4402,7 +4402,7 @@
 - [2] 667 Princeps Tydides ardentibus emicat armis,
   - *Ardentibus armis*。上の 394 行で *flagrantia arma* と言ったのと同様である。パリ編者。
 - [3] 665 Princeps Tydides ardentibus emicat armis,
-- [4] 665 Princops Tydidcs ardentibus emicat armis,
+- [4] 665 Princeps Tydides ardentibus emicat armis,
 - [6] 665 princeps Tydides ardentibus emicat armis
 
 666 per medios hostes immani pondere fertur.
@@ -4455,14 +4455,14 @@
 673 mox alias acies petit aurigamque superbi
 - [2] 675 Mox alias acies petit, aurigamque superbi
 - [3] 673 Mox alias acies petit aurigamque superbi
-- [4] 673 Mox alias acies petit aurigamque superhi
+- [4] 673 Mox alias acies petit aurigamque superbi
 - [6] 673 mox alias acies petit aurigamque superbi
 
 674 Hectoris obtruncat, quem saxo Troius heros
 - [2] 676 Hectoris obtruncat, quem saxo Troius heros
   - *Quem*（彼を）、すなわちテウクロス。パリ編者。
 - [3] 674 Hectoris obtruncat. quem saxo Troius heros
-- [4] 674 Ilectoris obtruncat. Quem saxo Troius lieros
+- [4] 674 Hectoris obtruncat. Quem saxo Troius heros
 - [6] 674 Hectoris obtruncat. quem saxo Troius heros
 
 675 occupat excussoque incautum proterit arcu.
@@ -4566,7 +4566,7 @@
 - [2] 692 Ut ferat auxilium miseris. Thetideius heros
   - … ファン・デル・デュッセンは 36 頁で *Thetideius*（すなわちテティスの子）と読まれるべきであると見抜き、それはわれらの詩人の他の箇所（897、943、962 行など）でも正しく置かれている。…
 - [3] 690 Ut ferat auxilium miseris. Thetideius heros
-- [4] 690 Ut ferat auxilium miseris. Thelideius heros
+- [4] 690 Ut ferat auxilium miseris. Thetideius heros
 - [6] 690 ut ferat auxilium miseris. Thetideius heros
 
 691 nec Danaum capit aure preces nec munera regis
@@ -4710,14 +4710,14 @@
 - [2] 714 Post ubi transierat fidens animoque mauuque,
   - *Fidens animo*（心に確信を抱いて）。ウェルギリウスの表現、Aen. II, 61。
 - [3] 712 Post ubi transierat fidens animoque manuque,
-- [4] 712 Post ubi transierat Pidens animoqne manuque,
+- [4] 712 Post ubi transierat Fidens animoque manuque,
 - [6] 712 post ubi transierat fidens animoque manuque,
   - fidens … ウェルギリウス『アエネーイス』2, 61 を参照
 
 713 prosiluere uiri iuuenemque euadere cursu
 - [2] 715 Prosiluere viri, juveuemque evadere cursu
 - [3] 713 Prosiluere uiri iuuenemque euadere cursu
-- [4] 713 Prosiluere viri juvenemqne evadere cursu
+- [4] 713 Prosiluere viri juvenemque evadere cursu
 - [6] 713 prosiluere viri iuvenemque evadere cursu
 
 714 conantem capiunt ferroque manuque minantur.
@@ -4729,7 +4729,7 @@
 715 Ille timore pauens: "Vitam concedite" - dixit -,
 - [2] 717 Ille timore pavens, ccYitam concedite, dixit,
 - [3] 715 Ille timore pauens 'uitam concedite' dixit:
-- [4] 715 Ille, timore pavens, « Yitam concedite » dixit
+- [4] 715 Ille, timore pavens, « Vitam concedite » dixit
 - [6] 715 ille timore pavens 'vitam concedite' dixit,
 
 716 "hoc unum satis est; quodsi perstatis in ira,
@@ -4780,7 +4780,7 @@
 - [2] 725 Per mare, per Ditis fluctus obtestor opaci,
   - *Per Ditis fluctus*（ディースの波にかけて）、ステュクスにかけて、あるいは冥府の河川にかけて。オウィディウスの Met. I, 187 でユピテルが誓っているのと同様である。Virg. Cul. 371 では « Lacus Ditis opacos » と言われている。これは嘆願の定型句であり、Ovid. Trist. II, 53 の誓約の句 « Per mare, per terras, per tertia numina juro » と同類のものである。
 - [3] 723 Per mare, per Ditis fluctus obtestor opaci,
-- [4] 723 Per mare, per Ditis fluctus obteslor opaci,
+- [4] 723 Per mare, per Ditis fluctus obtestor opaci,
 - [6] 723 per mare, per Ditis fluctus obtestor opaci,
 
 724 ne rapere hanc animam crudeli caede uelitis.
@@ -4955,7 +4955,7 @@
 - [2] 751 Antiphonem iagenti prostratum vulnere fundit,
   - … ホメーロス（Il. XI, 101）では、プリアモスの息子たちであるアンティポスとイーソスがアガメムノーンによって討ち取られたと私は読んでいる。われらのホメーロス詩人が彼を指そうとしたのか、それとも別人なのか、私には依然として疑わしい。…
 - [3] 748 Antiphon ingenti prostratum uulnere fudit
-- [4] 748 Antipbon ingenti prostratum vulnere fudit
+- [4] 748 Antiphon ingenti prostratum vulnere fudit
 - [6] 748 Antiphon ingenti prostratum vulnere fudit
 
 749 Pisandrumque simul fratremque ad bella ruentem

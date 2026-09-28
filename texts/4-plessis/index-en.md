@@ -381,11 +381,11 @@ PDF page 161.
 - OENIDES cf. Diomedes.
 - OILEUS cf. Ajax, son of Oileus.
 - OLYMPUS Olympi regnator: the ruler of Olympus (Jupiter) 345.
-- Olympo emenso: the sun sets, having traversed Olympus 108; [107].
+- Olympo emenso: the sun sets, having traversed Olympus 108; [— 107].
 - ORSILOCHUS Orsilochum: Aeneas slays Orsilochus 518.
 - PAEONIUS Paeoniis herbis: Podalirius heals Menelaus with Paeonian herbs 351.
 - PALLAS cf. Minerva.
-- PANDARUS, the noble offspring of Lycaon, among the auxiliaries of the Trojans 238–9; — throws the treaty into confusion with his bow 340; — flits about in the host 436.
+- PANDARUS, the noble offspring of Lycaon, among the auxiliaries of the Trojans 238–9; — throws the treaty into confusion with his bow 346; — flits about in the host 436.
 - Pandare: Pandarus, you fall by the hand of Diomedes 449.
 - PAPHLAGONES Paphlagonum dux: leader of the Paphlagonians, cf. Pylaemen.
 - PARIS nominative: the cause of the war, the deadly ruin of his country, takes up arms with the other leaders of the Trojans 234; — the destruction of Troy and a deadly flame, catches sight of Menelaus in arms 253; — makes for the lines together with Hector 576; — lays low the enemy squadrons 756.
@@ -503,7 +503,7 @@ PDF page 163.
 - TRITONES Tritones feros: the Vulcanian had made the fierce Tritons on the shield 874.
 - TRITONIA cf. Minerva.
 - TROES cf. Trojani.
-- TROICUS Troica dextra: the Trojan right hand (Hector's hand) 819; ad Troica castra: to the Trojan camp 644–5.
+- TROICUS Troica dextera: the Trojan right hand (Hector's hand) 819; ad Troica castra: to the Trojan camp 644–5.
 - TROIUS cf. Hector; Troia pubes cf. Trojani.
 - TROJA Neptune's Troy defends itself with these leaders (whom our poet has just enumerated) 250; — the greatest, had promised Dolon the chariot of Achilles 719; — what Troy was preparing 727; — resounds with lamentation when Hector is lost 1016.
 - Trojae: the ruin of Troy (Paris) 253; Helen receives in her lap the flames of Troy and her own (namely Paris) 338.
