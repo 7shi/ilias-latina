@@ -13,12 +13,53 @@ texts/README.md and src/README.md first.
    with the page images (texts/PROOFREADING.md, step 8).  Their rows,
    with INDEX-en.tsv and INDEX-ja.tsv, are placed at their verses in
    texts/COMMENTARY{,-en,-ja}.md.
-2. Next the proper names in commentary/ are checked with them: each name in the translation and the commentary against
-   the verse, the English form under the policy in commentary/README.md,
-   and the same person or people called the same way throughout
-   (e.g. *Myrmidones* for the Greeks at large, 23, 180).
+2. Next the proper names in commentary/ are checked with them.  The
+   indexes should have been in COMMENTARY-en.md when commentary/ was
+   generated and checked; they were added afterwards, so all 24 books
+   are checked against them now (see [Checking the names](#checking-the-names)).
 3. When the names are done, deploying the translation as a website is
    to be considered.
+
+### Checking the names
+
+Each section (commentary/NN/VVVV.md) is read verse by verse against the
+index rows of that verse in texts/COMMENTARY-en.md ("form (HEADWORD;
+headword-en): description" under [4] and [6]):
+
+1. **The person**: the one the translation and the commentary mean is
+   the one the headword gives, above all for patronymics, epithets and
+   periphrases (Atrides, Aeacides, *Priami filius*, *Pelopea iuventus*,
+   Cytherea) and for homonyms (Acamas 1 and 2, Aiax Locrus and
+   Telamonius).
+2. **The English name**: the form follows the policy in
+   commentary/README.md, and the same person or people is called the
+   same way throughout (e.g. *Myrmidones* for the Greeks at large, 23,
+   180).
+3. **The word**: the form the row cites is translated in its own verse,
+   not moved to another.
+4. **The commentary**: what it says of the person (descent, people,
+   who kills whom) agrees with the description.
+
+- Where Plessis and Vollmer identify a person differently, both are
+  listed without deciding between them.
+- A mechanical first pass is allowed (e.g. counting the verses with
+  index rows whose translation lacks the headword-en); its script stays
+  in the scratchpad unless the user wants it kept.
+- The problems are reported book by book (verse, file, the passage, the
+  index row, which of 1–4, a proposed correction) before anything is
+  edited, as in steps 3 and 4 below.
+- An index row that seems wrong is checked in the edition's index.md
+  and ilias.md (the page images as a last resort) and reported.  It is
+  corrected in the data, not in a script: in double braces in index.md
+  and index-{en,ja}.md, without braces in INDEX*.tsv, and then
+  `make commentary` in texts/.
+- The translations of the indexes are drafts, not yet reviewed: a
+  description whose English differs from the Latin is reported, not
+  corrected.
+- Giving the index rows to commentary/generate.py as context for any
+  later generation may be proposed, not implemented.
+- Corrections of the translation and commentary are committed by book
+  or range of books; corrections of the data in separate commits.
 
 ## The commentary
 
