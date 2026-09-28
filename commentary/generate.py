@@ -1,6 +1,6 @@
 """Translate the Ilias Latina into English and comment on it, section by section.
 
-Usage: python generate.py -m MODEL [-b BOOKS | --verse VERSE]
+Usage: python generate.py -m MODEL (-b BOOKS | --verse VERSE)
 
 The sections are those of ../src/tmp/greek.md (`make greek` in src/):
 each gives the verses of The Latin Library with the lines of the Iliad
@@ -134,10 +134,8 @@ def read_sections(path: Path) -> list[Section]:
     return sections
 
 
-def select_books(spec: str | None, books: list[int]) -> list[int]:
+def select_books(spec: str, books: list[int]) -> list[int]:
     """Parse "1", "1-3" or "2,5" into book numbers."""
-    if not spec:
-        return books
     out = set()
     for part in spec.split(","):
         a, _, b = part.partition("-")
@@ -254,10 +252,10 @@ def run(client: Client, book: int, sections: list[Section], rounds: int) -> bool
 def main():
     global USAGE_PATH
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
-    group = parser.add_mutually_exclusive_group()
+    group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument(
         "-b", "--books",
-        help='Books to process, e.g. "1", "1-3" or "2,5" (default: all)',
+        help='Books to process, e.g. "1", "1-3" or "2,5"',
     )
     group.add_argument(
         "--verse",
