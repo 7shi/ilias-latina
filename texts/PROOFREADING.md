@@ -142,12 +142,26 @@ put in the Printed column; they are restored there.  Misreadings that
 make words of The Latin Library cannot be found by this list and may
 be left.
 
+### 7. Vollmer's index as a table (Claude Opus 5.5, 2026-09-28)
+
+Before Vollmer's index was made into `6-vollmer/INDEX.tsv` (see
+[6-vollmer/README.md](6-vollmer/README.md#indextsv)), every verse
+number of `index.md` was compared with the page images of the index
+(pp. 56–65, all of them); all were read correctly.  One word was
+found to differ: "robora" for the misprint "rubora" (Epistrophus 1),
+which the OCR had read as "nibora"; it is restored as printed in
+`index.md` and its translations.  Looking the cited words up in the
+verses showed places where the index itself does not agree with the
+text (Amaryncides 337 for 377, Doris 874 for 873, Phoebus 69 for 68,
+*Troica* at 645 where the text has *Troiae*); they are kept as
+printed and listed in the README.
+
 ## Status
 
 | File | Proofread by | Translated by |
 |---|---|---|
 | `6-vollmer/ilias.md` | Claude (step 2) | Gemini |
-| `6-vollmer/preface.md`, `index.md` | Claude (step 2) | Claude |
+| `6-vollmer/preface.md`, `index.md` | Claude (step 2); the verse numbers of the index by Claude (step 7) | Claude |
 | `3-baehrens/ilias.md` | Claude to p. 26, Gemini from p. 27 | Gemini |
 | `3-baehrens/preface.md` | Gemini | Claude |
 | `4-plessis/preface.md`, `index.md` | Gemini; the verse numbers of the index by Claude (step 5) | Claude |

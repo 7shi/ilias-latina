@@ -17,6 +17,7 @@ the page of the PDF for looking up the page image.
 | [ilias.md](ilias.md) ([en](ilias-en.md), [ja](ilias-ja.md)) | Text, margins, testimonia and apparatus | 1–55 |
 | [COMMENTARY.md](COMMENTARY.md) ([en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md)) | The testimonia, and the glosses and parallels of the apparatus, without the readings and conjectures | 1–54 |
 | [index.md](index.md) ([en](index-en.md), [ja](index-ja.md)) | Index of names (*index nominum*), one entry per line | 56–65 |
+| [INDEX.tsv](INDEX.tsv) | The index as a table of headword, verse, form and description, one row per place cited (see [below](#indextsv)) | 56–65 |
 
 ## ilias.md
 
@@ -68,3 +69,55 @@ of G).  Vollmer's angle brackets for words supplied by the editor are
 written `\<que>`, as `|` in the tables is written `\|`, so that they
 are not taken for markup (a bare `<que>` would be dropped as an HTML
 tag).
+
+## INDEX.tsv
+
+The index (index.md) as a table, one row for each place cited, with a
+header row and four columns:
+
+- **headword**: the name the entry is sorted under, in the nominative.
+  Vollmer prints it spaced out, often inside a phrase of the verse
+  ("Locrum fortissimus Aiax"), and in the case of that phrase
+  ("Abanta"); some entries begin with the name and a bracket
+  ("Achilles]").  Homonyms keep his number after the name, as in his
+  cross-references ("v. Antenor 1"): "Acamas 1", "Acamas 2".  Where he
+  divides one entry between two persons, the person is added in
+  brackets: "Aeacides (Achilles)", "Aeacides (Aiax Telamonius)",
+  "Atrides (Agamemno)", "Atrides (Menelaus)".  Two entries of the same
+  name that he does not number are told apart in the same way: "Aiax
+  (Locrus)", "Aiax (Telamonius)", "Xanthus (Phaenopis f.)", "Xanthus
+  (fluvius)".
+- **verse**: the verse numbers of the phrase, without Vollmer's marks
+  (the asterisk of an emended place, the brackets of a rejected verse,
+  "(?)"); several numbers after one phrase ("magnus -es 860. 995")
+  share one row, written "860,995", and "1—8" is written "1-8".  A
+  cross-reference ("v. Graecus") has no verse.
+- **form**: the word of the verse that the row cites, as it stands in
+  ilias.md, without an enclitic -que, one for each verse; for a phrase
+  without the name ("nati", "pio . . . patri") the word that stands for
+  the person.  It is empty where the verse does not have the word: the
+  acrostic (1-8), Priamus [983], Pelopeus 791 (not in the text),
+  Pylaemenes 249 ("cf. et v. 249"), Syme 195 (an obelized place) and
+  513 (Aeneas's charioteer, not named).
+- **description**: Vollmer's words as printed, with the verse numbers
+  and their marks, without the headword in front of a bracket
+  ("Achilles]"), the homonym number and the name of the person where
+  it is in the headword.  A remark after a colon (": Diomedes") stays
+  with the phrase it follows.
+
+The verses are Vollmer's own numbers.  They are those of The Latin
+Library except at 957 and 958, which he prints in the other order and
+numbers in his order: 958 is *saevus . . . Achilles*, where ilias.md,
+numbered by The Latin Library, has 957.  The index also cites some
+verses that do not have the word, kept as printed with the form taken
+from the verse meant: Amaryncides 337 (in 377), Doris 874 (in 873),
+Phoebus 69 (in 68), and the phrases that run on into the next verse,
+Agamemnon 10 (*regi* in 11), Priamides 754 (in 755), Tydides 415
+(in 416), and occasus and ortus 866 (in 867).  At 645 the index reads *Troica* with *Troiae* as a variant,
+but the text prints *Troiae*, which is given as the form.
+
+The table was drafted once by [index.py](index.py), which splits each
+entry at its verse numbers and matches the first letters of the
+headword or the phrase against the words of the verse; the draft was
+then checked row by row and corrected by hand.
+

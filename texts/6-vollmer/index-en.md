@@ -132,7 +132,7 @@ PDF page 217.
 - *Ennomus 246: see Chromius 1
 - caestibus . . . cunctos superavit *Epeos 1011
 - [Ephialtes] see Pylaeus
-- 1. Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo robora belli 179
+- 1. Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo rubora belli 179
 - 2. Epistrophus ingens 242: leader of the Halizonians on the Trojan side
 - Euboeae . . . finibus 200
 - Euhaemone natus 190: Eurypylus

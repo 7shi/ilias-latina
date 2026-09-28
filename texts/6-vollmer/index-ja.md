@@ -131,7 +131,7 @@ PDF page 217.
 - *Ennomus 246:Chromius 1 を参照
 - caestibus . . . cunctos superavit *Epeos 1011
 - [Ephialtes] Pylaeus を参照
-- 1. Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo robora belli 179
+- 1. Schedius . . . et Epistrophus ingens, gloria Myrmidonum, saevi duo rubora belli 179
 - 2. Epistrophus ingens 242:トロイア側のハリゾーネス人の将
 - Euboeae . . . finibus 200
 - Euhaemone natus 190:エウリュピュロス
