@@ -18,6 +18,7 @@ book, with the page of the PDF for looking up the page image.
 | [ilias.md](ilias.md) ([en](ilias-en.md), [ja](ilias-ja.md)) | List of manuscripts, text, verses printed below the text, readings of the manuscripts and notes | 2–85 |
 | [COMMENTARY.md](COMMENTARY.md) ([en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md)) | The references to the *Iliad* and the Latin parallels in the notes of ilias.md, without the readings and conjectures | 3–74 |
 | [index.md](index.md) ([en](index-en.md), [ja](index-ja.md)) | Index of names and subjects (*index nominum et rerum*), one entry per line | 87–98 |
+| [INDEX.tsv](INDEX.tsv) | The index as a table of headword, verse, form and description, one row per place cited (see [below](#indextsv)) | 87–98 |
 
 ## ilias.md
 
@@ -73,6 +74,46 @@ sections below it.
   corrected against the page images; besides verse numbers they
   include ranges and lists ("432-433", "242, 243, 244"), "post 345",
   "827 bis" and the book divisions of other editors ("Lib. XX").
+
+## INDEX.tsv
+
+The index (index.md) as a table, one row for each place cited, with a
+header row and four columns:
+
+- **headword**: the word in capitals that begins the entry.  The lines
+  after it, with other forms and names of the same person (Pelides,
+  Aeacides under ACHILLES; Achivi, Danai, Pelasgi under GRAI), belong
+  to it.  Homonyms keep the description by which Plessis tells them
+  apart ("ACAMAS Antenoris filius", "ACAMAS dux Thracum").
+- **verse**: the verse as printed in the index, written in full:
+  "205-6" is "205-206", "245 bis" is "245bis", "895 sqq." is
+  "895-899" (Aeneas meets Achilles and is saved by Neptune), and places
+  cited together ("248 et 520") share one row as "248, 520".  A
+  cross-reference ("ACHIVI cf. Grai.") has no verse.
+- **form**: the word of the verse that the row cites, as it stands in
+  ilias.md; for a range, the word in one of its verses, and for a list,
+  one form for each verse.  It is empty where the verse does not have
+  the word: at 151 the vulgate reading *Achivi*, where Plessis reads
+  *Pelasgi*, and at 257-258, which describe Paris without naming him.
+- **description**: Plessis's Latin as printed, without the verse: his
+  own summary of the passage around the words of the verse, not a
+  quotation (« » marks one, and ( ) his remarks).  A dash (—) stands
+  for the form last named, as in the index.  Brackets are closed within
+  the row: [ ] marks a verse Plessis rejects, < > a supplement.
+
+The verses are Plessis's own numbers.  They are those of The Latin
+Library except at 873 and 874, which he prints in the other order and
+numbers in his order: 873 is *Nereidas* and 874 *Tritones … Dorida*,
+where ilias.md, numbered by The Latin Library, has 874 and 873.  The
+index misprints two verses, kept as printed with the form taken from
+the verse meant: ACHILLES 937 (*Nereius* is in 938) and COROEBUS 250
+(in 249).
+
+The table was drafted once by [index.py](index.py), and the form added
+by [index_forms.py](index_forms.py), which matches the first letters of
+the headword, the description or the form of the row before against the
+words of the verse; both drafts were then checked row by row and
+corrected by hand.
 
 ## Sigla
 

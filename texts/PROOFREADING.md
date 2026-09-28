@@ -92,6 +92,26 @@ translations.
   quoting the notes from `ilias-en.md` and `ilias-ja.md`; four spurious
   ellipses in Lemaire's `COMMENTARY.md` are removed.
 
+### 5. Plessis's index as a table, and errors found by it (Claude Opus 5.5, 2026-09-28)
+
+Plessis's index was made into `4-plessis/INDEX.tsv` (see
+[4-plessis/README.md](4-plessis/README.md#indextsv)), with the form of
+each cited verse taken from `ilias.md`.  Looking the forms up in the
+verses showed that the text of Plessis's verses still has many OCR
+errors.  About 70 words were corrected against the page images, in
+`ilias.md`, `ilias-en.md` and `ilias-ja.md`: the forms cited by the
+index, and the other misreadings on the same verses or seen on the
+same pages (pp. 6–8, 11, 13–15, 19, 21, 23–26, 28–29, 31, 33, 35, 38,
+41–42, 46, 50, 52, 54, 56, 84).
+
+Since a wrong verse number in the index would make `INDEX.tsv` point to
+the wrong verse, every verse number of `index.md` was then compared
+with the page images of the index (pp. 87–98, all of them).  One was
+misread: "340" for 346 (PANDARUS).  Two errors in the words were seen
+on the way: "[107]" for "[— 107]" (OLYMPUS) and "dextra" for
+"dextera" (TROICUS).  They are corrected in `index.md`, its
+translations and `INDEX.tsv`.
+
 ## Status
 
 | File | Proofread by | Translated by |
@@ -100,9 +120,9 @@ translations.
 | `6-vollmer/preface.md`, `index.md` | Claude (step 2) | Claude |
 | `3-baehrens/ilias.md` | Claude to p. 26, Gemini from p. 27 | Gemini |
 | `3-baehrens/preface.md` | Gemini | Claude |
-| `4-plessis/preface.md`, `index.md` | Gemini | Claude |
+| `4-plessis/preface.md`, `index.md` | Gemini; the verse numbers of the index by Claude (step 5) | Claude |
 | `4-plessis/introduction.md` | Gemini, corrected by Claude (`5a6d254`) | Claude |
-| `4-plessis/ilias.md` | Gemini; the Notes corrected by Claude (`830186d`) | Gemini |
+| `4-plessis/ilias.md` | Gemini; the Notes corrected by Claude (`830186d`), some verses by Claude (step 5) | Gemini |
 | `2-lemaire/prooemium.md`, `testimonia.md`, `excursus.md` | Gemini | Claude |
 | `2-lemaire/ilias.md` | Gemini; the notes corrected by Claude (`830186d`) | Gemini |
 
@@ -110,6 +130,29 @@ In steps 2 and 3 only the readings that the model judged uncertain were
 checked against the images.  Every file has since been read through in
 translation, but the files and parts not corrected in step 4 have not
 been checked against the images again.
+
+## Open issues
+
+- **Plessis's verses** (`4-plessis/ilias.md`, the Text column, and
+  the same column copied into `ilias-en.md` and `ilias-ja.md`).  Found
+  in step 5: OCR errors are left throughout, most of them in verses
+  1–750, such as `dcserit`, `Emical`, `tbalamos`, `Yenerat` (for
+  *Venerat*) and `Admonuilque`.  After step 5, 365 words in 281 verses
+  are not in the vocabulary of The Latin Library (compared in lower
+  case, with j as i, v as u, and a final -que removed).  Some of them
+  are Plessis's own readings (`Ipsorum`, `discordi`, `cominus`), the
+  rest misreadings; each is to be checked against the page image.
+  After correcting, `make commentary` rebuilds the `COMMENTARY*.md`
+  that quote the verses.  The same check has not been run on the other
+  editions.
+- **Plessis's index** (`4-plessis/index.md`).  Its verse numbers were
+  all checked against the images in step 5, but the words, dashes and
+  brackets were not compared letter by letter; two errors in them were
+  found in passing (OLYMPUS, TROICUS), so more may be left.
+- **Plessis's README** (`4-plessis/README.md`, Accuracy) still says
+  that all its files have been proofread against the page images,
+  which is not true of the verses and the index until the items above
+  are done.
 
 ## Prompts
 
