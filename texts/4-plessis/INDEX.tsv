@@ -327,7 +327,7 @@ GRAI	794	Danaum	— metus Hector
 GRAI	1025	Danaum	— proceres
 GRAI	772	Danais	Danais vires Neptunus ministrat
 GRAI	45	Danaos	Danaos Apollo luctibus infestat
-GRAI	492, 659	Danaos, Danaos	— Hector invadit
+GRAI	492,659	Danaos,Danaos	— Hector invadit
 GRAI	808	Danaos	qui — modo turbabant, Trojani nunc fugiunt
 GRAI	912	Danaos	in — Xanthi fluctus Venus Apolloque attollunt
 GRAI	950	Danaos	ad — numina sua transfert Minerva
@@ -442,7 +442,7 @@ JUPPITER	93	Juppiter	Juppiter Thetidi respondet
 JUPPITER	286	Juppiter	— tantummodo adsit (Menelaus loquitur)
 JUPPITER	651	Jovis	Jovis nominativ. superos convocat in coetum
 JUPPITER	10	Jovis	Jovis genitiv. magni proles (Apollo)
-JUPPITER	248, 520	Jovis, Jovis	— proles (Sarpedon)
+JUPPITER	248,520	Jovis,Jovis	— proles (Sarpedon)
 JUPPITER	107	genitor	Genitor concilium dimittit
 JUPPITER	113	pater	Pater nominativ. omnipotens Somnum vocat
 JUPPITER	223	pater	— Saturnius Irim ad Priamum mittit
@@ -613,7 +613,7 @@ PRIAMIDES			cf. Hector.
 PRIAMUS	278	Priamus	accitur ad foedera cum Graecis jungenda
 PRIAMUS	1046	Priamus	— redit in castra, postquam Hectoris corpus Achilles reddidit
 PRIAMUS	726	Priami	Priami consilium expediam (loquitur Dolo)
-PRIAMUS	982, 983	Priami, Priami	— filius
+PRIAMUS	982,983	Priami,Priami	— filius
 PRIAMUS			cf. Hector.
 PRIAMUS	223	Priamum	Ad Priamum Juppiter Irin mittit
 PRIAMUS	1041	Priamum	Priamum vicisti (de se cum Achille loq.)
@@ -756,14 +756,14 @@ ULIXES	1010	Laertius	Laertius Ajacem luctando in ludis funebribus vincit
 VENUS	315	Venus	Paridem Menelao eripit
 VENUS	464	Venus	— Aeneam Diomedi
 VENUS	911	Venus	— et Apollo Xanthi fluctus in Graecos attollunt
-VENUS	236, 483	Veneris, Veneris	Veneris proles Aeneas
+VENUS	236,483	Veneris,Veneris	Veneris proles Aeneas
 VENUS	559	Veneris	— dextram Diomedes vulnerat
 VENUS	584	Veneris	— manum idem violavit
 VENUS	467	Venerem	In Venerem armis Diomedes irruit
 VENUS	309	Cytherea	Cytherea Paridem, cum Menelao pugnantem, tegit caligine
 VENUS	335	Cytherea	— aderit meo labori (Paris loq.)
 VENUS	470	Cytherea	— icta Diomedis hasta, petit caelum
-VULCANIUS	835, 961	Vulcania, Vulcania	Vulcania arma
+VULCANIUS	835,961	Vulcania,Vulcania	Vulcania arma
 VULCANUS	856	Vulcani	Vulcani auxilium Thetis orat
 VULCANUS	862	Ignipotens	Ignipotens in clipeo mundum caelaverat
 VULCANUS	106	Ignipotente	Ignipotente interposito, Junonis et Jovis certamen residit

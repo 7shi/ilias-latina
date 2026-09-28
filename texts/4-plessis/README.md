@@ -88,7 +88,7 @@ header row and four columns:
 - **verse**: the verse as printed in the index, written in full:
   "205-6" is "205-206", "245 bis" is "245bis", "895 sqq." is
   "895-899" (Aeneas meets Achilles and is saved by Neptune), and places
-  cited together ("248 et 520") share one row as "248, 520".  A
+  cited together ("248 et 520") share one row as "248,520".  A
   cross-reference ("ACHIVI cf. Grai.") has no verse.
 - **form**: the word of the verse that the row cites, as it stands in
   ilias.md; for a range, the word in one of its verses, and for a list,
