@@ -78,7 +78,7 @@ PDF page 70.
 | 16 | Egit et assiduis implevit questibus auras. |  |
 | 17 | Postquam nulla dies animum maerore levabat |  |
 | 18 | Nullaque lenibant patrios solacia fletus, |  |
-| 19 | Castra petit Danaum genibusque alTusus Atridae |  |
+| 19 | Castra petit Danaum genibusque affusus Atridae |  |
 | 20 | Per superos regnique decus miserabilis orat, | 20 |
 | 21 | Ut sibi causa suae reddatur nata salutis. |  |
 | 22 | Dona simul praefert. Vincuntur fletibus ejus |  |
@@ -163,15 +163,15 @@ PDF page 72.
 |---|---|---|
 | 47 | Vixque rogis superest tellus, vix ignibus arbor, |  |
 | 48 | Deerat ager tumulis. Jam noctis sidera nonae |  |
-| 49 | Transierant tlecimusque dies patefacerat orbcm, |  |
+| 49 | Transierant decimusque dies patefacerat orbem, |  |
 | 50 | Cum Danaum proceres in coetum clarus Achilles | 50 |
 | 51 | Convocat et causas hortatur pestis iniquae |  |
 | 52 | Edere Thestoriden. Tunc Calchas numina divum |  |
 | 53 | Consulit et causam pariter finemque malorum |  |
 | 54 | Invenit, effarique verens ope tutus Achillis |  |
-| 55 | Haec ait : « Infesli placemus numina Phoebi | 55 |
+| 55 | Haec ait : « Infesti placemus numina Phoebi | 55 |
 | 56 | Reddamusque pio castam Chryseida patri, |  |
-| 57 | Si volumus Danai portus intrare salulis ». |  |
+| 57 | Si volumus Danai portus intrare salutis ». |  |
 | 58 | Dixerat; exarsit subito violentia regis; |  |
 | 59 | Thestoriden dictis primum compellat amaris |  |
 | 60 | Mendacemque vocat; tum magnum incusat Achillem | 60 |
@@ -252,23 +252,23 @@ PDF page 74.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 83 | At Thetis audita nati prece dcserit undas |  |
+| 83 | At Thetis audita nati prece deserit undas |  |
 | 84 | Castraque Myrmidonum juxta petit et monet, armis |  |
 | 85 | Abstineat dextra, gressuque exinde per auras | 85 |
-| 86 | Emical aetheroas et in aurca sidcra fertur. |  |
-| 87 | Tunc gcnibus regis sparsis afTusa capillis : |  |
-| 88 | « Pronato venio genetrix, en, ad tua supplex |  |
+| 86 | Emicat aethereas et in aurea sidera fertur. |  |
+| 87 | Tunc genibus regis sparsis affusa capillis : |  |
+| 88 | « Pro nato venio genetrix, en, ad tua supplex |  |
 | 89 | Numina, summe parens! ulciscere meque meumque |  |
 | 90 | Pignus ab Atrida; quodsi permittitur illi, | 90 |
 | 91 | Ut flammas impune mei violarit Achillis, |  |
 | 92 | Turpiter occiderit superata libidine virtus. » |  |
-| 93 | Juppiter huic conlra : « Tristes depone querellas, |  |
+| 93 | Juppiter huic contra : « Tristes depone querellas, |  |
 | 94 | Magni diva maris, mecum labor iste manebit. |  |
 | 95 | Tu solare tui maerentia pectora nati » | 95 |
 | 96 | Dixit; at illa leves caeli delapsa per auras |  |
 | 97 | Litus adit patrium gratasque sororibus undas. |  |
 | 98 | Offensa est Juno : « Tantumque » ait « optime conjunx, |  |
-| 99 | Doride nala valet, tantum debelur Achilli, |  |
+| 99 | Doride nata valet, tantum debetur Achilli, |  |
 
 ### 写本異読
 
@@ -348,8 +348,8 @@ PDF page 76.
 | 118 | Extulerit Titana dies noctemque fugarit, |  |
 | 119 | Cogat in arma viros incautumque occupet hostem. » |  |
 | 120 | Nec mora : somnus abit levibusque per aera pennis | 120 |
-| 121 | Devolat in tbalamos Agamemnonis : ille sopore |  |
-| 122 | Corpus inundatum leni prostratus babebat. |  |
+| 121 | Devolat in thalamos Agamemnonis : ille sopore |  |
+| 122 | Corpus inundatum leni prostratus habebat. |  |
 | 123 | Ad quem sic loquitur curarum operumque levator : |  |
 
 ### 写本異読
@@ -373,20 +373,20 @@ PDF page 77.
 |---|---|---|
 | 124 | « Rex Danaum Atride, vigila et mandata Tonantis, |  |
 | 125 | Quae tibi missa simul delatus ab aethere porto. | 125 |
-| 126 | Accipe : ciiui primum Titan se emerserit undis, |  |
+| 126 | Accipe : cum primum Titan se emerserit undis, |  |
 | 127 | Fortibus arma jube socios aptare lacertis |  |
 | 128 | Et petere Iliacos instructo milite campos. » |  |
-| 129 | Dixit et lias repetit per quas modo vcnerat auras. |  |
+| 129 | Dixit et has repetit per quas modo venerat auras. |  |
 | 130 | Interea lucem terris dedit ignea lampas. | 130 |
-| 131 | Convocat altonitus visis Pelopeius heros |  |
-| 132 | In coelum proceres remque omnibus ordine pandil. |  |
+| 131 | Convocat attonitus visis Pelopeius heros |  |
+| 132 | In coetum proceres remque omnibus ordine pandit. |  |
 | 133 | Cuncti promittunt socias in proelia vires |  |
-| 134 | Hortanturque ducem ; quorum rex forlia dictis |  |
+| 134 | Hortanturque ducem ; quorum rex fortia dictis |  |
 | 135 | Pectora collaudat, grates agit omnibus aequas. | 135 |
 | 136 | Hic tum Thersites, quo non deformior alter |  |
-| 137 | Yenerat ad Trojam linguave protervior, ultra |  |
+| 137 | Venerat ad Trojam linguave protervior, ultra |  |
 | 138 | Bella gerenda negat patriasque hortatur ad oras |  |
-| 139 | Yertereiter; quem consiliis illustris Ulixes |  |
+| 139 | Vertere iter; quem consiliis illustris Ulixes |  |
 | 140 | Correptum dictis sceptro percussit eburno. | 140 |
 | 141 | Tunc vero ardescit conceptis litibus ira : |  |
 
@@ -415,11 +415,11 @@ PDF page 78.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 142 | Yix telis caruere manus, ad sitlera clamor |  |
-| 143 | Tollitur, et cnnclos pugnandi corripit ardor. |  |
+| 142 | Vix telis caruere manus, ad sidera clamor |  |
+| 143 | Tollitur, et cunctos pugnandi corripit ardor. |  |
 | 144 | Tandem sollerti prudentia Nestoris aevo |  |
-| 145 | Compressam miti sedavil peclore turbam | 145 |
-| 146 | Admonuilque duces dictis, responsa recordans |  |
+| 145 | Compressam miti sedavit pectore turbam | 145 |
+| 146 | Admonuitque duces dictis, responsa recordans |  |
 | 147 | Temporis illius, quo visus in Aulide serpens |  |
 | 148 | Consumpsit volucrum bis quattuor arbore fetus |  |
 | 149 | Atque ipsam invalido pugnantem corpore contra |  |
@@ -427,8 +427,8 @@ PDF page 78.
 | 151 | Tum sic deinde senex : « Moneo, remanete, Pelasgi; |  |
 | 152 | In decimo labor est, Calchas quem dixerat, anno, |  |
 | 153 | Quo caderet Danaum victricibus Ilion armis. » |  |
-| 154 | Assensere omnes, laudalur Nestoris aetas, |  |
-| 155 | Conciliumque simul dimittitur; arnia parari | 155 |
+| 154 | Assensere omnes, laudatur Nestoris aetas, |  |
+| 155 | Conciliumque simul dimittitur; arma parari | 155 |
 
 ### 写本異読
 
@@ -459,8 +459,8 @@ PDF page 79.
 | 156 | Dux jubet atque animos, aptari et corpora pugnae. |  |
 | 157 | Postera lux tacitas ut primum depulit umbras |  |
 | 158 | Et nitidum Titan radiis caput extulit undis, |  |
-| 159 | Protinus armari socios jubet accr Atrides |  |
-| 160 | Et peterc Iliacos instructo milite campos. | 160 |
+| 159 | Protinus armari socios jubet acer Atrides |  |
+| 160 | Et petere Iliacos instructo milite campos. | 160 |
 | 161 | Vos mihi nunc, Musae (quid enim non ordine nostis ?), |  |
 | 162 | Nomina clara ducum clarosque referte parentes |  |
 | 163 | Et dulces patrias : nam sunt haec munera vestra. |  |
@@ -502,17 +502,17 @@ PDF page 80.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 177 | Consilioque potens gcmina cum prole suorum |  |
-| 178 | It tertricenis munilus in arma carinis. |  |
+| 177 | Consilioque potens gemina cum prole suorum |  |
+| 178 | It ter tricenis munitus in arma carinis. |  |
 | 179 | At Schedius virtute potens et Epistrophus ingens |  |
-| 180 | Oloria Myrmidonum, saevi duo robora belli, | 180 |
+| 180 | Gloria Myrmidonum, saevi duo robora belli, | 180 |
 | 181 | Longa quaterdenis sulcarunt aequora proris. |  |
 | 182 | Et bis vicenas Polypoetes atque Leonteus |  |
 | 183 | Instruxere rates, ornatas milite forti. |  |
 | 184 | Euryalus Sthenelusque duces et fortis in armis |  |
-| 185 | Tydides valido pulsarunt remige fliictus | 185 |
+| 185 | Tydides valido pulsarunt remige fluctus | 185 |
 | 186 | Bisque quadragenas onerarunt milite puppes. |  |
-| 187 | Ascalaphusque potens et Ialmenus, acer ulerque, |  |
+| 187 | Ascalaphusque potens et Ialmenus, acer uterque, |  |
 | 188 | Ter denas valido complerunt remige naves. |  |
 | 189 | Et bis vicenas Locrum fortissimus Ajax |  |
 | 190 | Instruxit puppes totidemque Euhaemone natus. | 190 |
@@ -552,7 +552,7 @@ PDF page 81.
 | 195 | Et tribus ab Sume ratibus secat aequora Nireus, | 195 |
 | 196 | Tlepolemusque novem Rhodius, quos viribus acer |  |
 | 197 | Eumelus sequitur, minus una nave profectus |  |
-| 198 | Quain duxit Telamone satus Salaminius Ajax. |  |
+| 198 | Quam duxit Telamone satus Salaminius Ajax. |  |
 | 199 | At Prothous Magnes Tenthredone natus et una |  |
 | 200 | Euboeae longis Elephenor finibus ortus | 200 |
 | 201 | Dulichiusque Meges, animisque insignis et armis, |  |
@@ -589,14 +589,14 @@ PDF page 82.
 | Verse | Text | Printed |
 |---|---|---|
 | 202 | Aetola de gente Thoas Andraemone natus, |  |
-| 203 | Hi quadragenas onines duxerc carinas. |  |
+| 203 | Hi quadragenas omnes duxere carinas. |  |
 | 204 | Et bis sex Ithaci naves sollertia duxit; |  |
 | 205 | Quem sequitur totidem ratibus Telamonius Ajax, | 205 |
-| 206 | Egregia virtute potens; sinnil horrida Gunei |  |
+| 206 | Egregia virtute potens; simul horrida Gunei |  |
 | 207 | Ira his undenis tendebat in arma carinis. |  |
 | 208 | Idomeneus et Meriones, Cretaeus uterque, |  |
 | 209 | Bis quadragenis muniti navibus ibant. |  |
-| 210 | Et totidcm puppes clara de gente Menestheus | 210 |
+| 210 | Et totidem puppes clara de gente Menestheus | 210 |
 | 211 | Duxit Athenaeus, quot viribus addit Achilles. |  |
 | 212 | Amphimachusque ferox et Thalpius, Elide nati, |  |
 | 213 | Et clara virtute Polyxenus atque Diores. |  |
@@ -632,18 +632,18 @@ PDF page 83.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 219 | Altaqne tor denis sulcarunt aequora proris. |  |
+| 219 | Altaque ter denis sulcarunt aequora proris. |  |
 | 220 | His ducibus Grajae Trojana ad litora puppes | 220 |
-| 221 | Bis septeni venere minus quam mille ducentae. |  |
+| 221 | Bis septem venere minus quam mille ducentae. |  |
 | 223 | Tum pater ad Priamum mittit Saturnius Irim |  |
-| 224 | Quae doccat fortes venisse adbella Pelasgos. |  |
+| 224 | Quae doceat fortes venisse ad bella Pelasgos. |  |
 | 225 | Nec mora : continuo jussu capit arma parentis | 225 |
 | 226 | Priamides Hector totamque in proelia pubem |  |
 | 227 | Festinare jubet portisque agit agmen apertis. |  |
-| 228 | Cui fulgens auro cassis juvenile legebat |  |
+| 228 | Cui fulgens auro cassis juvenile tegebat |  |
 | 229 | Omni parte caput, munibat pectora thorax, |  |
 | 230 | Et clipeus laevam, dextram decoraverat hasta | 230 |
-| 231 | Ornabatque latus mucro; simul alta nitenles |  |
+| 231 | Ornabatque latus mucro; simul alta nitentes |  |
 | 232 | Crura tegunt ocreae, quales decet Hectoris esse. |  |
 | 233 | Hunc sequitur forma melior quam fortior armis, |  |
 | 234 | Belli causa Paris, patriae funesta ruina |  |
@@ -748,16 +748,16 @@ PDF page 86.
 |---|---|---|
 | 252 | Jamque duae stabant acies fulgentibus armis, |  |
 | 253 | Cum Paris, exitium Trojae funestaque flamma, |  |
-| 254 | Armatum adverso Menelaum cx agminc cernit |  |
+| 254 | Armatum adverso Menelaum ex agmine cernit |  |
 | 255 | Seque velut viso perterritus angue recepit | 255 |
-| 256 | Ad socios amens; qucm postquam turpiter Hector |  |
-| 257 | Confusum terrore videt : « dedecus » inquit |  |
+| 256 | Ad socios amens; quem postquam turpiter Hector |  |
+| 257 | Confusum terrore videt : « O dedecus » inquit |  |
 | 258 | « Aeternum patriae generisque infamia nostri, |  |
 | 259 | Terga refers? at non dubitabas hospitis olim |  |
 | 260 | Expugnare toros, cujus nunc defugis arma | 260 |
-| 261 | Yimque timcs! ubi sunt vires, ubi cognita nobis |  |
+| 261 | Vimque times! ubi sunt vires, ubi cognita nobis |  |
 | 262 | Ludorum quondam vario in certamine virtus? |  |
-| 263 | Ilic animos ostende tuos : nihil adjuvat arma |  |
+| 263 | Hic animos ostende tuos : nihil adjuvat arma |  |
 
 ### 写本異読
 
@@ -780,25 +780,25 @@ PDF page 87.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 264 | Nobilitas formae : duro Mars milite gaudct. |  |
-| 265 | Dum jaccas in amore tuo, nos bella gcremus | 265 |
-| 266 | Scilicct et nostrum fundemus in hoste cruorem ! |  |
-| 267 | Acquius ndversis tecum concurrat in armis |  |
+| 264 | Nobilitas formae : duro Mars milite gaudet. |  |
+| 265 | Dum jaceas in amore tuo, nos bella geremus | 265 |
+| 266 | Scilicet et nostrum fundemus in hoste cruorem ! |  |
+| 267 | Aequius adversis tecum concurrat in armis |  |
 | 268 | Impiger Atrides : spectet Danaumque Phrygumque |  |
-| 269 | Deposilis populus telis, vos foedcre juncto |  |
-| 270 | Advcrsas confcrte manus, deccrnite ferro. » | 270 |
+| 269 | Depositis populus telis, vos foedere juncto |  |
+| 270 | Adversas conferte manus, decernite ferro. » | 270 |
 | 271 | Dixit ; quem contra paucis Priameius heros |  |
 | 272 | « Quid nimis indignis » inquit « me vocibus urgues, |  |
 | 273 | O patriae, germane, decus? nam nec mihi conjunx |  |
 | 274 | Pravaque luxuria est potior virtutis honore; |  |
 | 275 | Nec vires temptare viri dextramque recuso, | 275 |
 | 276 | Dummodo victorem conjunx cum pace sequatur. » |  |
-| 277 | Dicta rcfert Hector; placuit sentcntia Grais. |  |
-| 278 | Protinus accitur Priamus, sacrisquc peractis |  |
-| 279 | Foedcra junguntur; post haec dccedit uterque |  |
+| 277 | Dicta refert Hector; placuit sententia Grais. |  |
+| 278 | Protinus accitur Priamus, sacrisque peractis |  |
+| 279 | Foedera junguntur; post haec decedit uterque |  |
 | 280 | Depositis populus telis, campusque patescit. | 280 |
 | 281 | Interea toto procedit ab agmine Troum |  |
-| 282 | Pulchcr Alexander, chipcoque insignisethasta. |  |
+| 282 | Pulcher Alexander, clipeoque insignis et hasta. |  |
 
 ### 写本異読
 
@@ -827,12 +827,12 @@ PDF page 88.
 | Verse | Text | Printed |
 |---|---|---|
 | 283 | Quem contra paribus fulgens Menelaus in armis |  |
-| 284 | Constititet « Tecum mihi sint certamina » dixit; |  |
-| 285 | « Nec longum nostra laetaberc conjuge, quam te | 285 |
+| 284 | Constitit et « Tecum mihi sint certamina » dixit; |  |
+| 285 | « Nec longum nostra laetabere conjuge, quam te | 285 |
 | 286 | Mox rapuisse gemes, tantummodo Juppiter adsit. » |  |
-| 287 | Dixit et adversum se concitat acer in hostom. |  |
-| 288 | Ille virum forti venientem reppulit iclu |  |
-| 289 | Seque gradu celeri recipil longeque trementem |  |
+| 287 | Dixit et adversum se concitat acer in hostem. |  |
+| 288 | Ille virum forti venientem reppulit ictu |  |
+| 289 | Seque gradu celeri recipit longeque trementem |  |
 | 290 | Hastam deinde jacit, quam devitavit Atrides. | 290 |
 | 291 | Inque vicem misso fixisset corpora telo |  |
 | 292 | Praedonis Phrygii, ni vastum ferrea pectus |  |
@@ -840,13 +840,13 @@ PDF page 88.
 | 294 | Insequitur clamor; tum vero adversus uterque |  |
 | 295 | Constitit et galeam galea terit et pede plantam | 295 |
 | 296 | Conjungit, stridetque mucro mucrone corusco. |  |
-| 298 | Non aliter forles nitida de conjuge tauri |  |
+| 298 | Non aliter fortes nitida de conjuge tauri |  |
 
 ### 本文下欄
 
 | Verse | Text | Printed |
 |---|---|---|
-| 297 | Corpus collectum tegilur fulgentibus armis | 297 |
+| 297 | Corpus collectum tegitur fulgentibus armis | 297 |
 
 ミュラーとベーレンスがすでに偽作として角括弧で囲んだ。
 
@@ -874,16 +874,16 @@ PDF page 89.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 299 | Bella gerunt vastisque replent nmgitibus auras. |  |
-| 300 | Jamque diu rigido captarant corpora fcrro, | 300 |
+| 299 | Bella gerunt vastisque replent mugitibus auras. |  |
+| 300 | Jamque diu rigido captarant corpora ferro, | 300 |
 | 301 | Cum memor Atrides raptae sibi conjugis instat |  |
-| 302 | Dardaniumque premit juvenem mox ense rigentc ; |  |
-| 303 | Cedentemque relro dum desuper appelit hostem, |  |
+| 302 | Dardaniumque premit juvenem mox ense rigente ; |  |
+| 303 | Cedentemque retro dum desuper appetit hostem, |  |
 | 304 | Splendidus extremas galeae percussus ad oras |  |
 | 305 | Dissiluit mucro; gemuerunt agmina Grajum. | 305 |
 | 306 | Tum vero ardescit, quamvis manus ense carebat, |  |
 | 307 | Et juvenem arrepta prosternit casside victor |  |
-| 308 | Ad sociosque trahit, etni caligine caeca |  |
+| 308 | Ad sociosque trahit, et ni caligine caeca |  |
 | 309 | Texisset Cytherea virum subjectaque mento |  |
 | 310 | Fortia laxatis rupisset vincula nodis, | 310 |
 | 311 | Ultimus ille dies Paridi foret. Abstrahit auro |  |
@@ -926,7 +926,7 @@ PDF page 90.
 | 317 | Ipsa dehinc Helenam muris arcessit ab altis |  |
 | 318 | Dardanioque suos Paridi deducit amores. |  |
 | 319 | Quem tali postquam conspexit voce locuta est |  |
-| 320 | « Yenisti, mea flamma, Paris, superatus ab armis | 320 |
+| 320 | « Venisti, mea flamma, Paris, superatus ab armis | 320 |
 | 321 | Conjugis antiqui? vidi puduitque videre, |  |
 | 322 | Arreptum cum te traheret violentus Atrides |  |
 | 323 | Iliacoque tuos foedaret pulvere crines. |  |
@@ -936,9 +936,9 @@ PDF page 90.
 | 327 | Quis tibi cum saevo suasit contendere Atrida? |  |
 | 328 | An nondum vaga fama tuas pervenit ad aures |  |
 | 329 | De virtute viri? moneo, ne rursus iniquae |  |
-| 330 | Illius tua fata velis commiltere dextrae. » | 330 |
+| 330 | Illius tua fata velis committere dextrae. » | 330 |
 | 331 | Dixerat, et largis perfundit fletibus ora. |  |
-| 332 | Trislis Alexander « Non me superavit Atrides, |  |
+| 332 | Tristis Alexander « Non me superavit Atrides, |  |
 | 333 | O meus ardor! » ait, « sed castae Palladis ira. |  |
 
 ### 写本異読
@@ -967,7 +967,7 @@ PDF page 91.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 334 | Mox illum nostris succumbcrc turpiter armis |  |
+| 334 | Mox illum nostris succumbere turpiter armis |  |
 | 335 | Aspicies, aderitque meo Cytherea labori. » | 335 |
 | 336 | Post haec amplexu per mutua corpora juncto |  |
 | 337 | Incubuit membris Cygneidos; illa soluto |  |
@@ -1003,8 +1003,8 @@ PDF page 92.
 | 348 | Incidit et tunicam ferro squamisque rigentem |  |
 | 349 | Dissecat : excedit pugna gemebundus Atrides |  |
 | 350 | Castraque tuta petit. Quem doctus ab arte paterna | 350 |
-| 351 | Paeoniis curat juvenis Podalirius lierbis |  |
-| 352 | Atquc iterum in caedes horrendaque proelia mittit. |  |
+| 351 | Paeoniis curat juvenis Podalirius herbis |  |
+| 352 | Atque iterum in caedes horrendaque proelia mittit. |  |
 | 353 | Armavit fortes Agamemnonis ira Pelasgos, |  |
 | 354 | Et dolor in pugnam cunctos communis agebat. |  |
 
@@ -1028,20 +1028,20 @@ PDF page 93.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 355 | Bellum mgons oritur, multumque utrimque' cruoris | 355 |
+| 355 | Bellum ingens oritur, multumque utrimque cruoris | 355 |
 | 356 | Funditur et totis sternuntur corpora campis ; |  |
 | 357 | Inque vicem Troumque cadunt Danaumque catervae. |  |
 | 358 | Nec requies datur ulla viris; sonat undique Mavors, |  |
 | 359 | Telorumque volat cunctis e partibus imber. |  |
 | 360 | Occidit Antilochi rigido demissus ad umbras | 360 |
 | 361 | Ense Thalysiades optataque lumina linquit. |  |
-| 362 | Inde manu iorti Grajorum terga prementem |  |
+| 362 | Inde manu forti Grajorum terga prementem |  |
 | 363 | Occupat Anthemione satum Telamonius Ajax |  |
 | 364 | Et praedurato transfigit pectora telo : |  |
 | 365 | Purpuream vomit ille animam, sua sanguine multo | 365 |
 | 366 | Arma rigat moriens. Tum magnis Antiphus hastam |  |
 | 367 | Viribus adversum conisus corpore toto |  |
-| 368 | Torquet in Ajacem : telumque erravit ab lioste |  |
+| 368 | Torquet in Ajacem : telumque erravit ab hoste |  |
 
 ### 写本異読
 
@@ -1071,17 +1071,17 @@ PDF page 94.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 369 | Inquc hostem cecidit, namque ictus in inguine Leucus. |  |
+| 369 | Inque hostem cecidit, namque ictus in inguine Leucus. |  |
 | 370 | Concidit infelix prostratus vulnere tristi | 370 |
-| 371 | Et carpit virides moribundis dcntibus lierbas. |  |
+| 371 | Et carpit virides moribundis dentibus herbas. |  |
 | 372 | Impiger Atrides casu commotus amici |  |
 | 373 | Democoonta petit teloque adversa trabali |  |
-| 374 | Tempora transadigit vaginaque horridus cnsem |  |
-| 375 | Eripit; illc suis moriens resupinus in armis | 375 |
+| 374 | Tempora transadigit vaginaque horridus ensem |  |
+| 375 | Eripit; ille suis moriens resupinus in armis | 375 |
 | 376 | Concidit et terram moribundo vertice pulsat. |  |
 | 377 | Jamque Amarynciden saxi dejecerat ictu |  |
-| 378 | Pirous Imbrasides dedcratque silentibus umbris; |  |
-| 379 | Dumque avidus praedae juvencm spoliare parabat, |  |
+| 378 | Pirous Imbrasides dederatque silentibus umbris; |  |
+| 379 | Dumque avidus praedae juvenem spoliare parabat, |  |
 | 380 | Desuper hasta venit dextra librata Thoantis, | 380 |
 | 381 | Perque viri scapulas annosaque pectora transit. |  |
 
@@ -1116,13 +1116,13 @@ PDF page 95.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 382 | In vultus rnit ille suos calidumque cruorem |  |
+| 382 | In vultus ruit ille suos calidumque cruorem |  |
 | 383 | Ore vomit stratusque super sua palpitat arma. |  |
-| 384 | Sauguine Dardanii manabant undique campi, |  |
-| 385 | M anabant amnes passim ; pugnatur ubique, | 385 |
+| 384 | Sanguine Dardanii manabant undique campi, |  |
+| 385 | Manabant amnes passim ; pugnatur ubique, | 385 |
 | 386 | Ardet et immixtis amborum exercitus armis, |  |
 | 387 | Et modo Trojanis virtus, modo crescit Achivis, |  |
-| 388 | Laetaque per varios petilur victoria casus. |  |
+| 388 | Laetaque per varios petitur victoria casus. |  |
 
 ### 写本異読
 
@@ -1147,7 +1147,7 @@ PDF page 96.
 | 390 | Agmina Tydides tumidumque increscere Martem. | 390 |
 | 391 | In medias acies, qua plurimus imminet hostis, |  |
 | 392 | Irruit et versas prosternit caede phalanges |  |
-| 393 | IIuc illuc ensemque ferox hastamque coruscat. |  |
+| 393 | Huc illuc ensemque ferox hastamque coruscat. |  |
 | 394 | Bellica Pallas adest flagrantiaque ignibus arma |  |
 | 395 | Adjuvat atque animos juveni viresque ministrat. | 395 |
 | 396 | Ille, boum veluti viso grege saeva leaena, |  |
@@ -1188,8 +1188,8 @@ PDF page 97.
 | 409 | Transadigitque viri pectus ; pars cuspidis ante |  |
 | 410 | Eminet, et prodit scapulis pars altera fossis. | 410 |
 | 411 | Hunc ubi fundentem calidum de pectore flumen |  |
-| 412 | Yersantemque oculos animamque per ora vomentem |  |
-| 413 | Conspexil frater, stricto celer advolat ense |  |
+| 412 | Versantemque oculos animamque per ora vomentem |  |
+| 413 | Conspexit frater, stricto celer advolat ense |  |
 | 414 | Germanique cupit fatorum existere vindex. |  |
 | 415 | Sed neque vim saevi nec fortia sustinet arma | 415 |
 | 416 | Tydidae contraque tamen defendere temptat. |  |
@@ -1221,7 +1221,7 @@ PDF page 98.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 417 | Ut volucris, derepta sni cum corpora nati |  |
+| 417 | Ut volucris, derepta sui cum corpora nati |  |
 | 418 | Accipitrem laniare videt, nec tendere contra |  |
 | 419 | Auxilium nec ferre suo valet anxia nato, |  |
 | 420 | Quodque potest, levibus plangit sua pectora pennis : | 420 |
@@ -1268,12 +1268,12 @@ PDF page 99.
 | 432 | Meriones Phereclum vibrata perculit hasta, |  |
 | 433 | Pedaeumque Meges ; tum vastis horridus armis |  |
 | 434 | Eurypylus gladio venientem Hypsenora fundit |  |
-| 435 | Et pariter vila juvenem spoliavit et armis. | 435 |
+| 435 | Et pariter vita juvenem spoliavit et armis. | 435 |
 | 436 | Parte alia volitat sinuoso Pandarus arcu |  |
 | 437 | Tydidenque oculis immensa per agmina quaerit. |  |
 | 438 | Quem postquam Troum sternentem corpora vidit, |  |
 | 439 | Horrida contento derexit spicula cornu |  |
-| 440 | Et surnmas umeri destrinxit acumine partes. MO |  |
+| 440 | Et summas umeri destrinxit acumine partes. |  |
 | 441 | Tum vero ardescit juvenis Calydonius ira, |  |
 | 442 | In mediasque acies animosi more leonis |  |
 | 443 | Fertur et Astynoum magnumque in Hypirona tendit : |  |
@@ -1304,21 +1304,21 @@ PDF page 100.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 444 | Coroinus lmnc gladio, jaculo ferit eminus illum. |  |
+| 444 | Cominus hunc gladio, jaculo ferit eminus illum. |  |
 | 445 | Inde premit Polyidon Abantaque cuspide forti | 445 |
-| 446 | Etnolnm bello Xanthum vastumque Thoonem. |  |
+| 446 | Et notum bello Xanthum vastumque Thoonem. |  |
 | 447 | Post hos infestus Chromiumque et Echemona telo |  |
 | 448 | Proturbat celeri pariterque ad Tartara mittit. |  |
 | 449 | Tu quoque Tydidae prostratus, Pandare, dextra |  |
 | 450 | Occidis, infelix, accepto vulnere turpi, | 450 |
-| 451 | Dexteraqiia naris fronti conjungitur imae. |  |
-| 452 | Dissipat etcerebrum galeae cum parte revulsum |  |
+| 451 | Dextera qua naris fronti conjungitur imae. |  |
+| 452 | Dissipat et cerebrum galeae cum parte revulsum |  |
 | 453 | Ossaque confossi spargit Tydeius ensis. |  |
-| 454 | Jamque manum Aeneas simul et Calydonius hcros |  |
+| 454 | Jamque manum Aeneas simul et Calydonius heros |  |
 | 455 | Contulerant jactisque inter se cominus hastis | 455 |
 | 456 | Undique rimabant inimico corpora ferro, |  |
 | 457 | Et modo cedebant retro, modo deinde coibant. |  |
-| 458 | Postquam utrique diu steterant ncc vulnera maguus |  |
+| 458 | Postquam utrique diu steterant nec vulnera magnus |  |
 
 ### 写本異読
 
@@ -1349,9 +1349,9 @@ PDF page 101.
 | Verse | Text | Printed |
 |---|---|---|
 | 459 | Qua daret infesto Tydides ense videbat, |  |
-| 460 | Saxum ingens. medio quod forte jaeebat in agro, | 460 |
-| 461 | F»is seni quod vix juvenes tellure levarent, |  |
-| 462 | Sustnlil et magno conamine misit in hostem. |  |
+| 460 | Saxum ingens, medio quod forte jacebat in agro, | 460 |
+| 461 | Bis seni quod vix juvenes tellure levarent, |  |
+| 462 | Sustulit et magno conamine misit in hostem. |  |
 | 463 | Ille ruit prostratus humi cum fortibus armis; |  |
 | 464 | Quem Venus aethereas genetrix delapsa per auras |  |
 | 465 | Excipit, et nigra corpus caligine texit. | 465 |
@@ -1395,22 +1395,22 @@ PDF page 102.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 476 | Ilic alius rapido dejcctus in aequora curru |  |
+| 476 | Hic alius rapido dejectus in aequora curru |  |
 | 477 | Proteritur pedibusque simul calcatur equorum; |  |
 | 478 | Atque alius volucri trajectus pectora telo |  |
-| 479 | Quadrupedis tergo pronus rnit; illius ense |  |
-| 480 | Dejectum longe caput a cervice cucurrit; hSO |  |
+| 479 | Quadrupedis tergo pronus ruit; illius ense |  |
+| 480 | Dejectum longe caput a cervice cucurrit; |  |
 | 481 | Hic jacet exanimis fuso super arma cerebro : |  |
-| 482 | Sanguine manat liumus, campi sudorc madescunt. |  |
+| 482 | Sanguine manat humus, campi sudore madescunt. |  |
 | 483 | Emicat interea Veneris pulcherrima proles |  |
-| 484 | Densaque Grajorum premit agmina uudaque late |  |
-| 485 | Terga metitgladio funestaque proelia miscet. | /180 |
+| 484 | Densaque Grajorum premit agmina nudaque late |  |
+| 485 | Terga metit gladio funestaque proelia miscet. | 485 |
 | 486 | Nec cessat spes una Phrygum fortissimus Hector |  |
-| 487 | Sternere caede viros alque agmina vertere Grajum. |  |
+| 487 | Sternere caede viros atque agmina vertere Grajum. |  |
 | 488 | Ut lupus in campis pecudes cum vidit apertis, |  |
 | 489 | Non actor gregis ipse comes, non horrida terret |  |
 | 490 | Turba canum; fremit esuriens et neglegit omnes | 490 |
-| 491 | In mediosque greges avidus ruit : liaut secus Hector |  |
+| 491 | In mediosque greges avidus ruit : haut secus Hector |  |
 | 492 | Invadit Danaos et territat ense cruento. |  |
 | 493 | Deficiunt Grajorum acies, Phryges acrius instant |  |
 | 494 | Attolluntque animos : geminat victoria vires. |  |
@@ -1453,16 +1453,16 @@ PDF page 103.
 | 503 | In mediam erecto contendit pectore turbam : |  |
 | 504 | Sic ferus Atrides adversos fertur in hostes |  |
 | 505 | Infestasque Phrygum proturbat cuspide turmas. | 505 |
-| 506 | Yirtus clara ducis vires ascendit Achivum, |  |
+| 506 | Virtus clara ducis vires ascendit Achivum, |  |
 | 507 | Et spes exacuit languentia militis arma : |  |
-| 508 | Funduntur Teucri, Danai Iaetantur ovantes. |  |
+| 508 | Funduntur Teucri, Danai laetantur ovantes. |  |
 | 509 | Tandem hic Aenean immisso tendere curru |  |
 | 510 | Conspicit Atrides strictoque occurrere ferro | 510 |
 | 511 | Comparat et jaculum, quantas furor ipse movebat, |  |
 | 512 | Viribus intorquet, quod detulit error ab illo |  |
 | 513 | Pectus in aurigae stomachoque infigitur alto : |  |
 | 514 | Ille ruens ictu media inter lora rotasque |  |
-| 515 | Yolvitur et vitam calido cum sanguine fundit. | 515 |
+| 515 | Volvitur et vitam calido cum sanguine fundit. | 515 |
 
 ### 写本異読
 
@@ -1571,7 +1571,7 @@ PDF page 106.
 | 542 | Incumbunt Danai, cedit Trojana juventus |  |
 | 543 | Tergaque nuda tegit; sensit Mavortius Hector, |  |
 | 544 | Pro Danais pugnare deos validasque suorum |  |
-| 545 | Virginis armigerae subduci numine vires, | 5/io |
+| 545 | Virginis armigerae subduci numine vires, | 545 |
 | 546 | Continuoque petit muros Hecubamque vocari |  |
 | 547 | Imperat et divae placari numina suadet. |  |
 | 548 | Protinus auratas innuptae Palladis arces |  |
@@ -1602,13 +1602,13 @@ PDF page 107.
 | 553 | Interea Glaucus stricto decernere ferro |  |
 | 554 | Cum Diomede parat nomenque genusque roganti, |  |
 | 555 | Quis sit et unde satus, magnis cum viribus hastam | 555 |
-| 556 | Mittere temptahat, temptanti Aetolius heros |  |
+| 556 | Mittere temptabat, temptanti Aetolius heros |  |
 | 557 | « Quo ruis? » exclamat « quae te, scelerate, furentem |  |
 | 558 | Mens agit imparibus mecum concurrere telis? |  |
-| 559 | Hospilis arma vides, Veneris qui vulnere dextram |  |
+| 559 | Hospitis arma vides, Veneris qui vulnere dextram |  |
 | 560 | Perculit et summo pupugit certamine Martem. | 560 |
 | 561 | Pone truces animos infestaque tela coerce ». |  |
-| 562 | Post haec inter se posito cerlamine pugnae |  |
+| 562 | Post haec inter se posito certamine pugnae |  |
 | 563 | Commutant clipeos inimicaque proelia lincunt. |  |
 | 564 | Colloquium petit interea fidissima conjunx |  |
 
@@ -1644,10 +1644,10 @@ PDF page 108.
 | 568 | Convertit timidos materna ad pectora vultus |  |
 | 569 | Terribilemque fugit galeam cristamque micantem. |  |
 | 570 | Utque caput juvenis posito detexerat aere, | 570 |
-| 571 | Protinus infanlem geminis amplectitur ulnis |  |
+| 571 | Protinus infantem geminis amplectitur ulnis |  |
 | 572 | Attollensque manus « Precor, o pater optime » dixit, |  |
 | 573 | Ut meus hic, pro quo tua numina natus adoro, |  |
-| 574 | Yirtutes patrias primis imitetur ab annis ». |  |
+| 574 | Virtutes patrias primis imitetur ab annis ». |  |
 
 ### 写本異読
 
@@ -1705,15 +1705,15 @@ PDF page 110.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 586 | Et citbara dulci durum lenibat amorem. |  |
+| 586 | Et cithara dulci durum lenibat amorem. |  |
 | 587 | Ergo ubi dejectis auratam regis Atridae |  |
 | 588 | Sortibus in galeam magnus processerat Ajax, |  |
-| 589 | Principio jactis commidunt proelia telis, |  |
-| 590 | Mox rigidos slringunt enses et forlibus armis | 590 |
+| 589 | Principio jactis committunt proelia telis, |  |
+| 590 | Mox rigidos stringunt enses et fortibus armis | 590 |
 | 591 | Decernunt partesque oculis rimantur apertas |  |
-| 592 | Et modo terga petunt, duros modo forlibus ictus |  |
+| 592 | Et modo terga petunt, duros modo fortibus ictus |  |
 | 593 | Depellunt clipeis; ingens ad sidera clamor |  |
-| 594 | Tollitur et vastis impletur vocibus aellier. |  |
+| 594 | Tollitur et vastis impletur vocibus aether. |  |
 | 595 | Non sic setigeri exacuunt fervoribus iras | 595 |
 | 596 | Pectoribusque fremunt vastis, mox dentibus uncis |  |
 | 598 | Fortia terga petunt spumantque per ora vicissim, | [598] |
@@ -1753,14 +1753,14 @@ PDF page 111.
 | Verse | Text | Printed |
 |---|---|---|
 | 599 | Fumiferae nubes et crebri fulminis ignes |  |
-| 600 | Jactantnr magnoque implentur murmure silvae. | 600 |
+| 600 | Jactantur magnoque implentur murmure silvae. | 600 |
 | 602 | Tandem animis armisque furens Telamonius Ajax | [602] |
 | 603 | Insignem bello petit Hectora, quaque patescit |  |
-| 604 | Nuda viri cervix, fulgentem derigit bastam : |  |
+| 604 | Nuda viri cervix, fulgentem derigit hastam : |  |
 | 605 | Ille ictum celeri praevidit callidus astu | 605 |
 | 606 | Tergaque summisit ferrumque umbone repellit. |  |
 | 607 | Sed levis extremas clipei perlabitur oras |  |
-| 608 | Guspis et exiguo cervicem vulnere libat. |  |
+| 608 | Cuspis et exiguo cervicem vulnere libat. |  |
 | 609 | Acrius impugnans rursus consurgit in hostem |  |
 | 610 | Priamides nec jam ferro Telamone creatum, | 610 |
 
@@ -1799,7 +1799,7 @@ PDF page 112.
 |---|---|---|
 | 611 | Sed magno saxi jactu petit; at ferus Ajax |  |
 | 612 | Ingentem clipeo septemplice reppulit ictum |  |
-| 613 | Etjuvenem saxo percussum sternit eodem. |  |
+| 613 | Et juvenem saxo percussum sternit eodem. |  |
 | 614 | Quem levat exceptum Grais inimicus Apollo, |  |
 | 615 | Integrat atque animum ; jam rursus ad arma coibant | 615 |
 | 616 | Stringebantque iterum gladios, cum fessus in undas |  |
@@ -1846,12 +1846,12 @@ PDF page 113.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 627 | « Absistamus » ait, «nam vis communis utrique »; | [627] |
+| 627 | « Absistamus » ait, « nam vis communis utrique »; | [627] |
 | 628 | Et prior Ajacem fulgenti munerat ense |  |
-| 629 | Inquc vicem, quo se bellator cinxerat Ajax, |  |
+| 629 | Inque vicem, quo se bellator cinxerat Ajax, |  |
 | 630 | Accipit insignem vario caelamine balteum. | 630 |
 | 631 | Post haec extemplo Danaum Troumque catervae |  |
-| 632 | Disccdunt, caelumque tegit nox atra tenebris. |  |
+| 632 | Discedunt, caelumque tegit nox atra tenebris. |  |
 | 633 | Implentur dapibus largis Bacchique liquore |  |
 | 634 | Atque avidi placido tradunt sua corpora somno. |  |
 | 635 | Postera cum primum stellas Aurora fugarat, | 635 |
@@ -1889,13 +1889,13 @@ PDF page 114.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 643 | Ultro etiam castris Idaeum cxcedere jussit. |  |
-| 644 | Paruit is monilis iterumque ad castra reversus |  |
+| 643 | Ultro etiam castris Idaeum excedere jussit. |  |
+| 644 | Paruit is monitis iterumque ad castra reversus |  |
 | 645 | Troica contemptum duro se reddit ab hoste. | 645 |
-| 646 | Interea Danai confusa caede suorurn |  |
-| 647 | Ingentes struxere pyras collectaqUe passim |  |
+| 646 | Interea Danai confusa caede suorum |  |
+| 647 | Ingentes struxere pyras collectaque passim |  |
 | 648 | Fortia tradiderunt sociorum corpora flammis; |  |
-| 649 | Tum rcnovant fossas et vallum robore cingunt. |  |
+| 649 | Tum renovant fossas et vallum robore cingunt. |  |
 
 ### 写本異読
 
@@ -1923,7 +1923,7 @@ PDF page 115.
 | 651 | Convocat in coetum superos Jovis et monet omnes, |  |
 | 652 | Ne contra sua dicta velint contendere divi. |  |
 | 653 | Ipse per aethereas caeli delabitur auras |  |
-| 654 | Umbrosisque simul consedit montibns Idae; |  |
+| 654 | Umbrosisque simul consedit montibus Idae; |  |
 | 655 | Inde acies videt Iliacas dextraque potenti | 655 |
 | 656 | Sustinet auratas aequato pondere lances |  |
 | 657 | Fataque dura Phrygum casusque expendit Achivum |  |
@@ -1954,23 +1954,23 @@ PDF page 116.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 661 | Unum quippo decus Phrygiae; turbantur Achivi |  |
+| 661 | Unum quippe decus Phrygiae; turbantur Achivi |  |
 | 662 | Doricaque ingenti complentur castra tumultu. |  |
 | 663 | Hortatur socios muris inclusus Atrides |  |
-| 664 | Languentesque auimos juvenum in certamina firmat. |  |
+| 664 | Languentesque animos juvenum in certamina firmat. |  |
 | 665 | Princeps Tydides ardentibus emicat armis, | 665 |
-| 666 | Pcr mediosquc hoslcs immaui turbine iortiir. |  |
+| 666 | Per mediosque hostes immani turbine fertur. |  |
 | 667 | Hic illi occurrit fatis Agelaus iniquis, |  |
-| 668 | Telum immauc manu quatiens, quem maximus heros |  |
-| 669 | Occupat ct duro mcdium transvcrherat ense- |  |
+| 668 | Telum immane manu quatiens, quem maximus heros |  |
+| 669 | Occupat et duro medium transverberat ense. |  |
 | 670 | Hinc Phrygas Ajacis vastis protectus in armis | 670 |
 | 671 | Teucer agit spargitque leves in terga sagittas. |  |
-| 672 | Gorgythiona ferum lelali vulnere fundit, |  |
+| 672 | Gorgythiona ferum letali vulnere fundit, |  |
 | 673 | Mox alias acies petit aurigamque superbi |  |
 | 674 | Hectoris obtruncat. Quem saxo Troius heros |  |
 | 675 | Occupat excussoque incautum proterit arcu : | 675 |
 | 676 | Ast illum fidi rapiunt de caede sodales |  |
-| 677 | Prostratumque levant. Ruit undiquc turhidus Hector |  |
+| 677 | Prostratumque levant. Ruit undique turbidus Hector |  |
 | 678 | Adversasque acies infesta cuspide terret. |  |
 | 679 | Sic rursus Danai turbati caede suorum |  |
 
@@ -2007,7 +2007,7 @@ PDF page 117.
 | 682 | At Phryges obsidunt inclusos aggere Grajos |  |
 | 683 | Excubituque premunt muros flammisque coronant. |  |
 | 684 | Cetera per campos sternunt sua corpora pubes |  |
-| 685 | Indulgontque mero, curis animosque resolvunt. | 685 |
+| 685 | Indulgentque mero, curis animosque resolvunt. | 685 |
 
 ### 写本異読
 
@@ -2032,12 +2032,12 @@ PDF page 118.
 | 686 | Attoniti Danaum proceres discrimine tanto |  |
 | 687 | Nec dapibus relevant animos nec corpora curant, |  |
 | 688 | Sed miseri sua fata gemunt. Jam, nocte recepti, |  |
-| 689 | Legatos mitlunt dextramque hortantur Achillis, |  |
+| 689 | Legatos mittunt dextramque hortantur Achillis, |  |
 | 690 | Ut ferat auxilium miseris. Thetideius heros | 690 |
 | 691 | Nec Danaum capit aure preces nec munera regis |  |
 | 692 | Ulla referre cupit; non illum redditus ignis |  |
 | 693 | Atque intacta suo Briseis corpore movit: |  |
-| 694 | Irrita legati rcferunt responsa Pelasgis. |  |
+| 694 | Irrita legati referunt responsa Pelasgis. |  |
 
 ### 本文下欄
 
@@ -2073,7 +2073,7 @@ PDF page 119.
 | Verse | Text | Printed |
 |---|---|---|
 | 696 | Ulterius tenebrae tarde labentibus astris [696] |  |
-| 697 | Restabatque super tacitae pars tertia noetis, |  |
+| 697 | Restabatque super tacitae pars tertia noctis, |  |
 | 698 | Cum Danaum jussu castris Aetolius heros |  |
 | 699 | Egreditur sociumque sibi delegit Ulixem, |  |
 | 700 | Qui secum tacitae sublustri noctis in umbra | 700 |
@@ -2114,11 +2114,11 @@ PDF page 120.
 | 709 | Post densos fructices, dum spe percussus inani |  |
 | 710 | Tros Eumediades cursu praecederet illos, | 710 |
 | 711 | Ne facile oppressus gressum in sua castra referret. |  |
-| 712 | Post ubi transierat Fidens animoque manuque, |  |
+| 712 | Post ubi transierat fidens animoque manuque, |  |
 | 713 | Prosiluere viri juvenemque evadere cursu |  |
 | 714 | Conantem capiunt ferroque manuque minantur. |  |
 | 715 | Ille, timore pavens, « Vitam concedite » dixit | 715 |
-| 716 | « Hoc unum satis esl; quodsi perstatis in ira, |  |
+| 716 | « Hoc unum satis est; quodsi perstatis in ira, |  |
 | 717 | Quanta ex morte mea capietis praemia laudis ? |  |
 | 718 | At si cur veniam tacitis exquiritis umbris : |  |
 | 719 | Maxima Troja mihi currum promisit Achillis, |  |
@@ -2158,8 +2158,8 @@ PDF page 121.
 | Verse | Text | Printed |
 |---|---|---|
 | 727 | Expediam Phrygiae ». Postquam quid Troja pararet |  |
-| 728 | Cogoovere viri, fauees mucrone recluso |  |
-| 729 | DifQndunt juveni : post liaec tentoria Rhesi |  |
+| 728 | Cognovere viri, fauces mucrone recluso |  |
+| 729 | Diffindunt juveni : post haec tentoria Rhesi |  |
 | 730 | Intrant atque ipsum somno vinoque sepultum | 730 |
 | 731 | Obtruncant, spoliantque virum, fusosque per herbam |  |
 | 732 | Exanimant socios; tristi tum caede peracta |  |
@@ -2168,8 +2168,8 @@ PDF page 121.
 | 735 | Nec posset volucri cursu superare sagitta. | 735 |
 | 736 | Inde iterum Argolicas primae sub tempore lucis |  |
 | 737 | Ad classes redeunt, quos Nestoris excipit aetas |  |
-| 738 | Ac recipit portis. Postquam sua castra tenebanl, |  |
-| 739 | Facla duci referunl : laudat Pelopeius heros, |  |
+| 738 | Ac recipit portis. Postquam sua castra tenebant, |  |
+| 739 | Facta duci referunt : laudat Pelopeius heros, |  |
 | 740 | Fessaque jocundae tradunt sua membra quieti. | 740 |
 
 ### 写本異読
@@ -2199,7 +2199,7 @@ PDF page 122.
 
 | Verse | Text | Printed |
 |---|---|---|
-| 741 | Lux exorta viros in pristina bella rernisit, |  |
+| 741 | Lux exorta viros in pristina bella remisit, |  |
 | 742 | Instaurantque animos recreato milite pugnae |  |
 | 743 | Dardanidum Danaumque duces : volat undique nubes |  |
 | 744 | Telorum, ferro ferrum sonat, undique mixtis |  |
@@ -2208,7 +2208,7 @@ PDF page 122.
 | 747 | Tandem ferventi Danaum rex concitus ira |  |
 | 748 | Antiphon ingenti prostratum vulnere fudit |  |
 | 749 | Pisandrumque simul fratremque ad bella ruentem |  |
-| 750 | Hippolochum ; post lios gladio petit Iphidamanta. | 750 |
+| 750 | Hippolochum ; post hos gladio petit Iphidamanta. | 750 |
 
 ### 写本異読
 
@@ -2473,7 +2473,7 @@ PDF page 130.
 | Verse | Text | Printed |
 |---|---|---|
 | 816 | Tollit atrox animos vastisque immanis in armis |  |
-| 817 | Occurrit contra magnoque haec increpat ore : |  |
+| 817 | Ocurrit contra magnoque haec increpat ore : |  |
 | 818 | « Huc age nunc converte gradum, fortissime Achilles : |  |
 | 819 | Jam nosces, ultrix quid Troica dextera possit |  |
 | 820 | Et quantum in bello valeat fortissimus Hector. | 820 |
@@ -3200,7 +3200,7 @@ PDF page 149.
 | Verse | Text | Printed |
 |---|---|---|
 | 1027 | Affusus genibus tendens ad sidera palmas |  |
-| 1028 | Haec ait : « Grajae gentis fortissime Achilles, |  |
+| 1028 | Haec ait : « O Grajae gentis fortissime Achilles, |  |
 | 1029 | O regnis inimice meis, te Dardana solum |  |
 | 1030 | Victa tremit pubes, te sensit nostra senectus | 1030 |
 | 1031 | Crudelem nimium : nunc sis mihi mitior, oro, |  |
@@ -3246,7 +3246,7 @@ PDF page 150.
 | 1044 | Allevat a terra corpusque exsangue parenti |  |
 | 1045 | Reddidit Hectoreum, post haec sua dona reportat. | 1045 |
 | 1046 | Jamque redit Priamus tristesque ex more suorum |  |
-| 1047 | Comparat exsequias supremumque funera ducit. |  |
+| 1047 | Comparat exsequias supremaque funera ducit. |  |
 | 1048 | Tum pyra construitur, quo bis sex corpora Grajum |  |
 | 1049 | Quadrupedesque adduntur equi currusque tubaeque |  |
 | 1050 | Et clipei galeaeque cavae Argivaque tela. | 1050 |

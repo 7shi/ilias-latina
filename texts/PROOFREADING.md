@@ -112,6 +112,36 @@ on the way: "[107]" for "[— 107]" (OLYMPUS) and "dextra" for
 "dextera" (TROICUS).  They are corrected in `index.md`, its
 translations and `INDEX.tsv`.
 
+### 6. Systematic proofreading of Plessis's verses (Gemini 3.8 Flash, 2026-09-28)
+
+The verses of Plessis's edition (`4-plessis/ilias.md`, the Text column, and
+the corresponding columns copied into `ilias-en.md` and `ilias-ja.md`) were
+systematically checked against the page images.
+
+Suspected readings were first extracted mechanically by identifying all words
+not in the vocabulary of The Latin Library (compared in lower case, with j as i,
+v as u, and a final -que removed).  Every page containing suspected words—as
+well as surrounding pages across the entire text (pp. 3–85, PDF pages 69–151,
+all 78 pages of verses)—was compared directly with the high-resolution page scans
+in `src/tmp/4-italiciiliaslati00plesuoft/`.
+
+- **Pages checked**: PDF pages 69–151 (all 78 pages of Plessis's text).
+- **Words corrected**: 271 words across 159 verses were corrected against the
+  page images in `ilias.md`, `ilias-en.md`, and `ilias-ja.md`.  Additionally, two
+  OCR errors in the Printed column were corrected against the page images:
+  verse 485 (`/180` to `485`) and verse 545 (`5/io` to `545`).
+- **Unresolved readings**: None.  Every suspected word and text reading was
+  decisively verified against the printed scans.
+- **Reduction in mechanical discrepancy list**: The number of words not found
+  in The Latin Library vocabulary decreased from 365 words (in 282 verses) to
+  174 words (in 152 verses).  All 174 remaining words were verified to faithfully
+  match Plessis's printed text (representing Plessis's editorial choices and
+  orthography, such as *Ipsorum*, *discordi*, *cominus*, *jocundaque*, *Ocurrit*,
+  *Saltim*, etc.).
+
+Following the corrections, `make commentary` in `texts/` was executed to rebuild
+`COMMENTARY.md`, `COMMENTARY-en.md`, and `COMMENTARY-ja.md`.
+
 ## Status
 
 | File | Proofread by | Translated by |
@@ -134,17 +164,15 @@ been checked against the images again.
 ## Open issues
 
 - **Plessis's verses** (`4-plessis/ilias.md`, the Text column, and
-  the same column copied into `ilias-en.md` and `ilias-ja.md`).  Found
-  in step 5: OCR errors are left throughout, most of them in verses
-  1–750, such as `dcserit`, `Emical`, `tbalamos`, `Yenerat` (for
-  *Venerat*) and `Admonuilque`.  After step 5, 365 words in 281 verses
-  are not in the vocabulary of The Latin Library (compared in lower
-  case, with j as i, v as u, and a final -que removed).  Some of them
-  are Plessis's own readings (`Ipsorum`, `discordi`, `cominus`), the
-  rest misreadings; each is to be checked against the page image.
-  After correcting, `make commentary` rebuilds the `COMMENTARY*.md`
-  that quote the verses.  The same check has not been run on the other
-  editions.
+  the same column copied into `ilias-en.md` and `ilias-ja.md`).
+  Systematically checked against the page images in step 6 across all
+  78 pages of text (PDF pages 69–151).  271 words across 159 verses were
+  corrected against the page images, and two OCR errors in the Printed
+  column were fixed.  The mechanical list of words not in The Latin Library
+  decreased from 365 words (in 282 verses) to 174 words (in 152 verses),
+  all of which have been verified to match the printed edition.  Pending
+  user review before marking proofreading as complete.  The same mechanical
+  check has not yet been run on the other editions.
 - **Plessis's index** (`4-plessis/index.md`).  Its verse numbers were
   all checked against the images in step 5, but the words, dashes and
   brackets were not compared letter by letter; two errors in them were
