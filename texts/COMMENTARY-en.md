@@ -2277,7 +2277,7 @@ this directory ([commentary.py](commentary.py)) from
 
 338 accepit flammas gremio Troiaeque suasque.
 - [2] 338 Accepit flammas gremio Trojaeque, suasque.
-  - *Flammas Trojaeque suasque* [Both Troy's flames and his own]. Witty regarding Paris, whose love for Helen was destined to be the ruin of Troy. This expression also seems to rely on that passage of Paris's letter in Ovid, *Heroides* XVI, 45 sq., where Paris interprets the dream of his mother—who before the day of giving birth had seemed to bring forth a burning torch—as referring to the ardour of his own passion that was fatal to Troy: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei ».
+  - *Flammas Trojaeque suasque* [Both Troy's flames and her own]. Witty regarding Paris, whose love for Helen was destined to be the ruin of Troy. This expression also seems to rely on that passage of Paris's letter in Ovid, *Heroides* XVI, 45 sq., where Paris interprets the dream of his mother—who before the day of giving birth had seemed to bring forth a burning torch—as referring to the ardour of his own passion that was fatal to Troy: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei ».
 - [3] 338 Accepit flammas gremio Troiaeque suasque.
 - [4] 338 Accepit flammas gremio Trojaeque suasquc.
 - [6] 338 accepit flammas gremio Troiaeque suasque.

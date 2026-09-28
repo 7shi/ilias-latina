@@ -264,7 +264,7 @@
 
 - **336** … 作者がこれらの詩行においてマロー（ウェルギリウス）のよく知られた箇所、Aeneid. VIII, 405: « Optatos dedit amplexus, placidumque petivit Conjugis infusus gremio per membra soporem » を念頭に置いていたことは疑いようがない。
 - **337** … ところでヘレネーが *Cygneis* と呼ばれるのは、白鳥に変じたユピテルの娘と信じられていたからである。その名前を他の詩人が用いたかどうかは私は知らないが、もっともウェルギリウス（伝）の Eleg. ad Messal. 27 では「白鳥の卵から生まれたティンダレオス家の娘」« cygneo edita Tyndaris ovo » と言われており、オウィディウスの Her. XVII, 55 でもヘレネー自身が « Dat mihi Leda Jovem, cygno decepta, parentem » と述べている。
-- **338** *Flammas Trojaeque suasque*（トロイアの炎と彼自身の炎）。ヘレネーへの愛がトロイアの破滅となる運命にあったパリスについて、機知に富んだ表現である。この言辞もまた、オウィディウスの『名婦の書簡』(Heroid.) XVI, 45 以下のパリスの書簡の箇所に基づいているように思われる。そこではパリスが、出産の日を前に燃え盛る松明を産む夢を見た母親の夢を、トロイアに破滅をもたらす自らの胸の熱情と解釈している: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei »。
+- **338** *Flammas Trojaeque suasque*（トロイアの炎と彼女自身の炎）。ヘレネーへの愛がトロイアの破滅となる運命にあったパリスについて、機知に富んだ表現である。この言辞もまた、オウィディウスの『名婦の書簡』(Heroid.) XVI, 45 以下のパリスの書簡の箇所に基づいているように思われる。そこではパリスが、出産の日を前に燃え盛る松明を産む夢を見た母親の夢を、トロイアに破滅をもたらす自らの胸の熱情と解釈している: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei »。
 - **344** *Certamen haberent*（勝負を行うように）。この言い回しは
 
 ## p. 546

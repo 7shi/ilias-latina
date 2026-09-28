@@ -2259,7 +2259,7 @@
 
 338 accepit flammas gremio Troiaeque suasque.
 - [2] 338 Accepit flammas gremio Trojaeque, suasque.
-  - *Flammas Trojaeque suasque*（トロイアの炎と彼自身の炎）。ヘレネーへの愛がトロイアの破滅となる運命にあったパリスについて、機知に富んだ表現である。この言辞もまた、オウィディウスの『名婦の書簡』(Heroid.) XVI, 45 以下のパリスの書簡の箇所に基づいているように思われる。そこではパリスが、出産の日を前に燃え盛る松明を産む夢を見た母親の夢を、トロイアに破滅をもたらす自らの胸の熱情と解釈している: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei »。
+  - *Flammas Trojaeque suasque*（トロイアの炎と彼女自身の炎）。ヘレネーへの愛がトロイアの破滅となる運命にあったパリスについて、機知に富んだ表現である。この言辞もまた、オウィディウスの『名婦の書簡』(Heroid.) XVI, 45 以下のパリスの書簡の箇所に基づいているように思われる。そこではパリスが、出産の日を前に燃え盛る松明を産む夢を見た母親の夢を、トロイアに破滅をもたらす自らの胸の熱情と解釈している: « Arsuram Paridis vates canit Ilion igni; Pectoris, ut nunc est, fax fuit illa mei »。
 - [3] 338 Accepit flammas gremio Troiaeque suasque.
 - [4] 338 Accepit flammas gremio Trojaeque suasquc.
 - [6] 338 accepit flammas gremio Troiaeque suasque.
