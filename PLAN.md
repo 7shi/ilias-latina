@@ -12,15 +12,35 @@ compared with the Portuguese.  The English of the indexes
 (commentary/index-en.tsv and the editions' INDEX-en.tsv and
 index-en.md) agrees with it.
 
+For the Japanese, commentary/commentary-ja.tsv and
+commentary/index-ja.tsv have been made, row for row with their English
+counterparts, from the editions' Japanese drafts:
+
+- commentary-ja.tsv takes, for each note of commentary-en.tsv, the
+  Japanese of the same item in texts/notes-ja.md (374 notes).  The 122
+  notes that commentary-en.tsv had adapted (joined across pages,
+  excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
+  remarks on readings added) were adapted in the same way from the
+  full Japanese in the edition's ilias-ja.md, by hand; they have not
+  been reviewed.
+- index-ja.tsv takes, for each row of index-en.tsv, the Japanese
+  headword and description of the same row of the edition's
+  INDEX-ja.tsv.  Its names are the drafts', not yet made to agree with
+  the forms settled in English.
+
 Next:
 
-1. The Japanese commentary, translated from the finished English.  How
-   it is made (by a model or by hand, one file per section as in
-   English) is to be settled with the user before starting.  With it
-   the Japanese of the indexes (index-ja.md and INDEX-ja.tsv of Plessis
-   and Vollmer) is made to agree with its names, as the English was
-   (see [Carrying the names over to texts/](#7-carrying-the-names-over-to-texts)).
-2. When the Japanese is done, deploying the translation as a website
+1. commentary/ja/: the Japanese translation of commentary/en/, made
+   without looking at commentary-ja.tsv and index-ja.tsv.  How it is
+   made (by a model or by hand, section by section) is to be settled
+   with the user before starting.
+2. commentary/ja/, commentary-ja.tsv and index-ja.tsv are checked
+   against each other, and the TSVs corrected (the names above all,
+   and the 122 adapted notes).
+3. The corrections are fed back to texts/: the notes to the editions'
+   ilias-ja.md and COMMENTARY-ja.md, the index rows to INDEX-ja.tsv and
+   index-ja.md; then `make notes` in texts/.
+4. When the Japanese is done, deploying the translation as a website
    is to be considered.
 
 ## How the present state is built
