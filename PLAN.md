@@ -31,9 +31,8 @@ counterparts, from the editions' Japanese drafts:
 Next:
 
 1. commentary/ja/: the Japanese translation of commentary/en/, made
-   without looking at commentary-ja.tsv and index-ja.tsv.  How it is
-   made (by a model or by hand, section by section) is to be settled
-   with the user before starting.
+   by a model (Gemini) without looking at commentary-ja.tsv and
+   index-ja.tsv (see [Translating into Japanese](#translating-into-japanese)).
 2. commentary/ja/, commentary-ja.tsv and index-ja.tsv are checked
    against each other, and the TSVs corrected (the names above all,
    and the 122 adapted notes).
@@ -42,6 +41,145 @@ Next:
    index-ja.md; then `make notes` in texts/.
 4. When the Japanese is done, deploying the translation as a website
    is to be considered.
+
+### Translating into Japanese
+
+Each file of commentary/en/ is translated into Japanese and written to
+commentary/ja/ under the same name: the sections `NN/VVVV.md` and the
+summaries `NN/README.md`.
+
+- Book by book, the files of a book in order.  A file that already
+  exists in commentary/ja/ is skipped, so that an interrupted run
+  resumes where it left off.
+- The Japanese follows the policy in commentary/README.md, as the
+  English does, and the forms of [The forms settled](#the-forms-settled).
+- Not read: commentary/commentary-ja.tsv, commentary/index-ja.tsv and
+  the Japanese files in texts/ (`*-ja.md`, `INDEX-ja.tsv`,
+  notes-ja.md).  The Japanese is made from the English alone, so that
+  it can be checked against them afterwards (step 2 above).
+- Written only in commentary/ja/; no other file is changed, and
+  nothing is committed.
+
+The form:
+
+- The structure of each file is kept exactly: the heading, the
+  quotation block with every verse, then the commentary, paragraph for
+  paragraph.
+- Heading: `### 1–8 (*Iliad* 1.1–7)` becomes `### 1–8（『イリアス』1.1–7）`.
+- Verses: each `> N Latin` line is kept unchanged, and the English line
+  under it, `> (…)`, is replaced by the Japanese in full-width
+  parentheses, `> （…）`; the lines with `>` alone between the verses
+  are kept.
+- Each verse is translated from its English line with the words of
+  that verse only, even where a sentence runs over and the Japanese
+  becomes less natural; no word is moved to another verse.  Where the
+  English is ambiguous, the Latin quoted above it decides.
+- The commentary: every sentence is translated, nothing added and
+  nothing left out, in plain written Japanese in the である style.
+  “…” becomes 「…」 and titles 『…』 (*Iliad* 1.5 becomes 『イリアス』1.5);
+  Latin words stay in Latin, in italics as in the English
+  (*Mavortius*).
+
+The names: heroes and peoples in the usual Japanese forms from the
+Greek, the gods in their Roman forms, as the English does.  Long
+vowels are generally left out (ホメロス, not ホメーロス; ヘクトル), but
+where a form with a long vowel is the one in common use, it is
+preferred (ムーサ, ユノー).  The same person is always written the same
+way, in the verses and in the commentary.
+
+- Gods, in the verses and wherever the commentary speaks of the Latin:
+  Iuppiter ユピテル, Iuno ユノー, Venus ウェヌス, Mars マルス, Minerva
+  ミネルウァ, Pallas パラス, Vulcan ウルカヌス, Neptune ネプトゥヌス,
+  Apollo アポロ, Phoebus ポエブス, Titan ティタン, Iris イリス, Thetis
+  テティス, Nereus ネレウス, Oceanus オケアヌス, Orcus オルクス, the
+  Muse(s) ムーサ, the Thunderer 雷神.
+- Where the commentary tells Homer's scene, the Greek names: Zeus
+  ゼウス, Hera ヘラ, Athena アテナ, Hephaestus ヘパイストス, Poseidon
+  ポセイドン, Ares アレス, Aphrodite アプロディテ, Odysseus オデュッセウス,
+  Dawn 曙の女神.
+- Names that the English keeps in Latin are katakana of the Latin, and
+  the commentary explains them as the English does: Atrides アトリデス,
+  Pelides ペリデス, Aeacides アエアキデス, Tydides テュディデス,
+  Priamides プリアミデス, Thestorides テストリデス, Dardanides
+  ダルダニデス, Laertiades ラエルティアデス, Oenides オエニデス, Somnus
+  ソムヌス, Aurora アウロラ, Mavors マウォルス, Ignipotens イグニポテンス,
+  Mulciber ムルキベル, Tritonia トリトニア, Cytherea キュテレア, Ilion
+  イリオン, Pergama ペルガマ; the others of the kind (Arctos, Hesperus,
+  Lucifer, Luna …) likewise.
+- Adjectives of names as 「〜の」: Mavortian Hector マウォルスのヘクトル,
+  Telamonian Ajax テラモンのアイアス, Dardanian ダルダニアの, Ilian
+  イリオンの, Argive アルゴスの, Doric ドリスの.
+- Persons: Achilles アキレウス, Hector ヘクトル, Agamemnon アガメムノン,
+  Menelaus メネラオス, Priam プリアモス, Paris パリス, Alexander
+  アレクサンドロス, Helen ヘレネ, Hecuba ヘカベ, Andromache アンドロマケ,
+  Astyanax アステュアナクス, Ulysses ウリクセス, Ajax アイアス, Diomedes
+  ディオメデス, Nestor ネストル, Patroclus パトロクロス, Aeneas
+  アイネイアス, Teucer テウクロス, Sarpedon サルペドン, Chryses
+  クリュセス, Chryseis クリュセイス, Briseis ブリセイス, Calchas カルカス,
+  Idomeneus イドメネウス, Pandarus パンダロス, Glaucus グラウコス,
+  Thersites テルシテス, Dolon ドロン, Rhesus レソス, Antilochus
+  アンティロコス, Deiphobus デイポボス, Peleus ペレウス, Atreus
+  アトレウス, Tydeus テュデウス, Telamon テラモン, Aeacus アイアコス,
+  Oileus オイレウス, Antenor アンテノル, Hercules ヘラクレス; the others
+  in the same way, from the Greek, by the same rule for long vowels.
+- Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
+  Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
+  Teucrians テウクロイ, Myrmidons ミュルミドン, Lycians リュキア人,
+  Thracians トラキア人.
+- Places and works: Troy トロイア, Olympus オリュンポス, Ida イダ,
+  Xanthus クサントス, Asia Minor 小アジア, Homer ホメロス, the *Iliad*
+  『イリアス』, the *Ilias Latina* 『イリアス・ラティナ』; Plessis プレシス,
+  Vollmer フォルマー (where the commentary gives the readings of both
+  editions).
+
+At the end of each book, the files written are reported, with every
+name not in the lists above and the Japanese form chosen for it, so
+that the forms can be checked before the next book.
+
+### Checking the Japanese
+
+When Gemini has finished (or finished a range of books), the checking
+is taken over here, steps 2 and 3 of Next:
+
+1. The files are committed as Gemini wrote them ("Add commentary/ja/NN/,
+   … as translated by Gemini"), before any correction, so that the
+   history keeps the two apart.
+2. **Against the English.**  A mechanical first pass: the same files,
+   headings and verses as commentary/en/, each `> N Latin` line
+   unchanged, one `> （…）` under each, the same number of paragraphs.
+   Then each section is read against the English: nothing added or
+   left out, each verse with its own words only, the headings and
+   quotation marks as in [Translating into Japanese](#translating-into-japanese).
+3. **The names.**  The names Gemini reported and those found in the
+   files are listed with their verses and files; each person or people
+   has one form, following the rules and lists above and
+   [The forms settled](#the-forms-settled).  A form not in the lists
+   is decided with the user and added to them.
+4. **Against the TSVs.**  commentary/ja/ is compared with
+   commentary-ja.tsv and index-ja.tsv, as the English was with
+   index-en.tsv (see [Checking](#6-checking), 2): the Japanese headwords
+   and the names in the descriptions of index-ja.tsv are made to agree
+   with the translation, not the other way round, all the rows of a
+   headword getting the same Japanese; the 122 adapted notes of
+   commentary-ja.tsv are read against their English rows.  A Japanese
+   note or description whose sense differs from the English is
+   reported, not corrected (the drafts are not reviewed), except for
+   the names.
+
+The problems are reported before anything is edited, as a table
+(verse, file, the passage, the English or the TSV row, a proposed
+correction), in a form agreed with the user first.  The corrections of
+commentary/ja/ and of the TSVs they entail are committed by book or
+range of books.
+
+Then step 3 of Next, as the English was carried over (see
+[Carrying the names over to texts/](#7-carrying-the-names-over-to-texts)):
+the diff of index-ja.tsv goes to the editions' INDEX-ja.tsv (the
+Japanese headwords and the names in the descriptions) and index-ja.md
+(the names in the descriptions only), after checking that each
+headword has one Japanese form; the corrections of commentary-ja.tsv
+go to the edition's ilias-ja.md and COMMENTARY-ja.md; then `make notes`
+in texts/, committed apart from commentary/.
 
 ## How the present state is built
 
