@@ -183,8 +183,8 @@ verse	edition	headword	headword-en	form	description
 124	6	Tonans	the Thunderer	Tonantis	mandata Tonantis 124
 126	4	TITAN	Titan	Titan	when he has emerged from the waves
 126	6	Titan	Titan	Titan	cum . . . Titan se emerserit undis 126
-128	4	ILIACUS	of Ilium	Iliacos	Iliacos campos: to make for the plains of Ilium with the army drawn up
-128	6	Iliacus	of Ilium	Iliacos	-cos . . . campos 128. 160
+128	4	ILIACUS	Ilian	Iliacos	Iliacos campos: to make for the Ilian plains with the army drawn up
+128	6	Iliacus	Ilian	Iliacos	-cos . . . campos 128. 160
 130	6	Sol	the Sun	lampas	See ignea lampas 130
 131	4	AGAMEMNON	Agamemnon	Pelopeius	Pelopeius heros: calls the leaders together
 131	6	Pelopeius	Pelopeian	Pelopeius	Pelopeius heros 131. 739: Agamemnon
@@ -208,9 +208,9 @@ verse	edition	headword	headword-en	form	description
 152	4	CALCHAS	Calchas	Calchas	— had foretold the year in which Troy would fall
 152	6	Calchas	Calchas	Calchas	Calchas the seer: 52. 152
 153	4	GRAI	Greeks	Danaum	— Troy would fall to the victorious arms of the Danaans
-153	4	TROJA	Troy	Ilion	Ilion: the day on which Ilium would fall
+153	4	TROJA	Troy	Ilion	Ilion: the day on which Ilion would fall
 153	6	Danai	Danaans	Danaum	-um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
-153	6	Ilion	Ilium	Ilion	Ilĭŏn 153. 1056
+153	6	Ilion	Ilion	Ilion	Ilĭŏn 153. 1056
 154	4	NESTOR	Nestor	Nestoris	— his age is praised
 154	6	Nestor	Nestor	Nestoris	-oris aetas 154. 737
 156	6	Agamemnon	Agamemnon	dux	dux 134. 156. 739
@@ -218,8 +218,8 @@ verse	edition	headword	headword-en	form	description
 158	6	Titan	Titan	Titan	nitidum -an radiis caput extulit undis 158
 159	4	AGAMEMNON	Agamemnon	Atrides	— keen, orders his comrades to arm
 159	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	acer -es 159
-160	4	ILIACUS	of Ilium	Iliacos	— the same
-160	6	Iliacus	of Ilium	Iliacos	-cos . . . campos 128. 160
+160	4	ILIACUS	Ilian	Iliacos	— the same
+160	6	Iliacus	Ilian	Iliacos	-cos . . . campos 128. 160
 161	4	MUSAE	Muses	Musae	vocative
 161	6	Musa	Muse	Musae	Musae voc. 161
 164	4	TROJA	Troy	Pergama	Pergama: to Pergama, how many ships each leader of the Greeks brought
@@ -418,7 +418,7 @@ verse	edition	headword	headword-en	form	description
 241	6	Amphimachus 2	Amphimachus 2	Amphimachus	Amphimachus Nastesque 241: leaders of the Carians
 241	6	Nastes	Nastes	Nastes	Amphimachus *Nastesque, insignis uterque 241: leaders of the Carians
 242	4	EPISTROPHUS Halizonum dux	Epistrophus, leader of the Halizonians	Epistrophus	— huge, great-hearted leader
-242	4	HODIUS	Hodius	Hodius	great-hearted leader among the auxiliaries of the Trojans
+242	4	HODIUS	Odius	Hodius	great-hearted leader among the auxiliaries of the Trojans
 242	6	Epistrophus 2	Epistrophus 2	Epistrophus	Epistrophus ingens 242: leader of the Halizonians on the Trojan side
 242	6	Odius	Odius	Odius	Odius . . . et Epistrophus 242: leaders of the Halizonians
 243	4	EUPHEMUS	Euphemus	Euphemus	fierce
@@ -536,8 +536,8 @@ verse	edition	headword	headword-en	form	description
 321	6	Menelaus	Menelaus	coniugis	coniugis antiqui 321
 322	4	MENELAUS	Menelaus	Atrides	— violent (Helen addresses Paris)
 322	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrides	violentus -es 322
-323	4	ILIACUS	of Ilium	Iliaco	Iliaco pulvere: Helen feared when Menelaus was fouling Paris's hair with the dust of Ilium
-323	6	Iliacus	of Ilium	Iliaco	Iliaco . . . pulvere 323
+323	4	ILIACUS	Ilian	Iliaco	Iliaco pulvere: Helen feared when Menelaus was fouling Paris's hair with the Ilian dust
+323	6	Iliacus	Ilian	Iliaco	Iliaco . . . pulvere 323
 324	4	DORICUS	Doric	Doricus	Doricus ensis: the Doric sword
 324	6	Doricus	Doric	Doricus	Doricus ensis 324
 327	4	MENELAUS	Menelaus	Atrida	Cum Atrida: who persuaded you to contend with the savage son of Atreus? (Helen addresses Paris)
@@ -667,7 +667,7 @@ verse	edition	headword	headword-en	form	description
 424	4	TROJANI	Trojans	Teucros	In Teucros: Agamemnon rages against the Teucrians
 424	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	alter(?) -es 424
 424	6	Teucri	Teucrians	Teucros	-os 424. 903
-427	4	HODIUS	Hodius	Hodius	— unhappy, is laid low by Agamemnon
+427	4	HODIUS	Odius	Hodius	— unhappy, is laid low by Agamemnon
 427	6	Odius	Odius	Odius	infelix -us 427
 429	4	IDOMENEUS	Idomeneus	Idomeneus	— slays Phaestus
 429	6	Idomeneus	Idomeneus	Idomeneus	-eus 429
@@ -701,7 +701,7 @@ verse	edition	headword	headword-en	form	description
 443	4	ASTYNOUS	Astynous	Astynoum	Astynoum: Diomedes kills him
 443	4	HYPIRON	Hypiron	Hypirona	Hypirona: Diomedes attacks the great Hypiron
 443	6	Astynous	Astynous	Astynoum	*Astynoum 443
-443	6	Hyperon	Hyperon	Hyperona	magnum . . . *Hyperonă 443
+443	6	Hyperon	Hypiron	Hyperona	magnum . . . *Hyperonă 443
 445	4	ABAS	Abas	Abanta	Abanta: Diomedes kills him
 445	4	POLYIDOS Eurydamantis filius	Polyidos, son of Eurydamas	Polyidon	Polyidon: Diomedes kills Polyidus
 445	6	Abas	Abas	Abanta	Abanta: Diomedes killed Abas, son of Eurydamas, brother of Polyidus, a Trojan 445
@@ -711,7 +711,7 @@ verse	edition	headword	headword-en	form	description
 446	6	Thoon	Thoon	Thoonem	vastum . . . *Thoonem 446: son of Phaenops
 446	6	Xanthus (Phaenopis f.)	Xanthus (son of Phaenops)	Xanthum	notum bello Xanthum 446: son of Phaenops, brother of Thoon
 447	4	CHROMIUS Priami filius	Chromius, son of Priam	Chromium	Chromium: Diomedes slays him
-447	4	ECHEMON	Echemon	Echemona	Echemona: Diomedes slays him
+447	4	ECHEMON	Echemmon	Echemona	Echemona: Diomedes slays him
 447	6	Chromius 2	Chromius 2	Chromium	Chromiumque et Echemmona 447: sons of Priam
 447	6	Echemmon	Echemmon	Echemmona	Echemmona 447: son of Priam
 448	4	TARTARA	Tartarus	Tartara	ad Tartara: Diomedes sends Echemon to Tartarus
@@ -850,8 +850,8 @@ verse	edition	headword	headword-en	form	description
 547	6	Diva	goddess	divae	divae 547: Minerva
 548	4	MINERVA	Minerva	Palladis	the Trojan women go up to the temple of the unwed Pallas
 548	6	Pallas	Pallas	Pallados	innuptae -dos arces 548 (in both places -dis trad.)
-549	4	ILIADES	women of Ilium	Iliades	go up to the temple of Minerva
-549	6	Iliades	women of Ilium	Iliades	Iliades 549
+549	4	ILIADES	Iliades	Iliades	go up to the temple of Minerva
+549	6	Iliades	Iliades	Iliades	Iliades 549
 551	4	HECUBA	Hecuba	Hecube	Hecube: a suppliant to the temple of Minerva
 551	4	MINERVA	Minerva	Minervae	Minervae: Hecuba comes as a suppliant to the temple of Minerva
 551	6	Hecabe	Hecuba	Hecabe	Hecabē (-cuba trad.) . . . genetrix 551
@@ -995,8 +995,8 @@ verse	edition	headword	headword-en	form	description
 651	6	Iuppiter	Jupiter	Iovis	nom.: Iovis 651
 654	4	IDA	Ida	Idae	Idae: Jupiter sits down on the shady mountains of Ida
 654	6	Ida	Ida	Idae	umbrosis . . . montibus Idae 654
-655	4	ILIACUS	of Ilium	Iliacas	Iliacas acies: the lines of Ilium
-655	6	Iliacus	of Ilium	Iliacas	acies . . . -cas 655
+655	4	ILIACUS	Ilian	Iliacas	Iliacas acies: the Ilian lines
+655	6	Iliacus	Ilian	Iliacas	acies . . . -cas 655
 657	4	GRAI	Greeks	Achivum	— Jupiter weighs the fortunes of the Achaeans and Phrygians
 657	4	TROJANI	Trojans	Phrygum	— Jupiter weighs the hard fates of the Phrygians and the fortunes of the Greeks
 657	6	Achivi	Achaeans	Achivum	-um 506. 657
@@ -1167,7 +1167,7 @@ verse	edition	headword	headword-en	form	description
 776	6	Alcathous	Alcathous	Alcathous	Anchisae gener Alcathous 776
 776	6	Anchises	Anchises	Anchisae	Anchisae gener Alcathous 776
 777	4	IDOMENEUS	Idomeneus	Rhythieus	Ductor Rhythieus: the great-hearted leader from Rhytion kills Alcathous
-777	6	Rhytieus	the man from Rhytion	Rhytieus	magnanimus ductor Rhytieus 777: Idomeneus
+777	6	Rhytieus	Rhytieus	Rhytieus	magnanimus ductor Rhytieus 777: Idomeneus
 778	4	ASCALAPHUS	Ascalaphus	Ascalaphum	Ascalaphum: Deiphobus kills him
 778	4	DEIPHOBUS	Deiphobus	Deiphobus	— slays Ascalaphus
 778	6	Ascalaphus	Ascalaphus	Ascalaphum	-um 778
@@ -1548,10 +1548,10 @@ verse	edition	headword	headword-en	form	description
 1050	6	Argivus	Argive	Argiva	Argiva . . . tela 1050
 1051	4	HECTOR	Hector	Hector	— is laid on the pyre
 1051	6	Hector	Hector	Hector	Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
-1052	4	ILIADES	women of Ilium	Iliades	— the mothers of Ilium stand round Hector's body
-1052	6	Iliades	women of Ilium	Iliades	-des matres 1052
+1052	4	ILIADES	Iliades	Iliades	— the Ilian mothers stand round Hector's body
+1052	6	Iliades	Iliades	Iliades	-des matres 1052
 1056	4	TROJA	Troy	Ilion	— the flame with which Hector's body burned
-1056	6	Ilion	Ilium	Ilion	Ilĭŏn 153. 1056
+1056	6	Ilion	Ilion	Ilion	Ilĭŏn 153. 1056
 1058	4	ANDROMACHE	Andromache	Andromache	— when Hector's body has been mangled, rushes forth and laments
 1058	6	Andromache	Andromache	Andromache	-ē 1018. 1058
 1059	4	ASTYANAX	Astyanax	Astyanacta	— Andromache holding him
