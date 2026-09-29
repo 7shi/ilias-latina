@@ -161,22 +161,22 @@ verse	edition	headword	headword-en	form	description
 108	4	OLYMPUS	Olympus	Olympo	Olympo emenso: the sun sets, having traversed Olympus
 108	6	Olympus	Olympus	Olympo	sol emenso decedit -po 108
 108	6	Sol	the Sun	sol	Sol . . . decedit Olympo 108
-113	4	JUPPITER	Jupiter	pater	Pater nominative: the almighty Father calls Sleep
+113	4	JUPPITER	Jupiter	pater	Pater nominative: the almighty Father calls Somnus
 113	6	Iuppiter	Jupiter	pater	pater omnipotens 113
 113	6	Somnus	Somnus	Somnum	-um 113
 114	6	Somnus	Somnus	divum	cf. lenissime divum 114
-115	4	AGAMEMNON	Agamemnon	Argolici	Argolicus dux: « make for the camp of the Argive leader in your flight » (Jupiter addresses Sleep)
+115	4	AGAMEMNON	Agamemnon	Argolici	Argolicus dux: « make for the camp of the Argive leader in your flight » (Jupiter addresses Somnus)
 115	4	ARGOLICUS	Argive	Argolici	Argolici ducis
 115	6	Argolicus	Argive	Argolici	Argolici . . . ducis 115: Agamemnon's
 118	4	TITAN	Titan	Titana	Titana: when the day has brought forth the Titan
 118	6	Titan	Titan	Titana	cum crastina . . . extulerit -ana dies 118
 120	6	Somnus	Somnus	Somnus	Somnus 120
-121	4	AGAMEMNON	Agamemnon	Agamemnonis	Agamemnonis: Sleep, sent by Jupiter, flies down into the chamber of Agamemnon
+121	4	AGAMEMNON	Agamemnon	Agamemnonis	Agamemnonis: Somnus, sent by Jupiter, flies down into the chamber of Agamemnon
 121	6	Agamemnon	Agamemnon	Agamemnonis	-onis 121. 795
 123	6	Somnus	Somnus	levator	curarum operumque levator 123
-124	4	AGAMEMNON	Agamemnon	Atride	Atride: king of the Danaans (Sleep, sent by Jupiter, speaks)
+124	4	AGAMEMNON	Agamemnon	Atride	Atride: king of the Danaans (Somnus, sent by Jupiter, speaks)
 124	4	GRAI	Greeks	Danaum	— king (Agamemnon)
-124	4	JUPPITER	Jupiter	Tonantis	Tonans Tonantis: receive the commands of the Thunderer (Sleep addresses Agamemnon)
+124	4	JUPPITER	Jupiter	Tonantis	Tonans Tonantis: receive the commands of the Thunderer (Somnus addresses Agamemnon)
 124	6	Agamemnon	Agamemnon	rex	and cf. rex Danaum 124. 496
 124	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrida	voc.: rex Danaum -da (-de in others) 124
 124	6	Danai	Danaans	Danaum	-um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
@@ -813,7 +813,7 @@ verse	edition	headword	headword-en	form	description
 527	4	ULIXES	Ulysses	Ulixes	— the contriver of fraud kills seven young Trojans
 527	6	Sarpedon	Sarpedon	Sarpedon	-don 527
 527	6	Vlixes	Ulysses	Vlixes	fraudis . . . commentor -es 527. 579
-529	4	HECTOR	Hector	Hector	— pillar of his country, the son of Mars fights
+529	4	HECTOR	Hector	Hector	— pillar of his country, Mavortian, fights
 529	6	Hector	Hector	Hector	patriae columen Mavortius -or 529
 530	4	DIOMEDES	Diomedes	Tydides	— fights
 530	6	Tydides	Tydides	Tydides	Tydides 390. 408. 530. 665. 1008
@@ -838,7 +838,7 @@ verse	edition	headword	headword-en	form	description
 542	4	TROJANI	Trojans	Trojana	Trojana juventus: the Trojan youth gives way
 542	6	Danai	Danaans	Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 542	6	Troianus	Trojan	Troiana	Troiana iuventus 542. 770
-543	4	HECTOR	Hector	Hector	— the son of Mars perceives that the gods fight for the Greeks
+543	4	HECTOR	Hector	Hector	— Mavortian, perceives that the gods fight for the Greeks
 543	6	Hector	Hector	Hector	Mavortius -or 543. 797
 543	6	Mavortius	Mavortian	Mavortius	Mavortius Hector 543. 797
 544	4	GRAI	Greeks	Danais	Pro Danais: Hector perceives that the gods fight for the Danaans
@@ -1136,7 +1136,7 @@ verse	edition	headword	headword-en	form	description
 758	4	TROJANI	Trojans	Troes	Troes: the Trojans press on, the Greeks flee
 758	6	Pelasgi	Pelasgians	Pelasgi	Pelasgi 758. 769
 758	6	Tros	Trojan	Troes	Troes 758. 767. 928. 978. 1002, everywhere before a consonant or in the last, anceps, position
-760	4	HECTOR	Hector	Hector	— the Martial one breaks the gates of the enemy camp with a stone
+760	4	HECTOR	Hector	Hector	— warlike, breaks the gates of the enemy camp with a stone
 760	6	Hector	Hector	Hector	Martius -or 760
 760	6	Martius	warlike	Martius	Martius Hector 760
 762	4	TROJANI	Trojans	Phryges	— burst into the entrances of the enemy camp
@@ -1212,7 +1212,7 @@ verse	edition	headword	headword-en	form	description
 794	6	Hector	Hector	Hector	Danaum metus, impiger -or 794
 795	4	AGAMEMNON	Agamemnon	Agamemnonis	— his squadrons, with Hector pressing them, flee to the ships
 795	6	Agamemnon	Agamemnon	Agamemnonis	-onis 121. 795
-797	4	HECTOR	Hector	Hector	— the son of Mars rages, about to burn the ships of the Greeks
+797	4	HECTOR	Hector	Hector	— Mavortian, rages, about to burn the ships of the Greeks
 797	6	Hector	Hector	Hector	Mavortius -or 543. 797
 797	6	Mavortius	Mavortian	Mavortius	Mavortius Hector 543. 797
 799	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— alone defends the ships
