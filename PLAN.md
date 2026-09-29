@@ -43,10 +43,15 @@ A. **The names** (notation), over all the books at once, headword by
    - the name the row cites appears in the translation of its verse,
      not only as a gloss (108 *Olympo* "the sky", while the commentary
      speaks of "Olympus").
-   A difference is reported with which side seems wrong: the
-   translation, or the English headword of INDEX-en.tsv (added by hand,
-   following the translations).  The decisions taken here (one form
-   for each person) are applied in all the books.
+   The English headwords were added by hand and are made to agree
+   with the translation and the commentary, not the other way round.
+   Where the headword is the person (MINERVA), its English is the
+   person's name, and the forms of the translation (Pallas, Tritonia)
+   are not matched with it; where the headword is itself a name,
+   patronymic or epithet kept in the translation (Tydides, Tritonia,
+   Ignipotens), its English is the translation's form.  The decisions
+   taken here (one form for each person) are applied in all the books
+   and in the rows of index.tsv.
 B. **The content**, book by book, verse by verse:
    1. **The person**: the one the translation and the commentary mean
       is the one the headword gives, above all for patronymics,
@@ -77,13 +82,27 @@ B. **The content**, book by book, verse by verse:
   and index-{en,ja}.md, without braces in INDEX*.tsv, and then
   `make notes` in texts/; commentary/index.tsv is corrected by
   hand in the same way.
+- The English headwords, and the names in the descriptions, are
+  corrected in commentary/index.tsv first, together with the
+  translation and the commentary, all the rows of a headword getting
+  the same English.  When the checking is done, the diff of index.tsv
+  is carried over to the editions' INDEX-en.tsv (headword-en and the
+  names in the descriptions) and index-en.md (the names in the
+  descriptions only; its headwords are Latin), after checking that
+  each headword has one English form, and then `make notes` in
+  texts/.  The rest of the wording of the descriptions is left alone.
+  The Japanese (index-ja.md, INDEX-ja.tsv) is adjusted later, when
+  the Japanese commentary is translated from the finished English.
 - The translations of the indexes are drafts, not yet reviewed: a
   description whose English differs from the Latin is reported, not
-  corrected.
+  corrected (the names excepted, as above).
 - Giving the index rows to commentary/generate.py as context for any
   later generation may be proposed, not implemented.
-- Corrections of the translation and commentary are committed by book
-  or range of books; corrections of the data in separate commits.
+- Corrections of the translation and the commentary are committed
+  with the corrections of index.tsv they entail, by headword or group
+  of headwords in A and by book or range of books in B; the carrying
+  over to texts/ and other corrections of the data in separate
+  commits.
 
 ## The commentary
 
