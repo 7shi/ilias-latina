@@ -64,7 +64,7 @@ verse	edition	headword	headword-en	form	description
 52	4	CALCHAS	Calchas	Calchas	consults the divinity of the gods
 52	4	CALCHAS	Calchas	Thestoriden	Thestorides Thestoriden: Achilles urges the son of Thestor to declare the causes of the plague
 52	6	Calchas	Calchas	Calchas	Calchas the seer: 52. 152
-52	6	Thestorides	son of Thestor	Thestoriden	Thestoriden 52. 59: Calchas
+52	6	Thestorides	Thestorides	Thestoriden	Thestoriden 52. 59: Calchas
 54	4	ACHILLES	Achilles	Achillis	Achillis: safe under his protection, Calchas discloses the causes of the plague
 54	6	Achilles	Achilles	Achillis	-is 54. 689. 719. 806
 55	4	APOLLO	Apollo	Phoebi	Phoebi: let us appease the divinity of hostile Phoebus (Calchas speaks)
@@ -76,7 +76,7 @@ verse	edition	headword	headword-en	form	description
 57	6	Danai	Danaans	Danai	voc.: 57
 58	6	Agamemnon	Agamemnon	regis	rex 58. 134. 691
 59	4	CALCHAS	Calchas	Thestoriden	— Agamemnon assails him with bitter words
-59	6	Thestorides	son of Thestor	Thestoriden	Thestoriden 52. 59: Calchas
+59	6	Thestorides	Thestorides	Thestoriden	Thestoriden 52. 59: Calchas
 60	4	ACHILLES	Achilles	Achillem	Achillem: Agamemnon accuses the great Achilles
 60	6	Achilles	Achilles	Achillem	magnum . . . -em 60. 72. 934
 61	6	Achilles	Achilles	ducis	ducis invicti 61
@@ -267,7 +267,7 @@ verse	edition	headword	headword-en	form	description
 184	4	STHENELUS	Sthenelus	Sthenelus	among the leaders of the Greeks
 184	6	Euryalus	Euryalus	Euryalus	Euryalus 184: son of Mecisteus, companion of Diomedes
 184	6	Sthenelus	Sthenelus	Stheneli	Stheneli (-us trad.) . . . decus 184: son of Capaneus
-185	6	Tydides	son of Tydeus	Tydides	fortis in armis -des 185
+185	6	Tydides	Tydides	Tydides	fortis in armis -des 185
 187	4	ASCALAPHUS	Ascalaphus	Ascalaphus	mighty, and Ialmenus, both keen, lead thirty ships
 187	4	IALMENUS	Ialmenus	Ialmenus	and Ascalaphus, both keen, lead thirty ships to Troy
 187	6	Ascalaphus	Ascalaphus	Ascalaphus	Ascalaphus . . . potens 187: son of Mars, leader of the Minyans
@@ -515,7 +515,7 @@ verse	edition	headword	headword-en	form	description
 307	6	Menelaus	Menelaus	victor	victor 307. 352
 307	6	Paris	Paris	iuvenem	iuvenem 307
 309	4	VENUS	Venus	Cytherea	Cytherea: covers Paris, fighting with Menelaus, with a mist
-309	6	Cytherea	the Cytherean	Cytherea	Cythereă 309. 335. 470: Venus
+309	6	Cytherea	Cytherea	Cytherea	Cythereă 309. 335. 470: Venus
 309	6	Paris	Paris	virum	virum 309
 311	4	PARIS	Paris	Paridi	Paridi: it would have been Paris's last day, had not Venus covered him
 311	6	Paris	Paris	Paridi	Paridī 311
@@ -551,9 +551,9 @@ verse	edition	headword	headword-en	form	description
 333	6	Helene	Helen	ardor	o meus ardor 333
 333	6	Pallas	Pallas	Pallados	castae -dos ira 333
 335	4	VENUS	Venus	Cytherea	— will stand by me in my labour (Paris speaks)
-335	6	Cytherea	the Cytherean	Cytherea	Cythereă 309. 335. 470: Venus
+335	6	Cytherea	Cytherea	Cytherea	Cythereă 309. 335. 470: Venus
 337	4	HELENA	Helen	Cygneidos	Cygneis Cygneidos: Paris lies on the limbs of the daughter of the Swan
-337	6	Cygneis	daughter of the Swan	Cygneidos	Cygneidos (-dus in part of the manuscripts) 337: Helen
+337	6	Cygneis	Cygneis	Cygneidos	Cygneidos (-dus in part of the manuscripts) 337: Helen
 338	4	TROJA	Troy	Trojae	Helen receives in her lap the flames of Troy and her own (namely Paris)
 338	6	Troia	Troy	Troiae	flammas . . . -iaeque suasque Parin 338
 339	4	MENELAUS	Menelaus	Menelaus	— seeks Paris in the whole host
@@ -634,7 +634,7 @@ verse	edition	headword	headword-en	form	description
 390	4	DIOMEDES	Diomedes	Tydides	— sees the Danaans giving way
 390	4	MARS	Mars	Martem	Martem: Diomedes sees Mars swelling and growing
 390	6	Mars	Mars	Martem	tumidumque increscere Martem, i.e. war, 390
-390	6	Tydides	son of Tydeus	Tydides	Tydides 390. 408. 530. 665. 1008
+390	6	Tydides	Tydides	Tydides	Tydides 390. 408. 530. 665. 1008
 394	4	MINERVA	Minerva	Pallas	— the warlike one stands by Diomedes in battle
 394	6	Pallas	Pallas	Pallas	bellica -as 394
 395	6	Diomedes	Diomedes	iuveni	395 iuveni
@@ -653,11 +653,11 @@ verse	edition	headword	headword-en	form	description
 405	6	Phegeus	Phegeus	Phegeus	*Phegeus 405
 405	6	Phegeus	Phegeus	Phegea	Daretis natos . . . *Phegeaque Idaeumque 405
 408	4	DIOMEDES	Diomedes	Tydides	— kills Phegeus
-408	6	Tydides	son of Tydeus	Tydides	Tydides 390. 408. 530. 665. 1008
+408	6	Tydides	Tydides	Tydides	Tydides 390. 408. 530. 665. 1008
 409	6	Phegeus	Phegeus	viri	See viri 409
 413	6	Idaeus 1	Idaeus 1	frater	See frater 413
 414	6	Phegeus	Phegeus	germani	germani 414. 421
-415	6	Tydides	son of Tydeus	Tydidae	saevi . . . -dae 415
+415	6	Tydides	Tydides	Tydidae	saevi . . . -dae 415
 416	4	DIOMEDES	Diomedes	Tydidae	Tydidae: Idaeus does not withstand the strong arms of the savage son of Tydeus
 421	4	IDAEUS Daretis filius	Idaeus, son of Dares	Idaeus	— cannot help his brother, whom Diomedes has wounded
 421	6	Idaeus 1	Idaeus 1	Idaeus	-us 421
@@ -693,7 +693,7 @@ verse	edition	headword	headword-en	form	description
 436	4	PANDARUS	Pandarus	Pandarus	— flits about in the host
 436	6	Pandarus	Pandarus	Pandarus	-us 346. 436
 437	4	DIOMEDES	Diomedes	Tydiden	Tydiden: Pandarus seeks the son of Tydeus
-437	6	Tydides	son of Tydeus	Tydiden	-den 437: Diomedes
+437	6	Tydides	Tydides	Tydiden	-den 437: Diomedes
 438	4	TROJANI	Trojans	Troum	— Pandarus sees Diomedes laying low the bodies of the Trojans
 438	6	Tros	Trojan	Troum	Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 441	4	DIOMEDES	Diomedes	Calydonius	Calydonius juvenis: burns with anger
@@ -719,7 +719,7 @@ verse	edition	headword	headword-en	form	description
 449	4	DIOMEDES	Diomedes	Tydidae	— Pandarus laid low by his right hand
 449	4	PANDARUS	Pandarus	Pandare	Pandare: Pandarus, you fall by the hand of Diomedes
 449	6	Pandarus	Pandarus	Pandare	-re 449
-449	6	Tydides	son of Tydeus	Tydidae	-dae . . . dextra 449
+449	6	Tydides	Tydides	Tydidae	-dae . . . dextra 449
 453	4	TYDEIUS	of the son of Tydeus	Tydeius	(of Diomedes) ensis: the sword of the son of Tydeus
 453	6	Tydeius	of the son of Tydeus	Tydeius	Tydeius ensis, of Diomedes: 453
 454	4	AENEAS	Aeneas	Aeneas	— meets Diomedes in combat
@@ -727,15 +727,15 @@ verse	edition	headword	headword-en	form	description
 454	6	Aeneas	Aeneas	Aeneas	-as 454. 516
 454	6	Calydonius	Calydonian	Calydonius	Calydonius heros 399. 454
 458	4	DIOMEDES	Diomedes	Tydides	— great, does not see where he may wound Aeneas
-459	6	Tydides	son of Tydeus	Tydides	magnus . . . -des 459
+459	6	Tydides	Tydides	Tydides	magnus . . . -des 459
 464	4	VENUS	Venus	Venus	— Aeneas from Diomedes
 464	6	Venus	Venus	Venus	Venus 315. 464. 911
 466	4	DIOMEDES	Diomedes	Oenides	Oenides: wounds the hand of Venus
-466	6	Oenides	grandson of Oeneus	Oenides	*Oenides 466: Diomedes
+466	6	Oenides	Oenides	Oenides	*Oenides 466: Diomedes
 467	4	VENUS	Venus	Venerem	In Venerem: Diomedes rushes in arms against Venus
 467	6	Venus	Venus	Venerem	in -rem 467
 470	4	VENUS	Venus	Cytherea	— struck by the spear of Diomedes, makes for heaven
-470	6	Cytherea	the Cytherean	Cytherea	Cythereă 309. 335. 470: Venus
+470	6	Cytherea	Cytherea	Cytherea	Cythereă 309. 335. 470: Venus
 471	6	Dione	Dione	matri	(Dione), mother of Venus: sidereae . . . matri 471
 472	4	AENEAS	Aeneas	Aenean	Aenean: the Trojan Apollo saves the Dardanian Aeneas
 472	4	APOLLO	Apollo	Apollo	— the Trojan [Apollo] saves Aeneas
@@ -816,7 +816,7 @@ verse	edition	headword	headword-en	form	description
 529	4	HECTOR	Hector	Hector	— pillar of his country, the son of Mars fights
 529	6	Hector	Hector	Hector	patriae columen Mavortius -or 529
 530	4	DIOMEDES	Diomedes	Tydides	— fights
-530	6	Tydides	son of Tydeus	Tydides	Tydides 390. 408. 530. 665. 1008
+530	6	Tydides	Tydides	Tydides	Tydides 390. 408. 530. 665. 1008
 532	4	MARS	Mars	Mavors	— mighty in war, fights with Pallas
 532	4	MINERVA	Minerva	Pallade	Cum Pallade: Mars fights with chaste Pallas
 532	6	bellipotens	mighty in war	bellipotens	bellipotens . . . Mavors 532
@@ -965,8 +965,8 @@ verse	edition	headword	headword-en	form	description
 631	6	Tros	Trojan	Troum	Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 633	4	BACCHUS	Bacchus	Bacchi	Bacchi liquor: the liquor of Bacchus
 633	6	Bacchus	Bacchus	Bacchi	Bacchi . . . liquore 633
-635	4	AURORA	Dawn	Aurora	puts the stars to flight
-635	6	Aurora	Dawn	Aurora	stellas Aurora fugarat 635
+635	4	AURORA	Aurora	Aurora	puts the stars to flight
+635	6	Aurora	Aurora	Aurora	stellas Aurora fugarat 635
 636	4	HECTOR	Hector	Hector	— the greatest, recalls with his comrades yesterday's dead
 636	4	TROJANI	Trojans	Phryges	— come into assembly
 636	6	Hector	Hector	Hector	maximus -or 577. 636
@@ -1017,7 +1017,7 @@ verse	edition	headword	headword-en	form	description
 663	4	AGAMEMNON	Agamemnon	Atrides	— encourages his comrades
 663	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	-es 24. 510(?) 663
 665	4	DIOMEDES	Diomedes	Tydides	— a prince, shines forth in blazing arms
-665	6	Tydides	son of Tydeus	Tydides	Tydides 390. 408. 530. 665. 1008
+665	6	Tydides	Tydides	Tydides	Tydides 390. 408. 530. 665. 1008
 667	4	AGELAUS	Agelaus	Agelaus	meets Diomedes
 667	6	Agelaus	Agelaus	Agelaus	Agelaus 667: a Trojan, son of Phradmon
 668	6	Diomedes	Diomedes	heros	668 maximus heros
@@ -1075,7 +1075,7 @@ verse	edition	headword	headword-en	form	description
 707	6	Diomedes	Diomedes	Diomedis	socius Diomedis 707
 707	6	Vlixes	Ulysses	Vlixes	Vlixes 707
 710	4	DOLON	Dolon	Eumediades	Tros Eumediades: the Trojan son of Eumedes outruns them
-710	6	Eumediades	son of Eumedes	Eumediades	Tros *Eumediades 710: Dolon
+710	6	Eumediades	Eumediades	Eumediades	Tros *Eumediades 710: Dolon
 710	6	Tros	Trojan	Tros	Tros (troius trad.) Eumediades, Dolon: 710
 719	4	ACHILLES	Achilles	Achillis	— Dolon relates that the chariot of Achilles has been promised him by the Trojans
 719	4	TROJA	Troy	Troja	— the greatest, had promised Dolon the chariot of Achilles
@@ -1107,7 +1107,7 @@ verse	edition	headword	headword-en	form	description
 743	4	GRAI	Greeks	Danaum	— leaders
 743	4	TROJANI	Trojans	Dardanidum	Dardanidae Dardanidum duces: the leaders of the Dardanids
 743	6	Danai	Danaans	Danaum	-um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
-743	6	Dardanides	Dardanid	Dardanidum	-dum . . . duces 743: of the Trojans
+743	6	Dardanides	Dardanides	Dardanidum	-dum . . . duces 743: of the Trojans
 747	4	AGAMEMNON	Agamemnon	Danaum	— wounds Antiphus
 747	4	GRAI	Greeks	Danaum	— king (Agamemnon)
 747	6	Agamemnon	Agamemnon	rex	Danaum rex 747
@@ -1250,7 +1250,7 @@ verse	edition	headword	headword-en	form	description
 824	4	ACHILLES	Achilles	Achilles	nominative, as predicate: Patroclus is silent so that he may be believed by Hector to be the true Achilles
 824	6	Achilles	Achilles	Achilles	verus . . . -es 824
 826	4	HECTOR	Hector	Dardanides	Dardanides: the Dardanid attacks Patroclus with his spear
-826	6	Dardanides	Dardanid	Dardanides	Dardanides 826: Hector
+826	6	Dardanides	Dardanides	Dardanides	Dardanides 826: Hector
 827	4	PATROCLUS	Patroclus	Patroclus	— cheats Hector's spear
 827	6	Patroclus	Patroclus	Patroclus	Patroclus 806. 827
 830	4	APOLLO	Apollo	Apollo	— the Trojan [Apollo] strips Patroclus, fighting under the likeness of Achilles
@@ -1343,7 +1343,7 @@ verse	edition	headword	headword-en	form	description
 894	6	Iuno	Juno	Iuno	Iuno 98. 894
 894	6	Pallas	Pallas	Pallade	casta cum -de 532. 894
 895	4	AENEAS	Aeneas	Cythereius	Cythereius heros: runs to meet Achilles; is saved by Neptune
-895	6	Cythereius	son of the Cytherean	Cythereius	Cythereius heros 895: Aeneas
+895	6	Cythereius	Cytherean	Cythereius	Cythereius heros 895: Aeneas
 897	4	ACHILLES	Achilles	Aeacidae	Aeacidae: Aeneas was no match for Aeacides
 897	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeacidae	-dae 897
 899	6	Neptunus	Neptune	rector	See magnarum rector aquarum 899
@@ -1361,7 +1361,7 @@ verse	edition	headword	headword-en	form	description
 903	6	Teucri	Teucrians	Teucros	-os 424. 903
 905	4	HECTOREUS	of Hector	Hectorei	Hectorei sanguinis
 905	4	TROJANI	Trojans	Dardana	Dardana pubes: the Dardan youth takes refuge at the Xanthus
-905	6	Dardanus	Dardan	Dardana	Dardana pubes 905
+905	6	Dardanus	Dardanian	Dardana	Dardana pubes 905
 905	6	Hectoreus	of Hector	Hectorei	sanguinis Hectorei 905
 906	4	XANTHUS fluvius	Xanthus, the river	Xanthi	the Trojans flee to the waves of Xanthus
 906	6	Xanthus (fluvius)	Xanthus (the river)	Xanthi	ad -i fluctus 906
@@ -1477,7 +1477,7 @@ verse	edition	headword	headword-en	form	description
 1006	6	Hector	Hector	Hectoris	-oris 232. 565. 1006. 1040
 1008	4	DIOMEDES	Diomedes	Tydides	— < great-hearted >, surpasses all with his chariot
 1008	6	Tros	Trojan	tyrsin	(Trosin equis? 1008)
-1008	6	Tydides	son of Tydeus	Tydides	Tydides 390. 408. 530. 665. 1008
+1008	6	Tydides	Tydides	Tydides	Tydides 390. 408. 530. 665. 1008
 1009	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— is beaten in wrestling (while Achilles holds the funeral of Patroclus's body)
 1009	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	-ax 538. 799. 1009
 1009	6	Meriones	Meriones	Merionem	-em 1009(?)
@@ -1519,7 +1519,7 @@ verse	edition	headword	headword-en	form	description
 1028	6	Achilles	Achilles	Achilles	voc.: fortissime -es 818. 1028
 1028	6	Graius	Greek	Graiae	Graiae gentis 1028
 1029	4	TROJANI	Trojans	Dardana	— trembles at you alone (Priam addresses Achilles)
-1029	6	Dardanus	Dardan	Dardana	-na . . . pubes 1029
+1029	6	Dardanus	Dardanian	Dardana	-na . . . pubes 1029
 1030	6	Priamus	Priam	senectus	nostra senectus 1030
 1032	6	Priamus	Priam	patris	afflicti . . . patris 986. 1032
 1033	6	Hector	Hector	nati	natum 945. 1033. 1036
@@ -1528,9 +1528,9 @@ verse	edition	headword	headword-en	form	description
 1036	6	Priamus	Priam	pater	pater 1036
 1038	6	Hector	Hector	funus	funus 1038
 1038	6	Priamus	Priam	parentis	parentis 225. 1038. 1044
-1040	4	DARDANUS	Dardan	Dardana	Dardana regna: you have conquered the Dardan kingdom (Priam to Achilles)
+1040	4	DARDANUS	Dardanian	Dardana	Dardana regna: you have conquered the Dardanian kingdom (Priam to Achilles)
 1040	4	HECTOR	Hector	Hectoris	— Troy conquered by Hector's death
-1040	6	Dardanus	Dardan	Dardana	-na regna 1040: Trojan
+1040	6	Dardanus	Dardanian	Dardana	-na regna 1040: Trojan
 1040	6	Hector	Hector	Hectoris	-oris 232. 565. 1006. 1040
 1041	4	PRIAMUS	Priam	Priamum	Priamum: you have conquered Priam (he speaks of himself to Achilles)
 1041	6	Priamus	Priam	Priamum	vicisti -mum 1041
