@@ -33,6 +33,7 @@ Next:
 1. commentary/ja/: the Japanese translation of commentary/en/, made
    by a model (Gemini) without looking at commentary-ja.tsv and
    index-ja.tsv (see [Translating into Japanese](#translating-into-japanese)).
+   Proper names are recorded book by book in commentary/pn-ja.md.
 2. commentary/ja/, commentary-ja.tsv and index-ja.tsv are checked
    against each other, and the TSVs corrected (the names above all,
    and the 122 adapted notes).
@@ -57,8 +58,8 @@ summaries `NN/README.md`.
   the Japanese files in texts/ (`*-ja.md`, `INDEX-ja.tsv`,
   notes-ja.md).  The Japanese is made from the English alone, so that
   it can be checked against them afterwards (step 2 above).
-- Written only in commentary/ja/; no other file is changed, and
-  nothing is committed.
+- Written only in commentary/ja/ and commentary/pn-ja.md; no other
+  file is changed, and nothing is committed.
 
 The form:
 
@@ -132,9 +133,12 @@ way, in the verses and in the commentary.
   Vollmer フォルマー (where the commentary gives the readings of both
   editions).
 
-At the end of each book, the files written are reported, with every
-name not in the lists above and the Japanese form chosen for it, so
-that the forms can be checked before the next book.
+At the end of each book, its proper names are recorded in
+commentary/pn-ja.md in a section for that book, with their English or
+Latin forms, Japanese katakana, category/explanation, and verse
+numbers.  The files written are reported, with every name not in the
+lists above and the Japanese form chosen for it, so that the forms can
+be checked before the next book.
 
 ### Checking the Japanese
 
@@ -150,9 +154,9 @@ is taken over here, steps 2 and 3 of Next:
    Then each section is read against the English: nothing added or
    left out, each verse with its own words only, the headings and
    quotation marks as in [Translating into Japanese](#translating-into-japanese).
-3. **The names.**  The names Gemini reported and those found in the
-   files are listed with their verses and files; each person or people
-   has one form, following the rules and lists above and
+3. **The names.**  The names in commentary/pn-ja.md and those found in
+   the files are checked with their verses and files; each person or
+   people has one form, following the rules and lists above and
    [The forms settled](#the-forms-settled).  A form not in the lists
    is decided with the user and added to them.
 4. **Against the TSVs.**  commentary/ja/ is compared with
