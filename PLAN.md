@@ -17,6 +17,8 @@ texts/README.md and src/README.md first.
    indexes should have been in notes-en.md when commentary/ was
    generated and checked; they were added afterwards, so all 24 books
    are checked against them now (see [Checking the names](#checking-the-names)).
+   Pass A is done (commits af4b60b to f03bbc0); pass B is next, from
+   book 1.
 3. When the names are done, deploying the translation as a website is
    to be considered.
 
@@ -52,6 +54,40 @@ A. **The names** (notation), over all the books at once, headword by
    Ignipotens), its English is the translation's form.  The decisions
    taken here (one form for each person) are applied in all the books
    and in the rows of index.tsv.
+
+   Done.  The forms settled, to be kept in B and in any later
+   correction:
+   - kept in Latin in the translation, as the policy's Atrides and
+     Cytherea: the patronymics (Aeacides, Tydides, Priamides,
+     Thestorides, Dardanides for Hector …) and Ignipotens, Mulciber,
+     Tritonia, Mavors, Somnus, Aurora, Arctos, Auster, Eurus, Hesperus,
+     Lucifer, Luna, Ilion, Pergama, Iliades; their English headwords
+     are the same;
+   - adjectives as "the X-ian hero" (Pelopeian, Nereian, Calydonian,
+     Aetolian, Cytherean), "Mavortian Hector" (543, 797, *Mavortius*),
+     "warlike Hector" (760, *Martius*), "Telamonian Ajax", "Dardanian",
+     "Ilian", "Doric", "the hero, son of Thetis" (690, 892);
+   - a Greek accusative in *-on* is given in the nominative (748
+     Antiphus, 369 Leucus), and a name from an oblique case in its
+     right nominative (246 Arsinous); Peneleus, Archelochus, Odius,
+     Echemmon, Hypiron, Polyidus as in the translation;
+   - the commentary identifies Pallas once per section as "Minerva, the
+     Athena of Homer"; where it tells Homer's scene it uses the Greek
+     names (Athena, Ares, Hera, Zeus, Odysseus, Dawn).
+
+   Left for B from A: the rows on readings that The Latin Library does
+   not have (195 *Nireus*/*Sume*, 246 Plessis *Alcinoo*, 372
+   *Laertiades*, 565 *Astyanacta*, 601 *Aeacides*, 631 *Danaum*, 791
+   the lost verse, 900 *Latiis*, 1008 *tyrsin*, 1050 *Argiva*), and
+   748, whose commentary calls the identification of Antiphus with the
+   son of Priam uncertain though both indexes give it.  In book 1 only
+   points to confirm remain: 57 *Danai* (an adjective in Plessis, a
+   vocative in Vollmer; the translation follows LL and Vollmer), 82
+   *Plistheniden* (no row in either index; Vollmer's cross-reference
+   under Agamemnon is not in the original, PDF p. 221, so not a loss
+   in extraction), 90 *pignus* (Vollmer; LL *corpus*, the same
+   person), 107 *Olympo* (Plessis; LL *Olympi*), 1 Baebius (the
+   acrostic, not required in the commentary).
 B. **The content**, book by book, verse by verse:
    1. **The person**: the one the translation and the commentary mean
       is the one the headword gives, above all for patronymics,
