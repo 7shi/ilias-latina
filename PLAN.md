@@ -1,195 +1,103 @@
 # Plan for the commentary
 
 Notes for the next session.  Read README.md, this file,
-texts/README.md and src/README.md first.
+commentary/README.md, texts/README.md and src/README.md first.
 
-## Current work
+## Current state and next work
 
-1. The indexes of proper names in texts/ are in order:
-   texts/4-plessis/INDEX.tsv and texts/6-vollmer/INDEX.tsv, the indexes
-   of Plessis and Vollmer as tables of headword, verse, form and
-   description (see the README of each; Lemaire and Baehrens have no
-   index).  Both index.md files have been compared letter by letter
-   with the page images (texts/PROOFREADING.md, step 8).  Their rows,
-   with INDEX-en.tsv and INDEX-ja.tsv, are placed at their verses in
-   texts/notes{,-en,-ja}.md.
-2. Next the proper names in commentary/ are checked with them.  The
-   indexes should have been in notes-en.md when commentary/ was
-   generated and checked; they were added afterwards, so all 24 books
-   are checked against them now (see [Checking the names](#checking-the-names)).
-   Passes A (commits af4b60b to f03bbc0) and B (87ebc08) are done, and
-   the English of index.tsv has been carried over to texts/.  The
-   Japanese (index-ja.md, INDEX-ja.tsv and the Japanese commentary) is
-   left until the Japanese commentary is translated from the finished
-   English.
-3. When the names are done, deploying the translation as a website is
-   to be considered.
+The English translation with a commentary in commentary/ is finished
+in all 24 books: generated, checked against the Latin, the notes of
+the editions, the Greek and the indexes of proper names, and compared
+with the Portuguese.  The English of the indexes (commentary/index.tsv
+and the editions' INDEX-en.tsv and index-en.md) agrees with it.
 
-### Checking the names
+Next:
 
-The sections (commentary/NN/VVVV.md) are checked against the rows of
-their verses in commentary/index.tsv (see commentary/README.md, Index),
-which gives the rows of the indexes as texts/notes-en.md does,
-with the headword, its English, the form and the description in
-columns of their own.  The check is made in two passes, kept apart:
+1. The Japanese commentary, translated from the finished English.  How
+   it is made (by a model or by hand, one file per section as in
+   English) is to be settled with the user before starting.  With it
+   the Japanese of the indexes (index-ja.md and INDEX-ja.tsv of Plessis
+   and Vollmer) is made to agree with its names, as the English was
+   (see [Carrying the names over to texts/](#7-carrying-the-names-over-to-texts)).
+2. When the Japanese is done, deploying the translation as a website
+   is to be considered.
 
-A. **The names** (notation), over all the books at once, headword by
-   headword:
-   - the name in the translation agrees with the English headword of
-     the row ("Ulysses", "Ajax", "Greeks") and follows the policy in
-     commentary/README.md.  Where the policy keeps a patronymic or a
-     name as it is (Atrides, Pelides, Cytherea) and the headword is the
-     person ("Agamemnon") or a gloss ("son of Peleus"), the translation
-     keeps the Latin and only the person is checked (in B);
-   - the same person or people is called the same way throughout, in
-     the translation (106 *Ignipotente* "the fire god" but 862
-     "Ignipotens"; *Myrmidones* for the Greeks at large, 23, 180) and
-     in the commentary's explanations ("Pallas is Athena" or Minerva);
-   - the name the row cites appears in the translation of its verse,
-     not only as a gloss (108 *Olympo* "the sky", while the commentary
-     speaks of "Olympus").
-   The English headwords were added by hand and are made to agree
-   with the translation and the commentary, not the other way round.
-   Where the headword is the person (MINERVA), its English is the
-   person's name, and the forms of the translation (Pallas, Tritonia)
-   are not matched with it; where the headword is itself a name,
-   patronymic or epithet kept in the translation (Tydides, Tritonia,
-   Ignipotens), its English is the translation's form.  The decisions
-   taken here (one form for each person) are applied in all the books
-   and in the rows of index.tsv.
+## How the present state is built
 
-   Done.  The forms settled, to be kept in B and in any later
-   correction:
-   - kept in Latin in the translation, as the policy's Atrides and
-     Cytherea: the patronymics (Aeacides, Tydides, Priamides,
-     Thestorides, Dardanides for Hector …) and Ignipotens, Mulciber,
-     Tritonia, Mavors, Somnus, Aurora, Arctos, Auster, Eurus, Hesperus,
-     Lucifer, Luna, Ilion, Pergama, Iliades; their English headwords
-     are the same;
-   - adjectives as "the X-ian hero" (Pelopeian, Nereian, Calydonian,
-     Aetolian, Cytherean), "Mavortian Hector" (543, 797, *Mavortius*),
-     "warlike Hector" (760, *Martius*), "Telamonian Ajax", "Dardanian",
-     "Ilian", "Doric", "the hero, son of Thetis" (690, 892);
-   - a Greek accusative in *-on* is given in the nominative (748
-     Antiphus, 369 Leucus), and a name from an oblique case in its
-     right nominative (246 Arsinous); Peneleus, Archelochus, Odius,
-     Echemmon, Hypiron, Polyidus as in the translation;
-   - the commentary identifies Pallas once per section as "Minerva, the
-     Athena of Homer"; where it tells Homer's scene it uses the Greek
-     names (Athena, Ares, Hera, Zeus, Odysseus, Dawn).
+Each step depends only on the ones before it.
 
-   Left for B from A: the rows on readings that The Latin Library does
-   not have (195 *Nireus*/*Sume*, 246 Plessis *Alcinoo*, 372
-   *Laertiades*, 565 *Astyanacta*, 601 *Aeacides*, 631 *Danaum*, 791
-   the lost verse, 900 *Latiis*, 1008 *tyrsin*, 1050 *Argiva*), and
-   748, whose commentary calls the identification of Antiphus with the
-   son of Priam uncertain though both indexes give it.  In book 1 only
-   points to confirm remain: 57 *Danai* (an adjective in Plessis, a
-   vocative in Vollmer; the translation follows LL and Vollmer), 82
-   *Plistheniden* (no row in either index; Vollmer's cross-reference
-   under Agamemnon is not in the original, PDF p. 221, so not a loss
-   in extraction), 90 *pignus* (Vollmer; LL *corpus*, the same
-   person), 107 *Olympo* (Plessis; LL *Olympi*), 1 Baebius (the
-   acrostic, not required in the commentary).
-B. **The content**, book by book, verse by verse:
-   1. **The person**: the one the translation and the commentary mean
-      is the one the headword gives, above all for patronymics,
-      epithets and periphrases (Atrides, Aeacides, *Priami filius*,
-      *Pelopea iuventus*, Cytherea) and for homonyms (Acamas 1 and 2,
-      Aiax Locrus and Telamonius).
-   2. **The word**: the form the row cites is translated in its own
-      verse, not moved to another.
-   3. **The commentary**: what it says of the person (descent, people,
-      who kills whom) agrees with the description.
+### 1. The texts
 
-   Done (commit 87ebc08, books 1–24 at once).  Decided, to be kept in
-   any later correction:
-   - where the commentary tells Homer's scene it uses the Greek names
-     (Zeus, Hera, Hephaestus, Poseidon, Ares, as Athena in A); where it
-     speaks of the persons of the Latin, the Roman ones (Jupiter, Mars,
-     Aesculapius);
-   - where Plessis and Vollmer read or identify differently, the
-     commentary gives both ("Plessis …; Vollmer …") without deciding:
-     195, 201, 246, 341, 372, 510, 640, 752, 791, 843, 880, 900, 983,
-     1008, 1050.  748 and 983 were corrected to the identification of
-     both indexes; 565 and 631 differ only in the reading, the person
-     being the same;
-   - errors and peculiarities of the originals are left as they are:
-     182 Plessis "twenty ships", 305 "Paride vulnerato", 601 Plessis
-     putting *Aeacides* (Ajax) under ACHILLES, 614 "saxum levat", 1048
-     "six bodies";
-   - in index.tsv, Plessis's "Sleep" (113–124) became "Somnus", "the
-     son of Mars" (529, 543, 797) "Mavortian," and "the Martial one"
-     (760) "warlike,", as in the translation.
+- The Latin Library (LL, texts/ilias.txt) is the base text, with its
+  numbering and book divisions (texts/books.tsv).
+- The Portuguese translation (Almeida, Coimbra 2021, on Scaffai's
+  edition), from a PDF the user has, is extracted and paired with LL
+  line by line by `make pt` in src/ (src/tmp/ilias_la_pt.txt, not
+  committed); `make check-pt` confirmed that the pairing holds
+  throughout, and src/PORTUGUESE.md records the places where the
+  translation departs from LL (75–76 and 100–101 transposed, 827a,
+  864, 890).  The book divisions of texts/books.tsv follow it, except
+  book 15 (see texts/README.md, Books).
+- The four editions (Lemaire, Baehrens, Plessis, Vollmer) are
+  extracted by the scripts in src/, once, into texts/, and proofread
+  against the page images (texts/PROOFREADING.md).  texts/concordance.md
+  relates their verses to LL.
+- Their English and Japanese translations (`ilias-{en,ja}.md`,
+  `COMMENTARY-{en,ja}.md`, `index-{en,ja}.md`, …) are drafts, not yet
+  reviewed.
 
-   The diff of index.tsv since af4b60b~1 (A and B) was then carried
-   over to the editions' INDEX-en.tsv and index-en.md and `make notes`
-   run in texts/.  Checking it found five rows of Plessis that A and B
-   had missed, corrected first in index.tsv (360 THALYSIADES
-   "Thalysiades", 416 and 437 "Tydides", 448 "Echemmon", 905
-   "Dardanian"); and Plessis's cross-references, which have no verse
-   and so no row in index.tsv (AEACIDES, ATRIDES, PELIDES, IGNIPOTENS,
-   MARTIUS …), were given the English headwords of the same words in
-   Vollmer.  Plessis LAERTIUS "son of Laertes" against Vollmer Laertius
-   "of Laertes" was not in the diff and is left.
+### 2. The indexes
 
-- index.tsv keeps the rows on readings that The Latin Library does not
-  have (151 *Pelasgi*, 195 *Nireus*) and the rows of a range at its
-  first verse; whether a row applies is judged here.
-- Where Plessis and Vollmer identify a person differently, both are
-  listed without deciding between them.
-- A mechanical first pass is allowed (e.g. counting the verses with
-  index rows whose translation lacks the headword-en); its script stays
-  in the scratchpad unless the user wants it kept.
-- The problems are reported before anything is edited, as in steps 3
-  and 4 below: in A headword by headword (the forms found, with their
-  verses and files, and a proposed form), in B book by book (verse,
-  file, the passage, the index row, which of 1–3, a proposed
-  correction).
-- An index row that seems wrong is checked in the edition's index.md
-  and ilias.md (the page images as a last resort) and reported.  It is
-  corrected in the data, not in a script: in double braces in index.md
-  and index-{en,ja}.md, without braces in INDEX*.tsv, and then
-  `make notes` in texts/; commentary/index.tsv is corrected by
-  hand in the same way.
-- The English headwords, and the names in the descriptions, are
-  corrected in commentary/index.tsv first, together with the
-  translation and the commentary, all the rows of a headword getting
-  the same English.  When the checking is done, the diff of index.tsv
-  is carried over to the editions' INDEX-en.tsv (headword-en and the
-  names in the descriptions) and index-en.md (the names in the
-  descriptions only; its headwords are Latin), after checking that
-  each headword has one English form, and then `make notes` in
-  texts/.  The rest of the wording of the descriptions is left alone.
-  The Japanese (index-ja.md, INDEX-ja.tsv) is adjusted later, when
-  the Japanese commentary is translated from the finished English.
-- The translations of the indexes are drafts, not yet reviewed: a
-  description whose English differs from the Latin is reported, not
-  corrected (the names excepted, as above).
-- Giving the index rows to commentary/generate.py as context for any
-  later generation may be proposed, not implemented.
-- Corrections of the translation and the commentary are committed
-  with the corrections of index.tsv they entail, by headword or group
-  of headwords in A and by book or range of books in B; the carrying
-  over to texts/ and other corrections of the data in separate
-  commits.
+- Plessis and Vollmer have indexes of proper names (Lemaire and
+  Baehrens have none).  Their index.md is compared letter by letter
+  with the page images (texts/PROOFREADING.md, step 8) and turned into
+  INDEX.tsv: headword, verse, form and description (see the README of
+  each edition).
+- INDEX-en.tsv and INDEX-ja.tsv are made from INDEX.tsv and
+  index-{en,ja}.md by texts/index_translations.py.
+- `make notes` in texts/ places the verses of the editions, their
+  commentaries and the rows of their indexes side by side, verse by
+  verse, in texts/notes{,-en,-ja}.md.
 
-## The commentary
+### 3. The data for the commentary
 
-The translation with a commentary in commentary/ (see its README) has
-been checked in all 24 books and compared with the Portuguese
-(books 1–3, 4–6, 7–9, 10–15, 16–20 and 21–24 in `git log`).  The
-spelling is American throughout.  The steps followed, for any book to
-be regenerated or checked again:
+In commentary/, made by hand or once from texts/notes-en.md and
+corrected by hand from then on (see commentary/README.md):
 
-1. The user runs `make generate MODEL=gpt-6-astra` in commentary/ (the
-   API key is in the user's shell, not here), and the generated files
-   are committed as they are ("Add commentary/NN/, … as generated by
-   gpt-6-astra").
-2. Every section and the summary `NN/README.md` of a book are checked
-   against the Latin, commentary/commentary.tsv and the Greek
-   (src/tmp/greek.md, which gives each section's verses with the lines
-   of the *Iliad*; the verse ranges of the books are in
+- alignment.tsv: the lines of the *Iliad* each verse renders
+  (`make homer` in src/ downloads the Greek, not committed); it has
+  been reviewed book by book against the Greek;
+- commentary.tsv: the notes of the editions that apply to the text of
+  LL;
+- index.tsv: the rows of the indexes of Plessis and Vollmer at their
+  verses, with the headword, its English, the form and the
+  description in columns of their own.
+
+### 4. The sections
+
+`make greek` in src/ builds src/tmp/greek.md from LL, alignment.tsv
+and commentary.tsv: the sections of the poem, each with its verses,
+the lines of the *Iliad* they render, the notes that apply and the
+Greek.
+
+### 5. Generation
+
+The user runs `make generate MODEL=gpt-6-astra` in commentary/ (the
+API key is in the user's shell, not here), and the generated files are
+committed as they are ("Add commentary/NN/, … as generated by
+gpt-6-astra").  generate.py is given the section from greek.md and
+the previous section; the first section of a book is given the summary of
+the previous book (`NN/README.md`), so it is checked with the
+corrections of that summary in mind.  Giving it the rows of index.tsv
+as well may be proposed, not implemented.
+
+### 6. Checking
+
+Every section and the summary `NN/README.md` of a book are checked,
+and the problems reported before anything is edited.
+
+1. **The Latin, the notes and the Greek.**  Against the section in
+   greek.md (the verse ranges of the books are in
    texts/books.tsv): the accuracy of the translation, the glosses
    followed, no uncertain reading stated as fact, and agreement with
    the books before.  Frequent errors in the drafts:
@@ -197,88 +105,156 @@ be regenerated or checked again:
      garbled, or cut by a full stop and resumed with "and";
    - words moved to another verse: each verse is translated with its
      own words only, even if the English is less natural;
-   - names in the Latin form (*Vlixes*, *Danai*), which the drafts keep
-     because they were generated before the English forms were adopted
-     (see the policy in commentary/README.md; books 1–3 show the forms
-     in use), and explanations that become circular once the name is
-     in English ("the Danaans are the Danaans");
+   - names in the Latin form (*Vlixes*, *Danai*) where the policy in
+     commentary/README.md gives the English, and explanations that
+     become circular once the name is in English ("the Danaans are the
+     Danaans");
    - a claim that the Latin omits what comes in the next or the
      previous section;
-   - genealogies; *Myrmidones* for the Greeks at large (23, 180), to be
-     treated the same way throughout.
-3. The translation is then compared with the Portuguese
-   (src/tmp/ilias_la_pt.txt, the Latin and Portuguese line by line,
-   minding the differences in src/PORTUGUESE.md).  The problems are
-   reported first; nothing is edited until the user asks.
-4. The corrections are made in the files; the user stages and commits
-   them with /commit ("Correct the translation and commentary of book
-   N", listing the verses).
-5. The first section of a book was generated from the summary of the
-   previous book before its correction; it is checked with the
-   corrections of that summary in mind.
+   - genealogies; *Myrmidones* for the Greeks at large (23, 180).
+2. **The names**, against the rows of the verse in index.tsv:
+   - the name in the translation agrees with the English headword and
+     the policy, and the same person or people is called the same way
+     throughout, in the translation and in the commentary (see
+     [The forms settled](#the-forms-settled));
+   - the form the row cites is translated in its own verse, as a name,
+     not only as a gloss;
+   - the person meant is the one the headword gives, above all for
+     patronymics, epithets and periphrases (Atrides, Aeacides, *Priami
+     filius*, *Pelopea iuventus*, Cytherea) and for homonyms (Acamas 1
+     and 2, Aiax Locrus and Telamonius);
+   - what the commentary says of the person (descent, people, who
+     kills whom) agrees with the description.
+   The English headwords are made to agree with the translation, not
+   the other way round.  Where the headword is the person (MINERVA),
+   its English is the person's name, and the forms of the translation
+   (Pallas, Tritonia) are not matched with it; where the headword is
+   itself a name, patronymic or epithet kept in the translation
+   (Tydides, Tritonia, Ignipotens), its English is the translation's
+   form.  All the rows of a headword have the same English.  Rows on a
+   reading that LL does not have (151 *Pelasgi*, 195 *Nireus*) are
+   kept; whether a row applies is judged here.
+3. **The Portuguese.**  The finished translation is compared with the
+   Portuguese (src/tmp/ilias_la_pt.txt, the Latin and Portuguese line
+   by line, minding the differences in src/PORTUGUESE.md), as an aid
+   for checking the content only (see Rules).
 
-A note in commentary/commentary.tsv that seems wrong is checked before the
-translation follows or departs from it.  The notes are the English
-drafts of the editions' Latin (or French) notes, and the bracketed
-glosses of a lemma were added in the drafts, not by the editors (338,
-*suas*: "his own" for "her own").  The note is compared with the
-original in the edition's `ilias.md` in texts/ (and with the page
-images if the text itself is in doubt).  A note is corrected only
-where its English or Japanese differs from the original (a wrong
-gloss, a changed reference); an original that is itself mistaken or
-open to question is left as it is, since the translation does not
-have to follow it.  Such a difference is reported with the
-translation's problems, and when the user agrees it is corrected in
-every copy: commentary/commentary.tsv, the edition's
-`ilias-en.md` and `ilias-ja.md`, and its `COMMENTARY-en.md` and
-`COMMENTARY-ja.md` (kept by hand); then `make notes` in texts/
-rebuilds the derived texts/notes*.md.  Sections already
-translated after the wrong note are corrected too.
+A mechanical first pass is allowed (e.g. listing the verses whose
+translation lacks the English headword of a row); its script stays in
+the scratchpad unless the user wants it kept.  The problems are
+reported as a table (verse, file, the passage, the index row or note,
+the kind of problem, a proposed correction), and the form of a report
+is agreed with the user before going on.  The corrections are made in
+the translation, the commentary and index.tsv together.
+
+### 7. Carrying the names over to texts/
+
+When the checking is done, the diff of commentary/index.tsv is
+carried over to the editions' INDEX-en.tsv (the English headwords and
+the names in the descriptions) and index-en.md (the names in the
+descriptions only; its headwords are Latin), after checking that each
+headword has one English form; then `make notes` in texts/.  The
+cross-references of an index, which have no verse and so no row in
+index.tsv, get the English of the same word in the other index or in
+index.tsv.  The rest of the wording of the descriptions is left
+alone.
+
+## The forms settled
+
+To be kept in the Japanese and in any later correction.
+
+- Kept in Latin in the translation, as the policy's Atrides and
+  Cytherea: the patronymics (Aeacides, Tydides, Priamides,
+  Thestorides, Thalysiades, Dardanides for Hector …) and Ignipotens,
+  Mulciber, Tritonia, Mavors, Somnus, Aurora, Arctos, Auster, Eurus,
+  Hesperus, Lucifer, Luna, Ilion, Pergama, Iliades; their English
+  headwords are the same.
+- Adjectives as "the X-ian hero" (Pelopeian, Nereian, Calydonian,
+  Aetolian, Cytherean), "Mavortian Hector" (543, 797, *Mavortius*),
+  "warlike Hector" (760, *Martius*), "Telamonian Ajax", "Dardanian",
+  "Ilian", "Doric", "the hero, son of Thetis" (690, 892).
+- A Greek accusative in *-on* is given in the nominative (748
+  Antiphus, 369 Leucus), and a name from an oblique case in its right
+  nominative (246 Arsinous); Peneleus, Archelochus, Odius, Echemmon,
+  Hypiron, Polyidus as in the translation.
+- The commentary identifies Pallas once per section as "Minerva, the
+  Athena of Homer".  Where it tells Homer's scene it uses the Greek
+  names (Athena, Zeus, Hera, Hephaestus, Poseidon, Ares, Odysseus,
+  Dawn); where it speaks of the persons of the Latin, the Roman ones
+  (Jupiter, Mars, Aesculapius).
+- Where Plessis and Vollmer read or identify differently, the
+  commentary gives both ("Plessis …; Vollmer …") without deciding
+  between them: 195, 201, 246, 341, 372, 510, 640, 752, 791, 843, 880,
+  900, 983, 1008, 1050.  At 565 and 631 they differ only in the
+  reading, the person being the same.
+- Left as they are in the originals: 182 Plessis "twenty ships", 305
+  "Paride vulnerato", 601 Plessis putting *Aeacides* (Ajax) under
+  ACHILLES, 614 "saxum levat", 1048 "six bodies"; 82 *Plistheniden*
+  has no row in either index (Vollmer's cross-reference under
+  Agamemnon is not in the original, PDF p. 221); Plessis LAERTIUS "son
+  of Laertes" against Vollmer Laertius "of Laertes".
+
+## Correcting the data
+
+- A note in commentary.tsv that seems wrong is checked against the
+  original in the edition's `ilias.md` (and the page images if the
+  text itself is in doubt) before the translation follows or departs
+  from it.  The notes are the English drafts of the editions' Latin
+  (or French) notes, and the bracketed glosses of a lemma were added
+  in the drafts, not by the editors (338, *suas*: "his own" for "her
+  own").  A note is corrected only where its English or Japanese
+  differs from the original; an original that is itself mistaken or
+  open to question is left as it is, since the translation does not
+  have to follow it.  When the user agrees, it is corrected in every
+  copy: commentary.tsv, the edition's `ilias-{en,ja}.md` and
+  `COMMENTARY-{en,ja}.md`; then `make notes` in texts/.  Sections
+  translated after the wrong note are corrected too.
+- An index row that seems wrong is checked in the edition's index.md
+  and ilias.md (the page images as a last resort) and reported.  It is
+  corrected in double braces in index.md and index-{en,ja}.md, without
+  braces in INDEX*.tsv, and by hand in commentary/index.tsv; then
+  `make notes` in texts/.
+- The translations of the editions' files are drafts: an English
+  that differs from the Latin is reported, not corrected, except for
+  the names carried over as in step 7.
 
 ## Rules
 
 - Files are written in English, conversation is in Japanese.  "book 1"
   for a book; a line of the *Ilias Latina* is a verse, a line of the
   *Iliad* a line.
-- The Latin Library (LL, texts/ilias.txt) stays the base text, with its
-  numbering and book divisions (texts/books.tsv is not changed).  Arranging
-  the editions into a text of our own would make a new edition; their
-  differences go into the notes.
+- LL stays the base text, with its numbering and book divisions
+  (texts/books.tsv is not changed).  Arranging the editions into a
+  text of our own would make a new edition; their differences go into
+  the notes.
 - The Portuguese translation is not in the public domain: it is only a
   guide to the book divisions and an aid for checking the content, and
   of it only src/PORTUGUESE.md, with short quotations, is published.
-  The English translation is made without consulting it and is compared
-  with it only when finished; an error found is corrected from the Latin
+  The translation is made without consulting it and is compared with
+  it only when finished; an error found is corrected from the Latin
   and the notes, not from its wording.
 - A script extracts a source only once; later corrections are made in
-  the output files, never in the scripts, and `make` does not rebuild an
-  existing file.  The exception is the derived files rebuilt by `make`
-  in texts/ (notes.md, notes-en/ja.md, iliad.md), which are
-  not corrected by hand.
+  the output files, never in the scripts, and `make` does not rebuild
+  an existing file.  The exception is the derived files rebuilt by
+  `make` in texts/ (notes.md, notes-en/ja.md, iliad.md), which are not
+  corrected by hand.
 - The translations (`-en.md`, `-ja.md`) follow their originals one for
   one; a correction to an original is made in its translations too.
 - Notation: hands as each edition prints them; a literal `<` is `\<`,
   `|` in a table `\|`.  Ask the user before settling a notation.
 - Check facts in the sources before writing them, and mark conjectures
-  as such.  Modern editions and commentaries (Scaffai, Kennedy, Perkins,
-  Falcone & Schubert, Green) may be cited, not copied.
+  as such.  Modern editions and commentaries (Scaffai, Kennedy,
+  Perkins, Falcone & Schubert, Green) may be cited, not copied.
+- The spelling of the English is American.
 - The root README does not mention src/tmp or download steps, and lists
   as requirements only uv, make, curl and poppler-utils.
-- Commit only after the user has reviewed, with /commit (staged files
-  only).  Do not restore or fix tracked files that look changed or
-  missing; ask first.
-
-## State
-
-- The four editions in texts/ have been proofread against the page
-  images.  Page images are a last resort: `src/tmp/<number>-<id>/NNN.jpg`
-  (150 dpi, NNN = PDF page; Vollmer p. 1 = PDF 159), or render with
+- Page images are a last resort: `src/tmp/<number>-<id>/NNN.jpg` (150
+  dpi, NNN = PDF page; Vollmer p. 1 = PDF 159), or render with
   `pdftoppm -r 300..600` and crop with Pillow.
-- commentary/alignment.tsv was reviewed book by book against the Greek
-  (2026-09-27).  The Greek is downloaded by
-  `make homer` and not committed; `make greek` in src/ builds
-  src/tmp/greek.md, the input of commentary/generate.py.
-- The English and Japanese translations of the editions' files are
-  drafts, not yet reviewed; commentary/commentary.tsv was made from the
-  English drafts before any review (see the checking of notes under
-  Current work).
+- Problems are reported first; nothing is edited until the user asks.
+  Commit only after the user has reviewed, with /commit (staged files
+  only).  The generated files, the corrections of the translation and
+  the commentary (with the corrections of index.tsv they entail), and
+  the corrections of the data in texts/ are committed separately.
+  Do not restore or fix tracked files that look changed or missing;
+  ask first.
