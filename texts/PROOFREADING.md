@@ -120,7 +120,9 @@ v as u, and a final -que removed) were listed, 365 words in 281 verses
 after step 5, and each was checked against the page image.  The
 misreadings were corrected in `ilias.md`, `ilias-en.md` and
 `ilias-ja.md` (`f2c7570`), and `make commentary` rebuilt the
-`COMMENTARY*.md` files.
+`COMMENTARY*.md` files (renamed `notes*.md`, built by `make notes`,
+since the rows of the indexes were put in them with the items of the
+commentaries).
 
 - About 200 words in 159 verses on 47 pages (pp. 4–84), most of them
   in verses 1–750, such as `dcserit` (*deserit*), `Yenerat` (*Venerat*)

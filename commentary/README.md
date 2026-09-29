@@ -93,23 +93,25 @@ against the Greek.
   the editions.
 - Only the Greek line numbers are kept here, not the Greek text.
 
-## Notes
+## Commentary
 
 The notes of the editions belong to their own texts, which in places
 read differently from The Latin Library: at 11, for example, all four
 editions read *Infestus*, and their notes explain it (= χολωθείς),
 while The Latin Library has *infestam regi pestem*.
-[notes.tsv](notes.tsv) keeps the notes that apply to the text of The
-Latin Library, as curated context for translating it into English.  It
-was made once from [texts/COMMENTARY-en.md](../texts/COMMENTARY-en.md)
+[commentary.tsv](commentary.tsv) keeps the notes that apply to the
+text of The Latin Library, as curated context for translating it into
+English.  It was made once from the items of the editions'
+commentaries in [texts/notes-en.md](../texts/notes-en.md) (then
+`COMMENTARY-en.md`, before the rows of the indexes were put in it),
 and is corrected by hand from then on; it is not rebuilt when the
 editions' files change.
 
 - Columns: `verse` (The Latin Library), `edition` (2 Lemaire, 3
-  Baehrens, 4 Plessis, 6 Vollmer), `note`, in the order of
-  COMMENTARY-en.md.  A note continued from the previous page
-  ("(cont.)") is joined to the note it continues, and the label of a
-  range of verses is kept at the start of the note ("432-433: …").
+  Baehrens, 4 Plessis, 6 Vollmer), `note`, in the order of notes-en.md.
+  A note continued from the previous page ("(cont.)") is joined to the
+  note it continues, and the label of a range of verses is kept at the
+  start of the note ("432-433: …").
 - A note is copied as it is when it applies to The Latin Library.  A
   note on a reading that The Latin Library does not have is left out
   (e.g. 47, *arbor* for *aer*).  A note that applies only in part is
@@ -119,7 +121,7 @@ editions' files change.
 - The notes were chosen by comparing each edition's verse with that of
   The Latin Library and checking whether the words a note discusses
   are there, reading the full notes in the editions' `ilias-en.md`
-  where COMMENTARY-en.md cuts them.
+  where notes-en.md cuts them.
 - Wernsdorf's references to other verses of the poem are given in the
   numbering of The Latin Library, found by their content: his figures
   do not always follow his own numbering (at 28 his "v. 1012", *arat
@@ -133,9 +135,9 @@ of Plessis and Vollmer (their `INDEX-en.tsv` in texts/), for checking
 the names of the translation and the commentary: whom a name,
 patronymic or periphrasis means, and how the editors describe the
 person.  It was made once from the editions' `INDEX-en.tsv`, placing
-the rows at their verses as `make commentary` in texts/
-([commentary.py](../texts/commentary.py)) does for
-[texts/COMMENTARY-en.md](../texts/COMMENTARY-en.md), after the sections
+the rows at their verses as `make notes` in texts/
+([notes.py](../texts/notes.py)) does for
+[texts/notes-en.md](../texts/notes-en.md), after the sections
 had been generated and checked, and is corrected by hand from then on;
 it is not rebuilt when the editions' files change.
 
@@ -144,13 +146,13 @@ it is not rebuilt when the editions' files change.
   `form` and `description` as in `INDEX-en.tsv`: the headword in Latin
   and English, the form of the word in the edition's verse (empty where
   the verse does not have it) and the description in English.  The rows
-  of a verse are in the order of COMMENTARY-en.md: Plessis before
+  of a verse are in the order of notes-en.md: Plessis before
   Vollmer, each in the order of its index.
 - A row citing a range of verses is at the first of them, though the
   word may be in a later one (184, *Tydides* in 185); a row citing
   several verses is at each of them, but only at the first of
   consecutive ones.  Cross-references, without a verse, are left out.
-- Unlike notes.tsv, all the rows are kept, including those on a reading
+- Unlike commentary.tsv, all the rows are kept, including those on a reading
   that The Latin Library does not have (151 *Pelasgi* for *Achiui*, 195
   *Nireus* for *Teucer*): the forms are the editions', and whether a
   row applies is judged in checking.

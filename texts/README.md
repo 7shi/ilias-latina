@@ -23,16 +23,16 @@ taken from and how the texts were proofread against the page images.
 [concordance.md](concordance.md) keys the verses of the four editions to
 the numbering of The Latin Library (see [Concordance](#concordance)).
 
-[COMMENTARY.md](COMMENTARY.md) goes through the poem verse by verse in
+[notes.md](notes.md) goes through the poem verse by verse in
 the order of The Latin Library, giving the verse of each edition with
 the items of its `COMMENTARY.md` (the notes on the interpretation,
 without the readings and conjectures; see [Commentary](#commentary))
 and, for Plessis and Vollmer, the rows of its index (`INDEX.tsv`).
-Its translations [COMMENTARY-en.md](COMMENTARY-en.md) and
-[COMMENTARY-ja.md](COMMENTARY-ja.md) are built in the same way from the
+Its translations [notes-en.md](notes-en.md) and
+[notes-ja.md](notes-ja.md) are built in the same way from the
 editions' `COMMENTARY-en.md`, `COMMENTARY-ja.md`, `INDEX-en.tsv` and
 `INDEX-ja.tsv`.
-[../commentary/notes.tsv](../commentary/notes.tsv) selects and adapts
+[../commentary/commentary.tsv](../commentary/commentary.tsv) selects and adapts
 the English notes to the text of The Latin Library, as context for
 translating it, and [../commentary/index.tsv](../commentary/index.tsv)
 gives the rows of the indexes verse by verse, for checking the names
@@ -52,7 +52,7 @@ to the page; it is translated into English
 ([overview-en.md](overview-en.md)) and Japanese
 ([overview-ja.md](overview-ja.md)).
 
-[NOTES.md](NOTES.md) records findings from checking the texts against
+[MEMO.md](MEMO.md) records findings from checking the texts against
 each other, e.g. that the text of The Latin Library is based on
 Vollmer's edition.
 
@@ -162,7 +162,7 @@ leaves out the readings of the manuscripts and the conjectures:
 | [Plessis](4-plessis/COMMENTARY.md) | 44 of 286 | Mainly references identifying the persons by the line of the *Iliad*, and parallels in the Latin poets. |
 | [Baehrens](3-baehrens/COMMENTARY.md) | 14 of 784 | Very little, as the apparatus is almost entirely readings and conjectures. |
 
-[COMMENTARY.md](COMMENTARY.md) puts them together verse by verse,
+[notes.md](notes.md) puts them together verse by verse,
 following the rows of [concordance.md](concordance.md):
 
 - A verse begins with its number and text in The Latin Library; "79a",
@@ -187,8 +187,8 @@ following the rows of [concordance.md](concordance.md):
   ones (Plessis's PRIAMUS "982,983" at 982).  The cross-references,
   without a verse, are left out.
 
-It is built by `make commentary` in this directory
-([commentary.py](commentary.py)) from [ilias.txt](ilias.txt),
+It is built by `make notes` in this directory
+([notes.py](notes.py)) from [ilias.txt](ilias.txt),
 [concordance.md](concordance.md), the verse tables (`ilias.md`)
 and `COMMENTARY.md` of the four editions, and the `INDEX.tsv` of
 Plessis and Vollmer, and rebuilt whenever they

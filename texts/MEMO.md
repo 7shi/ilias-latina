@@ -1,4 +1,4 @@
-# Notes
+# Memo
 
 Findings from checking the texts in this directory against each other
 and against the page images.

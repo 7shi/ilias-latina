@@ -1,6 +1,6 @@
 """Put the verses and the commentaries of the four editions side by side.
 
-Usage: python commentary.py TEXTS_DIR OUTPUT.md [LANG]
+Usage: python notes.py TEXTS_DIR OUTPUT.md [LANG]
 
 For each row of the verse concordance (TEXTS_DIR/concordance.md), in
 the order of The Latin Library, writes the verse of The Latin Library
@@ -95,16 +95,16 @@ LANGS = {
         "testimonia": "Testimonia",
         "marker": "(testimonia)",
         "header": [
-            "# Commentary",
+            "# Notes",
             "",
             "The verses of the four editions organized in this directory and the",
             "items of their commentaries and indexes, verse by verse in the order",
             "of The Latin Library ([ilias.txt](ilias.txt)).  Built by",
-            "`make commentary` in this directory ([commentary.py](commentary.py))",
+            "`make notes` in this directory ([notes.py](notes.py))",
             "from [concordance.md](concordance.md), the editions' `ilias.md`, their",
             "`COMMENTARY.md` and `INDEX.tsv`, and rebuilt from them; do not correct",
             "it by hand.",
-            "Translations: [en](COMMENTARY-en.md), [ja](COMMENTARY-ja.md).",
+            "Translations: [en](notes-en.md), [ja](notes-ja.md).",
             "",
             "- Each verse begins with its number and text in The Latin Library",
             "  (LL); \"79a\", \"79b\" are verses that The Latin Library does not have,",
@@ -138,13 +138,13 @@ LANGS = {
         "testimonia": "Testimonia",
         "marker": "(testimonia)",
         "header": [
-            "# Commentary",
+            "# Notes",
             "",
-            "English translation of [COMMENTARY.md](COMMENTARY.md): the verses of",
+            "English translation of [notes.md](notes.md): the verses of",
             "the four editions organized in this directory and the items of their",
             "commentaries and indexes in English, verse by verse in the order of",
             "The Latin Library ([ilias.txt](ilias.txt)).  Built by",
-            "`make commentary` in this directory ([commentary.py](commentary.py))",
+            "`make notes` in this directory ([notes.py](notes.py))",
             "from [concordance.md](concordance.md), the editions' `ilias.md`, their",
             "`COMMENTARY-en.md` and `INDEX-en.tsv`, and rebuilt from them; do not",
             "correct it by hand.",
@@ -183,9 +183,9 @@ LANGS = {
         "testimonia": "証言",
         "marker": "（証言）",
         "header": [
-            "# 注解",
+            "# 注記",
             "",
-            "[COMMENTARY.md](COMMENTARY.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目と索引の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。このディレクトリの `make commentary`（[commentary.py](commentary.py)）が [concordance.md](concordance.md)、各版の `ilias.md`、`COMMENTARY-ja.md` と `INDEX-ja.tsv` から生成し、それらが変わると作り直す。手で修正しないこと。",
+            "[notes.md](notes.md) の日本語訳。このディレクトリで整理した4つの版の詩行と、各版の注解の項目と索引の日本語訳を、The Latin Library（[ilias.txt](ilias.txt)）の順に詩行ごとに並べる。このディレクトリの `make notes`（[notes.py](notes.py)）が [concordance.md](concordance.md)、各版の `ilias.md`、`COMMENTARY-ja.md` と `INDEX-ja.tsv` から生成し、それらが変わると作り直す。手で修正しないこと。",
             "",
             "- 各詩行は The Latin Library（LL）の行番号と本文で始まる。「79a」「79b」は The Latin Library にない詩行で、各版でその前にある詩行の後に置く。",
             "- 続いて各版、[2] Lemaire（ヴェルンスドルフの行番号）、[3] Baehrens、[4] Plessis、[6] Vollmer を箇条書きにし、対照表のとおりにその版の行番号と本文を示す（「[n]」はその版が括弧に入れる詩行、「below」はプレシが本文の下に印刷する詩行、「—」は該当なし）。その下の入れ子にその版の COMMENTARY-ja.md のうち、その詩行の項目を置く。詩行はラテン語のまま。",
