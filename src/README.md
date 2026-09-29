@@ -39,7 +39,7 @@ Library into sections at the lines of the *Iliad* in Vollmer's margin
 (`../texts/iliad.md`) and at the first verse of each book, gives each
 verse the lines it renders and each section the notes and the Greek of
 those lines (`../commentary/alignment.tsv`), with the notes of the editions
-that apply to the text (`../commentary/commentary.tsv`), for reference in
+that apply to the text (`../commentary/commentary-en.tsv`), for reference in
 translating and for checking the context given to an LLM; as it quotes
 the Perseus text, it also stays in `tmp/`.
 

@@ -50,7 +50,7 @@ tmp/iliad-grc.xml:
 	curl -fsSL -o $@ $(HOMER)
 
 # Quotes the Perseus text, so it also stays in tmp/.
-tmp/greek.md: greek.py tmp/iliad-grc.xml ../texts/ilias.txt ../texts/iliad.md ../commentary/alignment.tsv ../commentary/commentary.tsv
+tmp/greek.md: greek.py tmp/iliad-grc.xml ../texts/ilias.txt ../texts/iliad.md ../commentary/alignment.tsv ../commentary/commentary-en.tsv
 	uv run python greek.py tmp/iliad-grc.xml ../texts $@
 
 tmp/ilias.txt: tmp/ilias.html extract.py

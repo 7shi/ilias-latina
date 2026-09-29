@@ -181,8 +181,8 @@ of the work and their state are described in [PLAN.md](PLAN.md).
 The tools require [uv](https://docs.astral.sh/uv/), `make`, `curl` and
 poppler-utils.  See [src/README.md](src/README.md) for usage.
 
-[commentary/](commentary/README.md) holds an English translation with a
-commentary, made with an LLM section by section from the text of The
+[commentary/](commentary/README.md) holds, in [en/](commentary/en/), an
+English translation with a commentary, made with an LLM section by section from the text of The
 Latin Library, the notes of the editions that apply to it and the
 *Iliad*.
 

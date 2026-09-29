@@ -32,9 +32,9 @@ Its translations [notes-en.md](notes-en.md) and
 [notes-ja.md](notes-ja.md) are built in the same way from the
 editions' `COMMENTARY-en.md`, `COMMENTARY-ja.md`, `INDEX-en.tsv` and
 `INDEX-ja.tsv`.
-[../commentary/commentary.tsv](../commentary/commentary.tsv) selects and adapts
+[../commentary/commentary-en.tsv](../commentary/commentary-en.tsv) selects and adapts
 the English notes to the text of The Latin Library, as context for
-translating it, and [../commentary/index.tsv](../commentary/index.tsv)
+translating it, and [../commentary/index-en.tsv](../commentary/index-en.tsv)
 gives the rows of the indexes verse by verse, for checking the names
 (see [commentary/](../commentary/README.md)).
 

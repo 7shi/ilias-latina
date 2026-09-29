@@ -8,11 +8,11 @@ they render, the notes that apply to them and the Greek of those lines.
 Each section is sent to the model as its own message, preceded by the
 context and followed by PROMPT, and the answer (the verses quoted with
 their translation, then the commentary) is saved under its heading as
-NN/VVVV.md (NN the book, VVVV the first verse).
+en/NN/VVVV.md (NN the book, VVVV the first verse).
 
 The context is the whole previous section in <previous>; the first
 section of a book has instead the summary of the previous book in
-<summary> (NN/README.md), made by SUMMARY_PROMPT from the translations
+<summary> (en/NN/README.md), made by SUMMARY_PROMPT from the translations
 of the book once all its sections are there.  The first section of
 book 1 has none.  Existing files are skipped, so an interrupted run
 resumes where it left off.  For testing, --verse generates only the
@@ -31,6 +31,7 @@ from llm7shi.usage import append_usage, find_usage_file, print_today_totals
 
 ROOT = Path(__file__).resolve().parent
 GREEK = ROOT.parent / "src" / "tmp" / "greek.md"
+OUT = ROOT / "en"
 
 PROMPT = """
 The attached text is a section of book {book} of the Ilias Latina.  <latin>
@@ -112,7 +113,7 @@ class Section:
 
     @property
     def path(self) -> Path:
-        return ROOT / f"{self.book:02d}" / f"{self.verses[0][0]:04d}.md"
+        return OUT / f"{self.book:02d}" / f"{self.verses[0][0]:04d}.md"
 
 
 def read_sections(path: Path) -> list[Section]:
@@ -203,7 +204,7 @@ def generate(client: Client, sec: Section, context: str, rounds: int) -> bool:
 
 
 def summarize(client: Client, book: int, sections: list[Section]):
-    path = ROOT / f"{book:02d}" / "README.md"
+    path = OUT / f"{book:02d}" / "README.md"
     print(f"\n--- summary of book {book} ---")
     response = client([translations(sections), SUMMARY_PROMPT.format(book=book)])
     path.write_text(response.text.strip() + "\n")
@@ -219,7 +220,7 @@ def context(sections: list[Section], i: int) -> str | None:
         return f"{PREVIOUS}\n\n<previous>\n{prev.read_text().strip()}\n</previous>" if prev.exists() else None
     if sec.book == 1:
         return ""
-    summary = ROOT / f"{sec.book - 1:02d}" / "README.md"
+    summary = OUT / f"{sec.book - 1:02d}" / "README.md"
     if summary.exists():
         return f"{PREVIOUS_BOOK.format(book=sec.book - 1)}\n\n<summary>\n{summary.read_text().strip()}\n</summary>"
     return None
@@ -232,7 +233,7 @@ def next_missing(sections: list[Section]) -> int | Section | None:
         for sec in sections:
             if sec.book == book and not sec.path.exists():
                 return sec
-        if not (ROOT / f"{book:02d}" / "README.md").exists():
+        if not (OUT / f"{book:02d}" / "README.md").exists():
             return book
     return None
 
@@ -249,7 +250,7 @@ def run(client: Client, book: int, sections: list[Section], rounds: int) -> bool
         if not generate(client, sec, ctx, rounds):
             print(f"\ngiving up at {sec.heading}", file=sys.stderr)
             return False
-    if not (ROOT / f"{book:02d}" / "README.md").exists():
+    if not (OUT / f"{book:02d}" / "README.md").exists():
         summarize(client, book, sections)
     return True
 
