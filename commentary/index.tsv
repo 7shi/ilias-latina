@@ -163,17 +163,17 @@ verse	edition	headword	headword-en	form	description
 108	6	Sol	the Sun	sol	Sol . . . decedit Olympo 108
 113	4	JUPPITER	Jupiter	pater	Pater nominative: the almighty Father calls Sleep
 113	6	Iuppiter	Jupiter	pater	pater omnipotens 113
-113	6	Somnus	Sleep	Somnum	-um 113
-114	6	Somnus	Sleep	divum	cf. lenissime divum 114
+113	6	Somnus	Somnus	Somnum	-um 113
+114	6	Somnus	Somnus	divum	cf. lenissime divum 114
 115	4	AGAMEMNON	Agamemnon	Argolici	Argolicus dux: « make for the camp of the Argive leader in your flight » (Jupiter addresses Sleep)
 115	4	ARGOLICUS	Argive	Argolici	Argolici ducis
 115	6	Argolicus	Argive	Argolici	Argolici . . . ducis 115: Agamemnon's
 118	4	TITAN	Titan	Titana	Titana: when the day has brought forth the Titan
 118	6	Titan	Titan	Titana	cum crastina . . . extulerit -ana dies 118
-120	6	Somnus	Sleep	Somnus	Somnus 120
+120	6	Somnus	Somnus	Somnus	Somnus 120
 121	4	AGAMEMNON	Agamemnon	Agamemnonis	Agamemnonis: Sleep, sent by Jupiter, flies down into the chamber of Agamemnon
 121	6	Agamemnon	Agamemnon	Agamemnonis	-onis 121. 795
-123	6	Somnus	Sleep	levator	curarum operumque levator 123
+123	6	Somnus	Somnus	levator	curarum operumque levator 123
 124	4	AGAMEMNON	Agamemnon	Atride	Atride: king of the Danaans (Sleep, sent by Jupiter, speaks)
 124	4	GRAI	Greeks	Danaum	— king (Agamemnon)
 124	4	JUPPITER	Jupiter	Tonantis	Tonans Tonantis: receive the commands of the Thunderer (Sleep addresses Agamemnon)
@@ -295,15 +295,15 @@ verse	edition	headword	headword-en	form	description
 195	6	Teucer	Teucer	Nireus	[195 trad.]
 196	4	EUMELUS	Eumelus	Eumelus	keen in strength, leads one ship fewer than the son of Telamon
 196	4	TLEPOLEMUS	Tlepolemus	Tlepolemus	the Rhodian leads nine ships to Troy
-196	6	Rhodius	the Rhodian	Rhodius	Tlepolemus . . . Rhodius 196
+196	6	Rhodius	of Rhodes	Rhodius	Tlepolemus . . . Rhodius 196
 196	6	Tlepolomus	Tlepolemus	Tlepolomus	*Tlepolomus . . . Rhodius 196
 197	6	Eumelus	Eumelus	Eumelus	viribus acer *Eumelus 197: son of Admetus
 198	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— the Salaminian sprung from Telamon, leads one ship more than Eumelus
 198	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	Telamone satus Salaminius Aiax 198
-198	6	Salaminius	the Salaminian	Salaminius	Telamone satus Salaminius Aiax 198
+198	6	Salaminius	of Salamis	Salaminius	Telamone satus Salaminius Aiax 198
 198	6	Telamon	Telamon	Telamone	Telamone satus . . . Aiax 198
 199	4	PROTHOUS	Prothous	Prothous	the Magnesian, son of Tenthredon, among the leaders of the Greeks
-199	6	Magnes	the Magnesian	Magnes	Prothous *Magnes 199
+199	6	Magnes	Magnesian	Magnes	Prothous *Magnes 199
 199	6	Prothous	Prothous	Prothous	*Prothous Magnes Tenthredone natus 199
 199	6	Tenthredon	Tenthredon	Tenthredone	Prothous Magnes *Tenthredone natus 199
 200	4	ELEPHENOR	Elephenor	Elephenor	born in the < long > land of Euboea
@@ -1092,9 +1092,9 @@ verse	edition	headword	headword-en	form	description
 729	4	RHESUS	Rhesus	Rhesi	Rhesi: Ulysses and Diomedes seize the tents of Rhesus and slaughter him
 729	6	Rhesus	Rhesus	Rhesi	tentoria Rhesi 729
 731	6	Rhesus	Rhesus	virum	cf. ipsum . . . virum 731
-734	4	EURUS	the East Wind	Eurus	would not outrun the horses of Rhesus
+734	4	EURUS	Eurus	Eurus	would not outrun the horses of Rhesus
 734	4	THRAX	Thracian	Thracas	adjective: Thracas equos, the Thracian horses
-734	6	Eurus	the East Wind	Eurus	Eurus 734: the wind
+734	6	Eurus	Eurus	Eurus	Eurus 734: the wind
 734	6	Rhesus	Rhesus	Thraecis	Thraecis 734
 734	6	Thraex	Thracian	Thraecis	Thraecis (-es trad.; -ăs conj.) equos 734: of Rhesus
 736	4	ARGOLICUS	Argive	Argolicas	Argolicas classes
@@ -1300,32 +1300,32 @@ verse	edition	headword	headword-en	form	description
 862	4	VULCANUS	Vulcan	Ignipotens	Ignipotens: Ignipotens had engraved the world on the shield
 862	6	Ignipotens	Ignipotens	Ignipotens	Ignipotens 862
 863	6	nympha	nymph	nymphas	nymphas 863(?)
-864	4	NEREUS	Nereus	Nerea	[the Vulcanian had made Nereus on the shield of Achilles]
+864	4	NEREUS	Nereus	Nerea	[Vulcan had made Nereus on the shield of Achilles]
 864	4	OCEANUS	Ocean	Oceanum	[—]
 864	6	Nereus	Nereus	Nerea	Nerea 864
 864	6	Oceanus	Ocean	Oceanum	Oceanum(?) 864
-866	4	ARCTUS	the Bear	Arctus	
-866	4	AUSTER	the South Wind	Austro	ab Austro: the Bear is far from the South
-866	6	Arctos	the Bear	Arctos	Arctos 866: a region of the sky
-866	6	Auster	the South Wind	Austro	quantum Arctos ab Austro . . . distaret 866
-866	6	occasus	setting of the sun	occasus	region of the setting [sun]: 866
-866	6	ortus	rising of the sun	ortu	region of the rising [sun]: 866
-868	4	HESPERUS	the Evening Star	Hesperus	rises
-868	4	LUCIFER	the Morning Star	Lucifer	
-868	6	Hesperus	the Evening Star	Hesperus	Lucifer . . . Hesperus, unus uterque 868
-868	6	Lucifer	the Morning Star	Lucifer	Lucifer 868
-870	6	Luna	the Moon	Luna	Luna cava 870
+866	4	ARCTUS	Arctos	Arctus	
+866	4	AUSTER	Auster	Austro	ab Austro: Arctos is far from Auster
+866	6	Arctos	Arctos	Arctos	Arctos 866: a region of the sky
+866	6	Auster	Auster	Austro	quantum Arctos ab Austro . . . distaret 866
+866	6	occasus	sunset	occasus	region of the setting [sun]: 866
+866	6	ortus	sunrise	ortu	region of the rising [sun]: 866
+868	4	HESPERUS	Hesperus	Hesperus	rises
+868	4	LUCIFER	Lucifer	Lucifer	
+868	6	Hesperus	Hesperus	Hesperus	Lucifer . . . Hesperus, unus uterque 868
+868	6	Lucifer	Lucifer	Lucifer	Lucifer 868
+870	6	Luna	Luna	Luna	Luna cava 870
 871	4	NEREUS	Nereus	Nerea	— on the same, great
 871	6	Nereus	Nereus	Nerea	-a magnum 871
-872	4	OCEANUS	Ocean	Oceanum	Oceanum senem: the Vulcanian had made old Ocean on the shield of Achilles
-872	4	PROTEUS	Proteus	Protea	Protea: Proteus, never the same (the Vulcanian had made him on the shield of Achilles)
+872	4	OCEANUS	Ocean	Oceanum	Oceanum senem: Vulcan had made old Ocean on the shield of Achilles
+872	4	PROTEUS	Proteus	Protea	Protea: Proteus, never the same (Vulcan had made him on the shield of Achilles)
 872	6	Oceanus	Ocean	Oceanum	-um . . . senem 872
 872	6	Proteus	Proteus	Protea	nec eundem Protea semper 872
 873	4	DORIS	Doris	Dorida	Dorida: Doris, loving the waves
-873	4	TRITONES	Tritons	Tritones	Tritones feros: the Vulcanian had made the fierce Tritons on the shield
+873	4	TRITONES	Tritons	Tritones	Tritones feros: Vulcan had made the fierce Tritons on the shield
 873	6	Doris	Doris	Dorida	amantem Dorida fluctus 873
 873	6	Triton	Triton	Tritonas	Tritonas (-es trad.) . . . feros 873
-874	4	NEREIDES	Nereids	Nereidas	Nereidas: the Vulcanian had made the Nereids on the shield of Achilles
+874	4	NEREIDES	Nereids	Nereidas	Nereidas: Vulcan had made the Nereids on the shield of Achilles
 874	4	NEREIDES	Nereids	Nereidas	[and]
 874	6	Nereis	Nereid	Nereidas	liquidas . . . Nereidas 874
 880	6	Musa	Muse	puellae	castae . . . puellae 880
@@ -1394,7 +1394,7 @@ verse	edition	headword	headword-en	form	description
 934	6	Achilles	Achilles	Achillem	magnum . . . -em 60. 72. 934
 936	4	MINERVA	Minerva	Pallas	[— the Tritonian is suddenly seen before Hector's eyes]
 936	6	Pallas	Pallas	Pallas	[Tritonia -as 936]
-936	6	Tritonia	the Tritonian	Tritonia	[-ia Pallas 936]
+936	6	Tritonia	Tritonia	Tritonia	[-ia Pallas 936]
 938	4	ACHILLES	Achilles	Nereius	Nereius heros: pursues Hector in his fear
 938	6	Nereius	Nereian	Nereius	Nereius heros 938. 975: Achilles
 944	6	Hecabe	Hecuba	parentes	See parentes 944
@@ -1402,7 +1402,7 @@ verse	edition	headword	headword-en	form	description
 945	6	Hector	Hector	natum	natum 945. 1033. 1036
 947	4	MINERVA	Minerva	Tritonia	Tritonia: having put on the face and arms of Deiphobus, deceives Hector
 947	6	Deiphobus	Deiphobus	fratri	See fratri 947
-947	6	Tritonia	the Tritonian	Tritonia	Tritonia 947
+947	6	Tritonia	Tritonia	Tritonia	Tritonia 947
 949	4	DEIPHOBUS	Deiphobus	Deiphobi	Deiphobi: Minerva takes on the form of Deiphobus
 949	6	Deiphobus	Deiphobus	Deiphobi	-bi 949: son of Priam
 950	4	GRAI	Greeks	Danaos	to the Danaans Minerva transfers her favour
