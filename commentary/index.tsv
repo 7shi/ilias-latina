@@ -3,7 +3,7 @@ verse	edition	headword	headword-en	form	description
 1	4	DIVA	goddess	Diva	(that is, the Muse)
 1	6	Baebius	Baebius		and the acrostic of vv. 1—8
 1	6	Diva	goddess	Diva	Diva 1: the Muse
-1	6	Pelides	son of Peleus	Pelidae	-dae . . . superbi 1
+1	6	Pelides	Pelides	Pelidae	-dae . . . superbi 1
 2	4	GRAI	Greeks	Grais	Grais: the wrath of Achilles cast deaths upon the wretched Greeks
 2	6	Graius	Greek	Grais	Grais 2. 277. 614
 3	6	Orcus	Orcus	Orco	animas . . . tradidit Orco 3
@@ -11,7 +11,7 @@ verse	edition	headword	headword-en	form	description
 8	4	ACHILLES	Achilles	Achilles	nominative, as subject: famous in war, is angry with Agamemnon
 8	4	AGAMEMNON	Agamemnon	Atrides	Atrides: the sceptre-bearer, angry with Achilles
 8	6	Achilles	Achilles	Achilles	bello clarus -es 8
-8	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	sceptriger -es 8
+8	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	sceptriger -es 8
 10	4	APOLLO	Apollo	proles	Proles Jovis et Latonae: offspring of Jupiter and Latona
 10	4	GRAI	Greeks	Pelasgum	Pelasgum: Apollo, hostile to the king of the Pelasgians
 10	4	JUPPITER	Jupiter	Jovis	Jovis genitive: offspring of great Jupiter (Apollo)
@@ -28,7 +28,7 @@ verse	edition	headword	headword-en	form	description
 18	6	Chryses	Chryses	fletus	patrios . . . fletus 18
 19	4	AGAMEMNON	Agamemnon	Atridae	Atridae genitive: Chryses, cast down at his knees
 19	4	GRAI	Greeks	Danaum	Danaum: Chryses makes for the camp of the Danaans
-19	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atridae	-dae gen.: 19
+19	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atridae	-dae gen.: 19
 19	6	Danai	Danaans	Danaum	-um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 21	6	Chryseis	Chryseis	nata	nata 21. 42
 23	4	CHRYSEIS	Chryseis	Chryseida	Chryseida: the Myrmidons think she should be given back to her father
@@ -38,7 +38,7 @@ verse	edition	headword	headword-en	form	description
 23	6	Myrmidones	Myrmidons	Myrmidones	Myrmidones (i.e. the Greeks) 23
 24	4	AGAMEMNON	Agamemnon	Atrides	— refuses to give back Chryseis
 24	4	CHRYSES	Chryses	Chrysen	Chrysen: Agamemnon orders Chryses to leave the camp
-24	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	-es 24. 510(?) 663
+24	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	-es 24. 510(?) 663
 24	6	Chryses	Chryses	Chrysen	-en 24
 27	4	PHOEBEIUS	of Phoebus	Phoebeia	Phoebeia templa: the temples of Phoebus
 27	6	Chryses	Chryses	sacerdos	sacerdos 27. 35
@@ -95,7 +95,7 @@ verse	edition	headword	headword-en	form	description
 69	6	Achivi	Achaeans	Achivis	-is 69. 387
 70	4	AGAMEMNON	Agamemnon	Atridae	Atridae dative: his passion for Chryseis does not leave him
 70	4	CHRYSEIS	Chryseis	Chryseidis	Chryseidis: Agamemnon's passion for Chryseis does not leave him
-70	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atridae	-dae dat.: (-di in part of the manuscripts) 70
+70	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atridae	-dae dat.: (-di in part of the manuscripts) 70
 70	6	Chryseis	Chryseis	Chryseidos	-dos (-dis trad.) . . . ardor 70
 71	6	Chryseis	Chryseis	amores	amissos . . . amores 71
 72	4	ACHILLES	Achilles	Achillem	— the same deprives the great Achilles of Briseis
@@ -103,9 +103,9 @@ verse	edition	headword	headword-en	form	description
 72	6	Achilles	Achilles	Achillem	magnum . . . -em 60. 72. 934
 72	6	Briseis	Briseis	Briseide	-ide privat Achillem 72
 74	4	ACHILLES	Achilles	Aeacides	Aeacides: fierce, makes for Agamemnon with drawn sword
-74	6	Aeacides (Achilles)	descendant of Aeacus (Achilles)	Aeacides	ferus -es 74. [844]
+74	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeacides	ferus -es 74. [844]
 75	4	AGAMEMNON	Agamemnon	Atriden	In Atriden: Achilles makes for the son of Atreus
-75	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atriden	-dēn 75
+75	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atriden	-dēn 75
 76	6	Briseis	Briseis	munera	See munera militiae 76
 78	4	ACHILLES	Achilles	Achillem	— Pallas holds Achilles by the hand so that he may not attack Agamemnon with the sword
 78	4	MINERVA	Minerva	Pallas	Pallas nominative: the chaste one holds Achilles by the hand so that he may not make for Agamemnon with the sword
@@ -115,7 +115,7 @@ verse	edition	headword	headword-en	form	description
 80	4	GRAI	Greeks	Argolicis	Argolicae gentes gentibus Argolicis: the love of Achilles would have left a shameful name among the Argive peoples
 80	6	Argolicus	Argive	Argolicis	gentibus -is 80
 81	4	ACHILLES	Achilles	Pelides	Pelides: invokes the divinity of his mother
-81	6	Pelides	son of Peleus	Pelides	Pelides 81
+81	6	Pelides	Pelides	Pelides	Pelides 81
 81	6	Thetis	Thetis	numina	cf. aequoreae . . . numina matris 81
 83	4	THETIS	Thetis	Thetis	hears Achilles' prayers
 83	6	Achilles	Achilles	nati	nati 83. 88. 95
@@ -128,7 +128,7 @@ verse	edition	headword	headword-en	form	description
 89	6	Iuppiter	Jupiter	parens	summe parens 89
 90	4	AGAMEMNON	Agamemnon	Atrida	Ab Atrida: Thetis prays that Jupiter may avenge her and her son on the son of Atreus
 90	6	Achilles	Achilles	pignus	meum . . . pignus 90
-90	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrida	-dā abl.: 90
+90	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrida	-dā abl.: 90
 91	4	ACHILLES	Achilles	Achillis	— Thetis prays to Jupiter that the love of Achilles may not have been violated by Agamemnon with impunity
 91	6	Achilles	Achilles	Achillis	mei -is (Thetis speaks) 91
 93	4	JUPPITER	Jupiter	Juppiter	Juppiter: answers Thetis
@@ -178,7 +178,7 @@ verse	edition	headword	headword-en	form	description
 124	4	GRAI	Greeks	Danaum	— king (Agamemnon)
 124	4	JUPPITER	Jupiter	Tonantis	Tonans Tonantis: receive the commands of the Thunderer (Sleep addresses Agamemnon)
 124	6	Agamemnon	Agamemnon	rex	and cf. rex Danaum 124. 496
-124	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrida	voc.: rex Danaum -da (-de in others) 124
+124	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrida	voc.: rex Danaum -da (-de in others) 124
 124	6	Danai	Danaans	Danaum	-um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 124	6	Tonans	the Thunderer	Tonantis	mandata Tonantis 124
 126	4	TITAN	Titan	Titan	when he has emerged from the waves
@@ -187,7 +187,7 @@ verse	edition	headword	headword-en	form	description
 128	6	Iliacus	of Ilium	Iliacos	-cos . . . campos 128. 160
 130	6	Sol	the Sun	lampas	See ignea lampas 130
 131	4	AGAMEMNON	Agamemnon	Pelopeius	Pelopeius heros: calls the leaders together
-131	6	Pelopeius	descendant of Pelops	Pelopeius	Pelopeius heros 131. 739: Agamemnon
+131	6	Pelopeius	Pelopeian	Pelopeius	Pelopeius heros 131. 739: Agamemnon
 134	6	Agamemnon	Agamemnon	rex	rex 58. 134. 691
 134	6	Agamemnon	Agamemnon	ducem	dux 134. 156. 739
 136	4	THERSITES	Thersites	Thersites	than whom no other was uglier or more impudent of tongue, says that the war should not be waged any longer
@@ -217,7 +217,7 @@ verse	edition	headword	headword-en	form	description
 158	4	TITAN	Titan	Titan	— raised his head, shining with rays, from the waves
 158	6	Titan	Titan	Titan	nitidum -an radiis caput extulit undis 158
 159	4	AGAMEMNON	Agamemnon	Atrides	— keen, orders his comrades to arm
-159	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	acer -es 159
+159	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	acer -es 159
 160	4	ILIACUS	of Ilium	Iliacos	— the same
 160	6	Iliacus	of Ilium	Iliacos	-cos . . . campos 128. 160
 161	4	MUSAE	Muses	Musae	vocative
@@ -323,7 +323,7 @@ verse	edition	headword	headword-en	form	description
 204	6	Ithacus	the Ithacan	Ithaci	Ithaci . . . sollertia 204: Ulysses
 205	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— the son of Telamon, mighty in outstanding valour, makes for Troy with twelve ships
 205	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
-205	6	Telamonius	son of Telamon	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
+205	6	Telamonius	Telamonian	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 206	4	GUNEUS	Guneus	Gunei	Gunei: the dreadful wrath of Guneus leads twenty-two ships
 206	6	Guneus	Guneus	Guneus	*Guneus 206: leader of the Acarnanians
 208	4	CRETAEUS	Cretan	Cretaeus	uterque: both Cretans (Idomeneus and Meriones)
@@ -395,8 +395,8 @@ verse	edition	headword	headword-en	form	description
 236	6	Aeneas	Aeneas	Aeneas	sacer -as, Veneris certissima proles 236
 236	6	Venus	Venus	Veneris	Aeneas, -eris . . . proles 236. 483
 237	4	ACAMAS Antenoris filius	Acamas, son of Antenor	Acamas	— fierce, sprung from Antenor
-237	4	ANTENOR	Antenor	Antenore	Antenore creti: Archilochus and Acamas, sprung from Antenor
-237	4	ARCHILOCHUS	Archilochus	Archilochus	sprung from Antenor, with the other leaders of the Trojans
+237	4	ANTENOR	Antenor	Antenore	Antenore creti: Archelochus and Acamas, sprung from Antenor
+237	4	ARCHILOCHUS	Archelochus	Archilochus	sprung from Antenor, with the other leaders of the Trojans
 237	6	Acamas 1	Acamas 1	Acamas	Acamas, son of Antenor, a Trojan 237
 237	6	Antenor 1	Antenor 1	Antenore	Archelochusque Acamasque ferox Antenore creti 237: the Trojan
 237	6	Archelochus	Archelochus	Archelochus	Archelochusq. Acamasque . . . Antenore creti 237
@@ -475,7 +475,7 @@ verse	edition	headword	headword-en	form	description
 268	4	GRAI	Greeks	Danaum	— the people
 268	4	MENELAUS	Menelaus	Atrides	Atrides: tireless, let him meet Paris in arms
 268	4	TROJANI	Trojans	Phrygum	Phrygum: the people of the Phrygians
-268	6	Atrides (Menelaus)	son of Atreus (Menelaus)	Atrides	impiger -des 268
+268	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrides	impiger -des 268
 268	6	Danai	Danaans	Danaum	-um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 268	6	Phryges	Phrygians	Phrygum	-gum . . . populus 268
 271	4	PARIS	Paris	Priameius	Priameius heros: the hero son of Priam answers Hector briefly
@@ -501,12 +501,12 @@ verse	edition	headword	headword-en	form	description
 286	6	Iuppiter	Jupiter	Iuppiter	tantummodo -er adsit 286
 288	6	Menelaus	Menelaus	virum	viri 275. 288. 329
 290	4	MENELAUS	Menelaus	Atrides	— avoids Paris's spear
-290	6	Atrides (Menelaus)	son of Atreus (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
+290	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
 292	4	PARIS	Paris	Praedonis	Praedo Phrygius praedonis Phrygii: the weapon of Menelaus would have wounded the body of the Phrygian robber, had not his iron corslet covered him
 292	4	PHRYGIUS	Phrygian	Phrygii	Phrygii praedonis
 292	6	Phrygius	Phrygian	Phrygii	praedonis Phrygii 292
 301	4	MENELAUS	Menelaus	Atrides	— mindful of his wife carried off, presses on
-301	6	Atrides (Menelaus)	son of Atreus (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
+301	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
 301	6	Helene	Helen	coniugis	coniunx 273. 276. 285. 301
 302	4	PARIS	Paris	Dardanium	Dardanius juvenis Dardanium juvenem: Menelaus presses the Dardanian youth with his sword
 302	6	Dardanius	Dardanian	Dardanium	-um . . . iuvenem 302: Paris
@@ -535,18 +535,18 @@ verse	edition	headword	headword-en	form	description
 320	6	Paris	Paris	Paris	voc.: mea flamma, Paris (Helen speaks) 320
 321	6	Menelaus	Menelaus	coniugis	coniugis antiqui 321
 322	4	MENELAUS	Menelaus	Atrides	— violent (Helen addresses Paris)
-322	6	Atrides (Menelaus)	son of Atreus (Menelaus)	Atrides	violentus -es 322
+322	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrides	violentus -es 322
 323	4	ILIACUS	of Ilium	Iliaco	Iliaco pulvere: Helen feared when Menelaus was fouling Paris's hair with the dust of Ilium
 323	6	Iliacus	of Ilium	Iliaco	Iliaco . . . pulvere 323
 324	4	DORICUS	Doric	Doricus	Doricus ensis: the Doric sword
 324	6	Doricus	Doric	Doricus	Doricus ensis 324
 327	4	MENELAUS	Menelaus	Atrida	Cum Atrida: who persuaded you to contend with the savage son of Atreus? (Helen addresses Paris)
-327	6	Atrides (Menelaus)	son of Atreus (Menelaus)	Atrida	cum saevo . . . -da 327
+327	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrida	cum saevo . . . -da 327
 329	6	Menelaus	Menelaus	viri	viri 275. 288. 329
 332	4	MENELAUS	Menelaus	Atrides	— did not overcome me (Paris addresses Helen)
 332	4	PARIS	Paris	Alexander	— sad, answers Helen
 332	6	Alexander	Alexander	Alexander	-er 332
-332	6	Atrides (Menelaus)	son of Atreus (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
+332	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
 333	4	MINERVA	Minerva	Palladis	Palladis: the anger of chaste Pallas overcame Paris
 333	6	Helene	Helen	ardor	o meus ardor 333
 333	6	Pallas	Pallas	Pallados	castae -dos ira 333
@@ -576,7 +576,7 @@ verse	edition	headword	headword-en	form	description
 347	4	MENELAUS	Menelaus	Menelae	Menelae: Pandarus aims at you, Menelaus
 347	6	Menelaus	Menelaus	Menelae	te, Menelae 347
 349	4	MENELAUS	Menelaus	Atrides	— groaning, since he has been wounded by the weapons of Pandarus, withdraws from the fight
-349	6	Atrides (Menelaus)	son of Atreus (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
+349	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
 350	6	Aesculapius	Aesculapius	arte	see arte paterna 350
 351	4	PAEONIUS	Paeonian	Paeoniis	Paeoniis herbis: Podalirius heals Menelaus with Paeonian herbs
 351	4	PODALIRIUS	Podalirius	Podalirius	— heals Menelaus, wounded by Pandarus
@@ -603,21 +603,21 @@ verse	edition	headword	headword-en	form	description
 363	4	ANTHEMIO	Anthemion	Anthemione	Anthemione satum: Ajax son of Telamon kills the son of Anthemion (Simoisius)
 363	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
 363	6	Anthemion	Anthemion	Anthemione	*Anthemione satum 363: Simoisius, a Trojan
-363	6	Telamonius	son of Telamon	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
+363	6	Telamonius	Telamonian	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 366	4	ANTIPHUS Priami filius	Antiphus, son of Priam	Antiphus	— hurls his spear against Ajax
 366	6	Antiphus 3	Antiphus 3	Antiphus	Antiphus 366
 368	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajacem	In Ajacem: Antiphus hurls his spear against Ajax
-368	6	Aeacides (Aiax Telamonius)	descendant of Aeacus (Ajax son of Telamon)	Aeaciden	-den 368
+368	6	Aeacides (Aiax Telamonius)	Aeacides (Ajax son of Telamon)	Aeaciden	-den 368
 368	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aeaciden	-acem see Aeaciden 368. 628
 369	4	LEUCUS	Leucus	Leucus	struck by the spear which Antiphus was hurling against Ajax
 369	6	Leucus	Leucus	Leucon	Leucon acc. 369: companion of Ulysses
 372	4	AGAMEMNON	Agamemnon	Atrides	— tireless, attacks Democoon
-372	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	[impiger -es 372]
+372	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	[impiger -es 372]
 372	6	Laertiades	son of Laertes	Atrides	*Laertiades (atrides trad.) 372: Ulysses
 373	4	DEMOCOON	Democoon	Democoonta	Democoonta: Agamemnon attacks Democoon
 373	6	Democoon	Democoon	Democoonta	*Democoonta 373: bastard son of Priam
 377	4	DIORES	Diores	Amarynciden	Amaryncides Amarynciden: Pirous kills the son of Amarynceus
-377	6	Amaryncides	son of Amarynceus	Amarynciden	*Amaryncīden 377
+377	6	Amaryncides	Amaryncides	Amarynciden	*Amaryncīden 377
 378	4	PIROUS	Pirous	Pirous	— the son of Imbrasus kills Diores, son of Amarynceus
 378	6	Imbrasides	son of Imbrasus	Imbrasides	impiger *Imbrasides (umbr- trad.) 378: Pirous
 380	4	THOAS	Thoas	Thoantis	Thoantis: the right hand of Thoas attacks Pirous with a poised spear
@@ -665,7 +665,7 @@ verse	edition	headword	headword-en	form	description
 422	6	Phegeus	Phegeus	fratri	fratri 422
 424	4	AGAMEMNON	Agamemnon	Atrides	— rages in arms against the Trojans
 424	4	TROJANI	Trojans	Teucros	In Teucros: Agamemnon rages against the Teucrians
-424	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	alter(?) -es 424
+424	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	alter(?) -es 424
 424	6	Teucri	Teucrians	Teucros	-os 424. 903
 427	4	HODIUS	Hodius	Hodius	— unhappy, is laid low by Agamemnon
 427	6	Odius	Odius	Odius	infelix -us 427
@@ -771,7 +771,7 @@ verse	edition	headword	headword-en	form	description
 500	4	LIBYCUS	Libyan	Libycus	ut Libycus leo: like a Libyan lion (Agamemnon)
 500	6	Libycus	Libyan	Libycus	Libycus . . . leo 500
 504	4	AGAMEMNON	Agamemnon	Atrides	— fierce against the enemy, rushes like a Libyan lion
-504	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	ferus -es 504
+504	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	ferus -es 504
 505	4	TROJANI	Trojans	Phrygum	— Agamemnon drives back the squadrons of the Phrygians
 505	6	Phryges	Phrygians	Phrygum	-um . . . turmas 505
 506	4	GRAI	Greeks	Achivum	Achivum: the valour of Agamemnon kindles the strength of the Achaeans
@@ -783,8 +783,8 @@ verse	edition	headword	headword-en	form	description
 509	4	AENEAS	Aeneas	Aenean	— Agamemnon catches sight of Aeneas driving in his chariot
 509	6	Aeneas	Aeneas	Aenean	-ān 509
 510	4	AGAMEMNON	Agamemnon	Atrides	— catches sight of Aeneas driving in his chariot
-510	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	-es 24. 510(?) 663
-510	6	Atrides (Menelaus)	son of Atreus (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
+510	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	-es 24. 510(?) 663
+510	6	Atrides (Menelaus)	Atrides (Menelaus)	Atrides	-des 290. 301. 332. 349. (510?)
 513	6	Aeneae auriga	charioteer of Aeneas		the charioteer of Aeneas, not named 513
 516	4	AENEAS	Aeneas	Aeneas	— when his charioteer has been killed by Agamemnon, he groans and in his courage leaps down from the chariot
 516	6	Aeneas	Aeneas	Aeneas	-as 454. 516
@@ -897,7 +897,7 @@ verse	edition	headword	headword-en	form	description
 580	6	Idomeneus	Idomeneus	Idomeneus	ferus -eus 580
 581	4	AGAMEMNON	Agamemnon	Atrides	— the keen leader of the Greeks, when Hector challenges the leaders of the Greeks to arms, comes forward
 581	4	GRAI	Greeks	Grajum	— the leader of the Greeks, Agamemnon
-581	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	Graium . . . dux acer -es 581
+581	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	Graium . . . dux acer -es 581
 581	6	Graius	Greek	Graium	-um . . . dux 581
 581	6	Meriones	Meriones	Meriones	Idomeneus et *iunctus gente paterna -nes 581
 582	4	AJACES	the two Ajaxes	Ajaces	the two
@@ -917,7 +917,7 @@ verse	edition	headword	headword-en	form	description
 585	6	Tros	Trojan	Troum	Troum terror Achilles 585
 586	6	Briseis	Briseis	amores	amores 586
 587	4	AGAMEMNON	Agamemnon	Atridae	— the lots are thrown into the helmet of the king
-587	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atridae	regis -dae 587
+587	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atridae	regis -dae 587
 588	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— great, when the lots have been cast into Agamemnon's helmet, comes forward
 588	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	magnus . . . -ax 588
 601	4	ACHILLES	Achilles	Aeacides	[Aeacides]
@@ -926,7 +926,7 @@ verse	edition	headword	headword-en	form	description
 601	6	Priamides	son of Priam	Priamides	Priamides 601. 610. 660. 988
 602	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— the son of Telamon, raging in spirit and in arms, attacks Hector
 602	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
-602	6	Telamonius	son of Telamon	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
+602	6	Telamonius	Telamonian	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 603	4	HECTOR	Hector	Hectora	Hectora: Ajax son of Telamon attacks Hector, famous in war
 603	6	Hector	Hector	Hectora	insignem bello . . . -ora 603
 610	4	AJAX Telamonis filius	Ajax, son of Telamon	Telamone	Telamone creatus: Hector attacks the son of Telamon with a stone
@@ -945,7 +945,7 @@ verse	edition	headword	headword-en	form	description
 620	6	Hector	Hector	Hector	bello maximus -or 620. 832
 623	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	[— the son of Telamon answers Hector]
 623	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
-623	6	Telamonius	son of Telamon	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
+623	6	Telamonius	Telamonian	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 624	4	AJAX Telamonis filius	Ajax, son of Telamon	Telamone	— [you see (he speaks of himself)]
 624	4	HESIONA	Hesione	Hesione	[Hesione ablative: the son of Telamon, born of his mother Hesione]
 624	6	Hesione	Hesione	Hesiona	-na de matre . . . Telamone creatum Aiacem 624
@@ -955,7 +955,7 @@ verse	edition	headword	headword-en	form	description
 626	6	Hector	Hector	Hector	Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 626	6	Hesione	Hesione	Hesionae	Hesionae nomen 626
 628	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajacem	— Hector rewards Ajax with a gleaming sword
-628	6	Aeacides (Aiax Telamonius)	descendant of Aeacus (Ajax son of Telamon)	Aeaciden	-dēn *628
+628	6	Aeacides (Aiax Telamonius)	Aeacides (Ajax son of Telamon)	Aeaciden	-dēn *628
 628	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aeaciden	-acem see Aeaciden 368. 628
 629	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— the warrior: Hector receives the belt with which he had girded himself
 629	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	bellator . . . -ax 629
@@ -978,7 +978,7 @@ verse	edition	headword	headword-en	form	description
 639	4	MENELAUS	Menelaus	Menelai	— plunder to soothe the harsh fires of Menelaus
 639	6	Menelaus	Menelaus	Menelai	-lai 519. 639
 640	4	MENELAUS	Menelaus	Atridae	Atridae: Idaeus is sent to the savage son of Atreus
-640	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atridae	saevo . . . -dae 640
+640	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atridae	saevo . . . -dae 640
 641	4	IDAEUS Trojanorum praeco	Idaeus, herald of the Trojans	Idaeus	— carries the Trojans' message to Agamemnon
 641	4	TROJANI	Trojans	Troum	— Idaeus carries the Trojans' message to Agamemnon
 641	6	Idaeus 2	Idaeus 2	Idaeus	Idaeus 641
@@ -1015,7 +1015,7 @@ verse	edition	headword	headword-en	form	description
 662	4	DORICUS	Doric	Dorica	Dorica castra: the Doric camp
 662	6	Doricus	Doric	Dorica	-ca . . . castra 662
 663	4	AGAMEMNON	Agamemnon	Atrides	— encourages his comrades
-663	6	Atrides (Agamemno)	son of Atreus (Agamemnon)	Atrides	-es 24. 510(?) 663
+663	6	Atrides (Agamemno)	Atrides (Agamemnon)	Atrides	-es 24. 510(?) 663
 665	4	DIOMEDES	Diomedes	Tydides	— a prince, shines forth in blazing arms
 665	6	Tydides	son of Tydeus	Tydides	Tydides 390. 408. 530. 665. 1008
 667	4	AGELAUS	Agelaus	Agelaus	meets Diomedes
@@ -1103,7 +1103,7 @@ verse	edition	headword	headword-en	form	description
 737	6	Nestor	Nestor	Nestoris	-oris aetas 154. 737
 739	4	AGAMEMNON	Agamemnon	Pelopeius	— praises the valour of Ulysses and Diomedes
 739	6	Agamemnon	Agamemnon	duci	dux 134. 156. 739
-739	6	Pelopeius	descendant of Pelops	Pelopeius	Pelopeius heros 131. 739: Agamemnon
+739	6	Pelopeius	Pelopeian	Pelopeius	Pelopeius heros 131. 739: Agamemnon
 743	4	GRAI	Greeks	Danaum	— leaders
 743	4	TROJANI	Trojans	Dardanidum	Dardanidae Dardanidum duces: the leaders of the Dardanids
 743	6	Danai	Danaans	Danaum	-um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
@@ -1184,12 +1184,12 @@ verse	edition	headword	headword-en	form	description
 786	4	PROTHOENOR	Prothoenor	Prothoenora	Prothoenora: Polydamas kills Prothoenor
 786	6	Polydamas	Polydamas	Polydamas	Polydamas 786: son of Panthous
 786	6	Prothoenor	Prothoenor	Prothoënora	-ora 786
-787	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— the son of Telamon strikes Archilochus
-787	4	ARCHILOCHUS	Archilochus	Archilochum	Archilochum: Ajax son of Telamon kills Archilochus son of Antenor
+787	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— the son of Telamon strikes Archelochus
+787	4	ARCHILOCHUS	Archelochus	Archilochum	Archilochum: Ajax son of Telamon kills Archelochus son of Antenor
 787	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
-787	6	Antenorides	son of Antenor	Antenoriden	Archelochum . . . Antenoriden 787
+787	6	Antenorides	Antenorides	Antenoriden	Archelochum . . . Antenoriden 787
 787	6	Archelochus	Archelochus	Archelochum	-um . . . Antenoriden 787: a Trojan
-787	6	Telamonius	son of Telamon	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
+787	6	Telamonius	Telamonian	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 788	4	ACAMAS Antenoris filius	Acamas, son of Antenor	Acamas	— wounds Promachus
 788	4	BOEOTUS	Boeotian	Boeotum	Boeotum (cf. Promachus)
 788	4	PROMACHUS	Promachus	Promachum	Promachum: Acamas, son of Antenor, wounds Promachus the Boeotian
@@ -1266,7 +1266,7 @@ verse	edition	headword	headword-en	form	description
 836	4	AJAX Telamonis filius	Ajax, son of Telamon	Ajax	— the son of Telamon rescues the body of Patroclus
 836	6	Aiax (Telamonius)	Ajax (son of Telamon)	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
 836	6	Patroclus	Patroclus	extincti	extincti 836
-836	6	Telamonius	son of Telamon	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
+836	6	Telamonius	Telamonian	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 837	4	TROJANI	Trojans	Priameia	— exults with joy
 837	6	Priameius	son of Priam	Priameia	-eia pubes 789. 837: the Trojans
 838	4	GRAI	Greeks	Danai	— mourn their dead
@@ -1275,11 +1275,11 @@ verse	edition	headword	headword-en	form	description
 840	6	Nestorides	son of Nestor	Nestorides	Nestorides 840: Antilochus
 840	6	Patroclus	Patroclus	corpus	miserabile corpus 840
 841	4	ACHILLES	Achilles	Pelidae	— the horror (the slaughter of Patroclus) had come to his ears
-841	6	Pelides	son of Peleus	Pelidis	-dae 841
+841	6	Pelides	Pelides	Pelidis	-dae 841
 843	6	Patroclus	Patroclus	membra	membra 843
 843	6	Thetis	Thetis	materno	materno . . . amictu 843
 844	4	ACHILLES	Achilles	Aeacides	— [mourns the slaughter of Patroclus]
-844	6	Aeacides (Achilles)	descendant of Aeacus (Achilles)	Aeacides	ferus -es 74. [844]
+844	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeacides	ferus -es 74. [844]
 844	6	Patroclus	Patroclus	sodalis	[sodalis 844]
 847	6	Patroclus	Patroclus	sodalis	extincti . . . sodalis 847
 850	6	Patroclus	Patroclus	sodalis	mei sodalis 850
@@ -1345,7 +1345,7 @@ verse	edition	headword	headword-en	form	description
 895	4	AENEAS	Aeneas	Cythereius	Cythereius heros: runs to meet Achilles; is saved by Neptune
 895	6	Cythereius	son of the Cytherean	Cythereius	Cythereius heros 895: Aeneas
 897	4	ACHILLES	Achilles	Aeacidae	Aeacidae: Aeneas was no match for Aeacides
-897	6	Aeacides (Achilles)	descendant of Aeacus (Achilles)	Aeacidae	-dae 897
+897	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeacidae	-dae 897
 899	6	Neptunus	Neptune	rector	See magnarum rector aquarum 899
 900	4	LATIUS	Latin	Latiis	Latiis in arvis: in the Latin fields
 900	4	TROJA	Troy	Trojam	— Troy restored in the Latin fields
@@ -1357,7 +1357,7 @@ verse	edition	headword	headword-en	form	description
 902	6	Augustus	Augustan	gentis	see clarae gentis 902
 903	4	ACHILLES	Achilles	Aeacides	— drives the Trojans with his spear
 903	4	TROJANI	Trojans	Teucros	Teucros: Achilles drives the Teucrians with his spear
-903	6	Aeacides (Achilles)	descendant of Aeacus (Achilles)	Aeacides	-ēs 903
+903	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeacides	-ēs 903
 903	6	Teucri	Teucrians	Teucros	-os 424. 903
 905	4	HECTOREUS	of Hector	Hectorei	Hectorei sanguinis
 905	4	TROJANI	Trojans	Dardana	Dardana pubes: the Dardan youth takes refuge at the Xanthus
@@ -1377,13 +1377,13 @@ verse	edition	headword	headword-en	form	description
 912	6	Danai	Danaans	Danaos	-os 45. 492. 659. 808. 912. 950. 1001
 912	6	Xanthus (fluvius)	Xanthus (the river)	Xanthi	-i . . . fluctus 912
 914	4	ACHILLES	Achilles	Aeaciden	Aeaciden: that Xanthus may overwhelm Aeacides
-914	6	Aeacides (Achilles)	descendant of Aeacus (Achilles)	Aeaciden	-den 914
+914	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeaciden	-den 914
 920	4	JUNO	Juno	Juno	— far-seeing, protects Achilles as he fights against the waves of Xanthus
 920	6	Iuno	Juno	Iuno	longe provida -o 920
 923	4	TROJANI	Trojans	Phrygias	Phrygiae catervae Phrygias catervas: Achilles drives the Phrygian bands with enormous slaughter
 923	6	Phrygius	Phrygian	Phrygias	-ias . . . catervas 923
 924	4	ACHILLES	Achilles	Aeacides	— dreadful, drives the Trojans again
-924	6	Aeacides (Achilles)	descendant of Aeacus (Achilles)	Aeacides	horridus -es 924
+924	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeacides	horridus -es 924
 928	4	TROJANI	Trojans	Troes	— hesitate from fear
 928	6	Tros	Trojan	Troes	Troes 758. 767. 928. 978. 1002, everywhere before a consonant or in the last, anceps, position
 931	4	TROJANUS	Trojan	Trojana	salus Trojana: the safety of Troy
@@ -1396,7 +1396,7 @@ verse	edition	headword	headword-en	form	description
 936	6	Pallas	Pallas	Pallas	[Tritonia -as 936]
 936	6	Tritonia	the Tritonian	Tritonia	[-ia Pallas 936]
 938	4	ACHILLES	Achilles	Nereius	Nereius heros: pursues Hector in his fear
-938	6	Nereius	grandson of Nereus	Nereius	Nereius heros 938. 975: Achilles
+938	6	Nereius	Nereian	Nereius	Nereius heros 938. 975: Achilles
 944	6	Hecabe	Hecuba	parentes	See parentes 944
 944	6	Priamus	Priam	parentes	parentes 944
 945	6	Hector	Hector	natum	natum 945. 1033. 1036
@@ -1425,7 +1425,7 @@ verse	edition	headword	headword-en	form	description
 967	6	Hector	Hector	Hector	Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 968	6	Deiphobus	Deiphobus	fraterna	fraterna . . . auxilia 968
 975	4	ACHILLES	Achilles	Nereius	— presses Hector
-975	6	Nereius	grandson of Nereus	Nereius	Nereius heros 938. 975: Achilles
+975	6	Nereius	Nereian	Nereius	Nereius heros 938. 975: Achilles
 978	4	GRAI	Greeks	Danai	— exult when Hector has been killed
 978	4	TROJANI	Trojans	Troes	— mourn their dead
 978	6	Danai	Danaans	Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
@@ -1472,7 +1472,7 @@ verse	edition	headword	headword-en	form	description
 1002	6	Tros	Trojan	Troes	Troes 758. 767. 928. 978. 1002, everywhere before a consonant or in the last, anceps, position
 1004	6	Patroclus	Patroclus	amici	defleti . . . amici 1004
 1005	4	ACHILLES	Achilles	Aeacides	— holds the funeral of Patroclus's body
-1005	6	Aeacides (Achilles)	descendant of Aeacus (Achilles)	Aeacides	victor . . . -es 1005. 1026
+1005	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeacides	victor . . . -es 1005. 1026
 1006	4	HECTOR	Hector	Hectoris	— Achilles drags Hector's wretched limbs three times round the tomb of Patroclus
 1006	6	Hector	Hector	Hectoris	-oris 232. 565. 1006. 1040
 1008	4	DIOMEDES	Diomedes	Tydides	— < great-hearted >, surpasses all with his chariot
@@ -1512,7 +1512,7 @@ verse	edition	headword	headword-en	form	description
 1025	4	GRAI	Greeks	Danaum	— chiefs
 1025	6	Danai	Danaans	Danaum	-um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 1026	4	ACHILLES	Achilles	Aeacides	— wonders at the spirit of the wretched Priam
-1026	6	Aeacides (Achilles)	descendant of Aeacus (Achilles)	Aeacides	victor . . . -es 1005. 1026
+1026	6	Aeacides (Achilles)	Aeacides (Achilles)	Aeacides	victor . . . -es 1005. 1026
 1026	6	Priamus	Priam	senis	miseri senis 1026
 1028	4	ACHILLES	Achilles	Achilles	— bravest of the Greek race (Priam addresses him)
 1028	4	GRAI	Greeks	Grajae	Graja gens Grajae gentis: bravest of the Greek race, Achilles
