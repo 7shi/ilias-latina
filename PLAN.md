@@ -17,8 +17,11 @@ texts/README.md and src/README.md first.
    indexes should have been in notes-en.md when commentary/ was
    generated and checked; they were added afterwards, so all 24 books
    are checked against them now (see [Checking the names](#checking-the-names)).
-   Pass A is done (commits af4b60b to f03bbc0); pass B is next, from
-   book 1.
+   Passes A (commits af4b60b to f03bbc0) and B (87ebc08) are done, and
+   the English of index.tsv has been carried over to texts/.  The
+   Japanese (index-ja.md, INDEX-ja.tsv and the Japanese commentary) is
+   left until the Japanese commentary is translated from the finished
+   English.
 3. When the names are done, deploying the translation as a website is
    to be considered.
 
@@ -98,6 +101,37 @@ B. **The content**, book by book, verse by verse:
       verse, not moved to another.
    3. **The commentary**: what it says of the person (descent, people,
       who kills whom) agrees with the description.
+
+   Done (commit 87ebc08, books 1–24 at once).  Decided, to be kept in
+   any later correction:
+   - where the commentary tells Homer's scene it uses the Greek names
+     (Zeus, Hera, Hephaestus, Poseidon, Ares, as Athena in A); where it
+     speaks of the persons of the Latin, the Roman ones (Jupiter, Mars,
+     Aesculapius);
+   - where Plessis and Vollmer read or identify differently, the
+     commentary gives both ("Plessis …; Vollmer …") without deciding:
+     195, 201, 246, 341, 372, 510, 640, 752, 791, 843, 880, 900, 983,
+     1008, 1050.  748 and 983 were corrected to the identification of
+     both indexes; 565 and 631 differ only in the reading, the person
+     being the same;
+   - errors and peculiarities of the originals are left as they are:
+     182 Plessis "twenty ships", 305 "Paride vulnerato", 601 Plessis
+     putting *Aeacides* (Ajax) under ACHILLES, 614 "saxum levat", 1048
+     "six bodies";
+   - in index.tsv, Plessis's "Sleep" (113–124) became "Somnus", "the
+     son of Mars" (529, 543, 797) "Mavortian," and "the Martial one"
+     (760) "warlike,", as in the translation.
+
+   The diff of index.tsv since af4b60b~1 (A and B) was then carried
+   over to the editions' INDEX-en.tsv and index-en.md and `make notes`
+   run in texts/.  Checking it found five rows of Plessis that A and B
+   had missed, corrected first in index.tsv (360 THALYSIADES
+   "Thalysiades", 416 and 437 "Tydides", 448 "Echemmon", 905
+   "Dardanian"); and Plessis's cross-references, which have no verse
+   and so no row in index.tsv (AEACIDES, ATRIDES, PELIDES, IGNIPOTENS,
+   MARTIUS …), were given the English headwords of the same words in
+   Vollmer.  Plessis LAERTIUS "son of Laertes" against Vollmer Laertius
+   "of Laertes" was not in the diff and is left.
 
 - index.tsv keeps the rows on readings that The Latin Library does not
   have (151 *Pelasgi*, 195 *Nireus*) and the rows of a range at its
