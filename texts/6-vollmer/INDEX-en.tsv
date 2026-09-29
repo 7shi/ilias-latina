@@ -37,14 +37,14 @@ Achivi	Achaeans	101	Achivos	-os 101
 Achivi	Achaeans			See Graeci
 Adrastus	Adrastus	240	Adrastus	Amphiusque et Adrastus, sons of Merops 240
 Adrastus	Adrastus	539	Adrastum	vastumque capit Menelaus -um 539
-Aeacides (Achilles)	descendant of Aeacus (Achilles)	74,844	Aeacides,Aeacides	ferus -es 74. [844]
-Aeacides (Achilles)	descendant of Aeacus (Achilles)	903	Aeacides	-ēs 903
-Aeacides (Achilles)	descendant of Aeacus (Achilles)	924	Aeacides	horridus -es 924
-Aeacides (Achilles)	descendant of Aeacus (Achilles)	1005,1026	Aeacides,Aeacides	victor . . . -es 1005. 1026
-Aeacides (Achilles)	descendant of Aeacus (Achilles)	897	Aeacidae	-dae 897
-Aeacides (Achilles)	descendant of Aeacus (Achilles)	914	Aeaciden	-den 914
-Aeacides (Aiax Telamonius)	descendant of Aeacus (Ajax son of Telamon)	368	Aeaciden	-den 368
-Aeacides (Aiax Telamonius)	descendant of Aeacus (Ajax son of Telamon)	628	Aeaciden	-dēn *628
+Aeacides (Achilles)	Aeacides (Achilles)	74,844	Aeacides,Aeacides	ferus -es 74. [844]
+Aeacides (Achilles)	Aeacides (Achilles)	903	Aeacides	-ēs 903
+Aeacides (Achilles)	Aeacides (Achilles)	924	Aeacides	horridus -es 924
+Aeacides (Achilles)	Aeacides (Achilles)	1005,1026	Aeacides,Aeacides	victor . . . -es 1005. 1026
+Aeacides (Achilles)	Aeacides (Achilles)	897	Aeacidae	-dae 897
+Aeacides (Achilles)	Aeacides (Achilles)	914	Aeaciden	-den 914
+Aeacides (Aiax Telamonius)	Aeacides (Ajax son of Telamon)	368	Aeaciden	-den 368
+Aeacides (Aiax Telamonius)	Aeacides (Ajax son of Telamon)	628	Aeaciden	-dēn *628
 Aeneas	Aeneas	236	Aeneas	sacer -as, Veneris certissima proles 236
 Aeneas	Aeneas	454,516	Aeneas,Aeneas	-as 454. 516
 Aeneas	Aeneas	472	Aenean	Dardanium -an 472
@@ -54,7 +54,7 @@ Aeneas	Aeneas			See Cythereius
 Aeneas	Aeneas	483	proles	and Venus 483
 Aeneae auriga	charioteer of Aeneas	513		the charioteer of Aeneas, not named 513
 Aesculapius	Aesculapius	350	arte	see arte paterna 350
-Aetnaeus	of Etna	857	Aetnaeos	Aetnaeos . . . ignes of Vulcan 857
+Aetnaeus	Aetnaean	857	Aetnaeos	Aetnaeos . . . ignes of Vulcan 857
 Aetolius	Aetolian	556,698	Aetolius,Aetolius	Aetolius heros 556. 698: Diomedes
 Aetolus	Aetolian	202	Aetola	Aetola de gente Thoas 202
 Agamemnon	Agamemnon	171	Agamemnon	Mycenaeis -on moenibus ortus 171
@@ -89,8 +89,8 @@ Alexander	Alexander	282	Alexander	pulcher Alexander 282
 Alexander	Alexander	332	Alexander	-er 332
 Alexander	Alexander	340	Alexandrum	-drum 340
 Alexander	Alexander			See Paris
-Amaryncides	son of Amarynceus	377	Amarynciden	*Amaryncīden 377
-Amaryncides	son of Amarynceus			see Diores
+Amaryncides	Amaryncides	377	Amarynciden	*Amaryncīden 377
+Amaryncides	Amaryncides			see Diores
 Amphibion	Amphibion			see Anthemio
 Amphimachus 1	Amphimachus 1	212	Amphimachus	Amphimachus . . . ferox et Thalpius, Elide nati 212: leaders of the Epeans
 Amphimachus 1	Amphimachus 1	775	Amphimachum	Hector atrocem -um obtruncat 775
@@ -104,8 +104,8 @@ Andromache	Andromache	1018,1058	Andromache,Andromache	-ē 1018. 1058
 Andromache	Andromache	568	materna	See materna ad pectora 568
 Antenor 1	Antenor 1	237	Antenore	Archelochusque Acamasque ferox Antenore creti 237: the Trojan
 Antenor 2	Antenor 2	752	Antenore	Antenore natum 752: Coon, a Thracian
-Antenorides	son of Antenor	787	Antenoriden	Archelochum . . . Antenoriden 787
-Antenorides	son of Antenor			see Antenor 1
+Antenorides	Antenorides	787	Antenoriden	Archelochum . . . Antenoriden 787
+Antenorides	Antenorides			see Antenor 1
 Anthemion	Anthemion	363	Anthemione	*Anthemione satum 363: Simoisius, a Trojan
 Antilochus	Antilochus	360	Antilochi	Antilochi . . . -ense 360
 Antilochus	Antilochus	520	Antilochi	armis . . . -i 520: son of Nestor
@@ -124,7 +124,7 @@ Arcesilaus	Arcesilaus	168	Arcesilaus	Arcesilaus atrox 168: a Boeotian
 Archelochus	Archelochus	237	Archelochus	Archelochusq. Acamasque . . . Antenore creti 237
 Archelochus	Archelochus	787	Archelochum	-um . . . Antenoriden 787: a Trojan
 Archeptolemus	Archeptolemus	673	aurigam	aurigam . . . Hectoris 673
-Arctos	the Bear	866	Arctos	Arctos 866: a region of the sky
+Arctos	Arctos	866	Arctos	Arctos 866: a region of the sky
 Argivus	Argive	1050	Argiva	Argiva . . . tela 1050
 Argivus	Argive			see Graecus
 Argolicus	Argive	115	Argolici	Argolici . . . ducis 115: Agamemnon's
@@ -144,29 +144,29 @@ Astyanax	Astyanax	567,571	infans,infantem	infans 567. 571
 Astyanax	Astyanax	573	natus	meus . . . natus 573
 Astynous	Astynous	443	Astynoum	*Astynoum 443
 Athenaeus	Athenian	211	Athenaeus	Menestheus . . . Athenaeus 211
-Atrides (Agamemno)	son of Atreus (Agamemnon)	24,510,663	Atrides,Atrides,Atrides	-es 24. 510(?) 663
-Atrides (Agamemno)	son of Atreus (Agamemnon)	424	Atrides	alter(?) -es 424
-Atrides (Agamemno)	son of Atreus (Agamemnon)	8	Atrides	sceptriger -es 8
-Atrides (Agamemno)	son of Atreus (Agamemnon)	159	Atrides	acer -es 159
-Atrides (Agamemno)	son of Atreus (Agamemnon)	372	Atrides	[impiger -es 372]
-Atrides (Agamemno)	son of Atreus (Agamemnon)	504	Atrides	ferus -es 504
-Atrides (Agamemno)	son of Atreus (Agamemnon)	581	Atrides	Graium . . . dux acer -es 581
-Atrides (Agamemno)	son of Atreus (Agamemnon)	124	Atrida	voc.: rex Danaum -da (-de in others) 124
-Atrides (Agamemno)	son of Atreus (Agamemnon)	19	Atridae	-dae gen.: 19
-Atrides (Agamemno)	son of Atreus (Agamemnon)	587	Atridae	regis -dae 587
-Atrides (Agamemno)	son of Atreus (Agamemnon)	70	Atridae	-dae dat.: (-di in part of the manuscripts) 70
-Atrides (Agamemno)	son of Atreus (Agamemnon)	640	Atridae	saevo . . . -dae 640
-Atrides (Agamemno)	son of Atreus (Agamemnon)	75	Atriden	-dēn 75
-Atrides (Agamemno)	son of Atreus (Agamemnon)	90	Atrida	-dā abl.: 90
-Atrides (Menelaus)	son of Atreus (Menelaus)	290,301,332,349,510	Atrides,Atrides,Atrides,Atrides,Atrides	-des 290. 301. 332. 349. (510?)
-Atrides (Menelaus)	son of Atreus (Menelaus)	268	Atrides	impiger -des 268
-Atrides (Menelaus)	son of Atreus (Menelaus)	322	Atrides	violentus -es 322
-Atrides (Menelaus)	son of Atreus (Menelaus)	327	Atrida	cum saevo . . . -da 327
+Atrides (Agamemno)	Atrides (Agamemnon)	24,510,663	Atrides,Atrides,Atrides	-es 24. 510(?) 663
+Atrides (Agamemno)	Atrides (Agamemnon)	424	Atrides	alter(?) -es 424
+Atrides (Agamemno)	Atrides (Agamemnon)	8	Atrides	sceptriger -es 8
+Atrides (Agamemno)	Atrides (Agamemnon)	159	Atrides	acer -es 159
+Atrides (Agamemno)	Atrides (Agamemnon)	372	Atrides	[impiger -es 372]
+Atrides (Agamemno)	Atrides (Agamemnon)	504	Atrides	ferus -es 504
+Atrides (Agamemno)	Atrides (Agamemnon)	581	Atrides	Graium . . . dux acer -es 581
+Atrides (Agamemno)	Atrides (Agamemnon)	124	Atrida	voc.: rex Danaum -da (-de in others) 124
+Atrides (Agamemno)	Atrides (Agamemnon)	19	Atridae	-dae gen.: 19
+Atrides (Agamemno)	Atrides (Agamemnon)	587	Atridae	regis -dae 587
+Atrides (Agamemno)	Atrides (Agamemnon)	70	Atridae	-dae dat.: (-di in part of the manuscripts) 70
+Atrides (Agamemno)	Atrides (Agamemnon)	640	Atridae	saevo . . . -dae 640
+Atrides (Agamemno)	Atrides (Agamemnon)	75	Atriden	-dēn 75
+Atrides (Agamemno)	Atrides (Agamemnon)	90	Atrida	-dā abl.: 90
+Atrides (Menelaus)	Atrides (Menelaus)	290,301,332,349,510	Atrides,Atrides,Atrides,Atrides,Atrides	-des 290. 301. 332. 349. (510?)
+Atrides (Menelaus)	Atrides (Menelaus)	268	Atrides	impiger -des 268
+Atrides (Menelaus)	Atrides (Menelaus)	322	Atrides	violentus -es 322
+Atrides (Menelaus)	Atrides (Menelaus)	327	Atrida	cum saevo . . . -da 327
 Augustus	Augustan	901	Augustum	Augustum . . . genus 901: the Julii
 Augustus	Augustan	902	gentis	see clarae gentis 902
 Aulis	Aulis	147	Aulide	visus in Aulide serpens 147
-Aurora	Dawn	635	Aurora	stellas Aurora fugarat 635
-Auster	the South Wind	866	Austro	quantum Arctos ab Austro . . . distaret 866
+Aurora	Aurora	635	Aurora	stellas Aurora fugarat 635
+Auster	Auster	866	Austro	quantum Arctos ab Austro . . . distaret 866
 Axinous	Axinous			see Arsinous
 Bacchus	Bacchus	633	Bacchi	Bacchi . . . liquore 633
 Baebius	Baebius			Baebius Italicus, the poet: in the title
@@ -210,9 +210,9 @@ Coon	Coon			See Antenor 2.
 Coroebus	Coroebus	249	Coroebus	clara . . . satus tellure Coroebus 249: not named in Homer
 Cretaeus	Cretan	208	Cretaeus	Idomeneus et Meriones, Cretaeus uterque 208
 Crethon	Crethon	517	Crethona	Crethona 517: son of Diocles, of Pherae
-Cygneis	daughter of the Swan	337	Cygneidos	Cygneidos (-dus in part of the manuscripts) 337: Helen
-Cytherea	the Cytherean	309,335,470	Cytherea,Cytherea,Cytherea	Cythereă 309. 335. 470: Venus
-Cythereius	son of the Cytherean	895	Cythereius	Cythereius heros 895: Aeneas
+Cygneis	Cygneis	337	Cygneidos	Cygneidos (-dus in part of the manuscripts) 337: Helen
+Cytherea	Cytherea	309,335,470	Cytherea,Cytherea,Cytherea	Cythereă 309. 335. 470: Venus
+Cythereius	Cytherean	895	Cythereius	Cythereius heros 895: Aeneas
 Danai	Danaans	508,542,646,679,766,802,838,960,978,1002	Danai,Danai,Danai,Danai,Danai,Danai,Danai,Danai,Danai,Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 Danai	Danaans	57	Danai	voc.: 57
 Danai	Danaans	12	Danaorum	-orum 12
@@ -221,15 +221,15 @@ Danai	Danaans	772	Danais	-is 772
 Danai	Danaans	45,492,659,808,912,950,1001	Danaos,Danaos,Danaos,Danaos,Danaos,Danaos,Danaos	-os 45. 492. 659. 808. 912. 950. 1001
 Danai	Danaans	544	Danais	pro -is 544
 Danai	Danaans			See Graeci
-Dardanides	Dardanid	826	Dardanides	Dardanides 826: Hector
-Dardanides	Dardanid	743	Dardanidum	-dum . . . duces 743: of the Trojans
+Dardanides	Dardanides	826	Dardanides	Dardanides 826: Hector
+Dardanides	Dardanides	743	Dardanidum	-dum . . . duces 743: of the Trojans
 Dardanius	Dardanian	318	Dardanio	Dardanio . . . Paridi 318
 Dardanius	Dardanian	302	Dardanium	-um . . . iuvenem 302: Paris
 Dardanius	Dardanian	472	Dardanium	-um Aenean 472
 Dardanius	Dardanian	384	Dardanii	-ii . . . campi 384: of Troy
-Dardanus	Dardan	905	Dardana	Dardana pubes 905
-Dardanus	Dardan	1029	Dardana	-na . . . pubes 1029
-Dardanus	Dardan	1040	Dardana	-na regna 1040: Trojan
+Dardanus	Dardanian	905	Dardana	Dardana pubes 905
+Dardanus	Dardanian	1029	Dardana	-na . . . pubes 1029
+Dardanus	Dardanian	1040	Dardana	-na regna 1040: Trojan
 Dares	Dares	403	Daretis	*Daretis . . . natos, Phegeaque Idaeumque 403. Of Vulcan's priest among the Trojans
 Deiphobus	Deiphobus	235	Deiphobus	Deiphobus 235
 Deiphobus	Deiphobus	778	Deiphobus	fervidus . . . -us 778
@@ -271,10 +271,10 @@ Epistrophus 1	Epistrophus 1	179	Epistrophus	Schedius . . . et Epistrophus ingens
 Epistrophus 2	Epistrophus 2	242	Epistrophus	Epistrophus ingens 242: leader of the Halizonians on the Trojan side
 Euboea	Euboea	200	Euboeae	Euboeae . . . finibus 200
 Euhaemon	Euhaemon	190	Euhaemone	Euhaemone natus 190: Eurypylus
-Eumediades	son of Eumedes	710	Eumediades	Tros *Eumediades 710: Dolon
+Eumediades	Eumediades	710	Eumediades	Tros *Eumediades 710: Dolon
 Eumelus	Eumelus	197	Eumelus	viribus acer *Eumelus 197: son of Admetus
 Euphemus	Euphemus	243	Euphemus	Euphemus . . . ferox 243: leader of the Cicones on the Trojan side
-Eurus	the East Wind	734	Eurus	Eurus 734: the wind
+Eurus	Eurus	734	Eurus	Eurus 734: the wind
 Euryalus	Euryalus	184	Euryalus	Euryalus 184: son of Mecisteus, companion of Diomedes
 Eurypylus	Eurypylus	434	Eurypylus	vastis horridus armis Eurypylus 434
 Eurypylus	Eurypylus	583	Eurypylus	claris speciosus in armis -us 583
@@ -351,12 +351,12 @@ Hercules	Hercules	523	Hercule	Tlepolomus magno satus Hercule 523
 Hercules	Hercules	524	labores	See patris . . . labores 524
 Hesione	Hesione	626	Hesionae	Hesionae nomen 626
 Hesione	Hesione	624	Hesiona	-na de matre . . . Telamone creatum Aiacem 624
-Hesperus	the Evening Star	868	Hesperus	Lucifer . . . Hesperus, unus uterque 868
+Hesperus	Hesperus	868	Hesperus	Lucifer . . . Hesperus, unus uterque 868
 Hippolochus	Hippolochus	750	Hippolochum	Pisandrum . . . fratremque . . . *Hippolochum 750: sons of Antimachus
 Hippothous	Hippothous	245	Hippothous	bonus armis *Hippothous 245: son of Lethus
 Hodius	Hodius			Hodius see Odius
 Homerus	Homer	1066	Homeri	metam . . . potentis Homeri 1066
-Hyperon	Hyperon	443	Hyperona	magnum . . . *Hyperonă 443
+Hyperon	Hypiron	443	Hyperona	magnum . . . *Hyperonă 443
 Hypsenor	Hypsenor	434	Hypsenora	*Hypsenoră 434: son of Dolopion
 Ialmenus	Ialmenus	187	Ialmenus	Ascalaphus . . . et *Ialmenus, acer uterque 187: son of Mars, leader of the Boeotians
 Ida	Ida	654	Idae	umbrosis . . . montibus Idae 654
@@ -370,16 +370,16 @@ Idomeneus	Idomeneus	429	Idomeneus	-eus 429
 Idomeneus	Idomeneus	580	Idomeneus	ferus -eus 580
 Idomeneus	Idomeneus	774	Idomenei	-nei dextrā 774
 Idomeneus	Idomeneus			See Rhytieus
-Ignipotens	the Fire-Lord	862	Ignipotens	Ignipotens 862
-Ignipotens	the Fire-Lord	106	Ignipotente	*-nte (omnipot- trad.) 106: Vulcan
-Iliacus	of Ilium	323	Iliaco	Iliaco . . . pulvere 323
-Iliacus	of Ilium	128,160	Iliacos,Iliacos	-cos . . . campos 128. 160
-Iliacus	of Ilium	655	Iliacas	acies . . . -cas 655
-Iliades	women of Ilium	549	Iliades	Iliades 549
-Iliades	women of Ilium	1052	Iliades	-des matres 1052
-Ilion	Ilium	153,1056	Ilion,Ilion	Ilĭŏn 153. 1056
-Ilion	Ilium			See Troia
-Imbrasides	son of Imbrasus	378	Imbrasides	impiger *Imbrasides (umbr- trad.) 378: Pirous
+Ignipotens	Ignipotens	862	Ignipotens	Ignipotens 862
+Ignipotens	Ignipotens	106	Ignipotente	*-nte (omnipot- trad.) 106: Vulcan
+Iliacus	Ilian	323	Iliaco	Iliaco . . . pulvere 323
+Iliacus	Ilian	128,160	Iliacos,Iliacos	-cos . . . campos 128. 160
+Iliacus	Ilian	655	Iliacas	acies . . . -cas 655
+Iliades	Iliades	549	Iliades	Iliades 549
+Iliades	Iliades	1052	Iliades	-des matres 1052
+Ilion	Ilion	153,1056	Ilion,Ilion	Ilĭŏn 153. 1056
+Ilion	Ilion			See Troia
+Imbrasides	Imbrasides	378	Imbrasides	impiger *Imbrasides (umbr- trad.) 378: Pirous
 Iovis	Jupiter			Iovis see Iuppiter
 Iphidamas	Iphidamas	750	Iphidamanta	*Iphidamanta (amphi- trad.) 750: son of Antenor
 Iris	Iris	223	Irin	Irin 223
@@ -406,7 +406,7 @@ Iuppiter	Jupiter	345	regnator	omnipotens . . . regnator Olympi 345
 Iuppiter	Jupiter	98	coniunx	optime coniunx 98
 Iuppiter	Jupiter			See Tonans.
 Lachesis	Lachesis	891	Lachesis	Lachesis 891
-Laertiades	son of Laertes	372	Atrides	*Laertiades (atrides trad.) 372: Ulysses
+Laertiades	Laertiades	372	Atrides	*Laertiades (atrides trad.) 372: Ulysses
 Laertius	of Laertes	1010	Laertius	Laertius astus 1010: Ulysses
 Latius	Latin	900	Latiis	*Latiis (laetis trad.) . . . in arvis 900
 Latona	Latona	10	Latonae	Latonae et magni proles Iovis 10: Apollo
@@ -415,13 +415,13 @@ Leonteus	Leonteus	182	Leonteus	Leonteus 182: son of Coronus
 Leucus	Leucus	369	Leucon	Leucon acc. 369: companion of Ulysses
 Libycus	Libyan	500	Libycus	Libycus . . . leo 500
 Locrus	Locrian	189	Locrum	Locrum fortissimus Aiax 189
-Lucifer	the Morning Star	868	Lucifer	Lucifer 868
-Lucifer	the Morning Star			see Hesperus
-Luna	the Moon	870	Luna	Luna cava 870
+Lucifer	Lucifer	868	Lucifer	Lucifer 868
+Lucifer	Lucifer			see Hesperus
+Luna	Luna	870	Luna	Luna cava 870
 Lycaon	Lycaon	238	Lycaonis	proles generosa Lycaonis . . . Pandarus 238
 Machaon	Machaon	218	Machaon	Machaon 218: son of Aesculapius
-Maeonides	the Maeonian	430	Maeoniden	*Maeoniden Phaestum 430
-Magnes	the Magnesian	199	Magnes	Prothous *Magnes 199
+Maeonides	Maeonides	430	Maeoniden	*Maeoniden Phaestum 430
+Magnes	Magnesian	199	Magnes	Prothous *Magnes 199
 Mars	Mars	264	Mars	duro Mars milite gaudet 264
 Mars	Mars	889	Mars	Mars aureus in medio Achillis clipeo 889
 Mars	Mars	390	Martem	tumidumque increscere Martem, i.e. war, 390
@@ -429,13 +429,13 @@ Mars	Mars	560	Martem	Diomedes pupugit . . . Martem 560
 Mars	Mars	495	marte	infesto Marte 495
 Mars	Mars	822	Marte	invito . . . Marte 822
 Mars	Mars			See Mavors
-Martius	Martial	760	Martius	Martius Hector 760
-Martius	Martial			See Mavortius
+Martius	warlike	760	Martius	Martius Hector 760
+Martius	warlike			See Mavortius
 Mavors	Mavors	358	Mavors	sonat undique Mavors, i.e. battle, 358
 Mavors	Mavors	532	Mavors	bellipotens . . . Mavors 532
 Mavors	Mavors	821	Mavors	ipse . . . Mavors 821
-Mavortius	son of Mavors	543,797	Mavortius,Mavortius	Mavortius Hector 543. 797
-Mavortius	son of Mavors			See Martius
+Mavortius	Mavortian	543,797	Mavortius,Mavortius	Mavortius Hector 543. 797
+Mavortius	Mavortian			See Martius
 Meges	Meges	201	Meges	Dulichius . . . Meges 201
 Meges	Meges	433	Meges	*Meges 433. Son of Phyleus, on the Greek side
 Menelaus	Menelaus	283,312,339,539	Menelaus,Menelaus,Menelaus,Menelaus	Menelaus 283. 312. 339. 539
@@ -470,29 +470,29 @@ Neptunus	Neptune	772	Neptunus	Neptunus 772
 Neptunus	Neptune	899	rector	See magnarum rector aquarum 899
 Nereis	Nereid	874	Nereidas	liquidas . . . Nereidas 874
 Nereis	Nereid	97	sororibus	See sororibus 97
-Nereius	grandson of Nereus	938,975	Nereius,Nereius	Nereius heros 938. 975: Achilles
+Nereius	Nereian	938,975	Nereius,Nereius	Nereius heros 938. 975: Achilles
 Nereus	Nereus	864	Nerea	Nerea 864
 Nereus	Nereus	871	Nerea	-a magnum 871
 Nestor	Nestor	176	Nestor	fidus sollerti pectore Nestor consilioque potens 176
 Nestor	Nestor	144	Nestoris	sollertis prudentia -oris aevo 144
 Nestor	Nestor	154,737	Nestoris,Nestoris	-oris aetas 154. 737
 Nestor	Nestor	151	senex	cf. senex 151
-Nestorides	son of Nestor	840	Nestorides	Nestorides 840: Antilochus
+Nestorides	Nestorides	840	Nestorides	Nestorides 840: Antilochus
 Nireus	Nireus	195	Nireus	*Nireus (teucer trad.) 195: son of Aglaia and Charopus
 nympha	nymph	863	nymphas	nymphas 863(?)
 Oceanus	Ocean	864	Oceanum	Oceanum(?) 864
 Oceanus	Ocean	872	Oceanum	-um . . . senem 872
-occasus	setting of the sun	866	occasus	region of the setting [sun]: 866
+occasus	sunset	866	occasus	region of the setting [sun]: 866
 Odius	Odius	242	Odius	Odius . . . et Epistrophus 242: leaders of the Halizonians
 Odius	Odius	427	Odius	infelix -us 427
-Oenides	grandson of Oeneus	466	Oenides	*Oenides 466: Diomedes
+Oenides	Oenides	466	Oenides	*Oenides 466: Diomedes
 Oileus	Oileus	216	Oileos	Oileos (-us trad.) Aiax 216
 Olympus	Olympus	107	Olympi	genitor . . . Olympi 107
 Olympus	Olympus	345	Olympi	regnator -pi 345: Jupiter
 Olympus	Olympus	108	Olympo	sol emenso decedit -po 108
 Orcus	Orcus	3	Orco	animas . . . tradidit Orco 3
 Orsilochus	Orsilochus	518	Orsilochum	*Orsilochum 518: son of Diocles, of Pherae
-ortus	rising of the sun	866	ortu	region of the rising [sun]: 866
+ortus	sunrise	866	ortu	region of the rising [sun]: 866
 Paean	Paean	880	Paeana	resonant Paeana puellae 880
 Paeonius	Paeonian	351	Paeoniis	Paeoniis . . . herbis 351
 Paeonius	Paeonian			see Apollo
@@ -538,11 +538,11 @@ Pelasgi	Pelasgians	694	Pelasgis	-gis 694
 Pelasgi	Pelasgians	224,353	Pelasgos,Pelasgos	fortes . . . -os 224. 353
 Pelasgi	Pelasgians			See Graeci
 Peleus	Peleus	986	Peleus	Peleus 986: father of Achilles
-Pelides	son of Peleus	81	Pelides	Pelides 81
-Pelides	son of Peleus	1	Pelidae	-dae . . . superbi 1
-Pelides	son of Peleus	841	Pelidis	-dae 841
-Pelides	son of Peleus			See Achilles
-Pelopeius	descendant of Pelops	131,739	Pelopeius,Pelopeius	Pelopeius heros 131. 739: Agamemnon
+Pelides	Pelides	81	Pelides	Pelides 81
+Pelides	Pelides	1	Pelidae	-dae . . . superbi 1
+Pelides	Pelides	841	Pelidis	-dae 841
+Pelides	Pelides			See Achilles
+Pelopeius	Pelopeian	131,739	Pelopeius,Pelopeius	Pelopeius heros 131. 739: Agamemnon
 Pelopeus	of Pelops	791		[Pelopea iuventus 791]: the Greeks
 Peneleos	Peneleus	167	Peneleus	Peneleos (-leus trad.) princeps 167
 Peneleos	Peneleus	789	Penelei	atrocis -lei 789: leader of the Boeotians
@@ -591,11 +591,11 @@ Polydamas	Polydamas	786	Polydamas	Polydamas 786: son of Panthous
 Polyidos	Polyidus	445	Polyïdon	*Polyïdŏn (polidona trad.) 445: son of Eurydamas
 Polypoetes	Polypoetes	182,1012	Polypoetes,Polypoetes	*Polypoetes 182. 1012: son of Hippodamia
 Polyxenus	Polyxenus	213	Polyxenus	clara virtute Polyxenus 213: of Elis, son of Agasthenes
-Priameius	son of Priam	271,960	Priameius,Priameius	Priameius heros: Paris 271, Hector 960
-Priameius	son of Priam	789,837	Priameia,Priameia	-eia pubes 789. 837: the Trojans
-Priamides	son of Priam	601,610,660,988	Priamides,Priamides,Priamides,Priamides	Priamides 601. 610. 660. 988
-Priamides	son of Priam	226	Priamides	-es Hector 226
-Priamides	son of Priam	754	Priamides	Hector -es 754: Hector
+Priameius	of Priam	271,960	Priameius,Priameius	Priameius heros: Paris 271, Hector 960
+Priameius	of Priam	789,837	Priameia,Priameia	-eia pubes 789. 837: the Trojans
+Priamides	Priamides	601,610,660,988	Priamides,Priamides,Priamides,Priamides	Priamides 601. 610. 660. 988
+Priamides	Priamides	226	Priamides	-es Hector 226
+Priamides	Priamides	754	Priamides	Hector -es 754: Hector
 Priamus	Priam	278,983,1046	Priamus,,Priamus	Priamus 278 [983] 1046
 Priamus	Priam	726	Priami	-mi regis 726
 Priamus	Priam	982	Priami	-mi . . . filius 982
@@ -628,9 +628,9 @@ Pyrrhus	Pyrrhus	987	Pyrrhus	Pyrrhus 987: son of Achilles
 Rhesus	Rhesus	729	Rhesi	tentoria Rhesi 729
 Rhesus	Rhesus	731	virum	cf. ipsum . . . virum 731
 Rhesus	Rhesus	734	Thraecis	Thraecis 734
-Rhodius	the Rhodian	196	Rhodius	Tlepolemus . . . Rhodius 196
-Rhytieus	the man from Rhytion	777	Rhytieus	magnanimus ductor Rhytieus 777: Idomeneus
-Salaminius	the Salaminian	198	Salaminius	Telamone satus Salaminius Aiax 198
+Rhodius	of Rhodes	196	Rhodius	Tlepolemus . . . Rhodius 196
+Rhytieus	Rhytieus	777	Rhytieus	magnanimus ductor Rhytieus 777: Idomeneus
+Salaminius	of Salamis	198	Salaminius	Telamone satus Salaminius Aiax 198
 Sarpedon	Sarpedon	249,521	Sarpedon,Sarpedon	Iovis inclita proles Sarpedon 249. 521
 Sarpedon	Sarpedon	527	Sarpedon	-don 527
 Sarpedon	Sarpedon	811	Sarpedona	-dona 811
@@ -641,10 +641,10 @@ Simoisius	Simoisius			(Simoisius) see Anthemio
 Sol	the Sun	108	sol	Sol . . . decedit Olympo 108
 Sol	the Sun			See Titan.
 Sol	the Sun	130	lampas	See ignea lampas 130
-Somnus	Sleep	120	Somnus	Somnus 120
-Somnus	Sleep	113	Somnum	-um 113
-Somnus	Sleep	114	divum	cf. lenissime divum 114
-Somnus	Sleep	123	levator	curarum operumque levator 123
+Somnus	Somnus	120	Somnus	Somnus 120
+Somnus	Somnus	113	Somnum	-um 113
+Somnus	Somnus	114	divum	cf. lenissime divum 114
+Somnus	Somnus	123	levator	curarum operumque levator 123
 Sthenelus	Sthenelus	184	Stheneli	Stheneli (-us trad.) . . . decus 184: son of Capaneus
 Strophius	Strophius	431	Strophio	Strophio genitum 431: Scamandrius
 Stygius	Stygian	431	Stygias	Stygias . . . ad umbras 431
@@ -652,7 +652,7 @@ Syme	Syme	195		ab Syme (Σύμηθεν) 195 (assumptis trad.) ?
 Tartara	Tartarus	448	Tartara	ad Tartara mittit 448
 Telamon	Telamon	198	Telamone	Telamone satus . . . Aiax 198
 Telamon	Telamon	610,624	Telamone,Telamone	-one creatum 610. 624
-Telamonius	son of Telamon	205,363,602,623,787,836	Telamonius,Telamonius,Telamonius,Telamonius,Telamonius,Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
+Telamonius	Telamonian	205,363,602,623,787,836	Telamonius,Telamonius,Telamonius,Telamonius,Telamonius,Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 Tenthredon	Tenthredon	199	Tenthredone	Prothous Magnes *Tenthredone natus 199
 Teucer	Teucer	671	Teucer	Teucer 671
 Teucer	Teucer	195	Nireus	[195 trad.]
@@ -660,10 +660,10 @@ Teucri	Teucrians	508	Teucri	Teucri 508
 Teucri	Teucrians	424,903	Teucros,Teucros	-os 424. 903
 Teucri	Teucrians			see Troiani
 Thalpius	Thalpius	212	Thalpius	Amphimachus . . . et *Thalpius (alpinus trad.), Elide nati 212
-Thalysiades	son of Thalysius	361	Thalysiades	*Thalysiades (tales(t)- trad.) 361: Echepolus
+Thalysiades	Thalysiades	361	Thalysiades	*Thalysiades (tales(t)- trad.) 361: Echepolus
 Thersites	Thersites	136	Thersites	Thersites, quo non deformior alter venerat ad Troiam nec lingua protervior ulli 136
 Thessalicus	Thessalian	193	Thessalici	Thessalici iuvenes, Phidippus et Antiphus 193
-Thestorides	son of Thestor	52,59	Thestoriden,Thestoriden	Thestoriden 52. 59: Calchas
+Thestorides	Thestorides	52,59	Thestoriden,Thestoriden	Thestoriden 52. 59: Calchas
 Thetideius	son of Thetis	690,892	Thetideius,Thetideius	Thetideius heros 690. 892: Achilles
 Thetis	Thetis	83,860	Thetis,Thetis	Thetis 83. 860
 Thetis	Thetis	855	Thetin	Thetin 855
@@ -691,9 +691,9 @@ Tonans	the Thunderer	124	Tonantis	mandata Tonantis 124
 Tonans	the Thunderer	104	Tonantem	-tem 104
 Tonans	the Thunderer			See Iuppiter
 Triton	Triton	873	Tritonas	Tritonas (-es trad.) . . . feros 873
-Tritonia	the Tritonian	947	Tritonia	Tritonia 947
-Tritonia	the Tritonian	936	Tritonia	[-ia Pallas 936]
-Tritonia	the Tritonian			See Minerva
+Tritonia	Tritonia	947	Tritonia	Tritonia 947
+Tritonia	Tritonia	936	Tritonia	[-ia Pallas 936]
+Tritonia	Tritonia			See Minerva
 Troia	Troy	727,1016	Troia,Troia	Troia 727. 1016
 Troia	Troy	250	Troia	Neptunia -ia 250
 Troia	Troy	719	Troia	maxima -ia 719
@@ -723,13 +723,13 @@ Tros	Trojan	102,281,339,357,438,631,641,701,963	Troum,Troum,Troum,Troum,Troum,Tr
 Tros	Trojan	585	Troum	Troum terror Achilles 585
 Tros	Trojan	1008	tyrsin	(Trosin equis? 1008)
 Tros	Trojan	807	Troas	Troas 807
-Tydeius	of the son of Tydeus	453	Tydeius	Tydeius ensis, of Diomedes: 453
-Tydides	son of Tydeus	390,408,530,665,1008	Tydides,Tydides,Tydides,Tydides,Tydides	Tydides 390. 408. 530. 665. 1008
-Tydides	son of Tydeus	185	Tydides	fortis in armis -des 185
-Tydides	son of Tydeus	459	Tydides	magnus . . . -des 459
-Tydides	son of Tydeus	449	Tydidae	-dae . . . dextra 449
-Tydides	son of Tydeus	415	Tydidae	saevi . . . -dae 415
-Tydides	son of Tydeus	437	Tydiden	-den 437: Diomedes
+Tydeius	of Tydides	453	Tydeius	Tydeius ensis, of Diomedes: 453
+Tydides	Tydides	390,408,530,665,1008	Tydides,Tydides,Tydides,Tydides,Tydides	Tydides 390. 408. 530. 665. 1008
+Tydides	Tydides	185	Tydides	fortis in armis -des 185
+Tydides	Tydides	459	Tydides	magnus . . . -des 459
+Tydides	Tydides	449	Tydidae	-dae . . . dextra 449
+Tydides	Tydides	415	Tydidae	saevi . . . -dae 415
+Tydides	Tydides	437	Tydiden	-den 437: Diomedes
 Venus	Venus	315,464,911	Venus,Venus,Venus	Venus 315. 464. 911
 Venus	Venus	559,584	Veneris,Veneris	-eris 559. 584
 Venus	Venus	236,483	Veneris,Veneris	Aeneas, -eris . . . proles 236. 483

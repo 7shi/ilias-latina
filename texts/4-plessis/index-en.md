@@ -46,10 +46,10 @@ PDF page 154.
 - AETOLIUS cf. Diomedes.
 - AETOLUS de gente Aetola 202.
 - AGAMEMNON leads a hundred ships 171.
-- Agamemnonis: Sleep, sent by Jupiter, flies down into the chamber of Agamemnon 121; — his anger arms the Greeks for slaughter, after Pandarus has wounded Menelaus 353; — his squadrons, with Hector pressing them, flee to the ships 795.
-- Argolicus dux: « make for the camp of the Argive leader in your flight » (Jupiter addresses Sleep) 115.
+- Agamemnonis: Somnus, sent by Jupiter, flies down into the chamber of Agamemnon 121; — his anger arms the Greeks for slaughter, after Pandarus has wounded Menelaus 353; — his squadrons, with Hector pressing them, flee to the ships 795.
+- Argolicus dux: « make for the camp of the Argive leader in your flight » (Jupiter addresses Somnus) 115.
 - Atrides: the sceptre-bearer, angry with Achilles 8; — refuses to give back Chryseis 24; — keen, orders his comrades to arm 159; — tireless, attacks Democoon 372; — rages in arms against the Trojans 424; — fierce against the enemy, rushes like a Libyan lion 504; — catches sight of Aeneas driving in his chariot 510; — the keen leader of the Greeks, when Hector challenges the leaders of the Greeks to arms, comes forward 581; — encourages his comrades 663.
-- Atride: king of the Danaans (Sleep, sent by Jupiter, speaks) 124.
+- Atride: king of the Danaans (Somnus, sent by Jupiter, speaks) 124.
 - Atridae genitive: Chryses, cast down at his knees 19; — the lots are thrown into the helmet of the king 587.
 - Atridae dative: his passion for Chryseis does not leave him 70.
 - In Atriden: Achilles makes for the son of Atreus 75.
@@ -62,7 +62,7 @@ PDF page 154.
 - AJAX, son of Oileus.
 - — bravest of the Locrians, fitted out forty ships for Troy 189; — son of Oileus: Protesilaus and Podarces fitted out as many ships as he 216.
 - AJAX, son of Telamon.
-- — the Salaminian sprung from Telamon, leads one ship more than Eumelus 198; — the son of Telamon, mighty in outstanding valour, makes for Troy with twelve ships 205–6; — the son of Telamon overcomes the son of Anthemion 363; — kills Acamas, leader of the Thracians 538; — great, when the lots have been cast into Agamemnon's helmet, comes forward 588; — the son of Telamon, raging in spirit and in arms, attacks Hector 602; — fierce, repels with his shield the stone thrown by Hector 611; [ — the son of Telamon answers Hector 623]; — the warrior: Hector receives the belt with which he had girded himself 629; — the greatest, strikes Hector with a stone 780; — the son of Telamon strikes Archilochus 787; — alone defends the ships 799; — the son of Telamon rescues the body of Patroclus 836; — is beaten in wrestling (while Achilles holds the funeral of Patroclus's body) 1009.
+- — the Salaminian sprung from Telamon, leads one ship more than Eumelus 198; — the son of Telamon, mighty in outstanding valour, makes for Troy with twelve ships 205–6; — the son of Telamon overcomes the son of Anthemion 363; — kills Acamas, leader of the Thracians 538; — great, when the lots have been cast into Agamemnon's helmet, comes forward 588; — the son of Telamon, raging in spirit and in arms, attacks Hector 602; — fierce, repels with his shield the stone thrown by Hector 611; [ — the son of Telamon answers Hector 623]; — the warrior: Hector receives the belt with which he had girded himself 629; — the greatest, strikes Hector with a stone 780; — the son of Telamon strikes Archelochus 787; — alone defends the ships 799; — the son of Telamon rescues the body of Patroclus 836; — is beaten in wrestling (while Achilles holds the funeral of Patroclus's body) 1009.
 - In Ajacis armis: protected by the arms of Ajax, Teucer drives the Trojans 670.
 - In Ajacem: Antiphus hurls his spear against Ajax 368; — Hector rewards Ajax with a gleaming sword 628.
 - Telamone creatus: Hector attacks the son of Telamon with a stone 610; — [you see (he speaks of himself) 624].
@@ -83,7 +83,7 @@ PDF page 155.
 - ANCHISES cf. Alcathous.
 - ANDRAEMO Andraemone natus: Thoas, son of Andraemon 202; — Thoas, son of the great [Andraemon] 583.
 - ANDROMACHE, the most faithful wife of Hector, seeks to speak with him 564–5; — when Hector has been killed, rends her clothes 1018; — when Hector's body has been mangled, rushes forth and laments 1058.
-- ANTENOR Antenore creti: Archilochus and Acamas, sprung from Antenor 237; — Agamemnon pursues and wounds his son (Coon) 752.
+- ANTENOR Antenore creti: Archelochus and Acamas, sprung from Antenor 237; — Agamemnon pursues and wounds his son (Coon) 752.
 - ANTENORIDES cf. Archilochus.
 - ANTHEMIO Anthemione satum: Ajax son of Telamon kills the son of Anthemion (Simoisius) 363.
 - ANTILOCHUS Antilochi: the son of Thalysius (Echepolus) is killed by the sword of Antilochus 360; — Mydon falls by his arms 520.
@@ -103,7 +103,7 @@ PDF page 155.
 - Proles Jovis et Latonae: offspring of Jupiter and Latona, 10.
 - ARCESILAUS, fierce, comes to Troy 168.
 - ARCHILOCHUS, sprung from Antenor, with the other leaders of the Trojans 237.
-- Archilochum: Ajax son of Telamon kills Archilochus son of Antenor 787.
+- Archilochum: Ajax son of Telamon kills Archelochus son of Antenor 787.
 - ARCTUS 866.
 - ARGIVUS Argivaque tela (nominative) 1050.
 - ARGOLICUS Argolici ducis 115 (cf. Agamemno).
@@ -122,7 +122,7 @@ PDF page 155.
 - AUGUSTUM genus: the Augustan race 901.
 - AULIS in Aulide: (a serpent was seen) at Aulis 147.
 - AURORA puts the stars to flight 635.
-- AUSTER ab Austro: the Bear is far from the South 866.
+- AUSTER ab Austro: Arctos is far from Auster 866.
 - BACCHUS Bacchi liquor: the liquor of Bacchus 633.
 - BOEOTUS Boeotum (cf. Promachus) 788; — Boeoti (Prothoenor and Clonius) 169.
 
@@ -159,7 +159,7 @@ PDF page 156.
 - DARDANIUS cf. Aeneas, Paris.
 - Dardanii campi: the Dardanian plains run with blood 384.
 - DARDANUS Dardana pubes cf. Trojani.
-- Dardana regna: you have conquered the Dardan kingdom (Priam to Achilles) 1040.
+- Dardana regna: you have conquered the Dardanian kingdom (Priam to Achilles) 1040.
 - DARES Daretis: Diomedes catches sight of the sons of Dares in the opposing line 403–4.
 - DEIPHOBUS with the other princes of the Trojans 235; — slays Ascalaphus 778.
 - Deiphobi: Minerva takes on the form of Deiphobus 949.
@@ -171,8 +171,8 @@ PDF page 156.
 - Calydonius heros: rushes into the midst of the enemy 399; — fights with Aeneas 454.
 - Calydonius juvenis: burns with anger 441.
 - Tydides: brave in arms 184–5; — sees the Danaans giving way 390; — kills Phegeus 408; — great, does not see where he may wound Aeneas 458–9; — fights 530; — a prince, shines forth in blazing arms 665; — < great-hearted >, surpasses all with his chariot 1008–9.
-- Tydidae: Idaeus does not withstand the strong arms of the savage son of Tydeus 416; — Pandarus laid low by his right hand 449.
-- Tydiden: Pandarus seeks the son of Tydeus 437.
+- Tydidae: Idaeus does not withstand the strong arms of the savage Tydides 416; — Pandarus laid low by his right hand 449.
+- Tydiden: Pandarus seeks Tydides 437.
 - Oenides: wounds the hand of Venus 466.
 - DIORES with the other princes of the Greeks 213.
 - Amaryncides Amarynciden: Pirous kills the son of Amarynceus 377.
@@ -244,7 +244,7 @@ PDF page 158.
 - GRAJUS grajae gentis cf. Grai.
 - Grajae puppes: Greek sterns 220.
 - GUNEUS Gunei: the dreadful wrath of Guneus leads twenty-two ships 206–7.
-- HECTOR nominative: the son of Priam takes up arms at his father's command 226; — addresses Paris, confounded with terror 256; — reports Paris's words 277; — bravest, lays the Greeks low in slaughter 486; — attacks the Greeks, just like a wolf 491; — pillar of his country, the son of Mars fights 529; — the son of Mars perceives that the gods fight for the Greeks 543; — the greatest, challenges the princes of the Greeks 577; — greatest in war, addresses Ajax 620; [ — addresses Ajax 626]; — the greatest, recalls with his comrades yesterday's dead 636; — turbulent, rushes on 677; — the son of Priam, angry, enters the fierce fight 754–5; — the Martial one breaks the gates of the enemy camp with a stone 760; — cuts down Amphimachus 774; — fierce, rages with violent heart 779; — the terror of the Danaans, tireless, flies up and drives the Greeks 794; — the son of Mars rages, about to burn the ships of the Greeks 797; — burning, looks back at Patroclus throwing the lines into confusion under the likeness of Achilles 815; — bravest, how much he is worth in war (he speaks of himself) 820; — greatest in war, catches Patroclus in false arms 832; — is present, the one in whom the safety of Troy remained 932; — cunning, avoids Achilles' spear 959; — his strength failing, with Achilles pressing him, 967; — unhappy, his strength lost, entreats Achilles 979; — pitiable, gives up his life 996; — is laid on the pyre 1051.
+- HECTOR nominative: the son of Priam takes up arms at his father's command 226; — addresses Paris, confounded with terror 256; — reports Paris's words 277; — bravest, lays the Greeks low in slaughter 486; — attacks the Greeks, just like a wolf 491; — pillar of his country, Mavortian, fights 529; — Mavortian, perceives that the gods fight for the Greeks 543; — the greatest, challenges the princes of the Greeks 577; — greatest in war, addresses Ajax 620; [ — addresses Ajax 626]; — the greatest, recalls with his comrades yesterday's dead 636; — turbulent, rushes on 677; — the son of Priam, angry, enters the fierce fight 754–5; — warlike, breaks the gates of the enemy camp with a stone 760; — cuts down Amphimachus 774; — fierce, rages with violent heart 779; — the terror of the Danaans, tireless, flies up and drives the Greeks 794; — Mavortian, rages, about to burn the ships of the Greeks 797; — burning, looks back at Patroclus throwing the lines into confusion under the likeness of Achilles 815; — bravest, how much he is worth in war (he speaks of himself) 820; — greatest in war, catches Patroclus in false arms 832; — is present, the one in whom the safety of Troy remained 932; — cunning, avoids Achilles' spear 959; — his strength failing, with Achilles pressing him, 967; — unhappy, his strength lost, entreats Achilles 979; — pitiable, gives up his life 996; — is laid on the pyre 1051.
 - vocative: violent one (Achilles on the slaughter of Patroclus) 851.
 - Hectoris: shining greaves cover Hector's legs, as is fitting 232; — his wife Andromache 565; — Teucer cuts down the charioteer of proud Hector 673–4; — Achilles drags Hector's wretched limbs three times round the tomb of Patroclus 1006; — Troy conquered by Hector's death 1040.  cf. Hectoreus.
 - Hectora: Ajax son of Telamon attacks Hector, famous in war 603; — the Trojans weep for Hector lost 1015.
@@ -289,11 +289,11 @@ PDF page 159.
 - Idomenei: Asius falls by the right hand of Idomeneus 774.
 - Ductor Rhythieus: the great-hearted leader from Rhytion kills Alcathous 777.
 - IGNIPOTENS cf. Vulcanus.
-- ILIACUS Iliaco pulvere: Helen feared when Menelaus was fouling Paris's hair with the dust of Ilium 323.
-- Iliacos campos: to make for the plains of Ilium with the army drawn up 128; — the same 160.
-- Iliacas acies: the lines of Ilium 655.
+- ILIACUS Iliaco pulvere: Helen feared when Menelaus was fouling Paris's hair with the Ilian dust 323.
+- Iliacos campos: to make for the Ilian plains with the army drawn up 128; — the same 160.
+- Iliacas acies: the Ilian lines 655.
 - ILIADES go up to the temple of Minerva 549.
-- — the mothers of Ilium stand round Hector's body 1052.
+- — the Ilian mothers stand round Hector's body 1052.
 - ILION cf. Troja.
 - IMBRASIDES cf. Pirous.
 - IPHIDAMAS Iphidamanta: Agamemnon kills Iphidamas 750.
@@ -306,10 +306,10 @@ PDF page 159.
 - Jovis nominative: calls the gods above into assembly 651.
 - Jovis genitive: offspring of great Jupiter (Apollo) 10; — offspring (Sarpedon) 248 and 520.
 - Genitor: the Father dismisses the council 107.
-- Pater nominative: the almighty Father calls Sleep 113; — the Saturnian sends Iris to Priam 223.
+- Pater nominative: the almighty Father calls Somnus 113; — the Saturnian sends Iris to Priam 223.
 - vocative: best (Hector prays) 572.
 - Regnator Olympi: the almighty ruler of Olympus holds a council 345.
-- Tonans Tonantis: receive the commands of the Thunderer (Sleep addresses Agamemnon) 124.
+- Tonans Tonantis: receive the commands of the Thunderer (Somnus addresses Agamemnon) 124.
 - Tonantem: angry Juno assails the Thunderer with words 104.
 
 ## p. 94
@@ -370,14 +370,14 @@ PDF page 161.
 - NASTES, distinguished, among the allies of the Trojans 241.
 - NEPTUNIUS Neptunia Troja: Neptune's Troy 250.
 - NEPTUNUS supplies courage and strength to the Greeks 772.
-- NEREIDES Nereidas: the Vulcanian had made the Nereids on the shield of Achilles 873 [and 863 bis].
+- NEREIDES Nereidas: Vulcan had made the Nereids on the shield of Achilles 873 [and 863 bis].
 - NEREIUS Cf. Achilles.
-- NEREUS [the Vulcanian had made Nereus on the shield of Achilles 864]; — on the same, great 871.
+- NEREUS [Vulcan had made Nereus on the shield of Achilles 864]; — on the same, great 871.
 - NESTOR, faithful, of skilful heart and mighty in counsel, leads ninety ships to Troy with his sons 176–7.
 - Nestoris: the prudence of Nestor, with the skill of age, calms the crowd 144; — his age is praised 154; — his age receives Diomedes and Ulysses, who, Dolon having been slaughtered, return to the camp 737.
 - NESTORIDES cf. Antilochus.
 - NIREUS makes for Troy with three ships 195.
-- OCEANUS Oceanum senem: the Vulcanian had made old Ocean on the shield of Achilles 872; [ — 864].
+- OCEANUS Oceanum senem: Vulcan had made old Ocean on the shield of Achilles 872; [ — 864].
 - OENIDES cf. Diomedes.
 - OILEUS cf. Ajax, son of Oileus.
 - OLYMPUS Olympi regnator: the ruler of Olympus (Jupiter) 345.
@@ -448,7 +448,7 @@ PDF page 162.
 - Pro Priamo: may Peleus move Achilles on behalf of Priam (Hector speaks) 987; see also « the pitiable, weary old age of an afflicted father » (Hector lost) 1020–1.
 - PROMACHUS Promachum: Acamas, son of Antenor, wounds Promachus the Boeotian 788.
 - PROTESILAUS leads forty ships to Troy 215.
-- PROTEUS Protea: Proteus, never the same (the Vulcanian had made him on the shield of Achilles) 872.
+- PROTEUS Protea: Proteus, never the same (Vulcan had made him on the shield of Achilles) 872.
 - PROTHOENOR, a Boeotian, among the leaders of the Greeks 168–9.
 - Prothoenora: Polydamas kills Prothoenor 786.
 - PROTHOUS, the Magnesian, son of Tenthredon, among the leaders of the Greeks 199.
@@ -475,7 +475,7 @@ PDF page 163.
 - STROPHIUS e Strophio genitum: Idomeneus slays the son of Strophius (namely Scamandrius) 431.
 - STYGIUS ad Stygias undas: to the Stygian waves 431.
 - SUME ab Sume: from Syme 195.
-- TARTARA ad Tartara: Diomedes sends Echemon to Tartarus 448.
+- TARTARA ad Tartara: Diomedes sends Echemmon to Tartarus 448.
 - TELAMO Telamone cf. Ajax son of Telamon.
 - TELAMONIUS cf. the same.
 - TENTHREDO Tenthredone cf. Prothous
@@ -500,7 +500,7 @@ PDF page 163.
 - Titana: when the day has brought forth the Titan 118.
 - TLEPOLEMUS the Rhodian leads nine ships to Troy 196; — son of great Hercules, is killed by Sarpedon 523.
 - TONANS cf. Juppiter.
-- TRITONES Tritones feros: the Vulcanian had made the fierce Tritons on the shield 874.
+- TRITONES Tritones feros: Vulcan had made the fierce Tritons on the shield 874.
 - TRITONIA cf. Minerva.
 - TROES cf. Trojani.
 - TROICUS Troica dextera: the Trojan right hand (Hector's hand) 819; ad Troica castra: to the Trojan camp 644–5.
@@ -508,12 +508,12 @@ PDF page 163.
 - TROJA Neptune's Troy defends itself with these leaders (whom our poet has just enumerated) 250; — the greatest, had promised Dolon the chariot of Achilles 719; — what Troy was preparing 727; — resounds with lamentation when Hector is lost 1016.
 - Trojae: the ruin of Troy (Paris) 253; Helen receives in her lap the flames of Troy and her own (namely Paris) 338.
 - Trojam: no one uglier than Thersites had come to Troy 137; — Troy restored in the Latin fields 900.
-- Ilion: the day on which Ilium would fall 153; — the flame with which Hector's body burned 1056.
+- Ilion: the day on which Ilion would fall 153; — the flame with which Hector's body burned 1056.
 - Pergama: to Pergama, how many ships each leader of the Greeks brought 164.
 - TROJANI Trojanis: the valour of the Trojans grows 387.
 - Trojana juventus: the Trojan youth gives way 542; — presses the Greeks 770.
 - Trojana manus: the Trojan band runs together 782.
-- Dardana pubes: the Dardan youth takes refuge at the Xanthus 905; — trembles at you alone (Priam addresses Achilles) 1029–30.
+- Dardana pubes: the Dardanian youth takes refuge at the Xanthus 905; — trembles at you alone (Priam addresses Achilles) 1029–30.
 - Dardanidae Dardanidum duces: the leaders of the Dardanids 743.
 
 ## p. 98
@@ -534,7 +534,7 @@ PDF page 164.
 - Troia pubes: the Trojan youth had sent Dolon to spy out the strength of the Greeks 704.
 - TROJANUS cf. Trojani, Apollo; salus Trojana: the safety of Troy 931; ad Trojana litora: to the Trojan shores 220.
 - TROS cf. Dolon.
-- TYDEIUS (of Diomedes) ensis: the sword of the son of Tydeus 453.
+- TYDEIUS (of Diomedes) ensis: the sword of Tydides 453.
 - TYDIDES cf. Diomedes.
 - ULIXES, known to all, carries Chryseis back to her country 65; — famous for his counsels, strikes Thersites with the sceptre 139; — the contriver of fraud kills seven young Trojans 527; — the contriver of fraud, when Hector challenges the leaders of the Greeks to arms, comes forward with the others 579; — catches sight of Dolon 707.
 - Ulixem: Diomedes chooses Ulysses as his companion 699.
@@ -546,8 +546,8 @@ PDF page 164.
 - Cytherea: covers Paris, fighting with Menelaus, with a mist 309; — will stand by me in my labour (Paris speaks) 335; — struck by the spear of Diomedes, makes for heaven 470.
 - VULCANIUS Vulcania arma: the arms of Vulcan 835, 961.
 - VULCANUS Vulcani: Thetis begs the help of Vulcan 856.
-- Ignipotens: the Fire-Lord had engraved the world on the shield 862.
-- Ignipotente interposito: when the Fire-Lord intervenes, the quarrel of Juno and Jupiter subsides 106.
+- Ignipotens: Ignipotens had engraved the world on the shield 862.
+- Ignipotente interposito: when Ignipotens intervenes, the quarrel of Juno and Jupiter subsides 106.
 - Mulciber: stirs up the fires of Etna 858.
 - XANTHUS, son of Phaenops.
 - Xanthum: Diomedes kills Xanthus, known in war 446.

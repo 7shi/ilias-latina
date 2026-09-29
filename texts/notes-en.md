@@ -47,7 +47,7 @@ correct it by hand.
 - [6] 1 Iram pande mihi Pelidae, Diva, superbi,
   - — (Baebius; Baebius): and the acrostic of vv. 1—8
   - Diva (Diva; goddess): Diva 1: the Muse
-  - Pelidae (Pelides; son of Peleus): -dae . . . superbi 1
+  - Pelidae (Pelides; Pelides): -dae . . . superbi 1
 
 2 Tristia quae miseris iniecit funera Grais
 - [2] 2 Tristia quae miseris injecit funera Graiis ,
@@ -104,7 +104,7 @@ correct it by hand.
   - Atrides (AGAMEMNON; Agamemnon): Atrides: the sceptre-bearer, angry with Achilles
 - [6] 8 Sceptriger Atrides et bello clarus Achilles.
   - Achilles (Achilles; Achilles): bello clarus -es 8
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): sceptriger -es 8
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): sceptriger -es 8
 
 9 Quis deus hos ira tristi contendere iussit?
 - [2] 9 Quis Deus hos ira tristi contendere jussit?
@@ -196,7 +196,7 @@ correct it by hand.
   - Atridae (AGAMEMNON; Agamemnon): Atridae genitive: Chryses, cast down at his knees
   - Danaum (GRAI; Greeks): Danaum: Chryses makes for the camp of the Danaans
 - [6] 19 castra petit Danaum genibusque affusus Atridae
-  - Atridae (Atrides (Agamemno); son of Atreus (Agamemnon)): -dae gen.: 19
+  - Atridae (Atrides (Agamemno); Atrides (Agamemnon)): -dae gen.: 19
   - Danaum (Danai; Danaans): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 
 20 per superos regnique decus miserabilis orat,
@@ -238,7 +238,7 @@ correct it by hand.
   - Atrides (AGAMEMNON; Agamemnon): — refuses to give back Chryseis
   - Chrysen (CHRYSES; Chryses): Chrysen: Agamemnon orders Chryses to leave the camp
 - [6] 24 sed negat Atrides Chrysenque excedere castris
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): -es 24. 510(?) 663
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): -es 24. 510(?) 663
   - Chrysen (Chryses; Chryses): -en 24
 
 25 despecta pietate iubet: ferus ossibus imis
@@ -446,7 +446,7 @@ correct it by hand.
   - Thestoriden (CALCHAS; Calchas): Thestorides Thestoriden: Achilles urges the son of Thestor to declare the causes of the plague
 - [6] 52 edere Thestoriden. tunc Calchas numina divum
   - Calchas (Calchas; Calchas): Calchas the seer: 52. 152
-  - Thestoriden (Thestorides; son of Thestor): Thestoriden 52. 59: Calchas
+  - Thestoriden (Thestorides; Thestorides): Thestoriden 52. 59: Calchas
 
 53 consulit et causam pariter finemque malorum
 - [2] 53 Consulit,et caussas pariter finemque malorum
@@ -502,7 +502,7 @@ correct it by hand.
 - [4] 59 Thestoriden dictis primum compellat amaris
   - Thestoriden (CALCHAS; Calchas): — Agamemnon assails him with bitter words
 - [6] 59 Thestoriden dictis primum compellat amaris
-  - Thestoriden (Thestorides; son of Thestor): Thestoriden 52. 59: Calchas
+  - Thestoriden (Thestorides; Thestorides): Thestoriden 52. 59: Calchas
 
 60 mendacemque uocat. Tum magnum incusat Achillem
 - [2] 60 Mendacemque vocat, magnumque incusat Achillem,
@@ -593,7 +593,7 @@ correct it by hand.
   - Atridae (AGAMEMNON; Agamemnon): Atridae dative: his passion for Chryseis does not leave him
   - Chryseidis (CHRYSEIS; Chryseis): Chryseidis: Agamemnon's passion for Chryseis does not leave him
 - [6] 70 non tamen Atridae Chryseidos excidit ardor:
-  - Atridae (Atrides (Agamemno); son of Atreus (Agamemnon)): -dae dat.: (-di in part of the manuscripts) 70
+  - Atridae (Atrides (Agamemno); Atrides (Agamemnon)): -dae dat.: (-di in part of the manuscripts) 70
   - Chryseidos (Chryseis; Chryseis): -dos (-dis trad.) . . . ardor 70
 
 71 maeret et amissos deceptus luget amores.
@@ -626,7 +626,7 @@ correct it by hand.
 - [4] 74 At ferus Aeacides nudato protinus ense
   - Aeacides (ACHILLES; Achilles): Aeacides: fierce, makes for Agamemnon with drawn sword
 - [6] 74 at ferus Aeacides nudato protinus ense
-  - Aeacides (Aeacides (Achilles); descendant of Aeacus (Achilles)): ferus -es 74. [844]
+  - Aeacides (Aeacides (Achilles); Aeacides (Achilles)): ferus -es 74. [844]
 
 75 tendit in Atriden et, ni sibi reddat honestae
 - [2] 75 Tendit in Atriden , cui , ni sibi reddat honestae
@@ -634,7 +634,7 @@ correct it by hand.
 - [4] 75 Tendit in Atriden et, ni sibi reddat honestae
   - Atriden (AGAMEMNON; Agamemnon): In Atriden: Achilles makes for the son of Atreus
 - [6] 75 tendit in Atriden et, ni sibi reddat honestae
-  - Atriden (Atrides (Agamemno); son of Atreus (Agamemnon)): -dēn 75
+  - Atriden (Atrides (Agamemno); Atrides (Agamemnon)): -dēn 75
 
 76 munera militiae, letum crudele minatur,
 - [2] 76 Munera militiae , letum crudele minatur.
@@ -690,7 +690,7 @@ correct it by hand.
 - [4] 81 Invocat aequoreae Pelides numina matris,
   - Pelides (ACHILLES; Achilles): Pelides: invokes the divinity of his mother
 - [6] 81 invocat aequoreae Pelides numina matris,
-  - Pelides (Pelides; son of Peleus): Pelides 81
+  - Pelides (Pelides; Pelides): Pelides 81
   - numina (Thetis; Thetis): cf. aequoreae . . . numina matris 81
 
 82 ne se Plistheniden contra patiatur inultum.
@@ -761,7 +761,7 @@ correct it by hand.
   - Atrida (AGAMEMNON; Agamemnon): Ab Atrida: Thetis prays that Jupiter may avenge her and her son on the son of Atreus
 - [6] 90 pignus ab Atrida. quodsi permittitur illi,
   - pignus (Achilles; Achilles): meum . . . pignus 90
-  - Atrida (Atrides (Agamemno); son of Atreus (Agamemnon)): -dā abl.: 90
+  - Atrida (Atrides (Agamemno); Atrides (Agamemnon)): -dā abl.: 90
 
 91 ut flammas impune mei uiolarit Achillis,
 - [2] 90 Ut flammas impune mei violarit Achillis,
@@ -889,9 +889,9 @@ correct it by hand.
   - … and Vulcan is understood. For he intervened between Jove and Juno quarreling, and by encouragement and offering many cups appeased his parents and turned them to cheerfulness. So Hom. *Iliad* I, 571: Τοῖσιν δ᾽ Ἥφαιστος κλυτοτέχνης ἦρχ᾽ ἀγορεύειν. Moreover, Vulcan is called *Ignipotens* by our author and other poets. Below, v. 867: « Illic Ignipotens mundi caelaverat axem »; and Virgil, *Aen.* VIII, 414: « Haud secus Ignipotens, nec tempore segnior illo »; to which must be added that of *Aen.* X, 243: « clypeum cape quem dedit ipse Invictum Ignipotens, etc. » Ed.
 - [3] 106 Tandem interposito lis Ignipotente resedit,
 - [4] 106 Tandem interposito lis Ignipotente resedit,
-  - Ignipotente (VULCANUS; Vulcan): Ignipotente interposito: when the Fire-Lord intervenes, the quarrel of Juno and Jupiter subsides
+  - Ignipotente (VULCANUS; Vulcan): Ignipotente interposito: when Ignipotens intervenes, the quarrel of Juno and Jupiter subsides
 - [6] 106 tandem interposito lis Ignipotente resedit
-  - Ignipotente (Ignipotens; the Fire-Lord): *-nte (omnipot- trad.) 106: Vulcan
+  - Ignipotente (Ignipotens; Ignipotens): *-nte (omnipot- trad.) 106: Vulcan
 
 107 conciliumque simul genitor dimittit Olympi.
 - [2] 106 Conciliumque simul genitor dimittir ab aula.
@@ -946,10 +946,10 @@ correct it by hand.
 - [2] 112 Tunc pater omnipotens Somnum vocat,atque ita fatur :
 - [3] 113 Cum pater omnipotens somnum uocat atque ita fatur:
 - [4] 113 Cum pater omnipotens somnum vocat atque ita fatur :
-  - pater (JUPPITER; Jupiter): Pater nominative: the almighty Father calls Sleep
+  - pater (JUPPITER; Jupiter): Pater nominative: the almighty Father calls Somnus
 - [6] 113 cum pater omnipotens Somnum vocat atque ita fatur:
   - pater (Iuppiter; Jupiter): pater omnipotens 113
-  - Somnum (Somnus; Sleep): -um 113
+  - Somnum (Somnus; Somnus): -um 113
 
 114 "Vade age per tenues auras, lenissime diuum,
 - [2] 113 « Vade, age, per tenues auras, lenissime Divum ,
@@ -957,13 +957,13 @@ correct it by hand.
 - [3] 114 'Vade age per tenues auras, lenissime diuum,
 - [4] 114 « Vade age per tenues auras, lenissime divum,
 - [6] 114 'vade age per tenues auras, lenissime divum,
-  - divum (Somnus; Sleep): cf. lenissime divum 114
+  - divum (Somnus; Somnus): cf. lenissime divum 114
 
 115 Argolicique ducis celeri pete castra uolatu
 - [2] 114 Argolicique ducis celeri pete castra volatu,
 - [3] 115 Argolicique ducis celeri pete castra uolatu;
 - [4] 115 Argolicique ducis celeri pete castra volatu;
-  - Argolici (AGAMEMNON; Agamemnon): Argolicus dux: « make for the camp of the Argive leader in your flight » (Jupiter addresses Sleep)
+  - Argolici (AGAMEMNON; Agamemnon): Argolicus dux: « make for the camp of the Argive leader in your flight » (Jupiter addresses Somnus)
   - Argolici (ARGOLICUS; Argive): Argolici ducis
 - [6] 115 Argolicique ducis celeri pete castra volatu
   - Argolici (Argolicus; Argive): Argolici . . . ducis 115: Agamemnon's
@@ -1001,13 +1001,13 @@ correct it by hand.
 - [3] 120 Nec mora: somnus abit leuibusque per aera pennis
 - [4] 120 Nec mora : somnus abit levibusque per aera pennis
 - [6] 120 nec mora, Somnus abit levibusque per aera pennis
-  - Somnus (Somnus; Sleep): Somnus 120
+  - Somnus (Somnus; Somnus): Somnus 120
 
 121 deuolat in thalamos Agamemnonis: ille sopore
 - [2] 120 Devolat in thalamos Agamemnonis : ille sopore
 - [3] 121 Deuolat in thalamos Agamemnonis: ille sopore
 - [4] 121 Devolat in thalamos Agamemnonis : ille sopore
-  - Agamemnonis (AGAMEMNON; Agamemnon): Agamemnonis: Sleep, sent by Jupiter, flies down into the chamber of Agamemnon
+  - Agamemnonis (AGAMEMNON; Agamemnon): Agamemnonis: Somnus, sent by Jupiter, flies down into the chamber of Agamemnon
 - [6] 121 devolat in thalamos Agamemnonis: ille sopore
   - Agamemnonis (Agamemnon; Agamemnon): -onis 121. 795
 
@@ -1024,18 +1024,18 @@ correct it by hand.
 - [3] 123 Ad quem sic loquitur curarum operumque leuator:
 - [4] 123 Ad quem sic loquitur curarum operumque levator :
 - [6] 123 ad quem sic loquitur curarum operumque levator:
-  - levator (Somnus; Sleep): curarum operumque levator 123
+  - levator (Somnus; Somnus): curarum operumque levator 123
 
 124 "Rex Danaum, Atrida, uigila et mandata Tonantis
 - [2] 123 «RexDanaum, Atrida, vigila, et mandata Tonantis,
 - [3] 124 'Rex Danaum Atride, uigila et mandata Tonantis,
 - [4] 124 « Rex Danaum Atride, vigila et mandata Tonantis,
-  - Atride (AGAMEMNON; Agamemnon): Atride: king of the Danaans (Sleep, sent by Jupiter, speaks)
+  - Atride (AGAMEMNON; Agamemnon): Atride: king of the Danaans (Somnus, sent by Jupiter, speaks)
   - Danaum (GRAI; Greeks): — king (Agamemnon)
-  - Tonantis (JUPPITER; Jupiter): Tonans Tonantis: receive the commands of the Thunderer (Sleep addresses Agamemnon)
+  - Tonantis (JUPPITER; Jupiter): Tonans Tonantis: receive the commands of the Thunderer (Somnus addresses Agamemnon)
 - [6] 124 'rex Danaum Atrida, vigila et mandata Tonantis,
   - rex (Agamemnon; Agamemnon): and cf. rex Danaum 124. 496
-  - Atrida (Atrides (Agamemno); son of Atreus (Agamemnon)): voc.: rex Danaum -da (-de in others) 124
+  - Atrida (Atrides (Agamemno); Atrides (Agamemnon)): voc.: rex Danaum -da (-de in others) 124
   - Danaum (Danai; Danaans): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
   - Tonantis (Tonans; the Thunderer): mandata Tonantis 124
 
@@ -1067,10 +1067,10 @@ correct it by hand.
   - *Et petere Iliacos* [And to make for the Ilian...]. The author repeats this verse below at v. 159, which he does quite often, following the example of Homer himself, whom he abridges.
 - [3] 128 Et petere Iliacos instructo milite campos.'
 - [4] 128 Et petere Iliacos instructo milite campos. »
-  - Iliacos (ILIACUS; of Ilium): Iliacos campos: to make for the plains of Ilium with the army drawn up
+  - Iliacos (ILIACUS; Ilian): Iliacos campos: to make for the Ilian plains with the army drawn up
 - [6] 128 et petere Iliacos instructo milite campos.'
   - (testimonia) cf. *Gesta Ber.* 3, 37
-  - Iliacos (Iliacus; of Ilium): -cos . . . campos 128. 160
+  - Iliacos (Iliacus; Ilian): -cos . . . campos 128. 160
 
 129 Dixit, et has repetit per quas modo uenerat auras.
 - [2] 128 Dixity et has repetit, per quas modo venerat, auras.
@@ -1093,7 +1093,7 @@ correct it by hand.
   - Pelopeius (AGAMEMNON; Agamemnon): Pelopeius heros: calls the leaders together
 - [6] 131 convocat attonitus iussis Pelopeius heros
   - iussis … cf. Virgil, Aen. 3, 172
-  - Pelopeius (Pelopeius; descendant of Pelops): Pelopeius heros 131. 739: Agamemnon
+  - Pelopeius (Pelopeius; Pelopeian): Pelopeius heros 131. 739: Agamemnon
 
 132 in coetum proceres remque omnibus ordine pandit:
 - [2] 131 In coetum proceres, remque omnibus ordine pandit
@@ -1257,10 +1257,10 @@ correct it by hand.
 - [3] 153 Quo cadet ec Danaum uictricibus Ilion armis.'
 - [4] 153 Quo caderet Danaum victricibus Ilion armis. »
   - Danaum (GRAI; Greeks): — Troy would fall to the victorious arms of the Danaans
-  - Ilion (TROJA; Troy): Ilion: the day on which Ilium would fall
+  - Ilion (TROJA; Troy): Ilion: the day on which Ilion would fall
 - [6] 153 quo caderet Danaum victricibus Ilion armis
   - Danaum (Danai; Danaans): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
-  - Ilion (Ilion; Ilium): Ilĭŏn 153. 1056
+  - Ilion (Ilion; Ilion): Ilĭŏn 153. 1056
 
 154 Assensere omnes, laudatur Nestoris aetas
 - [2] 153 Adsensere omnes, laudatur Nestoris aetas:
@@ -1305,16 +1305,16 @@ correct it by hand.
 - [4] 159 Protinus armari socios jubet acer Atrides
   - Atrides (AGAMEMNON; Agamemnon): — keen, orders his comrades to arm
 - [6] 159 protinus armari socios iubet acer Atrides
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): acer -es 159
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): acer -es 159
 
 160 et petere Iliacos instructo milite campos.
 - [2] 159 Et petere Iliacos instructo milite campos.
   - … Verse 127 is repeated. …
 - [3] 160 Et petere Iliacos instructo milite campos.
 - [4] 160 Et petere Iliacos instructo milite campos.
-  - Iliacos (ILIACUS; of Ilium): — the same
+  - Iliacos (ILIACUS; Ilian): — the same
 - [6] 160 et petere Iliacos instructo milite campos.
-  - Iliacos (Iliacus; of Ilium): -cos . . . campos 128. 160
+  - Iliacos (Iliacus; Ilian): -cos . . . campos 128. 160
 
 161 Vos mihi nunc, Musae - quid enim non ordine nostis? -,
 - [2] 160 Vos mihi nunc, Musae, quid enim non ordine nostis?
@@ -1527,7 +1527,7 @@ correct it by hand.
 - [3] 185 Tydides ualido pulsantes remige fluctus
 - [4] 185 Tydides valido pulsarunt remige fluctus
 - [6] 185 Tydides valido pulsarunt remige pontum:
-  - Tydides (Tydides; son of Tydeus): fortis in armis -des 185
+  - Tydides (Tydides; Tydides): fortis in armis -des 185
 
 186 bis quadragenas onerarunt milite puppes;
 - [2] 185 Bisque quadragenas onerarunt milite puppes:
@@ -1631,7 +1631,7 @@ correct it by hand.
   - Eumelus (EUMELUS; Eumelus): keen in strength, leads one ship fewer than the son of Telamon
   - Tlepolemus (TLEPOLEMUS; Tlepolemus): the Rhodian leads nine ships to Troy
 - [6] 196 Tlepolomusque novem Rhodius, quos viribus acer
-  - Rhodius (Rhodius; the Rhodian): Tlepolemus . . . Rhodius 196
+  - Rhodius (Rhodius; of Rhodes): Tlepolemus . . . Rhodius 196
   - Tlepolomus (Tlepolomus; Tlepolemus): *Tlepolomus . . . Rhodius 196
 
 197 Eumelus sequitur, minus una naue profectus
@@ -1651,7 +1651,7 @@ correct it by hand.
   - Ajax (AJAX Telamonis filius; Ajax, son of Telamon): — the Salaminian sprung from Telamon, leads one ship more than Eumelus
 - [6] 198 quam duxit Telamone satus Salaminius Aiax.
   - Aiax (Aiax (Telamonius); Ajax (son of Telamon)): Telamone satus Salaminius Aiax 198
-  - Salaminius (Salaminius; the Salaminian): Telamone satus Salaminius Aiax 198
+  - Salaminius (Salaminius; of Salamis): Telamone satus Salaminius Aiax 198
   - Telamone (Telamon; Telamon): Telamone satus . . . Aiax 198
 
 199 Ast Prothous Magnes Tenthredone natus et una
@@ -1662,7 +1662,7 @@ correct it by hand.
   - At Prothous … (ibid. 756). … Magnes … (ibid.). …
   - Prothous (PROTHOUS; Prothous): the Magnesian, son of Tenthredon, among the leaders of the Greeks
 - [6] 199 ast Prothous Magnes Tenthredone natus et una
-  - Magnes (Magnes; the Magnesian): Prothous *Magnes 199
+  - Magnes (Magnes; Magnesian): Prothous *Magnes 199
   - Prothous (Prothous; Prothous): *Prothous Magnes Tenthredone natus 199
   - Tenthredone (Tenthredon; Tenthredon): Prothous Magnes *Tenthredone natus 199
 
@@ -1720,7 +1720,7 @@ correct it by hand.
   - Ajax (AJAX Telamonis filius; Ajax, son of Telamon): — the son of Telamon, mighty in outstanding valour, makes for Troy with twelve ships
 - [6] 205 quem sequitur totidem ratibus Telamonius Aiax,
   - Aiax (Aiax (Telamonius); Ajax (son of Telamon)): Telamonius -ax 205. 363. 602. 623. 787. 836
-  - Telamonius (Telamonius; son of Telamon): Telamonius Aiax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius; Telamonian): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 206 egregia uirtute potens; simul horrida Guneus
 - [2] 205 Egregia virtute poLens : simul ordine Guneus
@@ -1915,7 +1915,7 @@ correct it by hand.
   - Hector (HECTOR; Hector): nominative: the son of Priam takes up arms at his father's command
 - [6] 226 Priamides Hector totamque in proelia pubem
   - Hector (Hector; Hector): Priamides -or 226
-  - Priamides (Priamides; son of Priam): -es Hector 226
+  - Priamides (Priamides; Priamides): -es Hector 226
   - pubem (Troianus; Trojan): 226 pubem
 
 227 festinare iubet portisque agit agmen apertis.
@@ -2002,8 +2002,8 @@ correct it by hand.
 - [3] 237 Archilochusque Acamasque ferox Antenore creti.
 - [4] 237 Archilochusque Acamasque ferox Antenore creti.
   - Acamas (ACAMAS Antenoris filius; Acamas, son of Antenor): — fierce, sprung from Antenor
-  - Antenore (ANTENOR; Antenor): Antenore creti: Archilochus and Acamas, sprung from Antenor
-  - Archilochus (ARCHILOCHUS; Archilochus): sprung from Antenor, with the other leaders of the Trojans
+  - Antenore (ANTENOR; Antenor): Antenore creti: Archelochus and Acamas, sprung from Antenor
+  - Archilochus (ARCHILOCHUS; Archelochus): sprung from Antenor, with the other leaders of the Trojans
 - [6] 237 Archelochusque Acamasque ferox Antenore creti.
   - Acamas (Acamas 1; Acamas 1): Acamas, son of Antenor, a Trojan 237
   - Antenore (Antenor 1; Antenor 1): Archelochusque Acamasque ferox Antenore creti 237: the Trojan
@@ -2062,7 +2062,7 @@ correct it by hand.
 - [4] 242 Magnanimique duces Hodiusque et Epistrophus ingens
   - **242, 243, 244** Hodius, Pyraechmes, Mesthles … (ibid. 856, 848, 864).
   - Epistrophus (EPISTROPHUS Halizonum dux; Epistrophus, leader of the Halizonians): — huge, great-hearted leader
-  - Hodius (HODIUS; Hodius): great-hearted leader among the auxiliaries of the Trojans
+  - Hodius (HODIUS; Odius): great-hearted leader among the auxiliaries of the Trojans
 - [6] 242 magnanimique duces Odiusque et Epistrophus ingens
   - Epistrophus (Epistrophus 2; Epistrophus 2): Epistrophus ingens 242: leader of the Halizonians on the Trojan side
   - Odius (Odius; Odius): Odius . . . et Epistrophus 242: leaders of the Halizonians
@@ -2306,7 +2306,7 @@ correct it by hand.
   - Atrides (MENELAUS; Menelaus): Atrides: tireless, let him meet Paris in arms
   - Phrygum (TROJANI; Trojans): Phrygum: the people of the Phrygians
 - [6] 268 impiger Atrides: spectet Danaumque Phrygumque
-  - Atrides (Atrides (Menelaus); son of Atreus (Menelaus)): impiger -des 268
+  - Atrides (Atrides (Menelaus); Atrides (Menelaus)): impiger -des 268
   - Danaum (Danai; Danaans): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
   - Phrygum (Phryges; Phrygians): -gum . . . populus 268
 
@@ -2336,7 +2336,7 @@ correct it by hand.
 - [4] 271 Dixit ; quem contra paucis Priameius heros
   - Priameius (PARIS; Paris): Priameius heros: the hero son of Priam answers Hector briefly
 - [6] 271 dixit. quem contra paucis Priameius heros
-  - Priameius (Priameius; son of Priam): Priameius heros: Paris 271, Hector 960
+  - Priameius (Priameius; of Priam): Priameius heros: Paris 271, Hector 960
 
 272 "Quid nimis indignis" - inquit - "me uocibus urges,
 - [2] 272 «Quid nimis indignis, inquit, me vocibus urges,
@@ -2482,7 +2482,7 @@ correct it by hand.
 - [4] 290 Hastam deinde jacit, quam devitavit Atrides.
   - Atrides (MENELAUS; Menelaus): — avoids Paris's spear
 - [6] 290 hastam deinde iacit; quam devitavit Atrides
-  - Atrides (Atrides (Menelaus); son of Atreus (Menelaus)): -des 290. 301. 332. 349. (510?)
+  - Atrides (Atrides (Menelaus); Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
 
 291 inque uicem misso fixisset corpora telo
 - [2] 291 Inque vicemi misso fixisset pectora telo
@@ -2560,7 +2560,7 @@ correct it by hand.
 - [4] 301 Cum memor Atrides raptae sibi conjugis instat
   - Atrides (MENELAUS; Menelaus): — mindful of his wife carried off, presses on
 - [6] 301 cum memor Atrides raptae sibi coniugis instat
-  - Atrides (Atrides (Menelaus); son of Atreus (Menelaus)): -des 290. 301. 332. 349. (510?)
+  - Atrides (Atrides (Menelaus); Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
   - coniugis (Helene; Helen): coniunx 273. 276. 285. 301
 
 302 Dardaniumque premit iuuenem. Mox ense rigente
@@ -2621,7 +2621,7 @@ correct it by hand.
 - [4] 309 Texisset Cytherea virum subjectaque mento
   - Cytherea (VENUS; Venus): Cytherea: covers Paris, fighting with Menelaus, with a mist
 - [6] 309 texisset Cytherea virum subiectaque mento
-  - Cytherea (Cytherea; the Cytherean): Cythereă 309. 335. 470: Venus
+  - Cytherea (Cytherea; Cytherea): Cythereă 309. 335. 470: Venus
   - virum (Paris; Paris): virum 309
 
 310 fortia rupisset laxatis uincula nodis,
@@ -2725,16 +2725,16 @@ correct it by hand.
 - [4] 322 Arreptum cum te traheret violentus Atrides
   - Atrides (MENELAUS; Menelaus): — violent (Helen addresses Paris)
 - [6] 322 arreptum cum te traheret violentus Atrides
-  - Atrides (Atrides (Menelaus); son of Atreus (Menelaus)): violentus -es 322
+  - Atrides (Atrides (Menelaus); Atrides (Menelaus)): violentus -es 322
 
 323 Iliacoque tuos foedaret puluere crines.
 - [2] 323 Iliacoque tuos foedaret pulvere crines :
   - *Pulvere crines* [Hair with dust]. Virg. Aeneid XII, 99; Ovid, Metam. VIII, 529.
 - [3] 323 Iliacoque tuos foedaret puluere crines.
 - [4] 323 Iliacoque tuos foedaret pulvere crines.
-  - Iliaco (ILIACUS; of Ilium): Iliaco pulvere: Helen feared when Menelaus was fouling Paris's hair with the dust of Ilium
+  - Iliaco (ILIACUS; Ilian): Iliaco pulvere: Helen feared when Menelaus was fouling Paris's hair with the Ilian dust
 - [6] 323 Iliacoque tuos foedaret pulvere crines.
-  - Iliaco (Iliacus; of Ilium): Iliaco . . . pulvere 323
+  - Iliaco (Iliacus; Ilian): Iliaco . . . pulvere 323
 
 324 Nostraque - me miseram! - timui ne Doricus ensis
 - [2] 324 Nostraque ( me miseram ! ) timui ne Doricus ensis
@@ -2764,7 +2764,7 @@ correct it by hand.
 - [4] 327 Quis tibi cum saevo suasit contendere Atrida?
   - Atrida (MENELAUS; Menelaus): Cum Atrida: who persuaded you to contend with the savage son of Atreus? (Helen addresses Paris)
 - [6] 327 quis te cum saevo contendere suasit Atrida?
-  - Atrida (Atrides (Menelaus); son of Atreus (Menelaus)): cum saevo . . . -da 327
+  - Atrida (Atrides (Menelaus); Atrides (Menelaus)): cum saevo . . . -da 327
 
 328 An nondum uaga fama tuas peruenit ad aures
 - [2] 328 An nondum vaga fama tuas pervenit ad aures
@@ -2800,7 +2800,7 @@ correct it by hand.
   - Alexander (PARIS; Paris): — sad, answers Helen
 - [6] 332 tristis Alexander 'non me superavit Atrides,
   - Alexander (Alexander; Alexander): -er 332
-  - Atrides (Atrides (Menelaus); son of Atreus (Menelaus)): -des 290. 301. 332. 349. (510?)
+  - Atrides (Atrides (Menelaus); Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
 
 333 o meus ardor" - ait - "sed castae Palladis ira.
 - [2] 333 O meus ardor, ait, sed castae Palladis ira.
@@ -2823,7 +2823,7 @@ correct it by hand.
 - [4] 335 Aspicies, aderitque meo Cytherea labori. »
   - Cytherea (VENUS; Venus): — will stand by me in my labour (Paris speaks)
 - [6] 335 aspicies aderitque meo Cytherea labori.'
-  - Cytherea (Cytherea; the Cytherean): Cythereă 309. 335. 470: Venus
+  - Cytherea (Cytherea; Cytherea): Cythereă 309. 335. 470: Venus
 
 336 Post haec amplexus per mutua corpora iunctis
 - [2] 336 Post haec ampiexu per mutua corpora juncto
@@ -2839,7 +2839,7 @@ correct it by hand.
 - [4] 337 Incubuit membris Cygneidos; illa soluto
   - Cygneidos (HELENA; Helen): Cygneis Cygneidos: Paris lies on the limbs of the daughter of the Swan
 - [6] 337 incubuit membris Cygneidos; illa soluto
-  - Cygneidos (Cygneis; daughter of the Swan): Cygneidos (-dus in part of the manuscripts) 337: Helen
+  - Cygneidos (Cygneis; Cygneis): Cygneidos (-dus in part of the manuscripts) 337: Helen
 
 338 accepit flammas gremio Troiaeque suasque.
 - [2] 338 Accepit flammas gremio Trojaeque, suasque.
@@ -2942,7 +2942,7 @@ correct it by hand.
 - [4] 349 Dissecat : excedit pugna gemebundus Atrides
   - Atrides (MENELAUS; Menelaus): — groaning, since he has been wounded by the weapons of Pandarus, withdraws from the fight
 - [6] 349 dissecat: excedit pugna gemebundus Atrides
-  - Atrides (Atrides (Menelaus); son of Atreus (Menelaus)): -des 290. 301. 332. 349. (510?)
+  - Atrides (Atrides (Menelaus); Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
 
 350 castraque tuta petit, quem doctus ab arte paterna
 - [2] 350 Castraque tuta petit; quem doctus ab arte paterna
@@ -3033,7 +3033,7 @@ correct it by hand.
 - [3] 360 Occidit Antilochi rigido demersus ad umbras
 - [4] 360 Occidit Antilochi rigido demissus ad umbras
   - Antilochi (ANTILOCHUS; Antilochus): Antilochi: the son of Thalysius (Echepolus) is killed by the sword of Antilochus
-  - Thalysiades (THALYSIADES; son of Thalysius): (Echepolus) is killed by Antilochus
+  - Thalysiades (THALYSIADES; Thalysiades): (Echepolus) is killed by Antilochus
 - [6] 360 occidit Antilochi rigido demersus in umbras
   - Antilochi (Antilochus; Antilochus): Antilochi . . . -ense 360
 
@@ -3043,7 +3043,7 @@ correct it by hand.
 - [4] 361 Ense Thalysiades optataque lumina linquit.
   - Thalysiades … (Iliad IV, 458).
 - [6] 361 ense Thalysiades optataque lumina linquit.
-  - Thalysiades (Thalysiades; son of Thalysius): *Thalysiades (tales(t)- trad.) 361: Echepolus
+  - Thalysiades (Thalysiades; Thalysiades): *Thalysiades (tales(t)- trad.) 361: Echepolus
 
 362 Inde manu forti Graiorum terga prementem
 - [2] 362 Inde manu forti Graiorum terga prementem
@@ -3064,7 +3064,7 @@ correct it by hand.
 - [6] 363 occupat Anthemione satum Telamonius Aiax
   - Aiax (Aiax (Telamonius); Ajax (son of Telamon)): Telamonius -ax 205. 363. 602. 623. 787. 836
   - Anthemione (Anthemion; Anthemion): *Anthemione satum 363: Simoisius, a Trojan
-  - Telamonius (Telamonius; son of Telamon): Telamonius Aiax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius; Telamonian): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 364 et praedurato transfixit pectora telo:
 - [2] 364 Et praedurato transfigit pectora telo.
@@ -3104,7 +3104,7 @@ correct it by hand.
 - [4] 368 Torquet in Ajacem : telumque erravit ab hoste
   - Ajacem (AJAX Telamonis filius; Ajax, son of Telamon): In Ajacem: Antiphus hurls his spear against Ajax
 - [6] 368 torquet in Aeaciden: telumque erravit ab hoste
-  - Aeaciden (Aeacides (Aiax Telamonius); descendant of Aeacus (Ajax son of Telamon)): -den 368
+  - Aeaciden (Aeacides (Aiax Telamonius); Aeacides (Ajax son of Telamon)): -den 368
   - Aeaciden (Aiax (Telamonius); Ajax (son of Telamon)): -acem see Aeaciden 368. 628
 
 369 inque hostem cecidit, transfixit et inguina Leucon:
@@ -3139,8 +3139,8 @@ correct it by hand.
 - [4] 372 Impiger Atrides casu commotus amici
   - Atrides (AGAMEMNON; Agamemnon): — tireless, attacks Democoon
 - [6] 372 † impiger † Atrides casu concussus amici
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): [impiger -es 372]
-  - Atrides (Laertiades; son of Laertes): *Laertiades (atrides trad.) 372: Ulysses
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): [impiger -es 372]
+  - Atrides (Laertiades; Laertiades): *Laertiades (atrides trad.) 372: Ulysses
 
 373 Democoonta petit teloque aduersa trabali
 - [2] 373 Democoonta petit , teloque adversa trabali
@@ -3181,7 +3181,7 @@ correct it by hand.
   - Jamque Amarynciden … (Iliad IV, 517).
   - Amarynciden (DIORES; Diores): Amaryncides Amarynciden: Pirous kills the son of Amarynceus
 - [6] 377 iamque Amarynciden saxi deiecerat ictu
-  - Amarynciden (Amaryncides; son of Amarynceus): *Amaryncīden 377
+  - Amarynciden (Amaryncides; Amaryncides): *Amaryncīden 377
 
 378 Pirous Imbrasides dederatque silentibus umbris;
 - [2] 378 Impiger Imbrasides, dederatque silentibus umbris;
@@ -3190,7 +3190,7 @@ correct it by hand.
   - Pirous … (ibid. 520).
   - Pirous (PIROUS; Pirous): — the son of Imbrasus kills Diores, son of Amarynceus
 - [6] 378 impiger Imbrasides dederatque silentibus umbris:
-  - Imbrasides (Imbrasides; son of Imbrasus): impiger *Imbrasides (umbr- trad.) 378: Pirous
+  - Imbrasides (Imbrasides; Imbrasides): impiger *Imbrasides (umbr- trad.) 378: Pirous
 
 379 dumque auidus praedae iuuenem spoliare parabat,
 - [2] 379 Dum cupidus praedae juvenem spoliare parabat,
@@ -3283,7 +3283,7 @@ correct it by hand.
   - Martem (MARS; Mars): Martem: Diomedes sees Mars swelling and growing
 - [6] 390 agmina Tydides tumidumque increscere Martem,
   - Martem (Mars; Mars): tumidumque increscere Martem, i.e. war, 390
-  - Tydides (Tydides; son of Tydeus): Tydides 390. 408. 530. 665. 1008
+  - Tydides (Tydides; Tydides): Tydides 390. 408. 530. 665. 1008
 
 391 in medias acies, qua plurimus imminet hostis,
 - [2] 391 In medias acies, qua plurimus imminet hostis,
@@ -3419,7 +3419,7 @@ correct it by hand.
 - [4] 408 Ingentem torquet Tydides viribus hastam
   - Tydides (DIOMEDES; Diomedes): — kills Phegeus
 - [6] 408 ingentem torquet Tydides viribus hastam
-  - Tydides (Tydides; son of Tydeus): Tydides 390. 408. 530. 665. 1008
+  - Tydides (Tydides; Tydides): Tydides 390. 408. 530. 665. 1008
 
 409 transadigitque uiri pectus: pars cuspidis ante
 - [2] 409 Transadigitque viri pectus : pars cuspidis ante
@@ -3469,13 +3469,13 @@ correct it by hand.
 - [3] 415 Sed neque uim saeui nec fortia sustinet arma
 - [4] 415 Sed neque vim saevi nec fortia sustinet arma
 - [6] 415 sed neque vim saevi nec fortia sustinet arma
-  - Tydidae (Tydides; son of Tydeus): saevi . . . -dae 415
+  - Tydidae (Tydides; Tydides): saevi . . . -dae 415
 
 416 Tydidae contraque tamen defendere temptat.
 - [2] 416 Tydidae , contraque tamen defendere tentat.
 - [3] 416 Tydidae contraque tamen defendere temptat.
 - [4] 416 Tydidae contraque tamen defendere temptat.
-  - Tydidae (DIOMEDES; Diomedes): Tydidae: Idaeus does not withstand the strong arms of the savage son of Tydeus
+  - Tydidae (DIOMEDES; Diomedes): Tydidae: Idaeus does not withstand the strong arms of the savage Tydides
 - [6] 416 Tydidae contraque tamen defendere temptat.
 
 417 Vt uolucris, discerpta sui cum corpora nati
@@ -3531,7 +3531,7 @@ correct it by hand.
   - Atrides (AGAMEMNON; Agamemnon): — rages in arms against the Trojans
   - Teucros (TROJANI; Trojans): In Teucros: Agamemnon rages against the Teucrians
 - [6] 424 nec minus in Teucros armis furit † alter Atrides
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): alter(?) -es 424
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): alter(?) -es 424
   - Teucros (Teucri; Teucrians): -os 424. 903
 
 425 insequiturque acies et ferro funera miscet.
@@ -3552,7 +3552,7 @@ correct it by hand.
 - [3] 427 Infelix Hodius, quem uastae cuspidis ictu
 - [4] 427 Infelix Hodius, quem jactae cuspidis ictu
   - Hodius … (Iliad V, 39). …
-  - Hodius (HODIUS; Hodius): — unhappy, is laid low by Agamemnon
+  - Hodius (HODIUS; Odius): — unhappy, is laid low by Agamemnon
 - [6] 427 infelix Odius, quem vastae cuspidis ictu
   - Odius (Odius; Odius): infelix -us 427
 
@@ -3578,7 +3578,7 @@ correct it by hand.
   - Maeoniden Phaestum … (Iliad V, 43). …
   - Phaestum (PHAESTUS; Phaestus): Phaestum: Idomeneus strikes Phaestus the Maeonian
 - [6] 430 Maeoniden Phaestum; cuius post funera laetus
-  - Maeoniden (Maeonides; the Maeonian): *Maeoniden Phaestum 430
+  - Maeoniden (Maeonides; Maeonides): *Maeoniden Phaestum 430
   - Phaestum (Phaestus; Phaestus): Maeoniden *Phaestum 430: Μήονος υἱὸν Βώρου ἐκ Τάρνης ("son of the Maeonian Borus, from Tarne")
 
 431 et Strophio genitum Stygias demittit ad umbras.
@@ -3644,9 +3644,9 @@ correct it by hand.
 - [2] 437 Tydidemque oculis immensa per agmina quaerit :
 - [3] 437 Tydidenque oculis inmensa per agmina quaerit.
 - [4] 437 Tydidenque oculis immensa per agmina quaerit.
-  - Tydiden (DIOMEDES; Diomedes): Tydiden: Pandarus seeks the son of Tydeus
+  - Tydiden (DIOMEDES; Diomedes): Tydiden: Pandarus seeks Tydides
 - [6] 437 Tydidenque oculis inmensa per agmina quaerit.
-  - Tydiden (Tydides; son of Tydeus): -den 437: Diomedes
+  - Tydiden (Tydides; Tydides): -den 437: Diomedes
 
 438 quem postquam Troum sternentem corpora uidit,
 - [2] 438 Quem postquam vidit sternentem corpora Troum ,
@@ -3692,7 +3692,7 @@ correct it by hand.
   - Hypirona (HYPIRON; Hypiron): Hypirona: Diomedes attacks the great Hypiron
 - [6] 443 fertur et Astynoum magnumque † Hyperona fundit:
   - Astynoum (Astynous; Astynous): *Astynoum 443
-  - Hyperona (Hyperon; Hyperon): magnum . . . *Hyperonă 443
+  - Hyperona (Hyperon; Hypiron): magnum . . . *Hyperonă 443
 
 444 comminus hunc gladio, iaculo ferit eminus illum;
 - [2] 444 Cominus hunc gladio, jaculo ferit eminus illum.
@@ -3706,7 +3706,7 @@ correct it by hand.
 - [4] 445 Inde premit Polyidon Abantaque cuspide forti
   - **445-446** Polyidon, Thoonem … (Iliad V, 148, 152).
   - Abanta (ABAS; Abas): Abanta: Diomedes kills him
-  - Polyidon (POLYIDOS Eurydamantis filius; Polyidos, son of Eurydamas): Polyidon: Diomedes kills Polyidus
+  - Polyidon (POLYIDOS Eurydamantis filius; Polyidus, son of Eurydamas): Polyidon: Diomedes kills Polyidus
 - [6] 445 inde premit Polyïdon Abantaque cuspide forti
   - Abanta (Abas; Abas): Abanta: Diomedes killed Abas, son of Eurydamas, brother of Polyidus, a Trojan 445
   - Polyïdon (Polyidos; Polyidus): *Polyïdŏn (polidona trad.) 445: son of Eurydamas
@@ -3727,7 +3727,7 @@ correct it by hand.
 - [4] 447 Post hos infestus Chromiumque et Echemona telo
   - … Chromium, Echemona … (Iliad V, 159-160).
   - Chromium (CHROMIUS Priami filius; Chromius, son of Priam): Chromium: Diomedes slays him
-  - Echemona (ECHEMON; Echemon): Echemona: Diomedes slays him
+  - Echemona (ECHEMON; Echemmon): Echemona: Diomedes slays him
 - [6] 447 post hos infestos Chromiumque et Echemmona telo
   - Chromium (Chromius 2; Chromius 2): Chromiumque et Echemmona 447: sons of Priam
   - Echemmona (Echemmon; Echemmon): Echemmona 447: son of Priam
@@ -3736,7 +3736,7 @@ correct it by hand.
 - [2] 448 Proturbat celeri, pariterque ad Tartara mittit.
 - [3] 448 Proturbat celeri pariterque ad Tartara mittit.
 - [4] 448 Proturbat celeri pariterque ad Tartara mittit.
-  - Tartara (TARTARA; Tartarus): ad Tartara: Diomedes sends Echemon to Tartarus
+  - Tartara (TARTARA; Tartarus): ad Tartara: Diomedes sends Echemmon to Tartarus
 - [6] 448 proturbat celeri pariterque ad Tartara mittit.
   - Tartara (Tartara; Tartarus): ad Tartara mittit 448
 
@@ -3748,7 +3748,7 @@ correct it by hand.
   - Pandare (PANDARUS; Pandarus): Pandare: Pandarus, you fall by the hand of Diomedes
 - [6] 449 tu quoque Tydidae prostratus, Pandare, dextra
   - Pandare (Pandarus; Pandarus): -re 449
-  - Tydidae (Tydides; son of Tydeus): -dae . . . dextra 449
+  - Tydidae (Tydides; Tydides): -dae . . . dextra 449
 
 450 occidis, infelix, accepto uulnere tristi,
 - [2] 450 Occidis infelix, accepto vulnere" tristi,
@@ -3773,9 +3773,9 @@ correct it by hand.
 - [2] 453 Ossaque confossi spargit Tydideus ensis.
 - [3] 453 Ossaque confossi spargit Tydeius ensis.
 - [4] 453 Ossaque confossi spargit Tydeius ensis.
-  - Tydeius (TYDEIUS; of the son of Tydeus): (of Diomedes) ensis: the sword of the son of Tydeus
+  - Tydeius (TYDEIUS; of Tydides): (of Diomedes) ensis: the sword of Tydides
 - [6] 453 ossaque confossa spargit Tydeius ensis.
-  - Tydeius (Tydeius; of the son of Tydeus): Tydeius ensis, of Diomedes: 453
+  - Tydeius (Tydeius; of Tydides): Tydeius ensis, of Diomedes: 453
 
 454 Iamque manum Aeneas simul et Calydonius heros
 - [2] 454 Jamque manum Aeneas simul et Calydonius heros
@@ -3818,7 +3818,7 @@ correct it by hand.
 - [3] 459 Qua daret infesto Tydides ense uidebat,
 - [4] 459 Qua daret infesto Tydides ense videbat,
 - [6] 459 qua daret infesto Tydides ense videbat,
-  - Tydides (Tydides; son of Tydeus): magnus . . . -des 459
+  - Tydides (Tydides; Tydides): magnus . . . -des 459
 
 460 saxum ingens medio quod forte iacebat in agro,
 - [2] 460 Saxuin ingens, medio quod forte jacebat in agro,
@@ -3869,7 +3869,7 @@ correct it by hand.
   - Oenides (DIOMEDES; Diomedes): Oenides: wounds the hand of Venus
 - [6] 466 non tulit Oenides animis nebulasque per ipsas
   - … animis … cf. Virgil, Aen. 8, 256 …
-  - Oenides (Oenides; grandson of Oeneus): *Oenides 466: Diomedes
+  - Oenides (Oenides; Oenides): *Oenides 466: Diomedes
 
 467 fertur et in Venerem flagrantibus irruit armis,
 - [2] 467 Fertur, etin Venerem flagrantibus irruit armis,
@@ -3899,7 +3899,7 @@ correct it by hand.
 - [4] 470 Icta petit caelum terris Cytherea relictis
   - Cytherea (VENUS; Venus): — struck by the spear of Diomedes, makes for heaven
 - [6] 470 icta petit caelum terris Cytherea relictis
-  - Cytherea (Cytherea; the Cytherean): Cythereă 309. 335. 470: Venus
+  - Cytherea (Cytherea; Cytherea): Cythereă 309. 335. 470: Venus
 
 471 atque ibi sidereae queritur sua uulnera matri.
 - [2] 471 Atque ibi sidereae queritur sua vulnera malri.
@@ -4158,7 +4158,7 @@ correct it by hand.
 - [4] 504 Sic ferus Atrides adversos fertur in hostes
   - Atrides (AGAMEMNON; Agamemnon): — fierce against the enemy, rushes like a Libyan lion
 - [6] 504 sic ferus Atrides adversos fertur in hostes
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): ferus -es 504
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): ferus -es 504
 
 505 infestasque Phrygum proturbat cuspide turmas.
 - [2] 505 Infestasque Phrygum proturbat cuspide turmas.
@@ -4208,8 +4208,8 @@ correct it by hand.
 - [4] 510 Conspicit Atrides strictoque occurrere ferro
   - Atrides (AGAMEMNON; Agamemnon): — catches sight of Aeneas driving in his chariot
 - [6] 510 conspicit Atrides: stricto concurrere ferro
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): -es 24. 510(?) 663
-  - Atrides (Atrides (Menelaus); son of Atreus (Menelaus)): -des 290. 301. 332. 349. (510?)
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): -es 24. 510(?) 663
+  - Atrides (Atrides (Menelaus); Atrides (Menelaus)): -des 290. 301. 332. 349. (510?)
 
 511 comparat et iaculum, quantum furor ipse mouebat,
 - [2] 511 Apparat , et jaculum , quantum furor ipse movebat ,
@@ -4369,7 +4369,7 @@ correct it by hand.
   - Guelf. 2 arranges the words differently: *Hinc patriae culmen pugnat*. Dussen, p. 29, prefers to read *columen* [pillar/support], which is indeed exceedingly fitting for Hector and most appropriate to that other eulogy which our author attributed to him above, v. 486, *spes una Phrygum* [the sole hope of the Phrygians]. Similarly Seneca in *Troad.* v. 126, of Hector: « Columen patriae, mora fatorum, Tu praesidium Phrygibus fessis, Tu murus eras ». — « Graium murus Achilles », Ovid, *Met.* XIII, 281. Lucan, VI, 201, of Scaeva: « stat non fragilis pro Caesare murus, Pompeiumque tenet ». Moreover, what Seneca adds *loc. cit.*, « Tecum cecidit, summusque dies Hectoris idem patriaeque fuit », our author seems to have imitated below, v. 1061. See what was noted by us on Pentadius' Tomb of Hector, vol. II, p. 329 of this work. Ed. — Nevertheless, I would not wish to alter the word in the text itself, since *culmen* [summit/peak] is by no means unsuitable for Hector, indicating at least his supreme dignity. In precisely this way Cornelius Severus calls Cicero « Egregium semper patriae caput », above on page 211 of this volume.
 - [3] 529 Hinc pugnat patriae columen Mauortius Hector,
 - [4] 529 Hinc pugnat patriae columen Mavortius Hector,
-  - Hector (HECTOR; Hector): — pillar of his country, the son of Mars fights
+  - Hector (HECTOR; Hector): — pillar of his country, Mavortian, fights
 - [6] 529 hinc pugnat patriae columen Mavortius Hector,
   - Hector (Hector; Hector): patriae columen Mavortius -or 529
 
@@ -4379,7 +4379,7 @@ correct it by hand.
 - [4] 530 Illinc Tydides : sternuntur utrimque virorum
   - Tydides (DIOMEDES; Diomedes): — fights
 - [6] 530 illinc Tydides: sternuntur utrimque virorum
-  - Tydides (Tydides; son of Tydeus): Tydides 390. 408. 530. 665. 1008
+  - Tydides (Tydides; Tydides): Tydides 390. 408. 530. 665. 1008
 
 531 corpora per campos et sanguine prata rigantur.
 - [2] 531 Corpora per campos, et sanguine prata rigantur.
@@ -4489,10 +4489,10 @@ correct it by hand.
   - *Tergaque nuda tegit* [And covers their bare backs], with shields, I suppose, lest they be slain with impunity. Virg. *Aen.* XI, 630: « Bis rejecti armis respectant terga tegentes » [Twice driven back, they look behind them, covering their backs with weapons].
 - [3] 543 Tergaque nuda tegit; sensit Mauortius Hector,
 - [4] 543 Tergaque nuda tegit; sensit Mavortius Hector,
-  - Hector (HECTOR; Hector): — the son of Mars perceives that the gods fight for the Greeks
+  - Hector (HECTOR; Hector): — Mavortian, perceives that the gods fight for the Greeks
 - [6] 543 tergaque nuda tegit; sensit Mavortius Hector
   - Hector (Hector; Hector): Mavortius -or 543. 797
-  - Mavortius (Mavortius; son of Mavors): Mavortius Hector 543. 797
+  - Mavortius (Mavortius; Mavortian): Mavortius Hector 543. 797
 
 544 pro Danais pugnare deos ualidasque suorum
 - [2] 544 Pro Danais pugnare Deos, validasque suorum
@@ -4539,9 +4539,9 @@ correct it by hand.
   - *Altaria sertis* [altars with garlands]. Namely, to appease the divine powers, says Barth in the cited passage. The ancients employed not only sacrificial victims, but also garlands for encircling altars, and, I might add, shrines as well. Virg. *Aen.* II, 249: « Nos delubra Deum ... festa velamus fronde per urbem »; and IV, 202: « variis florentia limina sertis »; also *Georg.* IV, 276: « Saepe Deum nexis ornatae torquibus arae ».
 - [3] 549 Iliades subeunt: festis altaria sertis
 - [4] 549 Iliades subeunt : festis altaria sertis
-  - Iliades (ILIADES; women of Ilium): go up to the temple of Minerva
+  - Iliades (ILIADES; Iliades): go up to the temple of Minerva
 - [6] 549 Iliades subeunt: festis altaria sertis
-  - Iliades (Iliades; women of Ilium): Iliades 549
+  - Iliades (Iliades; Iliades): Iliades 549
 
 550 exornant caeduntque sacras ex more bidentes.
 - [2] 550 Exornant, caeduotque sacras de more bidentes.
@@ -4791,7 +4791,7 @@ correct it by hand.
   - Atrides (AGAMEMNON; Agamemnon): — the keen leader of the Greeks, when Hector challenges the leaders of the Greeks to arms, comes forward
   - Grajum (GRAI; Greeks): — the leader of the Greeks, Agamemnon
 - [6] 581 Meriones Graiumque simul dux acer Atrides
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): Graium . . . dux acer -es 581
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): Graium . . . dux acer -es 581
   - Graium (Graius; Greek): -um . . . dux 581
   - Meriones (Meriones; Meriones): Idomeneus et *iunctus gente paterna -nes 581
 
@@ -4855,7 +4855,7 @@ correct it by hand.
 - [4] 587 Ergo ubi dejectis auratam regis Atridae
   - Atridae (AGAMEMNON; Agamemnon): — the lots are thrown into the helmet of the king
 - [6] 587 ergo ubi deiectis auratam regis Atridae
-  - Atridae (Atrides (Agamemno); son of Atreus (Agamemnon)): regis -dae 587
+  - Atridae (Atrides (Agamemno); Atrides (Agamemnon)): regis -dae 587
 
 588 sortibus in galeam magnus processerat Aiax,
 - [2] 589 Sortibus in galeam , magnus processerat Ajax ,
@@ -4954,7 +4954,7 @@ correct it by hand.
   - Priamides (HECTOR; Hector): Priamides [—]
 - [6] 601 tales Priamides ardorque Aiacis in armis
   - Aiacis (Aiax (Telamonius); Ajax (son of Telamon)): ardorque -acis 601
-  - Priamides (Priamides; son of Priam): Priamides 601. 610. 660. 988
+  - Priamides (Priamides; Priamides): Priamides 601. 610. 660. 988
 
 602 Tandem animis teloque furens Telamonius Aiax
 - [2] 604 Tandem animis armisque furens Telamonius Ajax
@@ -4963,7 +4963,7 @@ correct it by hand.
   - Ajax (AJAX Telamonis filius; Ajax, son of Telamon): — the son of Telamon, raging in spirit and in arms, attacks Hector
 - [6] 602 tandem animis teloque furens Telamonius Aiax
   - Aiax (Aiax (Telamonius); Ajax (son of Telamon)): Telamonius -ax 205. 363. 602. 623. 787. 836
-  - Telamonius (Telamonius; son of Telamon): Telamonius Aiax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius; Telamonian): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 603 insignem bello petit Hectora, quaque patebat
 - [2] 605 Insignem bello petit Hectora, quaque patebat
@@ -5016,7 +5016,7 @@ correct it by hand.
   - Telamone (AJAX Telamonis filius; Ajax, son of Telamon): Telamone creatus: Hector attacks the son of Telamon with a stone
   - Priamides (HECTOR; Hector): — fights against Ajax
 - [6] 610 Priamides nec iam ferro Telamone creatum,
-  - Priamides (Priamides; son of Priam): Priamides 601. 610. 660. 988
+  - Priamides (Priamides; Priamides): Priamides 601. 610. 660. 988
   - Telamone (Telamon; Telamon): -one creatum 610. 624
 
 611 sed magno saxi iactu petit. At ferus Aiax
@@ -5112,7 +5112,7 @@ correct it by hand.
 - [6] 623 at contra se ferre parat Telamonius Aiax:
   - … cf. Virgil, Aen. 5, 372
   - Aiax (Aiax (Telamonius); Ajax (son of Telamon)): Telamonius -ax 205. 363. 602. 623. 787. 836
-  - Telamonius (Telamonius; son of Telamon): Telamonius Aiax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius; Telamonian): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 624 "Hesiona de matre uides Telamone creatum,
 - [2] 626 «Hesiona de matre vides Telamone creatum,
@@ -5153,7 +5153,7 @@ correct it by hand.
 - [4] 628 Et prior Ajacem fulgenti munerat ense
   - Ajacem (AJAX Telamonis filius; Ajax, son of Telamon): — Hector rewards Ajax with a gleaming sword
 - [6] 628 et prior Aeaciden aurato munerat ense
-  - Aeaciden (Aeacides (Aiax Telamonius); descendant of Aeacus (Ajax son of Telamon)): -dēn *628
+  - Aeaciden (Aeacides (Aiax Telamonius); Aeacides (Ajax son of Telamon)): -dēn *628
   - Aeaciden (Aiax (Telamonius); Ajax (son of Telamon)): -acem see Aeaciden 368. 628
 
 629 inque uicem, quo se bellator cinxerat Aiax,
@@ -5207,10 +5207,10 @@ correct it by hand.
 - [3] 635 Postera cum primum stellas Aurora fugarat,
   - : cf. Gesta Berengarii III 90
 - [4] 635 Postera cum primum stellas Aurora fugarat,
-  - Aurora (AURORA; Dawn): puts the stars to flight
+  - Aurora (AURORA; Aurora): puts the stars to flight
 - [6] 635 postera cum primum stellas Aurora fugarat,
   - (testimonia) = *Gesta Ber.* 3, 90 (*fugaret*)
-  - Aurora (Aurora; Dawn): stellas Aurora fugarat 635
+  - Aurora (Aurora; Aurora): stellas Aurora fugarat 635
 
 636 in coetum uenere Phryges. Tunc maximus Hector
 - [2] 638 In coetum venere Phryges, tum maximus Hector
@@ -5252,7 +5252,7 @@ correct it by hand.
 - [4] 640 Idque placet cunctis. Tum saevo missus Atridae
   - Atridae (MENELAUS; Menelaus): Atridae: Idaeus is sent to the savage son of Atreus
 - [6] 640 idque placet cunctis. tum saevo missus Atridae
-  - Atridae (Atrides (Agamemno); son of Atreus (Agamemnon)): saevo . . . -dae 640
+  - Atridae (Atrides (Agamemno); Atrides (Agamemnon)): saevo . . . -dae 640
 
 641 pertulit Idaeus Troum mandata; neque ille
 - [2] 643 Pertulit Idaeus Troum mandata, neque ille
@@ -5365,9 +5365,9 @@ correct it by hand.
 - [2] 657 Inde acies videt Iliacas, dextraqiie potenti
 - [3] 655 Inde acies uidet Iliacas dextraque potenti
 - [4] 655 Inde acies videt Iliacas dextraque potenti
-  - Iliacas (ILIACUS; of Ilium): Iliacas acies: the lines of Ilium
+  - Iliacas (ILIACUS; Ilian): Iliacas acies: the Ilian lines
 - [6] 655 inde acies videt Iliacas dextraque potenti
-  - Iliacas (Iliacus; of Ilium): acies . . . -cas 655
+  - Iliacas (Iliacus; Ilian): acies . . . -cas 655
 
 656 sustinet auratas aequato pondere lances
 - [2] 658 Sustinet auratas aequato pondere lances,
@@ -5409,7 +5409,7 @@ correct it by hand.
   - Priamides (HECTOR; Hector): — the one glory of Phrygia, fights in anger
 - [6] 660 Priamides agit et totis gravis imminet armis,
   - … armis … i.e. copiis; cf. e.g. Ovid, Met. 7, 865
-  - Priamides (Priamides; son of Priam): Priamides 601. 610. 660. 988
+  - Priamides (Priamides; Priamides): Priamides 601. 610. 660. 988
 
 661 unum quippe decus Phrygiae. Turbantur Achiui
 - [2] 663 Unum quippe decus Phrygiae : turbantur Achivi,
@@ -5436,7 +5436,7 @@ correct it by hand.
 - [4] 663 Hortatur socios muris inclusus Atrides
   - Atrides (AGAMEMNON; Agamemnon): — encourages his comrades
 - [6] 663 hortatur socios murisque inclusus Atrides
-  - Atrides (Atrides (Agamemno); son of Atreus (Agamemnon)): -es 24. 510(?) 663
+  - Atrides (Atrides (Agamemno); Atrides (Agamemnon)): -es 24. 510(?) 663
 
 664 languentesque animos iuuenum in certamina firmat.
 - [2] 666 Languentesque animos juvenum in certamina firmat.
@@ -5451,7 +5451,7 @@ correct it by hand.
 - [4] 665 Princeps Tydides ardentibus emicat armis,
   - Tydides (DIOMEDES; Diomedes): — a prince, shines forth in blazing arms
 - [6] 665 princeps Tydides ardentibus emicat armis
-  - Tydides (Tydides; son of Tydeus): Tydides 390. 408. 530. 665. 1008
+  - Tydides (Tydides; Tydides): Tydides 390. 408. 530. 665. 1008
 
 666 per medios hostes immani pondere fertur.
 - [2] 668 Per mediosquc hostes immani turbine fertur.
@@ -5804,7 +5804,7 @@ correct it by hand.
   - … Eumedides Schrader (Iliad X, 314).
   - Eumediades (DOLON; Dolon): Tros Eumediades: the Trojan son of Eumedes outruns them
 - [6] 710 Tros Eumediades cursu praecederet illos,
-  - Eumediades (Eumediades; son of Eumedes): Tros *Eumediades 710: Dolon
+  - Eumediades (Eumediades; Eumediades): Tros *Eumediades 710: Dolon
   - Tros (Tros; Trojan): Tros (troius trad.) Eumediades, Dolon: 710
 
 711 ne facile oppressus gressum in sua castra referret.
@@ -5983,11 +5983,11 @@ correct it by hand.
   - … because poets are accustomed to compare swift running especially with the East Wind (*Eurus*). See Virg. *Aen.* VIII, 223, and Horat. *Carm.* II, 16, 24; and learned men in Virg. I, 317 wish to substitute *Eurus* for *Hebrus*. …
 - [3] 734 Thracas equos rapiunt, quos nec praecederet Eurus
 - [4] 734 Thracas equos rapiunt, quos nec praecederet Eurus
-  - Eurus (EURUS; the East Wind): would not outrun the horses of Rhesus
+  - Eurus (EURUS; Eurus): would not outrun the horses of Rhesus
   - Thracas (THRAX; Thracian): adjective: Thracas equos, the Thracian horses
 - [6] 734 Thraecis equos rapiunt, quos nec praecederet Eurus
   - … cf. Ovid, Met. 9, 194 …
-  - Eurus (Eurus; the East Wind): Eurus 734: the wind
+  - Eurus (Eurus; Eurus): Eurus 734: the wind
   - Thraecis (Rhesus; Rhesus): Thraecis 734
   - Thraecis (Thraex; Thracian): Thraecis (-es trad.; -ăs conj.) equos 734: of Rhesus
 
@@ -6030,7 +6030,7 @@ correct it by hand.
   - Pelopeius (AGAMEMNON; Agamemnon): — praises the valour of Ulysses and Diomedes
 - [6] 739 facta duci referunt: laudat Pelopeius heros,
   - duci (Agamemnon; Agamemnon): dux 134. 156. 739
-  - Pelopeius (Pelopeius; descendant of Pelops): Pelopeius heros 131. 739: Agamemnon
+  - Pelopeius (Pelopeius; Pelopeian): Pelopeius heros 131. 739: Agamemnon
 
 740 fessaque iucundae tradunt sua membra quieti.
 - [2] 743 Fessaque jucundae tradunt sua membra quieti.
@@ -6061,7 +6061,7 @@ correct it by hand.
   - Dardanidum (TROJANI; Trojans): Dardanidae Dardanidum duces: the leaders of the Dardanids
 - [6] 743 Dardanidum Danaumque duces: volat undique nubes
   - Danaum (Danai; Danaans): -um (gen.): 19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
-  - Dardanidum (Dardanides; Dardanid): -dum . . . duces 743: of the Trojans
+  - Dardanidum (Dardanides; Dardanides): -dum . . . duces 743: of the Trojans
 
 744 telorum et ferro ferrum sonat, undique mixtis
 - [2] 747 Telorum , et ferro ferrum sonat : undique mixtis
@@ -6155,7 +6155,7 @@ correct it by hand.
   - Hector (HECTOR; Hector): — the son of Priam, angry, enters the fierce fight
 - [6] 754 Hector tum pugnae subit acri concitus ira
   - Hector (Hector; Hector): -or . . . Priamides 754
-  - Priamides (Priamides; son of Priam): Hector -es 754: Hector
+  - Priamides (Priamides; Priamides): Hector -es 754: Hector
 
 755 Priamides et percussos agit undique Graios;
 - [2] 758 Priamides, mox perculsos agit undique Graios,
@@ -6205,10 +6205,10 @@ correct it by hand.
   - … Barth, on the first verse of the *Thebaid*, observes on this and the following verse that the author, by frequently combining the letters *a* and *r*, sought harshness of sound for a terrible event.
 - [3] 760 Obicibus muros, tum saxo Martius Hector
 - [4] 760 Obicibus muros. Tum saxo Martius Hector
-  - Hector (HECTOR; Hector): — the Martial one breaks the gates of the enemy camp with a stone
+  - Hector (HECTOR; Hector): — warlike, breaks the gates of the enemy camp with a stone
 - [6] 760 obicibus muros; tum saxo Martius Hector
   - Hector (Hector; Hector): Martius -or 760
-  - Martius (Martius; Martial): Martius Hector 760
+  - Martius (Martius; warlike): Martius Hector 760
 
 761 perfringit portas ferrataque robora laxat.
 - [2] 764 Perfringit portas, ferrataque robora laxat.
@@ -6346,7 +6346,7 @@ correct it by hand.
 - [4] 777 Magnanimus ductor Rhythieus; tum fervidus hasta
   - Rhythieus (IDOMENEUS; Idomeneus): Ductor Rhythieus: the great-hearted leader from Rhytion kills Alcathous
 - [6] 777 magnanimus ductor Rhytieus; tum fervidus hasta
-  - Rhytieus (Rhytieus; the man from Rhytion): magnanimus ductor Rhytieus 777: Idomeneus
+  - Rhytieus (Rhytieus; Rhytieus): magnanimus ductor Rhytieus 777: Idomeneus
 
 778 Deiphobus ferit Ascalaphum mergitque sub undas.
 - [2] 781 Deiphobus ferit Ascalaphum , mergitque sub umbras.
@@ -6426,13 +6426,13 @@ correct it by hand.
 - [3] 787 Archilochumque Antenoriden Telamonius Aiax,
 - [4] 787 Archilochumque Antenoriden Telamonius Ajax,
   - Archilocum … (Iliad XIV, 462 ff.).
-  - Ajax (AJAX Telamonis filius; Ajax, son of Telamon): — the son of Telamon strikes Archilochus
-  - Archilochum (ARCHILOCHUS; Archilochus): Archilochum: Ajax son of Telamon kills Archilochus son of Antenor
+  - Ajax (AJAX Telamonis filius; Ajax, son of Telamon): — the son of Telamon strikes Archelochus
+  - Archilochum (ARCHILOCHUS; Archelochus): Archilochum: Ajax son of Telamon kills Archelochus son of Antenor
 - [6] 787 Archelochumque Antenoriden Telamonius Aiax,
   - Aiax (Aiax (Telamonius); Ajax (son of Telamon)): Telamonius -ax 205. 363. 602. 623. 787. 836
-  - Antenoriden (Antenorides; son of Antenor): Archelochum . . . Antenoriden 787
+  - Antenoriden (Antenorides; Antenorides): Archelochum . . . Antenoriden 787
   - Archelochum (Archelochus; Archelochus): -um . . . Antenoriden 787: a Trojan
-  - Telamonius (Telamonius; son of Telamon): Telamonius Aiax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius; Telamonian): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 788 Boeotumque Acamas Promachum, quem sternit atrocis
 - [2] 791 Bceotumque Acamas Promachum, quem sternit atrocem
@@ -6454,7 +6454,7 @@ correct it by hand.
   - Priameia (TROJANI; Trojans): Priameia pubes: the youth of Priam falls
 - [6] 789 Penelei dextra; inde cadit Priameia pubes
   - Penelei (Peneleos; Peneleus): atrocis -lei 789: leader of the Boeotians
-  - Priameia (Priameius; son of Priam): -eia pubes 789. 837: the Trojans
+  - Priameia (Priameius; of Priam): -eia pubes 789. 837: the Trojans
 
 ## Book 15
 
@@ -6517,10 +6517,10 @@ correct it by hand.
 - [2] 800 Fit pugna ante rates : SJBvit Mavortius Hector,
 - [3] 797 Fit pugna ante rates; saeuit Mauortius Hector
 - [4] 797 Fit pugna ante rates; saevit Mavortius Hector
-  - Hector (HECTOR; Hector): — the son of Mars rages, about to burn the ships of the Greeks
+  - Hector (HECTOR; Hector): — Mavortian, rages, about to burn the ships of the Greeks
 - [6] 797 fit pugna ante rates; saevit Mavortius Hector
   - Hector (Hector; Hector): Mavortius -or 543. 797
-  - Mavortius (Mavortius; son of Mavors): Mavortius Hector 543. 797
+  - Mavortius (Mavortius; Mavortian): Mavortius Hector 543. 797
 
 798 et poscit flammas totamque incendere classem
 - [2] 801 Et poscit flammas, totamque incendere classem
@@ -6736,7 +6736,7 @@ correct it by hand.
 - [4] 826 Dardanides, lapsam celeri quam decipit astu
   - Dardanides (HECTOR; Hector): Dardanides: the Dardanid attacks Patroclus with his spear
 - [6] 826 Dardanides, quam prolapsam celeri excipit ictu
-  - Dardanides (Dardanides; Dardanid): Dardanides 826: Hector
+  - Dardanides (Dardanides; Dardanides): Dardanides 826: Hector
 
 827 Patroclus redditque uices et, mutua dona,
 - [2] 830 Patroclus, redditque vices et mutua dona.
@@ -6823,7 +6823,7 @@ correct it by hand.
 - [6] 836 vindicat extincti corpus Telamonius Aiax
   - Aiax (Aiax (Telamonius); Ajax (son of Telamon)): Telamonius -ax 205. 363. 602. 623. 787. 836
   - extincti (Patroclus; Patroclus): extincti 836
-  - Telamonius (Telamonius; son of Telamon): Telamonius Aiax 205. 363. 602. 623. 787. 836
+  - Telamonius (Telamonius; Telamonian): Telamonius Aiax 205. 363. 602. 623. 787. 836
 
 837 oppositoque tegit clipeo. Priameia pubes
 - [2] 841 Oppositoque tegit clypeo. Priameia pubes
@@ -6831,7 +6831,7 @@ correct it by hand.
 - [4] 837 Oppositoque tegit clipeo. Priameia pubes
   - Priameia (TROJANI; Trojans): — exults with joy
 - [6] 837 oppositoque tegit clipeo. Priameia pubes
-  - Priameia (Priameius; son of Priam): -eia pubes 789. 837: the Trojans
+  - Priameia (Priameius; of Priam): -eia pubes 789. 837: the Trojans
 
 838 laetitia exsultat, Danai sua uulnera maerent.
 - [2] 842 Laetitia exsultat; Danai sua funera moerent.
@@ -6856,7 +6856,7 @@ correct it by hand.
 - [4] 840 Nestorides in castra ferunt miserabile corpus.
   - Nestorides (ANTILOCHUS; Antilochus): Nestorides: carries the body of Patroclus back into the camp
 - [6] 840 Nestorides in castra ferunt miserabile corpus.
-  - Nestorides (Nestorides; son of Nestor): Nestorides 840: Antilochus
+  - Nestorides (Nestorides; Nestorides): Nestorides 840: Antilochus
   - corpus (Patroclus; Patroclus): miserabile corpus 840
 
 841 Tunc ut Pelidae aures diuerberat horror,
@@ -6866,7 +6866,7 @@ correct it by hand.
 - [4] 841 Hic ut Pelidae devenerat horror ad aures
   - Pelidae (ACHILLES; Achilles): — the horror (the slaughter of Patroclus) had come to his ears
 - [6] 841 tunc † ut Pelidis aures diverberat horror;
-  - Pelidis (Pelides; son of Peleus): -dae 841
+  - Pelidis (Pelides; Pelides): -dae 841
 
 842 palluit infelix iuuenis, calor ossa reliquit;
 - [2] 846 Palluit infelix juvenis, caior ossa reliquit;
@@ -6890,7 +6890,7 @@ correct it by hand.
 - [4] 844 below Deflens Aeacides tristi de caede sodalis.
   - Aeacides (ACHILLES; Achilles): — [mourns the slaughter of Patroclus]
 - [6] [844] [deflens Aeacides tristi de caede sodalis]
-  - Aeacides (Aeacides (Achilles); descendant of Aeacus (Achilles)): ferus -es 74. [844]
+  - Aeacides (Aeacides (Achilles); Aeacides (Achilles)): ferus -es 74. [844]
   - sodalis (Patroclus; Patroclus): [sodalis 844]
 
 845 unguibus ora secat comptosque in puluere crines
@@ -6991,9 +6991,9 @@ correct it by hand.
   - The Homerist here mentions *Aetnaeos ignes* [Aetnaean fires], imitating Virgil, *Aen.* VIII, vv. 419 ff., not Homer, who knows nothing of a burning Aetna and Vulcan's workshop within it. Thus in Reposianus, *De Concub. Martis et Veneris*, v. 163, Vulcan, in order to forge chains to bind the adulterers, « Antra furens Aetnaea petit ».
 - [3] 857 Excitat Aetnaeos calidis fornacibus ignes
 - [4] 857 Excitat Aetnaeos calidis fornacibus ignes
-  - Aetnaeos (AETNAEUS; of Etna): Aetnaeos ignes
+  - Aetnaeos (AETNAEUS; Aetnaean): Aetnaeos ignes
 - [6] 857 excitat Aetnaeos calidis fornacibus ignes
-  - Aetnaeos (Aetnaeus; of Etna): Aetnaeos . . . ignes of Vulcan 857
+  - Aetnaeos (Aetnaeus; Aetnaean): Aetnaeos . . . ignes of Vulcan 857
 
 858 Mulciber et ualidis fuluum domat ictibus aurum.
 - [2] 863 Mulciber, et validis fulvum domat ignibus aurum.
@@ -7032,9 +7032,9 @@ correct it by hand.
   - *Illic Ignipotens*, that is, Vulcan. See what we said on verse 105. … He seems to have in view Ovid, *Metam.* XIII, 110: « Nec clypeus vasti caelatus imagine mundi ». …
 - [3] 862 Illic Ignipotens mundi caelauerat arcem
 - [4] 862 Illic Ignipotens mundi caelaverat arcem
-  - Ignipotens (VULCANUS; Vulcan): Ignipotens: the Fire-Lord had engraved the world on the shield
+  - Ignipotens (VULCANUS; Vulcan): Ignipotens: Ignipotens had engraved the world on the shield
 - [6] 862 illic Ignipotens mundi caelaverat arcem
-  - Ignipotens (Ignipotens; the Fire-Lord): Ignipotens 862
+  - Ignipotens (Ignipotens; Ignipotens): Ignipotens 862
 
 863 sideraque et liquidis redimitas undique nymphis
 - [2] 868 Sideraque, et [liquidas redimitas undique Nymphas.
@@ -7049,7 +7049,7 @@ correct it by hand.
   - **(cont.)** (cont.) perhaps *ductum* or *fusum* might be substituted. Ovid, *Met.* I, 12: « Et circumfuso pendebat in aere tellus ». — The verb *cingere* seems occasionally to be used by poets for *circumducere* [to lead around], *circum adponere* [to place around], or *adjungere* [to attach around]. Thus Silius, VIII, 617: « Non totidem Ilva viros, sed lectos cingere ferrum »; although there they prefer to read *gignere ferrum*, or *stringere*. But Mela seems to have used *cingere* in precisely the same way as our author, Book III, ch. 1: « Restat ille circuitus, quem, ut initio diximus, cingit Oceanus », that is, leads around (*circumducit*). …
 - [3] 864 Omnes et terras et cinctum Nerea circum;
 - [4] 864 below Oceanum terris et cinctum Nerea circum.
-  - Nerea (NEREUS; Nereus): [the Vulcanian had made Nereus on the shield of Achilles]
+  - Nerea (NEREUS; Nereus): [Vulcan had made Nereus on the shield of Achilles]
   - Oceanum (OCEANUS; Ocean): [—]
 - [6] 864 Oceanum terris et cinctum Nerea circum
   - Nerea (Nereus; Nereus): Nerea 864
@@ -7067,13 +7067,13 @@ correct it by hand.
 - [2] 872 Quattuor et mundi partes, quanturo Arctos ab Austro,
 - [3] 866 Quattuor et mundi partes, quantum Arctus ab Austro
 - [4] 866 Quattuor et mundi partes, quantum Arctus ab Austro
-  - Arctus (ARCTUS; the Bear)
-  - Austro (AUSTER; the South Wind): ab Austro: the Bear is far from the South
+  - Arctus (ARCTUS; Arctos)
+  - Austro (AUSTER; Auster): ab Austro: Arctos is far from Auster
 - [6] 866 quattuor et mundi partes, quantum Arctos ab Austro
-  - Arctos (Arctos; the Bear): Arctos 866: a region of the sky
-  - Austro (Auster; the South Wind): quantum Arctos ab Austro . . . distaret 866
-  - occasus (occasus; setting of the sun): region of the setting [sun]: 866
-  - ortu (ortus; rising of the sun): region of the rising [sun]: 866
+  - Arctos (Arctos; Arctos): Arctos 866: a region of the sky
+  - Austro (Auster; Auster): quantum Arctos ab Austro . . . distaret 866
+  - occasus (occasus; sunset): region of the setting [sun]: 866
+  - ortu (ortus; sunrise): region of the rising [sun]: 866
 
 867 et quantum occasus roseo distaret ab ortu,
 - [2] 873 Et quantum Occasus roseo distaret ab Ortu:
@@ -7086,11 +7086,11 @@ correct it by hand.
   - … For poets indeed distinguish Lucifer and Hesperus by name, but recognize them as one star. — See what we said in the Excursus to the *Elegia in obitum Maecenatis*, vv. 129–132, vol. II, p. 232 ff. of this work. Ed. — Seneca indicates this clearly in *Hippol.* 750: « Qualis est primas referens tenebras Nuntius noctis, modo lotus undis Hesperus, pulsis iterum tenebris Lucifer idem ». Because they mean that it is the same star, on that account they say that it uses a changing horse (or mounts another horse like a trick rider) when it comes forth as another. Statius expressly, *Theb.* VI, 237: « Roscida jam novies caelo dimiserat astra Lucifer, et totidem Lunae praevenerat ignes Mutato nocturnus equo; nec conscia fallit Sidera, et alterno deprenditur unus in ortu ». Since, therefore, Lucifer and Hesperus are distinguished by changed horses, hence our poet says that each arises with his own horses (*suis equis*), although others, including the Leipzig edition and G. 2, write *aquis* [from the waters], and the distinguished Anton de Rooy, p. 99, wishes to prefer that. Moreover, I observed that in Lucilius' *Aetna* verses are read to which our author seems to allude here. For that poet says in v. 168: « Hinc furtim Borea atque Noto, nunc unus uterque »; and v. 239: « Lucifer unde micet, quave Hesperus, unde Bootes ». Another similar passage of Lucilius we cite on the following verse. From this you might easily draw an argument that Lucilius was read by our author.
 - [3] 868 Lucifer unde suis, unde Hesperus unus uterque
 - [4] 868 Lucifer unde suis, unde Hesperus unus uterque
-  - Hesperus (HESPERUS; the Evening Star): rises
-  - Lucifer (LUCIFER; the Morning Star)
+  - Hesperus (HESPERUS; Hesperus): rises
+  - Lucifer (LUCIFER; Lucifer)
 - [6] 868 Lucifer unde suis, unde Hesperus unus uterque
-  - Hesperus (Hesperus; the Evening Star): Lucifer . . . Hesperus, unus uterque 868
-  - Lucifer (Lucifer; the Morning Star): Lucifer 868
+  - Hesperus (Hesperus; Hesperus): Lucifer . . . Hesperus, unus uterque 868
+  - Lucifer (Lucifer; Lucifer): Lucifer 868
 
 869 exoreretur equis, et quantum in orbe mearet
 - [2] 875 Exoreretur equis ; quantus Sol orbe mearet ,
@@ -7110,7 +7110,7 @@ correct it by hand.
 - [3] 870 Luna caua et nitida lustraret lampade caelum;
 - [4] 870 Luna cava et nitida lustraret lampade caelum;
 - [6] 870 Luna cava et nitida lustraret lampade caelum;
-  - Luna (Luna; the Moon): Luna cava 870
+  - Luna (Luna; Luna): Luna cava 870
 
 871 addideratque fretis sua numina: Nerea magnum
 - [2] 877 Addideratque freto sua numina, Nerea magnum,
@@ -7124,8 +7124,8 @@ correct it by hand.
 - [2] 878 Oceanumque senem , nec eumdem Protea semper,
 - [3] 872 Oceanumque senem nec eundem Protea semper,
 - [4] 872 Oceanumque senem nec eundem Protea semper,
-  - Oceanum (OCEANUS; Ocean): Oceanum senem: the Vulcanian had made old Ocean on the shield of Achilles
-  - Protea (PROTEUS; Proteus): Protea: Proteus, never the same (the Vulcanian had made him on the shield of Achilles)
+  - Oceanum (OCEANUS; Ocean): Oceanum senem: Vulcan had made old Ocean on the shield of Achilles
+  - Protea (PROTEUS; Proteus): Protea: Proteus, never the same (Vulcan had made him on the shield of Achilles)
 - [6] 872 Oceanumque senem nec eundem Protea semper,
   - Oceanum (Oceanus; Ocean): -um . . . senem 872
   - Protea (Proteus; Proteus): nec eundem Protea semper 872
@@ -7136,7 +7136,7 @@ correct it by hand.
 - [3] 874 Tritonesque feros et amantem Dorida fluctus;
 - [4] 873 Tritonesque feros et amantem Dorida fluctus;
   - Dorida (DORIS; Doris): Dorida: Doris, loving the waves
-  - Tritones (TRITONES; Tritons): Tritones feros: the Vulcanian had made the fierce Tritons on the shield
+  - Tritones (TRITONES; Tritons): Tritones feros: Vulcan had made the fierce Tritons on the shield
 - [6] 873 Tritonasque feros et amantem Dorida fluctus;
   - Dorida (Doris; Doris): amantem Dorida fluctus 873
   - Tritonas (Triton; Triton): Tritonas (-es trad.) . . . feros 873
@@ -7146,7 +7146,7 @@ correct it by hand.
 - [3] 873 Fecerat et liquidas mira Nereidas arte
 - [4] 863 bis below Fecerat et mira liquidas Nereidas arte
 - [4] 874 Fecerat et liquidas mira Nereidas arte
-  - Nereidas (NEREIDES; Nereids): Nereidas: the Vulcanian had made the Nereids on the shield of Achilles
+  - Nereidas (NEREIDES; Nereids): Nereidas: Vulcan had made the Nereids on the shield of Achilles
   - Nereidas (NEREIDES; Nereids): [and]
 - [6] [874] [fecerat et mire liquidas Nereidos arces]
 - [6] 874 fecerat et liquidas mira Nereidas arte.
@@ -7306,7 +7306,7 @@ correct it by hand.
 - [4] 895 Dantque animos juveni ; contra Cythereius heros
   - Cythereius (AENEAS; Aeneas): Cythereius heros: runs to meet Achilles; is saved by Neptune
 - [6] 895 dantque animos iuveni: vidit Cythereius heros
-  - Cythereius (Cythereius; son of the Cytherean): Cythereius heros 895: Aeneas
+  - Cythereius (Cythereius; Cytherean): Cythereius heros 895: Aeneas
 
 896 occurritque uiro, sed non cum uiribus aequis
 - [2] 901 Occurritque viro, sed non cum viribus aequis,
@@ -7322,7 +7322,7 @@ correct it by hand.
 - [4] 897 Aeacidae nec erat compar; tamen ira coegit
   - Aeacidae (ACHILLES; Achilles): Aeacidae: Aeneas was no match for Aeacides
 - [6] 897 Aeacidae nec † corpus erat, tamen ira coegit
-  - Aeacidae (Aeacides (Achilles); descendant of Aeacus (Achilles)): -dae 897
+  - Aeacidae (Aeacides (Achilles); Aeacides (Achilles)): -dae 897
 
 898 conferre inuictis iuuenem cum uiribus arma.
 - [2] 903 Conferre invictis juvenem cum viribus arma.
@@ -7374,7 +7374,7 @@ correct it by hand.
   - Aeacides (ACHILLES; Achilles): — drives the Trojans with his spear
   - Teucros (TROJANI; Trojans): Teucros: Achilles drives the Teucrians with his spear
 - [6] 903 inde agit Aeacides infesta cuspide Teucros
-  - Aeacides (Aeacides (Achilles); descendant of Aeacus (Achilles)): -ēs 903
+  - Aeacides (Aeacides (Achilles); Aeacides (Achilles)): -ēs 903
   - Teucros (Teucri; Teucrians): -os 424. 903
 
 904 ingentemque modum prosternit caede uirorum,
@@ -7389,9 +7389,9 @@ correct it by hand.
 - [3] 905 Sanguinis Hectorei sitiens; at Dardana pubes
 - [4] 905 Sanguinis Hectorei sitiens; at Dardana pubes
   - Hectorei (HECTOREUS; of Hector): Hectorei sanguinis
-  - Dardana (TROJANI; Trojans): Dardana pubes: the Dardan youth takes refuge at the Xanthus
+  - Dardana (TROJANI; Trojans): Dardana pubes: the Dardanian youth takes refuge at the Xanthus
 - [6] 905 sanguinis Hectorei sitiens; at Dardana pubes
-  - Dardana (Dardanus; Dardan): Dardana pubes 905
+  - Dardana (Dardanus; Dardanian): Dardana pubes 905
   - Hectorei (Hectoreus; of Hector): sanguinis Hectorei 905
 
 906 confugit ad Xanthi rapidos perterrita fluctus
@@ -7464,7 +7464,7 @@ correct it by hand.
 - [4] 914 Obruat Aeaciden : qui protinus undique totis
   - Aeaciden (ACHILLES; Achilles): Aeaciden: that Xanthus may overwhelm Aeacides
 - [6] 914 obruat Aeaciden: qui protinus undique totis
-  - Aeaciden (Aeacides (Achilles); descendant of Aeacus (Achilles)): -den 914
+  - Aeaciden (Aeacides (Achilles); Aeacides (Achilles)): -den 914
 
 915 exspatiatur aquis et uasto gurgite praeceps
 - [2] 920 Impediatur aquis : sed vasto gurgite praaceps
@@ -7536,7 +7536,7 @@ correct it by hand.
 - [4] 924 Horridus Aeacides bellique ardore resumpto
   - Aeacides (ACHILLES; Achilles): — dreadful, drives the Trojans again
 - [6] 924 horridus Aeacides bellique ardore resumpto
-  - Aeacides (Aeacides (Achilles); descendant of Aeacus (Achilles)): horridus -es 924
+  - Aeacides (Aeacides (Achilles); Aeacides (Achilles)): horridus -es 924
 
 925 funereas acies horrendaque proelia miscet.
 - [2] 930 Funereas acies borrendaque praelia miscet.
@@ -7627,7 +7627,7 @@ correct it by hand.
   - Pallas (MINERVA; Minerva): [— the Tritonian is suddenly seen before Hector's eyes]
 - [6] [936] [ante oculos subito visa est Tritonia Pallas]
   - Pallas (Pallas; Pallas): [Tritonia -as 936]
-  - Tritonia (Tritonia; the Tritonian): [-ia Pallas 936]
+  - Tritonia (Tritonia; Tritonia): [-ia Pallas 936]
 
 937 pertimuit clausisque fugit sua moenia circum
 - [2] 942 Pertimuit, clausisque fugit sua moenia circum
@@ -7642,7 +7642,7 @@ correct it by hand.
 - [4] 938 Infelix portis; sequitur Nereius heros.
   - Nereius (ACHILLES; Achilles): Nereius heros: pursues Hector in his fear
 - [6] 938 infelix portis; sequitur Nereius heros.
-  - Nereius (Nereius; grandson of Nereus): Nereius heros 938. 975: Achilles
+  - Nereius (Nereius; Nereian): Nereius heros 938. 975: Achilles
 
 939 in somnis ueluti, cum pectora terruit ira,
 - [2] 944 In somnis veluti , quum pectora terruit ira ,
@@ -7711,7 +7711,7 @@ correct it by hand.
   - Tritonia (MINERVA; Minerva): Tritonia: having put on the face and arms of Deiphobus, deceives Hector
 - [6] 947 huic subito ante oculos similis Tritonia fratri
   - fratri (Deiphobus; Deiphobus): See fratri 947
-  - Tritonia (Tritonia; the Tritonian): Tritonia 947
+  - Tritonia (Tritonia; Tritonia): Tritonia 947
 
 948 occurrens iuuenem simulato decipit ore;
 - [2] 953 Occurrens juvenem simulato decipit ore.
@@ -7814,7 +7814,7 @@ correct it by hand.
   - Priameius (HECTOR; Hector): Priameius heros: the hero son of Priam hurls his javelin against Achilles
 - [6] 960 exclamant Danai. contra Priameius heros
   - Danai (Danai; Danaans): Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
-  - Priameius (Priameius; son of Priam): Priameius heros: Paris 271, Hector 960
+  - Priameius (Priameius; of Priam): Priameius heros: Paris 271, Hector 960
 
 961 uibratum iaculum Vulcania torquet in arma.
 - [2] 966 Vibratum jaculum Vulcania torquet in arma ,
@@ -7919,7 +7919,7 @@ correct it by hand.
 - [4] 975 Corde trahit gemitus. Instat Nereius heros
   - Nereius (ACHILLES; Achilles): — presses Hector
 - [6] 975 corde premit gemitus. instat Nereius heros
-  - Nereius (Nereius; grandson of Nereus): Nereius heros 938. 975: Achilles
+  - Nereius (Nereius; Nereian): Nereius heros 938. 975: Achilles
 
 976 turbatumque premit procul undique; tunc iacit hastam
 - [2] 981 Turbatumqueprocul premit undique; tunc jacit hastam,
@@ -8027,7 +8027,7 @@ correct it by hand.
   - Priamides (HECTOR; Hector): — spoke thus (to Achilles, dying)
 - [6] 988 talia Priamides; quem contra durus Achilles
   - Achilles (Achilles; Achilles): -es 211. 988. 997. 1014. 1043
-  - Priamides (Priamides; son of Priam): Priamides 601. 610. 660. 988
+  - Priamides (Priamides; Priamides): Priamides 601. 610. 660. 988
 
 989 "Quid mea supplicibus temptas inflectere dictis
 - [2] 994 a Quid mea supplicibus tentas inflectere dictis
@@ -8161,7 +8161,7 @@ correct it by hand.
   - Aeacides (ACHILLES; Achilles): — holds the funeral of Patroclus's body
 - [6] 1005 funerat Aeacides pompasque ad funera ducit.
   - ad funera … cf. Virgil, Georg. 3, 22
-  - Aeacides (Aeacides (Achilles); descendant of Aeacus (Achilles)): victor . . . -es 1005. 1026
+  - Aeacides (Aeacides (Achilles); Aeacides (Achilles)): victor . . . -es 1005. 1026
 
 1006 Tum circa tumulum miseros rapit Hectoris artus
 - [2] 1011 Ter circa tumulum miseros rapit Hectoris artus,
@@ -8186,7 +8186,7 @@ correct it by hand.
   - Tydides (DIOMEDES; Diomedes): — < great-hearted >, surpasses all with his chariot
 - [6] 1008 Tydides † tyrsin cursu pedibusque ferocem
   - tyrsin (Tros; Trojan): (Trosin equis? 1008)
-  - Tydides (Tydides; son of Tydeus): Tydides 390. 408. 530. 665. 1008
+  - Tydides (Tydides; Tydides): Tydides 390. 408. 530. 665. 1008
 
 1009 Merionem superat; luctando uincitur Aiax
 - [2] 1014 Merionem superat: luctando vincitur Ajax,
@@ -8338,7 +8338,7 @@ correct it by hand.
 - [4] 1026 Aeacides animum miseri senis; ille trementes
   - Aeacides (ACHILLES; Achilles): — wonders at the spirit of the wretched Priam
 - [6] 1026 Aeacides animum miseri senis; ille trementes
-  - Aeacides (Aeacides (Achilles); descendant of Aeacus (Achilles)): victor . . . -es 1005. 1026
+  - Aeacides (Aeacides (Achilles); Aeacides (Achilles)): victor . . . -es 1005. 1026
   - senis (Priamus; Priam): miseri senis 1026
 
 1027 affusus genibus tendens ad sidera palmas
@@ -8364,7 +8364,7 @@ correct it by hand.
 - [4] 1029 O regnis inimice meis, te Dardana solum
   - Dardana (TROJANI; Trojans): — trembles at you alone (Priam addresses Achilles)
 - [6] 1029 o regnis inimice meis, te Dardana solum
-  - Dardana (Dardanus; Dardan): -na . . . pubes 1029
+  - Dardana (Dardanus; Dardanian): -na . . . pubes 1029
 
 1030 uicta tremit pubes, te sensit nostra senectus
 - [2] 1035 Victa tremit pubes, te sensit nostra senectus
@@ -8443,10 +8443,10 @@ correct it by hand.
 - [2] 1045 Hectoris interitu vicisti Dardana regna,
 - [3] 1040 Hectoris interitu uicisti Dardana regna,
 - [4] 1040 Hectoris interitu vicisti Dardana regna,
-  - Dardana (DARDANUS; Dardan): Dardana regna: you have conquered the Dardan kingdom (Priam to Achilles)
+  - Dardana (DARDANUS; Dardanian): Dardana regna: you have conquered the Dardanian kingdom (Priam to Achilles)
   - Hectoris (HECTOR; Hector): — Troy conquered by Hector's death
 - [6] 1040 Hectoris interitu vicisti Dardana regna,
-  - Dardana (Dardanus; Dardan): -na regna 1040: Trojan
+  - Dardana (Dardanus; Dardanian): -na regna 1040: Trojan
   - Hectoris (Hector; Hector): -oris 232. 565. 1006. 1040
 
 1041 uicisti Priamum: sortis reminiscere uictor
@@ -8544,9 +8544,9 @@ correct it by hand.
   - *Stant circum Iliades* [The Trojan women stand around]. Virgil indicates that this custom was observed at the funerals of Polydorus and Pallas, *Aen.* III, 65 and XI, 35, by this verse: *Stant circum Iliades crinem de more solutae*. Therefore *abrumpere crines* [to tear hair], which our poet uses, is the same as Virgil's *solvere crines* [to loose hair].
 - [3] 1052 Stant circum Iliades matres manibusque decoros
 - [4] 1052 Stant circum Iliades matres manibusque decoros
-  - Iliades (ILIADES; women of Ilium): — the mothers of Ilium stand round Hector's body
+  - Iliades (ILIADES; Iliades): — the Ilian mothers stand round Hector's body
 - [6] 1052 stant circum Iliades matres manibusque decoros
-  - Iliades (Iliades; women of Ilium): -des matres 1052
+  - Iliades (Iliades; Iliades): -des matres 1052
 
 1053 abrumpunt crines laniataque pectora plangunt:
 - [2] 1058 Abrumpunt crines, laniataque pectora tundunt :
@@ -8573,7 +8573,7 @@ correct it by hand.
 - [4] 1056 Flebilis : ardebat flamma namque Ilion illa.
   - Ilion (TROJA; Troy): — the flame with which Hector's body burned
 - [6] 1056 flebilis: ardebat flamma namque Ilion illa.
-  - Ilion (Ilion; Ilium): Ilĭŏn 153. 1056
+  - Ilion (Ilion; Ilion): Ilĭŏn 153. 1056
 
 1057 Inter quos gemitus laniato pectore coniunx
 - [2] 1062 Inter quos gemitus laniato corpore conjux
