@@ -22,30 +22,41 @@ texts/README.md and src/README.md first.
 
 ### Checking the names
 
-Each section (commentary/NN/VVVV.md) is read verse by verse against the
-rows of those verses in commentary/index.tsv (see commentary/README.md,
-Index), which gives the rows of the indexes as texts/COMMENTARY-en.md
-does, without the rest:
+The sections (commentary/NN/VVVV.md) are checked against the rows of
+their verses in commentary/index.tsv (see commentary/README.md, Index),
+which gives the rows of the indexes as texts/COMMENTARY-en.md does,
+with the headword, its English, the form and the description in
+columns of their own.  The check is made in two passes, kept apart:
 
-1. **The person**: the one the translation and the commentary mean is
-   the one the headword gives, above all for patronymics, epithets and
-   periphrases (Atrides, Aeacides, *Priami filius*, *Pelopea iuventus*,
-   Cytherea) and for homonyms (Acamas 1 and 2, Aiax Locrus and
-   Telamonius).
-2. **The English name**: the name in the translation agrees with the
-   English headword of the row ("Ulysses", "Ajax", "Greeks"), follows
-   the policy in commentary/README.md, and the same person or people is
-   called the same way throughout (e.g. *Myrmidones* for the Greeks at
-   large, 23, 180).  Where the policy keeps a patronymic or a name as it
-   is (Atrides, Pelides, Cytherea) and the headword is the person
-   ("Agamemnon") or a gloss ("son of Peleus"), the translation keeps
-   the Latin and only the person is checked (1).  A difference is
-   reported with which side seems wrong: the translation, or the English
-   headword of INDEX-en.tsv (added by hand, following the translations).
-3. **The word**: the form the row cites is translated in its own verse,
-   not moved to another.
-4. **The commentary**: what it says of the person (descent, people,
-   who kills whom) agrees with the description.
+A. **The names** (notation), over all the books at once, headword by
+   headword:
+   - the name in the translation agrees with the English headword of
+     the row ("Ulysses", "Ajax", "Greeks") and follows the policy in
+     commentary/README.md.  Where the policy keeps a patronymic or a
+     name as it is (Atrides, Pelides, Cytherea) and the headword is the
+     person ("Agamemnon") or a gloss ("son of Peleus"), the translation
+     keeps the Latin and only the person is checked (in B);
+   - the same person or people is called the same way throughout, in
+     the translation (106 *Ignipotente* "the fire god" but 862
+     "Ignipotens"; *Myrmidones* for the Greeks at large, 23, 180) and
+     in the commentary's explanations ("Pallas is Athena" or Minerva);
+   - the name the row cites appears in the translation of its verse,
+     not only as a gloss (108 *Olympo* "the sky", while the commentary
+     speaks of "Olympus").
+   A difference is reported with which side seems wrong: the
+   translation, or the English headword of INDEX-en.tsv (added by hand,
+   following the translations).  The decisions taken here (one form
+   for each person) are applied in all the books.
+B. **The content**, book by book, verse by verse:
+   1. **The person**: the one the translation and the commentary mean
+      is the one the headword gives, above all for patronymics,
+      epithets and periphrases (Atrides, Aeacides, *Priami filius*,
+      *Pelopea iuventus*, Cytherea) and for homonyms (Acamas 1 and 2,
+      Aiax Locrus and Telamonius).
+   2. **The word**: the form the row cites is translated in its own
+      verse, not moved to another.
+   3. **The commentary**: what it says of the person (descent, people,
+      who kills whom) agrees with the description.
 
 - index.tsv keeps the rows on readings that The Latin Library does not
   have (151 *Pelasgi*, 195 *Nireus*) and the rows of a range at its
@@ -55,9 +66,11 @@ does, without the rest:
 - A mechanical first pass is allowed (e.g. counting the verses with
   index rows whose translation lacks the headword-en); its script stays
   in the scratchpad unless the user wants it kept.
-- The problems are reported book by book (verse, file, the passage, the
-  index row, which of 1–4, a proposed correction) before anything is
-  edited, as in steps 3 and 4 below.
+- The problems are reported before anything is edited, as in steps 3
+  and 4 below: in A headword by headword (the forms found, with their
+  verses and files, and a proposed form), in B book by book (verse,
+  file, the passage, the index row, which of 1–3, a proposed
+  correction).
 - An index row that seems wrong is checked in the edition's index.md
   and ilias.md (the page images as a last resort) and reported.  It is
   corrected in the data, not in a script: in double braces in index.md

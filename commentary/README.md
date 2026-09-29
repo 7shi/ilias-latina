@@ -132,17 +132,20 @@ editions' files change.
 of Plessis and Vollmer (their `INDEX-en.tsv` in texts/), for checking
 the names of the translation and the commentary: whom a name,
 patronymic or periphrasis means, and how the editors describe the
-person.  It was made once from
+person.  It was made once from the editions' `INDEX-en.tsv`, placing
+the rows at their verses as `make commentary` in texts/
+([commentary.py](../texts/commentary.py)) does for
 [texts/COMMENTARY-en.md](../texts/COMMENTARY-en.md), after the sections
 had been generated and checked, and is corrected by hand from then on;
 it is not rebuilt when the editions' files change.
 
 - Columns: `verse` (The Latin Library; "245a" a verse it does not
-  have), `edition` (4 Plessis, 6 Vollmer), `note`, in the order of
-  COMMENTARY-en.md: "form (HEADWORD; headword in English): description",
-  the form of the word in the edition's verse ("—" where the verse does
-  not have it), the headword in Latin and English, and the description
-  in English.
+  have), `edition` (4 Plessis, 6 Vollmer), `headword`, `headword-en`,
+  `form` and `description` as in `INDEX-en.tsv`: the headword in Latin
+  and English, the form of the word in the edition's verse (empty where
+  the verse does not have it) and the description in English.  The rows
+  of a verse are in the order of COMMENTARY-en.md: Plessis before
+  Vollmer, each in the order of its index.
 - A row citing a range of verses is at the first of them, though the
   word may be in a later one (184, *Tydides* in 185); a row citing
   several verses is at each of them, but only at the first of
