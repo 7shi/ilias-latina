@@ -28,15 +28,22 @@ counterparts, from the editions' Japanese drafts:
   INDEX-ja.tsv.  Its names are the drafts', not yet made to agree with
   the forms settled in English.
 
+The Japanese translation with a commentary in commentary/ja/ is
+finished in all 24 books: translated section by section from the
+English by Gemini without looking at commentary-ja.tsv and
+index-ja.tsv (see [Translating into Japanese](#translating-into-japanese)),
+mechanically checked against commentary/en/ (headings, Latin verses,
+paragraph counts), with proper names recorded book by book in
+[commentary/ja/proper_noun.md](commentary/ja/proper_noun.md).
+
 Next:
 
-1. commentary/ja/: the Japanese translation of commentary/en/, made
-   by a model (Gemini) without looking at commentary-ja.tsv and
-   index-ja.tsv (see [Translating into Japanese](#translating-into-japanese)).
-   Proper names are recorded book by book in commentary/pn-ja.md.
+1. [Done] commentary/ja/: the Japanese translation of commentary/en/,
+   finished in all 24 books, with proper names recorded book by book in
+   [commentary/ja/proper_noun.md](commentary/ja/proper_noun.md).
 2. commentary/ja/, commentary-ja.tsv and index-ja.tsv are checked
    against each other, and the TSVs corrected (the names above all,
-   and the 122 adapted notes).
+   and the 122 adapted notes; see [Checking the Japanese](#checking-the-japanese)).
 3. The corrections are fed back to texts/: the notes to the editions'
    ilias-ja.md and COMMENTARY-ja.md, the index rows to INDEX-ja.tsv and
    index-ja.md; then `make notes` in texts/.
@@ -58,7 +65,7 @@ summaries `NN/README.md`.
   the Japanese files in texts/ (`*-ja.md`, `INDEX-ja.tsv`,
   notes-ja.md).  The Japanese is made from the English alone, so that
   it can be checked against them afterwards (step 2 above).
-- Written only in commentary/ja/ and commentary/pn-ja.md; no other
+- Written only in commentary/ja/ (including commentary/ja/proper_noun.md); no other
   file is changed, and nothing is committed.
 
 The form:
@@ -134,7 +141,7 @@ way, in the verses and in the commentary.
   editions).
 
 At the end of each book, its proper names are recorded in
-commentary/pn-ja.md in a section for that book, with their English or
+commentary/ja/proper_noun.md in a section for that book, with their English or
 Latin forms, Japanese katakana, category/explanation, and verse
 numbers.  The files written are reported, with every name not in the
 lists above and the Japanese form chosen for it, so that the forms can
@@ -154,7 +161,7 @@ is taken over here, steps 2 and 3 of Next:
    Then each section is read against the English: nothing added or
    left out, each verse with its own words only, the headings and
    quotation marks as in [Translating into Japanese](#translating-into-japanese).
-3. **The names.**  The names in commentary/pn-ja.md and those found in
+3. **The names.**  The names in commentary/ja/proper_noun.md and those found in
    the files are checked with their verses and files; each person or
    people has one form, following the rules and lists above and
    [The forms settled](#the-forms-settled).  A form not in the lists
