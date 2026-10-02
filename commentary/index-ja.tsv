@@ -479,7 +479,7 @@ verse	edition	headword	headword-ja	form	description
 268	6	Danai	ダナオイ	Danaum	-um(属格):19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 268	6	Phryges	プリュギア人	Phrygum	-gum . . . populus 268
 271	4	PARIS	パリス	Priameius	Priameius heros:プリアモスの子なる英雄がヘクトルに手短に答える
-271	6	Priameius	プリアモスの子	Priameius	Priameius heros:パリス 271、ヘクトル 960
+271	6	Priameius	プリアモスの	Priameius	Priameius heros:パリス 271、ヘクトル 960
 273	6	Hector	ヘクトル	decus	o patriae, germane, decus 273
 273	6	Helene	ヘレネ	coniunx	coniunx 273. 276. 285. 301
 275	6	Menelaus	メネラオス	viri	viri 275. 288. 329
@@ -1105,9 +1105,9 @@ verse	edition	headword	headword-ja	form	description
 739	6	Agamemnon	アガメムノン	duci	dux 134. 156. 739
 739	6	Pelopeius	ペロプス家の	Pelopeius	Pelopeius heros 131. 739:アガメムノン
 743	4	GRAI	ギリシア人	Danaum	— 将たち
-743	4	TROJANI	トロイア人	Dardanidum	Dardanidae Dardanidum duces:ダルダノスの子孫たちの将たち
+743	4	TROJANI	トロイア人	Dardanidum	Dardanidae Dardanidum duces:ダルダニデスたちの将たち
 743	6	Danai	ダナオイ	Danaum	-um(属格):19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
-743	6	Dardanides	ダルダノスの子孫	Dardanidum	-dum . . . duces 743:トロイア人の
+743	6	Dardanides	ダルダニデス	Dardanidum	-dum . . . duces 743:トロイア人の
 747	4	AGAMEMNON	アガメムノン	Danaum	— アンティポスを傷つける
 747	4	GRAI	ギリシア人	Danaum	— 王(アガメムノン)
 747	6	Agamemnon	アガメムノン	rex	Danaum rex 747
@@ -1117,12 +1117,12 @@ verse	edition	headword	headword-ja	form	description
 749	4	HIPPOLOCHUS	ヒッポロコス	Hippolochum	Hippolochum:アガメムノンは戦いへ突進するヒッポロコスを斬り殺す
 749	4	PISANDER	ペイサンドロス	Pisandrum	Pisandrum:アガメムノンがペイサンドロスを斬り殺す
 749	6	Pisander	ペイサンドロス	Pisandrum	*Pisandrum (tess- trad.) 749:アンティマコスの子
-750	4	IPHIDAMAS	イーピダマース	Iphidamanta	Iphidamanta:アガメムノンがイーピダマースを殺す
+750	4	IPHIDAMAS	イピダマス	Iphidamanta	Iphidamanta:アガメムノンがイピダマスを殺す
 750	6	Hippolochus	ヒッポロコス	Hippolochum	Pisandrum . . . fratremque . . . *Hippolochum 750:アンティマコスの子ら
-750	6	Iphidamas	イーピダマース	Iphidamanta	*Iphidamanta (amphi- trad.) 750:アンテノルの子
-751	6	Coon	コオーン	frater	(Coon)、アンテノルの子:frater 751
-752	4	ANTENOR	アンテノル	Antenore	— アガメムノンはその息子(コオーン)を追って傷つける
-752	6	Antenor 2	アンテーノール 2	Antenore	Antenore natum 752:トラキア人コオーン
+750	6	Iphidamas	イピダマス	Iphidamanta	*Iphidamanta (amphi- trad.) 750:アンテノルの子
+751	6	Coon	コオン	frater	(Coon)、アンテノルの子:frater 751
+752	4	ANTENOR	アンテノル	Antenore	— アガメムノンはその息子(コオン)を追って傷つける
+752	6	Antenor 2	アンテノル 2	Antenore	Antenore natum 752:トラキア人コオン
 754	4	HECTOR	ヘクトル	Hector	— プリアモスの子、怒って激しい戦いに入る
 754	6	Hector	ヘクトル	Hector	-or . . . Priamides 754
 754	6	Priamides	プリアミデス	Priamides	Hector -es 754:ヘクトル
@@ -1136,9 +1136,9 @@ verse	edition	headword	headword-ja	form	description
 758	4	TROJANI	トロイア人	Troes	Troes:トロイア人が押し寄せ、ギリシア人が逃げる
 758	6	Pelasgi	ペラスゴイ	Pelasgi	Pelasgi 758. 769
 758	6	Tros	トロイア人	Troes	Troes 758. 767. 928. 978. 1002、いずれも子音の前または最後の不定の位置で
-760	4	HECTOR	ヘクトル	Hector	— マルスの者が石で敵陣の門を打ち破る
+760	4	HECTOR	ヘクトル	Hector	— 好戦的なヘクトルが石で敵陣の門を打ち破る
 760	6	Hector	ヘクトル	Hector	Martius -or 760
-760	6	Martius	マールスの	Martius	Martius Hector 760
+760	6	Martius	好戦的な	Martius	Martius Hector 760
 762	4	TROJANI	トロイア人	Phryges	— 敵陣の入口に突入する
 762	6	Phryges	プリュギア人	Phryges	Phryges 401. 493. 636. 682. 762. 803
 763	4	GRAI	ギリシア人	Grajos	— トロイア人はギリシア人を打ち倒す
@@ -1152,9 +1152,9 @@ verse	edition	headword	headword-ja	form	description
 770	4	TROJANI	トロイア人	Trojana	— ギリシア人に迫る
 770	6	Troianus	トロイアの	Troiana	Troiana iuventus 542. 770
 772	4	GRAI	ギリシア人	Danais	Danais:ネプトゥヌスがダナオイに力を与える
-772	4	NEPTUNUS	ネプトゥーヌス	Neptunus	ギリシア人に勇気と力を与える
+772	4	NEPTUNUS	ネプトゥヌス	Neptunus	ギリシア人に勇気と力を与える
 772	6	Danai	ダナオイ	Danais	-is 772
-772	6	Neptunus	ネプトゥーヌス	Neptunus	Neptunus 772
+772	6	Neptunus	ネプトゥヌス	Neptunus	Neptunus 772
 774	4	AMPHIMACHUS princeps Epeorum	アムピマコス、エペイオス人の将	Amphimachum	Amphimachum:ヘクトルが猛きアムピマコスを斬り倒す
 774	4	ASIUS Hyrtaci filius	アシオス、ヒュルタコスの子	Asius	— イドメネウスの右手に倒れる
 774	4	HECTOR	ヘクトル	Hector	— アムピマコスを斬り倒す
@@ -1163,11 +1163,11 @@ verse	edition	headword	headword-ja	form	description
 774	6	Hector	ヘクトル	Hector	Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 774	6	Idomeneus	イドメネウス	Idomenei	-nei dextrā 774
 775	6	Amphimachus 1	アムピマコス 1	Amphimachum	Hector atrocem -um obtruncat 775
-776	4	ALCATHOUS	アルカトオス	Alcathous	アンキーセースの婿、殺される
+776	4	ALCATHOUS	アルカトオス	Alcathous	アンキセスの婿、殺される
 776	6	Alcathous	アルカトオス	Alcathous	Anchisae gener Alcathous 776
-776	6	Anchises	アンキーセース	Anchisae	Anchisae gener Alcathous 776
-777	4	IDOMENEUS	イドメネウス	Rhythieus	Ductor Rhythieus:リュティオンの心大いなる将がアルカトオスを殺す
-777	6	Rhytieus	リュティオンの人	Rhytieus	magnanimus ductor Rhytieus 777:イドメネウス
+776	6	Anchises	アンキセス	Anchisae	Anchisae gener Alcathous 776
+777	4	IDOMENEUS	イドメネウス	Rhythieus	Ductor Rhythieus:心大いなる将リュティエウスがアルカトオスを殺す
+777	6	Rhytieus	リュティエウス	Rhytieus	magnanimus ductor Rhytieus 777:イドメネウス
 778	4	ASCALAPHUS	アスカラポス	Ascalaphum	Ascalaphum:デイポボスが彼を殺す
 778	4	DEIPHOBUS	デイポボス	Deiphobus	— アスカラポスを斬り殺す
 778	6	Ascalaphus	アスカラポス	Ascalaphum	-um 778
@@ -1180,26 +1180,26 @@ verse	edition	headword	headword-ja	form	description
 782	6	Troianus	トロイアの	Troiana	-na manus 782
 783	4	XANTHUS fluvius	クサントス、河	Xanthi	Xanthi:トロイア人は傷ついたヘクトルをクサントスの波で洗う
 783	6	Xanthus (fluvius)	クサントス(河)	Xanthi	Xanthi . . . fluentis 783
-786	4	POLYDAMAS	ポリュダマース	Polydamas	プロトエノルを殺す
-786	4	PROTHOENOR	プロトエノル	Prothoenora	Prothoenora:ポリュダマースがプロトエノルを殺す
-786	6	Polydamas	ポリュダマース	Polydamas	Polydamas 786:パントオスの子
+786	4	POLYDAMAS	ポリュダマス	Polydamas	プロトエノルを殺す
+786	4	PROTHOENOR	プロトエノル	Prothoenora	Prothoenora:ポリュダマスがプロトエノルを殺す
+786	6	Polydamas	ポリュダマス	Polydamas	Polydamas 786:パントオスの子
 786	6	Prothoenor	プロトエノル	Prothoënora	-ora 786
 787	4	AJAX Telamonis filius	アイアス、テラモンの子	Ajax	— テラモンの子がアルケロコスを打つ
 787	4	ARCHILOCHUS	アルケロコス	Archilochum	Archilochum:テラモンの子アイアスがアンテノルの子アルケロコスを殺す
 787	6	Aiax (Telamonius)	アイアス（テラモンの子）	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
-787	6	Antenorides	アンテーノールの子	Antenoriden	Archelochum . . . Antenoriden 787
+787	6	Antenorides	アンテノリデス	Antenoriden	Archelochum . . . Antenoriden 787
 787	6	Archelochus	アルケロコス	Archelochum	-um . . . Antenoriden 787:トロイア人
 787	6	Telamonius	テラモンの	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 788	4	ACAMAS Antenoris filius	アカマス、アンテノルの子	Acamas	— プロマコスを傷つける
 788	4	BOEOTUS	ボイオティア人	Boeotum	Boeotum(Promachus を参照)
 788	4	PROMACHUS	プロマコス	Promachum	Promachum:アンテノルの子アカマスがボイオティア人プロマコスを傷つける
-788	6	Acamas 1	アカマス 1	Acamas	-as はプロマコスを殺した。そのプロマコスを猛きペネレオスの右手が打ち倒す 788
+788	6	Acamas 1	アカマス 1	Acamas	-as はプロマコスを殺した。そのアカマスを猛きペネレオスの右手が打ち倒す 788
 788	6	Boeotus	ボイオティア人	Boeotum	Boeotum . . . Promachum 788
 788	6	Promachus	プロマコス	Promachum	Boeotum . . . Promachum 788
 789	4	PENELEUS	ペネレオス	Penelei	Penelei:猛きペネレオスの右手がアンテノルの子アカマスを打ち倒す
 789	4	TROJANI	トロイア人	Priameia	Priameia pubes:プリアモスの若者たちが倒れる
 789	6	Peneleos	ペネレオス	Penelei	atrocis -lei 789:ボイオティア人の将
-789	6	Priameius	プリアモスの子	Priameia	-eia pubes 789. 837:トロイア人
+789	6	Priameius	プリアモスの	Priameia	-eia pubes 789. 837:トロイア人
 790	4	GRAI	ギリシア人	Achaica	Achaica turba:アカイアの群れが逃げる
 790	4	TROJANI	トロイア人	Troes	— より激しく立ち上がる
 790	6	Achaicus	アカイアの	Achaica	insurgunt Troes ad Achaica bella 790
@@ -1212,7 +1212,7 @@ verse	edition	headword	headword-ja	form	description
 794	6	Hector	ヘクトル	Hector	Danaum metus, impiger -or 794
 795	4	AGAMEMNON	アガメムノン	Agamemnonis	— ヘクトルに押されて、彼の部隊は船へ逃げる
 795	6	Agamemnon	アガメムノン	Agamemnonis	-onis 121. 795
-797	4	HECTOR	ヘクトル	Hector	— マルスの子が荒れ狂い、ギリシア人の船を焼こうとする
+797	4	HECTOR	ヘクトル	Hector	— マウォルスのヘクトルが荒れ狂い、ギリシア人の船を焼こうとする
 797	6	Hector	ヘクトル	Hector	Mavortius -or 543. 797
 797	6	Mavortius	マウォルスの	Mavortius	Mavortius Hector 543. 797
 799	4	AJAX Telamonis filius	アイアス、テラモンの子	Ajax	— ただ一人で船を守る
@@ -1250,7 +1250,7 @@ verse	edition	headword	headword-ja	form	description
 824	4	ACHILLES	アキレウス	Achilles	主格、述語として:パトロクロスは、ヘクトルに本物のアキレウスと信じられるよう沈黙する
 824	6	Achilles	アキレウス	Achilles	verus . . . -es 824
 826	4	HECTOR	ヘクトル	Dardanides	Dardanides:ダルダノスの子孫が槍でパトロクロスに向かう
-826	6	Dardanides	ダルダノスの子孫	Dardanides	Dardanides 826:ヘクトル
+826	6	Dardanides	ダルダニデス	Dardanides	Dardanides 826:ヘクトル
 827	4	PATROCLUS	パトロクロス	Patroclus	— ヘクトルの槍をかわす
 827	6	Patroclus	パトロクロス	Patroclus	Patroclus 806. 827
 830	4	APOLLO	アポロ	Apollo	— トロイアの[アポロ]が、アキレウスの姿で戦うパトロクロスを裸にする
@@ -1268,7 +1268,7 @@ verse	edition	headword	headword-ja	form	description
 836	6	Patroclus	パトロクロス	extincti	extincti 836
 836	6	Telamonius	テラモンの	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 837	4	TROJANI	トロイア人	Priameia	— 喜びに躍り上がる
-837	6	Priameius	プリアモスの子	Priameia	-eia pubes 789. 837:トロイア人
+837	6	Priameius	プリアモスの	Priameia	-eia pubes 789. 837:トロイア人
 838	4	GRAI	ギリシア人	Danai	— 自らの死者を悼む
 838	6	Danai	ダナオイ	Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 840	4	ANTILOCHUS	アンティロコス	Nestorides	Nestorides:パトロクロスの亡骸を陣営に運び帰る
@@ -1346,7 +1346,7 @@ verse	edition	headword	headword-ja	form	description
 895	6	Cythereius	キュテーラの女神の子	Cythereius	Cythereius heros 895:アイネイアス
 897	4	ACHILLES	アキレウス	Aeacidae	Aeacidae:アイネイアスはアイアコスの末裔に匹敵しなかった
 897	6	Aeacides (Achilles)	アエアキデス（アキレウス）	Aeacidae	-dae 897
-899	6	Neptunus	ネプトゥーヌス	rector	magnarum rector aquarum 899 を参照
+899	6	Neptunus	ネプトゥヌス	rector	magnarum rector aquarum 899 を参照
 900	4	LATIUS	ラティウムの	Latiis	Latiis in arvis:ラティウムの野に
 900	4	TROJA	トロイア	Trojam	— ラティウムの野に再建されたトロイア
 900	6	Aeneas	アイネイアス	profugus	profugus 900
@@ -1416,7 +1416,7 @@ verse	edition	headword	headword-ja	form	description
 960	4	GRAI	ギリシア人	Danai	— アキレウスの槍がヘクトルに避けられると叫ぶ
 960	4	HECTOR	ヘクトル	Priameius	Priameius heros:プリアモスの子なる英雄がアキレウスに向けて投げ槍を投げる
 960	6	Danai	ダナオイ	Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
-960	6	Priameius	プリアモスの子	Priameius	Priameius heros:パリス 271、ヘクトル 960
+960	6	Priameius	プリアモスの	Priameius	Priameius heros:パリス 271、ヘクトル 960
 961	4	VULCANIUS	ウルカーヌスの	Vulcania	Vulcania arma:ウルカヌスの武具
 961	6	Vulcanius	ウルカーヌスの	Vulcania	Vulcania . . . arma、アキレウスの 835. 961
 963	4	TROJANI	トロイア人	Troum	— トロイア人の隊列が呻いた

@@ -22,11 +22,11 @@ counterparts, from the editions' Japanese drafts:
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
   full Japanese in the edition's ilias-ja.md, by hand; those outside
-  books 1–10 have not yet been reviewed.
+  books 1–15 have not yet been reviewed.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
   INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
-  for books 1–10 have now been unified throughout the index.
+  for books 1–15 have now been unified throughout the index.
 
 The Japanese translation with a commentary in commentary/ja/ is
 finished in all 24 books: translated section by section from the
@@ -41,7 +41,7 @@ Book 1 has been checked against the English sections and summary, all
 have been corrected; the reviewed index headwords have been unified
 throughout index-ja.tsv. Two draft gloss differences remain report-only:
 verse 11, edition 2 (破滅 for "plague"), and verse 46, edition 2
-(機知に富んでいる for "vivid"). Books 11–24 still need their semantic
+(機知に富んでいる for "vivid"). Books 16–24 still need their semantic
 review, and the corrections have not yet been carried over to texts/.
 
 Book 2 has also been checked: 61 sections and the summary, 298 index
@@ -186,6 +186,71 @@ keys of the shared proper-name table still have one Japanese rendering
 each. The non-name draft differences listed above remain unchanged,
 and the corrections have not been carried over to texts/.
 
+Book 11 has been checked: 8 sections and the summary, all 17 verses
+(741–757), 28 index rows and 10 notes. Daybreak and refreshed soldiers
+are translated accurately; the missile cloud, blades and received
+pain have been restored to their own verses. The summary correctly
+makes Hippolochus, not Agamemnon, the man rushing into battle. Isus
+uses イソス. The 32-row name table records actual occurrences and
+preserves Vollmer's distinction between the father of Coon and the
+Trojan elder at 237. Four non-name draft differences remain
+report-only, all in edition 2 notes: at 743 投槍 narrows missiles;
+at 748 ホメロス詩人 renders Homerist without clearly conveying the
+imitation; at 752 兄 specifies an older brother; at 753 the Japanese
+adds the manuscript siglum (H.).
+
+Book 12 has been checked: 6 sections and the summary, all 14 verses
+(758–771), 19 index rows and 4 notes. The massive bars are placed in
+their own verses, warlike Hector uses 好戦的な, and loosening the
+woodwork is not smashing it. Firebrands are 燃えさし; the Greeks
+climb aboard ships, not specifically their sterns; the repeated
+missiles are not restricted to spears. The 13-row name table separates
+Mars from the adjective Martius. No further non-name draft meaning
+differences were found.
+
+Book 13 has been checked: 5 sections and the summary, all 7 verses
+(772–778), 21 index rows and 3 notes. Fierce at 774 describes
+Amphimachus, not Hector. The killing verb at 776 is restored to its
+own verse, and great-hearted is not reduced to boldness. Rhytieus
+uses リュティエウス, separately from the place Rhytion リュティオン
+in the 23-row name table. Two non-name draft differences remain
+report-only, both in edition 2 notes: at 774 戦列 renders battle;
+at 776 the Japanese adds a gloss of the Latin Alcathous.
+
+Book 14 has been checked: 8 sections and the summary, all 11 verses
+(779–789), 28 index rows and 2 notes. Hector is laid out at full
+length; vomiting at 782 does not anticipate the blood at 783. The
+verbs at 784 and 788 are restored to their own verses. Antenorides
+uses アンテノリデス and Telamonian テラモンの. The 23-row name
+table separates fathers, patronymics and adjectives and distinguishes
+Acamas from the Thracian namesake in book 6. The edition 6 index
+at 788 corrects the named victim of Peneleus from Promachus to Acamas,
+as confirmed by the commentary at 789. No further non-name draft
+meaning differences were found.
+
+Book 15 has been checked: 7 sections and the summary, all 15 numbered
+verses (790–804), including the unchanged missing-verse marker at
+791, 21 index rows and 3 notes. Tireless Hector is 疲れを知らぬ;
+Ajax stands at the stern, without the contradictory 船尾の舳先.
+The boarding spear is a weapon used in fighting aboard ships.
+Mavortian Hector uses マウォルスのヘクトル in the index, not a son
+of Mars. The 21-row name table separates Mavors and Mavortian, and
+records Plessis' supplied Pelopea wording only in the commentary.
+Four non-name draft differences remain report-only, all in edition 2
+notes: at 790 自らの陣船 makes the possessive unclear, and
+奮い立たされ renders revived as encouragement; at 800 アイアスの
+語り手 misrepresents Ajax himself speaking; at 801 軍船 narrows
+ships to warships.
+
+Books 11–15 were checked as a range: 34 sections and five summaries,
+64 numbered Latin verses including the missing 791, 117 index rows
+and 22 notes. Reviewed index headwords are unified throughout
+index-ja.tsv; description and note changes are confined to names in
+this range. The exact first-column keys of the shared proper-name
+table still have one Japanese rendering each. The non-name draft
+differences listed above remain unchanged, and the corrections have
+not been carried over to texts/.
+
 Next:
 
 1. [Done] commentary/ja/: the Japanese translation of commentary/en/,
@@ -269,6 +334,7 @@ way, in the verses and in the commentary.
   Cygneis キュグネイス, Ilion
   イリオン, Ilios イリオス, Pergama ペルガマ, Amaryncides アマリュンキデス,
   Eumediades エウメディアデス, Iliades イリアデス,
+  Antenorides アンテノリデス, Rhytieus リュティエウス,
   Eurus エウルス, Hesperus ヘスペルス, Pierides ピエリデス;
   the others of the kind (Arctos, Lucifer, Luna …) likewise.
 - Adjectives of names as 「〜の」: Mavortian Hector マウォルスのヘクトル,
@@ -291,7 +357,7 @@ way, in the verses and in the commentary.
   Polypoetes ポリュポイテス, Amarynceus アマリュンケウス,
   Charopus カロプス, Clonius クロニオス, Phidippus ペイディッポス,
   Euhaemon エウアイモン, Echemmon エケムモン, Plisthenes プレイステネス,
-  Eussorus エウソロス, Phaestus パイストス; the others
+  Eussorus エウソロス, Phaestus パイストス, Isus イソス; the others
   in the same way, from the Greek, by the same rule for long vowels.
 - Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
   Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
