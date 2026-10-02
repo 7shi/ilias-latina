@@ -1392,17 +1392,17 @@ verse	edition	headword	headword-ja	form	description
 932	6	Hector	ヘクトル	Hector	unus tota salus in quo Troiana manebat -or 932
 934	4	ACHILLES	アキレウス	Achillem	偉大なアキレウスに対してヘクトルは戦おうとする
 934	6	Achilles	アキレウス	Achillem	magnum . . . -em 60. 72. 934
-936	4	MINERVA	ミネルウァ	Pallas	[— トリートーンの女神が突然ヘクトルの目の前に現れる]
+936	4	MINERVA	ミネルウァ	Pallas	[— トリトニアが突然ヘクトルの目の前に現れる]
 936	6	Pallas	パラス	Pallas	[Tritonia -as 936]
-936	6	Tritonia	トリトンの女神	Tritonia	[-ia Pallas 936]
+936	6	Tritonia	トリトニア	Tritonia	[-ia Pallas 936]
 938	4	ACHILLES	アキレウス	Nereius	Nereius heros:恐れるヘクトルを追う
-938	6	Nereius	ネレウスの孫	Nereius	Nereius heros 938. 975:アキレウス
+938	6	Nereius	ネレウスの	Nereius	Nereius heros 938. 975:アキレウス
 944	6	Hecabe	ヘカベ	parentes	parentes 944 を参照
 944	6	Priamus	プリアモス	parentes	parentes 944
 945	6	Hector	ヘクトル	natum	natum 945. 1033. 1036
 947	4	MINERVA	ミネルウァ	Tritonia	Tritonia:デイポボスの顔と武具をまとって、ヘクトルを欺く
 947	6	Deiphobus	デイポボス	fratri	fratri 947 を参照
-947	6	Tritonia	トリトンの女神	Tritonia	Tritonia 947
+947	6	Tritonia	トリトニア	Tritonia	Tritonia 947
 949	4	DEIPHOBUS	デイポボス	Deiphobi	Deiphobi:ミネルウァはデイポボスの姿をとる
 949	6	Deiphobus	デイポボス	Deiphobi	-bi 949:プリアモスの子
 950	4	GRAI	ギリシア人	Danaos	ダナオイのほうへ、ミネルウァが自らの神威を移す
@@ -1425,7 +1425,7 @@ verse	edition	headword	headword-ja	form	description
 967	6	Hector	ヘクトル	Hector	Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 968	6	Deiphobus	デイポボス	fraterna	fraterna . . . auxilia 968
 975	4	ACHILLES	アキレウス	Nereius	— ヘクトルに迫る
-975	6	Nereius	ネレウスの孫	Nereius	Nereius heros 938. 975:アキレウス
+975	6	Nereius	ネレウスの	Nereius	Nereius heros 938. 975:アキレウス
 978	4	GRAI	ギリシア人	Danai	— ヘクトルが殺されると歓喜する
 978	4	TROJANI	トロイア人	Troes	— 自らの死者を悼む
 978	6	Danai	ダナオイ	Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
@@ -1446,9 +1446,9 @@ verse	edition	headword	headword-ja	form	description
 986	6	Peleus	ペレウス	Peleus	Peleus 986:アキレウスの父
 986	6	Priamus	プリアモス	patris	afflicti . . . patris 986. 1032
 987	4	PRIAMUS	プリアモス	Priamo	Pro Priamo:プリアモスのためにペレウスがアキレウスを動かさんことを(ヘクトルが語る)
-987	4	PYRRHUS	ピュッロス	Pyrrhus	ヘクトルのためにピュッロスがアキレウスを動かさんことを
+987	4	PYRRHUS	ピュロス	Pyrrhus	ヘクトルのためにピュロスがアキレウスを動かさんことを
 987	6	Priamus	プリアモス	Priamo	pro -mo 987
-987	6	Pyrrhus	ピュッロス	Pyrrhus	Pyrrhus 987:アキレウスの子
+987	6	Pyrrhus	ピュロス	Pyrrhus	Pyrrhus 987:アキレウスの子
 988	4	ACHILLES	アキレウス	Achilles	— 無情なる者、ヘクトルの嘆願を退ける
 988	4	HECTOR	ヘクトル	Priamides	— このように語った(アキレウスに、死に際して)
 988	6	Achilles	アキレウス	Achilles	-es 211. 988. 997. 1014. 1043
@@ -1481,8 +1481,8 @@ verse	edition	headword	headword-ja	form	description
 1009	4	AJAX Telamonis filius	アイアス、テラモンの子	Ajax	— 相撲で負ける(アキレウスがパトロクロスの亡骸の葬儀を行う間に)
 1009	6	Aiax (Telamonius)	アイアス（テラモンの子）	Aiax	-ax 538. 799. 1009
 1009	6	Meriones	メリオネス	Merionem	-em 1009(?)
-1010	4	ULIXES	ウリクセス	Laertius	Laertius:ラーエルテースの子が葬送競技で相撲においてアイアスに勝つ
-1010	6	Laertius	ラーエルテースの	Laertius	Laertius astus 1010:ウリクセス
+1010	4	ULIXES	ウリクセス	Laertius	Laertius:ラエルテスの子が葬送競技で相撲においてアイアスに勝つ
+1010	6	Laertius	ラエルテスの	Laertius	Laertius astus 1010:ウリクセス
 1011	4	EPEUS	エペイオス	Epeus	拳闘の籠手ですべての者に勝つ
 1011	6	Epeos	エペイオス	Epeos	caestibus . . . cunctos superavit *Epeos 1011
 1012	4	POLYPOETES	ポリュポイテス	Polypoetes	— 葬送競技で円盤においてすべての者に勝つ
@@ -1554,15 +1554,15 @@ verse	edition	headword	headword-ja	form	description
 1056	6	Ilion	イリオン	Ilion	Ilĭŏn 153. 1056
 1058	4	ANDROMACHE	アンドロマケ	Andromache	— ヘクトルの亡骸が損なわれると、走り出て嘆く
 1058	6	Andromache	アンドロマケ	Andromache	-ē 1018. 1058
-1059	4	ASTYANAX	アステュアナクス	Astyanacta	— 彼を抱くアンドロマケー
+1059	4	ASTYANAX	アステュアナクス	Astyanacta	— 彼を抱くアンドロマケ
 1059	6	Astyanax	アステュアナクス	Astyanacta	Andromache . . . -cta tenens 1059
 1062	6	Hector	ヘクトル	dux	tantus dux 1062
-1064	4	CALLIOPE	カッリオペー	Calliope	呼格(われらの詩人が祈る)
+1064	4	CALLIOPE	カリオペー	Calliope	呼格(われらの詩人が祈る)
 1064	6	Baebius	バエビウス	vatis	vatis 1064. 1070 を参照
-1064	6	Calliope	カッリオペー	Calliope	Calliope 呼格 1064
-1066	4	HOMERUS	ホメロス	Homeri	Homeri:カッリオペーはわれらの詩人とともに、力強きホメロスの折り返し点に達する
+1064	6	Calliope	カリオペー	Calliope	Calliope 呼格 1064
+1066	4	HOMERUS	ホメロス	Homeri	Homeri:カリオペーはわれらの詩人とともに、力強きホメロスの折り返し点に達する
 1066	6	Homerus	ホメロス	Homeri	metam . . . potentis Homeri 1066
-1067	4	PIERIDES	ピエリスたち	Pieridum	Pieridum cohors:ピエリスたちの一団
+1067	4	PIERIDES	ピエリデス	Pieridum	Pieridum cohors:ピエリデスの一団
 1067	6	Pieris	ピエリス	Pieridum	Pieridum . . . cohors 1067
 1069	4	MINERVA	ミネルウァ	Pallas	呼格:名高き者よ、来たれ(詩人が、道程を走り終えて女神に祈る)
 1069	6	Pallas	パラス	Pallas	呼格:ades, inclita -as 1069

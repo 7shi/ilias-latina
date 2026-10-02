@@ -21,12 +21,13 @@ counterparts, from the editions' Japanese drafts:
   notes that commentary-en.tsv had adapted (joined across pages,
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
-  full Japanese in the edition's ilias-ja.md, by hand; those outside
-  books 1–20 have not yet been reviewed.
+  full Japanese in the edition's ilias-ja.md, by hand; all have now
+  been read against the English rows. Their non-name draft meaning
+  differences remain report-only, as listed below.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
   INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
-  for books 1–20 have now been unified throughout the index.
+  for all 24 books have now been unified throughout the index.
 
 The Japanese translation with a commentary in commentary/ja/ is
 finished in all 24 books: translated section by section from the
@@ -41,8 +42,9 @@ Book 1 has been checked against the English sections and summary, all
 have been corrected; the reviewed index headwords have been unified
 throughout index-ja.tsv. Two draft gloss differences remain report-only:
 verse 11, edition 2 (破滅 for "plague"), and verse 46, edition 2
-(機知に富んでいる for "vivid"). Books 21–24 still need their semantic
-review, and the corrections have not yet been carried over to texts/.
+(機知に富んでいる for "vivid"). All 24 books have now had their
+semantic review; the corrections have not yet been carried over to
+texts/.
 
 Book 2 has also been checked: 61 sections and the summary, 298 index
 rows and 91 notes. Verse wording, commentary and headings have been
@@ -324,12 +326,94 @@ keys of the shared proper-name table still have one Japanese rendering
 each. The non-name draft differences listed above remain unchanged,
 and the corrections have not been carried over to texts/.
 
+Book 21 has been checked: 4 sections and the summary, all 13 verses
+(931–943), 11 index rows and 8 notes. Hector is at hand, not advancing;
+the fleeing and the shut gates are restored to their own verses.
+Nereian uses ネレウスの, consistently with the adjectival English,
+and the summary uses ネレイス for Thetis. The 15-row name table
+separates Trojan from Troy and records the combined designation
+Tritonia Pallas without conflating it with Pallas alone. One non-name
+draft entry remains report-only: edition 2 at 942 turns pursuing flight
+and pressing on in the race into pursuing another runner, and adds a
+Japanese gloss of viam insistere.
+
+Book 22 has been checked: 12 sections and the summary, all 60 verses
+(944–1003), 73 index rows and 19 notes. The goddess's appearance,
+Hector, the heart, strength and life, and the horses' master's success
+are restored to their own verses. Achilles poises his spear rather
+than aims it; his unyielding refusal is 頑な, not courage described as
+不屈. Hector's limbs and body remain distinct, and his spirit's
+pleasure and its conditional qualification occupy 994 and 995
+respectively. Dragging by the feet is not dragging with the feet;
+celebration in the summary does not add drinking. The 31-row name
+table separates Priam and Priameius, uses Nereian ネレウスの and
+Pyrrhus ピュロス, removes the unattested Nereus, and adds actual
+Aeacus and Nereid references. Seven non-name draft entries remain
+report-only: edition 4 index descriptions at 950 twice render favor
+as 神威; edition 2 notes at 952 make the armor itself thunder,
+at 963 restrict sword to its point and add decidisse, at 965 add
+intensity and glosses of Latin expressions, at 982 add the Latin
+rhetorical term グラダーティオー, and at 997 add glosses and weaken
+the description of the horses' proud, haughty movement. The
+interpretations of the leader of leaders at 983 remain as in the
+English, including its differing emphasis in the summary.
+
+Book 23 has been checked: 9 sections and the summary, all 11 verses
+(1004–1014), 21 index rows and 6 notes. A mourned friend is not a
+friend in tears. Fierce of foot remains different from swift; the
+corrupt word at 1008 is not supplied. The heavy discus is not a
+forceful throw, the unstated victory verb is not repeated at 1013,
+and Achilles is accompanied by the crowds. The 30-row name table
+separates Tydeus and Tydides, Laertes and Laertius, and records actual
+verse, commentary and summary occurrences. Laertius is ラエルテスの子
+in the verse, following the English; the Vollmer index headword is
+ラエルテスの, preserving the different treatment. One non-name draft
+entry remains report-only: edition 2 at 1011 adds a Japanese gloss
+of Superavit Epeus.
+
+Book 24 has been checked: 12 sections and the summary, all 56 verses
+(1015–1070), 78 index rows and 29 notes. Troy, the falls, the old age,
+the restraining verb, the trembling palms, the Dardanian youth and
+the gifts are restored to their own verses. Bravest is most courageous,
+not strongest; Priam's flesh is 我が肉体, not 我が身代. Four-footed
+horses, loosened hair and lowering the sails agree with the English.
+The poet, rather than the boat itself, skirts the coast and reaches
+the harbor. Ilian and Ilion use イリオンの and イリオン; Homer's
+Ilios remains イリオス. The 35-row name table separates those names,
+Argive, Greek, Dardanian, Phoebus and Apollo, adds missing gods, peoples
+and the work's title, and records Calliope カリオペー and Pierides
+ピエリデス. Ten non-name draft entries remain report-only: the
+edition 4 index at 1066 turns the goal into a turning point
+(折り返し点); the other nine are edition 2 notes:
+at 1028 Japanese adds a gloss of the Greek and strengthens inferior
+to 遠く及ばない; at 1032 it adds a gloss of ad genua accidere;
+at 1041 it strengthens the possibility of a common author;
+at 1045 it adds Priam to the opening gloss and translates the
+conjectured verses; at 1048 it narrows
+living bodies to prisoners sacrificed; at 1061 it adds robora flammae
+glosses; at 1064 the chariot and four-horse team become two-wheeled
+and the title Testimonia is specified; at 1069 it strengthens not
+Latin to 正統なラテン語ではない and adds glosses; at 1070 it
+adds the poet and a nautical interpretation to the opening gloss.
+Plessis' six bodies at 1048 and the different readings at 1050 remain
+as in the sources. The recipient of the lyres at 1068–1069 remains
+uncertain.
+
+Books 21–24 were checked as a range: 37 sections and four summaries,
+140 Latin verses, 183 index rows and 62 notes. Reviewed index
+headwords are unified throughout index-ja.tsv; description and note
+changes are confined to names in this range. The exact first-column
+keys of the shared proper-name table still have one Japanese rendering
+each. All 24 books have now been checked. Non-name draft differences
+remain report-only, and carrying corrections over to texts/ is the
+next separate task.
+
 Next:
 
 1. [Done] commentary/ja/: the Japanese translation of commentary/en/,
    finished in all 24 books, with proper names recorded book by book in
    [commentary/ja/proper_noun.md](commentary/ja/proper_noun.md).
-2. commentary/ja/, commentary-ja.tsv and index-ja.tsv are checked
+2. [Done] commentary/ja/, commentary-ja.tsv and index-ja.tsv are checked
    against each other, and the TSVs corrected (the names above all,
    and the 122 adapted notes; see [Checking the Japanese](#checking-the-japanese)).
 3. The corrections are fed back to texts/: the notes to the editions'
@@ -409,6 +493,7 @@ way, in the verses and in the commentary.
   Eumediades エウメディアデス, Iliades イリアデス,
   Antenorides アンテノリデス, Rhytieus リュティエウス,
   Nestorides ネストリデス, Clotho クロト, Lachesis ラケシス,
+  Calliope カリオペー,
   Luna ルナ, Paean パエアン,
   Eurus エウルス, Hesperus ヘスペルス, Pierides ピエリデス;
   the others of the kind (Arctos, Lucifer, Luna …) likewise.
@@ -416,7 +501,7 @@ way, in the verses and in the commentary.
   Telamonian Ajax テラモンのアイアス, Dardanian ダルダニアの, Ilian
   イリオンの, Argive アルゴスの, Doric ドリスの, Pelopeian ペロプス家の,
   Ithacan イタケ人, Paeonian パイオンの, Calydonian カリュドンの,
-  Libyan リビュアの.
+  Libyan リビュアの, Nereian ネレウスの.
 - Persons: Achilles アキレウス, Hector ヘクトル, Agamemnon アガメムノン,
   Menelaus メネラオス, Priam プリアモス, Paris パリス, Alexander
   アレクサンドロス, Helen ヘレネ, Hecuba ヘカベ, Andromache アンドロマケ,
@@ -432,7 +517,9 @@ way, in the verses and in the commentary.
   Polypoetes ポリュポイテス, Amarynceus アマリュンケウス,
   Charopus カロプス, Clonius クロニオス, Phidippus ペイディッポス,
   Euhaemon エウアイモン, Echemmon エケムモン, Plisthenes プレイステネス,
-  Eussorus エウソロス, Phaestus パイストス, Isus イソス, Iulus ユルス; the others
+  Eussorus エウソロス, Phaestus パイストス, Isus イソス, Iulus ユルス, Pyrrhus ピュロス,
+  Neoptolemus ネオプトレモス, Laertes ラエルテス, Epeus エペイオス,
+  Panopeus パノペウス, Euryalus エウリュアロス; the others
   in the same way, from the Greek, by the same rule for long vowels.
 - Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
   Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
