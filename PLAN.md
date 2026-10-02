@@ -104,7 +104,7 @@ way, in the verses and in the commentary.
 - Where the commentary tells Homer's scene, the Greek names: Zeus
   ゼウス, Hera ヘラ, Athena アテナ, Hephaestus ヘパイストス, Poseidon
   ポセイドン, Ares アレス, Aphrodite アプロディテ, Odysseus オデュッセウス,
-  Dawn 曙の女神.
+  Apollo アポロン, Phoebus ポイボス, Dawn 曙の女神.
 - Names that the English keeps in Latin are katakana of the Latin, and
   the commentary explains them as the English does: Atrides アトリデス,
   Pelides ペリデス, Aeacides アエアキデス, Tydides テュディデス,
@@ -112,8 +112,9 @@ way, in the verses and in the commentary.
   ダルダニデス, Laertiades ラエルティアデス, Oenides オエニデス, Somnus
   ソムヌス, Aurora アウロラ, Mavors マウォルス, Ignipotens イグニポテンス,
   Mulciber ムルキベル, Tritonia トリトニア, Cytherea キュテレア, Ilion
-  イリオン, Pergama ペルガマ; the others of the kind (Arctos, Hesperus,
-  Lucifer, Luna …) likewise.
+  イリオン, Pergama ペルガマ, Amaryncides アマリュンキデス,
+  Eurus エウルス, Hesperus ヘスペルス, Pierides ピエリデス;
+  the others of the kind (Arctos, Lucifer, Luna …) likewise.
 - Adjectives of names as 「〜の」: Mavortian Hector マウォルスのヘクトル,
   Telamonian Ajax テラモンのアイアス, Dardanian ダルダニアの, Ilian
   イリオンの, Argive アルゴスの, Doric ドリスの.
@@ -129,14 +130,17 @@ way, in the verses and in the commentary.
   アンティロコス, Deiphobus デイポボス, Peleus ペレウス, Atreus
   アトレウス, Tydeus テュデウス, Telamon テラモン, Aeacus アイアコス,
   Oileus オイレウス, Antenor アンテノル, Hercules ヘラクレス,
-  Polypoetes ポリュポイテス; the others
+  Polypoetes ポリュポイテス, Amarynceus アマリュンケウス,
+  Charopus カロプス, Clonius クロニオス, Phidippus ペイディッポス,
+  Euhaemon エウアイモン, Echemmon エケムモン, Plisthenes プレイステネス,
+  Eussorus エウソロス; the others
   in the same way, from the Greek, by the same rule for long vowels.
 - Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
   Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
   Teucrians テウクロイ, Myrmidons ミュルミドン, Lycians リュキア人,
   Thracians トラキア人, Halizones ハリゾネス.
 - Places and works: Troy トロイア, Olympus オリュンポス, Ida イダ,
-  Xanthus クサントス, Ithaca イタケ, Lemnos レムノス,
+  Xanthus クサントス, Ithaca イタケ, Lemnos レムノス, Aspledon アスプレドン,
   Asia Minor 小アジア, Homer ホメロス, the *Iliad*
   『イリアス』, the *Ilias Latina* 『イリアス・ラティナ』; Plessis プレシス,
   Vollmer フォルマー (where the commentary gives the readings of both
