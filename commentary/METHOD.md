@@ -134,7 +134,7 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Books 1, 2, and 3, to guide subsequent books:
+Notes gathered during the review of Books 1, 2, 3, and 4, to guide subsequent books:
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -182,6 +182,14 @@ Notes gathered during the review of Books 1, 2, and 3, to guide subsequent books
     brought war upon them* translated as 「戦争を引き起こした夫」, which made Menelaus
     sound like the instigator rather than the wronged party → clarified as
     「妻を奪われ、トロイアに戦争をもたらした当の夫」).
+  - *Enjambment and suspended syntax descriptions*: English critical terms
+    referring to verse enjambment (*the sentence running on leaves X in flight*,
+    *the unfinished 'while' carries the action forward*) can sound clumsy if
+    translated word-for-word as 「続く文は…をとどめたままにしている」「未完の句は行動を先へと進める」.
+    Clarify the poetic/syntactic device in natural Japanese (「文が次行へと跨がれることで…」「未完の接続詞（dum）が、物語の展開を次節へと引き継いでいる」).
+  - *Alternating correlatives*: Literal repetition of English *now X, now Y*
+    (Latin *modo ... modo ...*) as 「今やXに、今やYに」 can be monotonous; recast
+    naturally when describing fluctuating battlefield fortunes (「ある時はXに、ある時はYに」).
   - *Fronted subordinate clauses (chronological flow)*: Invert English
     trailing clauses (such as *...nearly leads to X, until Y restores order*)
     into natural Japanese chronological progression (「危うくXへと発展しかけるが、Yが秩序を回復する」)
