@@ -23,8 +23,21 @@ The reported draft differences have been resolved; the decisions are in
 
 ## Next
 
-Stop before website work. The user has further checks to make first;
-wait for those instructions before starting the website.
+### Known-to-unknown method
+
+The work follows [commentary/METHOD.md](commentary/METHOD.md); neither
+part has been started:
+
+1. Check the existing commentary with the method: try it on a few
+   sections (for example book 1, verses 1–8) and report the findings
+   first; adjust the criteria before running it on the rest.
+2. Try a reading of the Latin in the order of the verse on a few
+   verses, to settle its form, its unit and where its files go; keep it
+   apart from the commentary so that the two can be shown side by side.
+
+### Website
+
+On hold.  Do not start it until the user gives the instruction.
 
 ## Completed workflows
 
