@@ -22,8 +22,9 @@ counterparts, from the editions' Japanese drafts:
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
   full Japanese in the edition's ilias-ja.md, by hand; all have now
-  been read against the English rows. Their non-name draft meaning
-  differences remain report-only, as listed below.
+  been read against the English rows. The reported non-name draft
+  meaning differences have now been checked against the originals,
+  corrected where necessary and recorded in the proofreading log.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
   INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
@@ -42,161 +43,25 @@ recorded in [commentary/ja/PROOFREADING.md](commentary/ja/PROOFREADING.md).
 The finalized Japanese names have also been carried over to the editions'
 files in texts/, and notes-ja.md has been rebuilt with `make notes`.
 
-## Unresolved draft differences
+## Review of the reported draft differences
 
-These differences in the editions' Japanese drafts remain report-only.
-They have not been corrected during the proper-name propagation. Verse
-numbers below are LL numbers; edition 2 is Wernsdorf/Lemaire, edition 4
-Plessis and edition 6 Vollmer. This section also records the remaining
-English source discrepancy in book 8.
+All the previously reported differences have been checked against the
+editions' original notes and index entries. Corrections were made where
+the translations changed the sense; valid lexical alternatives and
+accurate explanatory glosses were retained. The decisions for all 69
+notes, four index descriptions and the English commentary at 677 are in
+[commentary/ja/PROOFREADING.md](commentary/ja/PROOFREADING.md#reviewing-the-reported-draft-differences).
+No item from that list remains unresolved. This was a review of the
+reported items, not of every translated file of the editions.
 
-### Book 1
-
-Two draft gloss differences remain report-only: verse 11, edition 2 (破滅
-for "plague"), and verse 46, edition 2 (機知に富んでいる for "vivid").
-
-### Book 2
-
-Two further draft differences remain report-only, both in edition 2:
-verse 152 can place the prediction in the tenth year instead of the
-previously predicted toil; verse 195 uses 同胞 for "ally".
-
-### Book 3
-
-Four draft differences remain report-only, all in edition 2: at 253
-Medea is treated as a title and Troad as Troy; at 260 the adapted
-fragment has incomplete Japanese syntax; at 293 the Japanese specifies
-oxhide where the English has hide.
-
-### Book 4
-
-Two draft differences remain report-only, both in edition 2: at 360 the
-added Japanese verse gloss includes 冷たい for rigido; at 364 the Japanese
-narrows a hardened weapon to a spear with a hardened point and adds a
-gloss of the quoted Latin.
-
-### Book 5
-
-Seven draft differences remain report-only, all in edition 2: at 414
-下層の時代 renders a later age; at 443 praise and a description of
-restoration are added; at 451 鼻 renders nostril; at 471 兄 specifies an
-older brother; at 485 and 525 Japanese glosses of Latin quotations are
-added; at 512 手元の狂い specifies a cause for the missed cast.
-
-### Book 6
-
-Three non-name draft differences remain report-only, all in edition 2
-notes: at 539 Japanese makes Adrastus fall from a horse instead of his
-chariot; at 548 純潔 renders "unwed"; at 557 Japanese adds translations of
-the quoted Latin examples.
-
-### Book 7
-
-Eight non-name draft differences remain report-only: the edition 4 index
-description at 580 broadens "father's family" to 父祖の家柄; edition 2 notes
-at 574 strengthen "might" to 可能性が高い, at 586 add a gloss of ferum amorem,
-at 587 obscure the "when" in the opening gloss, at 591, 612 and 615 add
-Japanese translations of Latin quotations, and at 630 add ［連形］ to the
-two-syllable explanation.
-
-### Book 8
-
-Three non-name draft differences remain report-only: edition 4 at 660
-makes "seems to be taken" prescriptive (解されるべき); edition 2 at 667 adds
-(Agelaus Phradmonides), and at 681 adds (pessulus).
-
-The English commentary at 677 still calls Hector's spear the weapon that
-just struck Teucer, although 674–675 says a stone. The Japanese
-commentary has been corrected; the English source is unchanged.
-
-### Book 10
-
-Two non-name draft differences remain report-only, both in edition 2: at
-706 Japanese adds the Latin glosses consilia and judicium; at 732 極めて稀
-strengthens "rather rarely".
-
-### Book 11
-
-Four non-name draft differences remain report-only, all in edition 2
-notes: at 743 投槍 narrows missiles; at 748 ホメロス詩人 renders Homerist
-without clearly conveying the imitation; at 752 兄 specifies an older
-brother; at 753 the Japanese adds the manuscript siglum (H.).
-
-### Book 13
-
-Two non-name draft differences remain report-only, both in edition 2
-notes: at 774 戦列 renders battle; at 776 the Japanese adds a gloss of the
-Latin Alcathous.
-
-### Book 15
-
-Four non-name draft differences remain report-only, all in edition 2
-notes: at 790 自らの陣船 makes the possessive unclear, and 奮い立たされ renders
-revived as encouragement; at 800 アイアスの 語り手 misrepresents Ajax himself
-speaking; at 801 軍船 narrows ships to warships.
-
-### Book 16
-
-Two non-name draft entries remain report-only, both edition 2 notes: at
-827 Japanese adds idiotismus; at 834 Latin Homerist becomes
-ホメロス受容者（われらの詩人）, obscuring both the Latin work and the imitation of
-Homer.
-
-### Book 18
-
-Six non-name draft entries remain report-only, all edition 2 notes: at
-844 Japanese adds glosses of declamare, defatigare and detonare; at 845
-it adds a gloss of deformat; at 851 it changes the cited lemma violentum
-to violentus and adds a gloss; at 857 it uses 業火 for fires and adds a
-translation of the quoted Latin; at 868 早馬 adds speed to the changing
-horse; at 869 忠実に adds a claim of faithful rendering.
-
-### Book 19
-
-Two non-name draft entries remain report-only, both edition 2 notes: at
-901 正当にも strengthens not without reason; at 902 Japanese adds a gloss of
-clara and identifies the Julian star as カエサルの彗星.
-
-### Book 20
-
-Three non-name draft entries remain report-only: edition 2 at 917
-changes praetardare to praetardo; edition 4 at 921 turns Kooten's
-authority into a proposal; edition 2 at 929 adds a gloss of absumpta
-salus.
-
-### Book 21
-
-One non-name draft entry remains report-only: edition 2 at 942 turns
-pursuing flight and pressing on in the race into pursuing another
-runner, and adds a Japanese gloss of viam insistere.
-
-### Book 22
-
-Seven non-name draft entries remain report-only: edition 4 index
-descriptions at 950 twice render favor as 神威; edition 2 notes at 952
-make the armor itself thunder, at 963 restrict sword to its point and
-add decidisse, at 965 add intensity and glosses of Latin expressions, at
-982 add the Latin rhetorical term グラダーティオー, and at 997 add glosses and
-weaken the description of the horses' proud, haughty movement.
-
-### Book 23
-
-One non-name draft entry remains report-only: edition 2 at 1011 adds a
-Japanese gloss of Superavit Epeus.
-
-### Book 24
-
-Ten non-name draft entries remain report-only: the edition 4 index at
-1066 turns the goal into a turning point (折り返し点); the other nine are
-edition 2 notes: at 1028 Japanese adds a gloss of the Greek and
-strengthens inferior to 遠く及ばない; at 1032 it adds a gloss of ad genua
-accidere; at 1041 it strengthens the possibility of a common author; at
-1045 it adds Priam to the opening gloss and translates the conjectured
-verses; at 1048 it narrows living bodies to prisoners sacrificed; at
-1061 it adds robora flammae glosses; at 1064 the chariot and four-horse
-team become two-wheeled and the title Testimonia is specified; at 1069
-it strengthens not Latin to 正統なラテン語ではない and adds glosses; at 1070 it
-adds the poet and a nautical interpretation to the opening gloss.
+An additional divided page continuation at 1049 was corrected during
+the final check. The English corrections include the stone that struck
+Teucer at 674–675, damaged page continuations, the tenth-year prediction at 152,
+the edition's restoration statement at 443, and the order of naming
+Asius and Amphimachus at 774. Both curated TSVs and the corresponding
+edition copies are updated; `make notes` rebuilds notes-en.md and
+notes-ja.md. The local context in src/tmp/greek.md is also rebuilt from
+the corrected English notes.
 
 ## Next
 
@@ -209,8 +74,11 @@ adds the poet and a nautical interpretation to the opening gloss.
 3. [Done] The corrections have been fed back to texts/: the notes to the editions'
    ilias-ja.md and COMMENTARY-ja.md, the index rows to INDEX-ja.tsv and
    index-ja.md; then `make notes` in texts/.
-4. When the Japanese is done, deploying the translation as a website
-   is to be considered.
+4. [Done] The reported draft meaning differences and the English
+   discrepancy at 677 have been reviewed, resolved and recorded in
+   commentary/ja/PROOFREADING.md.
+5. Stop before website work. The user has further checks to make first;
+   wait for those instructions before starting the website.
 
 ### Translating into Japanese
 
@@ -363,7 +231,10 @@ is taken over here, steps 2 and 3 of Next:
    commentary-ja.tsv are read against their English rows.  A Japanese
    note or description whose sense differs from the English is
    reported, not corrected (the drafts are not reviewed), except for
-   the names.
+   the names. The user subsequently authorized a source-based review
+   of the reported differences, including English errors; that pass is
+   complete and recorded in commentary/ja/PROOFREADING.md. Unreviewed
+   draft material outside those items keeps the original policy.
 
 The problems are reported before anything is edited, as a table
 (verse, file, the passage, the English or the TSV row, a proposed
@@ -401,8 +272,8 @@ Each step depends only on the ones before it.
   against the page images (texts/PROOFREADING.md).  texts/concordance.md
   relates their verses to LL.
 - Their English and Japanese translations (`ilias-{en,ja}.md`,
-  `COMMENTARY-{en,ja}.md`, `index-{en,ja}.md`, …) are drafts, not yet
-  reviewed.
+  `COMMENTARY-{en,ja}.md`, `index-{en,ja}.md`, …) remain drafts outside
+  the names and individual items reviewed in commentary/ja/PROOFREADING.md.
 
 ### 2. The indexes
 
@@ -572,9 +443,12 @@ To be kept in the Japanese and in any later correction.
   corrected in double braces in index.md and index-{en,ja}.md, without
   braces in INDEX*.tsv, and by hand in commentary/index-en.tsv; then
   `make notes` in texts/.
-- The translations of the editions' files are drafts: an English
-  that differs from the Latin is reported, not corrected, except for
-  the names carried over as in step 7.
+- The translations of the editions' files remain drafts outside the
+  checked items. The user authorized correction of the reported meaning
+  differences and any English errors found during that review; the
+  completed corrections and accepted variants are recorded in
+  commentary/ja/PROOFREADING.md. Other draft differences are reported
+  before correction, as in the original workflow.
 
 ## Rules
 

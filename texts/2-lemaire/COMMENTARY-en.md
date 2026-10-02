@@ -132,11 +132,11 @@ conjectures and the arguments for them are left out.
 - **145 (LL 146)** *Responsa recordans Temporis illius* [Recalling the prophecies of that time]. The distinguished Bondam, page 144, thinks this is fashioned after these words of Ovid, *Met.* [XIII,] 280: « quanto cogor meminisse dolore Temporis illius, quo Graium murus Achilles Procubuit ».
 - **147 (LL 148)** … There is scarcely any doubt that the author here had in mind Ovid, *Met.* XII, 15: « Nidus erat volucrum bis quatuor arbore summa, Quas simul et matrem circum sua damna volantem Corripuit serpens ». …
 - **150 (LL 151)** … Homer, *Iliad* II, 331, where Ulysses advises: Ἀλλ᾽ ἄγε, μίμνετε πάντες ἐϋκνήμιδες Ἀχαιοί. To be sure, in Homer it is a speech of Ulysses, which our author attributes to Nestor.
-- **151 (LL 152)** *In decimo labor est* [In the tenth is the toil], that is, in
+- **151 (LL 152)** *In decimo labor est* [In the tenth is the toil], that is,
 
 ## p. 529
 
-- **(cont.)** [that is, in] the tenth year at last is the toil foretold and appointed for us, in which we may capture Ilion. Yet I would almost prefer to read *In decimum annum usque labor*, that is, we must toil. For he means that the war is to be delayed to that year, until Ilion is captured. Virgil is accustomed to speak thus, as in *Aen.* IX, 155: « decimum quos distulit Hector in annum »; and XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum ».
+- **(cont.)** the toil foretold and appointed for us falls at last in the tenth year, in which we may capture Ilion. Yet I would almost prefer to read *In decimum annum usque labor*, that is, we must toil. For he means that the war is to be delayed to that year, until Ilion is captured. Virgil is accustomed to speak thus, as in *Aen.* IX, 155: « decimum quos distulit Hector in annum »; and XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum ».
 - **153 (LL 154)** *Nestoris aetas* [The age of Nestor], that is, aged prudence, or the aged Nestor.
 - **155 (LL 156)** … the same has *aptare*. Virg. *Aen.* X, 258: « sociis edicit, signa sequantur, Atque animos aptent armis: pugnaeque parent se ».
 - **159 (LL 160)** … Verse 127 is repeated. …
@@ -221,11 +221,11 @@ conjectures and the arguments for them are left out.
 - **252 (LL 253)** … Barth observes on this passage, *Advers.* LIX, ch. 1, that it is the custom of the best writers to call the authors of deadly disasters the disasters themselves. Juvenal of Domitian: « si peste et clade sub illa Saevitiam damnare, et honestum afferre liceret Consilium ». The author of the declamation against Catiline: « vigent enim in illa clade res diversissimae pariter, continentia et libido ». Lampridius in *Elagabalus*: « mirum fortasse cuipiam videatur, quod haec clades, quam retuli, loco principis fuerit ». Seneca of Medea: « Abolere ferro pessimam propera luem ». Claudian of Rufinus, Book I: « quo tanta lues eruperit ortu ». Barth. — And *flamma* [flame] is especially to be preserved for this reason, that it agrees more aptly with the myth of Hecuba, the mother of Paris, dreaming that she had given birth to a firebrand, by which the Troad and all Asia would be laid waste by fire. Ed.
 - **254 (LL 255)** … The simile made by Homer, *Il.* III, 33 seqq., which our author here expresses very briefly, Virgil, *Aen.* II, 378 seqq., employed of Androgeos: « Obstupuit, retroque pedem cum voce repressit. Improvisum aspris veluti qui sentibus anguem Pressit humi nitens, trepidusque repente refugit ». More briefly Ovid, *Fast.* II, 341: « Attonitusque metu rediit: ceu saepe viator Turbatum viso rettulit angue pedem ». Juvenal, I, 43: « Palleat, ut nudis pressit qui calcibus anguem ».
 - **257 (LL 258)** *Generisque infamia nostri* [And the infamy of our race]. Ovid, *Metam.* VIII, 97: « o nostri infamia saecli ».
-- **259 (LL 260)** *Hospitis expugnare toros* [To storm the bed of one's host], that is, to capture and corrupt a wife by solicitation, just as they are said to be stormed [ex- / -pugnari]...
+- **259 (LL 260)** *Hospitis expugnare toros* [To storm the bed of one's host], that is, to capture and corrupt a wife by solicitation, just as
 
 ## p. 539
 
-- **(cont.)** [...ex]pugnari [to be taken by storm]: they are said to be taken by storm who, unwilling and resisting, are overcome by entreaties; in which sense Suetonius used it, Caes. 1, Tiber. 21. In Ovid, Her. XVII, 3, Helen to Paris: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem ». Propertius, III, 13, 9: « Haec etiam clausas expugnant arma pudicas ». — Rutilius, Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit ». Ed. — On the use of the verb expugnare, Barth has noted more on Statius, Theb. IV, 187.
+- **(cont.)** those who, unwilling and resisting, are overcome by entreaties are said to be taken by storm (*expugnari*); in which sense Suetonius used it, Caes. 1, Tiber. 21. In Ovid, Her. XVII, 3, Helen to Paris: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem ». Propertius, III, 13, 9: « Haec etiam clausas expugnant arma pudicas ». — Rutilius, Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit ». Ed. — On the use of the verb expugnare, Barth has noted more on Statius, Theb. IV, 187.
 - **262 (LL 263)** *Hic animos ostende* [Show your courage here]. Virgil, Aen. VI, 261: « Nunc animis opus, Aenea, nunc pectore firmo ». …
 - **263 (LL 264)** *Duro Mars milite gaudet* [Mars rejoices in a hardy soldier]. Helen to Paris in the passage cited above [Ovid, Her. XVII], v. 253: « Apta magis Veneri, quam sint tua corpora Marti ».
 - **264 (LL 265)** *Dum jaceas in amore* [While you lie in love], that is, broken by lust you languish and idle, unfit for warfare. Such is the passage in Virgil, Catal. V, 1: « Jacere me, quod alta non possim, putas, Ut ante, vectari freta, Nec ferre durum frigus, aut aestum pati, Neque arma victoris sequi ».
@@ -334,7 +334,7 @@ conjectures and the arguments for them are left out.
 
 - **410** *Eminet, et prodit*, etc. [Stands out and comes forth]. Thus Ovid, *Metam.* IX, 127: « terga sagitta Trajicit: exstabat ferrum de pectore aduncum »; and book V, 138: « Torquet in hunc hastam, media quae nare recepta Cervice exacta est, in partesque eminet ambas ». In this sense, a discharged missile that exits through the other side is spoken of by Grattius in *Halieut.* v. 62. — See vol. I, part 1, page 224 of this work. Ed.
 - **411** *Calidum de pectore flumen* [A warm river from his chest]. Virg. *Aen.* IX, 414: « Volvitur ille, vomens calidum de pectore flumen »; and book XI, 668: « Sanguinis ille vomens rivos cadit ».
-- **414** *Cupit exsistere vindex* [Desires to stand forth as an avenger]. This phrase seems to Barth to smack of barbarism, *Advers.* LVIII, 14, and LIX, 1, p. 2770; and he proves from a certain passage of Alboin the presbyter that medieval writers used the verb *subsistere* in the same way. And indeed that expression makes for a sluggish verse, from which poets of the ancient age seem universally to have refrained. Yet I would not on that account assign it to barbarisms, and perhaps *exsistere* in this passage is put for *exstare*, *eminere*, *conspicuum esse* [to stand out, to be prominent, to be conspicuous]. Concerning the verb *subsistere*, it is more certain that it belongs to the barbarous Latinity of the scholastics. — But *exsistere* in the sense of *fieri* [to become] or *esse* [to be] seems to have been introduced by writers of a lower age. For Julius Exsuperantius writes thus: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno ». And Lactantius Placidus in *Argum. Metam. Ovid.* lib. VI, fab. 3: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent ». Ed.
+- **414** *Cupit exsistere vindex* [Desires to stand forth as an avenger]. This phrase seems to Barth to smack of barbarism, *Advers.* LVIII, 14, and LIX, 1, p. 2770; and he proves from a certain passage of Alboin the presbyter that medieval writers used the verb *subsistere* in the same way. And indeed that expression makes for a sluggish verse, from which poets of the ancient age seem universally to have refrained. Yet I would not on that account assign it to barbarisms, and perhaps *exsistere* in this passage is put for *exstare*, *eminere*, *conspicuum esse* [to stand out, to be prominent, to be conspicuous]. Concerning the verb *subsistere*, it is more certain that it belongs to the barbarous Latinity of the scholastics. — But *exsistere* in the sense of *fieri* [to become] or *esse* [to be] seems to have been introduced by writers of a later age. For Julius Exsuperantius writes thus: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno ». And Lactantius Placidus in *Argum. Metam. Ovid.* lib. VI, fab. 3: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent ». Ed.
 
 ## p. 553
 
@@ -358,11 +358,11 @@ conjectures and the arguments for them are left out.
 - **466** … Barth, *Adv.* p. 2770 end, judges that the following verses are to be praised as most elegant.
 - **467** *Flagrantibus armis* [With blazing arms]. See the note to verse 394.
 - **469** … because Homer relates it thus, *Il.* V, 337, … Diomedes confesses the same thing about himself in Virgil, *Aeneid* XI, v. 276: « quum ferro caelestia corpora demens Adpetii, et Veneris violavi vulnere dextram ». And in Ovid, *Met.* XV, 769, Venus says of herself: « Quam modo Tydidae Calydonia vulneret hasta ».
-- **471** … Homer also commands the same; he indeed relates that Venus, having been wounded, from her bro-
+- **471** … Homer also commands the same; he indeed relates that the wounded Venus
 
 ## p. 557
 
-- **(cont.)** (cont.) [brother] Mars for a chariot and horses with which to be carried to heaven, but there complained to her mother Dione, *Iliad* V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς. …
+- **(cont.)** (cont.) asked her brother Mars for a chariot and horses to carry her to heaven, but there complained to her mother Dione, *Iliad* V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς. …
 - **477** … Similarly Virgil, *Aen.* XII, 329: « Semineces volvit multos, aut agmina curru Proterit ».
 - **479** *Quadrupedis tergo* [from the back of his four-footed beast]. If the author understands a rider falling from his horse on account of a wound, he wrote contrary to the sense of Homer and contrary to the custom of the writers on the Trojan War, who know no horsemen in battle, but present heroes fighting from chariots. A similar error also occurs below in verse 496, where Agamemnon *sublimis equo volat agmina circum* [high on horseback flies around the ranks]. To be sure, a passage of Homer, *Il.* X, 513, can be cited in favor of horse-riding; but because he says ἵππων ἐπεβήσατο, horses yoked to a chariot can comfortably be understood. Wernsdorf in the Addenda.
 - **481** … Similarly Virg. *Aen.* IX, 753: « Collapsos artus atque arma cruenta cerebro Sternit humi moriens ».
@@ -390,11 +390,11 @@ conjectures and the arguments for them are left out.
 - **518** Homer *loc. cit.* requires *Orsilochum*; …
 - **520** *Antilochique Mydon*: Bondam demonstrated from Homer that this is the reading. …
 - **523** That we must read *Tlepolemus* from Hom. *Il.* V, 628 is evident, …
-- **525** *Tenuemque daret de corpore vitam* [and yielded the faint breath of life from his body], that is, gave up the ghost. He calls it *tenuem vitam* according to the mind of those whom Virgil praises in *Georg.* IV, 223, who said that each soul of living beings is a particle of the world soul, and returns thither through death. « Hence, he says *loc. cit.*, each one for itself at birth draws a sli-
+- **525** *Tenuemque daret de corpore vitam* [and yielded the faint breath of life from his body], that is, gave up the ghost. He calls it *tenuem vitam* according to the mind of those whom Virgil praises in *Georg.* IV, 223, who said that each soul of living beings is a particle of the world soul, and returns thither through death. « Hence, he says *loc. cit.*, each one for itself at birth draws
 
 ## p. 561
 
-- **(cont.)** (cont.) -ght breath of life [« Quemque sibi tenues nascentem arcessere vitas »] ». And *Aen.* IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit ».
+- **(cont.)** (cont.) a slight breath of life [« Quemque sibi tenues nascentem arcessere vitas »] ». And *Aen.* IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit ».
 - **527** Ulysses is called *fraudis commentor* [contriver of deceit], as if this were his craft, says Barth, *Adv.* LIX, 15, of the kind constantly attributed to him by Homer and other ancients. Virgil, *Aen.* II, 164: « scelerumque inventor Ulysses »; and our author repeats the same below, v. 579. Similarly Ovid regarding him, *Met.* XIII, 31: « quid sanguine cretus Sisyphio, furtisque et fraude simillimus illi », whose fabrications (*commenta*) he also notes presently in v. 38. Hence also, as Dussen notes on verse 65 of our author, Ulysses is called φὼρ [thief] in the second Altar of Dosiadas, as Salmasius shows at greater length in his notes, p. 156.
 - **528** *Et septem juvenum* [And of seven youths], the Lycians whom Homer enumerates, *Il.* V, 677: Coeranus, Alastor, Chromius, Alcander, Halius, Noemon, and Prytanis.
 - **529** Guelf. 2 arranges the words differently: *Hinc patriae culmen pugnat*. Dussen, p. 29, prefers to read *columen* [pillar/support], which is indeed exceedingly fitting for Hector and most appropriate to that other eulogy which our author attributed to him above, v. 486, *spes una Phrygum* [the sole hope of the Phrygians]. Similarly Seneca in *Troad.* v. 126, of Hector: « Columen patriae, mora fatorum, Tu praesidium Phrygibus fessis, Tu murus eras ». — « Graium murus Achilles », Ovid, *Met.* XIII, 281. Lucan, VI, 201, of Scaeva: « stat non fragilis pro Caesare murus, Pompeiumque tenet ». Moreover, what Seneca adds *loc. cit.*, « Tecum cecidit, summusque dies Hectoris idem patriaeque fuit », our author seems to have imitated below, v. 1061. See what was noted by us on Pentadius' Tomb of Hector, vol. II, p. 329 of this work. Ed. — Nevertheless, I would not wish to alter the word in the text itself, since *culmen* [summit/peak] is by no means unsuitable for Hector, indicating at least his supreme dignity. In precisely this way Cornelius Severus calls Cicero « Egregium semper patriae caput », above on page 211 of this volume.
@@ -434,7 +434,7 @@ conjectures and the arguments for them are left out.
 
 ## p. 566
 
-- **588 (LL 587)** *Ergo ubi dejectis* [Therefore when having cast...]. He took this from Virgil, *Aen.* V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea » [The men assembled, and the bronze helmet received the cast lot].
+- **588 (LL 587)** *Ergo ubi dejectis* [Therefore, when the lots had been cast...]. He took this from Virgil, *Aen.* V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea » [The men assembled, and the bronze helmet received the cast lot].
 - **593 (LL 591)** … Our author himself makes clear the meaning of this line below, v. 605: « quaque patebat Nuda viri cervix, fulgentem dirigit ensem ». With similar meaning Virgil, *Aeneid* XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis ». — Cicero refers to this custom of fighters in *Verr.* V (VII), 71: « Si ullum locum aperuerimus suspicioni aut crimini, accipiendum est statim vulnus ». Ed.
 
 ## p. 567
@@ -538,7 +538,7 @@ conjectures and the arguments for them are left out.
 ## p. 581
 
 - **770 (LL 767)** … Indeed, an imitation of Virgil also suggests this, *Aen.* II, 441: « obsessumque acta testudine limen »; and IX, 505: « Accelerant acta pariter testudine Volsci ».
-- **777 (LL 774)** … Certainly, this Asius who is named first here, and before Amphimachus is slain by Hector, is said by Homer to have been killed long after Amphimachus, *Iliad* XIII, 384. Nor does our poet pass over the deed of Idomeneus in this battle, and he mentions next that Alcathous, the son-in-law of Anchises, was slain by him—a slaughter that was more memorable than that of Asius. …
+- **777 (LL 774)** … Certainly, Asius, who is named first here, before Amphimachus (the man slain by Hector), is said by Homer to have been killed long after Amphimachus, *Iliad* XIII, 384. Nor does our poet pass over the deed of Idomeneus in this battle, and he mentions next that Alcathous, the son-in-law of Anchises, was slain by him—a slaughter that was more memorable than that of Asius. …
 
 ## p. 582
 
@@ -622,7 +622,7 @@ conjectures and the arguments for them are left out.
 
 ## p. 595
 
-- **922 (LL 917)** … Statius, *Thebaid* II, 671: « Tardatique gradus ». But I see that the verb *praetardare* is absent from the lexicons.
+- **922 (LL 917)** … Statius, *Thebaid* II, 671: « Tardatique gradus ». But I see that the verb *praetardo* is absent from the lexicons.
 - **926 (LL 921)** … that is, sustained, encouraged him. G. 2 has *Imbribus*, *ignibus*, *fluctibus undae*. Juno, moreover, assisted Achilles by rousing Vulcan to his aid to set fire to the banks of the river and the plain.
 - **927 (LL 922)** … In this verse the author indeed touches too briefly upon the quarrels and battles in which the gods and goddesses fight over the Trojans—Mars with Minerva, Neptune with Apollo, Juno with Diana—in Homer, *Iliad* XXI, vv. 385–515.
 
@@ -640,7 +640,7 @@ conjectures and the arguments for them are left out.
 - **943 (LL 938)** … Below, in v. 980, he is likewise called *Nereius*; and Saleius, *Carm. in Pis.* v. 164, uses that name. …
 - **944 (LL 939)** … This verse—which should be punctuated differently from what the editions have and connected with the following lines—contains a simile employed by Homer, *Iliad* XXII, 199 ff., and Virgil, *Aen.* XII, 908, with dreamers who seem to themselves in running either to overtake or to flee another, yet, oppressed with sleep and languid, accomplish nothing. Our author seems to have had an eye to the passage of each, and to have wished partly to imitate them, but did not succeed.
 - **946 (LL 941)** … The author seems to have wished to express the thought of Maro in the same comparison, *Aeneid* XII, 909: « nequidquam avidos extendere cursus Velle videmur, et in mediis conatibus aegri Succidimus ».
-- **947 (LL 942)** … *Insistere coepta* here means to pursue flight, to press on in the race, as Virgil said *viam insistere*, *Georg.* III, 164. …
+- **947 (LL 942)** … *Insistere coepta* here means to continue the flight, to press on in the race, as Virgil said *viam insistere*, *Georg.* III, 164. …
 - **948 (LL 943)** … For while both heroes fear lest one be overcome by the other, this fear sharpens anger in them and increases the contest. … And perhaps our author had in mind the flight of Daphne pursued by Apollo, described by Ovid, *Metam.* I, 539: « Sic Deus et virgo
 
 ## p. 598
@@ -713,14 +713,14 @@ conjectures and the arguments for them are left out.
 
 - **1050 (LL 1045)** *Post haec sua dona reportat* [After this he carries back his gifts]. Barth on Statius, *loc. cit.*, doubts whether these words are sound. For by no means in Homer did Achilles return the gifts brought to Priam, but openly attested that on account of the gifts he was returning the body of Hector to him; and hence he wishes to write: *sua dona reportat Achilles, It patriam Priamus*. But I think we should not stumble over this matter, and by *dona* I think the very body of Hector, granted to Priam, is understood.
 - **1053 (LL 1048)** … Barth, however, on Statius, vol. III, p. 395, challenges Lutatius' reading, and contends that by all means the bodies of Trojans, not Greeks, were cremated with Hector. He thinks the ancients took great religious care that enemies should not be placed into a single pyre: that the corpses of the Greeks were not available to Priam, since it is well known that the Greeks recovered their own dead for burial with the greatest eagerness; moreover, that living bodies could not have been used without great danger of Achilles' anger against an ungrateful Priam. And indeed the author in this matter departed from Homer's account of Hector's funeral, and seems to have fashioned his narrative after Homer's other account of the pyre of Patroclus, *Il.* XXIII, 171, or after that of Maro concerning the funeral offerings made to Pallas, *Aen.* XI, 80 ff. Meanwhile, that reading *corpora Graium*, which is confirmed by the best manuscripts, ought by no means to have been rejected by Barth; and if there is anything false in it, it is the error of the author himself, not of the scribes; nor can I approve all of Barth's reasons on account of which he thinks *Troum* should be read. — The reading *corpora Graium* is also defended by Schrader, *Observationum* book I, ch. 5, page 61. Ed.
-- **1054 (LL 1049)** … — As to his adding that chariots and trumpets were thrown onto the pyre, that seems completely foreign to Homer, and perhaps unseasonably bor-
+- **1054 (LL 1049)** … — As to his adding that chariots and trumpets were thrown onto the pyre, that seems completely foreign to Homer, and perhaps unseasonably
 
 ## p. 608
 
-- **(cont.)** (cont.) -rowed from Virgil, who says of the tomb of Misenus in *Aen.* VI, 232: « Imponit suaque arma viro, remumque, tubamque ». But Victor, *De Orig. gent. Rom.* ch. 9, citing that passage of Virgil, noted that on Homer's authority the use of the trumpet was unknown in Trojan times.
+- **(cont.)** (cont.) borrowed from Virgil, who says of the tomb of Misenus in *Aen.* VI, 232: « Imponit suaque arma viro, remumque, tubamque ». But Victor, *De Orig. gent. Rom.* ch. 9, citing that passage of Virgil, noted that on Homer's authority the use of the trumpet was unknown in Trojan times.
 - **1057 (LL 1052)** *Stant circum Iliades* [The Trojan women stand around]. Virgil indicates that this custom was observed at the funerals of Polydorus and Pallas, *Aen.* III, 65 and XI, 35, by this verse: *Stant circum Iliades crinem de more solutae*. Therefore *abrumpere crines* [to tear hair], which our poet uses, is the same as Virgil's *solvere crines* [to loose hair].
 - **1061 (LL 1056)** *Flamma namque Ilion illa* [For Ilion was burning with that flame]. See verse 338.
-- **1066 (LL 1061)** … Virg. *Aen.* VI, 226: « Postquam collapsi cineres, et flamma quievit ». What our poet calls *robora flammae*, I do not know whether anyone else has said; but *robora* can also be understood of the oak-wood piled into the pyre, which, consumed by fire, collapsed into ashes; just as Maro also relates of the pyre of Misenus, *Aen.* VI, 213: « pinguem taedis et robore secto Ingentem struxere pyram ».
+- **1066 (LL 1061)** … Virg. *Aen.* VI, 226: « Postquam collapsi cineres, et flamma quievit ». What our poet calls *robora flammae*, I do not know whether anyone else has said; but *robora* can also be understood of the wood piled into the pyre, which, consumed by fire, collapsed into ashes; just as Maro also relates of the pyre of Misenus, *Aen.* VI, 213: « pinguem taedis et robore secto Ingentem struxere pyram ».
 - **1068 (LL 1063)** … — And Sidonius Apollinaris sang similarly, *Carm.* 2: « Siste, Camena, modos tenues, portumque petenti Jam placido sedeat mihi carminis anchora fundo ». Ed.
 
 ## p. 609

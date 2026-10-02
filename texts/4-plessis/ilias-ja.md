@@ -2860,7 +2860,7 @@ PDF page 140.
 
 ### 注釈
 
-- **921** rabidae ベーレンス。――ne] qua ベーレンス。――ictibus 旧刊本、ウェルンスドルフ。imbribus ミュラー。――筆者としてはクーテンの提案に従って ignibus を保持した。『イリアス』XXI, 342, 356, 361, 365 を参照。――Asseruit rapidasque coercuit ignibus undas ヴァイティング。
+- **921** rabidae ベーレンス。――ne] qua ベーレンス。――ictibus 旧刊本、ウェルンスドルフ。imbribus ミュラー。――筆者としてはクーテンを典拠として ignibus を保持した。『イリアス』XXI, 342, 356, 361, 365 を参照。――Asseruit rapidasque coercuit ignibus undas ヴァイティング。
 - **929** Aut ベーレンスが支持。
 - **930** Aufugiunt ミュラー。Defugiunt ベーレンス。――Diffugiunt と進んで書きたいところである（『アエネーイス』IX, 755 を参照）。
 

@@ -1244,8 +1244,8 @@ correct it by hand.
 
 152 in decimo labor est, Calchas quem dixerat, anno,
 - [2] 151 In decimo labor est, quem Calchas dixerat, anno,
-  - *In decimo labor est* [In the tenth is the toil], that is, in
-  - **(cont.)** [that is, in] the tenth year at last is the toil foretold and appointed for us, in which we may capture Ilion. Yet I would almost prefer to read *In decimum annum usque labor*, that is, we must toil. For he means that the war is to be delayed to that year, until Ilion is captured. Virgil is accustomed to speak thus, as in *Aen.* IX, 155: « decimum quos distulit Hector in annum »; and XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum ».
+  - *In decimo labor est* [In the tenth is the toil], that is,
+  - **(cont.)** the toil foretold and appointed for us falls at last in the tenth year, in which we may capture Ilion. Yet I would almost prefer to read *In decimum annum usque labor*, that is, we must toil. For he means that the war is to be delayed to that year, until Ilion is captured. Virgil is accustomed to speak thus, as in *Aen.* IX, 155: « decimum quos distulit Hector in annum »; and XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum ».
 - [3] 152 In decimo labor est, Calchas quem dixerat, anno,
 - [4] 152 In decimo labor est, Calchas quem dixerat, anno,
   - Calchas (CALCHAS; Calchas): — had foretold the year in which Troy would fall
@@ -2243,8 +2243,8 @@ correct it by hand.
 
 260 expugnare toros, cuius nunc defugis arma
 - [2] 259 Expugnare toros, cujus nunc defugis arma,
-  - *Hospitis expugnare toros* [To storm the bed of one's host], that is, to capture and corrupt a wife by solicitation, just as they are said to be stormed [ex- / -pugnari]...
-  - **(cont.)** [...ex]pugnari [to be taken by storm]: they are said to be taken by storm who, unwilling and resisting, are overcome by entreaties; in which sense Suetonius used it, Caes. 1, Tiber. 21. In Ovid, Her. XVII, 3, Helen to Paris: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem ». Propertius, III, 13, 9: « Haec etiam clausas expugnant arma pudicas ». — Rutilius, Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit ». Ed. — On the use of the verb expugnare, Barth has noted more on Statius, Theb. IV, 187.
+  - *Hospitis expugnare toros* [To storm the bed of one's host], that is, to capture and corrupt a wife by solicitation, just as
+  - **(cont.)** those who, unwilling and resisting, are overcome by entreaties are said to be taken by storm (*expugnari*); in which sense Suetonius used it, Caes. 1, Tiber. 21. In Ovid, Her. XVII, 3, Helen to Paris: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem ». Propertius, III, 13, 9: « Haec etiam clausas expugnant arma pudicas ». — Rutilius, Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit ». Ed. — On the use of the verb expugnare, Barth has noted more on Statius, Theb. IV, 187.
 - [3] 260 Expugnare toros, cuius nunc defugis arma
 - [4] 260 Expugnare toros, cujus nunc defugis arma
 - [6] 260 expugnare toros, cuius nunc defugis arma
@@ -3458,7 +3458,7 @@ correct it by hand.
 
 414 germanique cupit fatorum exsistere uindex.
 - [2] 414 Germanique cupit fatorum exsistere vindex.
-  - *Cupit exsistere vindex* [Desires to stand forth as an avenger]. This phrase seems to Barth to smack of barbarism, *Advers.* LVIII, 14, and LIX, 1, p. 2770; and he proves from a certain passage of Alboin the presbyter that medieval writers used the verb *subsistere* in the same way. And indeed that expression makes for a sluggish verse, from which poets of the ancient age seem universally to have refrained. Yet I would not on that account assign it to barbarisms, and perhaps *exsistere* in this passage is put for *exstare*, *eminere*, *conspicuum esse* [to stand out, to be prominent, to be conspicuous]. Concerning the verb *subsistere*, it is more certain that it belongs to the barbarous Latinity of the scholastics. — But *exsistere* in the sense of *fieri* [to become] or *esse* [to be] seems to have been introduced by writers of a lower age. For Julius Exsuperantius writes thus: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno ». And Lactantius Placidus in *Argum. Metam. Ovid.* lib. VI, fab. 3: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent ». Ed.
+  - *Cupit exsistere vindex* [Desires to stand forth as an avenger]. This phrase seems to Barth to smack of barbarism, *Advers.* LVIII, 14, and LIX, 1, p. 2770; and he proves from a certain passage of Alboin the presbyter that medieval writers used the verb *subsistere* in the same way. And indeed that expression makes for a sluggish verse, from which poets of the ancient age seem universally to have refrained. Yet I would not on that account assign it to barbarisms, and perhaps *exsistere* in this passage is put for *exstare*, *eminere*, *conspicuum esse* [to stand out, to be prominent, to be conspicuous]. Concerning the verb *subsistere*, it is more certain that it belongs to the barbarous Latinity of the scholastics. — But *exsistere* in the sense of *fieri* [to become] or *esse* [to be] seems to have been introduced by writers of a later age. For Julius Exsuperantius writes thus: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno ». And Lactantius Placidus in *Argum. Metam. Ovid.* lib. VI, fab. 3: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent ». Ed.
 - [3] 414 Germanique cupit fatorum existere uindex.
 - [4] 414 Germanique cupit fatorum existere vindex.
 - [6] 414 germanique cupit fatorum existere vindex.
@@ -3903,8 +3903,8 @@ correct it by hand.
 
 471 atque ibi sidereae queritur sua uulnera matri.
 - [2] 471 Atque ibi sidereae queritur sua vulnera malri.
-  - … Homer also commands the same; he indeed relates that Venus, having been wounded, from her bro-
-  - **(cont.)** (cont.) [brother] Mars for a chariot and horses with which to be carried to heaven, but there complained to her mother Dione, *Iliad* V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς. …
+  - … Homer also commands the same; he indeed relates that the wounded Venus
+  - **(cont.)** (cont.) asked her brother Mars for a chariot and horses to carry her to heaven, but there complained to her mother Dione, *Iliad* V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς. …
 - [3] 471 Atque ibi sidereae queritur sua uulnera matri.
 - [4] 471 Atque ibi sidereae queritur sua vulnera matri.
 - [6] 471 atque ibi sidereae queritur sua vulnera matri.
@@ -4334,8 +4334,8 @@ correct it by hand.
 
 525 quin caderet tenuemque daret de corpore uitam.
 - [2] 525 Quin caderet, tenuemque daret de corpore vitam.
-  - *Tenuemque daret de corpore vitam* [and yielded the faint breath of life from his body], that is, gave up the ghost. He calls it *tenuem vitam* according to the mind of those whom Virgil praises in *Georg.* IV, 223, who said that each soul of living beings is a particle of the world soul, and returns thither through death. « Hence, he says *loc. cit.*, each one for itself at birth draws a sli-
-  - **(cont.)** (cont.) -ght breath of life [« Quemque sibi tenues nascentem arcessere vitas »] ». And *Aen.* IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit ».
+  - *Tenuemque daret de corpore vitam* [and yielded the faint breath of life from his body], that is, gave up the ghost. He calls it *tenuem vitam* according to the mind of those whom Virgil praises in *Georg.* IV, 223, who said that each soul of living beings is a particle of the world soul, and returns thither through death. « Hence, he says *loc. cit.*, each one for itself at birth draws
+  - **(cont.)** (cont.) a slight breath of life [« Quemque sibi tenues nascentem arcessere vitas »] ». And *Aen.* IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit ».
 - [3] 525 Quin caderet tenuemque daret de corpore uitam.
 - [4] 525 Quin caderet tenuemque daret de corpore vitam.
 - [6] 525 quin caderet tenuemque daret de corpore vitam.
@@ -4850,7 +4850,7 @@ correct it by hand.
 
 587 Ergo ubi deiectis auratam regis Atridae
 - [2] 588 Ergo ubi dejectis auratam regis Atridae
-  - *Ergo ubi dejectis* [Therefore when having cast...]. He took this from Virgil, *Aen.* V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea » [The men assembled, and the bronze helmet received the cast lot].
+  - *Ergo ubi dejectis* [Therefore, when the lots had been cast...]. He took this from Virgil, *Aen.* V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea » [The men assembled, and the bronze helmet received the cast lot].
 - [3] 587 Ergo ubi deiectis auratam regis Atridae
 - [4] 587 Ergo ubi dejectis auratam regis Atridae
   - Atridae (AGAMEMNON; Agamemnon): — the lots are thrown into the helmet of the king
@@ -6310,7 +6310,7 @@ correct it by hand.
 
 774 Idomenei dextra cadit Asius; Hector atrocem
 - [2] 777 Idoraenei dextra cadit Asius; Hector atrocem
-  - … Certainly, this Asius who is named first here, and before Amphimachus is slain by Hector, is said by Homer to have been killed long after Amphimachus, *Iliad* XIII, 384. Nor does our poet pass over the deed of Idomeneus in this battle, and he mentions next that Alcathous, the son-in-law of Anchises, was slain by him—a slaughter that was more memorable than that of Asius. …
+  - … Certainly, Asius, who is named first here, before Amphimachus (the man slain by Hector), is said by Homer to have been killed long after Amphimachus, *Iliad* XIII, 384. Nor does our poet pass over the deed of Idomeneus in this battle, and he mentions next that Alcathous, the son-in-law of Anchises, was slain by him—a slaughter that was more memorable than that of Asius. …
 - [3] 774 Dextraque Idomenei cadit Asius; Hector atrocem
 - [4] 774 Idomenei dextra cadit Asius; Hector atrocem
   - Amphimachum (AMPHIMACHUS princeps Epeorum; Amphimachus, prince of the Epeans): Amphimachum: Hector cuts down the fierce Amphimachus
@@ -7481,7 +7481,7 @@ correct it by hand.
 
 917 praetardatque gradus. Ille omni corpore saeuas
 - [2] 922 Praetardatque gradus : ille omni corpore saevas
-  - … Statius, *Thebaid* II, 671: « Tardatique gradus ». But I see that the verb *praetardare* is absent from the lexicons.
+  - … Statius, *Thebaid* II, 671: « Tardatique gradus ». But I see that the verb *praetardo* is absent from the lexicons.
 - [3] 917 Praetardatque gradus; ille omni corpore saeuas
 - [4] 917 Praetardatque gradus; ille omni corpore saevas
 - [6] 917 praetardatque gradus; ille omni corpore saevas
@@ -7666,7 +7666,7 @@ correct it by hand.
 
 942 alternis poterant insistere coepta periclis,
 - [2] 947 Alternis poterant insistere coepta periciis,
-  - … *Insistere coepta* here means to pursue flight, to press on in the race, as Virgil said *viam insistere*, *Georg.* III, 164. …
+  - … *Insistere coepta* here means to continue the flight, to press on in the race, as Virgil said *viam insistere*, *Georg.* III, 164. …
 - [3] 942 Alternis poterant insistere coepta periclis,
 - [4] 942 below Alternis poterant insistere coepta periclis
 - [6] 942 alternis poterant insistere coepta periclis,
@@ -8517,8 +8517,8 @@ correct it by hand.
 
 1049 quadrupedesque adduntur equi currusque tubaeque
 - [2] 1054 Quadrupedesque adduntur equi, currusque, tubaeque.
-  - … — As to his adding that chariots and trumpets were thrown onto the pyre, that seems completely foreign to Homer, and perhaps unseasonably bor-
-  - **(cont.)** (cont.) -rowed from Virgil, who says of the tomb of Misenus in *Aen.* VI, 232: « Imponit suaque arma viro, remumque, tubamque ». But Victor, *De Orig. gent. Rom.* ch. 9, citing that passage of Virgil, noted that on Homer's authority the use of the trumpet was unknown in Trojan times.
+  - … — As to his adding that chariots and trumpets were thrown onto the pyre, that seems completely foreign to Homer, and perhaps unseasonably
+  - **(cont.)** (cont.) borrowed from Virgil, who says of the tomb of Misenus in *Aen.* VI, 232: « Imponit suaque arma viro, remumque, tubamque ». But Victor, *De Orig. gent. Rom.* ch. 9, citing that passage of Virgil, noted that on Homer's authority the use of the trumpet was unknown in Trojan times.
 - [3] 1049 Quadrupedesque adduntur equi currusque tubaeque
 - [4] 1049 Quadrupedesque adduntur equi currusque tubaeque
 - [6] 1049 quadrupedesque adduntur equi currusque tubaeque
@@ -8605,7 +8605,7 @@ correct it by hand.
 
 1061 donec collapsae ceciderunt robora flammae
 - [2] 1066 Donec collapsae ceciderunt robora flammae,
-  - … Virg. *Aen.* VI, 226: « Postquam collapsi cineres, et flamma quievit ». What our poet calls *robora flammae*, I do not know whether anyone else has said; but *robora* can also be understood of the oak-wood piled into the pyre, which, consumed by fire, collapsed into ashes; just as Maro also relates of the pyre of Misenus, *Aen.* VI, 213: « pinguem taedis et robore secto Ingentem struxere pyram ».
+  - … Virg. *Aen.* VI, 226: « Postquam collapsi cineres, et flamma quievit ». What our poet calls *robora flammae*, I do not know whether anyone else has said; but *robora* can also be understood of the wood piled into the pyre, which, consumed by fire, collapsed into ashes; just as Maro also relates of the pyre of Misenus, *Aen.* VI, 213: « pinguem taedis et robore secto Ingentem struxere pyram ».
 - [3] 1061 Donec conlapsae ceciderunt robora flammae
 - [4] 1061 Donec collapsae ceciderunt robora flammae
 - [6] 1061 donec conlapsae ceciderunt robora flammae

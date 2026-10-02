@@ -5,11 +5,12 @@ The translation, summaries and proper-name table have been checked for
 all 24 books. Reviewed names in commentary/commentary-ja.tsv and
 commentary/index-ja.tsv agree with the commentary.
 
-Non-name meaning differences in the editions' draft translations are
-reported, rather than corrected. The outstanding items remain in
-[PLAN.md](../../PLAN.md#unresolved-draft-differences), together with the
-unresolved English source discrepancy at 677. Edition-specific readings
-and identifications recorded here are preserved as in their sources.
+The previously reported non-name draft differences have now been checked
+against the originals under the user's subsequent authorization. The
+source-based decisions and corrections, including English errors, are
+recorded below. Edition-specific readings and identifications are
+preserved as in their sources. The other translated material of the
+editions remains draft material outside this targeted review.
 
 ## Carrying the corrections over to texts/
 
@@ -23,11 +24,133 @@ headwords use the settled forms of the corresponding names.
 Corrections from 240 reviewed TSV notes were matched to their source
 items. Full notes retain their original numbering and wording, rather
 than being replaced by the adapted commentary excerpts. Roman and Greek
-name forms follow the context. The report-only draft meaning differences
-remain unchanged. `make notes` in texts/ rebuilt notes-ja.md from the
+name forms follow the context. Non-name draft meaning differences were
+left unchanged in that propagation; they were subsequently examined in
+the review below. `make notes` in texts/ rebuilt notes-ja.md from the
 corrected edition files. The source index rows and descriptions were
 checked against the reviewed TSVs; Latin and Greek quotations, numbers,
 verse tables, headings and note labels were verified unchanged.
+
+## Reviewing the reported draft differences
+
+On 2026-10-03, the user authorized review and correction of the reported
+meaning differences, including errors found in English, with work to
+stop before the website. All 69 affected notes and four index
+descriptions were compared with the editions' originals, and the
+English commentary at 677 was checked against verses 674–675. No item
+from the former PLAN.md list remains unresolved.
+
+Accepted differences are retained deliberately: valid lexical choices,
+accurate supplementary translations, explanatory Latin terms and
+contextual glosses are not treated as errors merely because they differ
+from English. A corrected item may also retain accurate supplements.
+The descriptions below state both decisions where applicable.
+
+The Japanese curated notes change at 43 items and the English curated
+notes at 12, including the additional continuation at 1049 found during
+the final check. Corresponding source passages are corrected in ilias-ja.md,
+COMMENTARY-ja.md, ilias-en.md and COMMENTARY-en.md, retaining their own
+page boundaries, numbering and unexcerpted material. The divided
+continuations at 152, 260, 471, 525, 965 and 1049 are joined naturally; the
+source translations at 965 also change although that continuation is
+not in the curated excerpt. Four Japanese index descriptions are
+corrected in commentary/index-ja.tsv, Plessis's INDEX-ja.tsv and
+index-ja.md. English section 677 now identifies the stone as the weapon
+that knocked Teucer down, before Hector threatens the Greeks with his
+spear; Japanese section 677 already said this correctly.
+
+`make notes` rebuilds both translated notes files, and `make greek`
+updates the existing local context from the corrected English TSV.
+Original Latin and French source files, the base poem, the concordance,
+quoted Latin/Greek passages and citation numbers are preserved. Quoted
+lemma forms incorrectly changed in translation are restored explicitly:
+violentum at 851 and praetardo at 917. The source word divided as
+ex-/pugnari at 260 is restored as expugnari in the joined translation.
+
+The lexical decisions at 11, 46 and 451 were checked against Lewis and
+Short: [pestis](https://alatius.com/ls/index.php?l=pestis),
+[arguo/argutus](https://alatius.com/ls/index.php?id=3589), and
+[naris](https://alatius.com/ls/index.php?id=30391). The supplementary
+identification at 902 is supported by the ancient account of Caesar's
+catasterism in [Ovid, Metamorphoses 15.843–850](https://www.thelatinlibrary.com/ovid/ovid.met15.shtml).
+
+| LL verse | Edition | Decision | Source and reason |
+|---|---|---|---|
+| 11 | 2 | Accepted | [pp. 516](../../texts/2-lemaire/ilias.md#p-516): Pestis also means ruin; the full note explicitly explains it as destructive wrath. Japanese 破滅 and the English plague gloss are retained. |
+| 46 | 2 | Accepted | [pp. 520](../../texts/2-lemaire/ilias.md#p-520): Argutam can praise ingenuity as well as vividness. The Japanese gloss explicitly gives the Latin word; both renderings are defensible. |
+| 152 | 2 | Corrected JA/EN | [pp. 528,529](../../texts/2-lemaire/ilias.md#p-528): Praedictus et constitutus modifies the toil already foretold and appointed. The duplicated English continuation gloss was removed. |
+| 195 | 2 | Corrected JA | [pp. 532](../../texts/2-lemaire/ilias.md#p-532): Socius is his ally here; the separate frater relationship is already translated. |
+| 253 | 2 | Corrected JA | [pp. 538](../../texts/2-lemaire/ilias.md#p-538): De Medea concerns the character, parallel to Domitian and Rufinus; Troas is the Troad, not the city of Troy. |
+| 260 | 2 | Corrected JA/EN | [pp. 538,539](../../texts/2-lemaire/ilias.md#p-538): The original ex-/pugnari is a single word divided by the page break. Its sentence is rejoined in both curated notes; source pages retain a natural continuation. |
+| 293 | 2 | Corrected JA | [pp. 541](../../texts/2-lemaire/ilias.md#p-541): Septem coriis does not specify cattle hide. |
+| 360 | 2 | Corrected JA | [pp. 547](../../texts/2-lemaire/ilias.md#p-547): The added verse translation is retained, with rigido rendered hard, not cold; the conjectured reading is unchanged. |
+| 364 | 2 | Corrected JA | [pp. 547](../../texts/2-lemaire/ilias.md#p-547): Praedurato telo does not specify a spear or its point. The accurate translation of the quoted Vergilian wooden weapons is retained. |
+| 414 | 2 | Corrected JA/EN | [pp. 552](../../texts/2-lemaire/ilias.md#p-552): Inferioris aetatis denotes a later period, not a lower social class; the English wording is clarified too. |
+| 443 | 2 | Corrected curated JA/EN | [pp. 554](../../texts/2-lemaire/ilias.md#p-554): Cel. and sanitati support the praise and restoration language. The adapted notes incorrectly turned dedimus (we printed) into renders Homer; the fuller source translations were already accurate. |
+| 451 | 2 | Accepted | [pp. 555](../../texts/2-lemaire/ilias.md#p-555): Naris can denote the nose as well as a nostril. Japanese 鼻 is a legitimate lexical rendering; the source and English text are retained. |
+| 471 | 2 | Corrected JA/EN | [pp. 556,557](../../texts/2-lemaire/ilias.md#p-556): Frater does not specify an older brother. The English sentence lost petiisse (asked) and retained a divided bro-/ther fragment; both are restored. |
+| 485 | 2 | Accepted | [pp. 558](../../texts/2-lemaire/ilias.md#p-558): The extra Japanese translation accurately renders Proxima quaeque metit gladio and does not alter the parallel. |
+| 512 | 2 | Corrected JA | [pp. 559](../../texts/2-lemaire/ilias.md#p-559): Error describes the miss without specifying a fault in the thrower's hand. |
+| 525 | 2 | Corrected continuation JA/EN; gloss accepted | [pp. 560,561](../../texts/2-lemaire/ilias.md#p-560): The added Japanese translation of Aeneid IV.705 is accurate. Artificial divisions of slight/かすかな in the translated page continuation are removed; the English curated note is rejoined. |
+| 539 | 2 | Corrected JA | [pp. 562](../../texts/2-lemaire/ilias.md#p-562): Adrastus is thrown from his chariot by the frightened horses, not from horseback; the Homeric scene and the English rendering agree. |
+| 548 | 2 | Corrected JA | [pp. 563](../../texts/2-lemaire/ilias.md#p-563): Innuptae means unwed; the gloss no longer substitutes chastity for marital status. |
+| 557 | 2 | Accepted | [pp. 563](../../texts/2-lemaire/ilias.md#p-563): The extra translations of the Virgilian and Rutilian examples preserve their meaning and the stated molestus/impius senses. |
+| 574 | 2 | Corrected JA | [pp. 565](../../texts/2-lemaire/ilias.md#p-565): Potuit suggests a possibility, not a high probability. |
+| 586 | 2 | Corrected added JA gloss | [pp. 565](../../texts/2-lemaire/ilias.md#p-565): The supplementary translations are useful, but ferum amorem concerns fierce passion rather than cultural barbarism; its gloss is corrected. |
+| 587 | 2 | Corrected JA/EN | [pp. 566](../../texts/2-lemaire/ilias.md#p-566): Ubi is temporal. The Japanese when relationship and the English passive sense of dejectis are restored; the accurately translated parallel is retained. |
+| 591 | 2 | Accepted | [pp. 566](../../texts/2-lemaire/ilias.md#p-566): The additional Japanese translations of the poem and Cicero's comparison are accurate; the LL reference adaptation is preserved. |
+| 612 | 2 | Accepted | [pp. 568](../../texts/2-lemaire/ilias.md#p-568): The added translations accurately describe Ajax's sevenfold shield and the cited counterfactual/Vergilian examples. |
+| 615 | 2 | Accepted | [pp. 569](../../texts/2-lemaire/ilias.md#p-569): The translation of the quoted request to renew the Trojan forces is a valid explanatory supplement. |
+| 630 | 2 | Corrected JA | [pp. 570](../../texts/2-lemaire/ilias.md#p-570): The unexplained 連形 is removed. The source only states that balteum is made disyllabic; no new metrical term is needed. |
+| 660 | 4 | Accepted | [pp. 49](../../texts/4-plessis/ilias.md#p-49): Capiendum videtur is qualified advice on interpretation, so 解されるべきと思われる is defensible; the English seems to be taken is retained. |
+| 667 | 2 | Accepted | [pp. 572](../../texts/2-lemaire/ilias.md#p-572): Agelaus Phradmonides is explicitly present in the original; giving it in parentheses is accurate. |
+| 681 | 2 | Accepted | [pp. 573](../../texts/2-lemaire/ilias.md#p-573): The parenthetical pessulus repeats the original's term for the oak bolt and is accurate. |
+| 706 | 2 | Accepted | [pp. 575](../../texts/2-lemaire/ilias.md#p-575): Consilia and judicium are the very glosses supplied by the original; their parenthetical retention is accurate. |
+| 732 | 2 | Corrected JA | [pp. 578](../../texts/2-lemaire/ilias.md#p-578): Rarius is a comparative and does not assert extreme rarity. |
+| 743 | 2 | Corrected JA | [pp. 579](../../texts/2-lemaire/ilias.md#p-579): Telorum includes missiles generally, not only javelins; the established correction XI to X is unchanged. |
+| 748 | 2 | Corrected JA | [pp. 579](../../texts/2-lemaire/ilias.md#p-579): Homerista denotes the poet imitating Homer, not Homer himself. |
+| 752 | 2 | Corrected JA | [pp. 580](../../texts/2-lemaire/ilias.md#p-580): Fratrem does not assert which brother is older; the identification of Coon is unchanged. |
+| 753 | 2 | Accepted | [pp. 580](../../texts/2-lemaire/ilias.md#p-580): H. accurately identifies the Helmstedt manuscript already named in the original. |
+| 774 | 2 | Corrected JA/EN | [pp. 581](../../texts/2-lemaire/ilias.md#p-581): In hac acie concerns this battle. English wrongly made ante Amphimachum ... nominatur a statement about the timing of a killing; it concerns the order in which names are given. |
+| 776 | 2 | Accepted | [pp. 582](../../texts/2-lemaire/ilias.md#p-582): The katakana gloss merely repeats the original's Alcathous identification. |
+| 790 | 2 | Corrected JA | [pp. 583](../../texts/2-lemaire/ilias.md#p-583): The ships belong to the Greeks. Apollo revives the injured Hector; the Japanese no longer limits the action to encouragement. |
+| 800 | 2 | Corrected JA | [pp. 584](../../texts/2-lemaire/ilias.md#p-584): Ajacem loquentem inducens introduces Ajax himself as the speaker, not a narrator of Ajax. |
+| 801 | 2 | Corrected JA | [pp. 584](../../texts/2-lemaire/ilias.md#p-584): Carinas is ships, without the additional restriction to warships. |
+| 827 | 2 | Accepted | [pp. 585,586](../../texts/2-lemaire/ilias.md#p-585): Idiotismus is the original's term and accurately accompanies the Japanese explanation of the author's usage. |
+| 834 | 2 | Corrected JA | [pp. 586](../../texts/2-lemaire/ilias.md#p-586): Homerista is the Latin poet imitating Homer; the Japanese now conveys both the work's language and the imitation. |
+| 844 | 2 | Accepted | [pp. 587](../../texts/2-lemaire/ilias.md#p-587): The glosses of declamare, defatigare and detonare support the original comparison of intensive/completive de- verbs and do not change its argument. |
+| 845 | 2 | Accepted | [pp. 587](../../texts/2-lemaire/ilias.md#p-587): The added deformat gloss is accurate in the context of defiling one's hair with dust in mourning. |
+| 851 | 2 | Corrected JA | [pp. 588](../../texts/2-lemaire/ilias.md#p-588): The first quoted form is violentum in the original and is restored. The later violentus is left as the original has it. |
+| 857 | 2 | Corrected JA; parallel gloss accepted | [pp. 589](../../texts/2-lemaire/ilias.md#p-589): Ignes is fires and does not invoke Buddhist hellfire. The added translation of Reposianus is accurate. |
+| 868 | 2 | Corrected JA | [pp. 590](../../texts/2-lemaire/ilias.md#p-590): The changing horse and the trick-rider comparison are in the original; a fast horse is not. |
+| 869 | 2 | Corrected JA | [pp. 591](../../texts/2-lemaire/ilias.md#p-591): Exprimit does not add a claim that the imitation is faithful. |
+| 901 | 2 | Corrected JA | [pp. 594](../../texts/2-lemaire/ilias.md#p-594): Non temere treats the inference as grounded rather than certifying its conclusion as correct. |
+| 902 | 2 | Accepted | [pp. 594](../../texts/2-lemaire/ilias.md#p-594): Clara is accurately glossed. The Julian star as Caesar's comet is a valid explanatory identification, supported by the ancient account of his catasterism. |
+| 917 | 2 | English lemma aligned; JA accepted | [pp. 595](../../texts/2-lemaire/ilias.md#p-595): The original itself uses praetardo. The Japanese is correct; the English lemma is restored to that form rather than changing the Japanese to its infinitive. |
+| 921 | 4 | Corrected JA | [pp. 74](../../texts/4-plessis/ilias.md#p-74): Kootenio auctore gives Kooten's authority for retaining ignibus; it does not say that he proposed a new conjecture. |
+| 929 | 2 | Accepted | [pp. 596](../../texts/2-lemaire/ilias.md#p-596): The added absumpta salus gloss conveys the loss of safety in the quoted phrase. |
+| 942 | 2 | Corrected JA/EN | [pp. 597](../../texts/2-lemaire/ilias.md#p-597): The full note explains persistence in the course each runner has begun, not chasing another runner. English pursue flight is clarified to continue the flight; viam insistere is an accurate supplementary gloss. |
+| 952 | 2 | Corrected JA | [pp. 598](../../texts/2-lemaire/ilias.md#p-598): The gloss now gives the armed warrior as the subject, without making the armor itself thunder. |
+| 963 | 2 | Corrected JA; Latin gloss accepted | [pp. 599](../../texts/2-lemaire/ilias.md#p-599): The original expressly explains mucro as ense (sword); obtunditur is blunted, not chipped. Decidisse is the original's verb and may remain in parentheses. |
+| 965 | 2 | Corrected JA/EN continuation; expression glosses accepted | [pp. 599,600](../../texts/2-lemaire/ilias.md#p-599): Concurrentes is meeting in combat, and no extra intensity is asserted. The reciprocal sword/ray expressions are accurately glossed. |
+| 982 | 2 | Accepted | [pp. 601](../../texts/2-lemaire/ilias.md#p-601): The parenthetical Latin rhetorical term gradatio correctly accompanies 漸層法. |
+| 997 | 2 | Corrected JA; word glosses accepted | [pp. 602](../../texts/2-lemaire/ilias.md#p-602): Superbius altiusque describes a prouder, loftier gait; the Japanese now preserves that manner of movement. The supplementary word glosses are accurate. |
+| 1011 | 2 | Accepted | [pp. 604](../../texts/2-lemaire/ilias.md#p-604): The added Superavit Epeus gloss accurately identifies Epeus as the victor. |
+| 1028 | 2 | Corrected JA; Greek gloss accepted | [pp. 605](../../texts/2-lemaire/ilias.md#p-605): Inferior does not quantify how far inferior. The added translation of the Greek appeal is accurate. |
+| 1032 | 2 | Accepted | [pp. 605](../../texts/2-lemaire/ilias.md#p-605): The added translation of ad genua accidere correctly describes falling at another person's knees. |
+| 1041 | 2 | Corrected JA | [pp. 606](../../texts/2-lemaire/ilias.md#p-606): Fortasse ... suspicari sinit cautiously allows a suspicion; it is not a claim of sufficient grounds for identifying the authors. |
+| 1045 | 2 | Accepted | [pp. 607](../../texts/2-lemaire/ilias.md#p-607): Priam is the subject of the transmitted verse and the conjectured wording is correctly translated; the additions clarify the context without settling the disputed reading. |
+| 1048 | 2 | Corrected JA | [pp. 607](../../texts/2-lemaire/ilias.md#p-607): Viva corpora does not itself specify prisoners or sacrificial killing. The author's contested account and the alternative readings are preserved. |
+| 1049 | 2 | Additional correction EN/JA continuation | [pp. 607–608](../../texts/2-lemaire/ilias.md#p-607): The English curated note retained bor- -rowed across the page break. It now reads borrowed; both source translations continue at a word boundary, with English borrowed and Japanese 借用された kept intact. The Japanese curated note was already joined correctly. |
+| 1061 | 2 | Corrected JA/EN | [pp. 608](../../texts/2-lemaire/ilias.md#p-608): The note's alternative interpretation is de lignis (of wood), without specifying oak. The explanatory alternative gloss is retained but made consistent with that wording. |
+| 1064 | 2 | Corrected JA | [pp. 609](../../texts/2-lemaire/ilias.md#p-609): The original gives curru et quadrigis without specifying two wheels. Testimonia and prooemio name parts of the edition; the invented standalone-title brackets are removed. |
+| 1069 | 2 | Corrected JA | [pp. 610](../../texts/2-lemaire/ilias.md#p-610): Non latinum is an objection to usage, not a claim about an orthodox Latin tradition. The instrument and meter explanations are accurate and retained. |
+| 1070 | 2 | Accepted | [pp. 610](../../texts/2-lemaire/ilias.md#p-610): The full verse expressly has cursu vatis peracto, and the note at 1064 explains the nautical allegory. The Japanese poet/voyage gloss is a justified contextual explanation. |
+| 580, MERIONES | 4 index | Corrected JA | [Plessis index](../../texts/4-plessis/index.md): Paterna gente denotes the paternal family, not ancestry without that qualification. |
+| 950, GRAI | 4 index | Corrected JA | [Plessis index](../../texts/4-plessis/index.md): Numina sua transfert here transfers the goddess's favor to the Danaans. |
+| 950, MINERVA | 4 index | Corrected JA | [Plessis index](../../texts/4-plessis/index.md): The parallel Pallas entry records the same shift in favor. |
+| 1066, HOMERUS | 4 index | Corrected JA | [Plessis index](../../texts/4-plessis/index.md): Metam tenet at the end of the poem means reaching the goal, not a turn back. |
+| 677 | English commentary | Corrected EN | [Verse 674](../en/08/0673.md), [675](../en/08/0675.md): Hector strikes Teucer with a stone. Section 677 now refers to the spear of the man who used that stone, rather than to a spear that struck Teucer. |
 
 ## Book 1
 
@@ -127,7 +250,7 @@ enemy. The warning at 651, Hector at 674 and the turning and fleeing at
 Phrygia, Phrygians, Tydeus and Tydides distinguished. The Japanese
 commentary at 677 also corrects an English source error: the English
 calls Hector's spear the weapon that just struck Teucer, although
-674–675 explicitly says a stone. The English is unchanged; Japanese
+674–675 explicitly says a stone. The English was initially unchanged; Japanese
 correctly refers to the spear of Hector, who has just struck Teucer with
 a stone. The edition-specific readings and interpretations of armis at
 658 and 660 remain as in the sources.

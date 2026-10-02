@@ -425,7 +425,7 @@ PDF page 539.
 
 ### 注釈
 
-- **(cont.)** （前頁からの続き）実に十年目になって初めて、われわれがイリオンを攻略するための労苦が予言され、定められている、ということである。しかし私はむしろ *In decimum annum usque labor*、すなわち「われわれは労苦せねばならない」と読みたいところである。というのも、彼はイリオンが攻略されるまで戦争がその年へと引き延ばされることを意味しているからである。ウェルギリウスもこのように語るのが常であり、Aen. IX, 155: « decimum quos distulit Hector in annum »、また XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum »。
+- **(cont.)** （前頁からの続き）われわれにあらかじめ予告され、定められていた労苦は、イリオンを攻略する十年目にこそあるということである。しかし私はむしろ *In decimum annum usque labor*、すなわち「われわれは労苦せねばならない」と読みたいところである。というのも、彼はイリオンが攻略されるまで戦争がその年へと引き延ばされることを意味しているからである。ウェルギリウスもこのように語るのが常であり、Aen. IX, 155: « decimum quos distulit Hector in annum »、また XI, 289: « Hectoris Aeneaeque manu victoria Graium Haesit, et in decimum vestigia rettulit annum »。
 - **153 (LL 154)** *Nestoris aetas*（ネストルの年齢）、すなわち老年の知慮、あるいは老ネストルのこと。
 - **155 (LL 156)** G. 2 は *Rex jubet* と読む。同写本は *aptare* ともする。Virg. Aen. X, 258: « sociis edicit, signa sequantur, Atque animos aptent armis: pugnaeque parent se »。
 - **156 (LL 157)** G. 2 は *Tacitas ubi primum* とする。
@@ -516,7 +516,7 @@ PDF page 542.
 - **(cont.)** （前頁からの続き）G. 2 は *Graium durus comitator Ach.* と読み、A. は *durus comitatur* と読んでいる。
 - **192 (LL 193)** 流布本が *Pedippus et Antipus* としていたところを、私はホメロスの『イリアス』II, 678 に基づいて *Phidippus et Antiphus* と記した。
 - **193 (LL 194)** G. 2 は *Pulsarunt aequora* とする。
-- **194 (LL 195)** *Ratibus secat aequora Teucer*（テウクロスが船で海原を切り進む）：流布本および写本はこう読んでいる。しかし博識なるボンダムは『異読考』147 頁で、テウクロスの代わりにニレウスを置くべきだと主張している。ホメロスは『イーリアス』II, 671 で彼がわずか 3 隻の船を率いてきたと伝えており、われらの詩人はこの箇所で名指ししていないとすれば、完全に割愛したと見なされねばならないからである。彼はさらに次のような論拠によって自説を補強している。すなわち、ホメロスが自らの軍船表においてこのテウクロスに全く言及していないだけでなく、その兄であるテラモンの子アイアスが 12 隻の船をトロイアへ率いたと語っており（これにはわれらの詩人も 204 行で一致している）、さらに他の著述家たち、例えばディクテュス（第 1 巻 13 章および 17 章）もアイアスを船団の指揮官とし、弟のテウクロスはその同行者にして同胞であったと述べているからである。プリュギアのダレース第 14 章は明快に「サラミスからのテラモンの子アイアスは弟テウクロスを伴った」（« Ajax Telamonius ex Salamine adduxit secum Teucrum fratrem »）と記している。ヒュギーヌスはたしかに『神話集』(fab.) 97 でテラモンの子アイアスが 12 隻の船を率い、弟テウクロスも同数を率いたと述べている。しかし、われらの詩人において流布本の読みがテウクロスに割り当てている船の数はこれとは異なり、彼がわずか 3 隻の船を率いたとされている。しかるにホメロスにおいて 3 隻の船が割り当てられているのはニレウスだけであり、この人物だけが、テウクロスの代わりに名指しされるのでない限り、梗概作者によって沈黙されているのである。そして私はこれらの論拠が非常に重きをなすものと認め、ためらうことなく次のように書くべきだと考える: « Et tribus adsumptis ratibus secat aequora Nireus »。私はまた *adsumptis* という語も誤りであり、*Et tribus ex Syme ratibus* と書くべきではないかと推測する。なぜならディクテュス I, 17 に「シュメからのニレウスが 3 隻、ピュラケからのポダルケスとプロテシラオスが 40 隻の船」（« Nireus ex Syme tres, Podarces et Protesilaus ex Phylaca naves XL »）とあるからである。
+- **194 (LL 195)** *Ratibus secat aequora Teucer*（テウクロスが船で海原を切り進む）：流布本および写本はこう読んでいる。しかし博識なるボンダムは『異読考』147 頁で、テウクロスの代わりにニレウスを置くべきだと主張している。ホメロスは『イーリアス』II, 671 で彼がわずか 3 隻の船を率いてきたと伝えており、われらの詩人はこの箇所で名指ししていないとすれば、完全に割愛したと見なされねばならないからである。彼はさらに次のような論拠によって自説を補強している。すなわち、ホメロスが自らの軍船表においてこのテウクロスに全く言及していないだけでなく、その兄であるテラモンの子アイアスが 12 隻の船をトロイアへ率いたと語っており（これにはわれらの詩人も 204 行で一致している）、さらに他の著述家たち、例えばディクテュス（第 1 巻 13 章および 17 章）もアイアスを船団の指揮官とし、弟のテウクロスはその同行者にして盟友であったと述べているからである。プリュギアのダレース第 14 章は明快に「サラミスからのテラモンの子アイアスは弟テウクロスを伴った」（« Ajax Telamonius ex Salamine adduxit secum Teucrum fratrem »）と記している。ヒュギーヌスはたしかに『神話集』(fab.) 97 でテラモンの子アイアスが 12 隻の船を率い、弟テウクロスも同数を率いたと述べている。しかし、われらの詩人において流布本の読みがテウクロスに割り当てている船の数はこれとは異なり、彼がわずか 3 隻の船を率いたとされている。しかるにホメロスにおいて 3 隻の船が割り当てられているのはニレウスだけであり、この人物だけが、テウクロスの代わりに名指しされるのでない限り、梗概作者によって沈黙されているのである。そして私はこれらの論拠が非常に重きをなすものと認め、ためらうことなく次のように書くべきだと考える: « Et tribus adsumptis ratibus secat aequora Nireus »。私はまた *adsumptis* という語も誤りであり、*Et tribus ex Syme ratibus* と書くべきではないかと推測する。なぜならディクテュス I, 17 に「シュメからのニレウスが 3 隻、ピュラケからのポダルケスとプロテシラオスが 40 隻の船」（« Nireus ex Syme tres, Podarces et Protesilaus ex Phylaca naves XL »）とあるからである。
 - **195 (LL 196)** 実際、すべての書物は *Triptolemusque novem Rhodius* と伝えており、G. 2 は *novem ratibus quos* を持つ。しかし *Tlepolemus* と読むべきであることは、すでにバルトが前掲箇所 2754 頁で見抜いていた。ホメロスは『イリアス』II, 653 で、彼がロドスから 9 隻の船を率いてきたと述べている。ディクテュス前掲箇所: 「トレポレモスはロドスおよびその周囲の他の島々から 8 隻の船でやって来た」。プリュギアのダレース第 14 章: « Tlepolemus ex Rhodo navibus numero novem »（ロドスからのトレポレモスは 9 隻の船で）。
 - **196 (LL 197)** 刊本がきわめて誤って *Emenelus*, *Emeneleus*, *En marelus* と記し、A. 写本が *Eumarelus* と記しているエウメロスの名を、ここに復元すべきであるとボンダムは前掲箇所 149 頁で勧告した。それはホメロスの権威（『イリアス』II, 714）に基づくものであり、そこではアドメトスの息子 Εὔμηλος がペライからの 11 隻の船を指揮したと述べられている。ペライはテッサリアの都市である。ディクテュス前掲箇所: « Eumelus XI Pheris »（ペライからのエウメロスが 11 隻）。ここから、エウメロスがペライビア出身であると書くヒュギーヌスは訂正されるべきと思われる。われらの作者は *minus una nave*（1隻少ない船で）によって、11隻で出発した（profe-）と述べており――
 
@@ -682,12 +682,12 @@ PDF page 548.
 ### 注釈
 
 - **250 (LL 251)** 古い諸版は *Vicissentque dolo Danaum* と読んでおり、バルトはこれを読んで *Danaum* がダナオス人の軍勢を表す対格として用いられていると考えた。しかしボンダムは『異読考』153 頁で *dolos Danaum* と読むべきであることを見抜き、今やそれがヴォルフェンビュッテル第2写本（G. 2）によって確証されているのを私は見出す。同写本は *Vicissetque dolos Danaum, ni fata fuissent* と有しており、古いライプツィヒ版の校正刷り（schedae）も *dolus Danaum* としている。
-- **252 (LL 253)** 諸版は *Trojae et funesta ruina* と読んでいるが、これは上の 233 行ですでに現れていたため、私は写本 G. 2 の読みである *funestaque flamma* を採った。バルトはこの箇所について『雑考』LIX, 第1章で、致命的な災厄をもたらす張本人を災厄そのものの名で呼ぶのが最良の著作家たちの慣習であると指摘している。ユウェナーリスがドミティアヌス帝について次のように述べる通りである: « si peste et clade sub illa Saevitiam damnare, et honestum afferre liceret Consilium »。カティリーナ弾劾演説の著者: « vigent enim in illa clade res diversissimae pariter, continentia et libido »。ラムプリディウス『ヘリオガバルス伝』: « mirum fortasse cuipiam videatur, quod haec clades, quam retuli, loco principis fuerit »。セネカ『メーデア』について: « Abolere ferro pessimam propera luem »。クラウディアヌス『ルフィヌス論』第1巻: « quo tanta lues eruperit ortu »。バルト。――また *flamma*（炎）が保たれるべき最大の理由は、それがパリスの生母ヘカベが松明を産み落とし、それによってトロイアと全アジアが火災で荒廃するという夢を見たという神話により適切に合致するからである。パリ編者。
+- **252 (LL 253)** 諸版は *Trojae et funesta ruina* と読んでいるが、これは上の 233 行ですでに現れていたため、私は写本 G. 2 の読みである *funestaque flamma* を採った。バルトはこの箇所について『雑考』LIX, 第1章で、致命的な災厄をもたらす張本人を災厄そのものの名で呼ぶのが最良の著作家たちの慣習であると指摘している。ユウェナーリスがドミティアヌス帝について次のように述べる通りである: « si peste et clade sub illa Saevitiam damnare, et honestum afferre liceret Consilium »。カティリーナ弾劾演説の著者: « vigent enim in illa clade res diversissimae pariter, continentia et libido »。ラムプリディウス『ヘリオガバルス伝』: « mirum fortasse cuipiam videatur, quod haec clades, quam retuli, loco principis fuerit »。セネカがメーデアについて: « Abolere ferro pessimam propera luem »。クラウディアヌス『ルフィヌス論』第1巻: « quo tanta lues eruperit ortu »。バルト。――また *flamma*（炎）が保たれるべき最大の理由は、それがパリスの生母ヘカベが松明を産み落とし、それによってトロアス地方と全アジアが火災で荒廃するという夢を見たという神話により適切に合致するからである。パリ編者。
 - **253 (LL 254)** G. 2 は *Ex agmine cernit*（隊列の中から認める）。
 - **254 (LL 255)** *Seque velut viso perterritus angue*（蛇を見て恐れおののいたかの如く）。G. 2 は *Sicque velut* とする。ホメロスが『イリアス』III, 33 以下で行い、われらの詩人がここでごく簡潔に表現している比喩を、ウェルギリウスは『アエネーイス』II, 378 以下でアンドロゲオースについて用いた: « Obstupuit, retroque pedem cum voce repressit. Improvisum aspris veluti qui sentibus anguem Pressit humi nitens, trepidusque repente refugit »。オウィディウスはより簡潔に Fast. II, 341 で: « Attonitusque metu rediit: ceu saepe viator Turbatum viso rettulit angue pedem »。ユウェナーリス I, 43: « Palleat, ut nudis pressit qui calcibus anguem »。
 - **256 (LL 257)** G. 2 は *Perfusum terrore videt, o dedecus*（恐怖に覆われているのを認め、「ああ恥辱よ」）。
 - **257 (LL 258)** *Generisque infamia nostri*（そしてわれらの種族の汚辱）。Ovid. Metam. VIII, 97: « o nostri infamia saecli »。
-- **259 (LL 260)** *Hospitis expugnare toros*（主人の床を強奪する）、すなわち言い寄りによって妻を捕らえ堕落させること。ちょうど〜のように攻め落と（ex- / -pugnari）...
+- **259 (LL 260)** *Hospitis expugnare toros*（主人の床を強奪する）、すなわち言い寄りによって妻を捕らえ堕落させること。これと同様に、
 
 ## p. 539
 
@@ -711,7 +711,7 @@ PDF page 549.
 
 ### 注釈
 
-- **(cont.)** （前頁からの続き）［攻め落とされる（ex-）］pugnari とは、意に反して抵抗しながらも懇願によって屈服させられる者たちのことを言う。スエートーニウスもこのように用いている（Caes. 1, Tiber. 21）。オウィディウスの Her. XVII, 3 で、ヘレネはパリスに向かって次のように言う: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem »。プロペルティウス、III, 13, 9: « Haec etiam clausas expugnant arma pudicas »。――ルティリウス、Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit »。パリ編者。――動詞 expugnare の用法については、バルトがスタティウスの Theb. IV, 187 への注でさらに多くを記している。
+- **(cont.)** （前頁からの続き）意に反して抵抗しながらも懇願によって屈服させられる者たちは、「攻め落とされる」（*expugnari*）と言われる。スエートーニウスもこのように用いている（Caes. 1, Tiber. 21）。オウィディウスの Her. XVII, 3 で、ヘレネはパリスに向かって次のように言う: « Ausus es, hospitii temeratis, advena, sacris, Legitimam nuptae sollicitare fidem »。プロペルティウス、III, 13, 9: « Haec etiam clausas expugnant arma pudicas »。――ルティリウス、Itin. I, 359: « Aurea legitimas expugnant munera taedas, Virgineosque sinus aureus imber emit »。パリ編者。――動詞 expugnare の用法については、バルトがスタティウスの Theb. IV, 187 への注でさらに多くを記している。
 - **262 (LL 263)** *Hic animos ostende*（ここで勇気を示せ）。ウェルギリウス『アエネーイス』VI, 261: « Nunc animis opus, Aenea, nunc pectore firmo »。――G. 2 は *nil adjuvat armis* と読む。
 - **263 (LL 264)** *Duro Mars milite gaudet*（マルスは頑強な兵士を喜ぶ）。ヘレネがパリスに向かって言う前掲箇所（オウィディウス『求愛書簡』XVII）、253 行: « Apta magis Veneri, quam sint tua corpora Marti »。
 - **264 (LL 265)** *Dum jaceas in amore*（お前が愛の中に横たわっている間に）。すなわち、情欲に挫かれて倦怠し怠惰に過ごし、軍務に堪えられないこと。ウェルギリウス『カタレプトン』(Catal.) V, 1 にも同様の表現がある: « Jacere me, quod alta non possim, putas, Ut ante, vectari freta, Nec ferre durum frigus, aut aestum pati, Neque arma victoris sequi »。
@@ -777,7 +777,7 @@ PDF page 551.
 - **290** A. および L. は *Quamquam devitat* とする。ホメロス『イリアス』III, 360 によれば、アトレウスの子の槍をかわしたのはパリスであって、パリスの槍をアトレウスの子がかわしたのではない。われらの作者はこの戦いの多くの点をホメロスと異なって語っている。
 - **291** G. 2 は *Fixisset corpora ferro* とする。
 - **292** *Praedonis Phrygii*（プリュギアの略奪者の）。姦通者や娘の略奪者に対する *praedo*（強盗、略奪者）という罵倒は頻繁に見られ、とりわけヘレネの略奪ゆえにパリスに対して（スタティウス『アキレイス』I, 45）、またラーウィーニアのゆえにアイネイアスに対して用いられる。ウェルギリウス『アエネーイス』VII, 362: « Perfidus alta petens, abducta virgine, praedo »；および同 XI, 484 では « Phrygius praedo » と呼ばれている。プルートーもプロセルピナの略奪ゆえに、オウィディウスの Met. V, 521 や Fast. IV, 591 でこのように呼ばれている。*ferrea corpus* の代わりに、H. および G. 2 は *ferrea pectus* と読んでいる。
-- **293** *Septemplice tergo*（七重の革の）：七枚の牛革で覆われ防御されていたもの。他の箇所でも七重の盾は英雄たちに帰せられるのが通例である。ウェルギリウス『アエネーイス』XII, 925；オウィディウス『変身物語』XIII, 2 および 347。
+- **293** *Septemplice tergo*（七重の革の）：七枚の革で覆われ防御されていたもの。他の箇所でも七重の盾は英雄たちに帰せられるのが通例である。ウェルギリウス『アエネーイス』XII, 925；オウィディウス『変身物語』XIII, 2 および 347。
 - **294** G. 2 は *Dum adversus* とする。アントン・デ・ローイは『批評論集』(Spicileg. crit.) 97 頁で、ウェルギリウス『アエネーイス』V, 426 の « Constitit in digitos extemplo arrectus uterque » に基づいて、おそらく *adversus* の代わりに *arrectus* を置くことができると考えた。しかし彼自身も何も改めるべきではないと勧めている。そして実際、*arrectus*（背伸びした、爪先立ちした）は、ウェルギリウスにおけるように拳闘用革紐（カエストゥス）で戦う者たちにはふさわしいが、ここでのように鉄剣で襲いかかる者たちにはふさわしくない。スタティウス『テーバイス』I, 412 においても同様である: « tum vero erectus uterque Exsertare humeros, nudamque lacessere pugnam »。
 - **295** *Constitit, et galea galeam ferit*（立ち止まり、兜が兜を打つ）。名高きボンダムは前掲書 153 頁で、作者がこれを書く際にオウィディウスの次の詩行（Met. IX, 43）を心に思い浮かべていたと考えている: « eratque Cum pede pes junctus: totoque ego pectore pronus, Et digitos digitis, et frontem fronte premebam »。そして確かにここでも、他の箇所と同様に、作者がオウィディウスを模倣する好機を捉えていることが明らかである。ホメロス自身の物語はそのような描写を示唆していないからである。
 
@@ -955,10 +955,10 @@ PDF page 557.
 ### 注釈
 
 - **359** *Volat cunctis de partibus imber*（四方八方から雨が飛ぶ）：G. 2 はこのようであり、私はこれを流布本の *volant ex cunctis partibus imbres* よりも優先した。Virg. Aen. XII, 283: « it toto turbida caelo Tempestas telorum, ac ferreus ingruit imber »。――逆の隠喩によって、アウィアーヌスは『寓話』XLI, 16 で矢筒を帯びた雨あるいは雲（*pharetratos imbres seu nubes*）と呼んでいる。われらの詩人の 746 行を比較せよ。パリ編者。
-- **360** 流布本には *Antilochus rigido demersus in umbras* とある。写本 A. は *magnas demersus in umbras*、ヴォルフェンビュッテル第2写本（G. 2）は *Stygias dimissus ad umbras* とする。ここから私はウェルギリウス的（*Aen.* II, 398）である *demissus* を採用して校訂した。なお、*Antilochus* は必然的に誤りでなければならない。なぜならアンティロコスはギリシア勢の側であり、この箇所ではトロイア勢の殺戮について語られているからである。したがってボンダムが 154 頁で « Occidit Antilochi rigido demersus in umbra Ense Thalysiades »（タリュシアデスがアンティロコスの冷たい剣に倒れ、冥府へと落とされた）と校訂したのは正当であった。すなわちホメロスの『イリアス』IV, 458 に見えるエケポロスである。そしてこのことは、*Ense Thalacides* と記す写本 H. によって確証される。G. 2 は *Chalestiades* とする。
+- **360** 流布本には *Antilochus rigido demersus in umbras* とある。写本 A. は *magnas demersus in umbras*、ヴォルフェンビュッテル第2写本（G. 2）は *Stygias dimissus ad umbras* とする。ここから私はウェルギリウス的（*Aen.* II, 398）である *demissus* を採用して校訂した。なお、*Antilochus* は必然的に誤りでなければならない。なぜならアンティロコスはギリシア勢の側であり、この箇所ではトロイア勢の殺戮について語られているからである。したがってボンダムが 154 頁で « Occidit Antilochi rigido demersus in umbra Ense Thalysiades »（タリュシアデスがアンティロコスの硬い剣に倒れ、冥府へと落とされた）と校訂したのは正当であった。すなわちホメロスの『イリアス』IV, 458 に見えるエケポロスである。そしてこのことは、*Ense Thalacides* と記す写本 H. によって確証される。G. 2 は *Chalestiades* とする。
 - **361** 流布本は *Ense Calestiadis* を有する。前注を見よ。G. 2 は *Lumina mittit* とする。
 - **363** 流布本および手稿本は *Amphione satum*（アムピーオーンの御子）としていたが、ボンダムが『イリアス』IV, 473 に基づいて *Anthemione satum*（アンテミオンの御子）と訂正した。
-- **364** 私は Helmst. および G. 2 から *Transfigit pectora*（胸を刺し貫く）を復元した。とりわけホメロスが IV, 480 でそう述べているからである。しかし流布本は A. とともに *transfixit corpora* としていた。先端を固めた槍（*praedurato telo*）についてはホメロスには何もないが、作者はおそらくウェルギリウスの Aeneid. VII, 524: « Stipitibus duris agitur sudibusve praeustis »［硬い杭や先を焼いて固めた棒で戦われる］を暗示しているのであろう。オウィディウスの Met. XII, 299: « sude figit obusta » も参照。
+- **364** 私は Helmst. および G. 2 から *Transfigit pectora*（胸を刺し貫く）を復元した。とりわけホメロスが IV, 480 でそう述べているからである。しかし流布本は A. とともに *transfixit corpora* としていた。硬くした武器（*praedurato telo*）についてはホメロスには何もないが、作者はおそらくウェルギリウスの Aeneid. VII, 524: « Stipitibus duris agitur sudibusve praeustis »［硬い杭や先を焼いて固めた棒で戦われる］を暗示しているのであろう。オウィディウスの Met. XII, 299: « sude figit obusta » も参照。
 - **365** *Purpuream vomit* 等（深紅の［命を］吐き出す）。この詩行はウェルギリウスの Aen. IX, 349 である。――またブルマン編『ラテン詩選』(Anth. Lat. Burm.) 第1巻 45 頁、作者不詳のエピタフ (Epith. Incertae) 8 行: « Nunc animam quoque tu purpuream vomeres »。パリ編者。
 - **366** バルトは『雑考』(Advers.) LIX, 1 で *Ora riget moriens* と読むべきであると考えているが、首肯しがたい。
 - **367** 写本 A. および L. 版と T. 版（トリヌス版）は *Viribus adversis* と読むが、Helmst. と G. 2 は *adversam* とする。そこから私は *adversum* と訂正し、これをアイアースに関係づける。――また *Viribus* は *maximus* にかかる。オウィディウスは Met. XII, 116 で次のように語っている: « hastam Misit in adversum Lycia de plebe Menoeten »。*conatus* の代わりに、ウェルギリウスの Aen. V, 642 および X, 127 から *connixus corpore toto*（全身の力を込めて）と読むべきではないかと推測する。G. 2 は *Pectore* と *corpore* を同時に置いている。
@@ -1099,7 +1099,7 @@ PDF page 562.
 - **410** *Eminet, et prodit* 等（突き出て、現れ出る）。オウィディウス Metam. IX, 127 と同様である: « terga sagitta Trajicit: exstabat ferrum de pectore aduncum »；また同第 V 巻 138: « Torquet in hunc hastam, media quae nare recepta Cervice exacta est, in partesque eminet ambas »。この意味で、反対側に突き抜ける放たれた飛び道具について、グラッティウスの Halieut. 62 行で言及されている。――本著作第 I 巻第 1 部 224 頁を見よ。パリ編者。
 - **411** *Calidum de pectore flumen*（胸から温かい奔流を）。Virg. Aen. IX, 414: « Volvitur ille, vomens calidum de pectore flumen »；また同第 XI 巻 668: « Sanguinis ille vomens rivos cadit »。
 - **413** *Stricto celer advolat*（素早く抜かれた［剣を手に］駆け寄る）。ヘルムシュテット写本（H.）は *celer extracto advolat* とする。
-- **414** *Cupit exsistere vindex*（復讐者として立ち現れることを望む）。この言い回しはバルトにとって野蛮語の匂いがするものと思われる（『雑考』LVIII, 14 および LIX, 1, p. 2770）。彼は長老アルボインのある箇所から、中世の著述家たちが動詞 *subsistere* を同様に用いたことを論証している。そして確かにこの語法は詩行を緩慢なものにしており、古き時代の詩人たちは概してこれを避けていたように見える。しかしだからといって私はこれを野蛮語に帰そうとは思わない。おそらくこの箇所での *exsistere* は、*exstare*（際立つ）、*eminere*（抜きん出る）、*conspicuum esse*（目立つ）の代わりに置かれているのであろう。動詞 *subsistere* については、それがスコラ学者たちの野蛮なラテン語に属することはより確実である。――しかし *fieri*（なる）や *esse*（である）の意で *exsistere* を用いるのは、下層の時代の著述家たちによって導入されたように思われる。実際、ユリウス・エクススペランティウスは次のように述べている: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno »。またラクタンティウス・プラキドゥスも『オウィディウス変身物語綱要』第 VI 巻第 3 話で次のように述べている: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent »。パリ編者。
+- **414** *Cupit exsistere vindex*（復讐者として立ち現れることを望む）。この言い回しはバルトにとって野蛮語の匂いがするものと思われる（『雑考』LVIII, 14 および LIX, 1, p. 2770）。彼は長老アルボインのある箇所から、中世の著述家たちが動詞 *subsistere* を同様に用いたことを論証している。そして確かにこの語法は詩行を緩慢なものにしており、古き時代の詩人たちは概してこれを避けていたように見える。しかしだからといって私はこれを野蛮語に帰そうとは思わない。おそらくこの箇所での *exsistere* は、*exstare*（際立つ）、*eminere*（抜きん出る）、*conspicuum esse*（目立つ）の代わりに置かれているのであろう。動詞 *subsistere* については、それがスコラ学者たちの野蛮なラテン語に属することはより確実である。――しかし *fieri*（なる）や *esse*（である）の意で *exsistere* を用いるのは、後代の著述家たちによって導入されたように思われる。実際、ユリウス・エクススペランティウスは次のように述べている: « Facile enim poterant exsistere proditores; quia egestas haud facile habetur sine damno »。またラクタンティウス・プラキドゥスも『オウィディウス変身物語綱要』第 VI 巻第 3 話で次のように述べている: « Latona questa cum filiis, quod suarum injuriarum ultores non exsisterent »。パリ編者。
 - **415** A. は *Neque vim fortis nec fortia*、G. 2 は *nec fortis sustinet* とする。
 - **416** *Quem tum contra defendere*：G. 2 はこのように読んでいると思われる。
 - **417** H. および A. は *Decepta sui*。G. 2 も同様で、同時に *defecta* ともある。バルトは 2770 頁で *discerpta*（引き裂かれた）と訂正し、ファン・デル・デュッセンも 20 頁で同意している。私はヘルムシュテット写本（H.）の導きに従って *derepta*（奪い去られた）、すなわち母の巣から奪われた、を採用した。
@@ -1231,7 +1231,7 @@ PDF page 566.
 - **467** *Flagrantibus armis*（燃え盛る武具で）。第 394 行への注を見よ。
 - **468** G. 2 は *Ferro petit*、A. は *Ferro secat*。疑いなく *petat* と読むべきである。
 - **469** 流布本の *ense*（剣で）の代わりに *Vulnerat hasta*（槍で傷つける）と記した。ホメロスが『イリアス』V, 337 でそう伝えており、私の 2 つの写本もそうであるからである（もっとも G. 2 は同時に異読として *ense* を置いているが）。ウェルギリウス『アエネーイス』XI, 276 でもディオメデスが自分自身について同様に告白している: « quum ferro caelestia corpora demens Adpetii, et Veneris violavi vulnere dextram »。またオウィディウス Met. XV, 769 でも、ウェヌスが自らについて次のように述べている: « Quam modo Tydidae Calydonia vulneret hasta »。
-- **471** 手写本および印刷本は *Sidereo queritur sua vulnera Marti*（星の軍神マルスに自らの傷を訴える）を提示しているが、名高いドルプの指摘（p. 122）により、私は喜んで *sidereae matri*（星の母に）へと戻した。ホメロスも同様のことを命じている。彼は実に、傷ついたウェヌスがその兄-
+- **471** 手写本および印刷本は *Sidereo queritur sua vulnera Marti*（星の軍神マルスに自らの傷を訴える）を提示しているが、名高いドルプの指摘（p. 122）により、私は喜んで *sidereae matri*（星の母に）へと戻した。ホメロスも同様のことを命じている。彼は実に、傷ついたウェヌスが
 
 ## p. 557
 
@@ -1256,7 +1256,7 @@ PDF page 567.
 
 ### 注釈
 
-- **(cont.)** （前頁からの続き）［兄］マルスに戦車と馬を求めて天へと運ばれ、そこで母ディオネーに訴え出たと語っている（Iliad. V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς）。写字生たちによって母（*mater*）とマルス（*Mars*）の名がしばしば混同される例として Virg. Aen. IX, 584 があり、そこでは流布版が *Martis luco*（マルスの森で）を掲げているが、マクロビウスは V, 18 で *matris* と読んでおり、この名によって私はそこで崇拝されていたパリーキー神の母タレイアが理解されるべきだと考える。おそらく写字生たちが誤りに陥ったのは、他の詩人たちにおいて、ウェヌスから呼びかけられたマルスへの言及はなされているものの、母ディオネーについては同様になされていないためであろう。例えば Ovid. Rem. Am. 5: « Non ego Tydides, a quo tua saucia mater In liquidum rediit aethera Martis equis »（余はテューデウスの子ならず、彼の手で傷ついた汝の母はマルスの馬にて澄んだ霊気へと還りき）にその例が見られる。
+- **(cont.)** （前頁からの続き）兄弟神マルスに戦車と馬を求めて天へと運ばれ、そこで母ディオネーに訴え出たと語っている（Iliad. V, 370: Ἡ δ᾽ ἐν γούνασι πῖπτε Διώνης δῖ᾽ Ἀφροδίτη Μητρὸς ἑῆς）。写字生たちによって母（*mater*）とマルス（*Mars*）の名がしばしば混同される例として Virg. Aen. IX, 584 があり、そこでは流布版が *Martis luco*（マルスの森で）を掲げているが、マクロビウスは V, 18 で *matris* と読んでおり、この名によって私はそこで崇拝されていたパリーキー神の母タレイアが理解されるべきだと考える。おそらく写字生たちが誤りに陥ったのは、他の詩人たちにおいて、ウェヌスから呼びかけられたマルスへの言及はなされているものの、母ディオネーについては同様になされていないためであろう。例えば Ovid. Rem. Am. 5: « Non ego Tydides, a quo tua saucia mater In liquidum rediit aethera Martis equis »（余はテューデウスの子ならず、彼の手で傷ついた汝の母はマルスの馬にて澄んだ霊気へと還りき）にその例が見られる。
 - **473** 流布本が *reduxit* としているのに対し、ヘルムシュテット写本（H.）から *Reducit* を復元した。
 - **475** ヴォルフェンビュッテル第2写本（G. 2）は *Horrendumque sonat*。
 - **476** ヴォルフェンビュッテル第2写本（G. 2）は *Hinc alius*。
@@ -1325,7 +1325,7 @@ PDF page 569.
 - **509** ここで G. 2 は *Hic tandem Aeneam misso contendere* と読んでいるが、私は当然のこととして流布本の読異 *immisso* を維持した。これは写本 A も保持しているが、A は *contendere* の代わりに *tendere* を置く。Virg. Aeneid. XI, 889: « immissis pars caeca et concita frenis Arietat in portas »。Ovid. Met. I, 280: « Fluminibus vestris totas immittite habenas »。
 - **510** G. 2 は *Stricto concurrere ferro Hinc parat*。A は *Occurrere ferro Tenuit et jaculum*。
 - **511** *Quantum furor*（狂気が…する限り）。私としてはここで *quantas furor ipse movebat*、すなわち *vires*（狂気そのものが奮い立たせたほどの［力を］）と読みたい。Virgil. Aen. V, 454 に次のようにあるのと同様である: « vim suscitat ira, Tum pudor incendit vires et conscia virtus »。――またグラッティウスの Halieut. 56: « et viribus addidit iram »。本著作第1巻第1部223頁を参照。パリ編者。――*movebat* の代わりに G. 2 は *manebat* と読む。
-- **512** *Depulit error*（手元が狂って逸らした）。Ovid. Metam. XII, 83: « quamquam certa nullus fuit error in hasta »。
+- **512** *Depulit error*（狙いが外れて逸れた）。Ovid. Metam. XII, 83: « quamquam certa nullus fuit error in hasta »。
 - **513** *Stomachoque infigitur*（そして胃に突き刺さる）。Virgil. Aen. IX, 698: « volat Itala cornus Aera per tenerum, stomachoque infixa sub altum Pectus abit »。
 
 ## p. 560
@@ -1357,7 +1357,7 @@ PDF page 570.
 - **520** *Antilochique Mydon*。ホメロスに基づいてこのように読まれるべきであることをボンダムが示した。刊本は *Antilochumque Mison*；A. は *Amphilogumque*；H. および G. 2 は *Milon* を有する。
 - **521** *Sarpedon sequitur*。私は最も明快なものとしてヘルムシュテット写本（H.）の表記を採用した。他の諸本の読異は挿入（補筆）によって損なわれているように見える。トリヌス版は *Sarpedon bello funesto praelia miscet*；写本 G. 2 は *Sarpedon in bella subit funestaque miscet*；A. およびライプツィヒ版は *Sarpedon bella funestaque praelia miscet* とする。
 - **523** Hom. Il. V, 628 から *Tlepolemus*（トレポレモス）と読むべきであることは明らかであり、ボンダムもこれに気づいた。さもなければ写本および刊本は *Triptolemus*（トリプトレモス）としている。
-- **525** *Tenuemque daret de corpore vitam*（肉体から微かな命を差し出した）、すなわち息を引き取ったということ。彼が *tenuem vitam*（微かな命）と呼ぶのは、ウェルギリウスが Georg. IV, 223 で讃えている人々、すなわち生き物の個々の魂は世界霊魂（anima mundi）の微粒子であり、死を通じてそこへと還っていくと説いた人々の考えに即している。ウェルギリウスは前掲箇所で「ここから、生まれるときに各人が自分自身のためにかす-
+- **525** *Tenuemque daret de corpore vitam*（肉体から微かな命を差し出した）、すなわち息を引き取ったということ。彼が *tenuem vitam*（微かな命）と呼ぶのは、ウェルギリウスが Georg. IV, 223 で讃えている人々、すなわち生き物の個々の魂は世界霊魂（anima mundi）の微粒子であり、死を通じてそこへと還っていくと説いた人々の考えに即している。ウェルギリウスは前掲箇所で「ここから、生まれるときに各人が自分自身のために
 
 ## p. 561
 
@@ -1376,7 +1376,7 @@ PDF page 571.
 
 ### 注釈
 
-- **(cont.)** （前頁からの続き）-かな命を引き寄せる［« Quemque sibi tenues nascentem arcessere vitas »］」と述べている。また Aen. IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit »（熱気はことごとく去り、命は風の中へと退いた）。
+- **(cont.)** （前頁からの続き）かすかな命を引き寄せる［« Quemque sibi tenues nascentem arcessere vitas »］」と述べている。また Aen. IV, 705: « omnis et una Dilapsus calor, atque in ventos vita recessit »（熱気はことごとく去り、命は風の中へと退いた）。
 - **527** ウリクセスは *fraudis commentor*（詐術の考案者）と呼ばれているが、それはあたかもこれが彼の特技であるかのようであり、ホメロスや他の古代人によって常に彼に帰せられている性質である、とバルトは Adv. LIX, 15 で述べている。Virgil. Aen. II, 164: « scelerumque inventor Ulysses »（悪謀の考案者ウリクセス）。われらの詩人も下の 579 行で同じ表現を繰り返している。同様にオウィディウスも彼について Met. XIII, 31 で « quid sanguine cretus Sisyphio, furtisque et fraude simillimus illi » と述べており、すぐ後の 38 行でもその偽り言（*commenta*）を指摘している。ここからまた、ファン・デル・デュッセンがわれらの詩人の 65 行への注で指摘しているように、ドーシアダースの第二の『祭壇』においてウリクセスは φὼρ（盗人）と呼ばれており、サルマシウス（Salmasius）が注釈 156 頁で詳述している通りである。
 - **528** *Et septem juvenum*（そして七人の若者の）。ホメロスが Il. V, 677 で列挙しているリュキア人たち、すなわちコイラノス、アラストル、クロミオス、アルカンドロス、ハリオス、ノエモン、プリュタニスのことである。
 - **529** ヴォルフェンビュッテル第2写本（G. 2）は語順を異にして *Hinc patriae culmen pugnat* とする。ファン・デル・デュッセンは 29 頁で *columen*（大黒柱／支柱）と読む方を好んでおり、それは実にヘクトルに極めて適しており、上にわれらの詩人が 486 行で彼に与えたもう一つの賛辞 *spes una Phrygum*（プリュギア人の唯一の希望）にも最もよく合致している。同様にセネカの Troad. 126 行で、ヘクトルについて次のようにある: « Columen patriae, mora fatorum, Tu praesidium Phrygibus fessis, Tu murus eras »。――« Graium murus Achilles »（ギリシア人の防壁アキレウス）、Ovid. Met. XIII, 281。スカーエワについて Lucan. VI, 201: « stat non fragilis pro Caesare murus, Pompeiumque tenet »。なおセネカが前掲箇所で付け加えている « Tecum cecidit, summusque dies Hectoris idem patriaeque fuit » を、われらの詩人は下の 1061 行で模倣したように思われる。本著作第2巻329頁のペンタディウスの「ヘクトルの墓碑銘」に対するわれわれの注を参照。パリ編者。――とはいえ、本文自体の語を変更したいとは思わない。なぜなら *culmen*（頂／頂点）もヘクトルに不適切ではなく、少なくとも彼の最高の尊厳を示しているからである。まさしく同様にコルネリウス・セウェルスはキケローを « Egregium semper patriae caput »（常に祖国の卓越した首領）と呼んでいる（本巻の上の211頁）。
@@ -1405,7 +1405,7 @@ PDF page 572.
 - **536** ヴォルフェンビュッテル第2写本（G. 2）は *Illic aethereo*。詩人は同様の事柄について上で用いた 471 行を繰り返している。
 - **537** *Jurg. suffert*（叱責を甘受する）。61 行および 104 行を参照。
 - **538** ボンダムおよびファン・デル・デュッセンは前掲箇所で、ホメロスの VI, 8 に基づいて *Acamantem*（アカマスを）と読んでいる。流布本は *Atamantem*。
-- **539** 流布本はここで *magnumque petit Menelaus Adrastum* と読んでいる。ファン・デル・デュッセンは『序説』(*Prodr.*) 31 頁で、ホメロス（Iliad. VI, 37 以下）の記述に基づいて *miserumque petit* と書き改めるよう命じている。ホメロスは、アドラストスが恐怖で取り乱した馬から投げ出され、近くに立っていたメネラオスに生け捕りにされて命乞いをし、はじめはそれを許されたものの、駆けつけてメネラオスを叱責したアガメムノンによって重傷を負わされたと伝えているからである。したがって、そのような運命に見舞われたアドラストスには τὸ magnum（大いなる）は適合せず、τὸ miserum（哀れな）こそがより適切であるというのである。しかしこの校訂は、われわれが採用した H. および G. 2 の健全な読異 *vastumque capit Menelaus Adrastum*（そしてメネラオスは巨躯のアドラストスを捕らえ）によって不要となる。この読みから、作者がここでアドラストスの哀れな命乞いを考慮したのではなく、ただ彼の転落と捕縛を表現しようとしたにすぎないことが理解されるであろう。――私としてはホメロスに基づいて *lapsumque*（倒れた）としたい。パリ編者。
+- **539** 流布本はここで *magnumque petit Menelaus Adrastum* と読んでいる。ファン・デル・デュッセンは『序説』(*Prodr.*) 31 頁で、ホメロス（Iliad. VI, 37 以下）の記述に基づいて *miserumque petit* と書き改めるよう命じている。ホメロスは、アドラストスが恐怖で取り乱した馬によって戦車から投げ出され、近くに立っていたメネラオスに生け捕りにされて命乞いをし、はじめはそれを許されたものの、駆けつけてメネラオスを叱責したアガメムノンによって重傷を負わされたと伝えているからである。したがって、そのような運命に見舞われたアドラストスには τὸ magnum（大いなる）は適合せず、τὸ miserum（哀れな）こそがより適切であるというのである。しかしこの校訂は、われわれが採用した H. および G. 2 の健全な読異 *vastumque capit Menelaus Adrastum*（そしてメネラオスは巨躯のアドラストスを捕らえ）によって不要となる。この読みから、作者がここでアドラストスの哀れな命乞いを考慮したのではなく、ただ彼の転落と捕縛を表現しようとしたにすぎないことが理解されるであろう。――私としてはホメロスに基づいて *lapsumque*（倒れた）としたい。パリ編者。
 - **540** 流布本の *trahit* の代わりに、H. および G. 2 から *Et rapit* を置くこととした。
 - **541** われわれは写本 H. および G. 2 の本来の読異を掲げた。諸刊本は誤って *Ex hinc deducit laetos* としている。なお作者はここで、過度の簡潔さによってホメロスの叙述を切り縮めてしまった。なぜなら、アドラストスが捕らえられ船へと連行されるよう命じられたことだけを語り、最も重大な点、すなわちメネラオスの寛容さを非難したアガメムノンによってアドラストスが殺害されたことを沈黙してしまったからである。
 
@@ -1437,7 +1437,7 @@ PDF page 573.
 
 - **543** *Tergaque nuda tegit*（そして無防備な背を覆う）。盾によってであろう、彼らがみすみす討ち取られぬように。Virg. Aen. XI, 630: « Bis rejecti armis respectant terga tegentes »（二度退けられ、武器で背を覆いつつ後方を振り返る）。
 - **546** ヴォルフェンビュッテル第2写本（G. 2）は *Hecubamque vocare*。
-- **548** *Armatas*（武装した）が十分に適切な語であるかは疑わしいが、写本の読みから他の語を求めるべきでもない。――*Innuptae Minervae*（純潔のミネルウァの）は Virgil. Aen. II, 31。
+- **548** *Armatas*（武装した）が十分に適切な語であるかは疑わしいが、写本の読みから他の語を求めるべきでもない。――*Innuptae Minervae*（未婚のミネルウァの）は Virgil. Aen. II, 31。
 - **549** *Altaria sertis*（祭壇を花輪で）。言うまでもなく神々を宥めるためである、とバルトは前掲の箇所で述べている。古代人は犠牲獣を用いるだけでなく、祭壇を、そして付け加えるなら神殿を取り巻くために花冠をも用いた。Virg. Aen. II, 249: « Nos delubra Deum ... festa velamus fronde per urbem »；同 IV, 202: « variis florentia limina sertis »；同 Georg. IV, 276: « Saepe Deum nexis ornatae torquibus arae »。
 - **550** 流布本は *Ex more bidentes*；H. は *de more* であり、こちらのほうがより正しく、ウェルギリウスの表現である（Aeneid. IV, 57; V, 96）。――G. 2 は *Sacras ad templa bidentes* としているが、これは疑いなく誤りによって次の行からここへ紛れ込んだものである。
 - **553** ヴォルフェンビュッテル第2写本（G. 2）は *Decernere ferro*。
@@ -1498,12 +1498,12 @@ PDF page 575.
 ### 注釈
 
 - **573** ヴォルフェンビュッテル第2写本（G. 2）は *Tua munera natus*。
-- **574** *imitetur*（見習う／模倣する）の代わりに、アントン・デ・ローイ（Spicil. crit. p. 97）は Virgil. Aen. VIII, 517: « tua cernere facta Adsuescat, primis et te miretur ab annis »（汝の所業を見ることに慣れ親しみ、幼少より汝を称賛せんことを）の模倣から *miretur*（称賛する）を提案している。しかし私は、息子について語る父ヘクトルの人物像には、*miretur* と言った場合よりも *imitetur* という語のほうが適していると考える。父が自らについて語る際に称賛を求めるのはあまりに自慢たらしく響く。だが息子が己を見習うように求めることこそは、父にふさわしい訓戒である。さらに彼が *patrias virtutes*（父の美徳）を付け加えている以上、*imitetur* という語は必須である。美徳は見習うべきものであり、美徳のゆえに称賛されるのはむしろ人格である。作者はむしろ、アイネイアスが息子を励ますウェルギリウスの格言（Aen. XII, 435: « Disce, puer, virtutem ex me, verumque laborem, Fortunam ex aliis »［子よ、美徳と真の労苦を余より学べ、幸運は他者より学べ］）を念頭に置いていた可能性が高い。――なお、シュラーダーは Emendat. c. 7, p. 141 で、ウェルギリウスをはじめとする詩人たちが *imitari* の代わりに *mirari* をしばしば用いること、そして写字生たちがしばしば *mirari* を *imitari* へと改変することを指摘している。例えば Propert. II, 23, 117: « Quod si tu Graias, sive es imitata Latinas » において、4つの写本が *tuque es mirata Latinas* と有していると述べている。パリ編者。
+- **574** *imitetur*（見習う／模倣する）の代わりに、アントン・デ・ローイ（Spicil. crit. p. 97）は Virgil. Aen. VIII, 517: « tua cernere facta Adsuescat, primis et te miretur ab annis »（汝の所業を見ることに慣れ親しみ、幼少より汝を称賛せんことを）の模倣から *miretur*（称賛する）を提案している。しかし私は、息子について語る父ヘクトルの人物像には、*miretur* と言った場合よりも *imitetur* という語のほうが適していると考える。父が自らについて語る際に称賛を求めるのはあまりに自慢たらしく響く。だが息子が己を見習うように求めることこそは、父にふさわしい訓戒である。さらに彼が *patrias virtutes*（父の美徳）を付け加えている以上、*imitetur* という語は必須である。美徳は見習うべきものであり、美徳のゆえに称賛されるのはむしろ人格である。作者はむしろ、アイネイアスが息子を励ますウェルギリウスの格言（Aen. XII, 435: « Disce, puer, virtutem ex me, verumque laborem, Fortunam ex aliis »［子よ、美徳と真の労苦を余より学べ、幸運は他者より学べ］）を念頭に置いていたのかもしれない。――なお、シュラーダーは Emendat. c. 7, p. 141 で、ウェルギリウスをはじめとする詩人たちが *imitari* の代わりに *mirari* をしばしば用いること、そして写字生たちがしばしば *mirari* を *imitari* へと改変することを指摘している。例えば Propert. II, 23, 117: « Quod si tu Graias, sive es imitata Latinas » において、4つの写本が *tuque es mirata Latinas* と有していると述べている。パリ編者。
 - **576** H. に基づき *Ad certamina* とした。刊本は *in certamina* を持つ。
 - **579** *Fraudis commentor*（詐術の考案者）。ホメロス風の手法で 527 行から繰り返した。
 - **582** G. 2 およびアナベルク版（A.）はコンマを省いて *Claris speciosus*。
 - **583** G. 2 は *Magnusque Thoas*。アナベルク版（A.）およびライプツィヒ版（L.）は *Andromone*。
-- **586** 写本も刊本も *Et dulci cithara Divum lenibat amores*（そして甘き竪琴で神々の愛を和らげていた）と読んでいるが、これが成り立ち得ないことは誰もが理解するところであり、32 頁で *dirum lenibat amorem*（恐るべき愛を和らげていた）、あるいは *diros amores* と校訂したファン・デル・デュッセンに容易に同意することであろう。というのも、われらの詩人自身が上掲の 25 行で *ferum amorem*（野蛮な愛）と述べており、下掲の 641 行でもほぼ同様の言回しを用いているからである: *Praedaque, quae duros Menelai mulceat ignes*（メネラオスの激しき情火を和らげる戦利品）。そしてここでは、ウェルギリウスが Georg. IV, 464 でオルペウスについて « Ipse cava solans aegrum testudine amorem »（彼自ら中空の亀甲（竪琴）にて病める愛を慰めつつ）と述べたのを模倣したように思われる。
+- **586** 写本も刊本も *Et dulci cithara Divum lenibat amores*（そして甘き竪琴で神々の愛を和らげていた）と読んでいるが、これが成り立ち得ないことは誰もが理解するところであり、32 頁で *dirum lenibat amorem*（恐るべき愛を和らげていた）、あるいは *diros amores* と校訂したファン・デル・デュッセンに容易に同意することであろう。というのも、われらの詩人自身が上掲の 25 行で *ferum amorem*（荒々しい恋）と述べており、下掲の 641 行でもほぼ同様の言回しを用いているからである: *Praedaque, quae duros Menelai mulceat ignes*（メネラオスの激しき情火を和らげる戦利品）。そしてここでは、ウェルギリウスが Georg. IV, 464 でオルペウスについて « Ipse cava solans aegrum testudine amorem »（彼自ら中空の亀甲（竪琴）にて病める愛を慰めつつ）と述べたのを模倣したように思われる。
 
 ## p. 566
 
@@ -1526,7 +1526,7 @@ PDF page 576.
 ### 注釈
 
 - **587 (LL —)** 流布本は *In bella valeret* と書くが、その代わりに私は *in bella veniret* を好む。ヘルムシュテット写本（H.）ではこの行は脱落しており、G. 2 では 588 行の後に改変されて *Sortes miserunt, quis bella valeret inire*（誰が戦いに進み入る力があるかを籤引いた）と読まれる。そのような理由から、また意味の点でも完全に余剰であるため、行全体を排除するほうがより正しいと思われる。
-- **588 (LL 587)** *Ergo ubi dejectis*（それゆえ投げ入れられた［籤］において……）。Virg. Aen. V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea »（男たちは集い、投げ入れられた籤を青銅の兜が受けた）から取られた。
+- **588 (LL 587)** *Ergo ubi dejectis*（それゆえ［籤が］投げ入れられると……）。Virg. Aen. V, 490: « Convenere viri, dejectamque aerea sortem Accepit galea »（男たちは集い、投げ入れられた籤を青銅の兜が受けた）から取られた。
 - **590 (LL —)** *Concurrunt*（激突する）。この行も H. には欠けており、ここでもまったく必要とは見えない。
 - **593 (LL 591)** H. および G. 2 に基づき *Decernunt*（決戦する）を復元した。流布本は *Decertant* を持つ。行の残りの部分について刊本は *partesque oculis rimantur apertis*（開かれた眼で各所を探る）と読んでいる。バルトは Adv. p. 2807 で誤謬を嗅ぎつけ、*partesque oculis rimantur opertas*（眼で覆われた部位を探る）と書くよう命じ、こう付け加えている: 「開かれた（無防備な）部位を探ると書くのは正気の判断ではない。すでに露わになっているものは詮索・探査を要しないからである」。しかしファン・デル・デュッセンは 33 頁でより見事に *rimantur apertas* と校訂している。すなわち、眼に開かれている（露出している）部位を剣や槍で探る（突く）という意味である。われらの詩人自身がこの行の意味を下掲の 605 行で明らかにしている: « quaque patebat Nuda viri cervix, fulgentem dirigit ensem »（そして男のむき出しの首筋が露出していた箇所へ、輝く剣を向ける）。同様の趣旨で Virgil. Aeneid. XII, 920: « telum Aeneas fatale coruscat, Sortitus fortunam oculis »。――キケロは『ウェッレース弾劾演説』V (VII), 71 で、戦う者たちのこの習慣に言及している: « Si ullum locum aperuerimus suspicioni aut crimini, accipiendum est statim vulnus »（もし疑念や告発に少しでも隙を見せるなら、直ちに傷を受けねばならない）。パリ編者。
 - **596 (LL 594)** *Impletur vocibus aether*（天空は叫び声で満たされる）。続く 604 行に至るまでの詩句の箇所は、諸写本において驚くほど混乱し、改変され、補筆されており、ほぼ個々の写本が異なった形で示している。私としては最善と思われるように訂正・確定せざるを得なかった。より完全な治療は、より傷のない写本から期待されねばならない。そして、それを最も確実に入手し得たはずのヴォルフェンビュッテル第1写本（G. 1）は、ここで欠落している。
@@ -1645,7 +1645,7 @@ PDF page 580.
 
 ### 注釈
 
-- **(cont.)** （前頁からの続き）ヴォルフェンビュッテル第1写本（G. 1）は *Concipit insignem* を提示している。作者は Virg. *Aen.* X, 496: « rapiens immania pondera baltei » の例に倣って *balteum* を2音節［連形］とした。Ovid. *Met.* XIII, 291 は *caelamina clypei*（盾の彫刻）と言っている。
+- **(cont.)** （前頁からの続き）ヴォルフェンビュッテル第1写本（G. 1）は *Concipit insignem* を提示している。作者は Virg. *Aen.* X, 496: « rapiens immania pondera baltei » の例に倣って *balteum* を2音節とした。Ovid. *Met.* XIII, 291 は *caelamina clypei*（盾の彫刻）と言っている。
 - **636 (LL 634)** トリヌス版が *avide* としていたのに対し、G. 1、2、A.、および L. から *Atque avidi* を復元した。
 - **637 (LL 635)** *Postera quum primum*（明くる朝が最初に……するや）。ボンダムは、作者がこの行で同様にオウィディウスに倣ったと考えている。*Met.* XV, 665: « Postera sidereos Aurora fugaverat ignes »、および *Met.* IV, 81: « Postera nocturnos Aurora removerat ignes »。――またウェルギリウスの箇所 *Aeneid* III, 521 も援用できよう: « Jamque rubescebat stellis Aurora fugatis »。パリ編者。――しかし私としては、むしろウェルギリウスの *Aen.* V, 42: « Postera quum primo stellas Oriente fugarat Clara dies, socios in coetum litore ab omni Advocat Aeneas » がここで採用されたと見る。旧ライプツィヒ版は *fugaret* としているが、あまり正しくない。
 - **638 (LL 636)** G. 1 および 2 は *Tum maximus*。他は *tunc*。
@@ -1893,7 +1893,7 @@ PDF page 588.
 
 - **(cont.)** （前頁からの続き）-que Invisum hoc detrude caput sub Tartara telo »。パリ編者。――H. および T. にある *juveni* の代わりに、G. 1、A.、L. は *juvenis* を持ち、こちらのほうがより正しいと私は考える。
 - **733 (LL 731)** G. 2 は *Per herbas*。
-- **734 (LL 732)** *Exanimant* が能動態の形で、刃物で切り殺す・殺害するという意味で用いられるのは、より優れた著述家たちの間では極めて稀であると私は考える。――流布本は *Tunc tristi* とするが、私は G. 2 にある *tum* を採った。
+- **734 (LL 732)** *Exanimant* が能動態の形で、刃物で切り殺す・殺害するという意味で用いられるのは、より優れた著述家たちの間では比較的稀であると私は考える。――流布本は *Tunc tristi* とするが、私は G. 2 にある *tum* を採った。
 - **735 (LL 733)** *Candore nitentes*（白さに輝く）。同様に Virg. Aen. XII, 84: « Qui candore nives anteirent, cursibus auras »。
 - **736 (LL —)** *Rhesi ventigenas*。この詩行は明らかに挿入された（偽作の）ものであり、言葉の連なりと構文の双方を乱し、余計なことを述べているからである。トリヌス版およびスポンダヌス版にのみ読まれ、私の手稿（写本）のすべて、いや古いライプツィヒ版においてさえ省かれている。またライデン写本にも存在しないことが、高名なドルプによって証言されている（前掲書 124 頁）。
 - **737 (LL 734)** 流布本は *Thraces equos* を持つ。ヴァルケナールは『エウリーピデース散逸劇断片研究』(*Diatr. in Eurip. perd. dram. reliq.*) 701 頁において *Thracis* を欲したと、前掲書のドルプが引用しているが、ドルプ自身はオウィディウスの Met. IX, 194: « Quid? quum Thracas equos humano sanguine pingues, Plenaque corporibus laceris praesepia vidi » に基づき *Thracas equos* を好んでいる。ファン・デル・デュッセン（37 頁）は、*Thracis* と校訂すべきか *Thracas* とすべきか迷っている。私は、真に最善の写本である G. 1 にそのように書かれているのを見たため、*Thracis* を選んだ。なお、その形 *Thraces* が他の詩人たちの写本においてしばしば現れることは、オウィディウスの前掲箇所に対するハインシウスが証言している。Statius, Theb. VI, 486: « sed Thraces equi ut videre jacentem Hippodamum; redit illa fames »。――トリヌス版およびスポンダヌス版は *Quos nec praecedere ventus* とする。ドルプもファン・デル・デュッセンもともに *quos nec praecederet Eurus* と校訂している。詩人たちは俊足をとりわけ東風（エウルス）に比べるのが常だからである。Virg. Aen. VIII, 223 および Horat. Carm. II, 16, 24 を見よ。また学者たちは Virg. I, 317 において *Hebrus* の代わりに *Eurus* を置くことを欲している。この箇所では推測の必要すらなく、私の手稿（写本）のすべて、そしてこれらとともに古いライプツィヒ版が *nec praecederet Eurus* を保持しており、ライデン写本にも同じ読異があることをドルプが証言している。
@@ -1926,10 +1926,10 @@ PDF page 589.
 
 - **(cont.)** （前頁からの続き）-行を見守り、称賛することは、とりわけ老人たちに相応しいからである。
 - **745 (LL 742)** G. 1 は *Instauratque*。
-- **746 (LL 743)** 刊本は *Dardanium Danaumque* と読む。ファン・デル・デュッセン（38 頁）は *Dardanidum* に改めるべきと考える。しかしウェルギリウスも彼らを *Dardanii* と呼ぶのが常である。――*Nubem telorum*（投槍の雲）という表現は、私の記憶が正しければ、マロー（ウェルギリウス）は事前の直喩による場合（Aen. XI［正しくは X］, 808: « sic obrutus undique telis Aeneas nubem belli, dum detonet, omnem Sustinet »）を除いて用いていない。――しかしマリウス・ウィクトルは carm. ad Salmon. 16 行で *densam telorum nubem* と言っている。本著作集第2巻、163 頁を見よ。パリ編者。
+- **746 (LL 743)** 刊本は *Dardanium Danaumque* と読む。ファン・デル・デュッセン（38 頁）は *Dardanidum* に改めるべきと考える。しかしウェルギリウスも彼らを *Dardanii* と呼ぶのが常である。――*Nubem telorum*（飛び道具の雲）という表現は、私の記憶が正しければ、マロー（ウェルギリウス）は事前の直喩による場合（Aen. XI［正しくは X］, 808: « sic obrutus undique telis Aeneas nubem belli, dum detonet, omnem Sustinet »）を除いて用いていない。――しかしマリウス・ウィクトルは carm. ad Salmon. 16 行で *densam telorum nubem* と言っている。本著作集第2巻、163 頁を見よ。パリ編者。
 - **747 (LL 744)** *mixtis* の代わりに *strictis*（引き抜かれた）と読むよう勧めたい。わずか一行を挟んで *mixtusque* が続いているからである。
 - **749 (LL 746)** G. 2 では、この行の後に 753 行と 754 行が誤って挿入されている。
-- **751 (LL 748)** *Antiphonem*。ホメロス（Il. XI, 101）では、プリアモスの息子たちであるアンティポスとイソスがアガメムノンによって討ち取られたと私は読んでいる。われらのホメロス詩人が彼を指そうとしたのか、それとも別人なのか、私には依然として疑わしい。A. は *Amphionem* を有する。
+- **751 (LL 748)** *Antiphonem*。ホメロス（Il. XI, 101）では、プリアモスの息子たちであるアンティポスとイソスがアガメムノンによって討ち取られたと私は読んでいる。われらのホメロスの模倣詩人が彼を指そうとしたのか、それとも別人なのか、私には依然として疑わしい。A. は *Amphionem* を有する。
 - **752 (LL 749)** 刊本は *Tessandrumque simul* と読み、後続の行では *Hippolytum* と読んでいるが、ホメロスの Iliad. XI, 122 行に基づき、これらに代えて *Pisandrum* および *Hippolochum* を置くべきであることは明白であり、高名なボンダムもすでに指摘している。
 - **753 (LL 750)** 一般には *petit Amphimodonta* と読まれる。G. 1 は *Aphidamantem* を有し、これは真の読異により近づいている。というのも、ホメロスの Iliad. XI, 221 に基づき、アンテノルの息子 *Iphidamanta* をここに復元すべきであることを、ボンダムが 169 頁で正しく教示しているからである。
 - **754 (LL 751)** 写本 G. 1 では、この行は本来の列において脱落しており、後の手によって次のように下部に書き込まれている: *Hic regis dextram gladio ferit, ille dolore*。そのため、これもまた別の手によって訂正されたものと思われる。なぜなら流布本は *Is fratris dextram gladio ferit* を有し、ヴォルフェンビュッテル第2写本（G. 2）は *Hinc fratris* 等とし、ライデン写本は *Hic fratris* を有すると言われているからである。これらの語は破損しているか、あるいは作者自身によって過度に簡潔かつ不明瞭に置かれたかのいずれかである。ホメロスの記述（Iliad. XI, 231 以下）によれば、事の次第は次のよう
@@ -1955,7 +1955,7 @@ PDF page 590.
 ### 注釈
 
 - **(cont.)** （前頁からの続き）―であった。アガメムノンがイピダマスを討ち取った後、その兄コオンは弟の死を激しく悲しみ、折しもアガメムノンの傍らに立っていたが、槍でアガメムノンの腕の真ん中を突いた。しかし弟の遺体を引きずり出そうとしていたコオンを、間もなくアガメムノンは討ち取った。ここから高名なボンダムは *Vis fratris dextram gladio ferit* と校訂しているが、彼自身もこれでは依然として過度に簡潔かつ不明瞭な表現であると考えている。これに対しドルプは（*tum* または *tunc* の意味で）*Hic frater* を好み、自らの読みをライデン写本の権威によって裏づけている。私は写本の手引きに従い、次のようにしたい：*Hinc frater regis dextram ferit*。というのも、付け加えられた *gladio*（剣で）は余計であり、槍で突いたと記すホメロスに反しているからである。
-- **755 (LL 752)** *Antenore natum*（アンテノルの子）。すなわちイピダマスの兄コオンのこと。
+- **755 (LL 752)** *Antenore natum*（アンテノルの子）。すなわちイピダマスの兄弟コオンのこと。
 - **756 (LL 753)** *Traxitque ferox cum vulnere poenas*。すなわち、アガメムノンは傷を負っていたにもかかわらず、猛々しくコオンに対する復讐を続け、あるいは科し進めたということである。ヘルムシュテット写本（H.）は *Traxit ... graves cum sanguine poenas* とする。彼はこの言い回しをウェルギリウスの Aen. V, 785: « Non media de gente Phrygum exedisse nefandis Urbem odiis satis est, poenam traxisse per omnes Relliquias » から取ったと思われる。
 - **758 (LL 755)** *Mox perculsos agit*。トリヌス版およびスポンダヌス版、写本 H. はこの通りである。G. 1 および 2、A.、ライプツィヒ版は *percussos* とし、ライデン図書館の双方の写本にも同様にあることを、小ブルマンが『ラテン詩選』(*Anthol. Lat.*) 第1巻 81 頁で証言しており、そこで彼はこの混同が通例のものであることを多くの例で証明している。ホラーティウスの Epod. XI, 3 に対するベントリーを見よ。私はこの箇所では *perculsos* を好む。
 - **759 (LL 756)** G. 2 は *Turmas et turbas* と記す。
@@ -1996,7 +1996,7 @@ PDF page 591.
 - **772 (LL 769)** A. は *Fugiunt linquentes castra*（陣営を捨てて逃げ去る）とする。――この読みは、ヴェルンスドルフが採る *fugiunt omnes in castra*（陣営の中へと皆逃げ込む）よりも真実であるように思われ、また後続の文脈によっても裏付けられる。そのため私はこれを本文に採用した。パリ編者。
 - **773 (LL 770)** H. および G. 1 が保持する *Urget Trojana* を、直前に現れたばかりの流布本の読み *instat* よりも優先した。
 - **776 (LL 773)** G. 1 は *Istic hostis et illic* とする。
-- **777 (LL 774)** *Idomenei dextra*（イドメネウスの右手によって）：流布本が持つ *Dextraque Idomenei* の代わりに、G. 1 および 2 からこのように置いた。*cadit Asius*（アシオスが倒れる）の代わりに G. 1 は *cadit Iffirus* と記すが、この奇怪な語のうちに、ホメロスがこの会戦においてテウクロスによって最初に討たれたと語るイムブリオス（Iliad. XIII, 171）が潜んでいるのではないだろうか。そうであれば、古代の写本にはイドメネウスの名の代わりにテウクロスの名が次のように現れていたのかもしれない: *Jam Teucri dextra cadit Imbrius*（いまやテウクロスの右手によってイムブリオスが倒れる）。確かに、ここでアシオスが最初に、ヘクトルによって討たれるアムピマコスよりも前に名指されているが、ホメロスによれば彼が討たれたのはアムピマコスよりずっと後のことである（Iliad. XIII, 384）。また、われらの詩人はこの戦列におけるイドメネウスの武勲を黙殺しているわけではなく、すぐ後にアンキセスの娘婿アルカトオスが彼によって討たれたことを記しており、この討ち取りはアシオスのそれよりも記憶されるべきものであった。したがって、私が推測したようにこの行は、
+- **777 (LL 774)** *Idomenei dextra*（イドメネウスの右手によって）：流布本が持つ *Dextraque Idomenei* の代わりに、G. 1 および 2 からこのように置いた。*cadit Asius*（アシオスが倒れる）の代わりに G. 1 は *cadit Iffirus* と記すが、この奇怪な語のうちに、ホメロスがこの会戦においてテウクロスによって最初に討たれたと語るイムブリオス（Iliad. XIII, 171）が潜んでいるのではないだろうか。そうであれば、古代の写本にはイドメネウスの名の代わりにテウクロスの名が次のように現れていたのかもしれない: *Jam Teucri dextra cadit Imbrius*（いまやテウクロスの右手によってイムブリオスが倒れる）。確かに、ここでアシオスが最初に、ヘクトルによって討たれるアムピマコスよりも前に名指されているが、ホメロスによれば彼が討たれたのはアムピマコスよりずっと後のことである（Iliad. XIII, 384）。また、われらの詩人はこの戦いにおけるイドメネウスの武勲を黙殺しているわけではなく、すぐ後にアンキセスの娘婿アルカトオスが彼によって討たれたことを記しており、この討ち取りはアシオスのそれよりも記憶されるべきものであった。したがって、私が推測したようにこの行は、
 
 ## p. 582
 
@@ -2053,7 +2053,7 @@ PDF page 593.
 - **790 (LL 787)** *Telamonius Ajax*。この行の後に、G. 2 では第 794 行の *Instaurantque* が不用意に挿入されている。
 - **791 (LL 788)** *Sternit atrocem*。ここでは *quem sternit atroci Peneleus dextra*（ペーネレオースが残忍な右手で討ち倒す）としたいところである。
 - **792 (LL 789)** H. は *Cecidit Priameia*、G. 2 は *dextra ruit hinc Priameia* とする。
-- **793 (LL 790)** *Acrius insurgunt*（彼らはより激しく立ち上がる）。これに対し G. 1 は *assurgunt* を持ち、G. 2 は *ad Dorica bella* とする。作者の過度の簡潔さと叙述における貧弱な薄弱さのせいで、少し前には討たれ潰走していたトロイア勢が、なぜ今やより激しく立ち上がり、夥しい殺戮を行ってギリシア勢を自らの陣船へと追い詰めるのか、事態の急激な逆転がどこから生じたのかがこの箇所では理解できなくなっている。言うまでもなく、ホメロスが創作している諸原因、すなわち目を覚ましたユピテルがトロイア勢に勇気を取り戻させ、ネプトゥヌスにギリシア勢をもはや助けぬよう諫め、ヘクトルがアポロによって奮い立たされ、戦いを再開すべく新たな力を授けられたという事情を、少なくとも手短にでも触れるべきであった。もし作者が戦いや殺戮、突撃や潰走よりも、ホメロスのこれら詩的虚構をより注意深く伝えていたならば、詩としての魅力をより多く保ち、単なる実録（年代記）を語るだけに終わることはなかったであろう。
+- **793 (LL 790)** *Acrius insurgunt*（彼らはより激しく立ち上がる）。これに対し G. 1 は *assurgunt* を持ち、G. 2 は *ad Dorica bella* とする。作者の過度の簡潔さと叙述における貧弱な薄弱さのせいで、少し前には討たれ潰走していたトロイア勢が、なぜ今やより激しく立ち上がり、夥しい殺戮を行ってギリシア勢をその船へと追い詰めるのか、事態の急激な逆転がどこから生じたのかがこの箇所では理解できなくなっている。言うまでもなく、ホメロスが創作している諸原因、すなわち目を覚ましたユピテルがトロイア勢に勇気を取り戻させ、ネプトゥヌスにギリシア勢をもはや助けぬよう諫め、ヘクトルがアポロによって回復させられ、戦いを再開すべく新たな力を授けられたという事情を、少なくとも手短にでも触れるべきであった。もし作者が戦いや殺戮、突撃や潰走よりも、ホメロスのこれら詩的虚構をより注意深く伝えていたならば、詩としての魅力をより多く保ち、単なる実録（年代記）を語るだけに終わることはなかったであろう。
 - **794 (LL 791)** *Instaurantque*。この行は G. 1 では脱落している。A. は *Pelopeia juventus*（ペロプスの若者たち）としており、私は危うくこちらを採るところであった。
 - **796 (LL 793)** G. 1 は *Fossa volvuntur in ipsa* とする。
 - **799 (LL 796)** G. 2 は *Atque etiam adversis*、G. 1 は *hostes* とする。
@@ -2084,8 +2084,8 @@ PDF page 594.
 ### 注釈
 
 - **802 (LL 799)** G. 1 は *Obsistere viribus* とする。
-- **803 (LL 800)** 刊本はウェルギリウス Aeneid. III, 527 から採られた *Stans celsa in puppi*（高い船尾に立ち）を持つが、G. 1 および 2 は *Stans prima in puppi*（船尾の最前部に立ち）としており、この箇所の文脈にはこちらのほうが適切に思われる。――*Incendia saeva Sustinet*（激しい火炎に耐える）。オウィディウスがアイアスの語り手を導入して次のように述べているのと同様である（Met. XIII, 7）: « non Hectoreis dubitavit cedere flammis Quas ego sustinui »。パリ編者。
-- **804 (LL 801)** *Defendit mille carinas*（千隻の軍船を守る）。オウィディウスの前掲箇所において: « Nempe ego mille meo protexi pectore puppes »。
+- **803 (LL 800)** 刊本はウェルギリウス Aeneid. III, 527 から採られた *Stans celsa in puppi*（高い船尾に立ち）を持つが、G. 1 および 2 は *Stans prima in puppi*（船尾の最前部に立ち）としており、この箇所の文脈にはこちらのほうが適切に思われる。――*Incendia saeva Sustinet*（激しい火炎に耐える）。オウィディウスがアイアス自身を登場させて語らせながら次のように述べているのと同様である（Met. XIII, 7）: « non Hectoreis dubitavit cedere flammis Quas ego sustinui »。パリ編者。
+- **804 (LL 801)** *Defendit mille carinas*（千隻の船を守る）。オウィディウスの前掲箇所において: « Nempe ego mille meo protexi pectore puppes »。
 - **809 (LL 806)** G. 2 は *Armis protectus* とする。
 - **810 (LL 807)** 流布本は G. 1 とともに *Advolat*。H. は *Provolat*。G. 2 は両方を提示する。また H. および G. 1 は流布本の *convertit* の代わりに *et falsa conterret* とする。G. 2 は *Una terrentur et conterret* とする。
 - **812 (LL 809)** G. 2 は *Trepidi et timidi*。L. は *Fugientibus eminet* とする。
@@ -2159,7 +2159,7 @@ PDF page 596.
 - **831 (LL —)** *Objicit*。この行は G. 1 では欠けており、H. では余白に加筆されている。G. 2 は *Multo et magno cum pondere* とする。
 - **833 (LL 829)** H. は *Cominus armis Inter se pugnant*、G. 1 は *annis* とする。
 - **835 (LL 831)** A. および L. は *Simulantis pandit* とする。
-- **838 (LL 834)** *Nudato pectore*（胸を剥き出しにされて）。バルトは Adv. p. 2808 で *pectora* と読まれるべきであると考える。しかし私は *pectore* こそ真正であり、*nudato pectore* は絶対的奪格であると判断する。すなわち、836 行で述べたように、アポロによって胸を剥き出しにされた後に、彼はその若者を剣で突き刺すのである。実際、ホメロスは武具がアポロによってパトロクロスから剥ぎ取られたと語るが、ホメロス受容者（われらの詩人）はホメロスを離れて、武具はヘクトルによって剥ぎ取られたと述べている。
+- **838 (LL 834)** *Nudato pectore*（胸を剥き出しにされて）。バルトは Adv. p. 2808 で *pectora* と読まれるべきであると考える。しかし私は *pectore* こそ真正であり、*nudato pectore* は絶対的奪格であると判断する。すなわち、836 行で述べたように、アポロによって胸を剥き出しにされた後に、彼はその若者を剣で突き刺すのである。実際、ホメロスは武具がアポロによってパトロクロスから剥ぎ取られたと語るが、ラテン語でホメロスを模倣した詩人（われらの詩人）はホメロスを離れて、武具はヘクトルによって剥ぎ取られたと述べている。
 - **839 (LL 835)** 刊本は *Trajicit, et victor*、G. 1 は *et victo* とする。H. は *Transfigit, victor*。G. 1 は *detulit arma* とするが、行の上に *detrahit* と上書きされている。
 - **840 (LL 836)** L. は *Vendicat exstinctum* とし、同版では次の行が付加されている: *Ingentes lacrymas gemitusque in corpore fudit*（亡骸の上に大粒の涙と呻きを注ぎかけた）。
 - **842 (LL 838)** H. および G. 2 は *Danai sua funera* とする。刊本は *Danai dum funera* を持つ。
@@ -2207,7 +2207,7 @@ PDF page 598.
 - **(cont.)** （前頁からの続き）-くという万民共通のこの習俗を、バルトは注釈の多くの箇所で、とりわけスタティウスの次の箇所（Theb. IX, 353）への注で論証した: « Exsiliit furibunda comis, ac verbere crebro Oraque, pectoraque, et viridem scidit horrida vestem »。同人の Stat. Silv. II, 1, 171 への注記と比較せよ。また Sil. Ital. XIII, 389 を付け加えることができる: « Pulsato lacerat violenter pectore amictus »。
 - **853 (LL 849)** H. は *Ubi deponit questum*；G. 1 は *ubi depulsi questus*；G. 2 は *ubi depositi gemitus*。*questus*（嘆き）が直前に現れたばかりであるため、*gemitus*（呻き）を優先すべきと思われる。
 - **854 (LL —)** *Tristis ait*（悲しげに言う）。この行は疑いなく後から挿入された偽作である。というのも、ヘルムシュテット写本および G. 1 には欠けており、G. 2 では 858 行の後に同様に不適切に置かれており、挿入の明白な証拠を示しているからである。また 856 行で反復される *ait*（言う）という語も、この箇所に誤って挿入されたことを示している。したがって、バルトが Adv. 2753 頁において、この行に現れる *cruciabere*（苦しむであろう）という語が *dolebis*（悲しむであろう）の代わりに置かれて野卑な語法（バルバリスムス）に陥っているとして憤慨する必要はなかったし、高名なアントン・デ・ローイが Spic. crit. 99 頁で行ったように *obtruncabere*（首を切り落とされるであろう）と校訂を試みる必要もない。むしろ行全体が排除されるべきであり、この意味での *cruciabere* という語は私にはどこか庶民的で粗野な言葉の響きを帯びているように思われるからである。
-- **856 (LL 851)** *Magnasque meo, violente, dolori Persolves poenas*（狂暴な者よ、我が悲痛に対し大いなる罰を償うがよい）。ヘルムシュテット写本（H.）はこのように最善の読みを呈しており、G. 1 および 2 もそれに通じている（*magnoque ..... dolore*）。流布本は何と劣悪なことか！（*magnoque meo, violento, labore Persolves poenas*）。なお、バルトは Adv. 2753 頁で、作者は *violentus*（狂暴な男）を罵詈や非難の意で受け取らせようとしたのであり、それゆえそのような語が本来あるべき適切さを欠いて濫用されるようになった時代に書いたように見える、と考えている。しかし私は、ここで罵詈や非難を探し求めるのは無駄であると考える。むしろ大胆不敵で無謀であり、己の力を悪用する者が *violentus* として叱責されているのである。確かに、ここで作者が追随したと思われるオウィディウスも Met. IX, 121 で同様に述べている: « Quo te fiducia, clamat, Vana pedum, violente, rapit »。――ティブルスもマルス自身について IV, 2, 3 で同様に述べている: « at tu, violente, caveto Ne tibi miranti turpiter arma cadant »。そしてオウィディウス『イービス』20 行: « At tibi, calcasti qui me, violente, jacentem »。パリ編者。
+- **856 (LL 851)** *Magnasque meo, violente, dolori Persolves poenas*（狂暴な者よ、我が悲痛に対し大いなる罰を償うがよい）。ヘルムシュテット写本（H.）はこのように最善の読みを呈しており、G. 1 および 2 もそれに通じている（*magnoque ..... dolore*）。流布本は何と劣悪なことか！（*magnoque meo, violento, labore Persolves poenas*）。なお、バルトは Adv. 2753 頁で、作者は *violentum*（乱暴な者）を罵詈や非難の意で受け取らせようとしたのであり、それゆえそのような語が本来あるべき適切さを欠いて濫用されるようになった時代に書いたように見える、と考えている。しかし私は、ここで罵詈や非難を探し求めるのは無駄であると考える。むしろ大胆不敵で無謀であり、己の力を悪用する者が *violentus* として叱責されているのである。確かに、ここで作者が追随したと思われるオウィディウスも Met. IX, 121 で同様に述べている: « Quo te fiducia, clamat, Vana pedum, violente, rapit »。――ティブルスもマルス自身について IV, 2, 3 で同様に述べている: « at tu, violente, caveto Ne tibi miranti turpiter arma cadant »。そしてオウィディウス『イービス』20 行: « At tibi, calcasti qui me, violente, jacentem »。パリ編者。
 - **857 (LL 852)** L. は *Persolvas poenas*。*victor*（勝者として）の代わりに *victus*（打ち負かされて）のほうが良かったのではないかとも思われるが、諸写本は一致している。
 - **859 (LL 854)** G. 1 および 2 は *Post haec*。流布本は *Post hoc*。*Accensus furiis*（狂乱に燃え上がり）は Virgil. Aen. XII, 946。
 
@@ -2232,7 +2232,7 @@ PDF page 599.
 ### 注釈
 
 - **861 (LL 856)** G. 2 は誤って *Auxilii fulgari*。
-- **862 (LL 857)** ここでラテン・ホメロス作者は、エトナの火炎やその中にあるウルカヌスの鍛冶場を知らないホメロスではなく、ウェルギリウス（Aen. VIII, 419 以下）を模倣して *Aetnaeos ignes*（エトナの業火）と名指している。同様にレポシアヌス『マルスとウェヌスの情事』163 行で、ウルカヌスは密通者を縛り上げる鎖を鍛えるために « Antra furens Aetnaea petit »（怒りに狂いてエトナの洞窟へと向かう）。
+- **862 (LL 857)** ここでラテン・ホメロス作者は、エトナの火炎やその中にあるウルカヌスの鍛冶場を知らないホメロスではなく、ウェルギリウス（Aen. VIII, 419 以下）を模倣して *Aetnaeos ignes*（エトナの火）と名指している。同様にレポシアヌス『マルスとウェヌスの情事』163 行で、ウルカヌスは密通者を縛り上げる鎖を鍛えるために « Antra furens Aetnaea petit »（怒りに狂いてエトナの洞窟へと向かう）。
 - **864 (LL 859)** *Mox effecta refert*。H.、G. 1 および 2 はこのように読んでいる。流布本および A. は *Mox effecta ferens*。
 - **865 (LL 860)** 流布本は *Evolat ad Thetidem*（テティスのもとへ飛び去る）とするが、これはホメーロスによって足萎えと描かれているウゥルカーヌスには全くそぐわない。――そしてそれゆえに彼はカトゥッルス（Carm. 31）によって「鈍足の神（*tardipes Deus*）」と呼ばれている。パリ編者。――このため G. 1 は *Advolat et Thetis* とするが、これは韻律に反する。また G. 2 はいつもの流儀で二重の読みを提示しており、*Et donat Thetidi*（そしてテティスに与える）と、その上に重ねてヘルムシュテット写本と同じく *Et volat ad Thetidem* を記している。前者が最も適切であり、私はこれを採用した。
 - **867 (LL 862)** *Illic Ignipotens*、すなわちウルカヌス。105 行への注で述べたところを見よ。*axem* の代わりに私は G. 2 にある *axes* を好む。H. は *Arcem* と記す。作者は Ovid. Metam. XIII, 110: « Nec clypeus vasti caelatus imagine mundi » を念頭に置いているように思われる。括弧で囲んだ後続の諸行の言葉は偽作として削除されるべきである。このことは第二補論（Excursus II）において証明した。
@@ -2255,7 +2255,7 @@ PDF page 600.
 - **(cont.)** （前頁からの続き）おそらく *ductum* や *fusum* を代入することもできよう。Ovid. Met. I, 12: « Et circumfuso pendebat in aere tellus »。――動詞 *cingere* は詩人たちによって、*circumducere*（巡らす）、*circum adponere*（周囲に配する）あるいは *adjungere*（周囲に添える）の意で時折用いられるようである。シリウス VIII, 617: « Non totidem Ilva viros, sed lectos cingere ferrum »；もっともそこでは *gignere ferrum* あるいは *stringere* と読むのを好む者もいる。しかしポムポニウス・メラはまさにわれらの詩人と同じように *cingere* を用いたように見受けられる（第3巻第1章）: « Restat ille circuitus, quem, ut initio diximus, cingit Oceanus »、すなわち「巡らしている（*circumducit*）」。だがここでもバルトは *gignit* と校訂しようとしている。次巻に収載されるアウィエヌス『世界誌』78 行に対するわれわれの注記を見よ。パリ編者。
 - **871 (LL 865)** 流布本に従って *Annorumque vices*（年の移り変わりを；G. 1 は *Astrorumque*）と記し、また G. 1 および 2 に従って *dimensaque*（測られた…を）と記した。流布本は *diversaque* とする。G. 2 は双方の読異を掲げている。
 - **872 (LL 866)** 刊本は *Arcton ab Austro* とするが、私は *Arctos* と訂正した。
-- **874 (LL 868)** G. 2 は *Unde suis et Hesperus*。――A. および L. は *Unus et alter* とするが、他の諸本が持つ *unus uterque*（各々でありながら一つである）が正しい。詩人たちはルキフェル（明けの明星）とヘスペルス（宵の明星）を名前の上では区別するが、同一の星と認めているからである。――本著作第2巻232頁以下の『マエケナス哀歌』補論、129-132行に対するわれわれの注を参照せよ。パリ編者。――セネカは『ヒッポリュトス』750行でこれを明瞭に示している: « Qualis est primas referens tenebras Nuntius noctis, modo lotus undis Hesperus, pulsis iterum tenebris Lucifer idem »。同一の星であることを示すため、別のものとして現れるときには早馬を乗り換える（または軽業師のように馬を乗り移る）のだと詩人たちは言う。スタティウスは Theb. VI, 237 で雄弁に語っている: « Roscida jam novies caelo dimiserat astra Lucifer, et totidem Lunae praevenerat ignes Mutato nocturnus equo; nec conscia fallit Sidera, et alterno deprenditur unus in ortu »。したがって、ルキフェルとヘスペルスは乗り換えた馬によって見分けられるため、われらの詩人は両者がそれぞれの馬で昇る（*suis equis*）と述べているのである。もっとも他の諸本、とりわけライプツィヒ版や G. 2 は *aquis*（水から）と書いており、高名なアントン・デ・ローイ（99頁）もそれを好んでいるが。なお、私はルキリウスの『エトナ』の中に、われらの詩人がここで暗示していると思われる詩行が読まれることに気づいた。なぜならその 168 行に: « Hinc furtim Borea atque Noto, nunc unus uterque »；また 239 行に: « Lucifer unde micet, quave Hesperus, unde Bootes » とあるからである。ルキリウスのもう一つの類似の箇所を次の行の注で挙げる。ここから、われらの作者がルキリウスを読んでいたという論拠を容易に引き出すことができよう。
+- **874 (LL 868)** G. 2 は *Unde suis et Hesperus*。――A. および L. は *Unus et alter* とするが、他の諸本が持つ *unus uterque*（各々でありながら一つである）が正しい。詩人たちはルキフェル（明けの明星）とヘスペルス（宵の明星）を名前の上では区別するが、同一の星と認めているからである。――本著作第2巻232頁以下の『マエケナス哀歌』補論、129-132行に対するわれわれの注を参照せよ。パリ編者。――セネカは『ヒッポリュトス』750行でこれを明瞭に示している: « Qualis est primas referens tenebras Nuntius noctis, modo lotus undis Hesperus, pulsis iterum tenebris Lucifer idem »。同一の星であることを示すため、別のものとして現れるときには馬を乗り換える（または軽業師のように馬を乗り移る）のだと詩人たちは言う。スタティウスは Theb. VI, 237 で雄弁に語っている: « Roscida jam novies caelo dimiserat astra Lucifer, et totidem Lunae praevenerat ignes Mutato nocturnus equo; nec conscia fallit Sidera, et alterno deprenditur unus in ortu »。したがって、ルキフェルとヘスペルスは乗り換えた馬によって見分けられるため、われらの詩人は両者がそれぞれの馬で昇る（*suis equis*）と述べているのである。もっとも他の諸本、とりわけライプツィヒ版や G. 2 は *aquis*（水から）と書いており、高名なアントン・デ・ローイ（99頁）もそれを好んでいるが。なお、私はルキリウスの『エトナ』の中に、われらの詩人がここで暗示していると思われる詩行が読まれることに気づいた。なぜならその 168 行に: « Hinc furtim Borea atque Noto, nunc unus uterque »；また 239 行に: « Lucifer unde micet, quave Hesperus, unde Bootes » とあるからである。ルキリウスのもう一つの類似の箇所を次の行の注で挙げる。ここから、われらの作者がルキリウスを読んでいたという論拠を容易に引き出すことができよう。
 - **875 (LL 869)** 刊本は *Exoriatur equis* としているが、ドルピウスの判定（129頁）によれば *Exoreretur* と読むほうが優れており、彼によればライデン写本にそれがあり、私もヘルムシュテット写本および G. 1 にそれを見出している。近接する語 *distaret*、*mearet*、*lustraret* もこれを要求している。さらに H. および G. 1 は *et quantus in orbe mearet* と読み、A. および L. は *et quantum in orbe* と読む。しかし *quantus* が何を指すのかは見極めることができない。先行するヘスペルスについて解することはできず、また後には
 
 ## p. 591
@@ -2275,7 +2275,7 @@ PDF page 601.
 
 ### 注釈
 
-- **(cont.)** （前頁からの続き）Luna（月）が続いているからである。流布本の読異 *quantum vel in orbe mearet* は、後期ラテン語の慣習に従って *vel* が *et* の代わりに置かれており（『ウェヌスのウェーギリア』53 行を見よ）、*quanto vel in orbe mearet Luna*、すなわち月がその運行においていかに大きな軌道を巡るか、と校訂される場合にのみ意味をなしうる。ルキリウスが『エトナ』228 行以下で次のように述べるのと同様である: « Solis scire modum et quanto minor orbita Lunae est, Haec brevior cur bissenos cita pervolet orbes, Annuus ille meet »。しかしこの行にはさらに深い傷が隠されている。というのも、ルキフェルとヘスペルス、次いで月が名指されながら、なぜ特に名指されるべきであり、引用したルキリウスの詩行や、作者がこの箇所で忠実に表現しているホメロス自身（Il. XVIII, 484）においてなされているように月と結合されるべき太陽について沈黙しているのか。したがって私は、流布本にあるその *vel* は *Sol*（太陽）という語から生じたものであり、それゆえ *quantus* を持つ写本の助けを借りて、次のように読まれるべきであると強く推測する: *quantus Sol orbe mearet, Quantum et Luna cava lustraret lampade terras*。こうすれば、常に満ちている太陽の円軌道に対して、月の窪んだ灯火が対置されることになるからである。実際、次の行で流布本は *Luna cava et nitida lustraret* とし、G. 1 は *Quantum et cornuta lustraret* とする。さらに G. 2 は *terras* の代わりに *caelum* を有している。
+- **(cont.)** （前頁からの続き）Luna（月）が続いているからである。流布本の読異 *quantum vel in orbe mearet* は、後期ラテン語の慣習に従って *vel* が *et* の代わりに置かれており（『ウェヌスのウェーギリア』53 行を見よ）、*quanto vel in orbe mearet Luna*、すなわち月がその運行においていかに大きな軌道を巡るか、と校訂される場合にのみ意味をなしうる。ルキリウスが『エトナ』228 行以下で次のように述べるのと同様である: « Solis scire modum et quanto minor orbita Lunae est, Haec brevior cur bissenos cita pervolet orbes, Annuus ille meet »。しかしこの行にはさらに深い傷が隠されている。というのも、ルキフェルとヘスペルス、次いで月が名指されながら、なぜ特に名指されるべきであり、引用したルキリウスの詩行や、作者がこの箇所で表現しているホメロス自身（Il. XVIII, 484）においてなされているように月と結合されるべき太陽について沈黙しているのか。したがって私は、流布本にあるその *vel* は *Sol*（太陽）という語から生じたものであり、それゆえ *quantus* を持つ写本の助けを借りて、次のように読まれるべきであると強く推測する: *quantus Sol orbe mearet, Quantum et Luna cava lustraret lampade terras*。こうすれば、常に満ちている太陽の円軌道に対して、月の窪んだ灯火が対置されることになるからである。実際、次の行で流布本は *Luna cava et nitida lustraret* とし、G. 1 は *Quantum et cornuta lustraret* とする。さらに G. 2 は *terras* の代わりに *caelum* を有している。
 - **877 (LL 871)** H. は *Addideratque fretis*。G. 2 は極めて誤って *fortis*。
 - **878 (LL 872)** 刊本は誤って *Vertentem Protea semper* と読んでいる。バルトは 2808 頁で、これが *verso* または *vertibili*（姿を変える）の代わりの優雅な古語法（ἀρχαϊσμὸς）であると述べているが、私が用いるすべての写本が持つ *nec eumdem Protea semper*（決して常に同じ姿ならぬプロテウス）のほうが断然優れている。トリヌスのバーゼル版も欄外注でこれを記している。
 - **879 (LL 873)** *Tritonesque feros*（そして野性的なトリトンたち）。彼らが *feri*（野獣のような）と呼ばれるのは、体の一部が怪獣のようであり、足の代わりに魚の尾を持っているからである。クラウディアヌスも『ホノリウスの婚礼』138 および 145 行でトリトンを *ferus* および *semifer*（半獣の）と呼んでいる。この行の後に G. 1 および 2 は、補論（Excursus）で述べたように、869 行 « Fecerat et liquidas mira Nereidas arte » を繰り返している。しかしこれはヘルムシュテット写本およびライプツィヒ版では省かれている。
@@ -2364,7 +2364,7 @@ PDF page 604.
 
 ### 注釈
 
-- **906 (LL 901)** ヘルムシュテット写本（H.）は *Claris committeret astris* とするが、これはより劣る。*Submitteret astris* は、ここから「星々へと送り出す」、あるいは「名声と栄光によって星々へと導く」と解釈することもできるが、私はむしろ、アウグストゥスの血統を生命の中へ、天の下へと生み出すことを意味すると解釈したい。ウェルギリウスが Aeneid. VI, 790 でアウグストゥスの血統について次のように述べているのと同様である: « Hic Caesar et omnis Iuli Progenies, magnum caeli ventura sub axem »。この箇所の用例に倣って、私はわれらの詩行において *caeli submitteret astris* と読むべきであると考えた。実のところ、*submittere* は時に「生み出す、上方へと芽生えさせる」ことを意味する。ここから詩人たちにおいては *submissae manus* あるいは *palmae*、すなわち掲げられた手がしばしば現れる（例えば Sil. Ital. XII, 640）。またプロペルティウスも I, 2, 9 で花々について次のように歌う: « Adspice quot submittat humus formosa colores »。なお、バルトは前掲箇所でこの詩行から、この詩がローマ人によって、そしてローマが君臨するアウグストゥスたちの下でなお繁栄していた時代に書かれたものであると、正当にも推論している。――バルトのこの見解は、ヴェルンスドルフが『イリアス梗概』序論（*Prooemium*）の冒頭で報告している。パリ編者。
+- **906 (LL 901)** ヘルムシュテット写本（H.）は *Claris committeret astris* とするが、これはより劣る。*Submitteret astris* は、ここから「星々へと送り出す」、あるいは「名声と栄光によって星々へと導く」と解釈することもできるが、私はむしろ、アウグストゥスの血統を生命の中へ、天の下へと生み出すことを意味すると解釈したい。ウェルギリウスが Aeneid. VI, 790 でアウグストゥスの血統について次のように述べているのと同様である: « Hic Caesar et omnis Iuli Progenies, magnum caeli ventura sub axem »。この箇所の用例に倣って、私はわれらの詩行において *caeli submitteret astris* と読むべきであると考えた。実のところ、*submittere* は時に「生み出す、上方へと芽生えさせる」ことを意味する。ここから詩人たちにおいては *submissae manus* あるいは *palmae*、すなわち掲げられた手がしばしば現れる（例えば Sil. Ital. XII, 640）。またプロペルティウスも I, 2, 9 で花々について次のように歌う: « Adspice quot submittat humus formosa colores »。なお、バルトは前掲箇所でこの詩行から、この詩がローマ人によって、そしてローマが君臨するアウグストゥスたちの下でなお繁栄していた時代に書かれたものであると、根拠をもって推論している。――バルトのこの見解は、ヴェルンスドルフが『イリアス梗概』序論（*Prooemium*）の冒頭で報告している。パリ編者。
 - **907 (LL 902)** G. 2 は誤って *Nec clarae* とし、そこに次の不適切な詩行を付け加えている: « Ni se proriperet curru quoque invisus abiret »。これはホメーロスに反する注釈（グロッサー）である。バルトは前掲箇所でその *clarae* を是認せず、その背後に別の何かが隠されていると考え、*Non Latiae*、あるいは *Non Iulae gentis* とした。しかしユリウス氏族を、名辞的な形容詞 *clarae*（輝かしい、名高き）以外の名で指し示す必要はなかった。なぜなら直前の *Augustumque genus*（アウグストゥスの血統）からそれと十分理解できるからである。なお、ユリウス氏族が卓越して（κατ᾽ ἐξοχὴν）*clara*（輝かしい）と呼ばれたのは、ホラティウスやウェルギリウスが言う「ユリウスの星（カエサルの彗星）」あるいは「ディオネの星」の出現によって、ひときわ明示されたと考えられていたからである。――われらの詩人は、ウェルギリウスの流儀に倣ってアイネイアスをユリウス氏族の始祖と呼んでいる。ウェルギリウスは Aeneid. XII, v. 166 で « Hinc pater Aeneas Romanae stirpis origo » と歌い、また Aen. I, 286 では « Nascetur pulchra Trojanus origine Caesar Julius, a magno demissum nomen Iulo » と歌っている。
 - **909 (LL 904)** 私の写本はすべて *Ingentemque modum* と読んでおり、私はこれを退けるべきではないと考える。*modus* はしばしばいかなる大きさや尺度に対しても用いられる語であり、ホラティウスが Sat. II, 2, 36 で « Scilicet illis Majorem natura modum dedit »、同 II, 6, 1 で « modus agri non ita magnus » としているのと同様である。
 - **913 (LL 908)** ヘルムシュテット写本（H.）は *In mediis bellatur* とする。
@@ -2454,7 +2454,7 @@ PDF page 607.
 - **944 (LL 939)** G. 2 は *Insomnis* および *insolita* と記している。この詩行は、諸刊本にあるのとは異なって句読点を打ち、後続の行と結びつけられるべきものであり、夢を見ている者たちとの比喩を含んでいる。これはホメロス（『イリアス』XXII, 199 以下）およびウェルギリウス（Aen. XII, 908）が用いたもので、走って他者に追いつくか、あるいは他者から逃げているように思えるのに、眠りに圧迫されて気だるく何も果たせない夢想者のことである。われらの詩人は両者の箇所を念頭に置き、一部を模倣しようとしたように思われるが、成功していない。
 - **945 (LL 940)** 諸刊本は *Hic rursus super insequitur* と読んでいる。バルトは前掲箇所で *Hic cursu* と読むべきであると正しく見抜いたが、*super insequitur* は依然として誤脱があるように思われる。それゆえ私はヘルムシュテット写本（H.）に従って *Hic cursu superum sequitur*、あるいは *insequitur* と読み、*superum* を、前にいて走りで勝っており、逃げているように見える者のことと解釈する。
 - **946 (LL 941)** *Gressum labor ipse moratur*（骨折りそのものが歩みを遅らせる）。バルトは前掲箇所でこのように書くべきであると教えており、写本 H. および G. 1 もそれを示している。流布本は *labor ille* とし、G. 2 は誤って *gressu labor ille movetur* としている。作者は同じ比喩におけるマロ（ウェルギリウス）の思想（Aeneid. XII, 909: « nequidquam avidos extendere cursus Velle videmur, et in mediis conatibus aegri Succidimus »）を表現しようとしたものと思われる。
-- **947 (LL 942)** *Alternis poterant insistere coepta*。諸刊本および G. 1 にはこう記されている。他の諸本はわずかに異なり、H. および G. 2 は *Alterius*、A. および L. は *Alternis poterant ut sistere* とする。*Insistere coepta* はここでは逃走を追撃すること、走って追いつめようとすることを意味し、ウェルギリウスが Georg. III, 164 で *viam insistere*（道を進む）と言ったのと同様である。しかしながら *poterant* という語、および次行の *aderat* はこの箇所にまったく適合せず、私が見るかぎり、*Alternis properant insistere coepta periclis* と読むべきである。すなわち、両者が交代する危難のうちに、今はこちらが、今はあちらが危険にさらされ、あるいは相手の危険を期待しながら、自らが始めた疾走を追撃しようと急ぐ、という意味である。
+- **947 (LL 942)** *Alternis poterant insistere coepta*。諸刊本および G. 1 にはこう記されている。他の諸本はわずかに異なり、H. および G. 2 は *Alterius*、A. および L. は *Alternis poterant ut sistere* とする。*Insistere coepta* はここでは逃走を続けること、走り続けることを意味し、ウェルギリウスが Georg. III, 164 で *viam insistere*（道を進む）と言ったのと同様である。しかしながら *poterant* という語、および次行の *aderat* はこの箇所にまったく適合せず、私が見るかぎり、*Alternis properant insistere coepta periclis* と読むべきである。すなわち、両者が交代する危難のうちに、今はこちらが、今はあちらが危険にさらされ、あるいは相手の危険を期待しながら、自らが始めた疾走を続けようと急ぐ、という意味である。
 - **948 (LL 943)** *Nec requies aderat, furor undique concitat iras*。トリヌス版はこう読んでいる。しかし H.、G. 1、A.、および L. は *timor undique* としており、こちらのほうがより正しい。というのも、双方の英雄が相手に打ち負かされるのを恐れるあまり、この恐れが彼らの怒りを研ぎ澄まし、抗争を高めるからである。ヴォルフェンビュッテル第2写本（G. 2）は *concipit iras* を掲げるが、私はこれを重要視しない。しかし前半の半行においては « Nec requies datur, et timor undique concitat iras » と読むべきであると私は考える。そしておそらくわれらの詩人は、オウィディウスが Metam. I, 539 で描写した、アポロに追われるダプネの逃走を念頭に置いていたのであろう: « Sic Deus et virgo
 
 ## p. 598
@@ -2485,7 +2485,7 @@ PDF page 608.
 - **952 (LL 947)** 諸刊本は *Huic subito* とする。H. および G. 1 は *Hinc subito* を持ち、こちらのほうがより適切である。A. およびライプツィヒ版は *Oculos visa est Tritonia Pallas* とする。
 - **954 (LL 949)** 諸刊本は *Nam nunc* とする。ヘルムシュテット写本（H.）は *Nam dum* とし、私はこれを他よりも優先した。G. 1 は *Jam tum*、ライプツィヒ版は *Nam tunc* とする。
 - **956 (LL 951)** G. 2 は *Hastis et armis* とする。
-- **957 (LL 952)** *Intonat armis*（武具を轟かせる）はウェルギリウスの表現である（Aen. XII, 700）。
+- **957 (LL 952)** *Intonat armis*（武具をまとって轟く）はウェルギリウスの表現である（Aen. XII, 700）。
 - **958 (LL 953)** *Nequidquam umbone repellit*（盾の突起で空しく押し返す）。Virg. Aeneid. II, 545: « rauco quod protinus aere repulsum, Et summo clypei nequidquam umbone pependit » と同様である。
 - **959 (LL 954)** *Mutat congressibus ictus*（組み打ちにおいて打撃を変化させる）、すなわち、組み合いながら打撃をあれこれと違った仕方で繰り出す。これはナソ（オウィディウス）が Metam. IX, 42 で次のように述べている交互の組み打ちのことである: « Digredimur paullum, rursumque ad bella coimus »。ヘルムシュテット写本の余白には、次の詩行が付記されている: « Indignatur eum sibi posse resistere Achilles »。
 - **960 (LL 955)** *Sudor agit rivos*（汗が川をなす）。Virgil. Aen. V, 200: « sudor fluit undique rivis »、および 807 行を見よ。
@@ -2513,9 +2513,9 @@ PDF page 609.
 - **963 (LL 958)** *Inque virum*（そして英雄に向かって）。ヘルムシュテット写本（H.）とヴォルフェンビュッテル第1写本（G. 1）は、脱落していた前行とともに本行を次のように縮約している：*Inque vicem magnis emisit viribus hastam*。一方、ライプツィヒ版は *viribus egit* の後に次の行を挿入している：*Hastam, quam manibus saevis vibravit Achilles*。だがこれは明白な注記（グロッサーマ）である。
 - **964 (LL 959)** 私は写本 H.、G. 1、およびライプツィヒ版の読異に従った。その他の諸本は *Quam post elapsam* と読んでいる。
 - **967 (LL 962)** *Inflectitur auro*（黄金によって曲げられる）。著名なデ・ローイは 100 頁で *aere*（青銅によって）を代入している。Virgil. Aen. II, 545 に « quod protinus aere repulsum » とあり、ホメーロスも Iliad. III, 348 で盾に青銅（χαλκόν）を付しているからである。しかしだからといって *auro* を動かすべきではない。なぜならここではウルカヌス作の武具のことが論じられており、それが黄金で鍛造されたと、われらの詩人は上の 863 行で述べているからである。また古代の英雄たちが黄金を彫り施した盾を携えることも稀ではない。Ovid. Metam. VIII, vs. 26: « Seu sumpserat auro Fulgentem clypeum, clypeum sumpsisse decebat »。
-- **968 (LL 963)** *Dissiluit mucro*（切先／剣身が砕け散った）。これは幾分唐突に見え、何か行が脱落したのではないかと疑われるほどである。というのも、直前では投げられた槍のことが語られていたのに、ここでは *mucro*、すなわち剣の切先のことが語られているからである。そして *Dissiluit* において作者は、Virg. Aen. XII, 739 でトゥルヌスに起こったこと、すなわち « postquam arma Dei ad Vulcania ventum est, Mortalis mucro, glacies ceu futilis, ictu Dissiluit » を表現しているかのように見える。しかしここで、黄金によって曲げられた（すなわち、刃こぼれした、あるいは逸らされた）切先は、砕け散った（粉々に散った）とは言えず、むしろ落ちた（*decidisse*）と言うべきである。それゆえ、古いライプツィヒ版のみが掲げる異読 *Desiliit mucro*（切先が跳ね落ちた）、あるいは文脈のつながり上より良いと思われる *Desilit*、もしくは *Decidit et mucro* を擁護すべきではないかと考えるほどである。だが、他の諸写本が支持していないため、これを指摘するにとどめ、これ以上の改訂は試みない。
+- **968 (LL 963)** *Dissiluit mucro*（剣が砕け散った）。これは幾分唐突に見え、何か行が脱落したのではないかと疑われるほどである。というのも、直前では投げられた槍のことが語られていたのに、ここでは *mucro*、すなわち剣のことが語られているからである。そして *Dissiluit* において作者は、Virg. Aen. XII, 739 でトゥルヌスに起こったこと、すなわち « postquam arma Dei ad Vulcania ventum est, Mortalis mucro, glacies ceu futilis, ictu Dissiluit » を表現しているかのように見える。しかしここで、黄金によって曲げられた（すなわち、刃を鈍らされた、あるいは逸らされた）刃は、砕け散った（粉々に散った）とは言えず、むしろ落ちた（*decidisse*）と言うべきである。それゆえ、古いライプツィヒ版のみが掲げる異読 *Desiliit mucro*（剣が跳ね落ちた）、あるいは文脈のつながり上より良いと思われる *Desilit*、もしくは *Decidit et mucro* を擁護すべきではないかと考えるほどである。だが、他の諸写本が支持していないため、これを指摘するにとどめ、これ以上の改訂は試みない。
 - **969 (LL 964)** *collatis* の代わりに H. は *collectis*。G. 2 は *collatis* と *collectis* の両方を備える。
-- **970 (LL 965)** トリヌス版およびスポンダーヌス版（edd. Tor. et Sp.）は *Inque vicem strictos commutant* と読んでいる。しかしバルトは『雑考』(*Adv.*) LVIII, 14, p. 2753 において、*commutare enses*（剣を交わす）を、互いに剣の一撃を浴びせ合うという意味で用いるのは純然たるドイツ語法（チュートニズム）であると見なしている。この表現はファン・デル・デュッセンにとっても疑わしく思われ、彼は前掲書 40 頁で *committunt*（交える）を好んでいる。しかし私の手稿本 G. 1 および G. 2 は *Inque vicem duros evitant cominus enses* と読んでいる。H.、A.、および L. は *duros commutant* とする。そこで私は *duros evitant* を支持し、これを「剣を手に対峙した両者は、互いに一撃を躱し合い傷を負わないよう、長い間激しく切り結ぶ」と解釈する。実際、その後ヘクトルは再び退却して逃亡するからである。あるいは、959行の例に倣って次のように読-
+- **970 (LL 965)** トリヌス版およびスポンダーヌス版（edd. Tor. et Sp.）は *Inque vicem strictos commutant* と読んでいる。しかしバルトは『雑考』(*Adv.*) LVIII, 14, p. 2753 において、*commutare enses*（剣を交わす）を、互いに剣の一撃を浴びせ合うという意味で用いるのは純然たるドイツ語法（チュートニズム）であると見なしている。この表現はファン・デル・デュッセンにとっても疑わしく思われ、彼は前掲書 40 頁で *committunt*（交える）を好んでいる。しかし私の手稿本 G. 1 および G. 2 は *Inque vicem duros evitant cominus enses* と読んでいる。H.、A.、および L. は *duros commutant* とする。そこで私は *duros evitant* を支持し、これを「剣を手にぶつかり合った両者は、互いの一撃を順に避けて傷を負わないよう、長く剣で渡り合う」と解釈する。実際、その後ヘクトルは再び退却して逃亡するからである。あるいは、959行の例に倣って次のように
 
 ## p. 600
 
@@ -2534,7 +2534,7 @@ PDF page 610.
 
 ### 注釈
 
-- **(cont.)** （前頁からの続き）-むこともできよう：« Inque vicem duros commutant cominus ictus »。――*Mutare ictus*（打撃を交わす）または *commutare enses*（剣を交わす）という表現は、クラウディアヌスの『ホノリウスとマリアの婚礼について』(*de Nupt. Hon. et Mar.*) 86行における « permutare radios »（光線を交わす）と同様の理路で言われていると思われる。すなわち、互いに交錯する一撃を繰り出し、また打ち返すということである。剣も光線も同様に互いを掠め、また掠められ、閃いては打ち返し合い、それゆえに「交換される」のである。パリ編者。
+- **(cont.)** （前頁からの続き）読むこともできよう：« Inque vicem duros commutant cominus ictus »。――*Mutare ictus*（打撃を交わす）または *commutare enses*（剣を交わす）という表現は、クラウディアヌスの『ホノリウスとマリアの婚礼について』(*de Nupt. Hon. et Mar.*) 86行における « permutare radios »（光線を交わす）と同様の理路で言われていると思われる。すなわち、互いに交錯する一撃を繰り出し、また打ち返すということである。剣も光線も同様に互いを掠め、また掠められ、閃いては打ち返し合い、それゆえに「交換される」のである。パリ編者。
 - **972 (LL 967)** Tor. および Sp.、ならびに写本 G. 2 は *Horruit instantem* と読む。しかし G. 1、A.、および L. は *Instantem Aeaciden*、H. は *Instantemque Aeacidem* とする。これは注記（グロッサ）から紛れ込んだと思われるが、あの *Horruit* も十分に納得がいくものではない。おそらく両方の読異を次のように調停できるかもしれない：« sortemque supremam Horret in Aeacide »。次に *defectis viribus* について、ブルマンは Anthol. Lat. I, p. 89 で *defectus* と訂正している。
 - **973 (LL 968)** *Fraternaque fessus in armis*（そして兄弟の武具の中で疲弊し）。流布版のこの読異は、ファン・デル・デュッセンとドルプの両者を等しく不快にさせた。前者は *pressus in armis*（武具の中で追い詰められ）を求め、ここでの *pressus* は、窮地に追い込まれ、敵が素早い足取りで追撃し戦いを強要するような人物を指すとし、ウェルギリウスの箇所 Aen. I, 471 を引いて論証している。しかし、彼が語 *pressus* を持ち込むことで表現しようとした内容は、著名なドルプがライデン写本の手引きによって *rebus in arctis*（危急の窮地において）と書くことで、はるかに見事に与えている。この極めて頻出する語句は、ドルプによってクラウディアヌスの箇所 de IV Cons. Hon. 407 および in Eutrop. II, 354 から論証されている。これに加えて私の3つの写本もそれぞれ *rebus in artis* を示しており、A. は誤って *rebus* を脱落させて *fraternaque in artis* とし、ライプツィヒ版は誤って *rebus in armis* としている。
 - **975 (LL 970)** G. 2 は *Sentit adesse*。――*quid agat?*（彼はいかにすべきか？）という定型表現については、本著作第2巻、哀歌第12歌37行、301頁の注記を参照すべきである。そして、ここで *quae numina supplex Invocet?*（伏して願うにいかなる神々に祈るべきか？）と言われているのと同様に、上掲のレポシアヌス145行でも « Quod numen poscat? » とある。パリ編者。
@@ -2600,7 +2600,7 @@ PDF page 612.
 - **998 (LL 993)** *Canes tua viscera pascent*（犬どもがお前の内臓を喰らうだろう）。このあまりラテン語らしくない表現について、著名なドルプは 132 頁で次のように校訂すべきだと考えている：*avidosque canes tua viscera pascent*（そしてお前の内臓が飢えた犬どもを養うだろう）。Ovid. in Ib. 194: « Hic inconsumpto viscere pascet avem » とあるのと同様である。そして確かに、*pascere* が能動の意味で *vorare*（貪り食う）の意に用いられる例は優れた作家においては滅多に見出されないが、複合動詞 *depascere* は Colum. VII, 5 に見出され、また本作のような作家においては、すべての語を最善の語法に厳格に合わせることは到底できない。したがって、ここでは判断を保留すべきである（*ampliandum*）と考える。
 - **999 (LL 994)** G. 2 は *Hoc ex se capient*。
 - **1000 (LL 995)** G. 1 は *Si sapiunt*（もし分別があるならば）とするが、これは不適切である。おそらくこれはウェルギリウスの Georg. IV, 489 のあの句から模取されたものであろう：« Ignoscenda quidem, scirent si ignoscere Manes »。またカルプルニウス VIII, 38：« Si sentire datur post fata quietis »。
-- **1002 (LL 997)** H. は *Hunc animi*、G. 2 は *et animus ... Achillis*。*nondum satiatus*（いまだ満ち足りず）という言葉に接して、私は Anthol. Lat. 第1巻94に収められ、『ヘクトルの引きずりについて』と題されたエピグラムを思い起こす：« Funere turbat equos necdum satiatus Achilles, Hector et exanimis funere turbat equos »。このエピグラムにおいて私は *turbat*（かき乱す／怯えさせる）という語に違和感を覚えるが、われらの要約者（エピトマートル）と照らし合わせるならば、誰もがこれが誤って用いられていると考えるであろう。なぜならわれらの詩人は1005行で、アキレウスの馬たちが取り乱したり怯えたりしたのではなく、むしろヘクトルの遺骸によってより誇らしげに、より高く歩みを進めたと述べているからである。それゆえおそらく *turbat* の代わりに、Statius, Achill. I, 88: « modo crassa exire vetabit (Achilles) Flamina, et Hectoreo tardabit funere currus » の例に倣って、*tardat*（遅らせる）と読むべきかもしれない。
+- **1002 (LL 997)** H. は *Hunc animi*、G. 2 は *et animus ... Achillis*。*nondum satiatus*（いまだ満ち足りず）という言葉に接して、私は Anthol. Lat. 第1巻94に収められ、『ヘクトルの引きずりについて』と題されたエピグラムを思い起こす：« Funere turbat equos necdum satiatus Achilles, Hector et exanimis funere turbat equos »。このエピグラムにおいて私は *turbat*（かき乱す／怯えさせる）という語に違和感を覚えるが、われらの要約者（エピトマートル）と照らし合わせるならば、誰もがこれが誤って用いられていると考えるであろう。なぜならわれらの詩人は1005行で、アキレウスの馬たちが取り乱したり怯えたりしたのではなく、むしろヘクトルの遺骸によっていっそう誇らしく、傲然と歩んだと述べているからである。それゆえおそらく *turbat* の代わりに、Statius, Achill. I, 88: « modo crassa exire vetabit (Achilles) Flamina, et Hectoreo tardabit funere currus » の例に倣って、*tardat*（遅らせる）と読むべきかもしれない。
 - **1003 (LL 998)** H. および G. 1 は *Deligat ad currum* としており、私は流布本の *Adligat* よりもこれを採った。
 - **1004 (LL 999)** *Ter circum muros victor trahit*（勝者は三度城壁の周りを引きずり回す）。ここでわれらの作者は再び、ホメロスその人からではなく、Aen. I, 483 で « Ter circum Iliacos raptaverat Hectora muros » と述べたウェルギリウスに依拠してホメロスを再現している。しかしホメロス自身は、戦車に結びつけられたヘクトルがアキレウスによって引きずり回されたのは、トロイアの城壁の周りではなく、パトロクロスの塚の周りを三度であったと記している。他の古代ギリシアおよびラテンの詩人たちも城壁の周りを引きずられたと伝えているが、「3度」という数については沈黙している。Ovid. Metam. XII, 591 および in Ib. 336 を見よ。ピエール・ベールは『歴史批評辞典』(*Diction.*) の項目
 
@@ -2692,7 +2692,7 @@ PDF page 615.
 - **1028 (LL 1023)** *quin iret* の代わりに、ライプツィヒ版は *quando iret inermis* とする。作者は上の 938 行でも同一の構文を用いている。
 - **1031 (LL 1026)** G. 2 は *Ipse trementes*。
 - **1032 (LL 1027)** *adfusus* の代わりに *Adfusis genibus* とあるのは刊本の植字の誤りである。上の 19 行および 86 行の注を参照。ヴォルフェンビュッテル第1写本（G. 1）は *Effusus* を持つ。
-- **1033 (LL 1028)** G. 2 は *Fortissime miles*。ホメロスにおいて（Iliad. XXIV, 486 以下）、プリアモスの演説はラテン語ホメーリストにおけるこの演説とはまったく異なっており、ラテン語詩人はこの箇所でも他の箇所と同様に自ら詩人たらんとしたのである。しかし私の考えでは、ホメロスのあの神的な Μνῆσαι πατρὸς σοῖο（汝の父を思い起こされよ）には遠く及ばない。
+- **1033 (LL 1028)** G. 2 は *Fortissime miles*。ホメロスにおいて（Iliad. XXIV, 486 以下）、プリアモスの演説はラテン語ホメーリストにおけるこの演説とはまったく異なっており、ラテン語詩人はこの箇所でも他の箇所と同様に自ら詩人たらんとしたのである。しかし私の考えでは、ホメロスのあの神的な Μνῆσαι πατρὸς σοῖο（汝の父を思い起こされよ）には及ばない。
 - **1037 (LL 1032)** *Et patris adflicti genibus*（そしてあなたの膝元に打ちひしがれた父の）。刊本は G. 2 とともにこう読む。H. および A. は *Adfusi genibus*。G. 1 は *Et patris adflictis rebus miserere precantis*。この読みは写字生による校正に由来すると思われ、写字生は *adflicti genibus* を異例と考え、頻出の決まり文句である *adflictis rebus*（打ちひしがれた境遇）と置き換えるべきだと考えたのであろう。実際、写本では *adflictis* の後に空隙または余白がある。ファン・デル・デュッセンは 45 頁で同様に難じて、H. にある *adfusi genibus*、あるいは *Et patris adflicti gemitus miserere* を好んでいる。私は何も改めるべきではないと考え、バルト（スタティウス註釈、第3巻394頁）とともに、*adflicti genibus* を「あなたの膝元に打ちつけられた、あたかも何らかの力で押しつけられた」と説明する。スエトニウスの Jul. 20 に « ad genua accidere »（膝元に倒れ伏す）と読まれるのと同様である。
 - **1039 (LL 1034)** *Sin nec precibus*：バルトは前掲箇所でこのように読まれるべきことを見抜き、G. 1 でも小辞 *si* の下に文字 *n* が書き添えられて訂正されている。他のすべての諸本は *si nec* と読んでいるからである。
 - **1040 (LL 1035)** G. 1、2、A. および L. は *Extremis ... annis*。しかし流布本の読みのほうがはるかに優れている。
@@ -2716,7 +2716,7 @@ PDF page 616.
 - **(cont.)** （前頁からの続き）-により正しく、ヘルムシュテット写本（H.）は « Nec vitam mihi, nec magnos concedere honores, Sed funus crudele peto » と読んでおり、これは確かにプリアモスの先行する言葉とも整合し、アキッレウスの人物像にも適している。ヴォルフェンビュッテル第1写本（G. 1）は *Non vitam mihi* と書くが、他は同じである。G. 2 も大差なく、*Non vitam mihi nec magnos concedis honores* とする。作者は、殺されたパラスの父が Virg. Aeneid. XI, 180 で語る言葉からこれを創作したように思われる: « Non vitae gaudia quaero, Nec fas, sed nato Manes perferre sub imos »。
 - **1043 (LL 1038)** 写本 H. の導きに従って *Sed funus crudele peto* と記した。G. 1 は *Crudele mei*。流布本の読みは前行の注に掲げた。バルトはスタティウス註釈、第3巻394頁で、これを次のように校訂しようとした: *Stet vulnus crudele meum*（私の残酷な傷にとどまれ）、すなわち、これまでこれほど深く傷つけられてきた私を、これ以上さらに傷つけるのをやめよ、の意である。しかし、われわれが写本 H. から掲げた読みほど適切なものはない。オウィディウスの Met. IX, 179 にも類似の思想がある: « diris cruciatibus aegram Invisamque animam, natamque laboribus aufer, Mors mihi munus erit »。行末において G. 2 は *parentis* と *precantis* という異読を挙げており、その一方はおそらく Virg. Aen. X, 598 から採られたものであろう。
 - **1044 (LL 1039)** 流布刊本は *Meo de funere disce* と読む。しかしトリヌス版は欄外に *de corpore* と注記しており、これは G. 1 および G. 2 が持つものである。他方 H. は *de pectore* とする。これらの中での選択は実に難しい。バルトは『雑考』(*Adv.*) 2810 頁で流布本の *de funere* に固執し、プリアモスが息子の殺害後に自らを屍（*funus*）と呼んでいると考え、それはウェルギリウスが『キリス』(*Ciris*) においてある老女を骸（*cadaver*）と呼んだのと同様であるとする。私は *de corpore* を選ぶが、それはより優れた諸写本に依拠しているとともに、息子を *corpus* と呼ぶことの多い作者の文体にも合致するからである。89 行および 992 行を参照。
-- **1046 (LL 1041)** *Sortis reminiscere victor Humanae*（勝者よ、人の身の運命を思い起こせ）。この思想が、われらの作者の他の多くの箇所と同様に、オウィディウスの Trist. III, 11, 67 の言葉をほのめかしていることは明白である: « Humanaeque memor sortis, quae tollit eosdem, Et premit, incertas ipse verere vices »。オウィディウスから借用されたこの同じ言葉を、アウソニウスが『イリアス摘要』第24巻で用いている。ユピテルはテティスを息子のもとへ遣わし、死者に対して荒れ狂うのをやめ、息絶えた敵において人間の運命を畏れよという指示を与える。この末尾の語句は誤脱または不完全に見えるが、オウィディウスの言葉から補って *fatique hominum vices ... vereatur* と校訂するのが最善である。実に、われらの作者とアウソニウスがここで提示しているような思想は、マリアンゲルスとウィネトゥスがかつてアウソニウス註釈で指摘したように、ホメロスにはまったく見られない。ホメロスからの離脱においても、オウィディウスの思想の採用においても、両者の一致は実に注目に値し、おそらく両作品の作者が同一人物ではないかという疑いを抱かせるに足るものである。
+- **1046 (LL 1041)** *Sortis reminiscere victor Humanae*（勝者よ、人の身の運命を思い起こせ）。この思想が、われらの作者の他の多くの箇所と同様に、オウィディウスの Trist. III, 11, 67 の言葉をほのめかしていることは明白である: « Humanaeque memor sortis, quae tollit eosdem, Et premit, incertas ipse verere vices »。オウィディウスから借用されたこの同じ言葉を、アウソニウスが『イリアス摘要』第24巻で用いている。ユピテルはテティスを息子のもとへ遣わし、死者に対して荒れ狂うのをやめ、息絶えた敵において人間の運命を畏れよという指示を与える。この末尾の語句は誤脱または不完全に見えるが、オウィディウスの言葉から補って *fatique hominum vices ... vereatur* と校訂するのが最善である。実に、われらの作者とアウソニウスがここで提示しているような思想は、マリアンゲルスとウィネトゥスがかつてアウソニウス註釈で指摘したように、ホメロスにはまったく見られない。ホメロスからの離脱においても、オウィディウスの思想の採用においても、両者の一致は実に注目に値し、両作品の作者が同一人物であったのではないかと、おそらく推測することもできる。
 - **1048 (LL 1043)** すべての写本および印-
 
 ## p. 607
@@ -2736,8 +2736,8 @@ PDF page 617.
 
 - **(cont.)** （前頁からの続き）-刷本はここで *precibus motus grandaevus Achilles* と読んでいる。しかし、われらのホメーリストを精査した碩学たち――バルト（『雑考』2810頁およびスタティウス註釈、第3巻394頁）、ドルプ（『考察』134頁）、ファン・デル・デュッセン（『序説』45頁）――は、*precibus grandaevi*（すなわちプリアモスの）*motus Achilles* と読まれるべきであると見抜き、注意を促した。そして事柄自体がこれを示している。だが私は *grandaevum* と記して、後続の *adlevat* にかけるほうを好む。
 - **1050 (LL 1045)** *Post haec sua dona reportat*（こののちプリアモスは自らの賜物を持ち帰る）。バルトはスタティウス註釈の前掲箇所で、この語句が健全であるか疑っている。というのも、ホメロスにおいてアキレウスが運ばれてきた贈り物をプリアモスに返還したなどということは決してなく、それどころか贈り物ゆえにヘクトルの遺体を返還するのだと公言しているからである。そこでバルトは *sua dona reportat Achilles, It patriam Priamus*（アキレウスは自らの贈り物を持ち去り、プリアモスは祖国へと向かう）と書くことを欲している。しかし私は、その点にこだわる必要はないと考え、*dona*（賜物）によって、プリアモスに与えられたヘクトルの遺体そのものが意味されていると解する。
-- **1053 (LL 1048)** *Tunc pyra construitur* の代わりに、G. 2 はあたかも解釈であるかのように *Tunc ignis et rogus struitur* を置く。――流布本は *Qua bis sex* と読むが、スタティウス刊本のルタティウスは *quo* としており、こちらのほうがより正しく思われる。――すべての刊本およびそれらとほぼ常に一致する写本 A は *Corpora Troum*（トロイア人の遺体）と読んでいるが、私が手元に持つ残りの写本は *corpora Graium*（ギリシア人の遺体）とし、ルタティウスもスタティウス古註においてそのように引用している。しかしバルトはスタティウス註釈、第3巻395頁でルタティウスの読異に異議を唱え、ヘクトルとともに火葬されたのは断じてトロイア人の遺体であって、ギリシア人のものではないと主張している。彼が考えるには、古代人においては敵が同一の火葬塚に葬られることのないよう厳重な宗教的配慮がなされていたこと、ギリシア人が埋葬のために自軍の遺体をきわめて熱心に回収したことは明白であるからプリアモスの手元にギリシア人の遺体は存在しなかったこと、さらに生きた虜囚を犠牲にすることは恩知らずのプリアモスに対するアキレウスの激しい怒りを招く大きな危険なしにはあり得なかったこと、がその理由である。そして実に、作者はこの件においてヘクトルの葬儀に関するホメロスの記述から離脱しており、パトロクロスの火葬塚に関するホメロスの別の記述（Il. XXIII, 171）や、パラスに捧げられた追悼供儀に関するマロの記述（Aen. XI, 80 以下）に合わせて自らの物語を構成したように思われる。しかしながら、最善の諸写本によって裏づけられている *corpora Graium* という読みは、バルトによって決して退けられるべきではなく、もしそこに何らかの誤りがあるとしても、それは写字生たちの誤りではなく作者自身の過誤である。またバルトが *Troum* と読むべきだとする論拠のすべてに私が賛同できるわけでもない。――*corpora Graium* という読みは、シュラーダーによっても擁護されている（『考察集』第1巻第5章61頁）。パリ編者。
-- **1054 (LL 1049)** 流布刊本および写本は *Quadrupedes* とするが、スタティウス刊本のルタティウスは *quadrupedesque* としており、これを維持すべきと考えた。――流布本は *Adduntur eis*；H. および G. 1 は *adduntur equi* であり、ルタティウスもそのように引用している。G. 2 は *Quadrupedes adducuntur*。――火葬塚に戦車やラッパが加えられたと付け加えている点については、ホメロスにはまったく見られないものであり、おそらくウェルギリウスから不適切に借-
+- **1053 (LL 1048)** *Tunc pyra construitur* の代わりに、G. 2 はあたかも解釈であるかのように *Tunc ignis et rogus struitur* を置く。――流布本は *Qua bis sex* と読むが、スタティウス刊本のルタティウスは *quo* としており、こちらのほうがより正しく思われる。――すべての刊本およびそれらとほぼ常に一致する写本 A は *Corpora Troum*（トロイア人の遺体）と読んでいるが、私が手元に持つ残りの写本は *corpora Graium*（ギリシア人の遺体）とし、ルタティウスもスタティウス古註においてそのように引用している。しかしバルトはスタティウス註釈、第3巻395頁でルタティウスの読異に異議を唱え、ヘクトルとともに火葬されたのは断じてトロイア人の遺体であって、ギリシア人のものではないと主張している。彼が考えるには、古代人においては敵が同一の火葬塚に葬られることのないよう厳重な宗教的配慮がなされていたこと、ギリシア人が埋葬のために自軍の遺体をきわめて熱心に回収したことは明白であるからプリアモスの手元にギリシア人の遺体は存在しなかったこと、さらに生きた者を用いることは恩知らずのプリアモスに対するアキレウスの激しい怒りを招く大きな危険なしにはあり得なかったこと、がその理由である。そして実に、作者はこの件においてヘクトルの葬儀に関するホメロスの記述から離脱しており、パトロクロスの火葬塚に関するホメロスの別の記述（Il. XXIII, 171）や、パラスに捧げられた追悼供儀に関するマロの記述（Aen. XI, 80 以下）に合わせて自らの物語を構成したように思われる。しかしながら、最善の諸写本によって裏づけられている *corpora Graium* という読みは、バルトによって決して退けられるべきではなく、もしそこに何らかの誤りがあるとしても、それは写字生たちの誤りではなく作者自身の過誤である。またバルトが *Troum* と読むべきだとする論拠のすべてに私が賛同できるわけでもない。――*corpora Graium* という読みは、シュラーダーによっても擁護されている（『考察集』第1巻第5章61頁）。パリ編者。
+- **1054 (LL 1049)** 流布刊本および写本は *Quadrupedes* とするが、スタティウス刊本のルタティウスは *quadrupedesque* としており、これを維持すべきと考えた。――流布本は *Adduntur eis*；H. および G. 1 は *adduntur equi* であり、ルタティウスもそのように引用している。G. 2 は *Quadrupedes adducuntur*。――火葬塚に戦車やラッパが加えられたと付け加えている点については、ホメロスにはまったく見られないものであり、おそらくウェルギリウスから不適切に
 
 ## p. 608
 
@@ -2762,7 +2762,7 @@ PDF page 618.
 
 ### 注釈
 
-- **(cont.)** （前頁からの続き）-用されたものであろう。ウェルギリウスはミセヌスの墓について Aen. VI, 232 で次のように述べている: « Imponit suaque arma viro, remumque, tubamque »。しかしウィクトルは『ローマ民族起源論』第9章において、ウェルギリウスのその箇所を引用しつつ、ホメロスによればトロイア時代にはラッパの使用は知られていなかったと指摘している。
+- **(cont.)** （前頁からの続き）借用されたものであろう。ウェルギリウスはミセヌスの墓について Aen. VI, 232 で次のように述べている: « Imponit suaque arma viro, remumque, tubamque »。しかしウィクトルは『ローマ民族起源論』第9章において、ウェルギリウスのその箇所を引用しつつ、ホメロスによればトロイア時代にはラッパの使用は知られていなかったと指摘している。
 - **1055 (LL 1050)** トリヌス版およびスポンダヌス版は G. 2 とともに *Galeaeque graves* を持つ。G. 1、A. および L. は *cavae*；H. は *leves*。流布本は *argutaque tela*；H. は *robustaque*；G. 1、トリヌス版の欄外、およびルタティウス古註は *Argivaque* を持つ。G. 2 は *Archiva*、*Archolica*、*Archuta* とする。
 - **1056 (LL 1051)** H. は *Deponitur Hector*。
 - **1057 (LL 1052)** *Stant circum Iliades*（トロイアの女たちが周りに立つ）。ウェルギリウスはポリュドロスとパラスの葬儀においてこの慣習が遵守されたことを、Aen. III, 65 および XI, 35 の次の行で示している: *Stant circum Iliades crinem de more solutae*。したがって、われらの詩人が用いる *abrumpere crines*（髪を引きちぎる）は、ウェルギリウスの *solvere crines*（髪を解く）と同じ意味である。
@@ -2771,7 +2771,7 @@ PDF page 618.
 - **1061 (LL 1056)** *Flamma namque Ilion illa*（実にイリオンはその炎によって燃えていた）。338 行を参照。
 - **1063 (LL 1058)** H. は *Provolat Andromache*；L. は *mediosque injicere*。
 - **1064 (LL 1059)** G. 2 およびライプツィヒ版は *Quam visa suorum*。
-- **1066 (LL 1061)** H. は *Ceciderunt undique flammae* を持つ。Virg. Aen. VI, 226: « Postquam collapsi cineres, et flamma quievit »。われらの詩人が *robora flammae*（炎の威力／樫材）と呼んでいる表現を、他の誰かが用いたかどうか私は知らない。しかし *robora* は、火葬塚に組み上げられ、火によって焼き尽くされて灰へと崩れ落ちた樫材のことと理解することもできる。マロがミセヌスの火葬塚について Aen. VI, 213 で次のように述べているのと同様である: « pinguem taedis et robore secto Ingentem struxere pyram »。
+- **1066 (LL 1061)** H. は *Ceciderunt undique flammae* を持つ。Virg. Aen. VI, 226: « Postquam collapsi cineres, et flamma quievit »。われらの詩人が *robora flammae*（炎の力／木材）と呼んでいる表現を、他の誰かが用いたかどうか私は知らない。しかし *robora* は、火葬塚に組み上げられ、火によって焼き尽くされて灰へと崩れ落ちた木材のことと理解することもできる。マロがミセヌスの火葬塚について Aen. VI, 213 で次のように述べているのと同様である: « pinguem taedis et robore secto Ingentem struxere pyram »。
 - **1068 (LL 1063)** 3つの写本が *Sed jam siste* を保持しており、私はこれに従った。刊本はあまり良くないことに *Tu jam siste* とする。――シドニウス・アポリナリスも同様に歌っている（Carm. 2）: « Siste, Camena, modos tenues, portumque petenti Jam placido sedeat mihi carminis anchora fundo »。パリ編者。
 
 ## p. 609
@@ -2788,7 +2788,7 @@ PDF page 619.
 
 ### 注釈
 
-- **1069 (LL 1064)** *Calliope*。作者がここでホメロスの詩行の外側において自らのためにムーサに語りかけていることは、彼がホメロスの『イリアス』をラテン語に要約するにあたり、自身の才知と詩人としての務めの双方を発揮したことを示そうとしているように思われる。私はそのことを彼から全面的に否定しようとは思わない。――*Moderare carinam*（船の舵を取れ）。詩人たちが自らの作品を航海になぞらえ、あるいは戦車や四頭立ての二輪戦車になぞらえるのは、実に通例のことであり、スタティウス（Silv. IV, 4, 99）、ネメシアヌス（Cyneg. 59）、クラウディアヌス（『プロセルピナ略奪』第1巻序文）などによってもなされている。しかし、ここでエピローグのほぼ全体を占めている航海の寓意は、この詩の作者が、『ラテン詩文選』(*Anthol. Lat.*) 第3巻エピグラム62に収められ、われわれがこの詩に関する証言集（『テスティモニア』）にも収録した、あの航海に関するエピグラムの作者と同一人物である可能性を少なからず高めている。そのエピグラムにおいて作者は、海辺の別荘で『イリアス』すなわちトロイア戦争を描き記したと述べ、同時に海の危険と田園の平穏とを対比しているのである。この問題については、われわれは序論（『プロエミウム』）においてさらに詳述した。
+- **1069 (LL 1064)** *Calliope*。作者がここでホメロスの詩行の外側において自らのためにムーサに語りかけていることは、彼がホメロスの『イリアス』をラテン語に要約するにあたり、自身の才知と詩人としての務めの双方を発揮したことを示そうとしているように思われる。私はそのことを彼から全面的に否定しようとは思わない。――*Moderare carinam*（船の舵を取れ）。詩人たちが自らの作品を航海になぞらえ、あるいは戦車や四頭立ての馬車になぞらえるのは、実に通例のことであり、スタティウス（Silv. IV, 4, 99）、ネメシアヌス（Cyneg. 59）、クラウディアヌス（『プロセルピナ略奪』第1巻序文）などによってもなされている。しかし、ここでエピローグのほぼ全体を占めている航海の寓意は、この詩の作者が、『ラテン詩文選』(*Anthol. Lat.*) 第3巻エピグラム62に収められ、われわれがこの詩に関する証言集にも収録した、あの航海に関するエピグラムの作者と同一人物である可能性を少なからず高めている。そのエピグラムにおいて作者は、海辺の別荘で『イリアス』すなわちトロイア戦争を描き記したと述べ、同時に海の危険と田園の平穏とを対比しているのである。この問題については、われわれは序論においてさらに詳述した。
 - **1070 (LL 1065)** G. 2 は *Stringentem* と *urgentem* の双方を併記している。――*Paucis remis*（わずかな櫂で）とは、少数の櫂を用いる小さな小舟で、の意である。オリュンピウス『狩猟詩』(*Cyneg.*) 59: « Dum non magna ratis vicinis sueta moveri Litoribus, tutosque sinus percurrere remis »。――またクラウディアヌス前掲箇所（本叢書版第2巻182頁以下、パリ編者）: « Qui dubiis ausus committere flatibus alnum, Quas natura negat, praebuit arte vias, Tranquillis primum trepidus se credidit undis, Litora securo tramite summa legens »。パリ編者。
 - **1071 (LL 1066)** G. は誤って *Namque tenet portum* と記している（私の考えでは）。同様にライプツィヒ版は *Jamque tenes* とする。――H. および G. 1 は *Potentis Homeri* を持つが、G. 2 および流布刊本が持つ *patentis Homeri*（広大なホメーロスの）のほうがはるかに優れている。というのも、詩人はホメーロスの大作を広漠たる外海のように今や測り終えた、と言おうとしているからである。ホラティウスの Carm. II, 16, 1: *in patenti Prensus Aegaeo*（広大なるエーゲ海で捕らえられし者）。――また動詞 *patefecit* は、サレイウス・バッスス『ピソーへの詩』(*Carm. ad Pisonem*) 230 行において、別の注目すべき意味で現れている: « Ausoniamque chelyn gracilis patefecit Horati »。そこで動詞 *patefacere* を「高名にする、世の名声に示す」と正しく解釈できたとすれば、ここでは *patentis Homeri* を「名声が万人にあまねく知れ渡った名高い、誉れ高き詩人の」と解釈することもあながち不当ではあるまい。本巻の前掲箇所註釈（265頁以下）を参照されたい。もっとも私はこの所見をいわば余剰のものとして付け加えるのであり、そのためにヴェルンスドルフの解釈を捨てるべきだとは考えていない。パリ編者。
 - **1072 (LL 1067)** *Submitte rudentes*（索具を降ろせ）：帆を縮めて降ろせ、の意。ウェルギリウスが Georg. IV, 116 で次のように述べたのと同じである: « extremo ni jam sub fine laborum Vela traham, et terris festinem advertere proram »。またスタティウスが『テーバイス』の完成について Silv. IV, 4, 89 で述べているのと同様である: « Jam Sidonios emensa labores Thebais optato collegit carbasa portu »。
@@ -2805,5 +2805,5 @@ PDF page 620.
 
 ### 注釈
 
-- **1074 (LL 1069)** われらの詩人が複数形で *lyras*（リラ琴）と言ったことについて、バルトは『雑考』(*Adv.*) LVIII, 14, 2753 頁で、これは正統なラテン語ではないと断定している。私としてはこれをにわかに断定することは控えたい。むしろ次の点に注意を促したい。すなわち *lyra* や *chelys* は常に抒情詩についてのみ用いられるわけではなく、他の詩、とりわけ叙事詩についても言われるということである。スタティウスの Silv. II, 2, 114 に見られる通りである: « Seu nostram quatit ille chelyn, seu dissona nectit Carmina »（彼は叙事詩のヘクサメトロスとエレゲイアの詩行を意味している）。――*adsis* の代わりに *Ades, inclyta Pallas*。パリ編者。
+- **1074 (LL 1069)** われらの詩人が複数形で *lyras*（リラ琴）と言ったことについて、バルトは『雑考』(*Adv.*) LVIII, 14, 2753 頁で、これはラテン語の語法ではないと断定している。私としてはこれをにわかに断定することは控えたい。むしろ次の点に注意を促したい。すなわち *lyra* や *chelys* は常に抒情詩についてのみ用いられるわけではなく、他の詩、とりわけ叙事詩についても言われるということである。スタティウスの Silv. II, 2, 114 に見られる通りである: « Seu nostram quatit ille chelyn, seu dissona nectit Carmina »（彼は叙事詩のヘクサメトロスとエレゲイアの詩行を意味している）。――*adsis* の代わりに *Ades, inclyta Pallas*。パリ編者。
 - **1075 (LL 1070)** *Jam, Phoebe, peracto*（ポエブスよ、今や詩人の航海が終わりて）。これらの言葉によって、作者はポエブスを祈願した 164 行を振り返っているように思われる。パリ編者。
