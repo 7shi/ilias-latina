@@ -22,12 +22,11 @@ counterparts, from the editions' Japanese drafts:
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
   full Japanese in the edition's ilias-ja.md, by hand; those outside
-  books 1–4 have not yet been reviewed.
+  books 1–5 have not yet been reviewed.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
   INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
-  for books 1–3 have now been unified throughout the index; book 4
-  forms have been corrected in its rows.
+  for books 1–5 have now been unified throughout the index.
 
 The Japanese translation with a commentary in commentary/ja/ is
 finished in all 24 books: translated section by section from the
@@ -42,7 +41,7 @@ Book 1 has been checked against the English sections and summary, all
 have been corrected; the reviewed index headwords have been unified
 throughout index-ja.tsv. Two draft gloss differences remain report-only:
 verse 11, edition 2 (破滅 for "plague"), and verse 46, edition 2
-(機知に富んでいる for "vivid"). Books 5–24 still need their semantic
+(機知に富んでいる for "vivid"). Books 6–24 still need their semantic
 review, and the corrections have not yet been carried over to texts/.
 
 Book 2 has also been checked: 61 sections and the summary, 298 index
@@ -79,14 +78,38 @@ words displaced between verses have been restored, and in armis at
 with the Homeric spelling Leucos preserved in the commentary. The
 proper-name table identifies Aeacides as Ajax, keeps the ambiguity of
 Atrides at 372, and distinguishes names, patronymics and their actual
-verse, commentary and summary occurrences. Book 4 index headwords,
-names in descriptions and notes have been made consistent. Simoisius is シモイシオス in the index;
+verse, commentary and summary occurrences. Reviewed index headwords
+are unified throughout index-ja.tsv, with names in descriptions and
+book 4 notes made consistent. Simoisius is シモイシオス in the index;
 the Homeric Simoeisius remains シモエイシオス in the commentary.
 Two draft differences remain report-only, both in edition 2: at 360
 the added Japanese verse gloss includes 冷たい for rigido; at 364 the
 Japanese narrows a hardened weapon to a spear with a hardened point
 and adds a gloss of the quoted Latin. The different readings and
-identifications at 360, 368 and 372 are preserved.
+identifications at 360, 368 and 372 are preserved. Aetolia uses
+アイトリア in the shared name table and the book 5 mentions.
+
+Book 5 has been checked: 45 sections and the summary, all 149 verses
+(389–537), 197 index rows and 73 notes. Words displaced between verses
+have been restored, including the seeing at 389, the heavy spear at
+406, Tydides at 459 and the fields at 531. Maeonides and Oenides are
+retained as patronymics; Phaestus uses パイストス, Maeonia マイオニア,
+and Paphlagonians パフラゴニア人. The missile at 478 is not restricted
+to an arrow; at 479 the possessive belongs to the decapitated man,
+not to the sword; at 535 ipsa refers to Pallas herself. The index
+corrects Mavortian Hector to マウォルスのヘクトル, not a son of Mars.
+Reviewed headwords are consistent throughout index-ja.tsv, and names
+in book 5 descriptions and notes agree with the commentary. The
+proper-name table has 111 rows with actual verse, commentary and
+summary locators, separates names from patronymics and adjectives,
+and corrects mistaken identifications and relationships. The different
+identifications of Atrides at 510 remain unresolved as in the English.
+Seven draft differences remain report-only, all in edition 2: at 414
+下層の時代 renders a later age; at 443 praise and a description of
+restoration are added; at 451 鼻 renders nostril; at 471 兄 specifies
+an older brother; at 485 and 525 Japanese glosses of Latin quotations
+are added; at 512 手元の狂い specifies a cause for the missed cast.
+These non-name draft differences and the files in texts/ are unchanged.
 
 Next:
 
@@ -165,7 +188,7 @@ way, in the verses and in the commentary.
   Pelides ペリデス, Aeacides アエアキデス, Tydides テュディデス,
   Priamides プリアミデス, Thestorides テストリデス, Dardanides
   ダルダニデス, Laertiades ラエルティアデス, Thalysiades タリュシアデス,
-  Imbrasides インブラシデス, Oenides オエニデス, Somnus
+  Imbrasides インブラシデス, Maeonides マエオニデス, Oenides オエニデス, Somnus
   ソムヌス, Aurora アウロラ, Mavors マウォルス, Ignipotens イグニポテンス,
   Mulciber ムルキベル, Tritonia トリトニア, Cytherea キュテレア,
   Cygneis キュグネイス, Ilion
@@ -175,7 +198,8 @@ way, in the verses and in the commentary.
 - Adjectives of names as 「〜の」: Mavortian Hector マウォルスのヘクトル,
   Telamonian Ajax テラモンのアイアス, Dardanian ダルダニアの, Ilian
   イリオンの, Argive アルゴスの, Doric ドリスの, Pelopeian ペロプス家の,
-  Ithacan イタケ人, Paeonian パイオンの.
+  Ithacan イタケ人, Paeonian パイオンの, Calydonian カリュドンの,
+  Libyan リビュアの.
 - Persons: Achilles アキレウス, Hector ヘクトル, Agamemnon アガメムノン,
   Menelaus メネラオス, Priam プリアモス, Paris パリス, Alexander
   アレクサンドロス, Helen ヘレネ, Hecuba ヘカベ, Andromache アンドロマケ,
@@ -191,7 +215,7 @@ way, in the verses and in the commentary.
   Polypoetes ポリュポイテス, Amarynceus アマリュンケウス,
   Charopus カロプス, Clonius クロニオス, Phidippus ペイディッポス,
   Euhaemon エウアイモン, Echemmon エケムモン, Plisthenes プレイステネス,
-  Eussorus エウソロス; the others
+  Eussorus エウソロス, Phaestus パイストス; the others
   in the same way, from the Greek, by the same rule for long vowels.
 - Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
   Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
