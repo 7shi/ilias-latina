@@ -181,10 +181,14 @@ of the work and their state are described in [PLAN.md](PLAN.md).
 The tools require [uv](https://docs.astral.sh/uv/), `make`, `curl` and
 poppler-utils.  See [src/README.md](src/README.md) for usage.
 
-[commentary/](commentary/README.md) holds, in [en/](commentary/en/), an
-English translation with a commentary, made with an LLM section by section from the text of The
-Latin Library, the notes of the editions that apply to it and the
-*Iliad*.
+[commentary/](commentary/README.md) holds an
+[English translation and commentary](commentary/en/README.md), made
+section by section from the text of The Latin Library, the notes of the
+editions that apply to it and the Greek of the *Iliad*, and a
+[Japanese translation](commentary/ja/README.md) made from the English.
+Both versions are complete and checked in all 24 books. Their directory
+guides describe the files, proper-name tables, review records and the
+models responsible for production and proofreading.
 
 ## References
 

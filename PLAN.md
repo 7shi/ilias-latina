@@ -78,11 +78,13 @@ corrected by hand from then on (see commentary/README.md):
 - alignment.tsv: the lines of the *Iliad* each verse renders
   (`make homer` in src/ downloads the Greek, not committed); it has
   been reviewed book by book against the Greek;
-- commentary-en.tsv: the notes of the editions that apply to the text of
-  LL;
-- index-en.tsv: the rows of the indexes of Plessis and Vollmer at their
-  verses, with the headword, its English, the form and the
-  description in columns of their own.
+- commentary-en.tsv and commentary-ja.tsv: the English and Japanese
+  notes of the editions that apply to the text of LL, with matching
+  rows and columns;
+- index-en.tsv and index-ja.tsv: the English and Japanese rows of the
+  indexes of Plessis and Vollmer at their verses, with the Latin
+  headword, translated headword (`headword-en` or `headword-ja`),
+  quoted form and description in columns of their own.
 
 ### 4. The sections
 
@@ -98,10 +100,10 @@ translation and checking workflow is recorded in
 
 ## Correcting the data
 
-- A note in commentary-en.tsv that seems wrong is checked against the
-  original in the edition's `ilias.md` (and the page images if the
+- A note in commentary-en.tsv or commentary-ja.tsv that seems wrong
+  is checked against the original in the edition's `ilias.md` (and the page images if the
   text itself is in doubt) before the translation follows or departs
-  from it.  The notes are the English drafts of the editions' Latin
+  from it.  The notes are translations of the editions' Latin
   (or French) notes, and the bracketed glosses of a lemma were added
   in the drafts, not by the editors (see the
   [individual note example](commentary/en/PROOFREADING.md#individual-note-example)).
@@ -109,13 +111,13 @@ translation and checking workflow is recorded in
   differs from the original; an original that is itself mistaken or
   open to question is left as it is, since the translation does not
   have to follow it.  When the user agrees, it is corrected in every
-  copy: commentary-en.tsv, the edition's `ilias-{en,ja}.md` and
-  `COMMENTARY-{en,ja}.md`; then `make notes` in texts/.  Sections
-  translated after the wrong note are corrected too.
+  affected copy: commentary-{en,ja}.tsv, the edition's
+  `ilias-{en,ja}.md` and `COMMENTARY-{en,ja}.md`; then `make notes` in
+  texts/. Sections translated after the wrong note are corrected too.
 - An index row that seems wrong is checked in the edition's index.md
   and ilias.md (the page images as a last resort) and reported.  It is
   corrected in double braces in index.md and index-{en,ja}.md, without
-  braces in INDEX*.tsv, and by hand in commentary/index-en.tsv; then
+  braces in INDEX*.tsv, and by hand in commentary/index-{en,ja}.tsv; then
   `make notes` in texts/.
 - The translations of the editions' files remain drafts outside the
   checked items. Other draft differences are reported before correction;
