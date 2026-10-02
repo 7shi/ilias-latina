@@ -11,7 +11,7 @@
 
 ## p. 3
 
-- **5** Ipsorum …。『イーリアス』I, 4 αὐτοὺς δέ を参照。
+- **5** Ipsorum …。『イリアス』I, 4 αὐτοὺς δέ を参照。
 
 ## p. 4
 
@@ -27,29 +27,29 @@
 
 ## p. 13
 
-- **167** Leitus …（『イーリアス』II, 494 を参照）。
+- **167** Leitus …（『イリアス』II, 494 を参照）。
 - **169** Boeoti（同所 495 および 509）。…
 
 ## p. 14
 
-- **184** Euryalus …――duces クーテンが正当にも保持。『イーリアス』II, 563 以下 ἡγεμόνευε、およびヴァイティングが見事に称賛する『アエネーイス』II, 261「Thessandrus Sthenelusque duces」を参照。…
-- **190** Euaemone …（『イーリアス』II, 736 を参照）。
+- **184** Euryalus …――duces クーテンが正当にも保持。『イリアス』II, 563 以下 ἡγεμόνευε、およびヴァイティングが見事に称賛する『アエネーイス』II, 261「Thessandrus Sthenelusque duces」を参照。…
+- **190** Euaemone …（『イリアス』II, 736 を参照）。
 
 ## p. 15
 
-- **195** … Nireus ボンダム、ヒヒト（『イーリアス』II, 671 以下）。
-- **196** Tlepolemus …（『イーリアス』II, 653 を参照）。
+- **195** … Nireus ボンダム、ヒヒト（『イリアス』II, 671 以下）。
+- **196** Tlepolemus …（『イリアス』II, 653 を参照）。
 - **199** At Prothous …（同所 756）。… Magnes …（同所）。…
 
 ## p. 16
 
-- **206-207** Gunei Ira … 『イーリアス』II, 748）。
+- **206-207** Gunei Ira … 『イリアス』II, 748）。
 - **210** Menestheus …（同所 552）。
 - **212** Thalpius …（同所 620）。
 
 ## p. 18
 
-- **240** Amphius …（『イーリアス』II, 830）。… Pylaeus …（同所 842）。
+- **240** Amphius …（『イリアス』II, 830）。… Pylaeus …（同所 842）。
 - **241** Nastes …（同所 870）。
 - **242, 243, 244** Hodius, Pyraechmes, Mesthles …（同所 856, 848, 864）。
 - **245** Hippothous …（同所 840）…
@@ -60,43 +60,43 @@
 
 ## p. 27
 
-- **361** Thalysiades …（『イーリアス』IV, 458）。
+- **361** Thalysiades …（『イリアス』IV, 458）。
 - **363** Anthemione …（同所 473）。
 - **367** conisus …（『アエネーイス』V, 642 および X, 127 より校訂）。
 
 ## p. 28
 
-- **373** Democoonta …（『イーリアス』IV, 499）。
+- **373** Democoonta …（『イリアス』IV, 499）。
 - **376** … moribundo …（『変身物語』V, 83 および XII, 118 を参照）。
-- **377** Jamque Amarynciden …（『イーリアス』IV, 517）。
+- **377** Jamque Amarynciden …（『イリアス』IV, 517）。
 - **378** Pirous …（同所 520）。
 
 ## p. 31
 
-- **405** Phegeaque …（『イーリアス』V, 9 以下）。…
+- **405** Phegeaque …（『イリアス』V, 9 以下）。…
 
 ## p. 32
 
-- **427** Hodius …（『イーリアス』V, 39）。…
-- **430** Maeoniden Phaestum …（『イーリアス』V, 43）。…
-- **431** … Strophio …（『イーリアス』V, 49）。
+- **427** Hodius …（『イリアス』V, 39）。…
+- **430** Maeoniden Phaestum …（『イリアス』V, 43）。…
+- **431** … Strophio …（『イリアス』V, 49）。
 
 ## p. 33
 
-- **432-433** Meriones Phereclum（『イーリアス』V, 59）、vibrata perculit, Pedaeumque Meges（『イーリアス』V, 69）…
-- **434** … Hypsenora …（『イーリアス』V, 76 以下）。
-- **443** Astynoum, Hypirona …（『イーリアス』V, 144）。…
+- **432-433** Meriones Phereclum（『イリアス』V, 59）、vibrata perculit, Pedaeumque Meges（『イリアス』V, 69）…
+- **434** … Hypsenora …（『イリアス』V, 76 以下）。
+- **443** Astynoum, Hypirona …（『イリアス』V, 144）。…
 
 ## p. 34
 
-- **445-446** Polyidon, Thoonem …（『イーリアス』V, 148, 152）。
-- **447** … Chromium, Echemona …（『イーリアス』V, 159–160）。
+- **445-446** Polyidon, Thoonem …（『イリアス』V, 148, 152）。
+- **447** … Chromium, Echemona …（『イリアス』V, 159–160）。
 
 ## p. 38
 
-- **517** Crethona …（『イーリアス』V, 541 以下）。
-- **518, 520** Orsilochum, Antilochique Mydon …（『イーリアス』同所および 580）。
-- **523** Tlepolemus …（『イーリアス』V, 628）。
+- **517** Crethona …（『イリアス』V, 541 以下）。
+- **518, 520** Orsilochum, Antilochique Mydon …（『イリアス』同所および 580）。
+- **523** Tlepolemus …（『イリアス』V, 628）。
 
 ## p. 49
 
@@ -104,11 +104,11 @@
 
 ## p. 50
 
-- **667, 672** Agelaus, Gorgythiona …（『イーリアス』VIII, 257 および 302）。
+- **667, 672** Agelaus, Gorgythiona …（『イリアス』VIII, 257 および 302）。
 
 ## p. 54
 
-- **710** … Eumedides シュラーダー（『イーリアス』X, 314）。
+- **710** … Eumedides シュラーダー（『イリアス』X, 314）。
 
 ## p. 56
 
@@ -120,4 +120,4 @@
 
 ## p. 74
 
-- **921** … 筆者としてはクーテンの提案に従って ignibus を保持した。『イーリアス』XXI, 342, 356, 361, 365 を参照。…
+- **921** … 筆者としてはクーテンの提案に従って ignibus を保持した。『イリアス』XXI, 342, 356, 361, 365 を参照。…

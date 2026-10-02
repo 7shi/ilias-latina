@@ -582,7 +582,7 @@ PDF page 24.
 - **(cont.)** 同氏（Wernsdorf）: poyorus B piereus FNV pigereus E（第2筆により2番目の e の上に i）M pierius（両方の i は訂正による）L
 - **246** Alcinooque Kooten の友人: Axinonoq; 0（Ixinoneq;、ただし I と e は第2筆の訂正による L Anxinonoq; N Anxionoq; M Axionoq; F Hesione B） | cromiusq; N: croniusq; 0 | atque Kooten の友人: et 0 | eunomus 0（euomonus E、-uius M、-nus B、L では第2筆により n が d に訂正）
 - **247** phorcus（第2筆が行間に fortis を記入）E: forcus 他の諸本（V は余白に fortis）
-- **249** Pylaemen 私の校訂: chorebus 0（E 第2筆が行間に borelus を記入）Coroebus 通俗本。しかしこの人物はホメーロスにおいて言及されておらず、Pylaemenes だけがいまだ名指されずに残っている。書写者たちがウェルギリウスから彼を持ち込んだのである。上掲の Chromis の代わりに Chromius と同様、名前を少し変えて Pylaemen とした
+- **249** Pylaemen 私の校訂: chorebus 0（E 第2筆が行間に borelus を記入）Coroebus 通俗本。しかしこの人物はホメロスにおいて言及されておらず、Pylaemenes だけがいまだ名指されずに残っている。書写者たちがウェルギリウスから彼を持ち込んだのである。上掲の Chromis の代わりに Chromius と同様、名前を少し変えて Pylaemen とした
 - **251** Uicissentq; EL | ni 0: L のみ nisi
 - **Lib. III** 大半の写本（MN は省略）
 - **253** Cum EL（これにおいて C はおそらく訂正による）: Dum 他の諸本 | exicium 0: excidium（M はこのとおり）第1筆により exicium に訂正 E
@@ -853,7 +853,7 @@ PDF page 30.
 ### 校訂装置
 
 - **371** 『ベレンガリウス事績録』II 213 参照 | moribundis Higt
-- **372** ホメーロスはアトレウスの子の代わりにオデュッセウスを名指しているので、Bondam は Hinc Laertiades を、Higt は Imp. Aeolides を、Weytingh は Imp. ast Ithacus を推測した
+- **372** ホメロスはアトレウスの子の代わりにオデュッセウスを名指しているので、Bondam は Hinc Laertiades を、Higt は Imp. Aeolides を、Weytingh は Imp. ast Ithacus を推測した
 - **373** Democoonta Bondam: Demophonta 0（-phoonta EV -phota B）
 - **374** Timpora 0、E 第2筆により訂正 | transadigit L: transadiit BFV transegit MN（ここでは e は訂正による）および（削去箇所に egit）E | uaginaq; et F uagina et V
 - **376** moribundo van der Dussen: moribundus 0 gemibundus ς
@@ -1409,7 +1409,7 @@ PDF page 42.
 - **630** uario] miro E
 - **631** hec 0: et L hoc F G は省略（Postq; e B） | extimplo BEG extinplo MN | troium E
 - **632** teget MN
-- **635** : 『ベレンガリウス事績録』III 90 参照
+- **635** : 『ベレンガリウスの事績』III 90 参照
 - **637** eternae MN
 
 ## p. 39
@@ -1648,7 +1648,7 @@ PDF page 47.
 - **Lib. XI** EL はここで第11巻を始める、BFV は X（GMN は省略）
 - **741** Luxit terra L
 - **743** Dardanium（E では第1筆が行間に i を記入）0、ファーノ版により訂正
-- **744** Telorumq; MN | et ferrum から 746 の acies までの語句を『ベレンガリウス事績録』II 272–74 が有する | et FMNV: BEGL は省略 | ferrum ferro BMN 『ベレンガリウス事績録』 | flictu 私の校訂: mixtis 0 『ベレンガリウス事績録』（少なくとも mixti）
+- **744** Telorumq; MN | et ferrum から 746 の acies までの語句を『ベレンガリウスの事績』II 272–74 が有する | et FMNV: BEGL は省略 | ferrum ferro BMN 『ベレンガリウスの事績』 | flictu 私の校訂: mixtis 0 『ベレンガリウスの事績』（少なくとも mixti）
 - **745** stridens E | mucronibus 0 『ベレンガリウス事績録』、私が訂正 | utriq; L
 - **746** intusq; fluit MN
 - **748** Antiphonem（-thifonem E）0、Kooten により訂正 | E のみ fūdit
@@ -1924,7 +1924,7 @@ PDF page 53.
 - **863** sq. Kooten は改竄と考える | liquido redimitum lumine Olympum 私の校訂: liquidas（-dis FLV）redimitas undique nymphas 0 liquido redimitas lumine Nymphas Santen（しかしこれらは下方においてこそ置かれるべき場所がある）
 - **post 863** 0 はこの行を有する: Fecerat et mira liquidas Nereidas arte（liq. mira MN; mire BEGV mirę F; nereidos BEGLV; arces BEGV arce L arcę F; arte は E 第2筆により訂正）: 873 参照
 - **864** Omnes et (ac) terras 私の校訂: Oceanum terris（in t. E 第2筆）0 | et 0: sed E L は省略 | nereia L
-- **865—67** 『ベレンガリウス事績録』I 108–110 が有する
+- **865—67** 『ベレンガリウスの事績』I 108–110 が有する
 - **865** Astror. EG: Annor. 他の諸本、『ベレンガリウス事績録』
 - **866** arctus E（第2筆により u の上に o）G 『ベレンガリウス事績録』artos B arcton V artus 他の諸本
 
@@ -1964,7 +1964,7 @@ PDF page 54.
 - **875** Terreger̃ N Terga gerunt FM Tergager̃（a は訂正による）V | むしろ lustra fer. としたい
 - **877** annosaq; M: animosaq; 他の諸本（aniosaq; B）、ただし L については定かでない
 - **879** decernit BE | serenus E; seuera Heinsius
-- **880—83**, 85, 88 『ベレンガリウス事績録』I 64–69 が有する（880 は変更なし）
+- **880—83**, 85, 88 『ベレンガリウスの事績』I 64–69 が有する（880 は変更なし）
 - **880** castum（行間に ł castę を記入）F
 - **881** haec 通俗本: et 0 『ベレンガリウス事績録』 | dextra tympana 通俗本: dextera timpana M timpana (tymp.) dextera 他の諸本、『ベレンガリウス事績録』 | pulsant MN pulsant V
 - **882** Illa] Atque 『ベレンガリウス事績録』 | この行で B は終わる
@@ -2338,7 +2338,7 @@ PDF page 62.
 - **1042** L は他を省略して duum tu
 - **1043** precibus motus（pr. mores L motus precibus MN）grandeuus 0、van Dorp により訂正
 - **1046** It p. Barth: In p. 0（In p. it L. Mueller） | G を除き諸写本は tristesque
-- **1048—51** Lactantius が Statius Theb. VI 121 への注で引用（「ホメーロスはヘクトールの葬儀において言う」）
+- **1048—51** Lactantius が Statius Theb. VI 121 への注で引用（「ホメロスはヘクトルの葬儀において言う」）
 - **1048** Tunc Lactantius | quo L, Lactantius: quę E qua 他の諸本
 - **1049** Quadrupedesque Lactantius: Quadrupedes 0（Consequitur traduntur E Quadrupedes aduitur ped、この ped は点線で抹消 L）
 - **1050** ocreaeque 私の校訂: cau≡eq; F caueq; V（cau(a)e EGL Lactantius cane MN | arg≡iag; N argiaq; M

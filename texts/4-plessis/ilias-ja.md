@@ -58,7 +58,7 @@ PDF page 69.
 ### 注釈
 
 - **2** quae ヒヒト。
-- **5** Ipsorum アヴェ。『イーリアス』I, 4 αὐτοὺς δέ を参照。
+- **5** Ipsorum アヴェ。『イリアス』I, 4 αὐτοὺς δέ を参照。
 - **6** confiebat ヒヒト（他の校訂者らとともに）。
 - **7** Volverunt — turbas アヴェ（p. V および VI を参照）。Ex quo contulerant — pugnas 通読。Ut primum tulerant — pugnas ベーレンス。Versarant ex quo — pugnas デーリング。
 
@@ -493,7 +493,7 @@ PDF page 79.
 
 - **156** Dux omnis jubet atque aptari c. p. ベーレンス。――corpora ヒヒト。
 - **162** penates 旧刊本、クーテン。
-- **167** Leitus ボンダム（『イーリアス』II, 494 を参照）。
+- **167** Leitus ボンダム（『イリアス』II, 494 を参照）。
 - **169** Boeoti（同所 495 および 509）。Boeotas ウェルンスドルフ。
 
 ## p. 14
@@ -534,10 +534,10 @@ PDF page 80.
 
 - **181** Longa quaterdenis シュラーダー。
 - **183** forti] multo シェンクル。
-- **184** Euryalus ボンダム、ヒヒト。――duces クーテンが正当にも保持。『イーリアス』II, 563 以下 ἡγεμόνευε、およびヴァイティングが見事に称賛する『アエネーイス』II, 261「Thessandrus Sthenelusque duces」を参照。ferox ウェルンスドルフ（ミュラーとベーレンスは脱落を示した）。
+- **184** Euryalus ボンダム、ヒヒト。――duces クーテンが正当にも保持。『イリアス』II, 563 以下 ἡγεμόνευε、およびヴァイティングが見事に称賛する『アエネーイス』II, 261「Thessandrus Sthenelusque duces」を参照。ferox ウェルンスドルフ（ミュラーとベーレンスは脱落を示した）。
 - **185** pulsantes — fluctus ベーレンス（186行で bisque ではなく bis と書いた）。――pontum 通読。
 - **187** acer, uterque ウェルンスドルフ。
-- **190** Euaemone ボンダム。Euhaemone ミュラー（『イーリアス』II, 736 を参照）。
+- **190** Euaemone ボンダム。Euhaemone ミュラー（『イリアス』II, 736 を参照）。
 
 ## p. 15
 
@@ -578,8 +578,8 @@ PDF page 81.
 - **191** Danaum クーテンが復元。Grajum 通読（オウィディウス『変身物語』XIII, 281）。――murus] ductor 旧刊本、ウェルンスドルフ。
 - **193** Thessalides ではないか？
 - **194** sulcarunt 通読。
-- **195** ab Sume シェンクル。ウェルンスドルフはすでに注記で ex Syme を提案しており、クーテンも支持した。同様の考えはかつてスーリンガーにも浮かび、サンテンも不満としなかった。『イーリアス』II, 671 を参照。――secuit freta ベーレンス注記。――Nireus ボンダム、ヒヒト（『イーリアス』II, 671 以下）。
-- **196** Tlepolemus バルト（『イーリアス』II, 653 を参照）。
+- **195** ab Sume シェンクル。ウェルンスドルフはすでに注記で ex Syme を提案しており、クーテンも支持した。同様の考えはかつてスーリンガーにも浮かび、サンテンも不満としなかった。『イリアス』II, 671 を参照。――secuit freta ベーレンス注記。――Nireus ボンダム、ヒヒト（『イリアス』II, 671 以下）。
+- **196** Tlepolemus バルト（『イリアス』II, 653 を参照）。
 - **199** At Prothous ボンダム（同所 756）。――Magnes シュラーダー、ヒヒト（同所）。――longis は筆者校訂、magnis ボンダム（Martius Euboicis ワッケル）。
 
 ## p. 16
@@ -620,7 +620,7 @@ PDF page 82.
 
 ### 注釈
 
-- **206-207** Gunei Ira 筆者校訂（175行参照）。Guneus Ire 通読（Guneus ボンダム、『イーリアス』II, 748）。
+- **206-207** Gunei Ira 筆者校訂（175行参照）。Guneus Ire 通読（Guneus ボンダム、『イリアス』II, 748）。
 - **210** Menestheus ボンダム（同所 552）。
 - **211** quot シュラーダー。――addit ウェルンスドルフ。
 - **212** Thalpius ボンダム（同所 620）。
@@ -708,7 +708,7 @@ PDF page 84.
 
 ### 注釈
 
-- **240** Amphius ボンダム（『イーリアス』II, 830）。Amphios ミュラー。――Pylaeus ボンダム（同所 842）。
+- **240** Amphius ボンダム（『イリアス』II, 830）。Amphios ミュラー。――Pylaeus ボンダム（同所 842）。
 - **241** Nastes ボンダム（同所 870）。
 - **242, 243, 244** Hodius, Pyraechmes, Mesthles ボンダム（同所 856, 848, 864）。
 - **245** Hippothous クーテン（同所 840）。Hipp. Acamasque ivere ベーレンス。――et ウェルンスドルフ。
@@ -1059,7 +1059,7 @@ PDF page 93.
 ### 注釈
 
 - **360** demersus in 旧刊本。demersus ad ベーレンス。
-- **361** Thalysiades ボンダム（『イーリアス』IV, 458）。
+- **361** Thalysiades ボンダム（『イリアス』IV, 458）。
 - **363** Anthemione ボンダム（同所 473）。
 - **365-366** 明らかに損なわれた箇所を筆者ができる限り校訂した。365行の後に1行が失われたとアヴェは推測する。
 - **367** conisus ウェルンスドルフ（『アエネーイス』V, 642 および X, 127 より校訂）。
@@ -1104,9 +1104,9 @@ PDF page 94.
 - **370** tristi ベーレンスが復元。
 - **371** moribundis ヒヒト。
 - **372** Impiger Aeolides ヒヒト。Impiger ast Itachus ヴァイティング。Hinc Laertiades ボンダム。
-- **373** Democoonta ボンダム（『イーリアス』IV, 499）。
+- **373** Democoonta ボンダム（『イリアス』IV, 499）。
 - **376** Occidit ウェルンスドルフ、クーテン。――moribundo デュッセン（『変身物語』V, 83 および XII, 118 を参照）。
-- **377** Jamque Amarynciden シュラーダー（『イーリアス』IV, 517）。
+- **377** Jamque Amarynciden シュラーダー（『イリアス』IV, 517）。
 - **378** Pirous シュラーダー（同所 520）。
 - **381** animosa クーテン、ミュラーが支持。
 
@@ -1212,7 +1212,7 @@ PDF page 97.
 
 - **402** furit ウェルンスドルフ、ベーレンスが採用。
 - **404** fremibundus ベーレンス。
-- **405** Phegeaque ヒヒト（『イーリアス』V, 9 以下）。――Phegeus シュラーダー、ヒヒト。praeceps を写本からウェルンスドルフが保持。
+- **405** Phegeaque ヒヒト（『イリアス』V, 9 以下）。――Phegeus シュラーダー、ヒヒト。praeceps を写本からウェルンスドルフが保持。
 - **407** Vibratumque ウェルンスドルフが採用。
 
 ## p. 32
@@ -1254,10 +1254,10 @@ PDF page 98.
 - **417** derepta ウェルンスドルフ、ベーレンス。discerpta — viscera バルト、クーテン、ミュラー。
 - **424** acer 旧刊本、ウェルンスドルフ。
 - **425** vulnera 同氏。
-- **427** Hodius ボンダム（『イーリアス』V, 39）。――jactae クーテンが採用（『アエネーイス』X, 733 を参照）。vasto ウェルンスドルフ。vastae 通読。
+- **427** Hodius ボンダム（『イリアス』V, 39）。――jactae クーテンが採用（『アエネーイス』X, 733 を参照）。vasto ウェルンスドルフ。vastae 通読。
 - **429** ferit シュラーダー、クーテン、ベーレンス。――adversa parte 通読。
-- **430** Maeoniden Phaestum シュラーダー（『イーリアス』V, 43）。――laetus ミュラーが保持。Atrides ヒヒトとシュラーダーより通読。
-- **431** E ベーレンス。Et 通読。――Strophio シュラーダー（『イーリアス』V, 49）。
+- **430** Maeoniden Phaestum シュラーダー（『イリアス』V, 43）。――laetus ミュラーが保持。Atrides ヒヒトとシュラーダーより通読。
+- **431** E ベーレンス。Et 通読。――Strophio シュラーダー（『イリアス』V, 49）。
 
 ## p. 33
 
@@ -1293,10 +1293,10 @@ PDF page 99.
 
 ### 注釈
 
-- **432-433** Meriones Phereclum（『イーリアス』V, 59）、vibrata perculit, Pedaeumque Meges（『イーリアス』V, 69）シュラーダー。――tum ミュラー。
-- **434** metuentem ベーレンス。vementem ミュラー。fugientem ヒヒト。――Hypsenora ボンダム（『イーリアス』V, 76 以下）。
+- **432-433** Meriones Phereclum（『イリアス』V, 59）、vibrata perculit, Pedaeumque Meges（『イリアス』V, 69）シュラーダー。――tum ミュラー。
+- **434** metuentem ベーレンス。vementem ミュラー。fugientem ヒヒト。――Hypsenora ボンダム（『イリアス』V, 76 以下）。
 - **439** derexit ベーレンス。direxit 通読。
-- **443** Astynoum, Hypirona ボンダム（『イーリアス』V, 144）。――in, tendit ミュラーが復元。
+- **443** Astynoum, Hypirona ボンダム（『イリアス』V, 144）。――in, tendit ミュラーが復元。
 
 ## p. 34
 
@@ -1336,8 +1336,8 @@ PDF page 100.
 
 ### 注釈
 
-- **445-446** Polyidon, Thoonem ボンダム（『イーリアス』V, 148, 152）。
-- **447** infestos ミュラー、ベーレンス。――Chromium, Echemona ボンダム（『イーリアス』V, 159–160）。
+- **445-446** Polyidon, Thoonem ボンダム（『イリアス』V, 148, 152）。
+- **447** infestos ミュラー、ベーレンス。――Chromium, Echemona ボンダム（『イリアス』V, 159–160）。
 - **450** turpi ブルマン写本より筆者校訂。tristi 通読。
 - **453** Tydeius ハインシウス。
 - **455** jactisque クーテン。
@@ -1520,10 +1520,10 @@ PDF page 104.
 
 ### 注釈
 
-- **517** Crethona ヒヒト（『イーリアス』V, 541 以下）。
-- **518, 520** Orsilochum, Antilochique Mydon ボンダム（『イーリアス』同所および 580）。
+- **517** Crethona ヒヒト（『イリアス』V, 541 以下）。
+- **518, 520** Orsilochum, Antilochique Mydon ボンダム（『イリアス』同所および 580）。
 - **521** subiit] sequitur ウェルンスドルフ。bellum ミュラー。
-- **523** Tlepolemus ボンダム（『イーリアス』V, 628）。
+- **523** Tlepolemus ボンダム（『イリアス』V, 628）。
 - **528** fortissima ブルマン写本およびサンテン写本より筆者校訂。
 
 ## p. 39
@@ -1991,7 +1991,7 @@ PDF page 116.
 
 ### 注釈
 
-- **667, 672** Agelaus, Gorgythiona ボンダム（『イーリアス』VIII, 257 および 302）。
+- **667, 672** Agelaus, Gorgythiona ボンダム（『イリアス』VIII, 257 および 302）。
 - **675** incautum] extentum ベーレンス。
 - **678** Adversaque acies inversas c. l. ベーレンス。しかし 903行を参照。
 - **679** Sic ミュラーが復元。
@@ -2147,7 +2147,7 @@ PDF page 120.
 ### 注釈
 
 - **708** pectora ミュラー。
-- **710** Tros シュラーダー。Eumediades ミュラー。Eumedides シュラーダー（『イーリアス』X, 314）。
+- **710** Tros シュラーダー。Eumediades ミュラー。Eumedides シュラーダー（『イリアス』X, 314）。
 - **716** quodsin ベーレンス。
 - **726** Consilium Priami totam remque ord. g. ベーレンス。
 
@@ -2860,7 +2860,7 @@ PDF page 140.
 
 ### 注釈
 
-- **921** rabidae ベーレンス。――ne] qua ベーレンス。――ictibus 旧刊本、ウェルンスドルフ。imbribus ミュラー。――筆者としてはクーテンの提案に従って ignibus を保持した。『イーリアス』XXI, 342, 356, 361, 365 を参照。――Asseruit rapidasque coercuit ignibus undas ヴァイティング。
+- **921** rabidae ベーレンス。――ne] qua ベーレンス。――ictibus 旧刊本、ウェルンスドルフ。imbribus ミュラー。――筆者としてはクーテンの提案に従って ignibus を保持した。『イリアス』XXI, 342, 356, 361, 365 を参照。――Asseruit rapidasque coercuit ignibus undas ヴァイティング。
 - **929** Aut ベーレンスが支持。
 - **930** Aufugiunt ミュラー。Defugiunt ベーレンス。――Diffugiunt と進んで書きたいところである（『アエネーイス』IX, 755 を参照）。
 

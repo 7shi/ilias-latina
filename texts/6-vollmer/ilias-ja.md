@@ -25,7 +25,7 @@ PDF page 159.
 
 ### 証言
 
-- **7** エルメンリクス『グリマルドゥス宛書簡』(850–55年頃)、*Mon. Germ. hist. Epist.* V 545, 24: 「ホメーロスの『イーリアス』において E が詩的に短音化されている: *Pertulĕrunt ex quo discordia pectora turmas*」
+- **7** エルメンリクス『グリマルドゥス宛書簡』(850–55年頃)、*Mon. Germ. hist. Epist.* V 545, 24: 「ホメロスの『イリアス』において E が詩的に短音化されている: *Pertulĕrunt ex quo discordia pectora turmas*」
 
 ### 校訂装置
 
@@ -127,7 +127,7 @@ PDF page 161.
 - **53** causam CDEFLMN, causas PWBGV | malorum Ω, laborum L
 - **59** P は省略 | Thestoriden W, -em または -ē 他の諸本 | compellat Ω, -it L¹VB²
 - **60** tum Ω, tunc GLVE²
-- **63** inuitos Ω, inuisos αβδ: 〜と解せよ: 王を愛していなかった女; amores はクリューセーイス自身を指す
+- **63** inuitos Ω, inuisos αβδ: 〜と解せよ: 王を愛していなかった女; amores はクリュセイス自身を指す
 - **64** reddit Ω, reddi DW²
 - **66** arces Ω, horas G
 
@@ -301,7 +301,7 @@ PDF page 165.
 
 ### 校訂装置
 
-- **134** ducem Ω: 彼らはアガメムノーンをも駆り立てる
+- **134** ducem Ω: 彼らはアガメムノンをも駆り立てる
 - **135** collaudat (-ans BW²L²) grates (gratesque E) agit (ait M) Ω
 - **136** Hic Ω, Hinc ς: あるいは His か? | tunc PWCFGNV, tum BDELM | non Ω, nec VE²
 - **137** B はこの行を省略。G¹ が 137, 138 を書いたが、削り取って G² が再び書いた | nec lingua proteruior ulli P, nec lingua (この2語は W¹ で削り取られている) pr. alter W¹CDFL¹MNVE², linguaque (-ue G²W³) pr. alter E¹G²L²W³, lingua nec pronior ullus ウェルギリウスの写本
@@ -519,7 +519,7 @@ PDF page 170.
 - **243** Euphimusque ほぼ Ω | clarusque Ω, claraque CF | Pyraechmes ボンダム, piragmes (-gnes DM) Ω
 - **244** et Mesthles ボンダム, et mnesteus (me- FL¹, mene- N, ne- B¹MVL²) Ω, emnesteus P
 - **245** きわめて乱れた行で、Ω ではほぼ次のように伝えられていた: Ippodus atque athamas uenere pierius una (D は nec non et pigreus una を改作挿入、Monac. 29038 は feroxque pierius una); 名をヴァン・コーテンが Hippothous、ヴェルンスドルフが Pirous と復元した。全体を L. ミュラーが次のように校訂した: Hippothous venere Acamasque et Pirous una、ベーレンスはそれより劣る: Hippothousque Acamasque iuere et Pirous una
-- **246** Arsinooque フォルマー (アポロドーロス『サマリー』3, 35 p. 199 ワーグナーによる), Axinonoque (Axio- CDF, Anxio- M, Anxino- N) Ω, Axui nonoque P, Hesione B; Alcinooque ヴァン・コーテン (アウソニウス『墓碑銘』32 [239 p. 79 パイパー] より) | cromiusque N, c(h)roniusque PBCDEFLV, cromusque WM | atque Ennomus ヴァン・コーテンの友人, eumonius (-men- P) PW, et
+- **246** Arsinooque フォルマー (アポロドロス『サマリー』3, 35 p. 199 ワーグナーによる), Axinonoque (Axio- CDF, Anxio- M, Anxino- N) Ω, Axui nonoque P, Hesione B; Alcinooque ヴァン・コーテン (アウソニウス『墓碑銘』32 [239 p. 79 パイパー] より) | cromiusque N, c(h)roniusque PBCDEFLV, cromusque WM | atque Ennomus ヴァン・コーテンの友人, eumonius (-men- P) PW, et
 
 ## p. 13
 
@@ -2181,7 +2181,7 @@ PDF page 207.
 
 ### 校訂装置
 
-- **942** Alternis (-rius E¹M, -rus L) Ω | poterant Ω, properant ヒヒト | 私は次のように解する: ヘクトールもアキレウスも命の危機に瀕していた
+- **942** Alternis (-rius E¹M, -rus L) Ω | poterant Ω, properant ヒヒト | 私は次のように解する: ヘクトルもアキレウスも命の危機に瀕していた
 - **943** Nec Ω, Hec PW¹ | undique concitat iras Ω, hinc, hinc c. ira ベーレンス | 943行の後に W³ が Ambo festinant, unum sed fata vocabant を追加
 - **945** Pallentemque Ω, Pallantesque P¹ | tempore Ω, funere P
 - **946** N¹ は省略 | この行は偽作と私は判断する。supr. temp. を説明するために追加されたものである
@@ -2412,7 +2412,7 @@ PDF page 212.
 - **1039** corpore Ω, pectore N, funere λ, vulnere L. ミュラー
 - **1043** precibus grandaevum motus ファン・ドルプ, precibus motus (pr. mores L, motus prec. MN) grand(a)euus Ω
 - **1044** parenti Ω, -tis L
-- **1045** Reddidit hectoreum Ω, Hęc reddit toreum C¹F | dona すなわちヘクトールの遺体
+- **1045** Reddidit hectoreum Ω, Hęc reddit toreum C¹F | dona すなわちヘクトルの遺体
 - **1046** In patriam (-ia L) Ω, It p. バルト, In p. it L. ミュラー | more Ω, morte PF¹
 - **1047** Apparat PW, Comp. 他の諸本 | supremaque Ω, extremaque PW
 - **1048** Tum Ω, Sum L, Tunc ラクタンティウス写本 2. 3. 6, Nunc 1 | qua APWCFMVN²αβδφλ, quã G, quę E, quo LN¹ およびラクタンティウス諸写本
