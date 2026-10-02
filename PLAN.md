@@ -22,11 +22,11 @@ counterparts, from the editions' Japanese drafts:
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
   full Japanese in the edition's ilias-ja.md, by hand; those outside
-  books 1–5 have not yet been reviewed.
+  books 1–10 have not yet been reviewed.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
   INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
-  for books 1–5 have now been unified throughout the index.
+  for books 1–10 have now been unified throughout the index.
 
 The Japanese translation with a commentary in commentary/ja/ is
 finished in all 24 books: translated section by section from the
@@ -41,7 +41,7 @@ Book 1 has been checked against the English sections and summary, all
 have been corrected; the reviewed index headwords have been unified
 throughout index-ja.tsv. Two draft gloss differences remain report-only:
 verse 11, edition 2 (破滅 for "plague"), and verse 46, edition 2
-(機知に富んでいる for "vivid"). Books 6–24 still need their semantic
+(機知に富んでいる for "vivid"). Books 11–24 still need their semantic
 review, and the corrections have not yet been carried over to texts/.
 
 Book 2 has also been checked: 61 sections and the summary, 298 index
@@ -110,6 +110,81 @@ restoration are added; at 451 鼻 renders nostril; at 471 兄 specifies
 an older brother; at 485 and 525 Japanese glosses of Latin quotations
 are added; at 512 手元の狂い specifies a cause for the missed cast.
 These non-name draft differences and the files in texts/ are unchanged.
+
+Book 6 has been checked: 7 sections and the summary, all 26 verses
+(538–563), 42 index rows and 10 notes. Iliades is retained as
+イリアデス; the age added to the sacrificial sheep and the shield
+added to the summary have been removed. Displaced words and the
+repeated command and question have been corrected. The index uses
+アイトリアの for Aetolian and マウォルスの for Mavortian, without
+making Hector a son of Mars. Its 38 proper-name rows distinguish
+names and adjectives and give actual verse, commentary and summary
+locators. Three non-name draft differences remain report-only, all
+in edition 2 notes: at 539 Japanese makes Adrastus fall from a horse
+instead of his chariot; at 548 純潔 renders "unwed"; at 557 Japanese
+adds translations of the quoted Latin examples.
+
+Book 7 has been checked: 25 sections and the summary, all 86 verses
+(564–649), 121 index rows and 21 notes. Holding the child, the hero
+and the kisses at 565–567, the lot and helmet at 587–588, the neck at
+603–604, and the speaker's verb at 620–622 have been restored to their
+own verses. The helmet crest is not described as feathers; the oak
+palisade is a fence. Hesione's unusual identification as Ajax's mother
+in this poem and the differing treatments of Atrides at 640–643 are
+preserved and explained in the 58-row name table. Names in the index
+and notes agree with the commentary, including イダイオス, ヘシオネ
+and アウロラ. Eight non-name draft differences remain report-only:
+the edition 4 index description at 580 broadens "father's family" to
+父祖の家柄; edition 2 notes at 574 strengthen "might" to 可能性が高い,
+at 586 add a gloss of ferum amorem, at 587 obscure the "when" in the
+opening gloss, at 591, 612 and 615 add Japanese translations of Latin
+quotations, and at 630 add ［連形］ to the two-syllable explanation.
+
+Book 8 has been checked: 16 sections and the summary, all 36 verses
+(650–685), 53 index rows and 14 notes. Ilian uses イリオンの; Ajax's
+arms in the summary are 武具, and the arrows go into backs, not merely
+behind the enemy. The warning at 651, Hector at 674 and the turning
+and fleeing at 679–681 are placed in their own verses. The table has
+38 rows, with Phrygia, Phrygians, Tydeus and Tydides distinguished.
+The Japanese commentary at 677 also corrects an English source error:
+the English calls Hector's spear the weapon that just struck Teucer,
+although 674–675 explicitly says a stone. The English is unchanged;
+Japanese correctly refers to the spear of Hector, who has just struck
+Teucer with a stone. Three non-name draft differences remain
+report-only: edition 4 at 660 makes "seems to be taken" prescriptive
+(解されるべき); edition 2 at 667 adds (Agelaus Phradmonides), and at
+681 adds (pessulus). The edition-specific readings and interpretations
+of armis at 658 and 660 remain as in the sources.
+
+Book 9 has been checked: 6 sections and the summary, all 10 verses
+(686–695), 14 index rows and 2 notes. The added qualification of fate
+as harsh has been removed, and the flame metaphor retained. Briseis'
+return in the summary is an offer, not a completed event; her being
+untouched does not assert virginity. Ajax uses アイアス. The 16-row
+name table separates Thetis from the designation テティスの子, which
+follows the English "son of Thetis". No further non-name draft meaning
+differences were found.
+
+Book 10 has been checked: 11 sections and the summary, all 45 verses
+(696–740), 48 index rows and 24 notes. Eumediades uses エウメディアデス,
+Rhesus レソス and Pelopeian ペロプス家の. The young man, the affairs
+of the people and the throat at 713–714, 726–727 and 728–729 have been
+restored to their own verses. Plunder is carried, not worn; the
+unspecified stripping is not restricted to armor, and 殺害官 has been
+corrected to 殺害者. The 31-row name table separates Eumedes and his
+son's patronymic, Pelops and Pelopeian, and Thracians and Thracian.
+Latin Ulysses in the Ovid references at 719 and 727 uses ウリクセス.
+Two non-name draft differences remain report-only, both in edition 2:
+at 706 Japanese adds the Latin glosses consilia and judicium; at 732
+極めて稀 strengthens "rather rarely".
+
+Books 6–10 were checked as a range: 65 sections and five summaries,
+203 Latin verses, 278 index rows and 71 notes. Reviewed index
+headwords are unified throughout index-ja.tsv; description and note
+changes are confined to names in this range. The exact first-column
+keys of the shared proper-name table still have one Japanese rendering
+each. The non-name draft differences listed above remain unchanged,
+and the corrections have not been carried over to texts/.
 
 Next:
 
@@ -192,7 +267,8 @@ way, in the verses and in the commentary.
   ソムヌス, Aurora アウロラ, Mavors マウォルス, Ignipotens イグニポテンス,
   Mulciber ムルキベル, Tritonia トリトニア, Cytherea キュテレア,
   Cygneis キュグネイス, Ilion
-  イリオン, Pergama ペルガマ, Amaryncides アマリュンキデス,
+  イリオン, Ilios イリオス, Pergama ペルガマ, Amaryncides アマリュンキデス,
+  Eumediades エウメディアデス, Iliades イリアデス,
   Eurus エウルス, Hesperus ヘスペルス, Pierides ピエリデス;
   the others of the kind (Arctos, Lucifer, Luna …) likewise.
 - Adjectives of names as 「〜の」: Mavortian Hector マウォルスのヘクトル,
