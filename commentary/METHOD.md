@@ -134,7 +134,7 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Books 1 and 2, to guide subsequent books:
+Notes gathered during the review of Books 1, 2, and 3, to guide subsequent books:
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -166,13 +166,29 @@ Notes gathered during the review of Books 1 and 2, to guide subsequent books:
     calques, such as *give way to* (rendered literally as 「〜へと道を譲る」),
     *makes X seem* (「〜と思えないようにしている」), or *receives a full description*
     (「詳細な描写を受ける」), into natural Japanese cadence (「〜に代わり、…が訪れる」「〜とは到底見えない」「詳細に描写される」).
+  - *Causative and resultative calques*: English `makes X [adj/noun]`
+    is often translated mechanically as 「Xを〜ものとしている」 or
+    「Xを〜の一部としている」. Recast these into natural descriptive or
+    thematic expressions (e.g., *makes the duel more than a private quarrel*
+    → 「単なる私闘を超え、戦争全体の終結をもたらし得るものとなる」; *makes Paris both her flame and...*
+    → 「彼女の情熱の炎であると同時に、…としても描かれる」; *make their disappointment part of the action*
+    → 「失望を生々しく伝えている」).
+  - *Negative condition and privative calques*: Expressions like *leaves X without Y*
+    should avoid literal stiffness like 「XをYを欠いたままにした」 and use natural
+    state descriptions (e.g., *leaves the duel without the settlement...*
+    → 「一騎打ちが本来もたらすべきであった決着は宙に浮いたままとなった」).
+  - *Relational clarity in relative clauses*: Clarify ambiguous agent/patient
+    relationships resulting from condensed English phrasing (e.g., *whose wrong has
+    brought war upon them* translated as 「戦争を引き起こした夫」, which made Menelaus
+    sound like the instigator rather than the wronged party → clarified as
+    「妻を奪われ、トロイアに戦争をもたらした当の夫」).
   - *Fronted subordinate clauses (chronological flow)*: Invert English
     trailing clauses (such as *...nearly leads to X, until Y restores order*)
     into natural Japanese chronological progression (「危うくXへと発展しかけるが、Yが秩序を回復する」)
     rather than fronting the until-clause (「Yが秩序を回復するまで、危うくXへと発展しかける」).
   - *Repetitive connective pronouns*: Avoid mechanical repetition of
     「それはまた」 for English *It also...*; use implicit or varied transitions
-    (「また、」「さらに、」「ラテン語詩はまた、」).
+    (「また、」「さらに、」「ラテン語詩はまた、」「これはまた、」).
   - *Collapsing duplicated predicates*: When an English verb governs
     coordinated clauses (`sends [A] into... and [B] through...`), unify
     them under a single Japanese verb rather than repeating the same verb
