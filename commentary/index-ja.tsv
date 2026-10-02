@@ -577,10 +577,10 @@ verse	edition	headword	headword-ja	form	description
 347	6	Menelaus	メネラオス	Menelae	te, Menelae 347
 349	4	MENELAUS	メネラオス	Atrides	— 呻きながら、パンダロスの矢で傷つけられたので戦いから退く
 349	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrides	-des 290. 301. 332. 349. (510?)
-350	6	Aesculapius	アスクレーピオス	arte	arte paterna 350 を参照
-351	4	PAEONIUS	パイエーオーンの	Paeoniis	Paeoniis herbis:ポダレイリオスはパイエーオーンの薬草でメネラオスを治療する
+350	6	Aesculapius	アエスクラピウス	arte	arte paterna 350 を参照
+351	4	PAEONIUS	パイオンの	Paeoniis	Paeoniis herbis:ポダレイリオスはパイオンの薬草でメネラオスを治療する
 351	4	PODALIRIUS	ポダレイリオス	Podalirius	— パンダロスに傷つけられたメネラオスを治療する
-351	6	Paeonius	パイエーオーンの	Paeoniis	Paeoniis . . . herbis 351
+351	6	Paeonius	パイオンの	Paeoniis	Paeoniis . . . herbis 351
 351	6	Podalirius	ポダレイリオス	Podalirius	iuvenis -ius 351:アエスクラピウスの子
 352	6	Menelaus	メネラオス	victor	victor 307. 352
 353	4	AGAMEMNON	アガメムノン	Agamemnonis	— パンダロスがメネラオスを傷つけた後、彼の怒りがギリシア人を殺戮へと武装させる
@@ -592,34 +592,34 @@ verse	edition	headword	headword-ja	form	description
 357	6	Danai	ダナオイ	Danaum	-um(属格):19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 357	6	Tros	トロイア人	Troum	Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 358	4	MARS	マルス	Mavors	Mavors:四方に響く
-358	6	Mavors	マーウォルス	Mavors	sonat undique Mavors、すなわち戦闘、358
+358	6	Mavors	マウォルス	Mavors	sonat undique Mavors、すなわち戦闘、358
 360	4	ANTILOCHUS	アンティロコス	Antilochi	Antilochi:タリュシオスの子(エケポロス)がアンティロコスの剣で殺される
-360	4	THALYSIADES	タリュシオスの子	Thalysiades	(エケポロス)アンティロコスに殺される
+360	4	THALYSIADES	タリュシアデス	Thalysiades	(エケポロス)アンティロコスに殺される
 360	6	Antilochus	アンティロコス	Antilochi	Antilochi . . . -ense 360
-361	6	Thalysiades	タリュシオスの子	Thalysiades	*Thalysiades (tales(t)- trad.) 361:エケポロス
-362	4	GRAI	ギリシア人	Grajorum	Grajorum:ギリシア人の背後に迫るシモエイシオス
+361	6	Thalysiades	タリュシアデス	Thalysiades	*Thalysiades (tales(t)- trad.) 361:エケポロス
+362	4	GRAI	ギリシア人	Grajorum	Grajorum:ギリシア人の背後に迫るシモイシオス
 362	6	Graius	ギリシアの	Graiorum	名詞として:Graiorum terga 362
-363	4	AJAX Telamonis filius	アイアス、テラモンの子	Ajax	— テラモンの子がアンテミオーンの子を倒す
-363	4	ANTHEMIO	アンテミオーン	Anthemione	Anthemione satum:テラモンの子アイアスがアンテミオーンの子(シモエイシオス)を殺す
+363	4	AJAX Telamonis filius	アイアス、テラモンの子	Ajax	— テラモンの子がアンテミオンの子を倒す
+363	4	ANTHEMIO	アンテミオン	Anthemione	Anthemione satum:テラモンの子アイアスがアンテミオンの子(シモイシオス)を殺す
 363	6	Aiax (Telamonius)	アイアス（テラモンの子）	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
-363	6	Anthemion	アンテミオーン	Anthemione	*Anthemione satum 363:トロイア人シモエイシオス
+363	6	Anthemion	アンテミオン	Anthemione	*Anthemione satum 363:トロイア人シモイシオス
 363	6	Telamonius	テラモンの	Telamonius	Telamonius Aiax 205. 363. 602. 623. 787. 836
 366	4	ANTIPHUS Priami filius	アンティポス、プリアモスの子	Antiphus	— アイアスに向けて槍を投げる
 366	6	Antiphus 3	アンティポス 3	Antiphus	Antiphus 366
 368	4	AJAX Telamonis filius	アイアス、テラモンの子	Ajacem	In Ajacem:アンティポスはアイアスに向けて槍を投げる
-368	6	Aeacides (Aiax Telamonius)	アイアコスの末裔(テラモーンの子アイアース)	Aeaciden	-den 368
+368	6	Aeacides (Aiax Telamonius)	アエアキデス（テラモンの子アイアス）	Aeaciden	-den 368
 368	6	Aiax (Telamonius)	アイアス（テラモンの子）	Aeaciden	-acem は Aeaciden 368. 628 を参照
 369	4	LEUCUS	レウコス	Leucus	アンティポスがアイアスに向けて投げた槍に打たれる
 369	6	Leucus	レウコス	Leucon	Leucon 対格 369:ウリクセスの仲間
-372	4	AGAMEMNON	アガメムノン	Atrides	— 疲れを知らぬ者、デーモコオーンに向かう
+372	4	AGAMEMNON	アガメムノン	Atrides	— 疲れを知らぬ者、デモコオンに向かう
 372	6	Atrides (Agamemno)	アトリデス（アガメムノン）	Atrides	[impiger -es 372]
-372	6	Laertiades	ラーエルテースの子	Atrides	*Laertiades (atrides trad.) 372:ウリクセス
-373	4	DEMOCOON	デーモコオーン	Democoonta	Democoonta:アガメムノンがデーモコオーンに向かう
-373	6	Democoon	デーモコオーン	Democoonta	*Democoonta 373:プリアモスの庶子
+372	6	Laertiades	ラエルティアデス	Atrides	*Laertiades (atrides trad.) 372:ウリクセス
+373	4	DEMOCOON	デモコオン	Democoonta	Democoonta:アガメムノンがデモコオンに向かう
+373	6	Democoon	デモコオン	Democoonta	*Democoonta 373:プリアモスの庶子
 377	4	DIORES	ディオレス	Amarynciden	Amaryncides Amarynciden:ペイロオスがアマリュンケウスの子を殺す
-377	6	Amaryncides	アマリュンケウスの子	Amarynciden	*Amaryncīden 377
+377	6	Amaryncides	アマリュンキデス	Amarynciden	*Amaryncīden 377
 378	4	PIROUS	ペイロオス	Pirous	— インブラソスの子が、アマリュンケウスの子ディオレスを殺す
-378	6	Imbrasides	インブラソスの子	Imbrasides	impiger *Imbrasides (umbr- trad.) 378:ペイロオス
+378	6	Imbrasides	インブラシデス	Imbrasides	impiger *Imbrasides (umbr- trad.) 378:ペイロオス
 380	4	THOAS	トアス	Thoantis	Thoantis:トアスの右手が、構えた槍でペイロオスに向かう
 380	6	Thoas	トアス	Thoantis	dextrā . . . Thoantis 380
 384	4	DARDANIUS	ダルダニアの	Dardanii	Dardanii campi:ダルダニアの野は血に濡れる
