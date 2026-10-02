@@ -128,14 +128,16 @@ way, in the verses and in the commentary.
   Thersites テルシテス, Dolon ドロン, Rhesus レソス, Antilochus
   アンティロコス, Deiphobus デイポボス, Peleus ペレウス, Atreus
   アトレウス, Tydeus テュデウス, Telamon テラモン, Aeacus アイアコス,
-  Oileus オイレウス, Antenor アンテノル, Hercules ヘラクレス; the others
+  Oileus オイレウス, Antenor アンテノル, Hercules ヘラクレス,
+  Polypoetes ポリュポイテス; the others
   in the same way, from the Greek, by the same rule for long vowels.
 - Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
   Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
   Teucrians テウクロイ, Myrmidons ミュルミドン, Lycians リュキア人,
-  Thracians トラキア人.
+  Thracians トラキア人, Halizones ハリゾネス.
 - Places and works: Troy トロイア, Olympus オリュンポス, Ida イダ,
-  Xanthus クサントス, Asia Minor 小アジア, Homer ホメロス, the *Iliad*
+  Xanthus クサントス, Ithaca イタケ, Lemnos レムノス,
+  Asia Minor 小アジア, Homer ホメロス, the *Iliad*
   『イリアス』, the *Ilias Latina* 『イリアス・ラティナ』; Plessis プレシス,
   Vollmer フォルマー (where the commentary gives the readings of both
   editions).
