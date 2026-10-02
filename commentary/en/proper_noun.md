@@ -18,9 +18,9 @@ or record a geographical name expressed through an adjective. Locations
 follow the reviewed Japanese entries and refer to translated verses,
 section commentary and book summaries; they may identify a person
 through an epithet or family relationship rather than repeat the name.
-The Category / Description column translates the corresponding Japanese
-entries, including distinctions between namesakes and notes on variant
-readings. Japanese forms are retained in the Japanese table.
+The Category / Description column summarizes the identifications and
+distinctions made in the English commentary, including namesakes and
+variant readings. Japanese forms are retained in the Japanese table.
 
 ## Book 1
 
@@ -99,7 +99,7 @@ Latin verses 111–251.
 | Agapenor | Agapenor | Leader of the Arcadians; son of Ancaeus | v. 175, commentary 175, commentary 176–178, summary |
 | Aiax (Locrus) | Ajax (Locrian) | Leader of the Locrians | v. 189, v. 216, commentary 189, commentary 190, commentary 205, commentary 215–216, summary (paragraphs 3 and 4) |
 | Aiax (Telamonius) | Ajax (Telamonian) | Leader of the forces from Salamis | v. 198, v. 205, commentary 189, commentary 195, commentary 197–198, commentary 205, commentary 206–207, commentary 215–216, summary (paragraph 4) |
-| Alcinous | Alcinous | Father of Chromius and Ennomus (variant reading in Plessis and others) | commentary 246 |
+| Alcinous | Alcinous | Variant reading for Arsinous in Plessis; also the name used by Ausonius | commentary 246 |
 | — | Amarynceus | Father of Diores | commentary 213–214 |
 | Amphimachus | Amphimachus (Carian) | Leader of the Carians; son of Nomion | v. 241, commentary 241, commentary 242, summary (paragraph 6) |
 | Amphimachus | Amphimachus (son of Cteatus) | One of the Elean leaders; son of Cteatus | v. 212, commentary 212, commentary 213–214, summary (paragraph 4) |
@@ -120,7 +120,7 @@ Latin verses 111–251.
 | Argivus / Argolicus | Argive | Epithet indicating origin in Argos | v. 115, commentary 113–119, commentary 185–186, commentary 187–188, summary |
 | Argolicus / Argivi | Argives | Collective name for the Greek forces | summary |
 | — | Argos | City and region in the Peloponnese | commentary 184, commentary 187–188 |
-| Arsinous | Arsinous | Father of Chromius and Ennomus (name found in Apollodorus) | v. 246, commentary 246, summary |
+| Arsinous | Arsinous | Father of Chromius and Ennomus; the Latin reading, also found in Apollodorus | v. 246, commentary 246, summary |
 | Ascalaphus | Ascalaphus | Leader of the forces from Orchomenus | v. 187, commentary 187–188, summary |
 | Ascanius | Ascanius (Phrygian) | Leader of the Phrygians (distinct from Aeneas' son of the same name) | v. 248, commentary 247–248, summary |
 | — | Asia Minor | Region containing Troy and its allies | commentary 196, commentary 239, commentary 241, commentary 244, commentary 246, commentary 247–248, commentary 249–251 |
@@ -881,7 +881,7 @@ Latin verses 790–804.
 | Mars | Mars | Roman god of war (Mavors) | commentary 796–798 |
 | Mavors | Mavors | Another name for Mars, god of war | commentary 796–798 |
 | Mavortius | Mavortian | Epithet expressing Hector's warlike character | v. 797, commentary 796–798, summary |
-| Pelopeus | the youth of Pelops | Designation of the Greeks supplied by Plessis in v. 791; not inserted into the gap in the text | commentary 792–793 |
+| Pelopeus | the youth of Pelops | Designation of the Greeks in Plessis' conjectural verse for the gap after v. 790 | commentary 792–793 |
 | Pelops | Pelops | Ancestor behind the designation "youths of Pelops" | commentary 792–793 |
 | Phryges | Phrygians | Metonym or collective designation for the Trojan forces | v. 803, commentary 803–804, summary |
 | — | Plessis | Nineteenth-century French editor of the Ilias Latina | commentary 792–793 |
@@ -1037,7 +1037,7 @@ Latin verses 892–910.
 | Teucri | Teucrians | Collective name for the Trojan forces | v. 903, commentary 903–905, summary |
 | Thetideius | the hero, son of Thetis | Designation of Achilles as son of Thetis | v. 892, commentary 892–893, summary |
 | Thetis | Thetis | Sea goddess; mother of Achilles | commentary 892–893 |
-| Troia | Troy | Fortified city where the war takes place; homeland Aeneas is to restore | v. 900, commentary 899–902, commentary 903–905, commentary 906–907, summary |
+| Troia | Troy | Fortified city where the war takes place; in Roman tradition, Aeneas founds a new homeland in Italy | v. 900, commentary 899–902, commentary 903–905, commentary 906–907, summary |
 | Venus | Venus | Goddess of love and beauty; mother of Aeneas | commentary 895–898, summary |
 | — | Vollmer | Early twentieth-century German editor of the Ilias Latina | commentary 899–902 |
 | Vulcanus | Vulcan | God of smithcraft (Hephaestus) | commentary 892–893 |
@@ -1090,7 +1090,7 @@ Latin verses 931–943.
 | Homerus | Homer | Great poet of the original Iliad | commentary 931–932, commentary 933–936, commentary 937–938, commentary 939–943 |
 | Minerva | Minerva | Goddess of wisdom and war (Pallas) | commentary 933–936, summary |
 | Nereius | Nereian | Epithet describing Achilles through his mother Thetis, daughter of Nereus | v. 938, commentary 937–938, summary |
-| Nereides | Nereid | Daughters of Nereus; here the ancestry of Achilles' mother Thetis | summary |
+| Nereides | Nereid | Sea nymphs, daughters of Nereus; Thetis is one of them | summary |
 | Nereus | Nereus | Old sea god; father of Thetis | commentary 937–938, summary |
 | Priamus | Priam | King of Troy; father of Hector | commentary 931–932, commentary 933–936 |
 | Thetis | Thetis | Sea goddess; daughter of Nereus; mother of Achilles | commentary 937–938, summary |
@@ -1120,7 +1120,7 @@ Latin verses 944–1003.
 | Minerva | Minerva | Goddess of wisdom and war (Pallas) | commentary 947–950, summary |
 | — | Neoptolemus | Another name for Pyrrhus; son of Achilles | commentary 980–987 |
 | Nereius | Nereian | Epithet describing Achilles through his mother Thetis, daughter of Nereus | v. 975, commentary 968–976, summary |
-| Nereides | Nereids | Daughters of Nereus; here the ancestry of Achilles' mother Thetis | commentary 968–976 |
+| Nereides | Nereids | Sea nymphs, daughters of Nereus; Achilles' mother Thetis is one of them | commentary 968–976 |
 | — | Orion’s Dog | Star to which Homer compares the brilliance of Achilles' armor; an omen of suffering | commentary 944–946 |
 | Pallas | Pallas | Another name for the goddess Minerva (Athena) | v. 950, commentary 947–950, summary |
 | Patroclus | Patroclus | Beloved companion in arms of Achilles; hero killed by Hector | v. 994, commentary 988–995, commentary 996–997, commentary 998–1001, summary |
