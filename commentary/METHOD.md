@@ -134,7 +134,7 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Books 1, 2, 3, and 4, to guide subsequent books:
+Notes gathered during the review of Books 1 to 5, to guide subsequent books:
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -165,14 +165,16 @@ Notes gathered during the review of Books 1, 2, 3, and 4, to guide subsequent bo
   - *Inanimate subjects and literal idioms*: Smooth unnatural English
     calques, such as *give way to* (rendered literally as 「〜へと道を譲る」),
     *makes X seem* (「〜と思えないようにしている」), or *receives a full description*
-    (「詳細な描写を受ける」), into natural Japanese cadence (「〜に代わり、…が訪れる」「〜とは到底見えない」「詳細に描写される」).
+    (「詳細な描写を受ける」), into natural Japanese cadence (「〜に代わり、…が訪れる」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」).
   - *Causative and resultative calques*: English `makes X [adj/noun]`
     is often translated mechanically as 「Xを〜ものとしている」 or
     「Xを〜の一部としている」. Recast these into natural descriptive or
     thematic expressions (e.g., *makes the duel more than a private quarrel*
     → 「単なる私闘を超え、戦争全体の終結をもたらし得るものとなる」; *makes Paris both her flame and...*
     → 「彼女の情熱の炎であると同時に、…としても描かれる」; *make their disappointment part of the action*
-    → 「失望を生々しく伝えている」).
+    → 「失望を生々しく伝えている」; *makes Diomedes conspicuously visible*
+    → 「ひときわ目覚ましい存在感を放つ」; *make the shared cost... visible*
+    → 「共通の惨禍をまざまざと可視化している」).
   - *Negative condition and privative calques*: Expressions like *leaves X without Y*
     should avoid literal stiffness like 「XをYを欠いたままにした」 and use natural
     state descriptions (e.g., *leaves the duel without the settlement...*
