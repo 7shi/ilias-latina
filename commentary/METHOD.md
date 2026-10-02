@@ -131,3 +131,47 @@ organised under the same verse ranges, so that the commentary and the
 reading of a passage can be shown side by side, as parallel views of
 one text, for example as tabs.  The reading depends on the Latin text
 only and is not made from the notes of the editions.
+
+## 3. Practical observations
+
+Notes gathered during the review of Book 1, to guide subsequent books:
+
+- **No content additions or deletions**: The commentary texts are
+  already proofread and balanced. Do not add outside explanations or
+  omit existing epithets. Adjustments must be strictly limited to
+  phrasing, sentence splitting, word order, and punctuation to smooth
+  the flow from known to unknown.
+- **Readability over mechanical glosses**: Avoid turning narrative
+  commentary into rigid dictionary definitions. Natural cadence and flow
+  take precedence over heavy expository devices.
+- **Split and chain (End-Focus)**: When an opening or complex sentence is
+  overloaded with relative or participial clauses, splitting it allows
+  the focus at the end of the first sentence to become the known anchor
+  at the front of the next, without altering words (e.g., *...wrath of
+  Achilles, called proud Pelides. This wrath brought...*).
+- **Punctuation and syntactic smoothing**: Use dashes, semicolons, or
+  parenthetical phrasing (e.g., *Thetis—whom she calls Doris’ daughter—*)
+  to untangle embedded structures rather than rewriting them.
+- **Cross-section continuity**: Anchor the opening sentence of a section
+  to the concluding events of the previous section or the opening words
+  of the Latin verse, preserving the chain across section boundaries.
+- **Smoothing translation artefacts in Japanese**:
+  - *Abrupt endings from colon glosses*: Resolve dangling quotation
+    endings (such as 「〜であると。」) into complete nominal or copula
+    conclusions (「〜という願い／問いである。」).
+  - *Inanimate subjects and literal idioms*: Smooth unnatural English
+    calques, such as *give way to* (rendered literally as 「〜へと道を譲る」)
+    or *makes X seem* (「〜と思えないようにしている」), into natural
+    Japanese cadence (「〜に代わり、…が訪れる」「〜とは到底見えない」).
+  - *Collapsing duplicated predicates*: When an English verb governs
+    coordinated clauses (`sends [A] into... and [B] through...`), unify
+    them under a single Japanese verb rather than repeating the same verb
+    (「〜を送り込み、…を送り込む」).
+  - *Untangling nested modifiers*: Split sentences where multiple relative
+    clauses stack upon a single noun (「〜神官が…奪われた神である」),
+    letting each relation stand clearly.
+  - *Register and word choice*: Avoid incongruous modern loanwords
+    (e.g., 「アピール」 → 「呼びかけ」) and imprecise calques (e.g.,
+    *aftermath* as 「後日談」 → 「その余波」; *compensate himself* as
+    「自らを埋め合わせる」 → 「その埋め合わせをする」).
+
