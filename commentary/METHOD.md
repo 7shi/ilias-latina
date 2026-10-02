@@ -134,7 +134,7 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Books 1 to 20, to guide subsequent books:
+Notes gathered during the review of Books 1 to 24 (the entire poem):
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -168,7 +168,7 @@ Notes gathered during the review of Books 1 to 20, to guide subsequent books:
     (「〜と思えないようにしている」), *receives a full description*
     (「詳細な描写を受ける」), or *offers a different visible expression*
     (「〜の異なる目に見える表現を提供している」), into natural Japanese
-    cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜へと焦点を移す」「〜に続き、視線は直ちに…へと向けられる」「〜に続き、対立は…へと発展する」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」「大乱戦から、一人の敵手を標的とした殺害へと焦点が絞られる」「〜の圧迫の前に、敵軍は恐慌をきたして総崩れとなる」「〜の情景に代わり、…凄惨な情景が立ち現れる」「〜の猛攻の前に、戦場は…敗走の様相を呈する」).
+    cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜へと焦点を移す」「〜を経て、両者はついに直接の激突へと突入する」「〜を差し置いて、…がすべてに優先する」「〜に続き、視線は直ちに…へと向けられる」「〜に続き、対立は…へと発展する」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」「大乱戦から、一人の敵手を標的とした殺害へと焦点が絞られる」「〜の圧迫の前に、敵軍は恐慌をきたして総崩れとなる」「〜の情景に代わり、…凄惨な情景が立ち現れる」「〜の猛攻の前に、戦場は…敗走の様相を呈する」).
   - *Causative and resultative calques*: English `makes X [adj/noun]`
     is often translated mechanically as 「Xを〜ものとしている」 or
     「Xを〜の一部としている」. Recast these into natural descriptive or
