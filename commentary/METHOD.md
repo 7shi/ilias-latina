@@ -134,7 +134,7 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Books 1 to 15, to guide subsequent books:
+Notes gathered during the review of Books 1 to 20, to guide subsequent books:
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -163,10 +163,12 @@ Notes gathered during the review of Books 1 to 15, to guide subsequent books:
     endings (such as 「〜であると。」) into complete nominal or copula
     conclusions (「〜という願い／問いである。」).
   - *Inanimate subjects and literal idioms*: Smooth unnatural English
-    calques, such as *give way to* (rendered literally as 「〜へと道を譲る」),
-    *makes X seem* (「〜と思えないようにしている」), *receives a full description*
+    calques, such as *give way to* / *yield to* (rendered literally as
+    「〜へと道を譲る」「〜へと場を譲る」「〜へと譲られる」), *makes X seem*
+    (「〜と思えないようにしている」), *receives a full description*
     (「詳細な描写を受ける」), or *offers a different visible expression*
-    (「〜の異なる目に見える表現を提供している」), into natural Japanese cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」「大乱戦から、一人の敵手を標的とした殺害へと焦点が絞られる」「〜の圧迫の前に、敵軍は恐慌をきたして総崩れとなる」「〜の情景に代わり、…凄惨な情景が立ち現れる」「〜の猛攻の前に、戦場は…敗走の様相を呈する」).
+    (「〜の異なる目に見える表現を提供している」), into natural Japanese
+    cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜へと焦点を移す」「〜に続き、視線は直ちに…へと向けられる」「〜に続き、対立は…へと発展する」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」「大乱戦から、一人の敵手を標的とした殺害へと焦点が絞られる」「〜の圧迫の前に、敵軍は恐慌をきたして総崩れとなる」「〜の情景に代わり、…凄惨な情景が立ち現れる」「〜の猛攻の前に、戦場は…敗走の様相を呈する」).
   - *Causative and resultative calques*: English `makes X [adj/noun]`
     is often translated mechanically as 「Xを〜ものとしている」 or
     「Xを〜の一部としている」. Recast these into natural descriptive or
@@ -197,9 +199,11 @@ Notes gathered during the review of Books 1 to 15, to guide subsequent books:
     *A and B follow one another without further exchange* as 「AとBはそれ以上のやり取りもなく互いに続いている」;
     use decisive temporal flow (「余計な言葉を交わす間もなく、Aの直後にBが下される」).
   - *Negative condition and privative calques*: Expressions like *leaves X without Y*
-    should avoid literal stiffness like 「XをYを欠いたままにした」 and use natural
-    state descriptions (e.g., *leaves the duel without the settlement...*
-    → 「一騎打ちが本来もたらすべきであった決着は宙に浮いたままとなった」).
+    or *has not left X in [control/possession]* should avoid literal stiffness
+    (「XをYを欠いたままにした」「Xに…の支配を委ねたわけではない」) and use natural
+    state descriptions or concessive reasoning (e.g., *leaves the duel without the settlement...*
+    → 「一騎打ちが本来もたらすべきであった決着は宙に浮いたままとなった」;
+    *has not left the Trojans in undisputed control* → 「ヘクトルが勝利を収めたからといって、トロイア勢が戦場を意のままに支配できたわけではない」).
   - *Relational clarity in relative clauses*: Clarify ambiguous agent/patient
     relationships resulting from condensed English phrasing (e.g., *whose wrong has
     brought war upon them* translated as 「戦争を引き起こした夫」, which made Menelaus
@@ -224,8 +228,10 @@ Notes gathered during the review of Books 1 to 15, to guide subsequent books:
     coordinated clauses (`sends [A] into... and [B] through...`), unify
     them under a single Japanese verb rather than repeating the same verb
     (「〜を送り込み、…を送り込む」).
-  - *Untangling nested modifiers*: Split sentences where multiple relative
-    clauses stack upon a single noun (「〜神官が…奪われた神である」),
+  - *Untangling nested modifiers*: Split sentences or recast frame markers
+    where multiple relative clauses stack upon a single noun (「〜神官が…奪われた神である」;
+    「ホメロスがヘパイストスがアキレウスのために作る描写をする武具は」
+    → 「ホメロスにおいてヘパイストスがアキレウスのために鍛造する武具は」),
     letting each relation stand clearly.
   - *Register and word choice*: Avoid incongruous modern loanwords
     (e.g., 「アピール」 → 「呼びかけ」) and imprecise calques (e.g.,
