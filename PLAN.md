@@ -22,11 +22,11 @@ counterparts, from the editions' Japanese drafts:
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
   full Japanese in the edition's ilias-ja.md, by hand; those outside
-  book 1 have not yet been reviewed.
+  books 1 and 2 have not yet been reviewed.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
   INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
-  for book 1 have now been unified throughout the index.
+  for books 1 and 2 have now been unified throughout the index.
 
 The Japanese translation with a commentary in commentary/ja/ is
 finished in all 24 books: translated section by section from the
@@ -41,8 +41,20 @@ Book 1 has been checked against the English sections and summary, all
 have been corrected; the reviewed index headwords have been unified
 throughout index-ja.tsv. Two draft gloss differences remain report-only:
 verse 11, edition 2 (破滅 for "plague"), and verse 46, edition 2
-(機知に富んでいる for "vivid"). Books 2–24 still need their semantic
+(機知に富んでいる for "vivid"). Books 3–24 still need their semantic
 review, and the corrections have not yet been carried over to texts/.
+
+Book 2 has also been checked: 61 sections and the summary, 298 index
+rows and 91 notes. Verse wording, commentary and headings have been
+corrected. Its proper-name table now distinguishes quoted verses from
+commentary and summary occurrences, including same-name commanders;
+unattested entries have been removed. Reviewed index headwords and
+names in descriptions are consistent throughout index-ja.tsv, and
+book 2 notes use the commentary's name forms. Two further draft
+differences remain report-only, both in edition 2: verse 152 can place
+the prediction in the tenth year instead of the previously predicted
+toil; verse 195 uses 同胞 for "ally". The source confirms that 同写本 in
+the adapted note at 156 correctly refers to manuscript G. 2.
 
 Next:
 
@@ -108,12 +120,13 @@ way, in the verses and in the commentary.
   ミネルウァ, Pallas パラス, Vulcan ウルカヌス, Neptune ネプトゥヌス,
   Apollo アポロ, Phoebus ポエブス, Titan ティタン, Iris イリス, Thetis
   テティス, Latona ラトナ, Nereus ネレウス, Doris ドリス,
-  Nereid(s) ネレイス（たち）, Oceanus オケアヌス, Orcus オルクス, the
-  Muse(s) ムーサ, the Thunderer 雷神.
+  Nereid(s) ネレイス（たち）, Aesculapius アエスクラピウス, Oceanus
+  オケアヌス, Orcus オルクス, the Muse(s) ムーサ, the Thunderer 雷神.
 - Where the commentary tells Homer's scene, the Greek names: Zeus
   ゼウス, Hera ヘラ, Athena アテナ, Hephaestus ヘパイストス, Poseidon
   ポセイドン, Ares アレス, Aphrodite アプロディテ, Odysseus オデュッセウス,
-  Apollo アポロン, Phoebus ポイボス, Dawn 曙の女神.
+  Apollo アポロン, Phoebus ポイボス, Asclepius アスクレピオス,
+  Enyalius エニュアリオス, Dawn 曙の女神.
 - Names that the English keeps in Latin are katakana of the Latin, and
   the commentary explains them as the English does: Atrides アトリデス,
   Pelides ペリデス, Aeacides アエアキデス, Tydides テュディデス,
@@ -126,7 +139,8 @@ way, in the verses and in the commentary.
   the others of the kind (Arctos, Lucifer, Luna …) likewise.
 - Adjectives of names as 「〜の」: Mavortian Hector マウォルスのヘクトル,
   Telamonian Ajax テラモンのアイアス, Dardanian ダルダニアの, Ilian
-  イリオンの, Argive アルゴスの, Doric ドリスの.
+  イリオンの, Argive アルゴスの, Doric ドリスの, Pelopeian ペロプス家の,
+  Ithacan イタケ人.
 - Persons: Achilles アキレウス, Hector ヘクトル, Agamemnon アガメムノン,
   Menelaus メネラオス, Priam プリアモス, Paris パリス, Alexander
   アレクサンドロス, Helen ヘレネ, Hecuba ヘカベ, Andromache アンドロマケ,
@@ -147,10 +161,15 @@ way, in the verses and in the commentary.
 - Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
   Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
   Teucrians テウクロイ, Myrmidons ミュルミドン, Lycians リュキア人,
-  Thracians トラキア人, Halizones ハリゾネス, Ethiopians アイティオピア人.
+  Thracians トラキア人, Halizones ハリゾネス, Ethiopians アイティオピア人,
+  Boeotians ボイオティア人, Aetolians アイトリア人, Locrians ロクリス人,
+  Cretans クレタ人, Magnesians マグネシア人, Carians カリア人,
+  Mysians ミュシア人, Maeonians マイオニア人, Paeonians パイオニア人,
+  Cicones キコネス, Epeans エペイオス人, Athenians アテナイ人.
 - Places and works: Troy トロイア, Olympus オリュンポス, Ida イダ,
   Xanthus クサントス, Ithaca イタケ, Chryse クリュセ, Lemnos レムノス,
-  Aspledon アスプレドン,
+  Aspledon アスプレドン, Athens アテナイ, Mycenae ミュケナイ,
+  Syme シュメ, Rhodes ロドス, Phylace ピュラケ,
   Asia Minor 小アジア, Homer ホメロス, the *Iliad*
   『イリアス』, the *Ilias Latina* 『イリアス・ラティナ』; Plessis プレシス,
   Vollmer フォルマー (where the commentary gives the readings of both
