@@ -134,7 +134,7 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Book 1, to guide subsequent books:
+Notes gathered during the review of Books 1 and 2, to guide subsequent books:
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -155,14 +155,24 @@ Notes gathered during the review of Book 1, to guide subsequent books:
 - **Cross-section continuity**: Anchor the opening sentence of a section
   to the concluding events of the previous section or the opening words
   of the Latin verse, preserving the chain across section boundaries.
+- **Grammatical parallelism in English**: Keep coordinated elements in the
+  same category (e.g., *anger, quarreling, and near-violence* rather than
+  mixing nouns with adverbial phrases like *almost armed violence*).
 - **Smoothing translation artefacts in Japanese**:
   - *Abrupt endings from colon glosses*: Resolve dangling quotation
     endings (such as 「〜であると。」) into complete nominal or copula
     conclusions (「〜という願い／問いである。」).
   - *Inanimate subjects and literal idioms*: Smooth unnatural English
-    calques, such as *give way to* (rendered literally as 「〜へと道を譲る」)
-    or *makes X seem* (「〜と思えないようにしている」), into natural
-    Japanese cadence (「〜に代わり、…が訪れる」「〜とは到底見えない」).
+    calques, such as *give way to* (rendered literally as 「〜へと道を譲る」),
+    *makes X seem* (「〜と思えないようにしている」), or *receives a full description*
+    (「詳細な描写を受ける」), into natural Japanese cadence (「〜に代わり、…が訪れる」「〜とは到底見えない」「詳細に描写される」).
+  - *Fronted subordinate clauses (chronological flow)*: Invert English
+    trailing clauses (such as *...nearly leads to X, until Y restores order*)
+    into natural Japanese chronological progression (「危うくXへと発展しかけるが、Yが秩序を回復する」)
+    rather than fronting the until-clause (「Yが秩序を回復するまで、危うくXへと発展しかける」).
+  - *Repetitive connective pronouns*: Avoid mechanical repetition of
+    「それはまた」 for English *It also...*; use implicit or varied transitions
+    (「また、」「さらに、」「ラテン語詩はまた、」).
   - *Collapsing duplicated predicates*: When an English verb governs
     coordinated clauses (`sends [A] into... and [B] through...`), unify
     them under a single Japanese verb rather than repeating the same verb
@@ -173,5 +183,7 @@ Notes gathered during the review of Book 1, to guide subsequent books:
   - *Register and word choice*: Avoid incongruous modern loanwords
     (e.g., 「アピール」 → 「呼びかけ」) and imprecise calques (e.g.,
     *aftermath* as 「後日談」 → 「その余波」; *compensate himself* as
-    「自らを埋め合わせる」 → 「その埋め合わせをする」).
+    「自らを埋め合わせる」 → 「その埋め合わせをする」; *volatile energy* as
+    「揮発性のエネルギー」 → 「集団的で爆発しやすいエネルギー」;
+    *this glimpse of...* as 「この垣間見」 → 「〜を垣間見せる叙述」).
 
