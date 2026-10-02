@@ -21,12 +21,12 @@ counterparts, from the editions' Japanese drafts:
   notes that commentary-en.tsv had adapted (joined across pages,
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
-  full Japanese in the edition's ilias-ja.md, by hand; they have not
-  been reviewed.
+  full Japanese in the edition's ilias-ja.md, by hand; those outside
+  book 1 have not yet been reviewed.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
-  INDEX-ja.tsv.  Its names are the drafts', not yet made to agree with
-  the forms settled in English.
+  INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
+  for book 1 have now been unified throughout the index.
 
 The Japanese translation with a commentary in commentary/ja/ is
 finished in all 24 books: translated section by section from the
@@ -35,6 +35,14 @@ index-ja.tsv (see [Translating into Japanese](#translating-into-japanese)),
 mechanically checked against commentary/en/ (headings, Latin verses,
 paragraph counts), with proper names recorded book by book in
 [commentary/ja/proper_noun.md](commentary/ja/proper_noun.md).
+
+Book 1 has been checked against the English sections and summary, all
+162 index rows and 50 notes. Its translation and proper-name locators
+have been corrected; the reviewed index headwords have been unified
+throughout index-ja.tsv. Two draft gloss differences remain report-only:
+verse 11, edition 2 (破滅 for "plague"), and verse 46, edition 2
+(機知に富んでいる for "vivid"). Books 2–24 still need their semantic
+review, and the corrections have not yet been carried over to texts/.
 
 Next:
 
@@ -99,7 +107,8 @@ way, in the verses and in the commentary.
   Iuppiter ユピテル, Iuno ユノー, Venus ウェヌス, Mars マルス, Minerva
   ミネルウァ, Pallas パラス, Vulcan ウルカヌス, Neptune ネプトゥヌス,
   Apollo アポロ, Phoebus ポエブス, Titan ティタン, Iris イリス, Thetis
-  テティス, Nereus ネレウス, Oceanus オケアヌス, Orcus オルクス, the
+  テティス, Latona ラトナ, Nereus ネレウス, Doris ドリス,
+  Nereid(s) ネレイス（たち）, Oceanus オケアヌス, Orcus オルクス, the
   Muse(s) ムーサ, the Thunderer 雷神.
 - Where the commentary tells Homer's scene, the Greek names: Zeus
   ゼウス, Hera ヘラ, Athena アテナ, Hephaestus ヘパイストス, Poseidon
@@ -138,9 +147,10 @@ way, in the verses and in the commentary.
 - Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
   Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
   Teucrians テウクロイ, Myrmidons ミュルミドン, Lycians リュキア人,
-  Thracians トラキア人, Halizones ハリゾネス.
+  Thracians トラキア人, Halizones ハリゾネス, Ethiopians アイティオピア人.
 - Places and works: Troy トロイア, Olympus オリュンポス, Ida イダ,
-  Xanthus クサントス, Ithaca イタケ, Lemnos レムノス, Aspledon アスプレドン,
+  Xanthus クサントス, Ithaca イタケ, Chryse クリュセ, Lemnos レムノス,
+  Aspledon アスプレドン,
   Asia Minor 小アジア, Homer ホメロス, the *Iliad*
   『イリアス』, the *Ilias Latina* 『イリアス・ラティナ』; Plessis プレシス,
   Vollmer フォルマー (where the commentary gives the readings of both
