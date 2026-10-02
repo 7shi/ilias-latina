@@ -470,20 +470,20 @@ verse	edition	headword	headword-ja	form	description
 257	4	PARIS	パリス		(ヘクトルがパリスを次のように言っていることもここに加えよ。「祖国の…永遠の恥辱、われらの一族の汚名」)
 257	6	Paris	パリス	dedecus	ヘクトルの言葉 257 を参照:o dedecus . . . aeternum patriae generisque infamia nostri
 259	6	Menelaus	メネラオス	hospitis	hospitis 259
-264	4	MARS	マールス	Mars	頑強な兵士を喜ぶ
-264	6	Mars	マールス	Mars	duro Mars milite gaudet 264
+264	4	MARS	マルス	Mars	頑強な兵士を喜ぶ
+264	6	Mars	マルス	Mars	duro Mars milite gaudet 264
 268	4	GRAI	ギリシア人	Danaum	— 民
 268	4	MENELAUS	メネラオス	Atrides	Atrides:疲れを知らぬ者、武器をとってパリスと戦うがよい
 268	4	TROJANI	トロイア人	Phrygum	Phrygum:プリュギア人の民
-268	6	Atrides (Menelaus)	アトレウスの子(メネラーオス)	Atrides	impiger -des 268
+268	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrides	impiger -des 268
 268	6	Danai	ダナオイ	Danaum	-um(属格):19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 268	6	Phryges	プリュギア人	Phrygum	-gum . . . populus 268
 271	4	PARIS	パリス	Priameius	Priameius heros:プリアモスの子なる英雄がヘクトルに手短に答える
 271	6	Priameius	プリアモスの子	Priameius	Priameius heros:パリス 271、ヘクトル 960
 273	6	Hector	ヘクトル	decus	o patriae, germane, decus 273
-273	6	Helene	ヘレネー	coniunx	coniunx 273. 276. 285. 301
+273	6	Helene	ヘレネ	coniunx	coniunx 273. 276. 285. 301
 275	6	Menelaus	メネラオス	viri	viri 275. 288. 329
-276	6	Helene	ヘレネー	coniunx	coniunx 273. 276. 285. 301
+276	6	Helene	ヘレネ	coniunx	coniunx 273. 276. 285. 301
 277	4	GRAI	ギリシア人	Grais	— ヘクトルの意見がギリシア人の気に入る
 277	4	HECTOR	ヘクトル	Hector	— パリスの言葉を伝える
 277	6	Graius	ギリシアの	Grais	Grais 2. 277. 614
@@ -496,26 +496,26 @@ verse	edition	headword	headword-ja	form	description
 282	6	Alexander	アレクサンドロス	Alexander	pulcher Alexander 282
 283	4	MENELAUS	メネラオス	Menelaus	武具に輝き、パリスに対して立った
 283	6	Menelaus	メネラオス	Menelaus	Menelaus 283. 312. 339. 539
-285	6	Helene	ヘレネー	coniuge	coniunx 273. 276. 285. 301
+285	6	Helene	ヘレネ	coniuge	coniunx 273. 276. 285. 301
 286	4	JUPPITER	ユピテル	Juppiter	— ただ彼が味方してくれさえすれば(メネラオスが語る)
 286	6	Iuppiter	ユピテル	Iuppiter	tantummodo -er adsit 286
 288	6	Menelaus	メネラオス	virum	viri 275. 288. 329
 290	4	MENELAUS	メネラオス	Atrides	— パリスの槍を避ける
-290	6	Atrides (Menelaus)	アトレウスの子(メネラーオス)	Atrides	-des 290. 301. 332. 349. (510?)
+290	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrides	-des 290. 301. 332. 349. (510?)
 292	4	PARIS	パリス	Praedonis	Praedo Phrygius praedonis Phrygii:鉄の胸甲が覆っていなかったならば、メネラオスの槍はプリュギアの略奪者の身体を傷つけていたであろう
 292	4	PHRYGIUS	プリュギアの	Phrygii	Phrygii praedonis
 292	6	Phrygius	プリュギアの	Phrygii	praedonis Phrygii 292
 301	4	MENELAUS	メネラオス	Atrides	— 奪われた妻を思い、迫る
-301	6	Atrides (Menelaus)	アトレウスの子(メネラーオス)	Atrides	-des 290. 301. 332. 349. (510?)
-301	6	Helene	ヘレネー	coniugis	coniunx 273. 276. 285. 301
-302	4	PARIS	パリス	Dardanium	Dardanius juvenis Dardanium juvenem:メネラオスはダルダノスの若者に剣で迫る
-302	6	Dardanius	ダルダノスの	Dardanium	-um . . . iuvenem 302:パリス
+301	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrides	-des 290. 301. 332. 349. (510?)
+301	6	Helene	ヘレネ	coniugis	coniunx 273. 276. 285. 301
+302	4	PARIS	パリス	Dardanium	Dardanius juvenis Dardanium juvenem:メネラオスはダルダニアの若者に剣で迫る
+302	6	Dardanius	ダルダニアの	Dardanium	-um . . . iuvenem 302:パリス
 305	4	GRAI	ギリシア人	Grajum	— パリスが傷つけられると、ギリシア人の隊列は呻いた
 305	6	Graius	ギリシアの	Graium	agmina -um 305. 487
 307	6	Menelaus	メネラオス	victor	victor 307. 352
 307	6	Paris	パリス	iuvenem	iuvenem 307
 309	4	VENUS	ウェヌス	Cytherea	Cytherea:メネラオスと戦うパリスを霧で覆う
-309	6	Cytherea	キュテーラの女神	Cytherea	Cythereă 309. 335. 470:ウェヌス
+309	6	Cytherea	キュテレア	Cytherea	Cythereă 309. 335. 470:ウェヌス
 309	6	Paris	パリス	virum	virum 309
 311	4	PARIS	パリス	Paridi	Paridi:ウェヌスが彼を覆わなかったならば、それはパリスの最後の日となったであろう
 311	6	Paris	パリス	Paridi	Paridī 311
@@ -526,35 +526,35 @@ verse	edition	headword	headword-ja	form	description
 315	4	VENUS	ウェヌス	Venus	パリスをメネラオスから奪い去る
 315	6	Phrygius	プリュギアの	Phrygii	Phrygii、すなわちパリスの、315
 315	6	Venus	ウェヌス	Venus	Venus 315. 464. 911
-317	4	HELENA	ヘレネー	Helenam	Helenam:ウェヌスがヘレネーをパリスのもとへ連れて行く
-317	6	Helene	ヘレネー	Helenam	Helenam 317. 343
-318	4	PARIS	パリス	Paridi	— ウェヌスはダルダノスの者のもとへヘレネーを連れて行く
-318	6	Dardanius	ダルダノスの	Dardanio	Dardanio . . . Paridi 318
+317	4	HELENA	ヘレネ	Helenam	Helenam:ウェヌスがヘレネをパリスのもとへ連れて行く
+317	6	Helene	ヘレネ	Helenam	Helenam 317. 343
+318	4	PARIS	パリス	Paridi	— ウェヌスはダルダニアの者のもとへヘレネを連れて行く
+318	6	Dardanius	ダルダニアの	Dardanio	Dardanio . . . Paridi 318
 318	6	Paris	パリス	Paridi	Dardanio . . . dī 318
-320	4	PARIS	パリス	Paris	呼格:「わが炎よ」(ヘレネーが呼びかける)
-320	6	Paris	パリス	Paris	呼格:mea flamma, Paris(ヘレネーが語る)320
+320	4	PARIS	パリス	Paris	呼格:「わが炎よ」(ヘレネが呼びかける)
+320	6	Paris	パリス	Paris	呼格:mea flamma, Paris(ヘレネが語る)320
 321	6	Menelaus	メネラオス	coniugis	coniugis antiqui 321
-322	4	MENELAUS	メネラオス	Atrides	— 乱暴な者(ヘレネーがパリスに呼びかける)
-322	6	Atrides (Menelaus)	アトレウスの子(メネラーオス)	Atrides	violentus -es 322
-323	4	ILIACUS	イリオンの	Iliaco	Iliaco pulvere:メネラオスがパリスの髪をイリオンの塵で汚していたとき、ヘレネーは恐れていた
+322	4	MENELAUS	メネラオス	Atrides	— 乱暴な者(ヘレネがパリスに呼びかける)
+322	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrides	violentus -es 322
+323	4	ILIACUS	イリオンの	Iliaco	Iliaco pulvere:メネラオスがパリスの髪をイリオンの塵で汚していたとき、ヘレネは恐れていた
 323	6	Iliacus	イリオンの	Iliaco	Iliaco . . . pulvere 323
-324	4	DORICUS	ドーリスの	Doricus	Doricus ensis:ドリスの剣
-324	6	Doricus	ドーリスの	Doricus	Doricus ensis 324
-327	4	MENELAUS	メネラオス	Atrida	Cum Atrida:誰が汝に残忍なアトレウスの子と争うよう勧めたのか(ヘレネーがパリスに呼びかける)
-327	6	Atrides (Menelaus)	アトレウスの子(メネラーオス)	Atrida	cum saevo . . . -da 327
+324	4	DORICUS	ドリスの	Doricus	Doricus ensis:ドリスの剣
+324	6	Doricus	ドリスの	Doricus	Doricus ensis 324
+327	4	MENELAUS	メネラオス	Atrida	Cum Atrida:誰が汝に残忍なアトレウスの子と争うよう勧めたのか(ヘレネがパリスに呼びかける)
+327	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrida	cum saevo . . . -da 327
 329	6	Menelaus	メネラオス	viri	viri 275. 288. 329
-332	4	MENELAUS	メネラオス	Atrides	— 私に勝ったのではない(パリスがヘレネーに呼びかける)
-332	4	PARIS	パリス	Alexander	— 悲しげに、ヘレネーに答える
+332	4	MENELAUS	メネラオス	Atrides	— 私に勝ったのではない(パリスがヘレネに呼びかける)
+332	4	PARIS	パリス	Alexander	— 悲しげに、ヘレネに答える
 332	6	Alexander	アレクサンドロス	Alexander	-er 332
-332	6	Atrides (Menelaus)	アトレウスの子(メネラーオス)	Atrides	-des 290. 301. 332. 349. (510?)
+332	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrides	-des 290. 301. 332. 349. (510?)
 333	4	MINERVA	ミネルウァ	Palladis	Palladis:貞潔なパラスの怒りがパリスを打ち負かした
-333	6	Helene	ヘレネー	ardor	o meus ardor 333
+333	6	Helene	ヘレネ	ardor	o meus ardor 333
 333	6	Pallas	パラス	Pallados	castae -dos ira 333
 335	4	VENUS	ウェヌス	Cytherea	— わが労苦に味方してくれるであろう(パリスが語る)
-335	6	Cytherea	キュテーラの女神	Cytherea	Cythereă 309. 335. 470:ウェヌス
-337	4	HELENA	ヘレネー	Cygneidos	Cygneis Cygneidos:パリスは白鳥の娘の肢体の上に横たわる
-337	6	Cygneis	白鳥の娘	Cygneidos	Cygneidos(一部の写本では -dus)337:ヘレネー
-338	4	TROJA	トロイア	Trojae	ヘレネーはトロイアの炎と自らの炎(すなわちパリス)を膝に受け入れる
+335	6	Cytherea	キュテレア	Cytherea	Cythereă 309. 335. 470:ウェヌス
+337	4	HELENA	ヘレネ	Cygneidos	Cygneis Cygneidos:パリスは白鳥の娘の肢体の上に横たわる
+337	6	Cygneis	キュグネイス	Cygneidos	Cygneidos(一部の写本では -dus)337:ヘレネ
+338	4	TROJA	トロイア	Trojae	ヘレネはトロイアの炎と自らの炎(すなわちパリス)を膝に受け入れる
 338	6	Troia	トロイア	Troiae	flammas . . . -iaeque suasque Parin 338
 339	4	MENELAUS	メネラオス	Menelaus	— 軍勢全体の中でパリスを探す
 339	4	TROJANI	トロイア人	Troum	— メネラオスはトロイア人の戦列の中にパリスを探す
@@ -565,8 +565,8 @@ verse	edition	headword	headword-ja	form	description
 341	6	Hector	ヘクトル	frater	frater 341
 342	4	TROJANI	トロイア人	Phrygas	Phrygas:アガメムノンは敗走したプリュギア人を口で叱りつける
 342	6	Phryges	プリュギア人	Phrygas	pulsos -as (-es trad.) 342
-343	4	HELENA	ヘレネー	Helenam	— メネラオスがヘレネーの返還を求める
-343	6	Helene	ヘレネー	Helenam	Helenam 317. 343
+343	4	HELENA	ヘレネ	Helenam	— メネラオスがヘレネの返還を求める
+343	6	Helene	ヘレネ	Helenam	Helenam 317. 343
 345	4	JUPPITER	ユピテル	regnator	Regnator Olympi:オリュンポスの全能の支配者が会議を開く
 345	4	OLYMPUS	オリュンポス	Olympi	Olympi regnator:オリュンポスの支配者(ユピテル)
 345	6	Iuppiter	ユピテル	regnator	omnipotens . . . regnator Olympi 345
@@ -576,7 +576,7 @@ verse	edition	headword	headword-ja	form	description
 347	4	MENELAUS	メネラオス	Menelae	Menelae:メネラオスよ、パンダロスが汝を狙う
 347	6	Menelaus	メネラオス	Menelae	te, Menelae 347
 349	4	MENELAUS	メネラオス	Atrides	— 呻きながら、パンダロスの矢で傷つけられたので戦いから退く
-349	6	Atrides (Menelaus)	アトレウスの子(メネラーオス)	Atrides	-des 290. 301. 332. 349. (510?)
+349	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrides	-des 290. 301. 332. 349. (510?)
 350	6	Aesculapius	アスクレーピオス	arte	arte paterna 350 を参照
 351	4	PAEONIUS	パイエーオーンの	Paeoniis	Paeoniis herbis:ポダレイリオスはパイエーオーンの薬草でメネラオスを治療する
 351	4	PODALIRIUS	ポダレイリオス	Podalirius	— パンダロスに傷つけられたメネラオスを治療する
@@ -591,7 +591,7 @@ verse	edition	headword	headword-ja	form	description
 357	4	TROJANI	トロイア人	Troum	— トロイア人の部隊が倒れる
 357	6	Danai	ダナオイ	Danaum	-um(属格):19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 357	6	Tros	トロイア人	Troum	Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
-358	4	MARS	マールス	Mavors	Mavors:四方に響く
+358	4	MARS	マルス	Mavors	Mavors:四方に響く
 358	6	Mavors	マーウォルス	Mavors	sonat undique Mavors、すなわち戦闘、358
 360	4	ANTILOCHUS	アンティロコス	Antilochi	Antilochi:タリュシオスの子(エケポロス)がアンティロコスの剣で殺される
 360	4	THALYSIADES	タリュシオスの子	Thalysiades	(エケポロス)アンティロコスに殺される
@@ -622,8 +622,8 @@ verse	edition	headword	headword-ja	form	description
 378	6	Imbrasides	インブラソスの子	Imbrasides	impiger *Imbrasides (umbr- trad.) 378:ペイロオス
 380	4	THOAS	トアス	Thoantis	Thoantis:トアスの右手が、構えた槍でペイロオスに向かう
 380	6	Thoas	トアス	Thoantis	dextrā . . . Thoantis 380
-384	4	DARDANIUS	ダルダノスの	Dardanii	Dardanii campi:ダルダノスの野は血に濡れる
-384	6	Dardanius	ダルダノスの	Dardanii	-ii . . . campi 384:トロイアの
+384	4	DARDANIUS	ダルダニアの	Dardanii	Dardanii campi:ダルダニアの野は血に濡れる
+384	6	Dardanius	ダルダニアの	Dardanii	-ii . . . campi 384:トロイアの
 385	6	Xanthus (fluvius)	クサントス(河)	amnes	amnes 385
 387	4	GRAI	ギリシア人	Achivis	— 彼らの武勇が増す
 387	4	TROJANI	トロイア人	Trojanis	Trojanis:トロイア人の武勇が増す
@@ -632,8 +632,8 @@ verse	edition	headword	headword-ja	form	description
 389	4	GRAI	ギリシア人	Danaum	— 退く隊列
 389	6	Danai	ダナオイ	Danaum	-um(属格):19. 50. 67. 124. 153. 251. 268. 357. 389. 496. 631. 686. 691. 698. 705. 743. 747. 794. 1025
 390	4	DIOMEDES	ディオメデス	Tydides	— ダナオイが退くのを見る
-390	4	MARS	マールス	Martem	Martem:ディオメデスはマルスが膨れ上がり大きくなるのを見る
-390	6	Mars	マールス	Martem	tumidumque increscere Martem、すなわち戦争、390
+390	4	MARS	マルス	Martem	Martem:ディオメデスはマルスが膨れ上がり大きくなるのを見る
+390	6	Mars	マルス	Martem	tumidumque increscere Martem、すなわち戦争、390
 390	6	Tydides	テュディデス	Tydides	Tydides 390. 408. 530. 665. 1008
 394	4	MINERVA	ミネルウァ	Pallas	— 戦の女神は戦いでディオメデスに付き添う
 394	6	Pallas	パラス	Pallas	bellica -as 394
@@ -735,13 +735,13 @@ verse	edition	headword	headword-ja	form	description
 467	4	VENUS	ウェヌス	Venerem	In Venerem:ディオメデスは武器をとってウェヌスに襲いかかる
 467	6	Venus	ウェヌス	Venerem	in -rem 467
 470	4	VENUS	ウェヌス	Cytherea	— ディオメデスの槍に打たれ、天へ向かう
-470	6	Cytherea	キュテーラの女神	Cytherea	Cythereă 309. 335. 470:ウェヌス
+470	6	Cytherea	キュテレア	Cytherea	Cythereă 309. 335. 470:ウェヌス
 471	6	Dione	ディオーネー	matri	(Dione)、ウェヌスの母:sidereae . . . matri 471
-472	4	AENEAS	アイネイアス	Aenean	Aenean:トロイアのアポロがダルダノスのアイネイアスを救う
+472	4	AENEAS	アイネイアス	Aenean	Aenean:トロイアのアポロがダルダニアのアイネイアスを救う
 472	4	APOLLO	アポロ	Apollo	— トロイアの[アポロ]がアイネイアスを救う
 472	6	Aeneas	アイネイアス	Aenean	Dardanium -an 472
 472	6	Apollo	アポロ	Apollo	Troianus -o 472. 830
-472	6	Dardanius	ダルダノスの	Dardanium	-um Aenean 472
+472	6	Dardanius	ダルダニアの	Dardanium	-um Aenean 472
 483	4	AENEAS	アイネイアス	Veneris	Veneris proles:ウェヌスのいと麗しき子が軍勢の中に躍り出る
 483	4	VENUS	ウェヌス	Veneris	Veneris:ウェヌスの子、アイネイアス
 483	6	Aeneas	アイネイアス	proles	および Venus 483
@@ -762,8 +762,8 @@ verse	edition	headword	headword-ja	form	description
 493	4	TROJANI	トロイア人	Phryges	— より激しく迫る
 493	6	Graius	ギリシアの	Graiorum	-orum acies 493
 493	6	Phryges	プリュギア人	Phryges	Phryges 401. 493. 636. 682. 762. 803
-495	4	MARS	マールス	Marti	Marti:ギリシア人は敵意あるマルスの前に退く
-495	6	Mars	マールス	marte	infesto Marte 495
+495	4	MARS	マルス	Marti	Marti:ギリシア人は敵意あるマルスの前に退く
+495	6	Mars	マルス	marte	infesto Marte 495
 496	4	AGAMEMNON	アガメムノン	Danaum	Danaum rex:敵意あるマルスの前に仲間たちが退くのを見る
 496	4	GRAI	ギリシア人	Danaum	— 王(アガメムノン)
 496	6	Agamemnon	アガメムノン	rex	また rex Danaum 124. 496 を参照
@@ -784,7 +784,7 @@ verse	edition	headword	headword-ja	form	description
 509	6	Aeneas	アイネイアス	Aenean	-ān 509
 510	4	AGAMEMNON	アガメムノン	Atrides	— 戦車で進むアイネイアスを見つける
 510	6	Atrides (Agamemno)	アトリデス（アガメムノン）	Atrides	-es 24. 510(?) 663
-510	6	Atrides (Menelaus)	アトレウスの子(メネラーオス)	Atrides	-des 290. 301. 332. 349. (510?)
+510	6	Atrides (Menelaus)	アトリデス（メネラオス）	Atrides	-des 290. 301. 332. 349. (510?)
 513	6	Aeneae auriga	アエネーアースの御者		アイネイアスの御者、名は挙げられない 513
 516	4	AENEAS	アイネイアス	Aeneas	— 御者がアガメムノンに殺されると、呻き、勇んで戦車から飛び降りる
 516	6	Aeneas	アイネイアス	Aeneas	-as 454. 516
@@ -817,7 +817,7 @@ verse	edition	headword	headword-ja	form	description
 529	6	Hector	ヘクトル	Hector	patriae columen Mavortius -or 529
 530	4	DIOMEDES	ディオメデス	Tydides	— 戦う
 530	6	Tydides	テュディデス	Tydides	Tydides 390. 408. 530. 665. 1008
-532	4	MARS	マールス	Mavors	— 戦の力を持つ者、パラスと戦う
+532	4	MARS	マルス	Mavors	— 戦の力を持つ者、パラスと戦う
 532	4	MINERVA	ミネルウァ	Pallade	Cum Pallade:マルスは貞潔なパラスと戦う
 532	6	bellipotens	戦の力を持つ者	bellipotens	bellipotens . . . Mavors 532
 532	6	Mavors	マーウォルス	Mavors	bellipotens . . . Mavors 532
@@ -845,7 +845,7 @@ verse	edition	headword	headword-ja	form	description
 544	6	Danai	ダナオイ	Danais	pro -is 544
 545	4	MINERVA	ミネルウァ	Virginis	神威
 545	6	armigera	武装した	armigerae	virginis armigerae 400. 545:ミネルウァの
-546	4	HECUBA	ヘカベー	Hecubam	Hecubam:ヘクトルはヘカベーを呼ぶよう命じる
+546	4	HECUBA	ヘカベー	Hecubam	Hecubam:ヘクトルはヘカベを呼ぶよう命じる
 546	6	Hecabe	ヘカベー	Hecaben	Hecubam 546
 547	6	Diva	女神	divae	divae 547:ミネルウァ
 548	4	MINERVA	ミネルウァ	Palladis	トロイアの女たちは未婚のパラスの神殿へ上って行く
@@ -853,7 +853,7 @@ verse	edition	headword	headword-ja	form	description
 549	4	ILIADES	イーリオンの女たち	Iliades	ミネルウァの神殿へ上って行く
 549	6	Iliades	イーリオンの女たち	Iliades	Iliades 549
 551	4	HECUBA	ヘカベー	Hecube	Hecube:嘆願者としてミネルウァの神殿へ
-551	4	MINERVA	ミネルウァ	Minervae	Minervae:ヘカベーは嘆願者としてミネルウァの神殿に来る
+551	4	MINERVA	ミネルウァ	Minervae	Minervae:ヘカベは嘆願者としてミネルウァの神殿に来る
 551	6	Hecabe	ヘカベー	Hecabe	Hecabē (-cuba trad.) . . . genetrix 551
 551	6	Minerva	ミネルウァ	Minervae	ad templa Minervae 551
 552	6	Priamus	プリアモス	coniuge	coniuge 552 を参照
@@ -866,8 +866,8 @@ verse	edition	headword	headword-ja	form	description
 559	4	VENUS	ウェヌス	Veneris	— ディオメデスがウェヌスの右手を傷つける
 559	6	Diomedes	ディオメーデース	qui	584 行:qui . . . manum Veneris violavit(559 を参照)
 559	6	Venus	ウェヌス	Veneris	-eris 559. 584
-560	4	MARS	マールス	Martem	— ディオメデスはマルスを突いた
-560	6	Mars	マールス	Martem	Diomedes pupugit . . . Martem 560
+560	4	MARS	マルス	Martem	— ディオメデスはマルスを突いた
+560	6	Mars	マルス	Martem	Diomedes pupugit . . . Martem 560
 564	4	ANDROMACHE	アンドロマケー	Andromache	ヘクトルのいと忠実な妻、彼と語り合うことを求める
 565	4	ASTYANAX	アステュアナクス	Astyanacta	Astyanacta:アンドロマケーが幼いアステュアナクスを抱く
 565	4	HECTOR	ヘクトル	Hectoris	— その妻アンドロマケー
@@ -971,10 +971,10 @@ verse	edition	headword	headword-ja	form	description
 636	4	TROJANI	トロイア人	Phryges	— 集会に来る
 636	6	Hector	ヘクトル	Hector	maximus -or 577. 636
 636	6	Phryges	プリュギア人	Phryges	Phryges 401. 493. 636. 682. 762. 803
-638	4	GRAI	ギリシア人	Achivis	— ヘクトルは、ヘレネーを不敗のアカイア人に返すよう勧める
-638	4	HELENA	ヘレネー	Helene	Helene:ヘクトルは、ヘレネーをギリシア人に返すよう勧める
+638	4	GRAI	ギリシア人	Achivis	— ヘクトルは、ヘレネを不敗のアカイア人に返すよう勧める
+638	4	HELENA	ヘレネ	Helene	Helene:ヘクトルは、ヘレネをギリシア人に返すよう勧める
 638	6	Achivi	アカイア人	Achivis	invictis . . . -is 638
-638	6	Helene	ヘレネー	Helene	Helenē 638
+638	6	Helene	ヘレネ	Helene	Helenē 638
 639	4	MENELAUS	メネラオス	Menelai	— メネラオスの激しい炎を和らげる戦利品
 639	6	Menelaus	メネラオス	Menelai	-lai 519. 639
 640	4	MENELAUS	メネラオス	Atridae	Atridae:イーダイオスが残忍なアトレウスの子のもとへ送られる
@@ -1012,8 +1012,8 @@ verse	edition	headword	headword-ja	form	description
 661	6	Achivi	アカイア人	Achivi	661
 661	6	Hector	ヘクトル	decus	unum . . . decus Phrygiae 661
 661	6	Phrygia	プリュギア	Phrygiae	unum . . . decus Phrygiae、ヘクトル:661
-662	4	DORICUS	ドーリスの	Dorica	Dorica castra:ドリスの陣営
-662	6	Doricus	ドーリスの	Dorica	-ca . . . castra 662
+662	4	DORICUS	ドリスの	Dorica	Dorica castra:ドリスの陣営
+662	6	Doricus	ドリスの	Dorica	-ca . . . castra 662
 663	4	AGAMEMNON	アガメムノン	Atrides	— 仲間たちを励ます
 663	6	Atrides (Agamemno)	アトリデス（アガメムノン）	Atrides	-es 24. 510(?) 663
 665	4	DIOMEDES	ディオメデス	Tydides	— 将として、燃える武具で躍り出る
@@ -1242,10 +1242,10 @@ verse	edition	headword	headword-ja	form	description
 819	6	Troicus	トロイアの	Troica	Troica dextera、ヘクトルの:819
 820	4	HECTOR	ヘクトル	Hector	— 最も勇敢な者、戦においてどれほど力があるか(自らについて語る)
 820	6	Hector	ヘクトル	Hector	fortissimus -or 486. 820
-821	4	MARS	マールス	Mavors	— たとえ彼が汝を守ろうとも、汝は死ぬであろう(ヘクトルがパトロクロスに呼びかける)
+821	4	MARS	マルス	Mavors	— たとえ彼が汝を守ろうとも、汝は死ぬであろう(ヘクトルがパトロクロスに呼びかける)
 821	6	Mavors	マーウォルス	Mavors	ipse . . . Mavors 821
-822	4	MARS	マールス	Marte	Marte invito:マルスの意に反して、この右手が汝を滅ぼすであろう(ヘクトルが、アキレウスの武具をまとったパトロクロスに呼びかける)
-822	6	Mars	マールス	Marte	invito . . . Marte 822
+822	4	MARS	マルス	Marte	Marte invito:マルスの意に反して、この右手が汝を滅ぼすであろう(ヘクトルが、アキレウスの武具をまとったパトロクロスに呼びかける)
+822	6	Mars	マルス	Marte	invito . . . Marte 822
 823	6	Patroclus	パトロクロス	ille	ille 809. 823 を参照
 824	4	ACHILLES	アキレウス	Achilles	主格、述語として:パトロクロスは、ヘクトルに本物のアキレウスと信じられるよう沈黙する
 824	6	Achilles	アキレウス	Achilles	verus . . . -es 824
@@ -1330,8 +1330,8 @@ verse	edition	headword	headword-ja	form	description
 874	6	Nereis	ネレイス	Nereidas	liquidas . . . Nereidas 874
 880	6	Musa	ムーサ	puellae	castae . . . puellae 880
 880	6	Paean	パイアーン	Paeana	resonant Paeana puellae 880
-889	4	MARS	マールス	Mars	— 黄金の者、アキレウスの盾の上に立っていた
-889	6	Mars	マールス	Mars	Mars aureus in medio Achillis clipeo 889
+889	4	MARS	マルス	Mars	— 黄金の者、アキレウスの盾の上に立っていた
+889	6	Mars	マルス	Mars	Mars aureus in medio Achillis clipeo 889
 891	4	CLOTHO	クロートー	Clotho	(アキレウスの盾の上に)
 891	4	LACHESIS	ラケシス	Lachesis	(アキレウスの盾の上に)
 891	6	Clotho	クロートー	Clotho	Clotho 891
@@ -1360,8 +1360,8 @@ verse	edition	headword	headword-ja	form	description
 903	6	Aeacides (Achilles)	アエアキデス（アキレウス）	Aeacides	-ēs 903
 903	6	Teucri	テウクロイ	Teucros	-os 424. 903
 905	4	HECTOREUS	ヘクトールの	Hectorei	Hectorei sanguinis
-905	4	TROJANI	トロイア人	Dardana	Dardana pubes:ダルダノスの若者たちがクサントスへ逃げ込む
-905	6	Dardanus	ダルダノスの	Dardana	Dardana pubes 905
+905	4	TROJANI	トロイア人	Dardana	Dardana pubes:ダルダニアの若者たちがクサントスへ逃げ込む
+905	6	Dardanus	ダルダニアの	Dardana	Dardana pubes 905
 905	6	Hectoreus	ヘクトールの	Hectorei	sanguinis Hectorei 905
 906	4	XANTHUS fluvius	クサントス、河	Xanthi	トロイア人はクサントスの波へ逃げる
 906	6	Xanthus (fluvius)	クサントス(河)	Xanthi	ad -i fluctus 906
@@ -1519,7 +1519,7 @@ verse	edition	headword	headword-ja	form	description
 1028	6	Achilles	アキレウス	Achilles	呼格:fortissime -es 818. 1028
 1028	6	Graius	ギリシアの	Graiae	Graiae gentis 1028
 1029	4	TROJANI	トロイア人	Dardana	— 汝ただ一人に震える(プリアモスがアキレウスに呼びかける)
-1029	6	Dardanus	ダルダノスの	Dardana	-na . . . pubes 1029
+1029	6	Dardanus	ダルダニアの	Dardana	-na . . . pubes 1029
 1030	6	Priamus	プリアモス	senectus	nostra senectus 1030
 1032	6	Priamus	プリアモス	patris	afflicti . . . patris 986. 1032
 1033	6	Hector	ヘクトル	nati	natum 945. 1033. 1036
@@ -1528,9 +1528,9 @@ verse	edition	headword	headword-ja	form	description
 1036	6	Priamus	プリアモス	pater	pater 1036
 1038	6	Hector	ヘクトル	funus	funus 1038
 1038	6	Priamus	プリアモス	parentis	parentis 225. 1038. 1044
-1040	4	DARDANUS	ダルダノスの	Dardana	Dardana regna:汝はダルダノスの王国を征服した(プリアモスがアキレウスに)
+1040	4	DARDANUS	ダルダニアの	Dardana	Dardana regna:汝はダルダニアの王国を征服した(プリアモスがアキレウスに)
 1040	4	HECTOR	ヘクトル	Hectoris	— ヘクトルの死によって征服されたトロイア
-1040	6	Dardanus	ダルダノスの	Dardana	-na regna 1040:トロイアの
+1040	6	Dardanus	ダルダニアの	Dardana	-na regna 1040:トロイアの
 1040	6	Hector	ヘクトル	Hectoris	-oris 232. 565. 1006. 1040
 1041	4	PRIAMUS	プリアモス	Priamum	Priamum:汝はプリアモスを征服した(アキレウスに向かって自らについて語る)
 1041	6	Priamus	プリアモス	Priamum	vicisti -mum 1041

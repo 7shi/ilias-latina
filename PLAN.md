@@ -22,11 +22,11 @@ counterparts, from the editions' Japanese drafts:
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
   full Japanese in the edition's ilias-ja.md, by hand; those outside
-  books 1 and 2 have not yet been reviewed.
+  books 1–3 have not yet been reviewed.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
   INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
-  for books 1 and 2 have now been unified throughout the index.
+  for books 1–3 have now been unified throughout the index.
 
 The Japanese translation with a commentary in commentary/ja/ is
 finished in all 24 books: translated section by section from the
@@ -41,7 +41,7 @@ Book 1 has been checked against the English sections and summary, all
 have been corrected; the reviewed index headwords have been unified
 throughout index-ja.tsv. Two draft gloss differences remain report-only:
 verse 11, edition 2 (破滅 for "plague"), and verse 46, edition 2
-(機知に富んでいる for "vivid"). Books 3–24 still need their semantic
+(機知に富んでいる for "vivid"). Books 4–24 still need their semantic
 review, and the corrections have not yet been carried over to texts/.
 
 Book 2 has also been checked: 61 sections and the summary, 298 index
@@ -55,6 +55,20 @@ differences remain report-only, both in edition 2: verse 152 can place
 the prediction in the tenth year instead of the previously predicted
 toil; verse 195 uses 同胞 for "ally". The source confirms that 同写本 in
 the adapted note at 156 correctly refers to manuscript G. 2.
+
+Book 3 has been checked: 25 sections and the summary, 108 index rows
+and 42 notes. Verse wording, commentary and headings have been
+corrected, including displaced and repeated words and the shield at
+297. The proper-name table distinguishes verse, commentary and
+summary occurrences, Dardanian from Dardanus, and the Phrygian Paris
+from the Phrygian army. Reviewed index headwords are unified
+throughout index-ja.tsv; names in descriptions and book 3 notes agree
+with the commentary. At 321 the Latin Ulysses of Ovid is ウリクセス.
+Four draft differences remain report-only, all in edition 2: at 253
+Medea is treated as a title and Troad as Troy; at 260 the adapted
+fragment has incomplete Japanese syntax; at 293 the Japanese specifies
+oxhide where the English has hide. The edition-specific readings at
+305, 341 and 343 are preserved.
 
 Next:
 
@@ -133,7 +147,8 @@ way, in the verses and in the commentary.
   Priamides プリアミデス, Thestorides テストリデス, Dardanides
   ダルダニデス, Laertiades ラエルティアデス, Oenides オエニデス, Somnus
   ソムヌス, Aurora アウロラ, Mavors マウォルス, Ignipotens イグニポテンス,
-  Mulciber ムルキベル, Tritonia トリトニア, Cytherea キュテレア, Ilion
+  Mulciber ムルキベル, Tritonia トリトニア, Cytherea キュテレア,
+  Cygneis キュグネイス, Ilion
   イリオン, Pergama ペルガマ, Amaryncides アマリュンキデス,
   Eurus エウルス, Hesperus ヘスペルス, Pierides ピエリデス;
   the others of the kind (Arctos, Lucifer, Luna …) likewise.
@@ -169,7 +184,7 @@ way, in the verses and in the commentary.
 - Places and works: Troy トロイア, Olympus オリュンポス, Ida イダ,
   Xanthus クサントス, Ithaca イタケ, Chryse クリュセ, Lemnos レムノス,
   Aspledon アスプレドン, Athens アテナイ, Mycenae ミュケナイ,
-  Syme シュメ, Rhodes ロドス, Phylace ピュラケ,
+  Syme シュメ, Rhodes ロドス, Phylace ピュラケ, Cythera キュテラ島,
   Asia Minor 小アジア, Homer ホメロス, the *Iliad*
   『イリアス』, the *Ilias Latina* 『イリアス・ラティナ』; Plessis プレシス,
   Vollmer フォルマー (where the commentary gives the readings of both
