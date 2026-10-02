@@ -1,6 +1,8 @@
 # Japanese commentary proofreading
 
-Completed checks and corrections for commentary/ja/, moved from PLAN.md.
+Settled forms, source-based decisions and corrections for commentary/ja/.
+Completed translation, checking and propagation procedures are archived
+in [DONE.md](DONE.md).
 The translation, summaries and proper-name table have been checked for
 all 24 books. Reviewed names in commentary/commentary-ja.tsv and
 commentary/index-ja.tsv agree with the commentary.
@@ -12,24 +14,83 @@ recorded below. Edition-specific readings and identifications are
 preserved as in their sources. The other translated material of the
 editions remains draft material outside this targeted review.
 
-## Carrying the corrections over to texts/
+## Japanese proper-name forms
 
-The finalized Japanese names have been carried over to the editions'
-INDEX-ja.tsv and index-ja.md, and to ilias-ja.md and COMMENTARY-ja.md.
-All 1,371 verse-bearing source index rows were matched using the
-concordance, their Latin headwords and quoted forms; the two Nereides
-rows at LL 874 were distinguished by their descriptions. Cross-reference
-headwords use the settled forms of the corresponding names.
+The Japanese forms used in the translation and proofreading, moved
+from PLAN.md. The general naming policy remains in
+[Translating into Japanese](DONE.md#translating-into-japanese);
+[proper_noun.md](proper_noun.md) records occurrences by book.
 
-Corrections from 240 reviewed TSV notes were matched to their source
-items. Full notes retain their original numbering and wording, rather
-than being replaced by the adapted commentary excerpts. Roman and Greek
-name forms follow the context. Non-name draft meaning differences were
-left unchanged in that propagation; they were subsequently examined in
-the review below. `make notes` in texts/ rebuilt notes-ja.md from the
-corrected edition files. The source index rows and descriptions were
-checked against the reviewed TSVs; Latin and Greek quotations, numbers,
-verse tables, headings and note labels were verified unchanged.
+- Gods, in the verses and wherever the commentary speaks of the Latin:
+  Iuppiter ユピテル, Iuno ユノー, Venus ウェヌス, Mars マルス, Minerva
+  ミネルウァ, Pallas パラス, Vulcan ウルカヌス, Neptune ネプトゥヌス,
+  Apollo アポロ, Phoebus ポエブス, Titan ティタン, Iris イリス, Thetis
+  テティス, Latona ラトナ, Nereus ネレウス, Doris ドリス,
+  Nereid(s) ネレイス（たち）, Nymph(s) ニンフ（たち）, Aesculapius アエスクラピウス, Oceanus
+  オケアヌス, Orcus オルクス, the Muse(s) ムーサ, the Thunderer 雷神.
+- Where the commentary tells Homer's scene, the Greek names: Zeus
+  ゼウス, Hera ヘラ, Athena アテナ, Hephaestus ヘパイストス, Poseidon
+  ポセイドン, Ares アレス, Aphrodite アプロディテ, Odysseus オデュッセウス,
+  Apollo アポロン, Phoebus ポイボス, Asclepius アスクレピオス,
+  Enyalius エニュアリオス, Paeon パイオン, Hebe ヘーベー,
+  Dawn 曙の女神.
+- Names that the English keeps in Latin are katakana of the Latin, and
+  the commentary explains them as the English does: Atrides アトリデス,
+  Pelides ペリデス, Aeacides アエアキデス, Tydides テュディデス,
+  Priamides プリアミデス, Thestorides テストリデス, Dardanides
+  ダルダニデス, Laertiades ラエルティアデス, Thalysiades タリュシアデス,
+  Imbrasides インブラシデス, Maeonides マエオニデス, Oenides オエニデス, Somnus
+  ソムヌス, Aurora アウロラ, Mavors マウォルス, Ignipotens イグニポテンス,
+  Mulciber ムルキベル, Tritonia トリトニア, Cytherea キュテレア,
+  Cygneis キュグネイス, Ilion
+  イリオン, Ilios イリオス, Pergama ペルガマ, Amaryncides アマリュンキデス,
+  Eumediades エウメディアデス, Iliades イリアデス,
+  Antenorides アンテノリデス, Rhytieus リュティエウス,
+  Nestorides ネストリデス, Clotho クロト, Lachesis ラケシス,
+  Calliope カリオペー,
+  Luna ルナ, Paean パエアン,
+  Eurus エウルス, Hesperus ヘスペルス, Pierides ピエリデス;
+  the others of the kind (Arctos, Lucifer, Luna …) likewise.
+- Adjectives of names as 「〜の」: Mavortian Hector マウォルスのヘクトル,
+  Telamonian Ajax テラモンのアイアス, Dardanian ダルダニアの, Ilian
+  イリオンの, Argive アルゴスの, Doric ドリスの, Pelopeian ペロプス家の,
+  Ithacan イタケ人, Paeonian パイオンの, Calydonian カリュドンの,
+  Libyan リビュアの, Nereian ネレウスの.
+- Persons: Achilles アキレウス, Hector ヘクトル, Agamemnon アガメムノン,
+  Menelaus メネラオス, Priam プリアモス, Paris パリス, Alexander
+  アレクサンドロス, Helen ヘレネ, Hecuba ヘカベ, Andromache アンドロマケ,
+  Astyanax アステュアナクス, Ulysses ウリクセス, Ajax アイアス, Diomedes
+  ディオメデス, Nestor ネストル, Patroclus パトロクロス, Aeneas
+  アイネイアス, Teucer テウクロス, Sarpedon サルペドン, Chryses
+  クリュセス, Chryseis クリュセイス, Briseis ブリセイス, Calchas カルカス,
+  Idomeneus イドメネウス, Pandarus パンダロス, Glaucus グラウコス,
+  Thersites テルシテス, Dolon ドロン, Rhesus レソス, Antilochus
+  アンティロコス, Deiphobus デイポボス, Peleus ペレウス, Atreus
+  アトレウス, Tydeus テュデウス, Telamon テラモン, Aeacus アイアコス,
+  Oileus オイレウス, Antenor アンテノル, Hercules ヘラクレス,
+  Polypoetes ポリュポイテス, Amarynceus アマリュンケウス,
+  Charopus カロプス, Clonius クロニオス, Phidippus ペイディッポス,
+  Euhaemon エウアイモン, Echemmon エケムモン, Plisthenes プレイステネス,
+  Eussorus エウソロス, Phaestus パイストス, Isus イソス, Iulus ユルス, Pyrrhus ピュロス,
+  Neoptolemus ネオプトレモス, Laertes ラエルテス, Epeus エペイオス,
+  Panopeus パノペウス, Euryalus エウリュアロス; the others
+  in the same way, from the Greek, by the same rule for long vowels.
+- Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
+  Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
+  Teucrians テウクロイ, Myrmidons ミュルミドン, Lycians リュキア人,
+  Thracians トラキア人, Halizones ハリゾネス, Ethiopians アイティオピア人,
+  Boeotians ボイオティア人, Aetolians アイトリア人, Locrians ロクリス人,
+  Cretans クレタ人, Magnesians マグネシア人, Carians カリア人,
+  Mysians ミュシア人, Maeonians マイオニア人, Paeonians パイオニア人,
+  Cicones キコネス, Epeans エペイオス人, Athenians アテナイ人.
+- Places and works: Troy トロイア, Olympus オリュンポス, Ida イダ,
+  Xanthus クサントス, Ithaca イタケ, Chryse クリュセ, Lemnos レムノス,
+  Aspledon アスプレドン, Athens アテナイ, Mycenae ミュケナイ,
+  Syme シュメ, Rhodes ロドス, Phylace ピュラケ, Cythera キュテラ島,
+  Asia Minor 小アジア, Homer ホメロス, the *Iliad*
+  『イリアス』, the *Ilias Latina* 『イリアス・ラティナ』; Plessis プレシス,
+  Vollmer フォルマー (where the commentary gives the readings of both
+  editions).
 
 ## Reviewing the reported draft differences
 
