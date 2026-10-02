@@ -1249,7 +1249,7 @@ verse	edition	headword	headword-ja	form	description
 823	6	Patroclus	パトロクロス	ille	ille 809. 823 を参照
 824	4	ACHILLES	アキレウス	Achilles	主格、述語として:パトロクロスは、ヘクトルに本物のアキレウスと信じられるよう沈黙する
 824	6	Achilles	アキレウス	Achilles	verus . . . -es 824
-826	4	HECTOR	ヘクトル	Dardanides	Dardanides:ダルダノスの子孫が槍でパトロクロスに向かう
+826	4	HECTOR	ヘクトル	Dardanides	Dardanides:ダルダニデスが槍でパトロクロスに向かう
 826	6	Dardanides	ダルダニデス	Dardanides	Dardanides 826:ヘクトル
 827	4	PATROCLUS	パトロクロス	Patroclus	— ヘクトルの槍をかわす
 827	6	Patroclus	パトロクロス	Patroclus	Patroclus 806. 827
@@ -1261,8 +1261,8 @@ verse	edition	headword	headword-ja	form	description
 832	4	HECTOR	ヘクトル	Hector	— 戦において最も偉大な者、偽りの武具のパトロクロスを捕らえる
 832	6	Hector	ヘクトル	Hector	bello maximus -or 620. 832
 834	6	Patroclus	パトロクロス	iuvenem	iuvenem 834
-835	4	VULCANIUS	ウルカーヌスの	Vulcania	Vulcania arma:ウルカヌスの武具
-835	6	Vulcanius	ウルカーヌスの	Vulcania	Vulcania . . . arma、アキレウスの 835. 961
+835	4	VULCANIUS	ウルカヌスの	Vulcania	Vulcania arma:ウルカヌスの武具
+835	6	Vulcanius	ウルカヌスの	Vulcania	Vulcania . . . arma、アキレウスの 835. 961
 836	4	AJAX Telamonis filius	アイアス、テラモンの子	Ajax	— テラモンの子がパトロクロスの亡骸を守り取る
 836	6	Aiax (Telamonius)	アイアス（テラモンの子）	Aiax	Telamonius -ax 205. 363. 602. 623. 787. 836
 836	6	Patroclus	パトロクロス	extincti	extincti 836
@@ -1272,7 +1272,7 @@ verse	edition	headword	headword-ja	form	description
 838	4	GRAI	ギリシア人	Danai	— 自らの死者を悼む
 838	6	Danai	ダナオイ	Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 840	4	ANTILOCHUS	アンティロコス	Nestorides	Nestorides:パトロクロスの亡骸を陣営に運び帰る
-840	6	Nestorides	ネストルの子	Nestorides	Nestorides 840:アンティロコス
+840	6	Nestorides	ネストリデス	Nestorides	Nestorides 840:アンティロコス
 840	6	Patroclus	パトロクロス	corpus	miserabile corpus 840
 841	4	ACHILLES	アキレウス	Pelidae	— その恐ろしい知らせ(パトロクロスの殺害)が彼の耳に届いていた
 841	6	Pelides	ペリデス	Pelidis	-dae 841
@@ -1289,9 +1289,9 @@ verse	edition	headword	headword-ja	form	description
 855	6	Thetis	テティス	Thetin	Thetin 855
 856	4	VULCANUS	ウルカヌス	Vulcani	Vulcani:テティスはウルカヌスの助けを乞う
 856	6	Vulcanus	ウルカヌス	Vulcani	Vulcani 856
-857	4	AETNAEUS	アエトナの	Aetnaeos	Aetnaeos ignes
-857	6	Aetnaeus	アエトナの	Aetnaeos	Aetnaeos . . . ignes、ウルカヌスの 857
-858	4	VULCANUS	ウルカヌス	Mulciber	Mulciber:アエトナの火を掻き立てる
+857	4	AETNAEUS	エトナの	Aetnaeos	Aetnaeos ignes
+857	6	Aetnaeus	エトナの	Aetnaeos	Aetnaeos . . . ignes、ウルカヌスの 857
+858	4	VULCANUS	ウルカヌス	Mulciber	Mulciber:エトナの火を掻き立てる
 859	6	Vulcanus	ウルカヌス	artibus	divinis artibus 859
 860	4	ACHILLES	アキレウス	Achilles	— 偉大なる者、ウルカヌスの武具をまとう
 860	4	THETIS	テティス	Thetidi	Thetidi:ウルカヌスがテティスに武具を贈る
@@ -1300,41 +1300,41 @@ verse	edition	headword	headword-ja	form	description
 862	4	VULCANUS	ウルカヌス	Ignipotens	Ignipotens:火の主が盾に世界を彫り刻んでいた
 862	6	Ignipotens	イグニポテンス	Ignipotens	Ignipotens 862
 863	6	nympha	ニンフ	nymphas	nymphas 863(?)
-864	4	NEREUS	ネーレウス	Nerea	[ウルカヌスの子はアキレウスの盾にネーレウスを作っていた]
-864	4	OCEANUS	オーケアノス	Oceanum	[—]
-864	6	Nereus	ネーレウス	Nerea	Nerea 864
-864	6	Oceanus	オーケアノス	Oceanum	Oceanum(?) 864
-866	4	ARCTUS	大熊座	Arctus	
-866	4	AUSTER	南風	Austro	ab Austro:大熊座は南から遠く離れている
-866	6	Arctos	大熊座	Arctos	Arctos 866:天の一領域
-866	6	Auster	南風	Austro	quantum Arctos ab Austro . . . distaret 866
+864	4	NEREUS	ネレウス	Nerea	[ウルカヌスはアキレウスの盾にネレウスを作っていた]
+864	4	OCEANUS	オケアヌス	Oceanum	[—]
+864	6	Nereus	ネレウス	Nerea	Nerea 864
+864	6	Oceanus	オケアヌス	Oceanum	Oceanum(?) 864
+866	4	ARCTUS	アルクトス	Arctus	
+866	4	AUSTER	アウステル	Austro	ab Austro:アルクトスはアウステルから遠く離れている
+866	6	Arctos	アルクトス	Arctos	Arctos 866:天の一領域
+866	6	Auster	アウステル	Austro	quantum Arctos ab Austro . . . distaret 866
 866	6	occasus	日没	occasus	[太陽の]沈む領域:866
 866	6	ortus	日の出	ortu	[太陽の]昇る領域:866
-868	4	HESPERUS	宵の明星	Hesperus	昇る
-868	4	LUCIFER	明けの明星	Lucifer	
-868	6	Hesperus	宵の明星	Hesperus	Lucifer . . . Hesperus, unus uterque 868
-868	6	Lucifer	明けの明星	Lucifer	Lucifer 868
-870	6	Luna	月	Luna	Luna cava 870
-871	4	NEREUS	ネーレウス	Nerea	— 同じ盾に、偉大な者として
-871	6	Nereus	ネーレウス	Nerea	-a magnum 871
-872	4	OCEANUS	オーケアノス	Oceanum	Oceanum senem:ウルカヌスの子はアキレウスの盾に老オーケアノスを作っていた
-872	4	PROTEUS	プローテウス	Protea	Protea:常に同じ姿ではないプローテウス(ウルカヌスの子がアキレウスの盾に作っていた)
-872	6	Oceanus	オーケアノス	Oceanum	-um . . . senem 872
-872	6	Proteus	プローテウス	Protea	nec eundem Protea semper 872
+868	4	HESPERUS	ヘスペルス	Hesperus	昇る
+868	4	LUCIFER	ルキフェル	Lucifer	
+868	6	Hesperus	ヘスペルス	Hesperus	Lucifer . . . Hesperus, unus uterque 868
+868	6	Lucifer	ルキフェル	Lucifer	Lucifer 868
+870	6	Luna	ルナ	Luna	Luna cava 870
+871	4	NEREUS	ネレウス	Nerea	— 同じ盾に、偉大な者として
+871	6	Nereus	ネレウス	Nerea	-a magnum 871
+872	4	OCEANUS	オケアヌス	Oceanum	Oceanum senem:ウルカヌスはアキレウスの盾に老オケアヌスを作っていた
+872	4	PROTEUS	プロテウス	Protea	Protea:常に同じ姿ではないプロテウス(ウルカヌスがアキレウスの盾に作っていた)
+872	6	Oceanus	オケアヌス	Oceanum	-um . . . senem 872
+872	6	Proteus	プロテウス	Protea	nec eundem Protea semper 872
 873	4	DORIS	ドリス	Dorida	Dorida:波を愛するドリス
-873	4	TRITONES	トリートーンたち	Tritones	Tritones feros:ウルカヌスの子が盾に猛きトリートーンたちを作っていた
+873	4	TRITONES	トリトンたち	Tritones	Tritones feros:ウルカヌスが盾に猛きトリトンたちを作っていた
 873	6	Doris	ドリス	Dorida	amantem Dorida fluctus 873
-873	6	Triton	トリートーン	Tritonas	Tritonas (-es trad.) . . . feros 873
-874	4	NEREIDES	ネーレーイスたち	Nereidas	Nereidas:ウルカヌスの子はアキレウスの盾にネレイスたちを作っていた
-874	4	NEREIDES	ネーレーイスたち	Nereidas	[および]
+873	6	Triton	トリトン	Tritonas	Tritonas (-es trad.) . . . feros 873
+874	4	NEREIDES	ネレイスたち	Nereidas	Nereidas:ウルカヌスはアキレウスの盾にネレイスたちを作っていた
+874	4	NEREIDES	ネレイスたち	Nereidas	[および]
 874	6	Nereis	ネレイス	Nereidas	liquidas . . . Nereidas 874
 880	6	Musa	ムーサ	puellae	castae . . . puellae 880
-880	6	Paean	パイアーン	Paeana	resonant Paeana puellae 880
+880	6	Paean	パエアン	Paeana	resonant Paeana puellae 880
 889	4	MARS	マルス	Mars	— 黄金の者、アキレウスの盾の上に立っていた
 889	6	Mars	マルス	Mars	Mars aureus in medio Achillis clipeo 889
-891	4	CLOTHO	クロートー	Clotho	(アキレウスの盾の上に)
+891	4	CLOTHO	クロト	Clotho	(アキレウスの盾の上に)
 891	4	LACHESIS	ラケシス	Lachesis	(アキレウスの盾の上に)
-891	6	Clotho	クロートー	Clotho	Clotho 891
+891	6	Clotho	クロト	Clotho	Clotho 891
 891	6	Lachesis	ラケシス	Lachesis	Lachesis 891
 892	4	ACHILLES	アキレウス	Thetideius	— ウルカヌスの武具で飾られて
 892	6	Thetideius	テティスの子	Thetideius	Thetideius heros 690. 892:アキレウス
@@ -1343,8 +1343,8 @@ verse	edition	headword	headword-ja	form	description
 894	6	Iuno	ユノー	Iuno	Iuno 98. 894
 894	6	Pallas	パラス	Pallade	casta cum -de 532. 894
 895	4	AENEAS	アイネイアス	Cythereius	Cythereius heros:アキレウスに立ち向かい、ネプトゥヌスに救われる
-895	6	Cythereius	キュテーラの女神の子	Cythereius	Cythereius heros 895:アイネイアス
-897	4	ACHILLES	アキレウス	Aeacidae	Aeacidae:アイネイアスはアイアコスの末裔に匹敵しなかった
+895	6	Cythereius	キュテラの	Cythereius	Cythereius heros 895:アイネイアス
+897	4	ACHILLES	アキレウス	Aeacidae	Aeacidae:アイネイアスはアエアキデスに匹敵しなかった
 897	6	Aeacides (Achilles)	アエアキデス（アキレウス）	Aeacidae	-dae 897
 899	6	Neptunus	ネプトゥヌス	rector	magnarum rector aquarum 899 を参照
 900	4	LATIUS	ラティウムの	Latiis	Latiis in arvis:ラティウムの野に
@@ -1352,8 +1352,8 @@ verse	edition	headword	headword-ja	form	description
 900	6	Aeneas	アイネイアス	profugus	profugus 900
 900	6	Latius	ラティウムの	Latiis	*Latiis (laetis trad.) . . . in arvis 900
 900	6	Troia	トロイア	Troiam	Latiis -iam repararet in arvis 900
-901	4	AUGUSTUM	アウグストゥスの	Augustum	genus(一族)
-901	6	Augustus	アウグストゥスの	Augustum	Augustum . . . genus 901:ユーリウス家
+901	4	AUGUSTUM	アウグストゥスの	Augustum	genus(アウグストゥスの一族)
+901	6	Augustus	アウグストゥスの	Augustum	Augustum . . . genus 901:ユリウス家
 902	6	Augustus	アウグストゥスの	gentis	clarae gentis 902 を参照
 903	4	ACHILLES	アキレウス	Aeacides	— 槍でトロイア人を追い立てる
 903	4	TROJANI	トロイア人	Teucros	Teucros:アキレウスは槍でテウクロイを追い立てる
@@ -1376,7 +1376,7 @@ verse	edition	headword	headword-ja	form	description
 912	4	XANTHUS fluvius	クサントス、河	Xanthi	— アポロとウェヌスがギリシア人に向けてクサントスの波を立ち上がらせる
 912	6	Danai	ダナオイ	Danaos	-os 45. 492. 659. 808. 912. 950. 1001
 912	6	Xanthus (fluvius)	クサントス(河)	Xanthi	-i . . . fluctus 912
-914	4	ACHILLES	アキレウス	Aeaciden	Aeaciden:クサントスがアイアコスの末裔を圧倒するように
+914	4	ACHILLES	アキレウス	Aeaciden	Aeaciden:クサントスがアエアキデスを圧倒するように
 914	6	Aeacides (Achilles)	アエアキデス（アキレウス）	Aeaciden	-den 914
 920	4	JUNO	ユノー	Juno	— 遠くまで見通す者、クサントスの波と戦うアキレウスを守る
 920	6	Iuno	ユノー	Iuno	longe provida -o 920
@@ -1394,15 +1394,15 @@ verse	edition	headword	headword-ja	form	description
 934	6	Achilles	アキレウス	Achillem	magnum . . . -em 60. 72. 934
 936	4	MINERVA	ミネルウァ	Pallas	[— トリートーンの女神が突然ヘクトルの目の前に現れる]
 936	6	Pallas	パラス	Pallas	[Tritonia -as 936]
-936	6	Tritonia	トリートーンの女神	Tritonia	[-ia Pallas 936]
+936	6	Tritonia	トリトンの女神	Tritonia	[-ia Pallas 936]
 938	4	ACHILLES	アキレウス	Nereius	Nereius heros:恐れるヘクトルを追う
-938	6	Nereius	ネーレウスの孫	Nereius	Nereius heros 938. 975:アキレウス
+938	6	Nereius	ネレウスの孫	Nereius	Nereius heros 938. 975:アキレウス
 944	6	Hecabe	ヘカベ	parentes	parentes 944 を参照
 944	6	Priamus	プリアモス	parentes	parentes 944
 945	6	Hector	ヘクトル	natum	natum 945. 1033. 1036
 947	4	MINERVA	ミネルウァ	Tritonia	Tritonia:デイポボスの顔と武具をまとって、ヘクトルを欺く
 947	6	Deiphobus	デイポボス	fratri	fratri 947 を参照
-947	6	Tritonia	トリートーンの女神	Tritonia	Tritonia 947
+947	6	Tritonia	トリトンの女神	Tritonia	Tritonia 947
 949	4	DEIPHOBUS	デイポボス	Deiphobi	Deiphobi:ミネルウァはデイポボスの姿をとる
 949	6	Deiphobus	デイポボス	Deiphobi	-bi 949:プリアモスの子
 950	4	GRAI	ギリシア人	Danaos	ダナオイのほうへ、ミネルウァが自らの神威を移す
@@ -1417,15 +1417,15 @@ verse	edition	headword	headword-ja	form	description
 960	4	HECTOR	ヘクトル	Priameius	Priameius heros:プリアモスの子なる英雄がアキレウスに向けて投げ槍を投げる
 960	6	Danai	ダナオイ	Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
 960	6	Priameius	プリアモスの	Priameius	Priameius heros:パリス 271、ヘクトル 960
-961	4	VULCANIUS	ウルカーヌスの	Vulcania	Vulcania arma:ウルカヌスの武具
-961	6	Vulcanius	ウルカーヌスの	Vulcania	Vulcania . . . arma、アキレウスの 835. 961
+961	4	VULCANIUS	ウルカヌスの	Vulcania	Vulcania arma:ウルカヌスの武具
+961	6	Vulcanius	ウルカヌスの	Vulcania	Vulcania . . . arma、アキレウスの 835. 961
 963	4	TROJANI	トロイア人	Troum	— トロイア人の隊列が呻いた
 963	6	Tros	トロイア人	Troum	Troum 102. 281. 339. 357. 438. 631. 641. 701. 963
 967	4	HECTOR	ヘクトル	Hector	— 力尽き、アキレウスが迫る中で
 967	6	Hector	ヘクトル	Hector	Hector 256. 277. 491. 626. 677. 774. 959. 967. 979. 996. 1051
 968	6	Deiphobus	デイポボス	fraterna	fraterna . . . auxilia 968
 975	4	ACHILLES	アキレウス	Nereius	— ヘクトルに迫る
-975	6	Nereius	ネーレウスの孫	Nereius	Nereius heros 938. 975:アキレウス
+975	6	Nereius	ネレウスの孫	Nereius	Nereius heros 938. 975:アキレウス
 978	4	GRAI	ギリシア人	Danai	— ヘクトルが殺されると歓喜する
 978	4	TROJANI	トロイア人	Troes	— 自らの死者を悼む
 978	6	Danai	ダナオイ	Danai	Danai 508. 542. 646. 679. 766. 802. 838. 960. 978. 1002
@@ -1442,8 +1442,8 @@ verse	edition	headword	headword-ja	form	description
 983	4	GRAECIA	ギリシア	Graecia	— ヘクトルただ一人を恐れていた
 983	6	Graecia	ギリシア	Graecia	-a 983
 983	6	Priamus	プリアモス		Priamus 278 [983] 1046
-986	4	PELEUS	ペーレウス	Peleus	プリアモスのためにペレウスがアキレウスを動かさんことを(ヘクトルが死に際して呼びかける)
-986	6	Peleus	ペーレウス	Peleus	Peleus 986:アキレウスの父
+986	4	PELEUS	ペレウス	Peleus	プリアモスのためにペレウスがアキレウスを動かさんことを(ヘクトルが死に際して呼びかける)
+986	6	Peleus	ペレウス	Peleus	Peleus 986:アキレウスの父
 986	6	Priamus	プリアモス	patris	afflicti . . . patris 986. 1032
 987	4	PRIAMUS	プリアモス	Priamo	Pro Priamo:プリアモスのためにペレウスがアキレウスを動かさんことを(ヘクトルが語る)
 987	4	PYRRHUS	ピュッロス	Pyrrhus	ヘクトルのためにピュッロスがアキレウスを動かさんことを

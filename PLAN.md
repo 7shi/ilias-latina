@@ -22,11 +22,11 @@ counterparts, from the editions' Japanese drafts:
   excerpted with "…", Wernsdorf's verse numbers given in LL numbers,
   remarks on readings added) were adapted in the same way from the
   full Japanese in the edition's ilias-ja.md, by hand; those outside
-  books 1–15 have not yet been reviewed.
+  books 1–20 have not yet been reviewed.
 - index-ja.tsv takes, for each row of index-en.tsv, the Japanese
   headword and description of the same row of the edition's
   INDEX-ja.tsv.  Its names began as the drafts'; the forms reviewed
-  for books 1–15 have now been unified throughout the index.
+  for books 1–20 have now been unified throughout the index.
 
 The Japanese translation with a commentary in commentary/ja/ is
 finished in all 24 books: translated section by section from the
@@ -41,7 +41,7 @@ Book 1 has been checked against the English sections and summary, all
 have been corrected; the reviewed index headwords have been unified
 throughout index-ja.tsv. Two draft gloss differences remain report-only:
 verse 11, edition 2 (破滅 for "plague"), and verse 46, edition 2
-(機知に富んでいる for "vivid"). Books 16–24 still need their semantic
+(機知に富んでいる for "vivid"). Books 21–24 still need their semantic
 review, and the corrections have not yet been carried over to texts/.
 
 Book 2 has also been checked: 61 sections and the summary, 298 index
@@ -251,6 +251,79 @@ table still have one Japanese rendering each. The non-name draft
 differences listed above remain unchanged, and the corrections have
 not been carried over to texts/.
 
+Book 16 has been checked: 9 sections and the summary, all 31 verses
+(805–835), 42 index rows and 4 notes. The dark water of the spring,
+the roaring warriors and the huge armor are translated accurately.
+Patroclus catches the spear with a swift stroke, not merely a bodily
+movement, and the reply does not add an unspecified throwing verb.
+The sword at 834 agrees with the English and commentary. The 23-row
+name table separates Dardanides from Dardanus, Mars from Mavors, and
+Trojan adjectives from the Trojan army. Verse 827a, absent from LL,
+is not supplied. Two non-name draft entries remain report-only,
+both edition 2 notes: at 827 Japanese adds idiotismus; at 834 Latin
+Homerist becomes ホメロス受容者（われらの詩人）, obscuring both the
+Latin work and the imitation of Homer.
+
+Book 17 has been checked: 1 section and the summary, all 3 verses
+(836–838), 8 index rows and no notes. Telamonian Ajax uses テラモンの
+アイアス; champion is not a flag-bearer. The 12-row name table
+separates Telamon and Telamonian, and Priam and Priameius, and records
+actual verse, commentary and summary occurrences. No further non-name
+draft meaning differences were found.
+
+Book 18 has been checked: 16 sections and the summary, all 53 verses
+(839–891), 65 index rows and 28 notes. Nestorides uses ネストリデス;
+Nereids use ネレイス, Clotho クロト, Luna ルナ and Paean パエアン.
+Nymphs use ニンフ, consistently with the index. Water, horses,
+engraving, sitting and playing the lyre are restored to their own
+verses; added brackets and repeated words are removed. The shield's
+middle at 889 is not armor worn by Mars, and the goddesses sit around
+him in the summary. Full moon, tambourines and vineyard agree with
+the English; grime is not restricted to mud. Paean's interpretation
+as hymn or god and the damaged verse at 890 remain undecided. The
+49-row name table adds missing attested names and removes Dardanus,
+Dardanians and Teucrians, which do not occur in this book. Five
+edition 4 index descriptions (864, 872 twice, 873 and 874) correct
+the named maker from ウルカヌスの子 to ウルカヌス.
+Six non-name draft entries remain report-only, all edition 2 notes:
+at 844 Japanese adds glosses of declamare, defatigare and detonare;
+at 845 it adds a gloss of deformat; at 851 it changes the cited lemma
+violentum to violentus and adds a gloss; at 857 it uses 業火 for fires
+and adds a translation of the quoted Latin; at 868 早馬 adds speed
+to the changing horse; at 869 忠実に adds a claim of faithful rendering.
+
+Book 19 has been checked: 7 sections and the summary, all 19 verses
+(892–910), 30 index rows and 8 notes. The hero is borne in a whirlwind;
+the young man belongs to 898, and the rescue at 899 is not repeated
+at 901. The goddesses' unmarried status does not assert virginity;
+the named Iphition is not described as famous. Teucrians use
+テウクロイ, Cytherean キュテラの and Iulus ユルス. The 41-row name
+table separates Thetis from Thetideius, Augustus from Augustan, Rome
+from Romans, and Cythera from Cytherean, with missing named ancestors
+and goddesses added. The laetis/Latiis readings remain distinct.
+Two non-name draft entries remain report-only, both edition 2 notes:
+at 901 正当にも strengthens not without reason; at 902 Japanese
+adds a gloss of clara and identifies the Julian star as カエサルの彗星.
+
+Book 20 has been checked: 8 sections and the summary, all 20 verses
+(911–930), 20 index rows and 9 notes. Water, waves and heart are
+restored to their own verses; headlong flow does not mean upside down,
+and Juno sustains Achilles rather than describing a completed escape.
+Deadly lines are not desperate lines; the timber securing the gates
+is not restricted to a sliding bar. The 26-row name table separates
+Phrygia and Phrygian and gives actual locators. Three non-name draft
+entries remain report-only: edition 2 at 917 changes praetardare to
+praetardo; edition 4 at 921 turns Kooten's authority into a proposal;
+edition 2 at 929 adds a gloss of absumpta salus.
+
+Books 16–20 were checked as a range: 41 sections and five summaries,
+126 Latin verses, 165 index rows and 49 notes. Reviewed index
+headwords are unified throughout index-ja.tsv; description and note
+changes are confined to names in this range. The exact first-column
+keys of the shared proper-name table still have one Japanese rendering
+each. The non-name draft differences listed above remain unchanged,
+and the corrections have not been carried over to texts/.
+
 Next:
 
 1. [Done] commentary/ja/: the Japanese translation of commentary/en/,
@@ -315,7 +388,7 @@ way, in the verses and in the commentary.
   ミネルウァ, Pallas パラス, Vulcan ウルカヌス, Neptune ネプトゥヌス,
   Apollo アポロ, Phoebus ポエブス, Titan ティタン, Iris イリス, Thetis
   テティス, Latona ラトナ, Nereus ネレウス, Doris ドリス,
-  Nereid(s) ネレイス（たち）, Aesculapius アエスクラピウス, Oceanus
+  Nereid(s) ネレイス（たち）, Nymph(s) ニンフ（たち）, Aesculapius アエスクラピウス, Oceanus
   オケアヌス, Orcus オルクス, the Muse(s) ムーサ, the Thunderer 雷神.
 - Where the commentary tells Homer's scene, the Greek names: Zeus
   ゼウス, Hera ヘラ, Athena アテナ, Hephaestus ヘパイストス, Poseidon
@@ -335,6 +408,8 @@ way, in the verses and in the commentary.
   イリオン, Ilios イリオス, Pergama ペルガマ, Amaryncides アマリュンキデス,
   Eumediades エウメディアデス, Iliades イリアデス,
   Antenorides アンテノリデス, Rhytieus リュティエウス,
+  Nestorides ネストリデス, Clotho クロト, Lachesis ラケシス,
+  Luna ルナ, Paean パエアン,
   Eurus エウルス, Hesperus ヘスペルス, Pierides ピエリデス;
   the others of the kind (Arctos, Lucifer, Luna …) likewise.
 - Adjectives of names as 「〜の」: Mavortian Hector マウォルスのヘクトル,
@@ -357,7 +432,7 @@ way, in the verses and in the commentary.
   Polypoetes ポリュポイテス, Amarynceus アマリュンケウス,
   Charopus カロプス, Clonius クロニオス, Phidippus ペイディッポス,
   Euhaemon エウアイモン, Echemmon エケムモン, Plisthenes プレイステネス,
-  Eussorus エウソロス, Phaestus パイストス, Isus イソス; the others
+  Eussorus エウソロス, Phaestus パイストス, Isus イソス, Iulus ユルス; the others
   in the same way, from the Greek, by the same rule for long vowels.
 - Peoples: Greeks ギリシア人, Danaans ダナオイ, Achaeans アカイア人,
   Pelasgians ペラスゴイ, Phrygians プリュギア人, Trojans トロイア人,
