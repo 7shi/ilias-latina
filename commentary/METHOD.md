@@ -134,7 +134,7 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Books 1 to 5, to guide subsequent books:
+Notes gathered during the review of Books 1 to 10, to guide subsequent books:
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -164,8 +164,9 @@ Notes gathered during the review of Books 1 to 5, to guide subsequent books:
     conclusions (「〜という願い／問いである。」).
   - *Inanimate subjects and literal idioms*: Smooth unnatural English
     calques, such as *give way to* (rendered literally as 「〜へと道を譲る」),
-    *makes X seem* (「〜と思えないようにしている」), or *receives a full description*
-    (「詳細な描写を受ける」), into natural Japanese cadence (「〜に代わり、…が訪れる」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」).
+    *makes X seem* (「〜と思えないようにしている」), *receives a full description*
+    (「詳細な描写を受ける」), or *offers a different visible expression*
+    (「〜の異なる目に見える表現を提供している」), into natural Japanese cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」).
   - *Causative and resultative calques*: English `makes X [adj/noun]`
     is often translated mechanically as 「Xを〜ものとしている」 or
     「Xを〜の一部としている」. Recast these into natural descriptive or
@@ -174,7 +175,24 @@ Notes gathered during the review of Books 1 to 5, to guide subsequent books:
     → 「彼女の情熱の炎であると同時に、…としても描かれる」; *make their disappointment part of the action*
     → 「失望を生々しく伝えている」; *makes Diomedes conspicuously visible*
     → 「ひときわ目覚ましい存在感を放つ」; *make the shared cost... visible*
-    → 「共通の惨禍をまざまざと可視化している」).
+    → 「共通の惨禍をまざまざと可視化している」; *makes the change... much more abrupt*
+    → 「転換ははるかに唐突な印象を与える」; *makes love explicitly the ache...*
+    → 「苦痛を明確に「愛」の痛みとして位置づけている」).
+  - *Dative / Benefactive idioms*: Recast English `gives X [noun]` (e.g.,
+    *gives the Greeks a formidable champion*) away from literal translation
+    like 「Xに〜を提供する」 into natural predicative flow (「Xにとって〜となる」
+    「Xに〜をもたらす」).
+  - *Contrastive narrative calques*: Structures like *turns what in Homer is X into Y*
+    should avoid literal stiffness (「ホメロスがXとしているものをYとしている」)
+    and use natural contrastive transitions (「ホメロスではXであったものが、Yへと転換されている」;
+    *turns the slaughter into a striking success* → 「夜襲の殺戮は目覚ましい成功へと昇華され」).
+  - *Internal repetition from mechanical pronoun substitution*: When resolving
+    English pronouns, avoid clumsy repetitions within the same sentence
+    (e.g., *spots the approaching scout before the scout notices...* → instead
+    of 「斥候が…近づいてくる斥候を」, use 「近づいてくる斥候ドロンが自分たち二人に気づく前に、遠くからその姿を捉える」).
+  - *Action sequences and temporal transitions*: Avoid translating
+    *A and B follow one another without further exchange* as 「AとBはそれ以上のやり取りもなく互いに続いている」;
+    use decisive temporal flow (「余計な言葉を交わす間もなく、Aの直後にBが下される」).
   - *Negative condition and privative calques*: Expressions like *leaves X without Y*
     should avoid literal stiffness like 「XをYを欠いたままにした」 and use natural
     state descriptions (e.g., *leaves the duel without the settlement...*
