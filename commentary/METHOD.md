@@ -134,7 +134,7 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Books 1 to 10, to guide subsequent books:
+Notes gathered during the review of Books 1 to 15, to guide subsequent books:
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -166,7 +166,7 @@ Notes gathered during the review of Books 1 to 10, to guide subsequent books:
     calques, such as *give way to* (rendered literally as 「〜へと道を譲る」),
     *makes X seem* (「〜と思えないようにしている」), *receives a full description*
     (「詳細な描写を受ける」), or *offers a different visible expression*
-    (「〜の異なる目に見える表現を提供している」), into natural Japanese cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」).
+    (「〜の異なる目に見える表現を提供している」), into natural Japanese cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」「大乱戦から、一人の敵手を標的とした殺害へと焦点が絞られる」「〜の圧迫の前に、敵軍は恐慌をきたして総崩れとなる」「〜の情景に代わり、…凄惨な情景が立ち現れる」「〜の猛攻の前に、戦場は…敗走の様相を呈する」).
   - *Causative and resultative calques*: English `makes X [adj/noun]`
     is often translated mechanically as 「Xを〜ものとしている」 or
     「Xを〜の一部としている」. Recast these into natural descriptive or
@@ -177,11 +177,14 @@ Notes gathered during the review of Books 1 to 10, to guide subsequent books:
     → 「ひときわ目覚ましい存在感を放つ」; *make the shared cost... visible*
     → 「共通の惨禍をまざまざと可視化している」; *makes the change... much more abrupt*
     → 「転換ははるかに唐突な印象を与える」; *makes love explicitly the ache...*
-    → 「苦痛を明確に「愛」の痛みとして位置づけている」).
+    → 「苦痛を明確に「愛」の痛みとして位置づけている」; *makes both armies formidable*
+    → 「双方が互いに荒れ狂う強敵として際立たせられている」; *makes divine intervention decisive*
+    → 「神の介入が決定的要因として描かれる」; *making the chain of deaths more direct*
+    → 「報復の連鎖をより直接的なものとして描き出している」).
   - *Dative / Benefactive idioms*: Recast English `gives X [noun]` (e.g.,
-    *gives the Greeks a formidable champion*) away from literal translation
-    like 「Xに〜を提供する」 into natural predicative flow (「Xにとって〜となる」
-    「Xに〜をもたらす」).
+    *gives the Greeks a formidable champion*, *gives the Trojans an immediate kill*)
+    away from literal translation like 「Xに〜を提供する／与える」 into natural
+    predicative flow (「Xにとって〜となる」「Xに〜をもたらす」「今度はX側が間髪を容れず戦果を挙げる」).
   - *Contrastive narrative calques*: Structures like *turns what in Homer is X into Y*
     should avoid literal stiffness (「ホメロスがXとしているものをYとしている」)
     and use natural contrastive transitions (「ホメロスではXであったものが、Yへと転換されている」;
