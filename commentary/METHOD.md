@@ -158,6 +158,13 @@ Notes gathered during the review of Books 1 to 24 (the entire poem):
 - **Grammatical parallelism in English**: Keep coordinated elements in the
   same category (e.g., *anger, quarreling, and near-violence* rather than
   mixing nouns with adverbial phrases like *almost armed violence*).
+- **Active transitions over passive idioms in English**: Avoid illogical
+  uses of *gives way to* when an active assault or pressure causes the
+  opponent's reaction (e.g., *their organized pressure now gives way to the
+  enemy’s panic* → *before their organized pressure, the enemy breaks into
+  panic*; *failing resistance gives way to a mortal wound* → *succumbs to a
+  mortal wound*). Reserve *gives way to* for natural temporal or thematic shifts
+  where one state or topic replaces another.
 - **Smoothing translation artefacts in Japanese**:
   - *Abrupt endings from colon glosses*: Resolve dangling quotation
     endings (such as 「〜であると。」) into complete nominal or copula
