@@ -7,9 +7,9 @@ uses in this project, kept apart:
 1. checking the existing commentary ([Checking the commentary](#1-checking-the-commentary));
 2. reading the Latin text itself ([Reading the Latin](#2-reading-the-latin)).
 
-Neither is applied yet.  This file fixes the method and the intended
-uses; the procedures below are to be tried on a few sections and
-adjusted before they are used on the whole poem.
+The commentary review (1) has now been completed across the entire poem
+(Books 1 to 24) in parallel for both the English and Japanese commentaries.
+The reading of the Latin text itself (2) remains to be undertaken.
 
 ## Source
 
@@ -97,6 +97,10 @@ rest.
 For new generation, the rule and the two-subject limit may be added to
 the instructions of [generate.py](generate.py), but that changes how the
 sections are made and is not part of this check.
+ 
+This review has now been completed across all 24 books of the *Ilias Latina*,
+verifying and refining both the English (`commentary/en/`) and Japanese
+(`commentary/ja/`) commentary files.
 
 ## 2. Reading the Latin
 
@@ -134,7 +138,13 @@ only and is not made from the notes of the editions.
 
 ## 3. Practical observations
 
-Notes gathered during the review of Books 1 to 24 (the entire poem):
+The review and parallel refinement of the commentary across Books 1 to 24
+(the entire poem) has now been completed for both the English
+(`commentary/en/`) and Japanese (`commentary/ja/`) texts. The notes and
+conventions gathered during this work are organised below into general
+principles, English commentary, and Japanese commentary.
+
+### General principles
 
 - **No content additions or deletions**: The commentary texts are
   already proofread and balanced. Do not add outside explanations or
@@ -155,95 +165,108 @@ Notes gathered during the review of Books 1 to 24 (the entire poem):
 - **Cross-section continuity**: Anchor the opening sentence of a section
   to the concluding events of the previous section or the opening words
   of the Latin verse, preserving the chain across section boundaries.
-- **Grammatical parallelism in English**: Keep coordinated elements in the
-  same category (e.g., *anger, quarreling, and near-violence* rather than
+
+### English commentary
+
+- **Active transitions over passive idioms**: Avoid illogical uses of
+  *gives way to* when an active assault or pressure causes the opponent's
+  reaction (e.g., *their organized pressure now gives way to the enemy’s
+  panic* → *before their organized pressure, the enemy breaks into panic*;
+  *failing resistance gives way to a mortal wound* → *succumbs to a mortal
+  wound*). Reserve *gives way to* for natural temporal or thematic shifts
+  where one state or topic replaces another (e.g., *the contrast between
+  rejoicing and suffering now gives way to grief*).
+- **Grammatical parallelism**: Keep coordinated elements in the same
+  category (e.g., *anger, quarreling, and near-violence* rather than
   mixing nouns with adverbial phrases like *almost armed violence*).
-- **Active transitions over passive idioms in English**: Avoid illogical
-  uses of *gives way to* when an active assault or pressure causes the
-  opponent's reaction (e.g., *their organized pressure now gives way to the
-  enemy’s panic* → *before their organized pressure, the enemy breaks into
-  panic*; *failing resistance gives way to a mortal wound* → *succumbs to a
-  mortal wound*). Reserve *gives way to* for natural temporal or thematic shifts
-  where one state or topic replaces another.
-- **Smoothing translation artefacts in Japanese**:
-  - *Abrupt endings from colon glosses*: Resolve dangling quotation
-    endings (such as 「〜であると。」) into complete nominal or copula
-    conclusions (「〜という願い／問いである。」).
-  - *Inanimate subjects and literal idioms*: Smooth unnatural English
-    calques, such as *give way to* / *yield to* (rendered literally as
-    「〜へと道を譲る」「〜へと場を譲る」「〜へと譲られる」), *makes X seem*
-    (「〜と思えないようにしている」), *receives a full description*
-    (「詳細な描写を受ける」), or *offers a different visible expression*
-    (「〜の異なる目に見える表現を提供している」), into natural Japanese
-    cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜へと焦点を移す」「〜を経て、両者はついに直接の激突へと突入する」「〜を差し置いて、…がすべてに優先する」「〜に続き、視線は直ちに…へと向けられる」「〜に続き、対立は…へと発展する」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」「大乱戦から、一人の敵手を標的とした殺害へと焦点が絞られる」「〜の圧迫の前に、敵軍は恐慌をきたして総崩れとなる」「〜の情景に代わり、…凄惨な情景が立ち現れる」「〜の猛攻の前に、戦場は…敗走の様相を呈する」).
-  - *Causative and resultative calques*: English `makes X [adj/noun]`
-    is often translated mechanically as 「Xを〜ものとしている」 or
-    「Xを〜の一部としている」. Recast these into natural descriptive or
-    thematic expressions (e.g., *makes the duel more than a private quarrel*
-    → 「単なる私闘を超え、戦争全体の終結をもたらし得るものとなる」; *makes Paris both her flame and...*
-    → 「彼女の情熱の炎であると同時に、…としても描かれる」; *make their disappointment part of the action*
-    → 「失望を生々しく伝えている」; *makes Diomedes conspicuously visible*
-    → 「ひときわ目覚ましい存在感を放つ」; *make the shared cost... visible*
-    → 「共通の惨禍をまざまざと可視化している」; *makes the change... much more abrupt*
-    → 「転換ははるかに唐突な印象を与える」; *makes love explicitly the ache...*
-    → 「苦痛を明確に「愛」の痛みとして位置づけている」; *makes both armies formidable*
-    → 「双方が互いに荒れ狂う強敵として際立たせられている」; *makes divine intervention decisive*
-    → 「神の介入が決定的要因として描かれる」; *making the chain of deaths more direct*
-    → 「報復の連鎖をより直接的なものとして描き出している」).
-  - *Dative / Benefactive idioms*: Recast English `gives X [noun]` (e.g.,
-    *gives the Greeks a formidable champion*, *gives the Trojans an immediate kill*)
-    away from literal translation like 「Xに〜を提供する／与える」 into natural
-    predicative flow (「Xにとって〜となる」「Xに〜をもたらす」「今度はX側が間髪を容れず戦果を挙げる」).
-  - *Contrastive narrative calques*: Structures like *turns what in Homer is X into Y*
-    should avoid literal stiffness (「ホメロスがXとしているものをYとしている」)
-    and use natural contrastive transitions (「ホメロスではXであったものが、Yへと転換されている」;
-    *turns the slaughter into a striking success* → 「夜襲の殺戮は目覚ましい成功へと昇華され」).
-  - *Internal repetition from mechanical pronoun substitution*: When resolving
-    English pronouns, avoid clumsy repetitions within the same sentence
-    (e.g., *spots the approaching scout before the scout notices...* → instead
-    of 「斥候が…近づいてくる斥候を」, use 「近づいてくる斥候ドロンが自分たち二人に気づく前に、遠くからその姿を捉える」).
-  - *Action sequences and temporal transitions*: Avoid translating
-    *A and B follow one another without further exchange* as 「AとBはそれ以上のやり取りもなく互いに続いている」;
-    use decisive temporal flow (「余計な言葉を交わす間もなく、Aの直後にBが下される」).
-  - *Negative condition and privative calques*: Expressions like *leaves X without Y*
-    or *has not left X in [control/possession]* should avoid literal stiffness
-    (「XをYを欠いたままにした」「Xに…の支配を委ねたわけではない」) and use natural
-    state descriptions or concessive reasoning (e.g., *leaves the duel without the settlement...*
-    → 「一騎打ちが本来もたらすべきであった決着は宙に浮いたままとなった」;
-    *has not left the Trojans in undisputed control* → 「ヘクトルが勝利を収めたからといって、トロイア勢が戦場を意のままに支配できたわけではない」).
-  - *Relational clarity in relative clauses*: Clarify ambiguous agent/patient
-    relationships resulting from condensed English phrasing (e.g., *whose wrong has
-    brought war upon them* translated as 「戦争を引き起こした夫」, which made Menelaus
-    sound like the instigator rather than the wronged party → clarified as
-    「妻を奪われ、トロイアに戦争をもたらした当の夫」).
-  - *Enjambment and suspended syntax descriptions*: English critical terms
-    referring to verse enjambment (*the sentence running on leaves X in flight*,
-    *the unfinished 'while' carries the action forward*) can sound clumsy if
-    translated word-for-word as 「続く文は…をとどめたままにしている」「未完の句は行動を先へと進める」.
-    Clarify the poetic/syntactic device in natural Japanese (「文が次行へと跨がれることで…」「未完の接続詞（dum）が、物語の展開を次節へと引き継いでいる」).
-  - *Alternating correlatives*: Literal repetition of English *now X, now Y*
-    (Latin *modo ... modo ...*) as 「今やXに、今やYに」 can be monotonous; recast
-    naturally when describing fluctuating battlefield fortunes (「ある時はXに、ある時はYに」).
-  - *Fronted subordinate clauses (chronological flow)*: Invert English
-    trailing clauses (such as *...nearly leads to X, until Y restores order*)
-    into natural Japanese chronological progression (「危うくXへと発展しかけるが、Yが秩序を回復する」)
-    rather than fronting the until-clause (「Yが秩序を回復するまで、危うくXへと発展しかける」).
-  - *Repetitive connective pronouns*: Avoid mechanical repetition of
-    「それはまた」 for English *It also...*; use implicit or varied transitions
-    (「また、」「さらに、」「ラテン語詩はまた、」「これはまた、」).
-  - *Collapsing duplicated predicates*: When an English verb governs
-    coordinated clauses (`sends [A] into... and [B] through...`), unify
-    them under a single Japanese verb rather than repeating the same verb
-    (「〜を送り込み、…を送り込む」).
-  - *Untangling nested modifiers*: Split sentences or recast frame markers
-    where multiple relative clauses stack upon a single noun (「〜神官が…奪われた神である」;
-    「ホメロスがヘパイストスがアキレウスのために作る描写をする武具は」
-    → 「ホメロスにおいてヘパイストスがアキレウスのために鍛造する武具は」),
-    letting each relation stand clearly.
-  - *Register and word choice*: Avoid incongruous modern loanwords
-    (e.g., 「アピール」 → 「呼びかけ」) and imprecise calques (e.g.,
-    *aftermath* as 「後日談」 → 「その余波」; *compensate himself* as
-    「自らを埋め合わせる」 → 「その埋め合わせをする」; *volatile energy* as
-    「揮発性のエネルギー」 → 「集団的で爆発しやすいエネルギー」;
-    *this glimpse of...* as 「この垣間見」 → 「〜を垣間見せる叙述」).
+- **Relational clarity and agency**: Ensure that agent and patient
+  relationships remain immediately recognizable in condensed phrasing,
+  especially in descriptions of combat and divine intervention.
+
+### Japanese commentary
+
+The Japanese commentary was revised to eliminate translation artefacts
+and restore natural Japanese syntax while preserving the known-to-unknown
+information order:
+
+- **Abrupt endings from colon glosses**: Resolve dangling quotation
+  endings (such as 「〜であると。」) into complete nominal or copula
+  conclusions (「〜という願い／問いである。」).
+- **Inanimate subjects and literal idioms**: Smooth unnatural English
+  calques, such as *give way to* / *yield to* (rendered literally as
+  「〜へと道を譲る」「〜へと場を譲る」「〜へと譲られる」), *makes X seem*
+  (「〜と思えないようにしている」), *receives a full description*
+  (「詳細な描写を受ける」), or *offers a different visible expression*
+  (「〜の異なる目に見える表現を提供している」), into natural Japanese
+  cadence (「〜に代わり、…が訪れる／前面に押し出される」「〜へと焦点を移す」「〜を経て、両者はついに直接の激突へと突入する」「〜を差し置いて、…がすべてに優先する」「〜に続き、視線は直ちに…へと向けられる」「〜に続き、対立は…へと発展する」「〜とは到底見えない」「詳細に描写される」「〜は省かれ、…のみが推し進められている」「〜のまた別の目に見える形を示している」「〜の隔たりは解け、…が実現する」「大乱戦から、一人の敵手を標的とした殺害へと焦点が絞られる」「〜の圧迫の前に、敵軍は恐慌をきたして総崩れとなる」「〜の情景に代わり、…凄惨な情景が立ち現れる」「〜の猛攻の前に、戦場は…敗走の様相を呈する」).
+- **Causative and resultative calques**: English `makes X [adj/noun]`
+  is often translated mechanically as 「Xを〜ものとしている」 or
+  「Xを〜の一部としている」. Recast these into natural descriptive or
+  thematic expressions (e.g., *makes the duel more than a private quarrel*
+  → 「単なる私闘を超え、戦争全体の終結をもたらし得るものとなる」; *makes Paris both her flame and...*
+  → 「彼女の情熱の炎であると同時に、…としても描かれる」; *make their disappointment part of the action*
+  → 「失望を生々しく伝えている」; *makes Diomedes conspicuously visible*
+  → 「ひときわ目覚ましい存在感を放つ」; *make the shared cost... visible*
+  → 「共通の惨禍をまざまざと可視化している」; *makes the change... much more abrupt*
+  → 「転換ははるかに唐突な印象を与える」; *makes love explicitly the ache...*
+  → 「苦痛を明確に「愛」の痛みとして位置づけている」; *makes both armies formidable*
+  → 「双方が互いに荒れ狂う強敵として際立たせられている」; *makes divine intervention decisive*
+  → 「神の介入が決定的要因として描かれる」; *making the chain of deaths more direct*
+  → 「報復の連鎖をより直接的なものとして描き出している」).
+- **Dative / Benefactive idioms**: Recast English `gives X [noun]` (e.g.,
+  *gives the Greeks a formidable champion*, *gives the Trojans an immediate kill*)
+  away from literal translation like 「Xに〜を提供する／与える」 into natural
+  predicative flow (「Xにとって〜となる」「Xに〜をもたらす」「今度はX側が間髪を容れず戦果を挙げる」).
+- **Contrastive narrative calques**: Structures like *turns what in Homer is X into Y*
+  should avoid literal stiffness (「ホメロスがXとしているものをYとしている」)
+  and use natural contrastive transitions (「ホメロスではXであったものが、Yへと転換されている」;
+  *turns the slaughter into a striking success* → 「夜襲の殺戮は目覚ましい成功へと昇華され」).
+- **Internal repetition from mechanical pronoun substitution**: When resolving
+  English pronouns, avoid clumsy repetitions within the same sentence
+  (e.g., *spots the approaching scout before the scout notices...* → instead
+  of 「斥候が…近づいてくる斥候を」, use 「近づいてくる斥候ドロンが自分たち二人に気づく前に、遠くからその姿を捉える」).
+- **Action sequences and temporal transitions**: Avoid translating
+  *A and B follow one another without further exchange* as 「AとBはそれ以上のやり取りもなく互いに続いている」;
+  use decisive temporal flow (「余計な言葉を交わす間もなく、Aの直後にBが下される」).
+- **Negative condition and privative calques**: Expressions like *leaves X without Y*
+  or *has not left X in [control/possession]* should avoid literal stiffness
+  (「XをYを欠いたままにした」「Xに…の支配を委ねたわけではない」) and use natural
+  state descriptions or concessive reasoning (e.g., *leaves the duel without the settlement...*
+  → 「一騎打ちが本来もたらすべきであった決着は宙に浮いたままとなった」;
+  *has not left the Trojans in undisputed control* → 「ヘクトルが勝利を収めたからといって、トロイア勢が戦場を意のままに支配できたわけではない」).
+- **Relational clarity in relative clauses**: Clarify ambiguous agent/patient
+  relationships resulting from condensed English phrasing (e.g., *whose wrong has
+  brought war upon them* translated as 「戦争を引き起こした夫」, which made Menelaus
+  sound like the instigator rather than the wronged party → clarified as
+  「妻を奪われ、トロイアに戦争をもたらした当の夫」).
+- **Enjambment and suspended syntax descriptions**: English critical terms
+  referring to verse enjambment (*the sentence running on leaves X in flight*,
+  *the unfinished 'while' carries the action forward*) can sound clumsy if
+  translated word-for-word as 「続く文は…をとどめたままにしている」「未完の句は行動を先へと進める」.
+  Clarify the poetic/syntactic device in natural Japanese (「文が次行へと跨がれることで…」「未完の接続詞（dum）が、物語の展開を次節へと引き継いでいる」).
+- **Alternating correlatives**: Literal repetition of English *now X, now Y*
+  (Latin *modo ... modo ...*) as 「今やXに、今やYに」 can be monotonous; recast
+  naturally when describing fluctuating battlefield fortunes (「ある時はXに、ある時はYに」).
+- **Fronted subordinate clauses (chronological flow)**: Invert English
+  trailing clauses (such as *...nearly leads to X, until Y restores order*)
+  into natural Japanese chronological progression (「危うくXへと発展しかけるが、Yが秩序を回復する」)
+  rather than fronting the until-clause (「Yが秩序を回復するまで、危うくXへと発展しかける」).
+- **Repetitive connective pronouns**: Avoid mechanical repetition of
+  「それはまた」 for English *It also...*; use implicit or varied transitions
+  (「また、」「さらに、」「ラテン語詩はまた、」「これはまた、」).
+- **Collapsing duplicated predicates**: When an English verb governs
+  coordinated clauses (`sends [A] into... and [B] through...`), unify
+  them under a single Japanese verb rather than repeating the same verb
+  (「〜を送り込み、…を送り込む」).
+- **Untangling nested modifiers**: Split sentences or recast frame markers
+  where multiple relative clauses stack upon a single noun (「〜神官が…奪われた神である」;
+  「ホメロスがヘパイストスがアキレウスのために作る描写をする武具は」
+  → 「ホメロスにおいてヘパイストスがアキレウスのために鍛造する武具は」),
+  letting each relation stand clearly.
+- **Register and word choice**: Avoid incongruous modern loanwords
+  (e.g., 「アピール」 → 「呼びかけ」) and imprecise calques (e.g.,
+  *aftermath* as 「後日談」 → 「その余波」; *compensate himself* as
+  「自らを埋め合わせる」 → 「その埋め合わせをする」; *volatile energy* as
+  「揮発性のエネルギー」 → 「集団的で爆発しやすいエネルギー」;
+  *this glimpse of...* as 「この垣間見」 → 「〜を垣間見せる叙述」).
 
