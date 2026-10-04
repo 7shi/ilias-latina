@@ -21,4 +21,11 @@ generate: generate.py ## Read the Latin of the sections (MODEL=..., BOOKS=..., V
 	$(CHECK_TARGET)
 	uv run python generate.py -m "$(MODEL)" $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
 
-.PHONY: help generate
+# Revises the generated readings in place; the lists of changes go to
+# tmp/NN/VVVV.md, and sections with a list are skipped.
+review: review.py generate.py ## Revise the readings against the rules (MODEL=..., BOOKS=..., VERSE=...)
+	$(CHECK_MODEL)
+	$(CHECK_TARGET)
+	uv run python review.py -m "$(MODEL)" $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
+
+.PHONY: help generate review
