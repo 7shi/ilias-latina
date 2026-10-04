@@ -181,14 +181,11 @@ corrected by hand.
 
 All files in this directory ([preface.md](preface.md),
 [introduction.md](introduction.md), [ilias.md](ilias.md), and
-[index.md](index.md)) have been proofread and corrected against the page
-images of the scan, with one limit (see
-[PROOFREADING.md](../PROOFREADING.md), steps 5, 6 and 8): in the
-verses of ilias.md, the words not in the vocabulary of The Latin
-Library were checked against the images, but a misreading that makes
-another Latin word may be left.  index.md has been compared letter by
-letter with the images, its verse numbers in step 5 and its words and
-punctuation in step 8.
+[index.md](index.md)) have been checked against the page images of the
+scan.  The full image recheck in
+[PROOFREADING.md](../PROOFREADING.md), step 10, includes every verse and
+note, including readings that form valid Latin words.  Suspected errors
+in the printed text are marked inline with double braces.
 
 Misread letters, sigla (such as "IV" or "X" for N, "IVI" for M), numbers,
 Greek quotations, double bars (‖), and index entries have been verified

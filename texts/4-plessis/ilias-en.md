@@ -47,7 +47,7 @@ Book heading: I.
 
 ### Codices
 
-- **Titul.** incipit liber Ilomcri EF incipit liber omeri L incipit Homerus G de bello troyano homerus N later hand.
+- **Titul.** incipit liber Homeri EF incipit liber omeri L incipit Homerus G de bello troyano homerus N later hand.
 - **2** que B quo V qui the others || ingessit S || uulnera A.
 - **3** animas from -os corr. EMGS from -is (as it seems to Baehrens) L animos FVABC || edidit S misit ad orcos A.
 - **4** trahendas M traendas F.
@@ -164,7 +164,7 @@ PDF page 72.
 |---|---|---|
 | 47 | Vixque rogis superest tellus, vix ignibus arbor, |  |
 | 48 | Deerat ager tumulis. Jam noctis sidera nonae |  |
-| 49 | Transierant decimusque dies patefacerat orbem, |  |
+| 49 | Transierant decimusque dies {{patefecerat}} orbem, |  |
 | 50 | Cum Danaum proceres in coetum clarus Achilles | 50 |
 | 51 | Convocat et causas hortatur pestis iniquae |  |
 | 52 | Edere Thestoriden. Tunc Calchas numina divum |  |
@@ -1610,7 +1610,7 @@ PDF page 107.
 | 560 | Perculit et summo pupugit certamine Martem. | 560 |
 | 561 | Pone truces animos infestaque tela coerce ». |  |
 | 562 | Post haec inter se posito certamine pugnae |  |
-| 563 | Commutant clipeos inimicaque proelia lincunt. |  |
+| 563 | Commutant clipeos inimicaque proelia {{linquunt}}. |  |
 | 564 | Colloquium petit interea fidissima conjunx |  |
 
 ### Codices
@@ -2175,7 +2175,7 @@ PDF page 121.
 
 ### Codices
 
-- **728** Agnouere A || reckisas G.
+- **728** Agnouere A || reclusas G.
 - **729** Diffindunt] Detrudunt all (Detruncant A) || iuuenis FVBGE m. 2 A || posthoc A : ; temptoria regis MN (Rhesi omitted B).
 - **730** uino somnoque S.
 - **731** uirum S uiros the others (omitted B) || herbas EAY.

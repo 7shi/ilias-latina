@@ -90,7 +90,7 @@ PDF page 24.
 
 aetatis qua vixerunt, ab hac correptione non satis abhorrent. Invenies enim apud Avienum in Periegesi : 263, ergo solum; 299, ergo modi; 358, ergo tibi; 954, virgo locans. Neque praetermittamus quae, quamvis sint iambica, parum placent, 176, draco; 1047, dato. Adde illud Pentadii notum Sentio, fugit hiems.
 
-Praeterea, Avieni saeculo aut circa, qua tempestate litterae latinae jandiu ad occasum vergebant, in nominibus graecis syllabas breves producere, longas corripere interdum licentius ausi sunt poetae 1. Quod vitium non vitaverunt, cum Avieno, Ausonius, Prudentius, Sidonius Apollinaris, alii. Nihil autem simile in Iliadis Epitoma nostra occurrit; nullus error offendit. At vide apud Avienum, in Periegesi : 129, Pachyni; 569, Triphylis; 635, Pachynus; 662, 663, Corcyra (ter in duobus his versibus falsa quantitate nomen usurpavit poeta); 693, Abydus. Adde haec in Ora maritima : 43, Hellanicus; 421, Libyphoenices. Quibus in nominibus cunctis correpta adhibetur paenultima; in his autem, producta : in Periegesi, 679, Salamis; 1013 (fortasse quidem locus a librariis corruptus est) Cragus.
+Praeterea, Avieni saeculo aut circa, qua tempestate litterae latinae {{jamdiu}} ad occasum vergebant, in nominibus graecis syllabas breves producere, longas corripere interdum licentius ausi sunt poetae 1. Quod vitium non vitaverunt, cum Avieno, Ausonius, Prudentius, Sidonius Apollinaris, alii. Nihil autem simile in Iliadis Epitoma nostra occurrit; nullus error offendit. At vide apud Avienum, in Periegesi : 129, Pachyni; 569, Triphylis; 635, Pachynus; 662, 663, Corcyra (ter in duobus his versibus falsa quantitate nomen usurpavit poeta); 693, Abydus. Adde haec in Ora maritima : 43, Hellanicus; 421, Libyphoenices. Quibus in nominibus cunctis correpta adhibetur paenultima; in his autem, producta : in Periegesi, 679, Salamis; 1013 (fortasse quidem locus a librariis corruptus est) Cragus.
 
 Wernsdorf igitur id quod cavendum erat non cavisse satis perspicue videtur : perscrutari videlicet omnia Italici circa artem metricam placita non necesse erat; verum enim vero, si tantummodo quaestionem vir doctus leviter attigisset, se nimio indulsisse ingenio statim vidisset, nec quarto saeculo carmen tribuisset. Itaque, Wernsdorfiana sententia rejecta, aliam rationem quaeramus.
 
@@ -150,7 +150,7 @@ PDF page 27.
 
 aliena, posteriores vero apud scriptores mox reditura, forsitan in loquendi consuetudinem coepisset reverti, neque propterea nostrum satis offendisset.
 
-Itaque perlustranti carmen nostrum Homericum nullae mihi ab aetate quam diximus illud abjudicandi causae graves seriaeque apparent. Praeterea, quando quidem non solum Vergilii Ovidiique circa elocutionem et artem metricam vestigiis Italicus ingreditur, sed etiam eorundem multa, praesertim ab Aeneidis ac Metamorphoseon libris, mutuatur, non antequam praeclara illa opera jandudum in volgus elata sunt, opus suum condere potuit. Neque vero post Neronis mortem, ratione ex ipso carmine petita, si versus 899-902 respicies, conscriptam Epitomam judicabis. De Aenea, non viribus aequis Achilli occurrente, res agitur; sic pergit poeta :
+Itaque perlustranti carmen nostrum Homericum nullae mihi ab aetate quam diximus illud abjudicandi causae graves seriaeque apparent. Praeterea, quando quidem non solum Vergilii Ovidiique circa elocutionem et artem metricam vestigiis Italicus ingreditur, sed etiam eorundem multa, praesertim ab Aeneidis ac Metamorphoseon libris, mutuatur, non antequam praeclara illa opera {{jam dudum}} in volgus elata sunt, opus suum condere potuit. Neque vero post Neronis mortem, ratione ex ipso carmine petita, si versus 899-902 respicies, conscriptam Epitomam judicabis. De Aenea, non viribus aequis Achilli occurrente, res agitur; sic pergit poeta :
 
 Quem nisi servasset magnarum rector aquarum
 
@@ -278,7 +278,7 @@ Virum mihi, Camena, insece versutum
 
 Hom., Odyss., VI, 142 :
 
-Utrum genua amploctens virginem oraret
+Utrum genua amplectens virginem oraret
 
 Ἦ γούνων λίσσοιτο λαβὼν εὐῶπιδα κούρην.
 
@@ -395,7 +395,7 @@ Cf. Iliad. XXIV, 639 :
 
 Quae fragmenta aliis quidem poetis, quoniam saepissime librarii nomina Naeuii, Nonii, Ninnii, Liuii, Laeuii alia pro aliis substituerunt, temere assignata Huschke, in comment. de Annio Cimbro p. 9, Ninnio Crasso jure vindicavit. Ne igitur errorem hic recipias H. Stephani qui versum Fecundo penetrat penitus potiturque thalamo, in fragmentis poetarum veterum latinorum anno 1554 editis, p. 224, Naevio adscripsit, nec Scaligeri commentum qui a Laevio Iliadem Cypriam vult scriptam esse 1. Nec non deceptus est Heyne qui, in excursu primo ad secundum Aeneidis librum (p. 387 et 391, not. 2), Naevii Cypriam Iliadem fuisse contendit 2. Eodem errore laborat Wernsdorf 3.
 
-Quid vero de Ninnii Crassi interpretatione sentiendum sit, vix statuere possumus; materia deest. Attamen, prout e tam paucis reliquiis licet coicere, a Walthero, qui inde Ninnii versus ad verba Homerica accurate conformatos fuisse existimat, equidem multum dissentio; neque aliter judicabit qui haec frustula cum graecis versibus sedulo contulerit.
+Quid vero de Ninnii Crassi interpretatione sentiendum sit, vix statuere possumus; materia deest. Attamen, prout e tam paucis reliquiis licet conicere, a Walthero, qui inde Ninnii versus ad verba Homerica accurate conformatos fuisse existimat, equidem multum dissentio; neque aliter judicabit qui haec frustula cum graecis versibus sedulo contulerit.
 
 Nunc in censum nostrum cadit M. Tullius qui, etsi Homericum carmen numquam latine totum reddidisse videtur, tamen, cum versus separatim ab aliisque rebus distinctos latine transtulerit, inter eos qui Homerum interpretati sunt locum obtinet, non inter poetas qui ex graeco aliquid alii intextum materiae in usum peculiarem converterint. Ceterum Homeri carminibus quanta Cicero
 
@@ -499,7 +499,7 @@ quem ad Iliad. IV, 35, respicere perspicuum est :
 
 ὠμὸν βεβρώθοις Πρίαμον Πριάμοιό τε παῖδας 1.
 
-Haud equidem arbitror hic eodem jure memorandos esse Pompejum Macrum quem Iliacum Naso appellavit 2 quemque ab Aemilio Macro Veronense diversum fuisse jandudum monuit Douza, Antonium Rufum 3, Camerinum 4, alios ab Ovidio laudatos 5. Nam versus Homeri non illi interpretati sunt, at de rebus Trojanis sua et propria condiderunt poemata. Neque aliter se gessit Julius Antonius, triumviri filius, a. 744 consul, qui, ut docet Acro ad Horat. Carm. IV, 2, 33, « heroico metro Διομηδείας duodecim libros scripsit egregios. » Itaque nos, ut propositum iter pergamus, veniamus nunc ad Italicum.
+Haud equidem arbitror hic eodem jure memorandos esse Pompejum Macrum quem Iliacum Naso appellavit 2 quemque ab Aemilio Macro Veronense diversum fuisse {{jam dudum}} monuit Douza, Antonium Rufum 3, Camerinum 4, alios ab Ovidio laudatos 5. Nam versus Homeri non illi interpretati sunt, at de rebus Trojanis sua et propria condiderunt poemata. Neque aliter se gessit Julius Antonius, triumviri filius, a. 744 consul, qui, ut docet Acro ad Horat. Carm. IV, 2, 33, « heroico metro Διομηδείας duodecim libros scripsit egregios. » Itaque nos, ut propositum iter pergamus, veniamus nunc ad Italicum.
 
 1. Quid de Bergkio hic dicamus qui carmen nostrum nil nisi Attii Labeonis opus esse contendit? De hac sententia acerbe judicavit Mauritius Hauptius, Opusc., t. II, p. 163; et quidem, quamquam praeter morem suum verbis non satis humanis vir doctissimus utitur, aequum de re ipsa facit judicium; quid enim, rogo, Epitomae nostrae quae libros Iliadis breviter (et quosdam brevissime) contractos affert cum opere Labeonis illius qui Iliadem et Odysseam ad verbum transtulisse nobis traditur?
 
@@ -706,7 +706,7 @@ PDF page 51.
 
 men laboret, jejunum et exile saepius languescat, ineptis interdum redundet, nihil ingenuitatis Homericae, nihil Homerici sanguinis retineat, neque decem ex ordine habeat versus quales e M. Tullio supra laudati sunt, jam fere adducimus ut opus reiciamus sterile poetamque imperitum contemnamus. Sed cavendum est ne longius quam ratio postulat, nimia morositate digrediamur : nostri enim vitia excusatione consilii, quod sibi ille proponebat, defendere licet.
 
-Scimus Graecos non minus in coloniis quam in ipsa patria carminibus Homericis primo jam quoque tempore operam navam dedisse. Id quam verum sit, ex hoc satis perspicies quod Zenodoti, Aristophanis, Aristarchi studiis vetustior fuit Massiliotica quae dicitur editio 1. Atque adeo Graeci, qui sedes in Italia inferiore habebant, Romanos aliasque Italicas gentes a principio fabulas homericas docuerunt. Neque hujus rei tantum a bello punico secundo Livianaque orta Odyssea initium notandum est; jandiu, secundum litus Campaniae et Latii et Etruriae, urbes, insulae, promontoria ab heroum Trojanorum nominibus nomina traxerant 2. Sed hic ab ea demum aetate, qua Romani humanis artibus sese dediderunt, initium ducamus.
+Scimus Graecos non minus in coloniis quam in ipsa patria carminibus Homericis primo jam quoque tempore operam navam dedisse. Id quam verum sit, ex hoc satis perspicies quod Zenodoti, Aristophanis, Aristarchi studiis vetustior fuit Massiliotica quae dicitur editio 1. Atque adeo Graeci, qui sedes in Italia inferiore habebant, Romanos aliasque Italicas gentes a principio fabulas homericas docuerunt. Neque hujus rei tantum a bello punico secundo Livianaque orta Odyssea initium notandum est; {{jamdiu}}, secundum litus Campaniae et Latii et Etruriae, urbes, insulae, promontoria ab heroum Trojanorum nominibus nomina traxerant 2. Sed hic ab ea demum aetate, qua Romani humanis artibus sese dediderunt, initium ducamus.
 
 Tum vero, cum magistri, e Magna Graecia orti, studia Homerica Romam primis rei publicae temporibus intulerint, certum est Iliadem et Odysseam in scholis praelectas esse pueris, nec dubium videtur quin hujus lectionis fundamentum textus graecus fuerit. Non obstat quod ait Horatius in secundi libri epistula prima, v. 69, se Odysseam Livianam adjuvante Orbilii ferula didicisse. Nam Horatium graecis litteris a puero imbutum esse nemo nega-
 
@@ -826,7 +826,7 @@ D, Parisiensis inter lat. 14909, saeculo quinto decimo, partim membranaceus, par
 
 Discrepantiam igitur sedecim codicum in apparatu meo reperies ; ex libris, etiam pravis, nonnulla ideo excerpsi quod timui ne, isto munere neglecto, magis ignaviae quam judicio viderer consuluisse, deinde quod intuenti quam lubricam omnes praeter Leidensem et Erfurtanum habeant fidem, quam multis et variis mendis foedati sint, mihi satius esse visum est adminicula qualiacumque praebere quam tollere. Sed ex tot codicibus, ne nimia mole apparatus jam gravis premeretur, utiliores modo scripturas notavi ; omisi orthographicas easque omnes quae tantum ad librorum auctoritatem cognoscendam valent ; quam rationem me secutum esse nemo mirabitur qui me, rerum invidia, nullum librum manu scriptum in oculis habuisse reputabit.
 
-Quo vitiorum genere Ilias latina paulatim sit deformata, optime vidit Lucianus Mueller. Non Italorum, qui renascentium, ut dicitur, litterarum aetate nimiae conjectandi alacritati, sed etiam ingenio acutissimo et eruditissimo indulserunt, medicas manus noster passus est; quo tempore, jandiu ab Italis neglectum, vix in ludis germanicis opus Italici tractabatur. Prius autem, tertio et duodecimo saeculo, undecimo jam, librarii textum incuria, novandi libidine, mutandi licentia certatim turbaverunt; barbaries medii aevi quasi per ludibrium in Italici carmine tota grassata est. Inde illa nominum graecorum monstra quorum exempla Lucianus Mueller protulit, inde verba saepissime translata, spurii versus, antiqua ulcera quae sanari perarduum est.
+Quo vitiorum genere Ilias latina paulatim sit deformata, optime vidit Lucianus Mueller. Non Italorum, qui renascentium, ut dicitur, litterarum aetate nimiae conjectandi alacritati, sed etiam ingenio acutissimo et eruditissimo indulserunt, medicas manus noster passus est; quo tempore, {{jamdiu}} ab Italis neglectum, vix in ludis germanicis opus Italici tractabatur. Prius autem, tertio et duodecimo saeculo, undecimo jam, librarii textum incuria, novandi libidine, mutandi licentia certatim turbaverunt; barbaries medii aevi quasi per ludibrium in Italici carmine tota grassata est. Inde illa nominum graecorum monstra quorum exempla Lucianus Mueller protulit, inde verba saepissime translata, spurii versus, antiqua ulcera quae sanari perarduum est.
 
 ## p. XLVI
 

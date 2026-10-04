@@ -288,7 +288,7 @@ Virum mihi, Camena, insece versutum
 
 Hom., Odyss., VI, 142:
 
-Utrum genua amploctens virginem oraret
+Utrum genua amplectens virginem oraret
 ("Whether he should entreat the maiden, clasping her knees")
 
 Ἦ γούνων λίσσοιτο λαβὼν εὐῶπιδα κούρην.

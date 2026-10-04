@@ -224,18 +224,35 @@ the indexes, the words of step 8 too, without braces.
 | `2-lemaire/ilias.md` | Gemini; the notes corrected by Claude (`830186d`) | Gemini |
 
 In steps 2 and 3 only the readings that the model judged uncertain were
-checked against the images.  Every file has since been read through in
-translation, but the files and parts not corrected in step 4 have not
-been checked against the images again.
+checked against the images.  Step 10 records the subsequent full image
+recheck of every OCR source page, including prefaces, notes and indexes.
 
 ## Open issues
 
-- **Plessis's verses** (`4-plessis/ilias.md`, the Text column, and
-  the same column copied into `ilias-en.md` and `ilias-ja.md`).  The
-  words not in The Latin Library were checked against the page images
-  in step 6, but misreadings that make words of The Latin Library
-  have not been looked for.  Of the other editions the same check has
-  been run on Vollmer's verses only (step 7).
+The OCR source pages listed in step 10 have all been checked against
+their images.  A few readings that may be errors in the printed edition
+or may represent a manuscript reading remain marked in the corresponding
+source text.
+
+### 10. Full image recheck of OCR sources (Codex, 2026-10-05)
+
+Every page containing OCR source text was compared with its page image,
+including prefaces, introductions, testimonia, verse text, apparatus and
+notes, excursus, and indexes.  Confirmed OCR mismatches were corrected
+in the source text and corresponding translations; suspected errors in
+the printed editions are marked there with double braces.
+
+| Edition | OCR source pages checked against images |
+|---|---|
+| Lemaire/Wernsdorf | PDF 463–630: prooemium, testimonia, *Ilias* and excursus |
+| Baehrens | PDF 7–63: preface and *Ilias* with apparatus |
+| Plessis | PDF 15–17, 19–65, 68–151, 153–164: preface, introduction, *Ilias* with notes, index |
+| Vollmer | PDF 152–223: preface, *Ilias* with testimonia and apparatus, index |
+
+`COMMENTARY.md` files are extracts from the corresponding `ilias.md`;
+their included quotations were checked with those source pages.
+Translations and derived tables are not OCR sources and were not
+independently rechecked as translations.
 
 ## Prompts
 

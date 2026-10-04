@@ -48,7 +48,7 @@ Book heading: I.
 
 ### Codices
 
-- **Titul.** incipit liber Ilomcri EF incipit liber omeri L incipit Homerus G de bello troyano homerus N man. rec.
+- **Titul.** incipit liber Homeri EF incipit liber omeri L incipit Homerus G de bello troyano homerus N man. rec.
 - **2** que B quo V qui ceteri || ingessit S || uulnera A.
 - **3** animas ex -os corr. EMGS ex -is (ut Baehrensio videtur) L animos FVABC || edidit S misit ad orcos A.
 - **4** trahendas M traendas F.
@@ -100,7 +100,7 @@ PDF page 70.
 - **13** quondam crises vel chrises omnes || tempore uite ELml (uitte V).
 - **16** uocibus C
 - **17** plangore L solando (e vers. seq.) T leuauit B S T.
-- **19** elTusus S affluxus I profusus G || atridis G.
+- **19** effusus S affluxus I profusus G || atridis G.
 - **22** perfert S profert T. || precibus C.
 - **26** spreuitqueL m2A.
 - **27** Despectus E.
@@ -165,7 +165,7 @@ PDF page 72.
 |---|---|---|
 | 47 | Vixque rogis superest tellus, vix ignibus arbor, |  |
 | 48 | Deerat ager tumulis. Jam noctis sidera nonae |  |
-| 49 | Transierant decimusque dies patefacerat orbem, |  |
+| 49 | Transierant decimusque dies {{patefecerat}} orbem, |  |
 | 50 | Cum Danaum proceres in coetum clarus Achilles | 50 |
 | 51 | Convocat et causas hortatur pestis iniquae |  |
 | 52 | Edere Thestoriden. Tunc Calchas numina divum |  |
@@ -191,7 +191,7 @@ PDF page 72.
 - **50** Tum E L F V i\ C Tunc BG Dum M. || 5d casus G V A.
 - **52** tum IV V Y C.
 - **53** causas BG || laborum L.
-- **57** salutis] petilos A. || 89 primum dictis A dictis primo Y || amoris T acerbis A. || (50 tum F V M IV A T et S tunc ccteri. || 03 inui = tos si Baehr. cred., inuictus m 1 si Koot. L inuittos F in uiros C inuitus I) inuitos ceteri. || G5 super] simul A || quain] cum, sequitur ad decem litteras scHbendas spatium reliclum D || Ulixes] achilles A. II W ad oras T ad horas G.
+- **57** salutis] petitos A. || 89 primum dictis A dictis primo Y || amoris T acerbis A. || (50 tum F V M IV A T et S tunc ccteri. || 03 inui = tos si Baehr. cred., inuictus m 1 si Koot. L inuittos F in uiros C inuitus I) inuitos ceteri. || G5 super] simul A || quain] cum, sequitur ad decem litteras scHbendas spatium reliclum D || Ulixes] achilles A. II W ad oras T ad horas G.
 
 ### Notes
 
@@ -314,7 +314,7 @@ PDF page 75.
 
 ### Below the text
 
-Sic versus disposuit Havet. — 107 et 109 inter se locum mutare jussit Mueller; cui Baehrens assentilur; versum 109 versui 106 Mueller praeposuit.
+Sic versus disposuit Havet. — 107 et 109 inter se locum mutare jussit Mueller; cui Baehrens assentitur; versum 109 versui 106 Mueller praeposuit.
 
 ### Codices
 
@@ -561,7 +561,7 @@ PDF page 81.
 
 ### Below the text
 
-v. 198 eiciendum Wcmsdorf ccnset.
+v. 198 eiciendum Wernsdorf ccnset.
 
 ### Codices
 
@@ -850,7 +850,7 @@ PDF page 88.
 |---|---|---|
 | 297 | Corpus collectum tegitur fulgentibus armis | 297 |
 
-spurium jam uncis secluscrunt Mueller et Baehrens.
+spurium jam uncis secluserunt Mueller et Baehrens.
 
 ### Codices
 
@@ -982,7 +982,7 @@ PDF page 91.
 
 ### Codices
 
-- **336** lioc Y j| amplexus EFVI amplexis M amplesus (s ult. eras.) N complexu S iuncto E m 2 iuncti = L iunctis ceteri.
+- **336** hoc Y j| amplexus EFVI amplexis M amplesus (s ult. eras.) N complexu S iuncto E m 2 iuncti = L iunctis ceteri.
 - **337** incumbit M X. II 3il Cui L (et ita R, sed quem in marg.)
 - **342** phryges, phriges, friges omnes.
 
@@ -1611,7 +1611,7 @@ PDF page 107.
 | 560 | Perculit et summo pupugit certamine Martem. | 560 |
 | 561 | Pone truces animos infestaque tela coerce ». |  |
 | 562 | Post haec inter se posito certamine pugnae |  |
-| 563 | Commutant clipeos inimicaque proelia lincunt. |  |
+| 563 | Commutant clipeos inimicaque proelia {{linquunt}}. |  |
 | 564 | Colloquium petit interea fidissima conjunx |  |
 
 ### Codices
@@ -1907,7 +1907,7 @@ PDF page 114.
 - **646** confusa E confusi ceteri (i in L ex corr. m 1 et E m 1).
 - **647** Ingentem — pyram A.
 - **648** tradebant A I tradiderant ceteri.
-- **649** Dum E Tunc L Et M IV [| fossasj uires F VBGAS II robora E II tirmant G.
+- **649** Dum E Tunc L Et M IV [| fossasj uires F VBGAS II robora E II firmant G.
 
 ### Notes
 
@@ -2014,7 +2014,7 @@ PDF page 117.
 ### Codices
 
 - **680** in] ad Y.
-- **681** portasque] que omis. onvies Baehrensiani .
+- **681** portasque] que omis. omnes Baehrensiani .
 - **683** Excubiisque E m 2.
 - **684** sternit BG.
 - **685** curas omnes || reuoluunt AI.
@@ -2176,7 +2176,7 @@ PDF page 121.
 
 ### Codices
 
-- **728** Agnouere A || reckisas G.
+- **728** Agnouere A || reclusas G.
 - **729** Diffindum] Detrudunt omnes (Detruncant A) || iuuenis FVBGE m2 A || posthoc A : ; temptoria regis Mi\ (Rhesi omis. B).
 - **730** uino somnoque S.
 - **731** uirum S uiros ceteri (omis. B) || herbas EAY.

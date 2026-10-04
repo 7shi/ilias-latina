@@ -263,7 +263,7 @@ Virum mihi, Camena, insece versutum
 Ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον.
 
 ホメーロス『オデュッセイア』VI, 142：
-Utrum genua amploctens virginem oraret
+Utrum genua amplectens virginem oraret
 （「膝にすがりついて乙女に哀願すべきか」）
 Ἦ γούνων λίσσοιτο λαβὼν εὐῶπιδα κούρην.
 

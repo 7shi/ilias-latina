@@ -46,7 +46,7 @@ PDF page 69.
 
 ### 写本異読
 
-- **表題** incipit liber Ilomcri EF incipit liber omeri L incipit Homerus G de bello troyano homerus N 後筆
+- **表題** incipit liber Homeri EF incipit liber omeri L incipit Homerus G de bello troyano homerus N 後筆
 - **2** que B quo V qui 他の諸本 || ingessit S || uulnera A.
 - **3** animas -os から訂正 EMGS -is から（ベーレンスにはそう思われるように）L animos FVABC || edidit S misit ad orcos A.
 - **4** trahendas M traendas F.
@@ -163,7 +163,7 @@ PDF page 72.
 |---|---|---|
 | 47 | Vixque rogis superest tellus, vix ignibus arbor, |  |
 | 48 | Deerat ager tumulis. Jam noctis sidera nonae |  |
-| 49 | Transierant decimusque dies patefacerat orbem, |  |
+| 49 | Transierant decimusque dies {{patefecerat}} orbem, |  |
 | 50 | Cum Danaum proceres in coetum clarus Achilles | 50 |
 | 51 | Convocat et causas hortatur pestis iniquae |  |
 | 52 | Edere Thestoriden. Tunc Calchas numina divum |  |
@@ -1609,7 +1609,7 @@ PDF page 107.
 | 560 | Perculit et summo pupugit certamine Martem. | 560 |
 | 561 | Pone truces animos infestaque tela coerce ». |  |
 | 562 | Post haec inter se posito certamine pugnae |  |
-| 563 | Commutant clipeos inimicaque proelia lincunt. |  |
+| 563 | Commutant clipeos inimicaque proelia {{linquunt}}. |  |
 | 564 | Colloquium petit interea fidissima conjunx |  |
 
 ### 写本異読
@@ -2174,7 +2174,7 @@ PDF page 121.
 
 ### 写本異読
 
-- **728** Agnouere A || reckisas G.
+- **728** Agnouere A || reclusas G.
 - **729** Diffindunt] Detrudunt すべて (Detruncant A) || iuuenis FVBGE 第2筆 A || posthoc A : ; temptoria regis MN（B は Rhesi 省略）
 - **730** uino somnoque S.
 - **731** uirum S uiros 他の諸本（B は省略）|| herbas EAY.

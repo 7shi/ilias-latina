@@ -308,7 +308,7 @@ PDF page 18.
 | 142 | 142 | Vix telis caruere manus, ad sidera clamor |  |  |
 | 143 | 143 | Tollitur, et cunctos pugnandi corripit ardor. |  |  |
 | 144 | 144 | Tandem sollertis prudentia Nestoris aeuo |  |  |
-| 145 | 145 | Compresssam miti sedauit pondere turbam | 145 |  |
+| 145 | 145 | {{Compressam}} miti sedauit pondere turbam | 145 |  |
 | 146 | 146 | Admonuitque duces dictis, responsa recordans |  |  |
 | 147 | 147 | Temporis illius, quo uisus in Aulide serpens |  |  |
 | 148 | 148 | Consumpsit uolucrum bis quattuor arbore fetus |  |  |
@@ -482,7 +482,7 @@ PDF page 22.
 | 213 | 213 | Et clara uirtute Polyxenus atque Diores. |  |  |
 | 214 | 214 | Hi bis uicenas onerarunt milite naues. |  |  |
 | 215 | 215 | Protesilaus agit totidem fortisque Podarces | 215 |  |
-| 216 | 216 | Iustructas puppes, quot duxit Oileos Aiax. |  |  |
+| 216 | 216 | {{Instructas}} puppes, quot duxit Oileos Aiax. |  |  |
 | 217 | 217 | Et septem Poeante satus dat in arma carinas. |  |  |
 | 218 | 218 | Quem sequitur iuxta Podalirius atque Machaon, |  |  |
 | 219 | 219 | Altaque ter denis sulcarunt aequora proris. |  |  |
@@ -2210,7 +2210,7 @@ PDF page 60.
 | 989 | 989 | 'Quid mea supplicibus temptas inflectere dictis |  |  |
 | 990 | 990 | Pectora, quem possem discerptum more ferarum, | 990 |  |
 | 991 | 991 | Si sineret natura, meis absumere malis? |  |  |
-| 992 | 992 | Te uero tristesque ferae cunctaequae uolucres |  |  |
+| 992 | 992 | Te uero tristesque ferae {{cunctaeque}} uolucres |  |  |
 | 993 | 993 | Diripient, auidosque canes tua uiscera pascent. |  |  |
 | 994 | 994 | Haec ex te capient Patrocli gaudia manes, |  |  |
 | 995 | 995 | Si capiunt umbrae.' dum talia magnus Achilles | 995 |  |
