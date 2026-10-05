@@ -1,4 +1,5 @@
 MODEL =
+REVIEW_MODEL =
 BOOKS =
 VERSE =
 CHECK_MODEL = @test -n "$(MODEL)" || { echo 'usage: make $@ MODEL="vendor:model"'; exit 1; }
@@ -8,24 +9,21 @@ help: ## Show this help
 	@grep -hE '^[a-zA-Z0-9_ -]+:.*## ' $(MAKEFILE_LIST) | \
 		awk -F ':.*## ' '{printf "  %-12s %s\n", $$1, $$2}'
 	@echo
-	@echo '  MODEL: the LLM, e.g. make generate MODEL="gpt-5.6-terra"'
+	@echo '  MODEL: the LLM of the draft, e.g. make generate MODEL="gpt-5.6-terra"'
+	@echo '  REVIEW_MODEL: the LLM that reviews the draft; without it the draft'
+	@echo '         is the reading'
 	@echo '  BOOKS: the books to process, e.g. BOOKS=3 or BOOKS=1-3;'
 	@echo '         BOOKS or VERSE is required'
 	@echo '  VERSE: only the section of this verse, for testing, e.g. VERSE=9,'
 	@echo '         or VERSE=NEXT for the first section missing from the start'
 
-# Needs ../commentary/ja/ and the example ja/01/0001.md.  Existing files
-# are skipped, so an interrupted run resumes where it left off.
-generate: generate.py ## Read the Latin of the sections (MODEL=..., BOOKS=..., VERSE=...)
+# Needs ../commentary/ja/ and the example ja/01/0001.md.  With
+# REVIEW_MODEL the drafts are kept in tmp/draft/ and reviewed.  Existing
+# readings are skipped and existing drafts are not made again, so an
+# interrupted run resumes where it left off.
+generate: generate.py ## Read the Latin of the sections (MODEL=..., REVIEW_MODEL=..., BOOKS=..., VERSE=...)
 	$(CHECK_MODEL)
 	$(CHECK_TARGET)
-	uv run python generate.py -m "$(MODEL)" $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
+	uv run python generate.py -m "$(MODEL)" $(if $(REVIEW_MODEL),-R "$(REVIEW_MODEL)") $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
 
-# Revises the generated readings in place; the lists of changes go to
-# tmp/NN/VVVV.md, and sections with a list are skipped.
-review: review.py generate.py ## Revise the readings against the rules (MODEL=..., BOOKS=..., VERSE=...)
-	$(CHECK_MODEL)
-	$(CHECK_TARGET)
-	uv run python review.py -m "$(MODEL)" $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
-
-.PHONY: help generate review
+.PHONY: help generate

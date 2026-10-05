@@ -1,14 +1,22 @@
 """Read the Latin of the Ilias Latina in Japanese, section by section.
 
-Usage: python generate.py -m MODEL (-b BOOKS | --verse VERSE)
+Usage: python generate.py -m MODEL [-R REVIEW_MODEL] (-b BOOKS | --verse VERSE)
 
 The sections are those of the Japanese translation with commentary,
 ../commentary/ja/NN/VVVV.md: each gives the verses of The Latin Library
 with their translation, then the commentary.  Each section is sent to
 the model as its own message, preceded by the example and the context
 and followed by PROMPT, and the answer (the verses in groups, each
-followed by its reading) is saved under the heading of the section as
-ja/NN/VVVV.md, the same path as in the commentary.
+followed by its reading) is the draft.  With a review model, the draft
+is saved as tmp/draft/NN/VVVV.md and sent to that model with the same
+messages and REVIEW_PROMPT, which repeats the rules, and its revision is
+the reading; without one, the draft is the reading.  The places of the
+draft that a mechanical check finds (Latin words not read, runs of Latin
+words, paragraphs opening with the commentary) are listed for the
+review, and the revision must read every word.  The reading is
+saved under the heading of the section as ja/NN/VVVV.md, the same path
+as in the commentary.  A draft that is there already is reviewed
+without being made again.
 
 The example is the first section, its commentary and its reading
 (ja/01/0001.md, written by hand).  The context is the reading of the
@@ -30,6 +38,7 @@ from llm7shi.usage import append_usage, find_usage_file, print_today_totals
 ROOT = Path(__file__).resolve().parent
 COMMENTARY = ROOT.parent / "commentary" / "ja"
 OUT = ROOT / "ja"
+DRAFT = ROOT / "tmp" / "draft"
 EXAMPLE = Path("01") / "0001.md"
 
 INTRO = """
@@ -121,15 +130,62 @@ Manner:
 
 PROMPT = f"{INTRO}\n\n{FORM}\n\n{MANNER}"
 
+REVIEW_INTRO = """
+<commentary> is a section of book {book} of the Ilias Latina from a
+Japanese translation with commentary.  <reading> is a Japanese reading of
+the Latin of this section, made by a model with the rules below, for a
+reader who does not know Latin and reads it beside the translation and the
+commentary.  <example> gives the commentary and the reading of the first
+section, written by hand, as the standard.
+
+Revise <reading> where it breaks the rules.  Keep every sentence that
+already follows them as it is; change only those that do not, and do not
+add or remove content beyond what the rules require, and keep the groups
+of verses and their headings as they are.  Where a group is wrong
+throughout (the Latin quoted in runs, the commentary retold), write its
+reading again.  Look in particular for:
+
+- a Latin word of the verses not read, small words such as *et* included;
+- a clause or a run of Latin words quoted at once instead of one word at
+  a time, or the meaning of a run told first and the run quoted after;
+- a paragraph or sentences that retell the commentary beyond whom or what
+  a word means;
+- a quoted gloss before a Latin word (「ついにと *Tandem* で」「それからと
+  いう *inde* とともに」), above all with adverbs and connectives;
+- a Latin word met for the first time made the topic or subject
+  (「*X* が告げる」「*X* が示す」「*X* が描く」「*X* が明かす」);
+- 「解説が述べるとおり」 used for what the verses say themselves, or for
+  more than the commentary says;
+- an identification already made in <previous>, made again (one that
+  <previous> does not state in words is not made yet and is kept);
+- a sentence that is broken, unclear or says one thing twice;
+- a misreading of the Latin.
+
+Answer with the whole revised reading in the same form, without the
+heading of the section, and nothing else.
+""".strip()
+
+REVIEW_PROMPT = f"{REVIEW_INTRO}\n\n{FORM}\n\n{MANNER}"
+
 EXAMPLE_TEXT = "The first section, its commentary and its reading, as an example:"
 
 PREVIOUS = "The reading of the previous section, for continuity:"
+
+FLAGS = """
+A mechanical check of <reading> found these places.  A word not read must
+be brought in where the Latin gives it.  The others may break the rules:
+a phrase of a preposition and its noun or an adjective next to its noun
+may stand together, and a one-sentence identification is kept.
+""".strip()
 
 # Set the path only when usage should be recorded
 USAGE_PATH = None
 
 QUOTE_RE = re.compile(r"^>\s*(\d+)\s+(.*?)\s*$")
 TRANS_RE = re.compile(r"^>\s*[（(]")
+ITALIC_RE = re.compile(r"\*([^*\n]+)\*")
+WORD_RE = re.compile(r"[A-Za-z]+")
+ENCLITICS = ("que", "ne", "ue")
 
 
 @dataclass
@@ -170,9 +226,10 @@ def unescape(latin: str) -> str:
     return latin.replace("\\<", "<")
 
 
-def check(answer: str, verses: list[tuple[int, str]]) -> tuple[str, list[str]]:
+def check(answer: str, verses: list[tuple[int, str]], words: bool = False) -> tuple[str, list[str]]:
     """Check that every verse is quoted once, in order, without its
-    translation, and write the quoted Latin as the commentary has it."""
+    translation, and, with words, that every word is read; write the
+    quoted Latin as the commentary has it."""
     lines = [line.rstrip() for line in answer.strip().splitlines()]
     quoted: list[int] = []
     errors: list[str] = []
@@ -193,7 +250,33 @@ def check(answer: str, verses: list[tuple[int, str]]) -> tuple[str, list[str]]:
         errors.append(f"verses quoted: {quoted}")
     if not lines or not lines[0].startswith("#### "):
         errors.append("no group heading at the start")
+    if words and (missing := missing_words(answer, verses)):
+        errors.append(f"Latin words not read: {' '.join(missing)}")
     return "\n".join(lines), errors
+
+
+def missing_words(answer: str, verses: list[tuple[int, str]]) -> list[str]:
+    """The words of the verses that the reading does not give in italics;
+    a word with an enclitic counts as given with or without it."""
+    given = {w.lower() for run in ITALIC_RE.findall(answer) for w in WORD_RE.findall(run)}
+
+    def read(word: str) -> bool:
+        w = word.lower()
+        return w in given or any(w.endswith(e) and w[:-len(e)] in given for e in ENCLITICS)
+
+    return [w for _, latin in verses for w in WORD_RE.findall(unescape(latin)) if not read(w)]
+
+
+def flags(answer: str, verses: list[tuple[int, str]]) -> list[str]:
+    """Places that may break the rules, for the review: Latin words not
+    read, runs of three or more Latin words, and paragraphs that open
+    with the commentary."""
+    missing = [f"- a Latin word not read: *{w}*" for w in missing_words(answer, verses)]
+    runs = [run for run in ITALIC_RE.findall(answer) if len(run.split()) >= 3]
+    paras = [line for line in answer.splitlines() if line.startswith("解説")]
+    return missing + [f"- a run of Latin words: *{run}*" for run in runs] + [
+        f"- a paragraph opening with the commentary: {line[:40]}…" for line in paras
+    ]
 
 
 def example(sections: list[Section]) -> str:
@@ -214,19 +297,48 @@ def context(sections: list[Section], i: int) -> str | None:
     return f"{PREVIOUS}\n\n<previous>\n{prev.read_text().strip()}\n</previous>" if prev.exists() else None
 
 
-def generate(client: Client, sec: Section, messages: list[str], rounds: int) -> bool:
-    prompt = PROMPT.format(book=sec.book)
-    commentary = f"<commentary>\n{sec.text}\n</commentary>"
+def ask(client: Client, sec: Section, messages: list[str], rounds: int, step: str, words: bool = False) -> str | None:
+    """The checked answer of the model; None if every round fails."""
     for round_no in range(1, rounds + 1):
-        print(f"\n--- {sec.heading} (round {round_no}) ---")
-        answer, errors = check(client([*messages, commentary, prompt]).text, sec.verses)
+        print(f"\n--- {sec.heading} ({step}, round {round_no}) ---")
+        answer, errors = check(client(messages).text, sec.verses, words)
         if not errors:
-            sec.path.parent.mkdir(parents=True, exist_ok=True)
-            sec.path.write_text(f"{sec.heading}\n\n{answer}\n")
-            print(f"\nSaved to {sec.path}")
-            return True
+            return answer
         print("\n" + "\n".join(errors), file=sys.stderr)
-    return False
+    return None
+
+
+def save(path: Path, sec: Section, answer: str):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(f"{sec.heading}\n\n{answer}\n")
+    print(f"\nSaved to {path}")
+
+
+def generate(clients: list[Client], sec: Section, messages: list[str], rounds: int) -> bool:
+    """Make the draft with the first client and, if there is a second,
+    have it review the draft."""
+    commentary = f"<commentary>\n{sec.text}\n</commentary>"
+    draft_path = DRAFT / sec.rel
+    if draft_path.exists():
+        print(f"\nDraft found: {draft_path}")
+        draft = draft_path.read_text().strip().split("\n", 1)[1].strip()
+    else:
+        prompt = PROMPT.format(book=sec.book)
+        if (draft := ask(clients[0], sec, [*messages, commentary, prompt], rounds, "draft")) is None:
+            return False
+        if len(clients) > 1:
+            save(draft_path, sec, draft)
+    if len(clients) == 1:
+        save(sec.path, sec, draft)
+        return True
+    reading = f"<reading>\n{draft}\n</reading>"
+    if found := flags(draft, sec.verses):
+        reading += f"\n\n{FLAGS}\n\n" + "\n".join(found)
+    prompt = REVIEW_PROMPT.format(book=sec.book)
+    if (answer := ask(clients[1], sec, [*messages, commentary, reading, prompt], rounds, "review", True)) is None:
+        return False
+    save(sec.path, sec, answer)
+    return True
 
 
 def next_missing(sections: list[Section]) -> Section | None:
@@ -234,7 +346,7 @@ def next_missing(sections: list[Section]) -> Section | None:
     return next((sec for sec in sections if not sec.path.exists()), None)
 
 
-def run(client: Client, ex: str, sections: list[Section], indices: list[int], rounds: int) -> bool:
+def run(clients: list[Client], ex: str, sections: list[Section], indices: list[int], rounds: int) -> bool:
     """Generate the missing sections among those given."""
     for i in indices:
         sec = sections[i]
@@ -244,7 +356,7 @@ def run(client: Client, ex: str, sections: list[Section], indices: list[int], ro
         if (ctx := context(sections, i)) is None:
             print(f"\nmissing {sections[i - 1].path}: generate it first", file=sys.stderr)
             return False
-        if not generate(client, sec, [ex, ctx] if ctx else [ex], rounds):
+        if not generate(clients, sec, [ex, ctx] if ctx else [ex], rounds):
             print(f"\ngiving up at {sec.heading}", file=sys.stderr)
             return False
     return True
@@ -266,13 +378,17 @@ def main():
     parser.add_argument(
         "-m", "--model",
         required=True,
-        help="Model name with optional vendor prefix (e.g. openai:gpt-5.6-terra)",
+        help="Model of the draft, with optional vendor prefix (e.g. openai:gpt-5.6-terra)",
+    )
+    parser.add_argument(
+        "-R", "--review-model",
+        help="Model that reviews the draft; without it the draft is saved as the reading",
     )
     parser.add_argument(
         "-r", "--rounds",
         type=int,
         default=3,
-        help="Max attempts per section until every verse is quoted (default: 3)",
+        help="Max attempts per step until every verse is quoted (default: 3)",
     )
     parser.add_argument(
         "--no-think",
@@ -306,16 +422,20 @@ def main():
         if target.path.exists():
             parser.error(f"{target.path} already exists")
 
-    if args.model.startswith(("openai:", "gpt-")) or args.save_usage:
+    models = [args.model] + ([args.review_model] if args.review_model else [])
+    if any(m.startswith(("openai:", "gpt-")) for m in models) or args.save_usage:
         USAGE_PATH = find_usage_file()
 
-    client = Client(
-        model=args.model,
-        include_thoughts=not args.no_think,
-        show_params=False,
-        keep_history=False,
-        show_usage=True,
-    )
+    clients = [
+        Client(
+            model=model,
+            include_thoughts=not args.no_think,
+            show_params=False,
+            keep_history=False,
+            show_usage=True,
+        )
+        for model in models
+    ]
 
     ex = example(sections)
     ok = True
@@ -324,22 +444,25 @@ def main():
             if (ctx := context(sections, sections.index(target))) is None:
                 print("No context: the previous section is not there yet")
                 ctx = ""
-            ok = generate(client, target, [ex, ctx] if ctx else [ex], args.rounds)
+            ok = generate(clients, target, [ex, ctx] if ctx else [ex], args.rounds)
         else:
             selected = set(select_books(args.books, books))
             indices = [i for i, sec in enumerate(sections) if sec.book in selected]
-            ok = run(client, ex, sections, indices, args.rounds)
+            ok = run(clients, ex, sections, indices, args.rounds)
     finally:
         # Record silently so an interrupted run still logs what it consumed;
         # the report below is printed only on normal completion
-        if client.usages and USAGE_PATH is not None:
-            append_usage(sum(client.usages), args.model, USAGE_PATH)
-
-    if client.usages:
-        print(f"\n--- Total Usage ---\n{sum(client.usages)}")
         if USAGE_PATH is not None:
-            print()
-            print_today_totals(USAGE_PATH, models=[args.model])
+            for client, model in zip(clients, models):
+                if client.usages:
+                    append_usage(sum(client.usages), model, USAGE_PATH)
+
+    for client, model in zip(clients, models):
+        if client.usages:
+            print(f"\n--- Total Usage ({model}) ---\n{sum(client.usages)}")
+    if USAGE_PATH is not None and any(client.usages for client in clients):
+        print()
+        print_today_totals(USAGE_PATH, models=models)
 
     # Reported after the usage, so that make can tell a run that gave up
     if not ok:
