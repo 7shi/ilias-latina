@@ -54,6 +54,18 @@ took about 25,600 tokens (input and output) in book 5, and the
 single-model drafts of GPT-6.1 Sol about 9,800 in book 6, with less
 reasoning than those of Luna.
 
+Leaving the drafts to a cheaper model saves little. A review is sent
+the same example, construction, commentary and previous section as a
+draft, and the draft besides, so the reviewer uses about as many tokens
+as it would to draft the section itself: per section, GPT-6.1 Sol took
+about 9,900 input and 1,200 output tokens to review in book 5 and 9,200
+and 840 in book 9, against 8,900 and 1,150 to draft alone in book 7.
+The cheaper draft only adds its own tokens, and its readings were no
+better: the drafts of GPT-5.6 Terra in book 8 put almost every sentence
+in a paragraph of its own and repeated identifications, which the review
+kept, and the drafts of GPT-6 Luna with the review in book 9 needed
+about as many corrections as the single-model drafts of Sol.
+
 ## Files
 
 | File or directory | Contents |
