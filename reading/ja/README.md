@@ -19,7 +19,7 @@ pattern.
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2–5, 9, 10 and 13, and reviewed its own drafts of book 10. |
 | GPT-5.6 Terra | Drafted book 8. |
-| Gemini 3.8 Flash | Drafted books 11 and 14–22 without review (books 15–22 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
+| Gemini 3.8 Flash | Drafted books 11 and 14–23 without review (books 15–23 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
 | GPT-6.1 Sol | Reviewed books 5, 8 and 9, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
@@ -46,6 +46,7 @@ pattern.
 | 20 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 21 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 22 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 23 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
@@ -150,7 +151,11 @@ Book 22, the first made after ONESHOT.md named the example's 「こうして
 *summi* と *regis* が…結びつく」 as an allowed closing, used that sentence
 eight times, after words that had not been held back and mostly stood
 side by side; all were removed, with a note that a section closed the
-book. Nothing was misconstrued.
+book. Nothing was misconstrued. In book 23, after ONESHOT.md limited
+that sentence to words held back over a distance, it did not recur;
+the corrupt *tyrsin* at 1008 was read, as instructed, as a damaged
+place, and the corrections were two grammatical terms (「持ち主格」,
+「主節」) and a redundant phrase.
 
 ## Files
 
