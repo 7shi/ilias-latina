@@ -16,7 +16,7 @@ its use.
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2–5, 9, 10 and 13, and reviewed its own drafts of book 10. |
 | GPT-5.6 Terra | Drafted book 8. |
-| Gemini 3.8 Flash | Drafted books 11, 14 and 15 without review (book 15 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
+| Gemini 3.8 Flash | Drafted books 11 and 14–16 without review (books 15 and 16 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
 | GPT-6.1 Sol | Reviewed books 5, 8 and 9, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
@@ -36,6 +36,7 @@ its use.
 | 13 | GPT-6 Luna | Gemini 3.8 Flash | Claude Opus 5.5 |
 | 14 | Gemini 3.8 Flash | — | Claude Opus 5.5 |
 | 15 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 16 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
@@ -109,6 +110,13 @@ of generate.py, and its readings passed the same checks afterwards.
 Again nothing was misconstrued; the corrections were the grammatical
 term 「前置詞」, a word described by what it names (*carinas*), and the
 lost line 791, which the reading had described by its editorial sign.
+Book 16 was drafted in the same harness through `make prompt` and
+`make check`, which give it the messages of generate.py and its checks,
+with the corrections of book 15 added to the instruction; none of them
+recurred. One adjective was joined to the wrong noun (*ultrix* with
+Hector instead of *dextera*), and the other corrections were of form: a
+broken sentence, an identification that repeated the verse, and
+「*-que* とともに」 before words with the enclitic.
 
 ## Files
 
