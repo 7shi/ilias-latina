@@ -15,7 +15,7 @@ its use.
 | Claude Opus 5.5 | Wrote the example reading [01/0001.md](01/0001.md) and its step-by-step construction [ONESHOT.md](ONESHOT.md), wrote the prompts and mechanical checks of generate.py, and corrected the readings by hand after generation. |
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2 onwards. |
-| GPT-6.1 Sol | Reviewed book 5, replacing GPT-6 Astra once its free daily quota was used up, and drafted book 6 without review. |
+| GPT-6.1 Sol | Reviewed book 5, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
 |---|---|---|---|
@@ -25,11 +25,12 @@ its use.
 | 4 | GPT-6 Luna | GPT-6 Astra | Claude Opus 5.5 |
 | 5 | GPT-6 Luna | GPT-6.1 Sol | Claude Opus 5.5 |
 | 6 | GPT-6.1 Sol | — | Claude Opus 5.5 |
+| 7 | GPT-6.1 Sol | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
 in turn, giving the reviewer the places found by mechanical checks.
-Book 6 was drafted by a single model, which reviews only a draft that
+Books 6 and 7 were drafted by a single model, which reviews only a draft that
 leaves Latin words unread; none did.
 The raw output of each book is committed before its corrections.
 
