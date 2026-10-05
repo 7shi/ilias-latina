@@ -33,6 +33,23 @@ Book 6 was drafted by a single model, which reviews only a draft that
 leaves Latin words unread; none did.
 The raw output of each book is committed before its corrections.
 
+The drafts of GPT-6 Astra in book 1, made before ONESHOT.md was given
+to the models, quoted glosses and spoke of the Latin as words
+throughout, and the review was brought in for that. The single-model
+drafts of GPT-6.1 Sol in book 6, a weaker model than Astra, broke none
+of the mechanically checked rules and needed only a few corrections.
+This is presumably due less to the model than to what was refined
+meanwhile to improve the drafts of GPT-6 Luna: ONESHOT.md, the rules,
+the context of the previous section and its identifications, and the
+retries with the errors of the check. This is a guess: book 6 is short,
+and the models and prompts were not compared on the same sections,
+since a review by the stronger model costs more than it would tell.
+
+Per section, the drafts of GPT-6 Luna with the review of GPT-6.1 Sol
+took about 25,600 tokens (input and output) in book 5, and the
+single-model drafts of GPT-6.1 Sol about 9,800 in book 6, with less
+reasoning than those of Luna.
+
 ## Files
 
 | File or directory | Contents |
