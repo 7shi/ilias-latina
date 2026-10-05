@@ -73,6 +73,15 @@ broke none of the mechanically checked rules; the corrections were
 mostly of construction, words joined to the wrong noun or subject
 (*Thracas* taken with *praeda*, *nitentes* and *fusos* with the two
 Greeks) and a meaning not taken from the commentary (*accipit*).
+Corrections were needed in 7 of its 11 sections, against 13 of the 32
+single-model sections of GPT-6.1 Sol in books 6 and 7, and the formulaic
+「…と置かれる」 after each word was more frequent (about 22 per 1,000
+characters, against 16 and 19). The misconstructions joined words across
+lines and changed the sense, and the review by the same model did not
+catch them. The single-model drafts of Sol are therefore the better
+readings, and the self-review of Luna is the choice when the quota of
+Sol is used up. The samples are small and the books differ, so this is
+a tendency rather than a measurement.
 
 ## Files
 
