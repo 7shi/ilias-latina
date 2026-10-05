@@ -85,9 +85,11 @@ Beyond the first section:
   not use 「解説が述べるとおり」 for what the verses say themselves, and do
   not retell the commentary (lineage, legend, comparison with Homer, the
   poet's design) in sentences or a paragraph of its own.
-- An identification already made in <previous> is not made again; it
-  counts as made only where <previous> states it (「解説が述べるとおり、
-  これはアガメムノンである」), not where the name only appears.
+- An identification already made in <previous> or listed in <identified>
+  is not made again; it counts as made only where it is stated
+  (「解説が述べるとおり、これはアガメムノンである」), not where the name
+  only appears.  A name the reader already has (ユピテル, ヘレネ) needs no
+  identification.
 - Latin words met in <previous> may be used again as known words, as the
   example uses the words of its earlier verses.
 """.strip()
@@ -122,8 +124,14 @@ reading again.  Look in particular for:
   subject;
 - 「解説が述べるとおり」 used for what the verses say themselves, or for
   more than the commentary says;
-- an identification already made in <previous>, made again (one that
-  <previous> does not state in words is not made yet and is kept);
+- an identification already made in <previous> or <identified>, made
+  again (one that they do not state in words is not made yet and is kept);
+- a word held back (「まだ明かされない」「先に示される」) where the word it
+  waits for comes only one or two words later, and sentence endings that
+  repeat (「〜と示される」「〜と明かされる」 sentence after sentence); do not
+  add holding back that the draft does not have;
+- a Latin word slotted into a Japanese sentence in place of a Japanese
+  word (「それから、*deinde*、槍を投げる」);
 - a sentence that is broken, unclear or says one thing twice;
 - a misreading of the Latin.
 
@@ -136,6 +144,8 @@ REVIEW_PROMPT = f"{REVIEW_INTRO}\n\n{FORM}\n\n{RULES}"
 EXAMPLE_TEXT = "The first section, its commentary and how its reading was built, as an example:"
 
 PREVIOUS = "The reading of the previous section, for continuity:"
+
+IDENTIFIED = "The identifications made in the sections of this book before it:"
 
 FLAGS = """
 A mechanical check of <reading> found these places.  A word not read must
@@ -152,6 +162,7 @@ TRANS_RE = re.compile(r"^>\s*[（(]")
 ITALIC_RE = re.compile(r"\*([^*\n]+)\*")
 WORD_RE = re.compile(r"[A-Za-z]+")
 ENCLITICS = ("que", "ne", "ue")
+IDENT_RE = re.compile(r"解説が述べるとおり[^。\n]*。")
 
 
 @dataclass
@@ -254,13 +265,20 @@ def example(sections: list[Section]) -> str:
 
 
 def context(sections: list[Section], i: int) -> str | None:
-    """The reading of the previous section of the same book, "" for the
-    first section of a book; None if it is not there yet."""
+    """The reading of the previous section of the same book with the
+    identifications of the sections before it, "" for the first section
+    of a book; None if it is not there yet."""
     sec = sections[i]
     if not i or sections[i - 1].book != sec.book:
         return ""
     prev = sections[i - 1].path
-    return f"{PREVIOUS}\n\n<previous>\n{prev.read_text().strip()}\n</previous>" if prev.exists() else None
+    if not prev.exists():
+        return None
+    ctx = f"{PREVIOUS}\n\n<previous>\n{prev.read_text().strip()}\n</previous>"
+    earlier = [s.path for s in sections[:i - 1] if s.book == sec.book and s.path.exists()]
+    if found := [m for path in earlier for m in IDENT_RE.findall(path.read_text())]:
+        ctx += f"\n\n{IDENTIFIED}\n\n<identified>\n" + "\n".join(dict.fromkeys(found)) + "\n</identified>"
+    return ctx
 
 
 def ask(client: Client, sec: Section, messages: list[str], rounds: int, step: str, words: bool = False) -> str | None:
