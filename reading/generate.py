@@ -96,6 +96,12 @@ Beyond the first section:
   identification.
 - Latin words met in <previous> may be used again as known words, as the
   example uses the words of its earlier verses.
+- Do not close a group or a paragraph with a sentence that goes over the
+  Latin words just read again (「こうして *corpora* が野に広がり、*sanguine*
+  は *prata* を潤す」「*suorum* の *uires* が *numine* によって削がれているの
+  である」) or that only says the story goes on (「話はまだ先へ続いていく」).
+  A sentence that says what a line has brought together, as the example
+  does once, is not such a sentence.
 """.strip()
 
 PROMPT = f"{INTRO}\n\n{FORM}\n\n{RULES}"
@@ -136,6 +142,8 @@ reading again.  Look in particular for:
   add holding back that the draft does not have;
 - a Latin word slotted into a Japanese sentence in place of a Japanese
   word (「それから、*deinde*、槍を投げる」);
+- a closing sentence that goes over the Latin words just read again or
+  only says the story goes on;
 - a sentence that is broken, unclear or says one thing twice;
 - a misreading of the Latin.
 
