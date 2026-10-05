@@ -42,6 +42,7 @@ COMMENTARY = ROOT.parent / "commentary" / "ja"
 OUT = ROOT / "ja"
 DRAFT = ROOT / "tmp"
 MODELS = DRAFT / "models.tsv"
+ERRORS = DRAFT / "errors.tsv"
 EXAMPLE = Path("01") / "0001.md"
 CONSTRUCTION = OUT / "ONESHOT.md"
 
@@ -156,6 +157,12 @@ may stand together, and a one-sentence identification is kept.
 """.strip()
 
 # Set the path only when usage should be recorded
+RETRY = """
+A mechanical check rejected the previous answer for these reasons.  Answer
+again from the start; quote each verse word for word, in its order, as the
+commentary gives it, even where the order of the Latin seems strange.
+""".strip()
+
 USAGE_PATH = None
 
 QUOTE_RE = re.compile(r"^>\s*(\d+)\s+(.*?)\s*$")
@@ -220,7 +227,7 @@ def check(answer: str, verses: list[tuple[int, str]], words: bool = False) -> tu
             continue
         quoted.append(no)
         if unescape(m[2]) != unescape(latin[no]):
-            errors.append(f"{no}: quoted text does not match")
+            errors.append(f"{no}: quoted text does not match: {m[2]} (the commentary: {latin[no]})")
         elif i + 1 < len(lines) and TRANS_RE.match(lines[i + 1]):
             errors.append(f"{no}: translation quoted")
         lines[i] = f"> {no} {latin[no]}"
@@ -282,14 +289,21 @@ def context(sections: list[Section], i: int) -> str | None:
     return ctx
 
 
-def ask(client: Client, sec: Section, messages: list[str], rounds: int, step: str, words: bool = False) -> str | None:
-    """The checked answer of the model; None if every round fails."""
+def ask(client: Client, model: str, sec: Section, messages: list[str], rounds: int, step: str, words: bool = False) -> str | None:
+    """The checked answer of the model; None if every round fails.  The
+    errors of a failed round are logged in tmp/errors.tsv and given with
+    the next round."""
+    retry: list[str] = []
     for round_no in range(1, rounds + 1):
         print(f"\n--- {sec.heading} ({step}, round {round_no}) ---")
-        answer, errors = check(client(messages).text, sec.verses, words)
+        answer, errors = check(client([*messages, *retry]).text, sec.verses, words)
         if not errors:
             return answer
         print("\n" + "\n".join(errors), file=sys.stderr)
+        ERRORS.parent.mkdir(parents=True, exist_ok=True)
+        with ERRORS.open("a") as f:
+            f.writelines(f"{sec.rel}\t{step}\t{round_no}\t{model}\t{e}\n" for e in errors)
+        retry = [f"{RETRY}\n\n" + "\n".join(f"- {e}" for e in errors)]
     return None
 
 
@@ -313,7 +327,7 @@ def generate(clients: list[Client], models: list[str], sec: Section, messages: l
         draft = draft_path.read_text().strip().split("\n", 1)[1].strip()
     else:
         prompt = PROMPT.format(book=sec.book)
-        if (draft := ask(clients[0], sec, [*messages, commentary, prompt], rounds, "draft")) is None:
+        if (draft := ask(clients[0], models[0], sec, [*messages, commentary, prompt], rounds, "draft")) is None:
             return False
         if len(clients) > 1:
             save(draft_path, sec, draft, "draft", models[0])
@@ -324,7 +338,7 @@ def generate(clients: list[Client], models: list[str], sec: Section, messages: l
     if found := flags(draft, sec.verses):
         reading += f"\n\n{FLAGS}\n\n" + "\n".join(found)
     prompt = REVIEW_PROMPT.format(book=sec.book)
-    if (answer := ask(clients[1], sec, [*messages, commentary, reading, prompt], rounds, "review", True)) is None:
+    if (answer := ask(clients[1], models[1], sec, [*messages, commentary, reading, prompt], rounds, "review", True)) is None:
         return False
     save(sec.path, sec, answer, "review", models[1])
     return True
