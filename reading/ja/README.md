@@ -16,7 +16,7 @@ its use.
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2–5, 9, 10 and 13, and reviewed its own drafts of book 10. |
 | GPT-5.6 Terra | Drafted book 8. |
-| Gemini 3.8 Flash | Drafted books 11 and 14 without review, and drafted and reviewed book 12, and reviewed book 13. |
+| Gemini 3.8 Flash | Drafted books 11, 14 and 15 without review (book 15 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
 | GPT-6.1 Sol | Reviewed books 5, 8 and 9, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
@@ -35,6 +35,7 @@ its use.
 | 12 | Gemini 3.8 Flash | Gemini 3.8 Flash | Claude Opus 5.5 |
 | 13 | GPT-6 Luna | Gemini 3.8 Flash | Claude Opus 5.5 |
 | 14 | Gemini 3.8 Flash | — | Claude Opus 5.5 |
+| 15 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
@@ -103,6 +104,11 @@ phrases that spoke of the Latin as words; two corrections remained.
 Book 14, drafted by Gemini 3.8 Flash alone, was like book 11: no
 misconstruction, and corrections of form only (five endings
 「…が *X* である」 and three identifications naming the Latin word).
+Book 15 was drafted by Gemini 3.8 Flash in the Antigravity CLI instead
+of generate.py, and its readings passed the same checks afterwards.
+Again nothing was misconstrued; the corrections were the grammatical
+term 「前置詞」, a word described by what it names (*carinas*), and the
+lost line 791, which the reading had described by its editorial sign.
 
 ## Files
 
