@@ -19,7 +19,7 @@ pattern.
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2–5, 9, 10 and 13, and reviewed its own drafts of book 10. |
 | GPT-5.6 Terra | Drafted book 8. |
-| Gemini 3.8 Flash | Drafted books 11 and 14–18 without review (books 15–18 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
+| Gemini 3.8 Flash | Drafted books 11 and 14–19 without review (books 15–19 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
 | GPT-6.1 Sol | Reviewed books 5, 8 and 9, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
@@ -42,6 +42,7 @@ pattern.
 | 16 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 17 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 18 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 19 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
@@ -128,7 +129,11 @@ corrections in two: a broken sentence of the same kind as in book 16,
 a word left unjoined to its noun in the next line (*suis* … *equis*),
 「否定の *nec*」, and the corrupt line 890, which the reading had
 described by the doubts of the edition instead of saying, as the
-commentary does, that the place is damaged.
+commentary does, that the place is damaged. Book 19 passed every check
+at the first attempt, and kept to the text where the commentary cites
+another editor's reading; one pronoun was referred to the wrong person
+(*ille*, Achilles, taken as the river), and the other corrections were
+a typo and a mention of the punctuation (「セミコロン」).
 
 ## Files
 
