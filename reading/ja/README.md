@@ -19,7 +19,7 @@ pattern.
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2–5, 9, 10 and 13, and reviewed its own drafts of book 10. |
 | GPT-5.6 Terra | Drafted book 8. |
-| Gemini 3.8 Flash | Drafted books 11 and 14–17 without review (books 15–17 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
+| Gemini 3.8 Flash | Drafted books 11 and 14–18 without review (books 15–18 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
 | GPT-6.1 Sol | Reviewed books 5, 8 and 9, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
@@ -41,6 +41,7 @@ pattern.
 | 15 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 16 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 17 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 18 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
@@ -122,6 +123,12 @@ Hector instead of *dextera*), and the other corrections were of form: a
 broken sentence, an identification that repeated the verse, and
 「*-que* とともに」 before words with the enclitic. Book 17, a single
 section made in the same way, needed only one sentence rewritten.
+Book 18, the shield of Achilles in sixteen sections, needed
+corrections in two: a broken sentence of the same kind as in book 16,
+a word left unjoined to its noun in the next line (*suis* … *equis*),
+「否定の *nec*」, and the corrupt line 890, which the reading had
+described by the doubts of the edition instead of saying, as the
+commentary does, that the place is damaged.
 
 ## Files
 
