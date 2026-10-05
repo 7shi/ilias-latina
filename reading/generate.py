@@ -104,7 +104,8 @@ Manner:
   and do not go beyond what the commentary says.  「解説が述べるとおり」 is
   only for what the Latin does not say, not for what the verses say
   themselves.  An identification already made in <previous> is not made
-  again.
+  again; it counts as made only where <previous> states it (「解説が述べる
+  とおり、これはアガメムノンである」), not where the name only appears.
 - An asterisk in the Latin marks a place doubted in the base text: say so
   briefly and read it as printed.
 """.strip()

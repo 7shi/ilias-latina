@@ -35,8 +35,8 @@ section, written by hand, as the standard.
 
 Revise <reading> where it breaks the rules.  Keep every sentence that
 already follows them as it is; change only those that do not, and do not
-add or remove content beyond what the rules require.  Look in particular
-for:
+add or remove content beyond what the rules require, and keep the groups
+of verses and their headings as they are.  Look in particular for:
 
 - a quoted gloss before a Latin word (「ついにと *Tandem* で」「それからと
   いう *inde* とともに」), above all with adverbs and connectives;
@@ -44,7 +44,8 @@ for:
   (「*X* が告げる」「*X* が示す」「*X* が描く」「*X* が明かす」);
 - 「解説が述べるとおり」 used for what the verses say themselves, or for
   more than the commentary says;
-- an identification already made in <previous>, made again;
+- an identification already made in <previous>, made again (one that
+  <previous> does not state in words is not made yet and is kept);
 - a sentence that is broken, unclear or says one thing twice;
 - a misreading of the Latin.
 
