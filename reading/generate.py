@@ -10,7 +10,9 @@ and followed by PROMPT, and the answer (the verses in groups, each
 followed by its reading) is the draft.  With a review model, the draft
 is saved as tmp/NN/VVVV.md and sent to that model with the same
 messages and REVIEW_PROMPT, which repeats the rules, and its revision is
-the reading; without one, the draft is the reading.  The places of the
+the reading; without one, the draft is the reading unless it leaves
+Latin words unread, and only then is it reviewed in the same way by the
+model that made it.  The places of the
 draft that a mechanical check finds (Latin words not read, runs of Latin
 words, paragraphs opening with the commentary) are listed for the
 review, and the revision must read every word.  The reading is
@@ -318,8 +320,9 @@ def save(path: Path, sec: Section, answer: str, step: str, model: str):
 
 
 def generate(clients: list[Client], models: list[str], sec: Section, messages: list[str], rounds: int) -> bool:
-    """Make the draft with the first client and, if there is a second,
-    have it review the draft."""
+    """Make the draft with the first client and have the last one review
+    it; with a single client, only a draft that leaves Latin words unread
+    is reviewed."""
     commentary = f"<commentary>\n{sec.text}\n</commentary>"
     draft_path = DRAFT / sec.rel
     if draft_path.exists():
@@ -329,18 +332,17 @@ def generate(clients: list[Client], models: list[str], sec: Section, messages: l
         prompt = PROMPT.format(book=sec.book)
         if (draft := ask(clients[0], models[0], sec, [*messages, commentary, prompt], rounds, "draft")) is None:
             return False
-        if len(clients) > 1:
-            save(draft_path, sec, draft, "draft", models[0])
-    if len(clients) == 1:
-        save(sec.path, sec, draft, "draft", models[0])
-        return True
+        if len(clients) == 1 and not missing_words(draft, sec.verses):
+            save(sec.path, sec, draft, "draft", models[0])
+            return True
+        save(draft_path, sec, draft, "draft", models[0])
     reading = f"<reading>\n{draft}\n</reading>"
     if found := flags(draft, sec.verses):
         reading += f"\n\n{FLAGS}\n\n" + "\n".join(found)
     prompt = REVIEW_PROMPT.format(book=sec.book)
-    if (answer := ask(clients[1], models[1], sec, [*messages, commentary, reading, prompt], rounds, "review", True)) is None:
+    if (answer := ask(clients[-1], models[-1], sec, [*messages, commentary, reading, prompt], rounds, "review", True)) is None:
         return False
-    save(sec.path, sec, answer, "review", models[1])
+    save(sec.path, sec, answer, "review", models[-1])
     return True
 
 
@@ -385,7 +387,7 @@ def main():
     )
     parser.add_argument(
         "-R", "--review-model",
-        help="Model that reviews the draft; without it the draft is saved as the reading",
+        help="Model that reviews the draft; without it only a draft that leaves words unread is reviewed by MODEL",
     )
     parser.add_argument(
         "-r", "--rounds",
