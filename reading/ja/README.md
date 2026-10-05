@@ -19,7 +19,7 @@ pattern.
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2–5, 9, 10 and 13, and reviewed its own drafts of book 10. |
 | GPT-5.6 Terra | Drafted book 8. |
-| Gemini 3.8 Flash | Drafted books 11 and 14–20 without review (books 15–20 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
+| Gemini 3.8 Flash | Drafted books 11 and 14–21 without review (books 15–21 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
 | GPT-6.1 Sol | Reviewed books 5, 8 and 9, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
@@ -44,6 +44,7 @@ pattern.
 | 18 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 19 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 20 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 21 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
@@ -142,7 +143,8 @@ another editor's reading; one pronoun was referred to the wrong person
 a typo and a mention of the punctuation (「セミコロン」). Book 20 also
 passed every check at the first attempt and needed one correction: a
 word at the end of a section (*totis*) read as if complete, though its
-noun (*aquis*) opens the next.
+noun (*aquis*) opens the next. Book 21 needed one: *patriae* was said
+to name the one restrained instead of the father who restrains.
 
 ## Files
 
