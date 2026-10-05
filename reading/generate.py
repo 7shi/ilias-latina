@@ -194,7 +194,9 @@ Beyond the first section:
   commentary says, …"), and no more than the commentary says.  Do not use
   "As the commentary says" for what the verses say themselves (not "As
   the commentary says, he is a god who favors Troy" for *Troianus
-  Apollo*), and do not retell the commentary (lineage, legend, comparison
+  Apollo*, nor "As the commentary says, the son of Thestor is Calchas"
+  where *Calchas* follows in the same line, but "Only now is the son of
+  Thestor called by his own name, *Calchas*"), and do not retell the commentary (lineage, legend, comparison
   with Homer, the poet's design) in sentences or a paragraph of its own.
 - An identification names the person or people in English, as the
   commentary names them, and does not make the Latin word its subject:
@@ -249,7 +251,10 @@ Beyond the first section:
 - A word whose noun comes in the next line is held back there and joined
   there (*suis* … *equis*: their own horses).  A word at the end of a
   section whose noun opens the next section is held back in the same way
-  and not read as if complete (*totis* waiting for *aquis*).
+  and not read as if complete (*totis* waiting for *aquis*); so is a verb
+  whose person comes in the next section (*hortatur* at the end of a
+  section, waiting for *Thestoriden* and *edere*: Achilles urges
+  Thestorides to reveal the causes, not the chiefs to search for them).
 - Hold back at most two words a group; a word whose partner comes after
   only a word or two may simply be joined where the partner comes,
   without saying that anything is not yet said.  Say the wait in terms of
@@ -258,6 +263,10 @@ Beyond the first section:
   what it is waiting for: not "The ears he reaches for are holy,
   described as *sacras*" before *aures*, but "What he turns to is holy,
   described as *sacras*".
+- In the same way, do not tell what a later word says before it comes:
+  not "The common soldiers begin to fall, spoken of as *uulgus*" before
+  *ruit*, but "Then the throng of the army comes in, spoken of as
+  *uulgus*. It falls, told with *ruit*."
 - Add no color or content the Latin does not give (not "grievous wounds"
   for *uulnera*, not "In desperate sorrow he strikes them", not "he puts
   his standing to the test" for *sum*); a possessive such as *sua* is said
