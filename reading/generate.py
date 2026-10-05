@@ -1,6 +1,7 @@
 """Read the Latin of the Ilias Latina in Japanese, section by section.
 
 Usage: python generate.py -m MODEL [-R REVIEW_MODEL] (-b BOOKS | --verse VERSE)
+       python generate.py (--prompt | --check) (-b BOOKS | --verse VERSE)
 
 The sections are those of the Japanese translation with commentary,
 ../commentary/ja/NN/VVVV.md: each gives the verses of The Latin Library
@@ -29,6 +30,13 @@ a book has none.  Existing files are skipped, so an interrupted run
 resumes where it left off.  For testing, --verse generates only the
 section of a verse, with what context there is; --verse next generates
 only the first section missing from the start.
+
+For a harness that drafts in its own session (a coding agent), --prompt
+writes the messages of one section, the next missing one of the books or
+the one of --verse, with an instruction to write the reading into its
+file, to tmp/prompt.md, and --check checks the readings of the books or
+of the verse as a draft is checked, listing also the places that the
+review is given.  Neither needs a model.
 """
 
 import argparse
@@ -43,6 +51,7 @@ ROOT = Path(__file__).resolve().parent
 COMMENTARY = ROOT.parent / "commentary" / "ja"
 OUT = ROOT / "ja"
 DRAFT = ROOT / "tmp"
+PROMPT_FILE = DRAFT / "prompt.md"
 MODELS = DRAFT / "models.tsv"
 ERRORS = DRAFT / "errors.tsv"
 EXAMPLE = Path("01") / "0001.md"
@@ -164,6 +173,14 @@ A mechanical check of <reading> found these places.  A word not read must
 be brought in where the Latin gives it.  The others may break the rules:
 a phrase of a preposition and its noun or an adjective next to its noun
 may stand together, and a one-sentence identification is kept.
+""".strip()
+
+HARNESS = """
+Write the answer to the messages above into reading/{path}: its first
+line is the heading of the section, `{heading}`, then a blank line, then
+the answer.  Then run `make check VERSE={verse}` in reading/ and, while it
+reports errors, correct the file and run it again.  Make the reading of
+this section only.
 """.strip()
 
 # Set the path only when usage should be recorded
@@ -354,6 +371,38 @@ def generate(clients: list[Client], models: list[str], sec: Section, messages: l
     return True
 
 
+def write_prompt(sections: list[Section], sec: Section) -> bool:
+    """Write the messages of a section for a harness to tmp/prompt.md."""
+    if (ctx := context(sections, sections.index(sec))) is None:
+        print(f"missing {sections[sections.index(sec) - 1].path}: make it first", file=sys.stderr)
+        return False
+    harness = HARNESS.format(path=sec.path.relative_to(ROOT), heading=sec.heading, verse=sec.verses[0][0])
+    messages = [example(sections), ctx, f"<commentary>\n{sec.text}\n</commentary>", PROMPT.format(book=sec.book), harness]
+    PROMPT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    PROMPT_FILE.write_text("\n\n".join(m for m in messages if m) + "\n")
+    print(f"{sec.heading}\nPrompt: {PROMPT_FILE}\nReading: {sec.path}")
+    return True
+
+
+def check_readings(targets: list[Section]) -> bool:
+    """Check existing readings as drafts are checked; False if any fails.
+    The places that may break the rules are listed but do not fail."""
+    ok = True
+    for sec in targets:
+        if not sec.path.exists():
+            print(f"{sec.rel}: missing")
+            continue
+        heading, _, body = sec.path.read_text().strip().partition("\n")
+        _, errors = check(body.strip(), sec.verses, True)
+        if heading != sec.heading:
+            errors.insert(0, f"the first line is not the heading {sec.heading}")
+        notes = [f for f in flags(body, sec.verses) if not f.startswith("- a Latin word not read")]
+        print(f"{sec.rel}: {'error' if errors else 'ok'}")
+        print("".join(f"  {e}\n" for e in errors) + "".join(f"  {n}\n" for n in notes), end="")
+        ok = ok and not errors
+    return ok
+
+
 def next_missing(sections: list[Section]) -> Section | None:
     """The first section missing from the start; None if all are there."""
     return next((sec for sec in sections if not sec.path.exists()), None)
@@ -388,9 +437,19 @@ def main():
         help='Generate only the section of this verse, for testing, '
              'or with "next" the first section missing from the start',
     )
+    mode = parser.add_mutually_exclusive_group()
+    mode.add_argument(
+        "--prompt",
+        action="store_true",
+        help=f"Write the messages of the next missing section to {PROMPT_FILE.relative_to(ROOT)} for a harness",
+    )
+    mode.add_argument(
+        "--check",
+        action="store_true",
+        help="Check the existing readings instead of generating",
+    )
     parser.add_argument(
         "-m", "--model",
-        required=True,
         help="Model of the draft, with optional vendor prefix (e.g. openai:gpt-5.6-terra)",
     )
     parser.add_argument(
@@ -419,6 +478,25 @@ def main():
     if not CONSTRUCTION.exists():
         parser.error(f"{CONSTRUCTION} not found: the example is needed")
     books = sorted({sec.book for sec in sections})
+    if not (args.prompt or args.check or args.model):
+        parser.error("-m/--model is required to generate")
+    if args.check:
+        if args.verse and not args.verse.isdigit():
+            parser.error(f"--verse must be a number with --check: {args.verse}")
+        if args.verse:
+            targets = [sec for sec in sections if int(args.verse) in dict(sec.verses)]
+        else:
+            selected = set(select_books(args.books, books))
+            targets = [sec for sec in sections if sec.book in selected]
+        if not targets:
+            parser.error("no section to check")
+        sys.exit(0 if check_readings(targets) else 1)
+    if args.prompt and args.books:
+        selected = set(select_books(args.books, books))
+        if (target := next((s for s in sections if s.book in selected and not s.path.exists()), None)) is None:
+            print("Nothing to generate: all sections exist")
+            return
+        sys.exit(0 if write_prompt(sections, target) else 1)
     target = None
     if args.verse and args.verse.lower() == "next":
         if (target := next_missing(sections)) is None:
@@ -434,6 +512,8 @@ def main():
         target = found[0]
         if target.path.exists():
             parser.error(f"{target.path} already exists")
+    if args.prompt:
+        sys.exit(0 if write_prompt(sections, target) else 1)
 
     models = [args.model] + ([args.review_model] if args.review_model else [])
     if any(m.startswith(("openai:", "gpt-")) for m in models) or args.save_usage:

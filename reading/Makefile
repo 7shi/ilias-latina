@@ -29,4 +29,15 @@ generate: generate.py ## Read the Latin of the sections (MODEL=..., REVIEW_MODEL
 	$(CHECK_TARGET)
 	uv run python generate.py -m "$(MODEL)" $(if $(REVIEW_MODEL),-R "$(REVIEW_MODEL)") $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
 
-.PHONY: help generate
+# For a harness that drafts in its own session: tmp/prompt.md gets the
+# messages of the next missing section of BOOKS (or of VERSE) with the
+# instruction to write the reading and run make check.
+prompt: generate.py ## Write the messages of the next section for a harness (BOOKS=... or VERSE=...)
+	$(CHECK_TARGET)
+	uv run python generate.py --prompt $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
+
+check: generate.py ## Check the existing readings as drafts are checked (BOOKS=... or VERSE=...)
+	$(CHECK_TARGET)
+	uv run python generate.py --check $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
+
+.PHONY: help generate prompt check
