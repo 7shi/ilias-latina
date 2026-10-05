@@ -19,7 +19,7 @@ pattern.
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2–5, 9, 10 and 13, and reviewed its own drafts of book 10. |
 | GPT-5.6 Terra | Drafted book 8. |
-| Gemini 3.8 Flash | Drafted books 11 and 14–23 without review (books 15–23 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
+| Gemini 3.8 Flash | Drafted books 11 and 14–24 without review (books 15–24 in the Antigravity CLI, not by generate.py), and drafted and reviewed book 12, and reviewed book 13. |
 | GPT-6.1 Sol | Reviewed books 5, 8 and 9, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
@@ -47,6 +47,7 @@ pattern.
 | 21 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 22 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 23 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 24 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
@@ -155,7 +156,11 @@ book. Nothing was misconstrued. In book 23, after ONESHOT.md limited
 that sentence to words held back over a distance, it did not recur;
 the corrupt *tyrsin* at 1008 was read, as instructed, as a damaged
 place, and the corrections were two grammatical terms (「持ち主格」,
-「主節」) and a redundant phrase.
+「主節」) and a redundant phrase. Book 24, the last, read the editor's
+mark of doubt on *concedere* at 1037 as the example does, and needed
+three corrections in its last section: a closing that ended the story
+before the poet's farewell, a 「こうして…結びつく」 after words not held
+back, and an order attributed to Priam that the Latin does not give.
 
 ## Files
 
