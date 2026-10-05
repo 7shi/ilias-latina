@@ -16,6 +16,7 @@ its use.
 | GPT-6 Astra | Drafted book 1 and reviewed books 1–4. |
 | GPT-6 Luna | Drafted books 2–5, 9 and 10, and reviewed its own drafts of book 10. |
 | GPT-5.6 Terra | Drafted book 8. |
+| Gemini 3.8 Flash | Drafted book 11 without review. |
 | GPT-6.1 Sol | Reviewed books 5, 8 and 9, replacing GPT-6 Astra once its free daily quota was used up, and drafted books 6 and 7 without review. |
 
 | Book | Draft | Review | Correction |
@@ -30,6 +31,7 @@ its use.
 | 8 | GPT-5.6 Terra | GPT-6.1 Sol | Claude Opus 5.5 |
 | 9 | GPT-6 Luna | GPT-6.1 Sol | Claude Opus 5.5 |
 | 10 | GPT-6 Luna | GPT-6 Luna | Claude Opus 5.5 |
+| 11 | Gemini 3.8 Flash | — | Claude Opus 5.5 |
 
 Books 1 and 2 were generated first and revised afterwards by the
 former review.py. From book 3 onwards generate.py reviews each draft
@@ -82,6 +84,14 @@ catch them. The single-model drafts of Sol are therefore the better
 readings, and the self-review of Luna is the choice when the quota of
 Sol is used up. The samples are small and the books differ, so this is
 a tendency rather than a measurement.
+
+Book 11 was drafted by Gemini 3.8 Flash alone. No misconstruction of
+the Latin was found in its eight sections; the corrections were of
+form, six endings 「…が *X* である」 and one word held back for a single
+word. Its prose follows the example closely (「行末に *X* と置かれる」)
+and is more elaborate, with some colour not in the Latin, and longer per
+verse than the others (about 260 characters, against about 180 in book
+10).
 
 ## Files
 
