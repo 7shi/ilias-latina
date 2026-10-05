@@ -183,7 +183,6 @@ Form:
   Latin word of the verses, small words included.
 """.strip()
 
-# Provisional: to be rewritten from the settled example (en/01/0001.md)
 EN_RULES = """
 Beyond the first section:
 
@@ -193,9 +192,14 @@ Beyond the first section:
 - Take from the commentary only what the Latin does not say: whom a
   patronymic or a periphrasis means, each in one short sentence ("As the
   commentary says, …"), and no more than the commentary says.  Do not use
-  "As the commentary says" for what the verses say themselves, and do not
-  retell the commentary (lineage, legend, comparison with Homer, the
-  poet's design) in sentences or a paragraph of its own.
+  "As the commentary says" for what the verses say themselves (not "As
+  the commentary says, he is a god who favors Troy" for *Troianus
+  Apollo*), and do not retell the commentary (lineage, legend, comparison
+  with Homer, the poet's design) in sentences or a paragraph of its own.
+- An identification names the person or people in English, as the
+  commentary names them, and does not make the Latin word its subject:
+  "As the commentary says, the Pelasgians are the Greeks", not "As the
+  commentary says, this *Pelasgi* means the Greeks".
 - An identification already made in <previous> or listed in <identified>
   is not made again; it counts as made only where it is stated ("As the
   commentary says, this son of Atreus is Agamemnon"), not where the name
@@ -203,14 +207,54 @@ Beyond the first section:
   identification.
 - Latin words met in <previous> may be used again as known words, as the
   example uses the words of its earlier verses.
+- Use no terms of grammar ("preposition", "negative", "conjunction",
+  "genitive", "case", "clause", "main clause", "pronoun", "participle",
+  "enclitic" and the like); bring a word in by what it does in the story.
+  Not "the negative *nec* denies it" but "The god's shape does not hold,
+  and that it does not is told with *nec*"; not "his genitive is shown by
+  *cuius*" but "Ajax, whose strength it is, is referred to again as
+  *cuius*".
+- Do not talk of punctuation: not "After the semicolon the slaughter
+  spreads" but "Then the slaughter spreads".
+- Do not talk of the Latin as words: not "The word for keel gives
+  *carinas*" but "The ships are shown by their keels, named *carinas*".
+  Do not bring out an enclitic as a word beside its word ("together with
+  *-que*, *uastumque*"); give the word whole ("described as
+  *uastumque*"), or weave *-que* alone into a sentence about the
+  connection, as the example does with *Latrantum*.
+- Check in the commentary's translation which noun an adjective goes
+  with, and whom a pronoun or a possessive refers to: *ultrix* goes with
+  *dextera*, the avenging hand of Troy, not with a person; *ille* is
+  Achilles in pursuit, not the river; *patriae* are the prayers of the
+  father who holds his son back, not of the one held back.
+- A word whose noun comes in the next line is held back there and joined
+  there (*suis* … *equis*: their own horses).  A word at the end of a
+  section whose noun opens the next section is held back in the same way
+  and not read as if complete (*totis* waiting for *aquis*).
+- Add no color the Latin does not give (not "grievous wounds" for
+  *uulnera*); a possessive such as *sua* is said briefly ("their own").
+- A lost line (`\\<>`) or a place the commentary calls damaged is said to
+  be lost or damaged, as the commentary says, not described by its
+  editorial signs.  A word marked with the editor's doubt (`*` after it)
+  is noted briefly as the example does with *protulerant*, and read as it
+  stands.  Variant readings of other editors are not mentioned, even when
+  the commentary cites them.
+- A sentence ending "… is *X*" comes at most once a paragraph, and no
+  ending is repeated sentence after sentence.
 - Do not close a group or a paragraph with a sentence that goes over the
   Latin words just read again ("So the *corpora* spread over the field and
   the *sanguine* soaks the *prata*") or that only says the story goes on
   ("The story goes on from here").  A sentence that says what a line has
-  brought together, as the example does once, is not such a sentence.
+  brought together, as the example does once, is not such a sentence.  "So
+  *X* and *Y* come together" is said only of a word held back as
+  <construction> allows, once a section, never of a pair side by side ("So
+  *more* and *ferarum* come together").  Do not say that the book ends
+  except in the last section of a book.
+- Reread for broken sentences, such as a sentence that lacks its subject
+  or object or ends on a bare word ("is placed with *per*."), and for
+  typos.
 """.strip()
 
-# Provisional: to be rewritten from the settled example (en/01/0001.md)
 EN_REVIEW_INTRO = """
 <commentary> is a section of book {book} of the Ilias Latina from an
 English translation with commentary.  <reading> is an English reading of
@@ -233,18 +277,22 @@ reading again.  Look in particular for:
   a time, or the meaning of a run told first and the run quoted after;
 - a paragraph or sentences that retell the commentary beyond whom or what
   a word means;
-- what the checks and the rejected forms of <construction> name, above
-  all a quoted gloss (with adverbs and connectives too), the Latin spoken
-  of as words, and a Latin word met for the first time made the topic or
-  subject;
+- what the checks and the forms to avoid of <construction> name, above
+  all a quoted gloss or a gloss set beside the word (with adverbs and
+  connectives too), the Latin spoken of as words, terms of grammar, and a
+  Latin word met for the first time made the topic or subject;
 - "As the commentary says" used for what the verses say themselves, or
-  for more than the commentary says;
+  for more than the commentary says, or with the Latin word as its
+  subject;
 - an identification already made in <previous> or <identified>, made
   again (one that they do not state in words is not made yet and is kept);
 - a word held back ("is not yet said") where the word it waits for comes
-  next, and sentence endings that repeat ("is called *X*", "is named *X*"
-  sentence after sentence); do not add holding back that the draft does
-  not have;
+  next, a word read as complete though its noun comes in the next line or
+  section, and sentence endings that repeat ("is called *X*", "is named
+  *X*" sentence after sentence, or "… is *X*" more than once a
+  paragraph); do not add holding back that the draft does not have;
+- an adjective joined to the wrong noun, or a pronoun or possessive
+  referred to the wrong person, against the commentary's translation;
 - a Latin word slotted into an English sentence in place of an English
   word ("then, *deinde*, he throws the spear");
 - a closing sentence that goes over the Latin words just read again or
