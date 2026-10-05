@@ -18,8 +18,10 @@ saved under the heading of the section as ja/NN/VVVV.md, the same path
 as in the commentary.  A draft that is there already is reviewed
 without being made again.
 
-The example is the first section, its commentary and its reading
-(ja/01/0001.md, written by hand).  The context is the reading of the
+The example is the commentary of the first section with the account in
+Japanese of the aim of the reading and of how the reading of that
+section (ja/01/0001.md, written by hand) was built, quoting all of it
+(ja/ONESHOT.md).  The context is the reading of the
 previous section of the same book in <previous>; the first section of
 a book has none.  Existing files are skipped, so an interrupted run
 resumes where it left off.  For testing, --verse generates only the
@@ -40,6 +42,7 @@ COMMENTARY = ROOT.parent / "commentary" / "ja"
 OUT = ROOT / "ja"
 DRAFT = ROOT / "tmp"
 EXAMPLE = Path("01") / "0001.md"
+CONSTRUCTION = OUT / "ONESHOT.md"
 
 INTRO = """
 <commentary> is a section of book {book} of the Ilias Latina from a
@@ -49,94 +52,57 @@ the passage.
 
 Write in Japanese a reading of the Latin of this section, for a reader
 who does not know Latin and reads it beside the translation and the
-commentary.  <example> gives the commentary and the reading of the first
-section; follow its form and manner.
+commentary.  <example> gives the commentary of the first section and
+<construction>, an account in Japanese of the aim of the reading and of
+how the reading of that section was built, step by step, quoting every
+sentence of it.  Follow the aim, the steps and the checks there; the
+rules below add what the first section does not show.
 """.strip()
 
 FORM = """
 Form:
 
 - Do not add a heading at the top.
-- Divide the section into groups of one verse, or of two or more verses
-  where words of one verse are completed only in the next (an object, the
-  noun of an adjective, the persons a sentence names).  Give each group a
-  heading `#### N行目` or `#### N–M行目`, then quote its verses in a
+- Divide the section into groups as <construction> does.  Give each group
+  a heading `#### N行目` or `#### N–M行目`, then quote its verses in a
   quotation block, `> N Latin`, the verses separated by a line with `>`
   alone, copying the number and the Latin exactly as given and without the
-  translation; then write the reading of the group in paragraphs.
-- Quote every verse of the section once, in order.
+  translation; then write the reading of the group in plain paragraphs,
+  not in quotation blocks, with the Latin words in italics.
+- Quote every verse of the section once, in order, and bring in every
+  Latin word of the verses, small words included.
 """.strip()
 
-MANNER = """
-Manner:
+RULES = """
+Beyond the first section:
 
-- Go through the words in the order in which the Latin gives them; do
-  not reorder them to explain.
-- Bring in the Latin one word at a time.  Only an adjective next to its
-  noun or a short phrase of a preposition and its noun (*per auras*) may
-  come together; never quote a clause or a run of words at once (not
-  *dumque tuo premitur pondere dulci*), and do not tell the meaning of a
-  run first and then quote it.
-- Tell what the passage says as you go: the sentences carry the course
-  of the content, and each Latin word comes in as the word that says it.
-  The reading is not a list of glosses.
-- Known to unknown: the front of a sentence holds what the reader already
-  has (what was said before, the content, a Latin word already met), and
-  the new Latin word comes at the back.  A Latin word once met may open a
-  later sentence; a word met for the first time is not made the topic or
-  subject at the front (not 「行末の *iussit* は、…と告げる」 or 「*X* が
-  告げる」, but 「…と命じたのが、行末の *iussit* である」).
-- Do not set a word and its gloss side by side (not 「怒り」*Iram*), nor
-  put a quoted gloss before it (not 「ついにと *Tandem* で」 or 「それから
-  という *inde* とともに」), least of all with adverbs and connectives.  Fold
-  the meaning into the sentence and vary the endings (「〜が *X* である」
-  「*X* と呼ばれる」「*X* と名指される」「〜を描くのが *X* である」 and so
-  on); do not give consecutive sentences the same ending, and spread the
-  endings over the section.
-- Connectives and small words (*et*, *-que*, *atque*, *nam*, *ut*,
-  *simul* and the like) are woven into the sentence of the words they
-  join; do not give them a sentence of their own.  A word with *-que*
-  is given for its own meaning, with the joining folded in (not
-  「『そして』というつながりを担うのが *implicuitque* である」).
-- Say each thing once: do not give a meaning in one sentence and name the
-  word for it with the same meaning in the next, nor within one sentence
-  (not 「〜と名指され、その名が *X* である」).
-- A 「その」 or 「彼」 that takes up a person must not be readable as
-  pointing to another person just mentioned (not 「その父」 right after
-  another man; say 「娘の父」).
-- At most two principal things in a sentence.
-- An adjective next to its noun is taken together with it (*animas
-  fortes*, *discordia pectora*).  Where words that belong together stand
-  apart, give the first where it comes, say what is still awaited, and
-  join it to the other where that comes.
-- Do not explain grammar or use grammatical terms (names of cases, moods,
-  tenses and the like).
-- Write the Latin words in italics, as in the example.
-- What the Latin does not say (whom a patronymic or a periphrasis means)
-  is taken from the commentary and said to be so (「解説が述べるとおり」);
-  do not add matters that are neither in the verses nor in the commentary,
-  and do not go beyond what the commentary says.  「解説が述べるとおり」 is
-  only for what the Latin does not say, not for what the verses say
-  themselves.  An identification already made in <previous> is not made
-  again; it counts as made only where <previous> states it (「解説が述べる
-  とおり、これはアガメムノンである」), not where the name only appears.
-- Take from the commentary only such identifications, each in one short
-  sentence.  Do not retell the commentary (lineage, legend, comparison
-  with Homer, the poet's design) and do not give it a paragraph of its
-  own after the words of a group have been read.
-- An asterisk in the Latin marks a place doubted in the base text: say so
-  briefly and read it as printed.
+- Bring in the Latin one word at a time even where the verse runs on in a
+  long clause (not *dumque tuo premitur pondere dulci*, nor
+  *haec illi mandata refer*).
+- Take from the commentary only what the Latin does not say: whom a
+  patronymic or a periphrasis means, each in one short sentence
+  (「解説が述べるとおり、…」), and no more than the commentary says.  Do
+  not use 「解説が述べるとおり」 for what the verses say themselves, and do
+  not retell the commentary (lineage, legend, comparison with Homer, the
+  poet's design) in sentences or a paragraph of its own.
+- An identification already made in <previous> is not made again; it
+  counts as made only where <previous> states it (「解説が述べるとおり、
+  これはアガメムノンである」), not where the name only appears.
+- Latin words met in <previous> may be used again as known words, as the
+  example uses the words of its earlier verses.
 """.strip()
 
-PROMPT = f"{INTRO}\n\n{FORM}\n\n{MANNER}"
+PROMPT = f"{INTRO}\n\n{FORM}\n\n{RULES}"
 
 REVIEW_INTRO = """
 <commentary> is a section of book {book} of the Ilias Latina from a
 Japanese translation with commentary.  <reading> is a Japanese reading of
-the Latin of this section, made by a model with the rules below, for a
-reader who does not know Latin and reads it beside the translation and the
-commentary.  <example> gives the commentary and the reading of the first
-section, written by hand, as the standard.
+the Latin of this section, made by a model, for a reader who does not
+know Latin and reads it beside the translation and the commentary.
+<example> gives the commentary of the first section and <construction>,
+an account in Japanese of the aim of the reading and of how the reading
+of that section, written by hand as the standard, was built; its aim,
+steps and checks, with the rules below, are the rules of the reading.
 
 Revise <reading> where it breaks the rules.  Keep every sentence that
 already follows them as it is; change only those that do not, and do not
@@ -150,10 +116,10 @@ reading again.  Look in particular for:
   a time, or the meaning of a run told first and the run quoted after;
 - a paragraph or sentences that retell the commentary beyond whom or what
   a word means;
-- a quoted gloss before a Latin word (「ついにと *Tandem* で」「それからと
-  いう *inde* とともに」), above all with adverbs and connectives;
-- a Latin word met for the first time made the topic or subject
-  (「*X* が告げる」「*X* が示す」「*X* が描く」「*X* が明かす」);
+- what the checks and the rejected forms of <construction> name, above
+  all a quoted gloss (with adverbs and connectives too), the Latin spoken
+  of as words, and a Latin word met for the first time made the topic or
+  subject;
 - 「解説が述べるとおり」 used for what the verses say themselves, or for
   more than the commentary says;
 - an identification already made in <previous>, made again (one that
@@ -165,9 +131,9 @@ Answer with the whole revised reading in the same form, without the
 heading of the section, and nothing else.
 """.strip()
 
-REVIEW_PROMPT = f"{REVIEW_INTRO}\n\n{FORM}\n\n{MANNER}"
+REVIEW_PROMPT = f"{REVIEW_INTRO}\n\n{FORM}\n\n{RULES}"
 
-EXAMPLE_TEXT = "The first section, its commentary and its reading, as an example:"
+EXAMPLE_TEXT = "The first section, its commentary and how its reading was built, as an example:"
 
 PREVIOUS = "The reading of the previous section, for continuity:"
 
@@ -283,7 +249,7 @@ def example(sections: list[Section]) -> str:
     sec = next(s for s in sections if s.rel == EXAMPLE)
     return (
         f"{EXAMPLE_TEXT}\n\n<example>\n<commentary>\n{sec.text}\n</commentary>\n\n"
-        f"<reading>\n{sec.path.read_text().strip()}\n</reading>\n</example>"
+        f"<construction>\n{CONSTRUCTION.read_text().strip()}\n</construction>\n</example>"
     )
 
 
@@ -403,8 +369,8 @@ def main():
     args = parser.parse_args()
 
     sections = read_sections(COMMENTARY)
-    if not (OUT / EXAMPLE).exists():
-        parser.error(f"{OUT / EXAMPLE} not found: the example is needed")
+    if not CONSTRUCTION.exists():
+        parser.error(f"{CONSTRUCTION} not found: the example is needed")
     books = sorted({sec.book for sec in sections})
     target = None
     if args.verse and args.verse.lower() == "next":
