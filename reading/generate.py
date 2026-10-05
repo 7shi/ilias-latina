@@ -36,7 +36,9 @@ writes the messages of one section, the next missing one of the books or
 the one of --verse, with an instruction to write the reading into its
 file, to tmp/prompt.md, and --check checks the readings of the books or
 of the verse as a draft is checked, listing also the places that the
-review is given.  Neither needs a model.
+review is given.  Neither needs a model; with -m, --check logs the errors
+of each failing section in tmp/errors.tsv under that model, as the
+rounds of a draft are logged, unless --no-log is given.
 """
 
 import argparse
@@ -384,9 +386,19 @@ def write_prompt(sections: list[Section], sec: Section) -> bool:
     return True
 
 
-def check_readings(targets: list[Section]) -> bool:
+def check_round(rel: Path) -> int:
+    """The number of the next failed check of a section in tmp/errors.tsv."""
+    if not ERRORS.exists():
+        return 1
+    rounds = [int(f[2]) for line in ERRORS.read_text().splitlines()
+              if len(f := line.split("\t")) >= 3 and f[0] == str(rel) and f[1] == "check"]
+    return max(rounds, default=0) + 1
+
+
+def check_readings(targets: list[Section], model: str | None) -> bool:
     """Check existing readings as drafts are checked; False if any fails.
-    The places that may break the rules are listed but do not fail."""
+    The places that may break the rules are listed but do not fail.  With
+    a model ("" for none), the errors are logged in tmp/errors.tsv."""
     ok = True
     for sec in targets:
         if not sec.path.exists():
@@ -399,6 +411,11 @@ def check_readings(targets: list[Section]) -> bool:
         notes = [f for f in flags(body, sec.verses) if not f.startswith("- a Latin word not read")]
         print(f"{sec.rel}: {'error' if errors else 'ok'}")
         print("".join(f"  {e}\n" for e in errors) + "".join(f"  {n}\n" for n in notes), end="")
+        if errors and model is not None:
+            round_no = check_round(sec.rel)
+            ERRORS.parent.mkdir(parents=True, exist_ok=True)
+            with ERRORS.open("a") as f:
+                f.writelines(f"{sec.rel}\tcheck\t{round_no}\t{model}\t{e}\n" for e in errors)
         ok = ok and not errors
     return ok
 
@@ -449,6 +466,11 @@ def main():
         help="Check the existing readings instead of generating",
     )
     parser.add_argument(
+        "--no-log",
+        action="store_true",
+        help="With --check, do not log the errors in tmp/errors.tsv",
+    )
+    parser.add_argument(
         "-m", "--model",
         help="Model of the draft, with optional vendor prefix (e.g. openai:gpt-5.6-terra)",
     )
@@ -490,7 +512,7 @@ def main():
             targets = [sec for sec in sections if sec.book in selected]
         if not targets:
             parser.error("no section to check")
-        sys.exit(0 if check_readings(targets) else 1)
+        sys.exit(0 if check_readings(targets, None if args.no_log else args.model or "") else 1)
     if args.prompt and args.books:
         selected = set(select_books(args.books, books))
         if (target := next((s for s in sections if s.book in selected and not s.path.exists()), None)) is None:

@@ -2,6 +2,7 @@ MODEL =
 REVIEW_MODEL =
 BOOKS =
 VERSE =
+NO_LOG =
 CHECK_MODEL = @test -n "$(MODEL)" || { echo 'usage: make $@ MODEL="vendor:model"'; exit 1; }
 CHECK_TARGET = @test -n "$(BOOKS)$(VERSE)" || { echo 'usage: make $@ BOOKS=... or VERSE=... (e.g. BOOKS=1-24 for all)'; exit 1; }
 
@@ -36,8 +37,10 @@ prompt: generate.py ## Write the messages of the next section for a harness (BOO
 	$(CHECK_TARGET)
 	uv run python generate.py --prompt $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
 
-check: generate.py ## Check the existing readings as drafts are checked (BOOKS=... or VERSE=...)
+# make check logs the errors in tmp/errors.tsv under MODEL (empty if
+# not given), as the rounds of a draft are logged; NO_LOG=1 does not.
+check: generate.py ## Check the existing readings as drafts are checked (BOOKS=... or VERSE=..., MODEL=..., NO_LOG=1)
 	$(CHECK_TARGET)
-	uv run python generate.py --check $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
+	uv run python generate.py --check $(if $(MODEL),-m "$(MODEL)") $(if $(NO_LOG),--no-log) $(if $(BOOKS),-b "$(BOOKS)") $(if $(VERSE),--verse "$(VERSE)")
 
 .PHONY: help generate prompt check
