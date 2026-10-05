@@ -18,7 +18,8 @@ help: ## Show this help
 	@echo '         or VERSE=NEXT for the first section missing from the start'
 
 # Needs ../commentary/ja/, the example ja/01/0001.md and ja/ONESHOT.md.  With
-# REVIEW_MODEL the drafts are kept in tmp/ and reviewed.  Existing
+# REVIEW_MODEL the drafts are kept in tmp/ and reviewed; tmp/models.tsv
+# logs the model of each draft and review.  Existing
 # readings are skipped and existing drafts are not made again, so an
 # interrupted run resumes where it left off.
 generate: generate.py ## Read the Latin of the sections (MODEL=..., REVIEW_MODEL=..., BOOKS=..., VERSE=...)

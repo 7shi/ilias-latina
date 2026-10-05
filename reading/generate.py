@@ -41,6 +41,7 @@ ROOT = Path(__file__).resolve().parent
 COMMENTARY = ROOT.parent / "commentary" / "ja"
 OUT = ROOT / "ja"
 DRAFT = ROOT / "tmp"
+MODELS = DRAFT / "models.tsv"
 EXAMPLE = Path("01") / "0001.md"
 CONSTRUCTION = OUT / "ONESHOT.md"
 
@@ -292,13 +293,17 @@ def ask(client: Client, sec: Section, messages: list[str], rounds: int, step: st
     return None
 
 
-def save(path: Path, sec: Section, answer: str):
+def save(path: Path, sec: Section, answer: str, step: str, model: str):
+    """Save the answer and log the model that wrote it in tmp/models.tsv."""
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(f"{sec.heading}\n\n{answer}\n")
+    MODELS.parent.mkdir(parents=True, exist_ok=True)
+    with MODELS.open("a") as f:
+        f.write(f"{sec.rel}\t{step}\t{model}\n")
     print(f"\nSaved to {path}")
 
 
-def generate(clients: list[Client], sec: Section, messages: list[str], rounds: int) -> bool:
+def generate(clients: list[Client], models: list[str], sec: Section, messages: list[str], rounds: int) -> bool:
     """Make the draft with the first client and, if there is a second,
     have it review the draft."""
     commentary = f"<commentary>\n{sec.text}\n</commentary>"
@@ -311,9 +316,9 @@ def generate(clients: list[Client], sec: Section, messages: list[str], rounds: i
         if (draft := ask(clients[0], sec, [*messages, commentary, prompt], rounds, "draft")) is None:
             return False
         if len(clients) > 1:
-            save(draft_path, sec, draft)
+            save(draft_path, sec, draft, "draft", models[0])
     if len(clients) == 1:
-        save(sec.path, sec, draft)
+        save(sec.path, sec, draft, "draft", models[0])
         return True
     reading = f"<reading>\n{draft}\n</reading>"
     if found := flags(draft, sec.verses):
@@ -321,7 +326,7 @@ def generate(clients: list[Client], sec: Section, messages: list[str], rounds: i
     prompt = REVIEW_PROMPT.format(book=sec.book)
     if (answer := ask(clients[1], sec, [*messages, commentary, reading, prompt], rounds, "review", True)) is None:
         return False
-    save(sec.path, sec, answer)
+    save(sec.path, sec, answer, "review", models[1])
     return True
 
 
@@ -330,7 +335,7 @@ def next_missing(sections: list[Section]) -> Section | None:
     return next((sec for sec in sections if not sec.path.exists()), None)
 
 
-def run(clients: list[Client], ex: str, sections: list[Section], indices: list[int], rounds: int) -> bool:
+def run(clients: list[Client], models: list[str], ex: str, sections: list[Section], indices: list[int], rounds: int) -> bool:
     """Generate the missing sections among those given."""
     for i in indices:
         sec = sections[i]
@@ -340,7 +345,7 @@ def run(clients: list[Client], ex: str, sections: list[Section], indices: list[i
         if (ctx := context(sections, i)) is None:
             print(f"\nmissing {sections[i - 1].path}: generate it first", file=sys.stderr)
             return False
-        if not generate(clients, sec, [ex, ctx] if ctx else [ex], rounds):
+        if not generate(clients, models, sec, [ex, ctx] if ctx else [ex], rounds):
             print(f"\ngiving up at {sec.heading}", file=sys.stderr)
             return False
     return True
@@ -428,11 +433,11 @@ def main():
             if (ctx := context(sections, sections.index(target))) is None:
                 print("No context: the previous section is not there yet")
                 ctx = ""
-            ok = generate(clients, target, [ex, ctx] if ctx else [ex], args.rounds)
+            ok = generate(clients, models, target, [ex, ctx] if ctx else [ex], args.rounds)
         else:
             selected = set(select_books(args.books, books))
             indices = [i for i, sec in enumerate(sections) if sec.book in selected]
-            ok = run(clients, ex, sections, indices, args.rounds)
+            ok = run(clients, models, ex, sections, indices, args.rounds)
     finally:
         # Record silently so an interrupted run still logs what it consumed;
         # the report below is printed only on normal completion
