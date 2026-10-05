@@ -63,6 +63,11 @@ Manner:
 
 - Go through the words in the order in which the Latin gives them; do
   not reorder them to explain.
+- Bring in the Latin one word at a time.  Only an adjective next to its
+  noun or a short phrase of a preposition and its noun (*per auras*) may
+  come together; never quote a clause or a run of words at once (not
+  *dumque tuo premitur pondere dulci*), and do not tell the meaning of a
+  run first and then quote it.
 - Tell what the passage says as you go: the sentences carry the course
   of the content, and each Latin word comes in as the word that says it.
   The reading is not a list of glosses.
@@ -106,6 +111,10 @@ Manner:
   themselves.  An identification already made in <previous> is not made
   again; it counts as made only where <previous> states it (「解説が述べる
   とおり、これはアガメムノンである」), not where the name only appears.
+- Take from the commentary only such identifications, each in one short
+  sentence.  Do not retell the commentary (lineage, legend, comparison
+  with Homer, the poet's design) and do not give it a paragraph of its
+  own after the words of a group have been read.
 - An asterisk in the Latin marks a place doubted in the base text: say so
   briefly and read it as printed.
 """.strip()

@@ -40,6 +40,10 @@ of verses and their headings as they are.  Look in particular for:
 
 - a quoted gloss before a Latin word (「ついにと *Tandem* で」「それからと
   いう *inde* とともに」), above all with adverbs and connectives;
+- a clause or a run of Latin words quoted at once instead of one word at
+  a time, or the meaning of a run told first and the run quoted after;
+- a paragraph or sentences that retell the commentary beyond whom or what
+  a word means;
 - a Latin word met for the first time made the topic or subject
   (「*X* が告げる」「*X* が示す」「*X* が描く」「*X* が明かす」);
 - 「解説が述べるとおり」 used for what the verses say themselves, or for
