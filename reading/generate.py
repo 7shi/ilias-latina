@@ -8,7 +8,7 @@ with their translation, then the commentary.  Each section is sent to
 the model as its own message, preceded by the example and the context
 and followed by PROMPT, and the answer (the verses in groups, each
 followed by its reading) is the draft.  With a review model, the draft
-is saved as tmp/draft/NN/VVVV.md and sent to that model with the same
+is saved as tmp/NN/VVVV.md and sent to that model with the same
 messages and REVIEW_PROMPT, which repeats the rules, and its revision is
 the reading; without one, the draft is the reading.  The places of the
 draft that a mechanical check finds (Latin words not read, runs of Latin
@@ -38,7 +38,7 @@ from llm7shi.usage import append_usage, find_usage_file, print_today_totals
 ROOT = Path(__file__).resolve().parent
 COMMENTARY = ROOT.parent / "commentary" / "ja"
 OUT = ROOT / "ja"
-DRAFT = ROOT / "tmp" / "draft"
+DRAFT = ROOT / "tmp"
 EXAMPLE = Path("01") / "0001.md"
 
 INTRO = """
