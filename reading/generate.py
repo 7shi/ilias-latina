@@ -221,7 +221,26 @@ Beyond the first section:
   Do not bring out an enclitic as a word beside its word ("together with
   *-que*, *uastumque*"); give the word whole ("described as
   *uastumque*"), or weave *-que* alone into a sentence about the
-  connection, as the example does with *Latrantum*.
+  connection, as the example does with *Latrantum*.  A word with *-que*
+  is not itself a connecting word: say what the word means, not "joined
+  by *spernitque*" or "linking him to his refusal as *Chrysenque*" but
+  "Something in him also spurns the father, described as *spernitque*".
+- A word such as *per*, *ab*, *sub* or *in* that stands beside the word it
+  leads is taken with it (*per annos*, *ab hoste*, *in me*), not brought
+  in alone ("advancing with *per*", "led in by *ab*").  A question or a
+  cry may be given as what is said, as the example gives *pande*: "he
+  asks: *cur*".
+- Do not slot a Latin word into an English phrase as an object or after
+  a possessive: not "directing it *in me*" or "penetrating his *ossibus
+  imis*" but "The attack is to turn on the priest himself, told as *in
+  me*" and "It lies deep within his bones, spoken of as *ossibus imis*".
+- Do not end a sentence with an appended phrase whose noun says again
+  what the sentence has said: not "He recalls that he has long
+  worshipped the god, a devotion told with *coluisse*" or "He demands
+  that the old man depart, an ejection demanded with *excedere*" but "He
+  recalls his worship of the god, told with *coluisse*".  The example's
+  "…, and that handing over is *tradidit*" is not such a phrase; it is an
+  ending "… is *X*".
 - Check in the commentary's translation which noun an adjective goes
   with, and whom a pronoun or a possessive refers to: *ultrix* goes with
   *dextera*, the avenging hand of Troy, not with a person; *ille* is
@@ -231,8 +250,18 @@ Beyond the first section:
   there (*suis* … *equis*: their own horses).  A word at the end of a
   section whose noun opens the next section is held back in the same way
   and not read as if complete (*totis* waiting for *aquis*).
-- Add no color the Latin does not give (not "grievous wounds" for
-  *uulnera*); a possessive such as *sua* is said briefly ("their own").
+- Hold back at most two words a group; a word whose partner comes after
+  only a word or two may simply be joined where the partner comes,
+  without saying that anything is not yet said.  Say the wait in terms of
+  the content ("though what it is is not yet said"), never with "held
+  back", "waits" or "its noun".  While a word is held back, do not tell
+  what it is waiting for: not "The ears he reaches for are holy,
+  described as *sacras*" before *aures*, but "What he turns to is holy,
+  described as *sacras*".
+- Add no color or content the Latin does not give (not "grievous wounds"
+  for *uulnera*, not "In desperate sorrow he strikes them", not "he puts
+  his standing to the test" for *sum*); a possessive such as *sua* is said
+  briefly ("their own").
 - A lost line (`\\<>`) or a place the commentary calls damaged is said to
   be lost or damaged, as the commentary says, not described by its
   editorial signs.  A word marked with the editor's doubt (`*` after it)
@@ -293,6 +322,13 @@ reading again.  Look in particular for:
   paragraph); do not add holding back that the draft does not have;
 - an adjective joined to the wrong noun, or a pronoun or possessive
   referred to the wrong person, against the commentary's translation;
+- a word with *-que* treated as a connecting word, a word such as *per* or
+  *ab* brought in alone beside the word it leads, and a sentence ending
+  in an appended phrase that restates it ("a devotion told with
+  *coluisse*");
+- more than two words held back in a group, a wait said with "held
+  back", "waits" or "its noun", and what a held word waits for told
+  before it comes;
 - a Latin word slotted into an English sentence in place of an English
   word ("then, *deinde*, he throws the spear");
 - a closing sentence that goes over the Latin words just read again or
