@@ -1,30 +1,31 @@
-"""Read the Latin of the Ilias Latina in Japanese, section by section.
+"""Read the Latin of the Ilias Latina in Japanese or English, section by section.
 
-Usage: python generate.py -m MODEL [-R REVIEW_MODEL] (-b BOOKS | --verse VERSE)
-       python generate.py (--prompt | --check) (-b BOOKS | --verse VERSE)
+Usage: python generate.py [--lang ja|en] -m MODEL [-R REVIEW_MODEL] (-b BOOKS | --verse VERSE)
+       python generate.py [--lang ja|en] (--prompt | --check) (-b BOOKS | --verse VERSE)
 
-The sections are those of the Japanese translation with commentary,
-../commentary/ja/NN/VVVV.md: each gives the verses of The Latin Library
-with their translation, then the commentary.  Each section is sent to
-the model as its own message, preceded by the example and the context
-and followed by PROMPT, and the answer (the verses in groups, each
-followed by its reading) is the draft.  With a review model, the draft
-is saved as tmp/NN/VVVV.md and sent to that model with the same
-messages and REVIEW_PROMPT, which repeats the rules, and its revision is
-the reading; without one, the draft is the reading unless it leaves
-Latin words unread, and only then is it reviewed in the same way by the
-model that made it.  The places of the
-draft that a mechanical check finds (Latin words not read, runs of Latin
-words, paragraphs opening with the commentary) are listed for the
-review, and the revision must read every word.  The reading is
-saved under the heading of the section as ja/NN/VVVV.md, the same path
-as in the commentary.  A draft that is there already is reviewed
-without being made again.
+The sections are those of the translation with commentary in the
+language of the reading (ja by default), ../commentary/LANG/NN/VVVV.md:
+each gives the verses of The Latin Library with their translation, then
+the commentary.  Each section is sent to the model as its own message,
+preceded by the example and the context and followed by PROMPT, and the
+answer (the verses in groups, each followed by its reading) is the
+draft.  With a review model, the draft is saved as TMP/NN/VVVV.md and
+sent to that model with the same messages and REVIEW_PROMPT, which
+repeats the rules, and its revision is the reading; without one, the
+draft is the reading unless it leaves Latin words unread, and only then
+is it reviewed in the same way by the model that made it.  The places of
+the draft that a mechanical check finds (Latin words not read, runs of
+Latin words, paragraphs opening with the commentary) are listed for the
+review, and the revision must read every word.  The reading is saved
+under the heading of the section as LANG/NN/VVVV.md, the same path as in
+the commentary.  TMP is tmp/ for Japanese and tmp/en/ for English, so
+that the drafts, prompts and logs of the two do not mix.  A draft that is
+there already is reviewed without being made again.
 
 The example is the commentary of the first section with the account in
-Japanese of the aim of the reading and of how the reading of that
-section (ja/01/0001.md, written by hand) was built, quoting all of it
-(ja/ONESHOT.md).  The context is the reading of the
+the language of the reading of the aim of the reading and of how the
+reading of that section (LANG/01/0001.md, written by hand) was built,
+quoting all of it (LANG/ONESHOT.md).  The context is the reading of the
 previous section of the same book in <previous>; the first section of
 a book has none.  Existing files are skipped, so an interrupted run
 resumes where it left off.  For testing, --verse generates only the
@@ -34,10 +35,10 @@ only the first section missing from the start.
 For a harness that drafts in its own session (a coding agent), --prompt
 writes the messages of one section, the next missing one of the books or
 the one of --verse, with an instruction to write the reading into its
-file, to tmp/prompt.md, and --check checks the readings of the books or
+file, to TMP/prompt.md, and --check checks the readings of the books or
 of the verse as a draft is checked, listing also the places that the
 review is given.  Neither needs a model; with -m, --check logs the errors
-of each failing section in tmp/errors.tsv under that model, as the
+of each failing section in TMP/errors.tsv under that model, as the
 rounds of a draft are logged, unless --no-log is given.
 """
 
@@ -50,16 +51,9 @@ from llm7shi import Client
 from llm7shi.usage import append_usage, find_usage_file, print_today_totals
 
 ROOT = Path(__file__).resolve().parent
-COMMENTARY = ROOT.parent / "commentary" / "ja"
-OUT = ROOT / "ja"
-DRAFT = ROOT / "tmp"
-PROMPT_FILE = DRAFT / "prompt.md"
-MODELS = DRAFT / "models.tsv"
-ERRORS = DRAFT / "errors.tsv"
 EXAMPLE = Path("01") / "0001.md"
-CONSTRUCTION = OUT / "ONESHOT.md"
 
-INTRO = """
+JA_INTRO = """
 <commentary> is a section of book {book} of the Ilias Latina from a
 Japanese translation with commentary: the verses of The Latin Library,
 each followed by its Japanese translation in brackets, then an essay on
@@ -74,7 +68,7 @@ sentence of it.  Follow the aim, the steps and the checks there; the
 rules below add what the first section does not show.
 """.strip()
 
-FORM = """
+JA_FORM = """
 Form:
 
 - Do not add a heading at the top.
@@ -88,7 +82,7 @@ Form:
   Latin word of the verses, small words included.
 """.strip()
 
-RULES = """
+JA_RULES = """
 Beyond the first section:
 
 - Bring in the Latin one word at a time even where the verse runs on in a
@@ -115,9 +109,7 @@ Beyond the first section:
   does once, is not such a sentence.
 """.strip()
 
-PROMPT = f"{INTRO}\n\n{FORM}\n\n{RULES}"
-
-REVIEW_INTRO = """
+JA_REVIEW_INTRO = """
 <commentary> is a section of book {book} of the Ilias Latina from a
 Japanese translation with commentary.  <reading> is a Japanese reading of
 the Latin of this section, made by a model, for a reader who does not
@@ -162,7 +154,107 @@ Answer with the whole revised reading in the same form, without the
 heading of the section, and nothing else.
 """.strip()
 
-REVIEW_PROMPT = f"{REVIEW_INTRO}\n\n{FORM}\n\n{RULES}"
+EN_INTRO = """
+<commentary> is a section of book {book} of the Ilias Latina from an
+English translation with commentary: the verses of The Latin Library,
+each followed by its English translation in parentheses, then an essay
+on the passage.
+
+Write in English a reading of the Latin of this section, for a reader
+who does not know Latin and reads it beside the translation and the
+commentary.  <example> gives the commentary of the first section and
+<construction>, an account of the aim of the reading and of how the
+reading of that section was built, step by step, quoting every sentence
+of it.  Follow the aim, the steps and the checks there; the rules below
+add what the first section does not show.
+""".strip()
+
+EN_FORM = """
+Form:
+
+- Do not add a heading at the top.
+- Divide the section into groups as <construction> does.  Give each group
+  a heading `#### Line N` or `#### Lines N–M`, then quote its verses in a
+  quotation block, `> N Latin`, the verses separated by a line with `>`
+  alone, copying the number and the Latin exactly as given and without the
+  translation; then write the reading of the group in plain paragraphs,
+  not in quotation blocks, with the Latin words in italics.
+- Quote every verse of the section once, in order, and bring in every
+  Latin word of the verses, small words included.
+""".strip()
+
+# Provisional: to be rewritten from the settled example (en/01/0001.md)
+EN_RULES = """
+Beyond the first section:
+
+- Bring in the Latin one word at a time even where the verse runs on in a
+  long clause (not *dumque tuo premitur pondere dulci*, nor
+  *haec illi mandata refer*).
+- Take from the commentary only what the Latin does not say: whom a
+  patronymic or a periphrasis means, each in one short sentence ("As the
+  commentary says, …"), and no more than the commentary says.  Do not use
+  "As the commentary says" for what the verses say themselves, and do not
+  retell the commentary (lineage, legend, comparison with Homer, the
+  poet's design) in sentences or a paragraph of its own.
+- An identification already made in <previous> or listed in <identified>
+  is not made again; it counts as made only where it is stated ("As the
+  commentary says, this son of Atreus is Agamemnon"), not where the name
+  only appears.  A name the reader already has (Jupiter, Helen) needs no
+  identification.
+- Latin words met in <previous> may be used again as known words, as the
+  example uses the words of its earlier verses.
+- Do not close a group or a paragraph with a sentence that goes over the
+  Latin words just read again ("So the *corpora* spread over the field and
+  the *sanguine* soaks the *prata*") or that only says the story goes on
+  ("The story goes on from here").  A sentence that says what a line has
+  brought together, as the example does once, is not such a sentence.
+""".strip()
+
+# Provisional: to be rewritten from the settled example (en/01/0001.md)
+EN_REVIEW_INTRO = """
+<commentary> is a section of book {book} of the Ilias Latina from an
+English translation with commentary.  <reading> is an English reading of
+the Latin of this section, made by a model, for a reader who does not
+know Latin and reads it beside the translation and the commentary.
+<example> gives the commentary of the first section and <construction>,
+an account of the aim of the reading and of how the reading of that
+section, written by hand as the standard, was built; its aim, steps and
+checks, with the rules below, are the rules of the reading.
+
+Revise <reading> where it breaks the rules.  Keep every sentence that
+already follows them as it is; change only those that do not, and do not
+add or remove content beyond what the rules require, and keep the groups
+of verses and their headings as they are.  Where a group is wrong
+throughout (the Latin quoted in runs, the commentary retold), write its
+reading again.  Look in particular for:
+
+- a Latin word of the verses not read, small words such as *et* included;
+- a clause or a run of Latin words quoted at once instead of one word at
+  a time, or the meaning of a run told first and the run quoted after;
+- a paragraph or sentences that retell the commentary beyond whom or what
+  a word means;
+- what the checks and the rejected forms of <construction> name, above
+  all a quoted gloss (with adverbs and connectives too), the Latin spoken
+  of as words, and a Latin word met for the first time made the topic or
+  subject;
+- "As the commentary says" used for what the verses say themselves, or
+  for more than the commentary says;
+- an identification already made in <previous> or <identified>, made
+  again (one that they do not state in words is not made yet and is kept);
+- a word held back ("is not yet said") where the word it waits for comes
+  next, and sentence endings that repeat ("is called *X*", "is named *X*"
+  sentence after sentence); do not add holding back that the draft does
+  not have;
+- a Latin word slotted into an English sentence in place of an English
+  word ("then, *deinde*, he throws the spear");
+- a closing sentence that goes over the Latin words just read again or
+  only says the story goes on;
+- a sentence that is broken, unclear or says one thing twice;
+- a misreading of the Latin.
+
+Answer with the whole revised reading in the same form, without the
+heading of the section, and nothing else.
+""".strip()
 
 EXAMPLE_TEXT = "The first section, its commentary and how its reading was built, as an example:"
 
@@ -180,7 +272,7 @@ may stand together, and a one-sentence identification is kept.
 HARNESS = """
 Write the answer to the messages above into reading/{path}: its first
 line is the heading of the section, `{heading}`, then a blank line, then
-the answer.  Then run `make check VERSE={verse}` in reading/ and, while it
+the answer.  Then run `{check} VERSE={verse}` in reading/ and, while it
 reports errors, correct the file and run it again.  Make the reading of
 this section only.
 """.strip()
@@ -199,7 +291,49 @@ TRANS_RE = re.compile(r"^>\s*[（(]")
 ITALIC_RE = re.compile(r"\*([^*\n]+)\*")
 WORD_RE = re.compile(r"[A-Za-z]+")
 ENCLITICS = ("que", "ne", "ue")
-IDENT_RE = re.compile(r"解説が述べるとおり[^。\n]*。")
+
+
+@dataclass(frozen=True)
+class Language:
+    """What depends on the language of the reading."""
+    intro: str
+    form: str
+    rules: str
+    review_intro: str
+    ident_re: re.Pattern  # an identification taken from the commentary
+    opening: str  # the start of a paragraph that opens with the commentary
+    tmp: str  # the directory of drafts, prompt and logs, under ROOT
+    check: str  # the command that checks a reading
+
+
+LANGUAGES = {
+    "ja": Language(
+        JA_INTRO, JA_FORM, JA_RULES, JA_REVIEW_INTRO,
+        re.compile(r"解説が述べるとおり[^。\n]*。"), "解説", "tmp", "make check",
+    ),
+    "en": Language(
+        EN_INTRO, EN_FORM, EN_RULES, EN_REVIEW_INTRO,
+        re.compile(r"As the commentary says[^.\n]*\."), "The commentary", "tmp/en", "make check READING=en",
+    ),
+}
+
+
+def set_language(code: str):
+    """Point the paths, prompts and checks to the language of the reading."""
+    global LANG, COMMENTARY, OUT, DRAFT, PROMPT_FILE, MODELS, ERRORS, CONSTRUCTION, PROMPT, REVIEW_PROMPT
+    LANG = LANGUAGES[code]
+    COMMENTARY = ROOT.parent / "commentary" / code
+    OUT = ROOT / code
+    DRAFT = ROOT / LANG.tmp
+    PROMPT_FILE = DRAFT / "prompt.md"
+    MODELS = DRAFT / "models.tsv"
+    ERRORS = DRAFT / "errors.tsv"
+    CONSTRUCTION = OUT / "ONESHOT.md"
+    PROMPT = f"{LANG.intro}\n\n{LANG.form}\n\n{LANG.rules}"
+    REVIEW_PROMPT = f"{LANG.review_intro}\n\n{LANG.form}\n\n{LANG.rules}"
+
+
+set_language("ja")
 
 
 @dataclass
@@ -287,7 +421,7 @@ def flags(answer: str, verses: list[tuple[int, str]]) -> list[str]:
     with the commentary."""
     missing = [f"- a Latin word not read: *{w}*" for w in missing_words(answer, verses)]
     runs = [run for run in ITALIC_RE.findall(answer) if len(run.split()) >= 3]
-    paras = [line for line in answer.splitlines() if line.startswith("解説")]
+    paras = [line for line in answer.splitlines() if line.startswith(LANG.opening)]
     return missing + [f"- a run of Latin words: *{run}*" for run in runs] + [
         f"- a paragraph opening with the commentary: {line[:40]}…" for line in paras
     ]
@@ -313,14 +447,14 @@ def context(sections: list[Section], i: int) -> str | None:
         return None
     ctx = f"{PREVIOUS}\n\n<previous>\n{prev.read_text().strip()}\n</previous>"
     earlier = [s.path for s in sections[:i - 1] if s.book == sec.book and s.path.exists()]
-    if found := [m for path in earlier for m in IDENT_RE.findall(path.read_text())]:
+    if found := [m for path in earlier for m in LANG.ident_re.findall(path.read_text())]:
         ctx += f"\n\n{IDENTIFIED}\n\n<identified>\n" + "\n".join(dict.fromkeys(found)) + "\n</identified>"
     return ctx
 
 
 def ask(client: Client, model: str, sec: Section, messages: list[str], rounds: int, step: str, words: bool = False) -> str | None:
     """The checked answer of the model; None if every round fails.  The
-    errors of a failed round are logged in tmp/errors.tsv and given with
+    errors of a failed round are logged in TMP/errors.tsv and given with
     the next round."""
     retry: list[str] = []
     for round_no in range(1, rounds + 1):
@@ -337,7 +471,7 @@ def ask(client: Client, model: str, sec: Section, messages: list[str], rounds: i
 
 
 def save(path: Path, sec: Section, answer: str, step: str, model: str):
-    """Save the answer and log the model that wrote it in tmp/models.tsv."""
+    """Save the answer and log the model that wrote it in TMP/models.tsv."""
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(f"{sec.heading}\n\n{answer}\n")
     MODELS.parent.mkdir(parents=True, exist_ok=True)
@@ -374,11 +508,11 @@ def generate(clients: list[Client], models: list[str], sec: Section, messages: l
 
 
 def write_prompt(sections: list[Section], sec: Section) -> bool:
-    """Write the messages of a section for a harness to tmp/prompt.md."""
+    """Write the messages of a section for a harness to TMP/prompt.md."""
     if (ctx := context(sections, sections.index(sec))) is None:
         print(f"missing {sections[sections.index(sec) - 1].path}: make it first", file=sys.stderr)
         return False
-    harness = HARNESS.format(path=sec.path.relative_to(ROOT), heading=sec.heading, verse=sec.verses[0][0])
+    harness = HARNESS.format(path=sec.path.relative_to(ROOT), heading=sec.heading, verse=sec.verses[0][0], check=LANG.check)
     messages = [example(sections), ctx, f"<commentary>\n{sec.text}\n</commentary>", PROMPT.format(book=sec.book), harness]
     PROMPT_FILE.parent.mkdir(parents=True, exist_ok=True)
     PROMPT_FILE.write_text("\n\n".join(m for m in messages if m) + "\n")
@@ -387,7 +521,7 @@ def write_prompt(sections: list[Section], sec: Section) -> bool:
 
 
 def check_round(rel: Path) -> int:
-    """The number of the next failed check of a section in tmp/errors.tsv."""
+    """The number of the next failed check of a section in TMP/errors.tsv."""
     if not ERRORS.exists():
         return 1
     rounds = [int(f[2]) for line in ERRORS.read_text().splitlines()
@@ -398,7 +532,7 @@ def check_round(rel: Path) -> int:
 def check_readings(targets: list[Section], model: str | None) -> bool:
     """Check existing readings as drafts are checked; False if any fails.
     The places that may break the rules are listed but do not fail.  With
-    a model ("" for none), the errors are logged in tmp/errors.tsv."""
+    a model ("" for none), the errors are logged in TMP/errors.tsv."""
     ok = True
     for sec in targets:
         if not sec.path.exists():
@@ -454,11 +588,17 @@ def main():
         help='Generate only the section of this verse, for testing, '
              'or with "next" the first section missing from the start',
     )
+    parser.add_argument(
+        "--lang",
+        choices=sorted(LANGUAGES),
+        default="ja",
+        help="Language of the reading (default: ja); English uses tmp/en/ for drafts, prompt and logs",
+    )
     mode = parser.add_mutually_exclusive_group()
     mode.add_argument(
         "--prompt",
         action="store_true",
-        help=f"Write the messages of the next missing section to {PROMPT_FILE.relative_to(ROOT)} for a harness",
+        help="Write the messages of the next missing section to tmp/prompt.md (tmp/en/prompt.md for English) for a harness",
     )
     mode.add_argument(
         "--check",
@@ -468,7 +608,7 @@ def main():
     parser.add_argument(
         "--no-log",
         action="store_true",
-        help="With --check, do not log the errors in tmp/errors.tsv",
+        help="With --check, do not log the errors in tmp/errors.tsv (tmp/en/errors.tsv for English)",
     )
     parser.add_argument(
         "-m", "--model",
@@ -495,6 +635,7 @@ def main():
         help="Record usage regardless of model name",
     )
     args = parser.parse_args()
+    set_language(args.lang)
 
     sections = read_sections(COMMENTARY)
     if not CONSTRUCTION.exists():
