@@ -112,6 +112,10 @@ phrases that spoke of the Latin as words; two corrections remained.
 Book 14, drafted by Gemini 3.8 Flash alone, was like book 11: no
 misconstruction, and corrections of form only (five endings
 「…が *X* である」 and three identifications naming the Latin word).
+The example itself ends six sentences with 「…が *X* である」; these
+endings were corrected in books 11, 12 and 14 where they piled up, and
+the instruction to the harness now limits them to one a paragraph
+instead of forbidding them.
 Book 15 was drafted by Gemini 3.8 Flash in the Antigravity CLI instead
 of generate.py, and its readings passed the same checks afterwards.
 Again nothing was misconstrued; the corrections were the grammatical
@@ -128,9 +132,10 @@ section made in the same way, needed only one sentence rewritten.
 Book 18, the shield of Achilles in sixteen sections, needed
 corrections in two: a broken sentence of the same kind as in book 16,
 a word left unjoined to its noun in the next line (*suis* … *equis*),
-「否定の *nec*」, and the corrupt line 890, which the reading had
-described by the doubts of the edition instead of saying, as the
-commentary does, that the place is damaged. Book 19 passed every check
+「否定の *nec*」, and the corrupt line 890, where the reading now
+says, as the commentary does, that the place is damaged; the note on
+the editor's mark of doubt on *reliquae*, first removed, was restored,
+since the example makes the same note on *protulerant*. Book 19 passed every check
 at the first attempt, and kept to the text where the commentary cites
 another editor's reading; one pronoun was referred to the wrong person
 (*ille*, Achilles, taken as the river), and the other corrections were
