@@ -37,6 +37,7 @@ messages and the checks of [generate.py](../generate.py);
 | 12 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 13 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 14 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 15 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -215,6 +216,13 @@ Its proposed sentences needed only small changes. The corrections of
 the book were few: *iuuenemque* split into *-que* and *iuuenem*,
 *Boeotumque* taken as the Boeotians rather than the adjective of
 *Promachum*, and an identification of Xanthus the commentary makes.
+
+Book 15 (verses 790–804) was drafted in two batches. In the first, a
+line ending without a full stop (798) was read as the end of the
+sentence, though its verb *apparat* comes in the next section; told to
+check the next verse in such cases, the model found the run-on of 802
+by itself in the second batch and asked how to end it, together with
+two other questions. The other corrections were of the plain forms.
 
 ## Files
 
