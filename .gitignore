@@ -11,3 +11,4 @@ wheels/
 
 # Downloaded and generated files
 /src/tmp/
+/reading/tmp/
