@@ -9,7 +9,8 @@ uses in this project, kept apart:
 
 The commentary review (1) has now been completed across the entire poem
 (Books 1 to 24) in parallel for both the English and Japanese commentaries.
-The reading of the Latin text itself (2) remains to be undertaken.
+The reading of the Latin text itself (2) has also been completed for
+the whole poem, in Japanese and in English, in [reading/](../reading/).
 
 ## Source
 
@@ -128,13 +129,20 @@ which is where the reader meets it, and not in a note outside the line.
 The frame (verb and its object) is given first and the rest is hung on
 it.
 
-The form of such a reading, its unit (a verse or a group of verses) and
-its place are not fixed: they are to be settled by trying it on a few
-verses.  Its files are to be kept apart from the commentary and
-organised under the same verse ranges, so that the commentary and the
-reading of a passage can be shown side by side, as parallel views of
-one text, for example as tabs.  The reading depends on the Latin text
-only and is not made from the notes of the editions.
+The form, the unit and the place of the reading were settled by trying
+it on verses 1–8 and have been carried through the whole poem.  The
+reading is written in Japanese or English sentences, each bringing in
+one Latin word, which stands in the sentence as a loanword, in the
+order of the verse.  Its unit is the section of the commentary: the files are kept
+apart from the commentary under the same names,
+`reading/{ja,en}/NN/VVVV.md`, so that the commentary and the reading of
+a passage can be shown side by side, as parallel views of one text.
+The reading follows the Latin text and draws on the commentary of its
+language only for identifications and for what each word does; it is
+not made from the notes of the editions.  The
+[Japanese readings](../reading/ja/README.md) and the
+[English readings](../reading/en/README.md) record how they were
+drafted by models and corrected by hand, book by book.
 
 ## 3. Practical observations
 

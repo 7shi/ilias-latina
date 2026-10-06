@@ -90,7 +90,8 @@ Besides the loop and the scope above, it holds:
   the Latin not settled beyond doubt by the commentary's translation:
   which noun an adjective goes with, what a case depends on, whom a
   pronoun refers to, whether an identification is new, whether a line
-  without a full stop runs on into the next section.
+  without a full stop runs on into the next section (a comma or a
+  colon is not a full stop).
 - **Asking is part of the work.** Where a point is not settled, ask the
   reviewer before writing that section, with the reading proposed. A
   passing `make check` does not show that the Latin was read correctly.
@@ -148,12 +149,16 @@ again. `N` is the book, `VVVV` a section.
      comes in ("Night comes in as well, named *noxque*", not "Night
      also approaches").
    - Hold an adjective until its noun ("though what it is is not yet
-     said"), at most two holds a group; when a clause runs on past the
+     said"), at most two holds a group, however many lines the group
+     has, and the wait said once; when a clause runs on past the
      section, end with "... comes only in the next section", checking
      the next verse whenever a line has no full stop.
    - Identify only as the commentary does ("As the commentary says,
      ..."), after the word identified; take nothing else from its
      interpretation.
+   - In a speech, keep to the third person: "the one addressed" and
+     "the speaker", not "you" and "I", and the one addressed not named
+     before the vocative names him.
    - No talk of grammar or word order, no verb made its own subject, no
      Latin slotted into an English phrase or put in apposition, no
      opening sentence restating the previous section; a word with
@@ -201,8 +206,19 @@ fared), commits it, and switches the instruction to the next book.
   not.
 - The drafter did not report its guesses, nor ask, until told that the
   list is for guesses it thinks right and that asking is part of the
-  work. Its guesses were then right throughout, and from book 14 it
-  asked while drafting, about the points most often misread.
+  work. Its guesses were then right throughout, and in books 14 and 15
+  it asked while drafting, about the points most often misread. From
+  book 16 it asked nothing; once it reported "Guessed: none" for
+  twenty-four lines, and listed its points fully again when asked to
+  list them even where the translation seemed to settle them.
+- New kinds of text brought new kinds of correction, which the table
+  had not foreseen: the names of the gods and stars on Achilles'
+  shield, the persons of the speeches, the closing prayer to the
+  Muses. The table kept growing to the last book, a few rows a batch.
+- What the review still found, after the table, was mostly of form;
+  in books 16–24 one word was misread (*iussa* taken with Andromache
+  rather than with the throng) and two run-ons were missed, one of
+  them at a comma.
 
 ## Limits
 

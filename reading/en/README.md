@@ -8,17 +8,30 @@ on for the content. The method is that of the
 [Japanese readings](../ja/README.md); the readings are written fresh
 from the English commentary, not translated from the Japanese ones.
 
-The readings are drafted in an agent harness from the first book, with
+The readings were drafted in an agent harness from the first book, with
 `make prompt READING=en` and `make check READING=en` giving it the
 messages and the checks of [generate.py](../generate.py);
 [HARNESS.md](../../HARNESS.md) describes the pattern, and
-[PLAN.md](PLAN.md) the plan these readings follow.
+[PLAN.md](PLAN.md) the plan these readings followed. All 24 books are
+complete and corrected by hand; [../README.md](../README.md) gives an
+overview of the English and Japanese readings.
+
+From book 4 the harness drafted five sections at a time, and each batch
+was corrected before the next, so that the previous section given with
+each prompt was always a corrected one. The drafting agent reported
+with each batch the points it had settled by guessing, and could ask
+the reviewing agent while drafting, which it first did in book 14; the two ran in panes of
+a terminal multiplexer and sent prompts to each other. The corrections
+that recurred were added to the instruction as a table of rejected and
+accepted sentences, which brought the corrections down from rewriting
+most sentences in books 2 and 3 to a few words a batch. The account by
+book below records what was corrected.
 
 ## Production and review
 
 | Model | Contribution |
 |---|---|
-| Claude Opus 5.5 | Wrote the example reading [01/0001.md](01/0001.md) and its step-by-step construction [ONESHOT.md](ONESHOT.md), wrote the English prompts of generate.py and the instructions to the harness, and corrected the readings by hand after generation. |
+| Claude Opus 5.5 | Wrote the example reading [01/0001.md](01/0001.md) and its step-by-step construction [ONESHOT.md](ONESHOT.md), wrote the English prompts of generate.py and the instructions to the harness, sent the batches to the harness and answered its questions, and corrected the readings by hand after generation. |
 | Gemini 3.8 Flash | Drafted the readings in the Antigravity CLI, without review. |
 
 | Book | Draft | Review | Correction |

@@ -3,8 +3,9 @@
 Notes for the sessions that work on `reading/en/`. Read this file,
 [../ja/README.md](../ja/README.md), [../ja/ONESHOT.md](../ja/ONESHOT.md),
 [../../HARNESS.md](../../HARNESS.md) and [../generate.py](../generate.py)
-first. The work is in progress: [README.md](README.md) records the books
-done and what was corrected, and the steps below say how to go on.
+first. The work is complete: all 24 books have been drafted, corrected
+and recorded in [README.md](README.md), which says what was corrected
+book by book; the steps below record how it was done.
 
 ## Aim
 
@@ -173,7 +174,9 @@ remaining books.
 
 As with the Japanese readings:
 
-1. The user runs the harness for a book.
+1. The harness drafts a book five sections at a time (from book 4),
+   each batch sent to it by Claude with herdr (see
+   [HARNESS.md](../../HARNESS.md#drafting-and-review-by-two-agents)).
 2. Claude checks it (`make check READING=en BOOKS=N NO_LOG=1`), reads
    every section against the English commentary, and commits the raw
    output.

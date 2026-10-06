@@ -190,6 +190,16 @@ Both versions are complete and checked in all 24 books. Their directory
 guides describe the files, proper-name tables, review records and the
 models responsible for production and proofreading.
 
+[reading/](reading/README.md) holds readings of the Latin in
+[Japanese](reading/ja/README.md) and [English](reading/en/README.md):
+each section read in the order of the Latin, one word at a time, from
+what is already known to what is new, following
+[commentary/METHOD.md](commentary/METHOD.md). They are kept section by
+section beside the commentary of the same language, so that the two can
+be read side by side. Both cover all 24 books; they were drafted by
+models, partly in an agent harness ([HARNESS.md](HARNESS.md)), and
+corrected by hand.
+
 ## References
 
 - "[Ilias Latina](https://en.wikipedia.org/wiki/Ilias_Latina)", English
