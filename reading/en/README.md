@@ -25,6 +25,8 @@ messages and the checks of [generate.py](../generate.py);
 |---|---|---|---|
 | 1 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 2 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 3 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 4 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -81,6 +83,31 @@ Myrmidons" was taken to make Schedius and Epistrophus Myrmidons, though
 Homer makes them Phocians. Pandarus was identified before his name
 came. Nearly every section was rewritten, in plainer sentences than the
 draft.
+
+Book 3 (verses 252–343) was drafted in one batch and again nearly every
+section was rewritten. A new habit ran through it: Latin slotted into a
+participial tag, "met as *X*" or "met *in armis*". The content of later
+words was still told early, now at a subject or an adverb ("Paris also
+moves himself away" at *seque*, before *recepit*), and color came from
+the commentary's interpretation rather than the Latin ("sleek heifer",
+"her sharp tone"). Asked about its readings, the model traced these to
+the prompt: the rule against repeated endings led it to invent new
+ones; it had taken the rule against telling later words early to apply
+only to a word held back; it had read the commentary's interpretation
+as material for the story; and "met as *X*", once in a reading, was
+copied from the previous section in the prompt, so that a habit of the
+draft spread through the batch. The rules were changed accordingly: a
+few plain forms to bring in a word, the rule against telling later
+words early applied to the whole clause, and the commentary kept to
+identifications and to what each word does.
+
+Book 4 (verses 344–388) was drafted in batches of five sections, each
+corrected before the next, so that the previous section in the prompt
+was always a corrected one. The readings followed the plain forms from
+the first batch, with no misreading; the corrections were a few words
+each: a subject or a verb told before its word came (*curat*, *petit*,
+*ruit*), and participles brought in with "given as" or "called" rather
+than "described as".
 
 ## Files
 
