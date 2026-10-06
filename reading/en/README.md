@@ -24,6 +24,7 @@ messages and the checks of [generate.py](../generate.py);
 | Book | Draft | Review | Correction |
 |---|---|---|---|
 | 1 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 2 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -62,6 +63,24 @@ lavish feast, read as the feast revealed as lavish, and *letum
 crudele*, the death Achilles threatens, read as one he will inflict.
 The section of Juno's protest (98–105) needed most of its sentences
 rewritten.
+
+Book 2 (verses 111–251) was drafted in one batch; most of its sections
+are the short entries of the catalogue of ships. The content of later
+words was still told in advance (*quem* read as Thersites "confronted
+by another" before *Vlixes*; the blow told at *sceptro*), and the
+grammar came back into the sentences ("a comparison is drawn with
+*quam*", "referred to again as *quos*"). Where a clause runs on into
+the next section, as often in the catalogue, the words were misread:
+*quos* in line 196, the two leaders whom Eumelus follows, was taken as
+the men Tlepolemus commands. Other misreadings were *quo non deformior
+alter*, read as no one surpassing Thersites; *correptum*, read as
+seized; *uix telis caruere manus*, read as hands reaching for weapons;
+and *alta*, Hector's long legs, read as greaves gleaming from on high.
+An identification contradicted the commentary: "the glory of the
+Myrmidons" was taken to make Schedius and Epistrophus Myrmidons, though
+Homer makes them Phocians. Pandarus was identified before his name
+came. Nearly every section was rewritten, in plainer sentences than the
+draft.
 
 ## Files
 
