@@ -1,9 +1,10 @@
 # Plan for the English readings
 
-Notes for the session that implements `reading/en/`. Read this file,
+Notes for the sessions that work on `reading/en/`. Read this file,
 [../ja/README.md](../ja/README.md), [../ja/ONESHOT.md](../ja/ONESHOT.md),
 [../../HARNESS.md](../../HARNESS.md) and [../generate.py](../generate.py)
-first. Nothing below has been implemented yet.
+first. The work is in progress: [README.md](README.md) records the books
+done and what was corrected, and the steps below say how to go on.
 
 ## Aim
 
@@ -27,8 +28,8 @@ translated from the Japanese readings.
 - [commentary/en/proper_noun.md](../../commentary/en/proper_noun.md):
   the English forms of the names (for example *Pelides*, *Orcus*). The
   readings use the same forms as the English commentary.
-- The example `en/01/0001.md` and its construction `en/ONESHOT.md`, to
-  be written by hand (see step 2 below).
+- The example `en/01/0001.md` and its construction `en/ONESHOT.md`,
+  written by hand (see step 2 below).
 
 ## Drafting from the start in the harness
 
@@ -100,17 +101,25 @@ Points to settle in the example:
 - Varied sentence endings, the English counterparts of 「*X* と呼ばれる／
   名指される／描かれる」 ("is called *X*", "is named *X*", "is described
   as *X*"), without one ending repeated sentence after sentence.
-- Holding back a word whose noun comes far later ("but what is grievous
-  is not yet said") only over a distance, never for a word one or two
-  words away.
+- Holding back a word whose noun comes later ("but what is grievous is
+  not yet said") only over a distance. "Never for a word one or two
+  words away" would contradict *summi* … *regis* and *Latrantum* …
+  *rostris*, held in both examples; [ONESHOT.md](ONESHOT.md) settles it
+  as holding back only where something else is read before the partner
+  comes.
 - The editor's mark of doubt on *protulerant\** noted briefly, as in
   the Japanese example.
 - One identification from the commentary, at the name *Achilles* in
   line 8 for the *Pelidae* of line 1, as in the Japanese example.
+  [ONESHOT.md](ONESHOT.md) settles it in English, without the Latin
+  word as its subject: "the son of Peleus in line 1 is this Achilles".
 - Check every rule of step 3 against the example: the Japanese rules
   twice contradicted the Japanese example (the endings 「…が *X* である」
   and the note on the mark of doubt), and the readings were corrected
-  against rules the example did not follow until this was found.
+  against rules the example did not follow until this was found. The
+  English example ends at most one sentence a paragraph with "… is
+  *X*", the counterpart of 「…が *X* である」, and the rule says the
+  same.
 
 ### 3. Write the English prompts and the harness instruction
 
@@ -132,8 +141,9 @@ since the same model will draft them:
   corrected to "the Pelasgians are the Greeks"), do not repeat what the
   verse says (*Troianus Apollo*), and are made once a book. The
   Japanese example itself identifies 「1行目の *Pelidae*」, a word met
-  seven lines earlier; settle in step 2 whether the English example
-  does the same, and state the rule so that it agrees with the example;
+  seven lines earlier; the English example identifies the son of Peleus
+  of line 1 where the name comes in line 8, and the rule allows an
+  identification to look back to an earlier line;
 - check from the commentary's translation which noun an adjective goes
   with and whom a pronoun or a possessive refers to (*ultrix* with
   *dextera*; *ille* as Achilles; *patriae* as the father's);
