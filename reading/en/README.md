@@ -29,6 +29,7 @@ messages and the checks of [generate.py](../generate.py);
 | 4 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 5 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 6 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 7 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -141,6 +142,18 @@ model still asked nothing in the second batch. Its corrections were of
 the usual kinds; the one misreading was in Diomedes' speech to Glaucus,
 where what Glaucus is to do (*concurrere*, *Pone*, *coerce*) was told as
 what Diomedes does.
+
+Book 7 (verses 564–649) was drafted in five batches. The model was
+asked to report with each batch the points it had guessed; its first
+two lists were empty, and once told that guessing is what the list is
+for, it named seventeen to fifty points a batch, mostly
+which adjective goes with which noun and to whom a pronoun refers. Its
+choices were right throughout, and no word was misconstrued in the
+book. The corrections were of the usual kinds: the content of a later
+word told at a subject, a pronoun or a connective (a gift at *et* and
+*inque uicem*, a refusal at *neque*), a word given more than its own
+sense (*bello* as renowned in war, *cum primum* as soon as possible),
+and participles told as actions.
 
 ## Files
 
