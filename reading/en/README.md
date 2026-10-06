@@ -42,6 +42,7 @@ messages and the checks of [generate.py](../generate.py);
 | 17 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 18 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 19 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 20 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -259,6 +260,13 @@ adjective *Cythereius* "called" like a name and identified before its
 noun *heros*, *compar* and *erat* brought in apart, a group holding
 three words, and Achilles named at *instat* before the commentary's
 identification of the pursuer.
+
+Book 20 (verses 911–930) was drafted in two batches, without questions;
+the Guessed lists were right. Its sections have long groups of four
+or five lines, and the first batch held four words in one and three in
+another, with a word left for the next section said to wait twice; the
+limit of two was restated for the whole group. The second batch needed
+only three small corrections.
 
 ## Files
 
