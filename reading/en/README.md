@@ -39,6 +39,7 @@ messages and the checks of [generate.py](../generate.py);
 | 14 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 15 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 16 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 17 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -232,6 +233,11 @@ held four words in one group (825–828) and three in another, brought
 down to two by taking adjective and noun side by side as a pair. A
 relative *Qui* was brought in as "Those who do something", and
 imperfects were turned into perfects; both were corrected.
+
+Book 17 (verses 836–838), a single section, was drafted in one batch
+and needed two corrections of a word each: the body, not Patroclus, as
+what Ajax covers, and *Danai* named rather than brought in as a
+pronoun.
 
 ## Files
 
