@@ -30,6 +30,7 @@ messages and the checks of [generate.py](../generate.py);
 | 5 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 6 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 7 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 8 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -154,6 +155,17 @@ word told at a subject, a pronoun or a connective (a gift at *et* and
 *inque uicem*, a refusal at *neque*), a word given more than its own
 sense (*bello* as renowned in war, *cum primum* as soon as possible),
 and participles told as actions.
+
+Book 8 (verses 650–685) was drafted in four batches. Since the same
+kinds of correction had recurred batch after batch, the instruction
+was given a table contrasting sentences of the drafts with their
+corrections, with the reason for each, and rows were added to it from
+each batch. The first batch brought a new habit, a sentence opening the
+section that restated the previous one ("What he does with his mighty
+hand begins here"); after the table, the corrections fell to a few
+words a batch, mostly the form of bringing in a word ("called *muris*"
+for a noun). No word was misconstrued, and the guessed points were
+again all right.
 
 ## Files
 
