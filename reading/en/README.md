@@ -34,6 +34,7 @@ messages and the checks of [generate.py](../generate.py);
 | 9 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 10 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 11 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 12 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -191,6 +192,13 @@ few words of correction: a second *ferrum* told as the ringing that
 comes with *sonat*, a name said twice (*Priamides*), and the
 identification of the brother at *frater*, where the commentary makes
 it. No word was misconstrued.
+
+Book 12 (verses 758–771), the storming of the Greek wall, was drafted
+in two batches. Its plural verbs before their subjects were brought in
+in the singular ("Someone presses forward" for *Incumbunt*), nouns
+were "spoken of as", and *castra* in line 769, the camp the Greeks
+flee, was taken as where they flee to. One verb was brought in by an
+invented form ("that hurling is *iacit*").
 
 ## Files
 
