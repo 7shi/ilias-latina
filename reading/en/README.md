@@ -41,6 +41,7 @@ messages and the checks of [generate.py](../generate.py);
 | 16 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 17 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 18 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 19 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -251,6 +252,13 @@ nouns "named" rather than "as", time words as "A time is set", and
 plural verbs before their subjects as "Some ...". The damaged *poesis*
 of line 890 was brought in as a word that makes no sense, as the
 commentary says.
+
+Book 19 (verses 892–910) was drafted in two batches, without questions;
+the Guessed lists were right. The corrections were of form: the
+adjective *Cythereius* "called" like a name and identified before its
+noun *heros*, *compar* and *erat* brought in apart, a group holding
+three words, and Achilles named at *instat* before the commentary's
+identification of the pursuer.
 
 ## Files
 
