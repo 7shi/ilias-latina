@@ -266,19 +266,35 @@ Beyond the first section:
 - In the same way, do not tell what a later word says before it comes:
   not "The common soldiers begin to fall, spoken of as *uulgus*" before
   *ruit*, but "Then the throng of the army comes in, spoken of as
-  *uulgus*. It falls, told with *ruit*."
+  *uulgus*. It falls, told with *ruit*."  This holds for the whole
+  clause, not only for a word held back: at a subject, a pronoun, an
+  adverb or a connecting word, say only who or what comes in, not what
+  the verb later in the clause will say.  Not "Paris also moves himself
+  away, told as *seque*" before *recepit*, or "The one who watches him is
+  his brother, entering as *Hector*" before *uidet*, but "Paris does
+  something to himself, given as *seque*" and "Hector comes in, named
+  *Hector*", with the action told at *recepit* and *uidet*.
 - Add no color or content the Latin does not give (not "grievous wounds"
   for *uulnera*, not "In desperate sorrow he strikes them", not "he puts
   his standing to the test" for *sum*); a possessive such as *sua* is said
-  briefly ("their own").
+  briefly ("their own").  The commentary is drawn on for identifications
+  and to check what each word does; its interpretation of a scene or a
+  speaker does not enter the sentences: not "sleek heifer" for *nitida de
+  coniuge*, "her sharp tone" for *tali … uoce*, or "the empty prize" for
+  the helmet.
 - A lost line (`\\<>`) or a place the commentary calls damaged is said to
   be lost or damaged, as the commentary says, not described by its
   editorial signs.  A word marked with the editor's doubt (`*` after it)
   is noted briefly as the example does with *protulerant*, and read as it
   stands.  Variant readings of other editors are not mentioned, even when
   the commentary cites them.
-- A sentence ending "… is *X*" comes at most once a paragraph, and no
-  ending is repeated sentence after sentence.
+- A sentence ending "… is *X*" comes at most once a paragraph.  Bring the
+  Latin word in with a few plain forms: "named *X*", "called *X*",
+  "described as *X*", "told with *X*", "marked by *X*", "given as *X*",
+  "as *X*", "which closes the line as *X*".  Vary among them so that one
+  does not run through a paragraph, but do not make up others to vary
+  them ("met as *X*", "sharpened with *X*", "marshaled as *X*", "affirmed
+  with *X*"): a plain form used again is better than an invented one.
 - Do not close a group or a paragraph with a sentence that goes over the
   Latin words just read again ("So the *corpora* spread over the field and
   the *sanguine* soaks the *prata*") or that only says the story goes on
@@ -326,9 +342,9 @@ reading again.  Look in particular for:
   again (one that they do not state in words is not made yet and is kept);
 - a word held back ("is not yet said") where the word it waits for comes
   next, a word read as complete though its noun comes in the next line or
-  section, and sentence endings that repeat ("is called *X*", "is named
-  *X*" sentence after sentence, or "… is *X*" more than once a
-  paragraph); do not add holding back that the draft does not have;
+  section, one plain ending run through a paragraph, an invented ending
+  ("met as *X*", "sharpened with *X*"), and "… is *X*" more than once a
+  paragraph; do not add holding back that the draft does not have;
 - an adjective joined to the wrong noun, or a pronoun or possessive
   referred to the wrong person, against the commentary's translation;
 - a word with *-que* treated as a connecting word, a word such as *per* or
@@ -336,8 +352,11 @@ reading again.  Look in particular for:
   in an appended phrase that restates it ("a devotion told with
   *coluisse*");
 - more than two words held back in a group, a wait said with "held
-  back", "waits" or "its noun", and what a held word waits for told
-  before it comes;
+  back", "waits" or "its noun", what a held word waits for told
+  before it comes, and what a later verb says told at its subject, a
+  pronoun or an adverb;
+- color or interpretation taken from the commentary rather than the
+  Latin ("sleek heifer", "her sharp tone");
 - a Latin word slotted into an English sentence in place of an English
   word ("then, *deinde*, he throws the spear");
 - a closing sentence that goes over the Latin words just read again or
