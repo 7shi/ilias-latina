@@ -32,6 +32,7 @@ messages and the checks of [generate.py](../generate.py);
 | 7 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 8 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 9 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 10 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -174,6 +175,15 @@ told without holding them back (*Thetideius* before *heros*, *intacta*
 before *Briseis*), an identification placed before the word it
 identifies, and the tense of held words. The guessed points were all
 right.
+
+Book 10 (verses 696–740), the night raid, was drafted in three
+batches. Its long sentences led the model to hold three words in a
+group, more than the rules allow, and in Dolon's plea the persons and
+powers invoked (*uos*, *per numina*, *per mare*) were each told as the
+appeal that comes only with *obtestor*. With a denial, the subject was
+described by what the denial takes away: in *quos nec praecederet
+Eurus*, Eurus was "the swift one" rather than the one who could not
+outrun the horses. The guessed points were again all right.
 
 ## Files
 
