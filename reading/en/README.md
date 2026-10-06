@@ -46,6 +46,7 @@ messages and the checks of [generate.py](../generate.py);
 | 21 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 22 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 23 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 24 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -296,6 +297,17 @@ questions; the Guessed lists were right. One run-on was missed: line
 next section. Two identifications the commentary makes (the ashes as
 Patroclus', Ajax as the son of Telamon) were added; the other
 corrections were of a word or two.
+
+Book 24 (verses 1015–1070) was drafted in three batches, without
+questions. One word was misread: *iussa* in line 1059, which goes with
+*turba*, the throng ordered to take Andromache away, was taken as
+Andromache ordered. The speeches and the closing prayer to the Muses,
+Pallas and Phoebus again needed the persons kept apart: the narrator's
+*ait* given to "the speaker", and imperatives told as "She is to ..."
+before the goddess addressed was named. The commentary's notes that
+the gifts Priam carries back are Hector's body and that Pallas and
+Phoebus are Minerva and Apollo were added, and two groups holding
+three words were reduced.
 
 ## Files
 
