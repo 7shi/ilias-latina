@@ -38,6 +38,7 @@ messages and the checks of [generate.py](../generate.py);
 | 13 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 14 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 15 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 16 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -223,6 +224,14 @@ sentence, though its verb *apparat* comes in the next section; told to
 check the next verse in such cases, the model found the run-on of 802
 by itself in the second batch and asked how to end it, together with
 two other questions. The other corrections were of the plain forms.
+
+Book 16 (verses 805–835) was drafted in two batches, without
+questions; every point of its Guessed lists was read right. The
+corrections were of the plain forms and of the holds: the second batch
+held four words in one group (825–828) and three in another, brought
+down to two by taking adjective and noun side by side as a pair. A
+relative *Qui* was brought in as "Those who do something", and
+imperfects were turned into perfects; both were corrected.
 
 ## Files
 
