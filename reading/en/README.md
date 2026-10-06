@@ -43,6 +43,7 @@ messages and the checks of [generate.py](../generate.py);
 | 18 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 19 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 20 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 21 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -267,6 +268,12 @@ or five lines, and the first batch held four words in one and three in
 another, with a word left for the next section said to wait twice; the
 limit of two was restated for the whole group. The second batch needed
 only three small corrections.
+
+Book 21 (verses 931–943) was drafted in one batch, without questions;
+the Guessed list was right. The corrections were of form: phrases with
+a preposition as what comes in (*ante oculos*, *in somnis*), the
+infinitives as "comes next", and *uisa est* given as a phrase with its
+subject told before *Pallas*.
 
 ## Files
 
