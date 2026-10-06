@@ -35,6 +35,7 @@ messages and the checks of [generate.py](../generate.py);
 | 10 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 11 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 12 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 13 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -199,6 +200,11 @@ in the singular ("Someone presses forward" for *Incumbunt*), nouns
 were "spoken of as", and *castra* in line 769, the camp the Greeks
 flee, was taken as where they flee to. One verb was brought in by an
 invented form ("that hurling is *iacit*").
+
+Book 13 (verses 772–778) was drafted in one batch. A gloss not in the
+commentary was dropped (*Rhytieus* as "from Rhytion"), and a held word
+said twice to be waiting (*atrocem*) and a group of three held words
+were reduced.
 
 ## Files
 
