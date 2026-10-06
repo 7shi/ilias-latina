@@ -45,6 +45,7 @@ messages and the checks of [generate.py](../generate.py);
 | 20 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 21 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 22 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 23 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -288,6 +289,13 @@ question words brought in as things ("What comes in, as *Quid*"), and
 give were dropped, two identifications the commentary makes (Deiphobus,
 Tritonia and Pallas) were added, and three groups holding three words
 were reduced.
+
+Book 23 (verses 1004–1014) was drafted in two batches, without
+questions; the Guessed lists were right. One run-on was missed: line
+1009 ends with a comma and the sentence goes on with *cuius* in the
+next section. Two identifications the commentary makes (the ashes as
+Patroclus', Ajax as the son of Telamon) were added; the other
+corrections were of a word or two.
 
 ## Files
 
