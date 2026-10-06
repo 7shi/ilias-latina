@@ -220,6 +220,46 @@ fared), commits it, and switches the instruction to the next book.
   rather than with the throng) and two run-ons were missed, one of
   them at a comma.
 
+### What the drafter should understand
+
+At the end the drafter wrote its own account of what had helped it,
+and it overrated several things: that the contrast table had ended the
+recurring errors, that its Guessed list had caught the misreadings, and
+that a passing check showed a sound draft. An agent's view of its work
+lasts only as long as its context, and a new session starts from the
+instruction, so the understanding wanted is stated here, to be given
+to the drafter:
+
+- **The list before drafting is for doubt.** Each point of construction
+  (agreement, what a case depends on, ellipsis, pronouns, run-ons) is
+  listed before writing, so that parsing is a step of its own; a point
+  the translation does not settle is asked, not guessed.
+- **The contrast table reduces corrections; it does not end them.**
+  Concrete rejected and accepted sentences are easier to check a draft
+  against than abstract rules, and the table brought the corrections
+  down to a few words a batch. The same kinds still recurred to the
+  last book (proper names "named" instead of "called", plural verbs
+  before their subjects as "Someone"), so every sentence is checked
+  against the table, not only those that look like its rows.
+- **The limit on holds counts the whole group.** At most two words held
+  back in a `####` group, however many lines it has; a further
+  adjective comes without the hold ("Something is deep, described as
+  *alto*").
+- **The Guessed list shows choices; it does not find errors.** The
+  listed guesses were right, but the misreading of the last book
+  (*iussa* taken with Andromache rather than with *turba*) was not on
+  the list and was found in review. A point is listed even when it
+  seems settled, and the drafter does not take an empty list as a sign
+  of a correct draft.
+- **The persons of a speech stay in the third person.** "The speaker"
+  and "the one addressed" inside a speech; the narrator's *ait* is "He
+  speaks".
+- **A passing check shows only the form.** `make check` catches words
+  left unread and forbidden terms and lists runs of Latin; the
+  misreadings and the missed run-ons of the English readings all
+  passed it. The reading of the Latin is shown correct only by the
+  review against the commentary.
+
 ## Limits
 
 - The harness's own system prompt and tools shape the output, and the
