@@ -28,6 +28,7 @@ messages and the checks of [generate.py](../generate.py);
 | 3 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 4 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 5 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 6 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -125,6 +126,21 @@ does not give rather than with the weapons of the line before; and
 *non aequis armis*, its denial taken into the adjective. The editorial
 sign in *Crethona\<que>* was written unescaped and was restored as in
 the commentary.
+
+Book 6 (verses 538–563) was drafted in two batches. The instruction had
+told the model to ask when unsure, yet it had asked nothing through
+book 5. Asked why, it said that it had taken stopping to ask as a
+fallback for a complete block rather than for doubt about the Latin,
+that a passing check had seemed to confirm its guesses, and that the
+instruction made finishing the batch the goal; it named the points it
+had guessed, among them the misreadings of book 5. The instruction was
+changed to list, before each section, the points of construction not
+settled by the translation, and to say that asking is part of the work
+and that a passing check does not show the Latin read correctly. The
+model still asked nothing in the second batch. Its corrections were of
+the usual kinds; the one misreading was in Diomedes' speech to Glaucus,
+where what Glaucus is to do (*concurrere*, *Pone*, *coerce*) was told as
+what Diomedes does.
 
 ## Files
 
