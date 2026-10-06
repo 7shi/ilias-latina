@@ -63,6 +63,203 @@ its own habits to the output (in book 15, grammatical terms such as
 added to the instruction, and in this project none recurred after it
 was.
 
+## Drafting and review by two agents
+
+The English readings of [reading/en/](reading/en/README.md) add a
+second agent to the pattern: one harness drafts, and another reviews,
+corrects and commits. The aim is to leave as few oversights as
+possible rather than to save work. The two agents run in panes of a
+terminal multiplexer, herdr, and send prompts to each other:
+
+```sh
+herdr agent prompt ilias-agy "..."     # the reviewer instructs the drafter
+herdr agent prompt ilias-claude "..."  # the drafter reports or asks
+```
+
+### The drafter's instruction
+
+The instruction is a file, `reading/tmp/en/harness.md` (not tracked),
+written by the reviewer and read again by the drafter at each batch.
+Besides the loop and the scope above, it holds:
+
+- **The batch.** The book and its number of sections; five sections
+  per batch, then stop and report. The previous section in each prompt
+  is then always a corrected one, so the drafter's habits do not spread
+  through a book.
+- **A check before drafting.** For each section, list every point of
+  the Latin not settled beyond doubt by the commentary's translation:
+  which noun an adjective goes with, what a case depends on, whom a
+  pronoun refers to, whether an identification is new, whether a line
+  without a full stop runs on into the next section (a comma or a
+  colon is not a full stop).
+- **Asking is part of the work.** Where a point is not settled, ask the
+  reviewer before writing that section, with the reading proposed. A
+  passing `make check` does not show that the Latin was read correctly.
+- **The report.** At the end of a batch, a final `make check` and a
+  report naming the sections written and a list headed `Guessed:` of
+  every point settled by guessing, one item each (section, Latin words,
+  reading chosen), even when the drafter thinks the guess right.
+- **The lessons.** The corrections of earlier books as rules, and a
+  contrast table of the corrections that recur, each row a sentence of
+  a draft, its correction and the reason. Rows are added from each
+  batch.
+
+### Rebuilding the instruction file
+
+The file is not tracked; these are its parts, enough to write it
+again. `N` is the book, `VVVV` a section.
+
+1. **Opening.** Make the English readings for book N (its number of
+   sections and first verse), in batches of five; this batch, the next
+   five missing sections, then stop and report.
+2. **Steps.** (1) `make prompt READING=en BOOKS=N`; (2) read
+   `tmp/en/prompt.md`, list the doubtful points (adjective and noun,
+   case, ellipsis, what *-que* or *et* joins, pronoun, identification),
+   check them against the commentary's translation, ask if any is
+   unsettled, then write `reading/en/NN/VVVV.md`; (3)
+   `make check READING=en VERSE=V MODEL=gemini-3.8-flash` until it
+   passes, and look over what it lists without failing; (4) back to
+   (1), stopping after five sections or at "Nothing to generate".
+3. **Notes.**
+   - Asking: "Asking is part of the work, not an exception to it", with
+     the misreadings of earlier books that passed the check as the
+     reason; ask with
+     `herdr agent prompt ilias-claude "Question: <section, Latin words, readings weighed>"`
+     and stop until the answer comes as a new prompt.
+   - One section at a time, in order; read only the instruction and
+     `tmp/en/prompt.md`; write only `reading/en/NN/`; change no script,
+     commentary or existing reading; run no git command.
+   - Reread each section for broken sentences and typos; say that the
+     book ends only in its last section ("which ends the Nth book as
+     *X*").
+   - At the end, `make check READING=en BOOKS=N NO_LOG=1`, then
+     `herdr agent prompt ilias-claude "Book N batch done: sections VVVV-VVVV written, make check all ok. Guessed: <list>"`,
+     every guessed point one item (section, Latin words, reading
+     chosen), "Guessed: none" if none.
+4. **Rules from the corrections**, each with a rejected and an accepted
+   sentence:
+   - Bring in a word in a plain form matched to it: a verb "told with
+     *X*", an adjective or participle "described as *X*", a noun
+     "named *X*", a name or title "called *X*", a phrase with a
+     preposition or a pair "given as *X*", an adverb or connective
+     "marked by *X*", a pronoun "as *X*", the last word "which closes
+     the line as *X*".
+   - Tell nothing before its word, for the whole clause: at a subject,
+     pronoun, adverb, place word or connective say only who or what
+     comes in ("Night comes in as well, named *noxque*", not "Night
+     also approaches").
+   - Hold an adjective until its noun ("though what it is is not yet
+     said"), at most two holds a group, however many lines the group
+     has, and the wait said once; when a clause runs on past the
+     section, end with "... comes only in the next section", checking
+     the next verse whenever a line has no full stop.
+   - Identify only as the commentary does ("As the commentary says,
+     ..."), after the word identified; take nothing else from its
+     interpretation.
+   - In a speech, keep to the third person: "the one addressed" and
+     "the speaker", not "you" and "I", and the one addressed not named
+     before the vocative names him.
+   - No talk of grammar or word order, no verb made its own subject, no
+     Latin slotted into an English phrase or put in apposition, no
+     opening sentence restating the previous section; a word with
+     *-que* is one word; editorial signs escaped (*Crethona\<que>*).
+5. **Contrast table.** A table of `Not (draft) | But (corrected) | Why`,
+   started from the recurring corrections and extended after each
+   batch, with the instruction to check every sentence against it
+   before finishing a section.
+
+### The reviewer's loop
+
+For each report:
+
+1. Run `make check READING=en BOOKS=N NO_LOG=1` and list the new files
+   with `git status`.
+2. Read each reading beside the commentary's translation, word by
+   word, and the commentary's identifications; check every point of
+   the `Guessed:` list.
+3. Commit the raw output as it is ("Generate the English readings of
+   book N, verses A–B").
+4. Correct by hand: small corrections as exact substitutions, larger
+   ones by rewriting the prose of a section; check again, including
+   that no group holds more than two words back.
+5. Commit the corrections separately ("Correct the English readings
+   of book N, verses A–B", with a summary of what was fixed).
+6. Add rows to the contrast table for any correction likely to recur.
+7. Send the next batch, naming the kinds of correction just made.
+
+A question from the drafter is answered after checking the Latin
+construction and the commentary, before the drafter goes on; an answer
+given without that check was the source of one later correction.
+
+At the end of a book, the reviewer adds the book to the table and the
+account of
+[reading/en/README.md](reading/en/README.md) (what the drafts got
+wrong, what was corrected, how the drafter's guesses and questions
+fared), commits it, and switches the instruction to the next book.
+
+### What made it work
+
+- The raw commits keep the drafter's output, so the corrections can be
+  counted and described per book.
+- The contrast table brought the corrections from rewriting most
+  sentences down to a few words a batch; the instructions alone had
+  not.
+- The drafter did not report its guesses, nor ask, until told that the
+  list is for guesses it thinks right and that asking is part of the
+  work. Its guesses were then right throughout, and in books 14 and 15
+  it asked while drafting, about the points most often misread. From
+  book 16 it asked nothing; once it reported "Guessed: none" for
+  twenty-four lines, and listed its points fully again when asked to
+  list them even where the translation seemed to settle them.
+- New kinds of text brought new kinds of correction, which the table
+  had not foreseen: the names of the gods and stars on Achilles'
+  shield, the persons of the speeches, the closing prayer to the
+  Muses. The table kept growing to the last book, a few rows a batch.
+- What the review still found, after the table, was mostly of form;
+  in books 16–24 one word was misread (*iussa* taken with Andromache
+  rather than with the throng) and two run-ons were missed, one of
+  them at a comma.
+
+### What the drafter should understand
+
+At the end the drafter wrote its own account of what had helped it,
+and it overrated several things: that the contrast table had ended the
+recurring errors, that its Guessed list had caught the misreadings, and
+that a passing check showed a sound draft. An agent's view of its work
+lasts only as long as its context, and a new session starts from the
+instruction, so the understanding wanted is stated here, to be given
+to the drafter:
+
+- **The list before drafting is for doubt.** Each point of construction
+  (agreement, what a case depends on, ellipsis, pronouns, run-ons) is
+  listed before writing, so that parsing is a step of its own; a point
+  the translation does not settle is asked, not guessed.
+- **The contrast table reduces corrections; it does not end them.**
+  Concrete rejected and accepted sentences are easier to check a draft
+  against than abstract rules, and the table brought the corrections
+  down to a few words a batch. The same kinds still recurred to the
+  last book (proper names "named" instead of "called", plural verbs
+  before their subjects as "Someone"), so every sentence is checked
+  against the table, not only those that look like its rows.
+- **The limit on holds counts the whole group.** At most two words held
+  back in a `####` group, however many lines it has; a further
+  adjective comes without the hold ("Something is deep, described as
+  *alto*").
+- **The Guessed list shows choices; it does not find errors.** The
+  listed guesses were right, but the misreading of the last book
+  (*iussa* taken with Andromache rather than with *turba*) was not on
+  the list and was found in review. A point is listed even when it
+  seems settled, and the drafter does not take an empty list as a sign
+  of a correct draft.
+- **The persons of a speech stay in the third person.** "The speaker"
+  and "the one addressed" inside a speech; the narrator's *ait* is "He
+  speaks".
+- **A passing check shows only the form.** `make check` catches words
+  left unread and forbidden terms and lists runs of Latin; the
+  misreadings and the missed run-ons of the English readings all
+  passed it. The reading of the Latin is shown correct only by the
+  review against the commentary.
+
 ## Limits
 
 - The harness's own system prompt and tools shape the output, and the
@@ -80,6 +277,8 @@ cd reading
 make prompt BOOKS=18                         # tmp/prompt.md for the next section
 make check VERSE=839 MODEL=gemini-3.8-flash  # check one section, logging errors
 make check BOOKS=18 NO_LOG=1                 # inspect a book without logging
+make prompt READING=en BOOKS=16              # the same for the English readings
+make check READING=en BOOKS=16 NO_LOG=1
 ```
 
 See [reading/ja/README.md](reading/ja/README.md) for the models used and
