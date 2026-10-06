@@ -44,6 +44,7 @@ messages and the checks of [generate.py](../generate.py);
 | 19 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 20 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 21 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 22 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -274,6 +275,19 @@ the Guessed list was right. The corrections were of form: phrases with
 a preposition as what comes in (*ante oculos*, *in somnis*), the
 infinitives as "comes next", and *uisa est* given as a phrase with its
 subject told before *Pallas*.
+
+Book 22 (verses 944–1003) was drafted in three batches, without
+questions. The first report gave "Guessed: none" for twenty-four lines;
+asked to list the points of its check even when the translation seemed
+to settle them, the model listed them fully again, and they were right.
+The speeches of Hector and Achilles brought new kinds of correction:
+subjunctives made into nouns ("He is to do comes next" for *agat*),
+question words brought in as things ("What comes in, as *Quid*"), and
+"you" and "I" for the persons of the speech, kept to the third person
+("the one addressed", "the speaker"). Possessives the Latin does not
+give were dropped, two identifications the commentary makes (Deiphobus,
+Tritonia and Pallas) were added, and three groups holding three words
+were reduced.
 
 ## Files
 
