@@ -33,6 +33,7 @@ messages and the checks of [generate.py](../generate.py);
 | 8 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 9 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 10 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 11 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -184,6 +185,12 @@ appeal that comes only with *obtestor*. With a denial, the subject was
 described by what the denial takes away: in *quos nec praecederet
 Eurus*, Eurus was "the swift one" rather than the one who could not
 outrun the horses. The guessed points were again all right.
+
+Book 11 (verses 741–757) was drafted in two batches and needed only a
+few words of correction: a second *ferrum* told as the ringing that
+comes with *sonat*, a name said twice (*Priamides*), and the
+identification of the brother at *frater*, where the commentary makes
+it. No word was misconstrued.
 
 ## Files
 
