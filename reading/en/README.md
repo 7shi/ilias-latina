@@ -27,6 +27,7 @@ messages and the checks of [generate.py](../generate.py);
 | 2 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 3 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 4 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 5 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -108,6 +109,22 @@ the first batch, with no misreading; the corrections were a few words
 each: a subject or a verb told before its word came (*curat*, *petit*,
 *ruit*), and participles brought in with "given as" or "called" rather
 than "described as".
+
+Book 5 (verses 389–537) was drafted in nine batches. Its long similes
+and battle scenes needed more correction than book 4, though far less
+than books 2 and 3. The forms were often mismatched to the words (a
+verb "given as *sonat*", a participle "told with *deiectus*"), places
+and times told the verb after them ("He heads into the midst, given as
+*in medios*"), and in the last batches sentences made a verb its own
+subject ("Being laid low is told with *sternuntur*"). A few words were
+misread: *galeae* in *cerebrum galeae cum parte reuulsum*, read as a
+brain belonging to the helmet; *comes* in *comes horrida turba canum*,
+read as an attendant of its own rather than the pack attending the
+shepherd; *Antilochique Mydon*, read with a verb of striking the Latin
+does not give rather than with the weapons of the line before; and
+*non aequis armis*, its denial taken into the adjective. The editorial
+sign in *Crethona\<que>* was written unescaped and was restored as in
+the commentary.
 
 ## Files
 
