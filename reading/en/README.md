@@ -36,6 +36,7 @@ messages and the checks of [generate.py](../generate.py);
 | 11 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 12 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 13 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 14 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -205,6 +206,15 @@ Book 13 (verses 772–778) was drafted in one batch. A gloss not in the
 commentary was dropped (*Rhytieus* as "from Rhytion"), and a held word
 said twice to be waiting (*atrocem*) and a group of three held words
 were reduced.
+
+Book 14 (verses 779–789) was drafted in two batches. In the second the
+model asked for the first time while drafting, twice: whether the
+commentary identifies Acamas, Boeotia, Peneleus and Priam's youth, and
+how to end a section on *atrocis*, whose noun comes in the next line.
+Its proposed sentences needed only small changes. The corrections of
+the book were few: *iuuenemque* split into *-que* and *iuuenem*,
+*Boeotumque* taken as the Boeotians rather than the adjective of
+*Promachum*, and an identification of Xanthus the commentary makes.
 
 ## Files
 
