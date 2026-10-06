@@ -40,6 +40,7 @@ messages and the checks of [generate.py](../generate.py);
 | 15 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 16 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 | 17 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
+| 18 | Gemini 3.8 Flash (Antigravity CLI) | — | Claude Opus 5.5 |
 
 The raw output of each batch is committed before its corrections.
 
@@ -238,6 +239,18 @@ Book 17 (verses 836–838), a single section, was drafted in one batch
 and needed two corrections of a word each: the body, not Patroclus, as
 what Ajax covers, and *Danai* named rather than brought in as a
 pronoun.
+
+Book 18 (verses 839–891) was drafted in three batches, without
+questions, and its Guessed lists were again read right. One run-on was
+missed: line 875 ends without a full stop and its objects go on in the
+next section. In Achilles' threat (850–853) the one addressed was
+called Hector before the vocative named him, and the group held four
+words. Most corrections were of the plain forms: proper names
+"called" rather than "named" through the gods and stars of the shield,
+nouns "named" rather than "as", time words as "A time is set", and
+plural verbs before their subjects as "Some ...". The damaged *poesis*
+of line 890 was brought in as a word that makes no sense, as the
+commentary says.
 
 ## Files
 
